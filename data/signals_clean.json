@@ -1,0 +1,3684 @@
+{
+  "meta": {
+    "generatedAt": "2026-02-13T20:15:25.867Z",
+    "window": {
+      "hotHours": 48,
+      "weekDays": 7
+    },
+    "counts": {
+      "in": 148,
+      "deduped": 148,
+      "out": 148
+    }
+  },
+  "tweets": [
+    {
+      "id": "1995850656566112738",
+      "createdAt": "2025-12-02T13:40:52.000Z",
+      "created_at": "2025-12-02 08:40:52 -05:00",
+      "created_at_ms": 1764682852000,
+      "created_at_iso": "2025-12-02T13:40:52.000Z",
+      "handle": "Matty_Solana",
+      "text": "Honored by this. 1:400 unlocked, now it’s time to turn it into a breakout.\n\nBack to work.",
+      "link": "https://twitter.com/Matty_Solana/status/1995850656566112738",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/1995850656566112738"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 3,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2017310815527850100",
+      "createdAt": "2026-01-30T18:55:52.000Z",
+      "created_at": "2026-01-30 13:55:52 -05:00",
+      "created_at_ms": 1769799352000,
+      "created_at_iso": "2026-01-30T18:55:52.000Z",
+      "handle": "cobotgg",
+      "text": "RT @virtuals_io: Virtuals Protocol has integrated ERC-8004 in production to help make @ethereum the coordination layer for AI agents. \n\nERC…",
+      "link": "https://twitter.com/cobotgg/status/2017310815527850100",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@virtuals_io",
+          "@ethereum"
+        ],
+        "urls": [
+          "https://t.co/L3h2P9mSBf",
+          "https://twitter.com/cobotgg/status/2017310815527850100"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2018399452277702708",
+      "createdAt": "2026-02-02T19:01:44.000Z",
+      "created_at": "2026-02-02 14:01:44 -05:00",
+      "created_at_ms": 1770058904000,
+      "created_at_iso": "2026-02-02T19:01:44.000Z",
+      "handle": "cobotgg",
+      "text": "Introducing Cobot Arc, Privacy-preserving prediction markets & AI agents on @solana , powered by @dflow @Kalshi \n\nThe problem? Every trade you make is public. Your wallet = your identity. Your positions = your alpha leaked.\n\nWe built something different for the Solana Privacy Hackathon🧵👇\n\n@solana  @toly @SolanaFndn @mert @catmcgee @GuiBibeau @dev_jodee @metasal @mikemaccana @aesmonty @jacobvcreech @mattyklein_ @superteam @SuperteamIN",
+      "link": "https://twitter.com/cobotgg/status/2018399452277702708",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solana",
+          "@dflow",
+          "@kalshi",
+          "@solana",
+          "@toly",
+          "@solanafndn",
+          "@mert",
+          "@catmcgee",
+          "@guibibeau",
+          "@dev_jodee",
+          "@metasal",
+          "@mikemaccana",
+          "@aesmonty",
+          "@jacobvcreech",
+          "@mattyklein_",
+          "@superteam",
+          "@superteamin"
+        ],
+        "urls": [
+          "https://t.co/gYBXfol9v3",
+          "https://twitter.com/cobotgg/status/2018399452277702708"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 11,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2018399485676933382",
+      "createdAt": "2026-02-02T19:01:52.000Z",
+      "created_at": "2026-02-02 14:01:52 -05:00",
+      "created_at_ms": 1770058912000,
+      "created_at_iso": "2026-02-02T19:01:52.000Z",
+      "handle": "cobotgg",
+      "text": "Other Infrastructure  \n\n⚡ @heliuslabs  Primary RPC  \n⚡ @Quicknode @Alchemy   Failover RPC \n📈 @dflow  -  Prediction market access\n🔗 @phantom  - Wallet integration",
+      "link": "https://twitter.com/cobotgg/status/2018399485676933382",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@heliuslabs",
+          "@quicknode",
+          "@alchemy",
+          "@dflow",
+          "@phantom"
+        ],
+        "urls": [
+          "https://twitter.com/cobotgg/status/2018399485676933382"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2018399488285856031",
+      "createdAt": "2026-02-02T19:01:52.000Z",
+      "created_at": "2026-02-02 14:01:52 -05:00",
+      "created_at_ms": 1770058912000,
+      "created_at_iso": "2026-02-02T19:01:52.000Z",
+      "handle": "cobotgg",
+      "text": "We believe prediction markets are the future of information. But they only work if people aren't afraid to participate.\n\nCobot removes that fear. Trade what you know. Keep what you learn. Privacy isn't about hiding. It's about freedom.\n\nTry cobot : https://t.co/H971KvsyOB\n\nSubmission: https://t.co/GqzxIRQCf7",
+      "link": "https://twitter.com/cobotgg/status/2018399488285856031",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/H971KvsyOB",
+          "https://t.co/GqzxIRQCf7",
+          "https://cobot.gg/",
+          "https://twitter.com/cobotgg/status/2018399488285856031"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2018641126388011084",
+      "createdAt": "2026-02-03T11:02:03.000Z",
+      "created_at": "2026-02-03 06:02:03 -05:00",
+      "created_at_ms": 1770116523000,
+      "created_at_iso": "2026-02-03T11:02:03.000Z",
+      "handle": "armaniferrante",
+      "text": ".@Backpack Milan 🎒🇮🇹🔥🔥🔥 https://t.co/xMXcOt2R1L",
+      "link": "https://twitter.com/armaniferrante/status/2018641126388011084",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@backpack"
+        ],
+        "urls": [
+          "https://t.co/xMXcOt2R1L",
+          "https://twitter.com/armaniferrante/status/2018641126388011084"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2018863518628610196",
+      "createdAt": "2026-02-04T01:45:46.000Z",
+      "created_at": "2026-02-03 20:45:46 -05:00",
+      "created_at_ms": 1770169546000,
+      "created_at_iso": "2026-02-04T01:45:46.000Z",
+      "handle": "armaniferrante",
+      "text": "RT @toly: #NewProfilePic https://t.co/DXVU4Wc30g",
+      "link": "https://twitter.com/armaniferrante/status/2018863518628610196",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@toly"
+        ],
+        "urls": [
+          "https://t.co/DXVU4Wc30g",
+          "https://twitter.com/armaniferrante/status/2018863518628610196"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2018921917961613422",
+      "createdAt": "2026-02-04T05:37:49.000Z",
+      "created_at": "2026-02-04 00:37:49 -05:00",
+      "created_at_ms": 1770183469000,
+      "created_at_iso": "2026-02-04T05:37:49.000Z",
+      "handle": "solana_devs",
+      "text": "Send your agent to the arena",
+      "link": "https://twitter.com/solana_devs/status/2018921917961613422",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/solana_devs/status/2018921917961613422"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2018956068811055255",
+      "createdAt": "2026-02-04T07:53:31.000Z",
+      "created_at": "2026-02-04 02:53:31 -05:00",
+      "created_at_ms": 1770191611000,
+      "created_at_iso": "2026-02-04T07:53:31.000Z",
+      "handle": "Matty_Solana",
+      "text": "Told my Clawdbot to read the charts and draw me the next move.\n\nThis is what it sent me. 💀 https://t.co/HoLyBLj572",
+      "link": "https://twitter.com/Matty_Solana/status/2018956068811055255",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/HoLyBLj572",
+          "https://twitter.com/Matty_Solana/status/2018956068811055255"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019030743465525545",
+      "createdAt": "2026-02-04T12:50:15.000Z",
+      "created_at": "2026-02-04 07:50:15 -05:00",
+      "created_at_ms": 1770209415000,
+      "created_at_iso": "2026-02-04T12:50:15.000Z",
+      "handle": "Matty_Solana",
+      "text": "RT @WIDITDOTFUN: Seeker Szn goes on. 📱 \n\nSKR Campaign #3 is live. 🔥 \n\nAnother 50,000 SKR goes to everyone copying @BoredElonMusk 's new poo…",
+      "link": "https://twitter.com/Matty_Solana/status/2019030743465525545",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@widitdotfun",
+          "@boredelonmusk"
+        ],
+        "urls": [
+          "https://t.co/juEPm1ttP1",
+          "https://twitter.com/Matty_Solana/status/2019030743465525545"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019033874899300757",
+      "createdAt": "2026-02-04T13:02:42.000Z",
+      "created_at": "2026-02-04 08:02:42 -05:00",
+      "created_at_ms": 1770210162000,
+      "created_at_iso": "2026-02-04T13:02:42.000Z",
+      "handle": "Matty_Solana",
+      "text": "50,000 SKR waiting on Bored’s pool.\n\nMy pool is already full, you don’t wanna miss his.\n\nFewer copiers means a higher SKR reward for each copier.",
+      "link": "https://twitter.com/Matty_Solana/status/2019033874899300757",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/2019033874899300757"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019038228049961395",
+      "createdAt": "2026-02-04T13:20:00.000Z",
+      "created_at": "2026-02-04 08:20:00 -05:00",
+      "created_at_ms": 1770211200000,
+      "created_at_iso": "2026-02-04T13:20:00.000Z",
+      "handle": "Matty_Solana",
+      "text": "Red days are temporary.\n\nWhat you build lasts.",
+      "link": "https://twitter.com/Matty_Solana/status/2019038228049961395",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/2019038228049961395"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019040652630069531",
+      "createdAt": "2026-02-04T13:29:38.000Z",
+      "created_at": "2026-02-04 08:29:38 -05:00",
+      "created_at_ms": 1770211778000,
+      "created_at_iso": "2026-02-04T13:29:38.000Z",
+      "handle": "armaniferrante",
+      "text": "There's so much that has come out of the rollup centric roadmap, but it's this closing statement that sticks out to me the most.\n\n> This of course means that some will add things that are trust-dependent, or backdoored, or otherwise insecure; this is unavoidable in a permissionless ecosystem where developers have freedom. Our job should make to make it clear to users what guarantees they have\n\nOne of the biggest consequences of rollups is how they have normalized dishonest marketing, sweeping risk under the rug in the name of Ethereum alignment and decentralization. This isn't an inherent issue with rollups. They don't *have* to have operator risk--and some don't--but most do. And it's the widespread acceptance of this that has fundamentally changed the discourse on CT, affecting not just L2s, but opening the door for L1s and smart contracts to follow suit just to keep up.\n\nCrypto used to police itself through rigorous and radical intellectual honesty. If you were centralized in any meaningful way, you used to be expected to be clear about that. Centralization isn't inherently bad. It's a tradeoff, but one to be honest about. (I say this as someone building a centralized product.) \n\nWhere things go wrong, and where things have gone wrong, is when decentralization becomes a marketing gimmick, smoke and mirrors applied to anything crypto related just to fit into some type of box. It's time to undo that moral decay and expect more from the industry.\n\nVitalik really is the best of crypto. He's the reason I got into the space, and his sober reflection is yet another example of how great of a leader he is. With him on the timeline, Ethereum, and crypto in general, is in good hands.",
+      "link": "https://twitter.com/armaniferrante/status/2019040652630069531",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/armaniferrante/status/2019040652630069531"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019093448410976458",
+      "createdAt": "2026-02-04T16:59:25.000Z",
+      "created_at": "2026-02-04 11:59:25 -05:00",
+      "created_at_ms": 1770224365000,
+      "created_at_iso": "2026-02-04T16:59:25.000Z",
+      "handle": "Matty_Solana",
+      "text": "RT @toly: .@solanamobile is a special place right now.  There is just enough interest and not enough noise for early stage founders to get…",
+      "link": "https://twitter.com/Matty_Solana/status/2019093448410976458",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@toly",
+          "@solanamobile"
+        ],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/2019093448410976458"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019421941095100869",
+      "createdAt": "2026-02-05T14:44:44.000Z",
+      "created_at": "2026-02-05 09:44:44 -05:00",
+      "created_at_ms": 1770302684000,
+      "created_at_iso": "2026-02-05T14:44:44.000Z",
+      "handle": "Matty_Solana",
+      "text": "RT @WIDITDOTFUN: Check your WIDI wallets 🔥\n\n50,133 SKR distributed to all copiers of @Matty_Solana (100/100).\n\nIf you copied, you’re in.\nIf…",
+      "link": "https://twitter.com/Matty_Solana/status/2019421941095100869",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@widitdotfun",
+          "@matty_solana"
+        ],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/2019421941095100869"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019423427493515743",
+      "createdAt": "2026-02-05T14:50:38.000Z",
+      "created_at": "2026-02-05 09:50:38 -05:00",
+      "created_at_ms": 1770303038000,
+      "created_at_iso": "2026-02-05T14:50:38.000Z",
+      "handle": "armaniferrante",
+      "text": "What should we list next?",
+      "link": "https://twitter.com/armaniferrante/status/2019423427493515743",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/armaniferrante/status/2019423427493515743"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019437725737525525",
+      "createdAt": "2026-02-05T15:47:27.000Z",
+      "created_at": "2026-02-05 10:47:27 -05:00",
+      "created_at_ms": 1770306447000,
+      "created_at_iso": "2026-02-05T15:47:27.000Z",
+      "handle": "armaniferrante",
+      "text": "Thinking of doing a @Backpack brand refresh and the team sends me an image from this year's Armani winter line. Directionally correct. https://t.co/2fztNk0tWL",
+      "link": "https://twitter.com/armaniferrante/status/2019437725737525525",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@backpack"
+        ],
+        "urls": [
+          "https://t.co/2fztNk0tWL",
+          "https://twitter.com/armaniferrante/status/2019437725737525525"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019438116986347919",
+      "createdAt": "2026-02-05T15:49:01.000Z",
+      "created_at": "2026-02-05 10:49:01 -05:00",
+      "created_at_ms": 1770306541000,
+      "created_at_iso": "2026-02-05T15:49:01.000Z",
+      "handle": "armaniferrante",
+      "text": "@Backpack Unfortunately, someone also sent me Dior and I'll have to bring that up in next semester's performance review.",
+      "link": "https://twitter.com/armaniferrante/status/2019438116986347919",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@backpack"
+        ],
+        "urls": [
+          "https://twitter.com/armaniferrante/status/2019438116986347919"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019478262435479645",
+      "createdAt": "2026-02-05T18:28:32.000Z",
+      "created_at": "2026-02-05 13:28:32 -05:00",
+      "created_at_ms": 1770316112000,
+      "created_at_iso": "2026-02-05T18:28:32.000Z",
+      "handle": "cobotgg",
+      "text": "Excited to launch Autonomous @Polymarket  and @Kalshi @dflow  farming agents 🚀\n\nIn private beta, the agents have a 95% win rate, \nSetup autonomous agents now at https://t.co/R38F4Wb5zx\n\nCustom agents &amp; Strategy builder launching soon https://t.co/y8i96GvuGl",
+      "link": "https://twitter.com/cobotgg/status/2019478262435479645",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@polymarket",
+          "@kalshi",
+          "@dflow"
+        ],
+        "urls": [
+          "https://t.co/R38F4Wb5zx",
+          "https://t.co/y8i96GvuGl",
+          "https://app.cobot.gg/",
+          "https://twitter.com/cobotgg/status/2019478262435479645"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019586310651146623",
+      "createdAt": "2026-02-06T01:37:53.000Z",
+      "created_at": "2026-02-05 20:37:53 -05:00",
+      "created_at_ms": 1770341873000,
+      "created_at_iso": "2026-02-06T01:37:53.000Z",
+      "handle": "gumsays",
+      "text": "In all honesty if $60K wasn't at least a local bottom before a 20% bounce something really deeply wrong has happened with some entities and it will be a difficult bear market",
+      "link": "https://twitter.com/gumsays/status/2019586310651146623",
+      "entities": {
+        "tickers": [
+          "$60K"
+        ],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/gumsays/status/2019586310651146623"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019594326431482160",
+      "createdAt": "2026-02-06T02:09:44.000Z",
+      "created_at": "2026-02-05 21:09:44 -05:00",
+      "created_at_ms": 1770343784000,
+      "created_at_iso": "2026-02-06T02:09:44.000Z",
+      "handle": "gumsays",
+      "text": "I was very scared of this crash\n\nMainly due to how it could cause bad debt and massive liquidations in DeFi\n\nHowever, when I looked at the data I saw @kamino processed tens of thousands of liquidations and millions of debt repaid  smoothly\n\nIt is truly the DeFi staple of @solana https://t.co/F8FfLGQWqE",
+      "link": "https://twitter.com/gumsays/status/2019594326431482160",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@kamino",
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/F8FfLGQWqE",
+          "https://twitter.com/gumsays/status/2019594326431482160"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 11,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019682781924925639",
+      "createdAt": "2026-02-06T08:01:13.000Z",
+      "created_at": "2026-02-06 03:01:13 -05:00",
+      "created_at_ms": 1770364873000,
+      "created_at_iso": "2026-02-06T08:01:13.000Z",
+      "handle": "gumsays",
+      "text": "RT @gumsays: Big launch by @phantom today\n\nThey are launching Prediction Markets for the Sunday Super Bowl event\n\n- Dedicated Live Chats\n-…",
+      "link": "https://twitter.com/gumsays/status/2019682781924925639",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@gumsays",
+          "@phantom"
+        ],
+        "urls": [
+          "https://twitter.com/gumsays/status/2019682781924925639"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019702914638569755",
+      "createdAt": "2026-02-06T09:21:13.000Z",
+      "created_at": "2026-02-06 04:21:13 -05:00",
+      "created_at_ms": 1770369673000,
+      "created_at_iso": "2026-02-06T09:21:13.000Z",
+      "handle": "Matty_Solana",
+      "text": "Dumping on your copiers like Cupsey is peak low IQ behavior.\n\nThey’d make way more $ just by using a simple profit-share model.\n\nI take a cut, my copiers print, I print.\nIt’s really not that hard brotha.\n\nUse WIDI or whatever, just stop nuking people and killing memes. https://t.co/9YfNrPMYiv",
+      "link": "https://twitter.com/Matty_Solana/status/2019702914638569755",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/9YfNrPMYiv",
+          "https://twitter.com/Matty_Solana/status/2019702914638569755"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 1,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019709464086200550",
+      "createdAt": "2026-02-06T09:47:15.000Z",
+      "created_at": "2026-02-06 04:47:15 -05:00",
+      "created_at_ms": 1770371235000,
+      "created_at_iso": "2026-02-06T09:47:15.000Z",
+      "handle": "Matty_Solana",
+      "text": "RT @WIDITDOTFUN: 🧠🧠🧠",
+      "link": "https://twitter.com/Matty_Solana/status/2019709464086200550",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@widitdotfun"
+        ],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/2019709464086200550"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019720233699750355",
+      "createdAt": "2026-02-06T10:30:02.000Z",
+      "created_at": "2026-02-06 05:30:02 -05:00",
+      "created_at_ms": 1770373802000,
+      "created_at_iso": "2026-02-06T10:30:02.000Z",
+      "handle": "gumsays",
+      "text": "> epstein is bitcoin's founder fud\n> ogs nonstop selling fud\n> bitcoin lost battle to gold, metals fud\n> quantum fud\n\n> speculation that the entity has finished forced selling, lots of clues provide evidence of a solid story\n> btc devs publicly fighting quantum fud & working on it\n> saylor has 2-3 years of cash reserves to pay dividends, avoid selling btc\n> strategy to initiate Bitcoin Security Program to coordinate with global cybersecurity and crypto\n> btc performance in fact highly correlated with tech-software sector\n> etf outflows have been very small given the crash\n> lots of leverage exited the system on the long side, is now extreme on the short side\n\nthe good is outshining the bad by a lot, there is room for a nice bounce to the 70s\n\nlots of people conditioned to short only now and that could fuel it",
+      "link": "https://twitter.com/gumsays/status/2019720233699750355",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/gumsays/status/2019720233699750355"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019728450849054725",
+      "createdAt": "2026-02-06T11:02:42.000Z",
+      "created_at": "2026-02-06 06:02:42 -05:00",
+      "created_at_ms": 1770375762000,
+      "created_at_iso": "2026-02-06T11:02:42.000Z",
+      "handle": "Matty_Solana",
+      "text": "RT @Fat_Electrician: Ah yes… the anonymous cryptography genius who built an untraceable, decentralized financial system that still hasn’t b…",
+      "link": "https://twitter.com/Matty_Solana/status/2019728450849054725",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@fat_electrician"
+        ],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/2019728450849054725"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019760219874591201",
+      "createdAt": "2026-02-06T13:08:56.000Z",
+      "created_at": "2026-02-06 08:08:56 -05:00",
+      "created_at_ms": 1770383336000,
+      "created_at_iso": "2026-02-06T13:08:56.000Z",
+      "handle": "gumsays",
+      "text": "I am officially building my first crypto product thanks to Claude",
+      "link": "https://twitter.com/gumsays/status/2019760219874591201",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/gumsays/status/2019760219874591201"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019813898065698871",
+      "createdAt": "2026-02-06T16:42:14.000Z",
+      "created_at": "2026-02-06 11:42:14 -05:00",
+      "created_at_ms": 1770396134000,
+      "created_at_iso": "2026-02-06T16:42:14.000Z",
+      "handle": "gumsays",
+      "text": "Bitcoin pumping almost as if the forced selling stopped right at multi year support\n\nHappy with my buys yesterday, did not have the guts to bid $60K but bought low 60s which is good enough",
+      "link": "https://twitter.com/gumsays/status/2019813898065698871",
+      "entities": {
+        "tickers": [
+          "$60K"
+        ],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/gumsays/status/2019813898065698871"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019818052356043048",
+      "createdAt": "2026-02-06T16:58:44.000Z",
+      "created_at": "2026-02-06 11:58:44 -05:00",
+      "created_at_ms": 1770397124000,
+      "created_at_iso": "2026-02-06T16:58:44.000Z",
+      "handle": "Matty_Solana",
+      "text": "RT @WIDITDOTFUN: 🔥 Footage from:\n\nReal-time predictor activity on @solana \n\n💢 Monitor it before anyone else.\n💢 Quick buy the highest win-ra…",
+      "link": "https://twitter.com/Matty_Solana/status/2019818052356043048",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@widitdotfun",
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/rDU2kzoKBI",
+          "https://twitter.com/Matty_Solana/status/2019818052356043048"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019829274908455127",
+      "createdAt": "2026-02-06T17:43:20.000Z",
+      "created_at": "2026-02-06 12:43:20 -05:00",
+      "created_at_ms": 1770399800000,
+      "created_at_iso": "2026-02-06T17:43:20.000Z",
+      "handle": "solana_devs",
+      "text": "RT @SolPlay_jonas: Do you want to make an easy 100k? \n\nJust create an agent and win the @solana Agent Hackathon! https://t.co/nW7eCMmfkK",
+      "link": "https://twitter.com/solana_devs/status/2019829274908455127",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solplay_jonas",
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/nW7eCMmfkK",
+          "https://twitter.com/solana_devs/status/2019829274908455127"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019862644572717221",
+      "createdAt": "2026-02-06T19:55:56.000Z",
+      "created_at": "2026-02-06 14:55:56 -05:00",
+      "created_at_ms": 1770407756000,
+      "created_at_iso": "2026-02-06T19:55:56.000Z",
+      "handle": "gumsays",
+      "text": "EVERYTHING CRASHED over 20% yesterday\n\nMy AI auto trader portfolio was down 1% this morning\n\n@MiloOnChains showed an ability to avoid large losses on bad days\n\nHave been making a lot of good changes to my instructions\n\nGo check them out, add 1 SOL and play around! https://t.co/tqYKXfh7Ta",
+      "link": "https://twitter.com/gumsays/status/2019862644572717221",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@miloonchains"
+        ],
+        "urls": [
+          "https://t.co/tqYKXfh7Ta",
+          "https://twitter.com/gumsays/status/2019862644572717221"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 5,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2019914586997109193",
+      "createdAt": "2026-02-06T23:22:20.000Z",
+      "created_at": "2026-02-06 18:22:20 -05:00",
+      "created_at_ms": 1770420140000,
+      "created_at_iso": "2026-02-06T23:22:20.000Z",
+      "handle": "gumsays",
+      "text": "If you caught $60K-$64K BTC yesterday like I did the best thing to do is have a plan - you have this weekend to do it\n\nI sold what I bought yesterday at ~$70K today, still holding my underwater BTC / would likely sell if we got close to $80K as I've been able to reduce my average a lot since yesterday\n\nThinking of buying the dip if we get a mini nuke this weekend as it would trigger buys from ETFs on Monday due to how well BTC recovered from the flash crash today\n\nNo matter what happened, this dump was too damaging to too many people and we have to accept the possibility of crypto taking its time before jumping back to the spotlight\n\nLots to do, lots to plan, have a great weekend",
+      "link": "https://twitter.com/gumsays/status/2019914586997109193",
+      "entities": {
+        "tickers": [
+          "$60K",
+          "$64K",
+          "$70K",
+          "$80K"
+        ],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/gumsays/status/2019914586997109193"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020010105467728039",
+      "createdAt": "2026-02-07T05:41:53.000Z",
+      "created_at": "2026-02-07 00:41:53 -05:00",
+      "created_at_ms": 1770442913000,
+      "created_at_iso": "2026-02-07T05:41:53.000Z",
+      "handle": "armaniferrante",
+      "text": "The work being done at @anza_xyz is nothing short of a world wonder of modern computing",
+      "link": "https://twitter.com/armaniferrante/status/2020010105467728039",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@anza_xyz"
+        ],
+        "urls": [
+          "https://twitter.com/armaniferrante/status/2020010105467728039"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020068184242676212",
+      "createdAt": "2026-02-07T09:32:40.000Z",
+      "created_at": "2026-02-07 04:32:40 -05:00",
+      "created_at_ms": 1770456760000,
+      "created_at_iso": "2026-02-07T09:32:40.000Z",
+      "handle": "Matty_Solana",
+      "text": "Check list, gud list.\n\nPlenty of apps on @solanamobile handing out rewards.\n\nIf you’re looking for the biggest SKR rewards on Seeker rn, that’s WIDI. 🤝 https://t.co/lpja9m8dbK",
+      "link": "https://twitter.com/Matty_Solana/status/2020068184242676212",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solanamobile"
+        ],
+        "urls": [
+          "https://t.co/lpja9m8dbK",
+          "https://twitter.com/Matty_Solana/status/2020068184242676212"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 6,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020113946624082428",
+      "createdAt": "2026-02-07T12:34:31.000Z",
+      "created_at": "2026-02-07 07:34:31 -05:00",
+      "created_at_ms": 1770467671000,
+      "created_at_iso": "2026-02-07T12:34:31.000Z",
+      "handle": "armaniferrante",
+      "text": "RT @scemgtfo: Attended the Backpack Wallet Meetup in Taipei today 🇹🇼\n\nJust finished listening to @armaniferrante share his vision for crypt…",
+      "link": "https://twitter.com/armaniferrante/status/2020113946624082428",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@scemgtfo",
+          "@armaniferrante"
+        ],
+        "urls": [
+          "https://t.co/4fxXtyBzL1",
+          "https://twitter.com/armaniferrante/status/2020113946624082428"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020144967260217624",
+      "createdAt": "2026-02-07T14:37:47.000Z",
+      "created_at": "2026-02-07 09:37:47 -05:00",
+      "created_at_ms": 1770475067000,
+      "created_at_iso": "2026-02-07T14:37:47.000Z",
+      "handle": "solana_devs",
+      "text": "RT @decentra1ized_: @solana_devs in Korea are cooking 👀 https://t.co/AFm4GoR8yN",
+      "link": "https://twitter.com/solana_devs/status/2020144967260217624",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@decentra1ized_",
+          "@solana_devs"
+        ],
+        "urls": [
+          "https://t.co/AFm4GoR8yN",
+          "https://twitter.com/solana_devs/status/2020144967260217624"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020475808058327290",
+      "createdAt": "2026-02-08T12:32:25.000Z",
+      "created_at": "2026-02-08 07:32:25 -05:00",
+      "created_at_ms": 1770553945000,
+      "created_at_iso": "2026-02-08T12:32:25.000Z",
+      "handle": "gumsays",
+      "text": "Can't stress how important this is for Bitcoin to close the weekly above or at the '21 ATH level\n\nThe current status favours bulls more than bears given how aggressive/quick the crash was\n\nShorts are now accustomed to shorting every bounce and that could blow up in their faces https://t.co/mN9x7xHKTz",
+      "link": "https://twitter.com/gumsays/status/2020475808058327290",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/mN9x7xHKTz",
+          "https://twitter.com/gumsays/status/2020475808058327290"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020481955985592395",
+      "createdAt": "2026-02-08T12:56:51.000Z",
+      "created_at": "2026-02-08 07:56:51 -05:00",
+      "created_at_ms": 1770555411000,
+      "created_at_iso": "2026-02-08T12:56:51.000Z",
+      "handle": "armaniferrante",
+      "text": "RT @SenseiSOL: Yesterday, we had a meeting with the largest point holders in Spain, organized by @Backpack and @_mikel with @Im_Snorlax_ he…",
+      "link": "https://twitter.com/armaniferrante/status/2020481955985592395",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@senseisol",
+          "@backpack",
+          "@_mikel",
+          "@im_snorlax_"
+        ],
+        "urls": [
+          "https://t.co/rtGqTQJrjP",
+          "https://twitter.com/armaniferrante/status/2020481955985592395"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020578758537916845",
+      "createdAt": "2026-02-08T19:21:31.000Z",
+      "created_at": "2026-02-08 14:21:31 -05:00",
+      "created_at_ms": 1770578491000,
+      "created_at_iso": "2026-02-08T19:21:31.000Z",
+      "handle": "solana_devs",
+      "text": "RT @b_migliaccio: Looking how to participate in the @solana hackathon? \n\nHere's an example of how to create a trading bot on solana very ea…",
+      "link": "https://twitter.com/solana_devs/status/2020578758537916845",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@b_migliaccio",
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/G0QhxOW4uA",
+          "https://twitter.com/solana_devs/status/2020578758537916845"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020627318323167716",
+      "createdAt": "2026-02-08T22:34:28.000Z",
+      "created_at": "2026-02-08 17:34:28 -05:00",
+      "created_at_ms": 1770590068000,
+      "created_at_iso": "2026-02-08T22:34:28.000Z",
+      "handle": "gumsays",
+      "text": "Unironically think the next Bitcoin & crypto bull cycle will be one of the biggest\n\nCrypto users are some of the most curious, proactive, fast learners in the world\n\nMost of them simply didn't have the knowledge/tools to build anything and with AI they'll fix existing problems and create incredible use cases for the industry",
+      "link": "https://twitter.com/gumsays/status/2020627318323167716",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/gumsays/status/2020627318323167716"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020732210245197979",
+      "createdAt": "2026-02-09T05:31:16.000Z",
+      "created_at": "2026-02-09 00:31:16 -05:00",
+      "created_at_ms": 1770615076000,
+      "created_at_iso": "2026-02-09T05:31:16.000Z",
+      "handle": "armaniferrante",
+      "text": "RT @Backpack: The ticker is",
+      "link": "https://twitter.com/armaniferrante/status/2020732210245197979",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@backpack"
+        ],
+        "urls": [
+          "https://twitter.com/armaniferrante/status/2020732210245197979"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020863914918158535",
+      "createdAt": "2026-02-09T14:14:37.000Z",
+      "created_at": "2026-02-09 09:14:37 -05:00",
+      "created_at_ms": 1770646477000,
+      "created_at_iso": "2026-02-09T14:14:37.000Z",
+      "handle": "armaniferrante",
+      "text": "In the Backpack tokenomics, we have one guiding principle.\n\n- Insiders \"dumping on retail\" should be impossible: no founder, executive, employee, or venture investor should receive wealth from the token until the product hits escape velocity.\n\nOf course it begs the question, what does it mean to \"hit escape velocity\". Every project is different, and it's impossible to generalize. For Backpack, the answer is clear: we want to IPO in the USA. Going public might happen quickly, it might happen not so quickly, and in fact, it might not happen at all. In any case, we're going for it.\n\nBut before going public, we have to grow--a lot. The odd thing about Backpack's growth over the past year--and in fact one of the things that makes Backpack so different from basically every token project in crypto--is that, today, Backpack Exchange only serves about 48% of the world. We've been very slow, very intentional about opening up our product to the world, ensuring that we have every \"i\" dotted and ever \"t\" crossed as a regulated financial institution. Growth that sometimes feels like running with a parachute, but we are happy to take the long path, because it's precisely that parachute that will allow us to fly.\n\nFor those that don't know us, the reason for this is simple. Backpack is trying to not only build great crypto products, but we're also trying to build great TradFi products. We're trying to not only give our users access to every crypto asset, every blockchain, and every decentralized application, but we're also getting banking rails around the world, USD client money accounts in the USA, EUR in the EU, JPY in Japan--every currency on every major payment network you can imagine. We're trying to build a great securities product, whether that's getting access to your favorite stocks in a traditional brokerage or bidding on primary shares of a company about to go public on NASDAQ. We want to serve not only retail users worldwide, but we want to serve regulated products for regulated counterparties and regulated institutions around the world. All of this takes an enormous amount of time, effort, blood, sweat, and tears. We've been working on this for over three years at this point, laying an international foundation for the company and for the product slowly but surely, brick by brick. If we're lucky, we'll spend a lifetime.\n\nWhat this all means is that, in the most literal sense--and I know this sounds silly--we're just getting started.  We still have half the world to open up into. We still have some of our most exciting products to launch. And this leads to our next guiding principle in our tokenomics.\n\n- Liquid tokens should exclusively go to users, fueling growth triggered by key product milestones.\n\nEvery time we open up a new region, every time we launch a new product, that's an opportunity to grow. Open up EU => grow. Open up Japan => grow. Open up the USA => grow. Open up predictions => grow. Open up stocks => grow. Open up card => grow. Like gasoline onto a fire, the token serves to continuously kickstart new markets in the same way points kickstarted Seasons 1-4.\n\nWith every growth lever we pull, tokens unlock in a predictable way to users, bringing in a new wave of token holders, growing the community, and allowing the product to soar to new heights. The objective constraint for this to work is precise: the value of added growth created by new token unlocks must always be greater than the dilution of those unlocks. As long as that condition holds, we can continue to unlock tokens direct to our most active users, growing along the way.\n\nLast but not least is the question:\n\nOk so if all the liquid tokens are going to users, then what about the team? How exactly do you remain incentive aligned while ensuring the team cannot unlock, dump on retail, and become enormously wealthy without building something great?\n\nAnd the answer is simple: not a single founder, executive, team member, or venture investor has been given a direct token allocation. \n\nThe entire \"team allocation\" sits in a \"corporate treasury\", i.e. on the balance sheet of the Backpack company--locked until at least one year post IPO. The team owns equity in the company, and the company owns a large percent of the token supply. It's not until the company goes public (or has some other type of equity exit event), that the team can earn any wealth from the project. It's not until the company has access to the largest, most liquid capital markets in the world by going public--and it's not until the company has done all the hard work to earn access to those markets--that the team can reap the rewards of the value created by the Backpack community from now until then. \n\nWe either go big, or we go home.",
+      "link": "https://twitter.com/armaniferrante/status/2020863914918158535",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/armaniferrante/status/2020863914918158535"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020865732377014468",
+      "createdAt": "2026-02-09T14:21:51.000Z",
+      "created_at": "2026-02-09 09:21:51 -05:00",
+      "created_at_ms": 1770646911000,
+      "created_at_iso": "2026-02-09T14:21:51.000Z",
+      "handle": "armaniferrante",
+      "text": "Note: there's a lot more to impact here that requires understanding the token utility. Stay tuned. The utility breakdown is coming next!",
+      "link": "https://twitter.com/armaniferrante/status/2020865732377014468",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/armaniferrante/status/2020865732377014468"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 1,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020903942092206499",
+      "createdAt": "2026-02-09T16:53:41.000Z",
+      "created_at": "2026-02-09 11:53:41 -05:00",
+      "created_at_ms": 1770656021000,
+      "created_at_iso": "2026-02-09T16:53:41.000Z",
+      "handle": "Matty_Solana",
+      "text": "New Chapter for WIDI begins now.\n\nRebranding ahead & sunsetting $WIDI\n\nTL;DR\n\n$WIDI will no longer be the core token across our products. \n\nOur app, existing & upcoming products, team, roadmap, and long-term vision remain fully active.\n\nTo stay aligned with what’s next, our community can burn their $WIDI tokens to be considered for future allocations.\n\nBurn deadline: February 20, 2026\nBurn link: https://t.co/Hxow6hdxao\n\nWHY?\n\nOver time, we reached a clear and honest conclusion:\n\nWe couldn’t define token utility in a way that genuinely reflected the real value of our products.\nAs a result, the token’s market dynamics and our product progress started to diverge and we don’t believe that’s healthy for builders or for the community.\n\nWIDI has never been about short-term narratives or token-first decisions.\nIt’s always been about shipping, iterating fast, and building long-term on Solana.\n\nWe’re entering a bigger phase fully focused on DEFAI starting with our upcoming prediction markets & AI integrations.\n\nTo do that right, we’re moving toward a cleaner, more flexible capital structure giving us full optionality to stay bootstrapped, raise strategically, or explore acquisitions after the rebrand.\n\nBurning your tokens keeps you eligible for future allocations tied to what comes next.\n\nThis update is about alignment.\n\nWHAT WE'VE DONE SO FAR?\n\nBefore & since the launch of $WIDI, we’ve:\n- Received over-limit grants from Solana Foundation\n- Led Blinks ecosystem with our first of its kind tools\n- Built an App on Seeker and shipped real products with thousands of active users, generating over $2M in in-app volume so far. (actively being used)\n- Airdropped to multiple Solana communities, starting with Seeker holders\n- Reached sustainable revenue levels that cover our operational costs\n\nWHAT'S CHANGING?\n\n- All existing products, App will continue to be developed, nothing changes\n- $WIDI will no longer have product-level utility and won’t be the core token of our ecosystem\n- We’re moving forward with a rebrand (details soon)\n\nNew products are coming, starting with prediction markets (launching this week)\n\nOur focus remains 100% on WIDI.\n\nThis is not a f. step back.\nThis is us doubling down. 🤝\n\nLOYALTY MATTERS\n\nWe deeply care about our loyal holders and believers.\nWe couldn’t have come this far without them.\n\nThis applies to anything we launch going forward.\nTo remain part of the WIDI ecosystem and be considered for future opportunities, holders may choose to burn their $WIDI tokens.\n\nBurned tokens will be tracked via an on-chain snapshot of participating wallets.\n\nThis snapshot may be used for potential future allocations, including:\n- Equity considerations\n- Strategic upside from fundraising or acquisition scenarios\n- Potential token distribution\n\nImportant notes:\n\n- Allocation size (X%) will depend entirely on future capital structure\n- More burned = higher proportional consideration\n- If you’re not a holder yet, purchasing and burning tokens before the deadline will also make you eligible.\n- Long-time holders who participate in the burn will receive additional benefits, as a recognition of their early support.\n- Even if you choose not to participate in the burn, $WIDI will remain freely tradable on Solana through permanently locked liquidity pools.\n\nThe foundation will wind down its treasury (roughly 40%, including vested supply) and will be excluded from community burns, ensuring this allocation remains fully non-dilutive.\n\nAdditionally, our Telegram General channel will remain active.\nAll official updates and announcements will be shared on our X & Telegram both as always.\n\nMy DMs, my team’s DMs, and our support channel’s DMs are always open for any questions, collaborations, suggestions, or support related to our app and products.\n\nToken Burn deadline: February 20, 2026\n\nAlso, affiliate badges on X will be reviewed and updated.\n- Badges will remain for active leaders using the app\n- Core team members will continue to hold their badges\n- Inactive or no-longer-aligned affiliate badges will be removed\n\nWHAT'S NEXT?\n\nAfter the rebrand, WIDI may:\n- Raise capital from angels or VCs\n- Explore strategic acquisition opportunities\nor continue fully bootstrapped\n\nThe exact path will depend on what best serves the long-term vision.\n\nExpect more announcements soon👀\n\nOur promise going forward\n\nWe’ll continue to be:\n- One of the fastest-moving teams in DeFi × AI\n- Deeply rooted in Solana\n- Focused on building innovative products\n- We’ll keep adapting, iterating, improving existing apps, and shipping new ones.\n\nThis update is only about the token.\nOur commitment to building and to the ecosystem is stronger than ever.\n\nWe’re not done.\nWe’re just more focused.\n\nTeam WIDI 🤝",
+      "link": "https://twitter.com/Matty_Solana/status/2020903942092206499",
+      "entities": {
+        "tickers": [
+          "$WIDI",
+          "$WIDI",
+          "$WIDI",
+          "$WIDI",
+          "$2M",
+          "$WIDI",
+          "$WIDI",
+          "$WIDI"
+        ],
+        "handles": [],
+        "urls": [
+          "https://t.co/Hxow6hdxao",
+          "https://twitter.com/Matty_Solana/status/2020903942092206499"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 13,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020911583623328226",
+      "createdAt": "2026-02-09T17:24:02.000Z",
+      "created_at": "2026-02-09 12:24:02 -05:00",
+      "created_at_ms": 1770657842000,
+      "created_at_iso": "2026-02-09T17:24:02.000Z",
+      "handle": "Matty_Solana",
+      "text": "Having an opinion is free.\n\nPrediction markets are where you lose for being wrong.\n\nThat’s exactly why:\nYou’ll monitor &amp; track the best predictors on Solana.\n\nOnly on @WIDITDOTFUN. 🔜 https://t.co/E4G3L88DWl",
+      "link": "https://twitter.com/Matty_Solana/status/2020911583623328226",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@widitdotfun"
+        ],
+        "urls": [
+          "https://t.co/E4G3L88DWl",
+          "https://twitter.com/Matty_Solana/status/2020911583623328226"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020917008871850020",
+      "createdAt": "2026-02-09T17:45:36.000Z",
+      "created_at": "2026-02-09 12:45:36 -05:00",
+      "created_at_ms": 1770659136000,
+      "created_at_iso": "2026-02-09T17:45:36.000Z",
+      "handle": "cobotgg",
+      "text": "Privacy mode on @cobotgg is now in private beta. \nWe built this for the @solana privacy hack to build Privacy-preserving prediction markets & AI agents,  powered by @dflow @Kalshi \n\n@solana  @toly @SolanaFndn  @mert @catmcgee @GuiBibeau @dev_jodee @metasal @mikemaccana @aesmonty @jacobvcreech @mattyklein_ @superteam \n@SuperteamIN",
+      "link": "https://twitter.com/cobotgg/status/2020917008871850020",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@cobotgg",
+          "@solana",
+          "@dflow",
+          "@kalshi",
+          "@solana",
+          "@toly",
+          "@solanafndn",
+          "@mert",
+          "@catmcgee",
+          "@guibibeau",
+          "@dev_jodee",
+          "@metasal",
+          "@mikemaccana",
+          "@aesmonty",
+          "@jacobvcreech",
+          "@mattyklein_",
+          "@superteam",
+          "@superteamin"
+        ],
+        "urls": [
+          "https://t.co/QrZ0g0e8Sp",
+          "https://twitter.com/cobotgg/status/2020917008871850020"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2020976514591084610",
+      "createdAt": "2026-02-09T21:42:03.000Z",
+      "created_at": "2026-02-09 16:42:03 -05:00",
+      "created_at_ms": 1770673323000,
+      "created_at_iso": "2026-02-09T21:42:03.000Z",
+      "handle": "gumsays",
+      "text": "The insane price action of the last 3 weeks was exhausting \n\nIf you can do one thing while Bitcoin works on finding a floor, it is to take 1-2 days off of price charts and crypto\n\nCome back with a fresh mind and open eyes and ears",
+      "link": "https://twitter.com/gumsays/status/2020976514591084610",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/gumsays/status/2020976514591084610"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021055297738121263",
+      "createdAt": "2026-02-10T02:55:07.000Z",
+      "created_at": "2026-02-09 21:55:07 -05:00",
+      "created_at_ms": 1770692107000,
+      "created_at_iso": "2026-02-10T02:55:07.000Z",
+      "handle": "armaniferrante",
+      "text": "RT @KevinWSHPod: Fantastic and deep conversation with the Goat behind @Backpack and @MadLads - @armaniferrante !\n\nOut soon on WSH 👊🏼👊🏼 http…",
+      "link": "https://twitter.com/armaniferrante/status/2021055297738121263",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@kevinwshpod",
+          "@backpack",
+          "@madlads",
+          "@armaniferrante"
+        ],
+        "urls": [
+          "https://t.co/Hn7CUyfBHM",
+          "https://twitter.com/armaniferrante/status/2021055297738121263"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021176485252366381",
+      "createdAt": "2026-02-10T10:56:40.000Z",
+      "created_at": "2026-02-10 05:56:40 -05:00",
+      "created_at_ms": 1770721000000,
+      "created_at_iso": "2026-02-10T10:56:40.000Z",
+      "handle": "gumsays",
+      "text": "Things you hate to see if you're bullish crypto..\n\nThe stablecoin market cap is the single most important indicator of sentiment in crypto\n\nThis is the biggest USDT burn I ever saw",
+      "link": "https://twitter.com/gumsays/status/2021176485252366381",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/gumsays/status/2021176485252366381"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021192720807522467",
+      "createdAt": "2026-02-10T12:01:11.000Z",
+      "created_at": "2026-02-10 07:01:11 -05:00",
+      "created_at_ms": 1770724871000,
+      "created_at_iso": "2026-02-10T12:01:11.000Z",
+      "handle": "Matty_Solana",
+      "text": "Working your ass off.\nSacrificing.\nHolding through hell.\nShowing up every day.\n\nThat’s what people call luck.",
+      "link": "https://twitter.com/Matty_Solana/status/2021192720807522467",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/2021192720807522467"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021222625603887232",
+      "createdAt": "2026-02-10T14:00:01.000Z",
+      "created_at": "2026-02-10 09:00:01 -05:00",
+      "created_at_ms": 1770732001000,
+      "created_at_iso": "2026-02-10T14:00:01.000Z",
+      "handle": "solana_daily",
+      "text": "Solana-native money apps are getting more real.\n\n@ValeoCash is building a self-custody app that blends wallet, swaps, and payments, with AI agents layered on top.\n\nThe iOS TestFlight beta already has 1,700+ users testing it live.\n\nLimited drop: @ValeoMille metal cards, only 1,000 units worldwide.\n\n#Sponsored",
+      "link": "https://twitter.com/solana_daily/status/2021222625603887232",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@valeocash",
+          "@valeomille"
+        ],
+        "urls": [
+          "https://t.co/vNN91Rx3mY",
+          "https://twitter.com/solana_daily/status/2021222625603887232"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021245274321019059",
+      "createdAt": "2026-02-10T15:30:00.000Z",
+      "created_at": "2026-02-10 10:30:00 -05:00",
+      "created_at_ms": 1770737400000,
+      "created_at_iso": "2026-02-10T15:30:00.000Z",
+      "handle": "solana_daily",
+      "text": "Trending Pools on Solana in the Last 24H  🚨\n\n▫️Goyim/SOL  | @goyimcoinsol\n▫️GIRAFFES/SOL| $GIRAFFES\n▫️WAR/USD1| $WAR\n▫️TúAnh/SOL | $TuAnh\n▫️Buttcoin/SOL | @ButtCoin\n▫️SHT/SOL | @ogSHTcoin\n▫️Company/USD1 | $company\n▫️Pigeon/SOL | $PIGEON\n▫️LIQUID/SOL | @MemeLiquidio\n▫️BigTrout/SOL | $BigTrout",
+      "link": "https://twitter.com/solana_daily/status/2021245274321019059",
+      "entities": {
+        "tickers": [
+          "$GIRAFFES",
+          "$WAR",
+          "$TUANH",
+          "$COMPANY",
+          "$PIGEON",
+          "$BIGTROUT"
+        ],
+        "handles": [
+          "@goyimcoinsol",
+          "@buttcoin",
+          "@ogshtcoin",
+          "@memeliquidio"
+        ],
+        "urls": [
+          "https://t.co/MXUSSnhksr",
+          "https://twitter.com/solana_daily/status/2021245274321019059"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021331739969548378",
+      "createdAt": "2026-02-10T21:13:35.000Z",
+      "created_at": "2026-02-10 16:13:35 -05:00",
+      "created_at_ms": 1770758015000,
+      "created_at_iso": "2026-02-10T21:13:35.000Z",
+      "handle": "solana_devs",
+      "text": "RT @heliuslabs: NEW\n\nIntroducing the Wallet API (Beta)\n\nThe simplest way to query:\n\n- Solana token and NFT balances\n- Transaction and trans…",
+      "link": "https://twitter.com/solana_devs/status/2021331739969548378",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@heliuslabs"
+        ],
+        "urls": [
+          "https://t.co/HQnkmC50nc",
+          "https://twitter.com/solana_devs/status/2021331739969548378"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021344379059961973",
+      "createdAt": "2026-02-10T22:03:49.000Z",
+      "created_at": "2026-02-10 17:03:49 -05:00",
+      "created_at_ms": 1770761029000,
+      "created_at_iso": "2026-02-10T22:03:49.000Z",
+      "handle": "solanamobile",
+      "text": "RT @0x_diablo: we’re posted up at @mtndao with a snowboard.\n\nthe amount of teams building for mobile + Seeker right now is insane. \n\nif you…",
+      "link": "https://twitter.com/solanamobile/status/2021344379059961973",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@0x_diablo",
+          "@mtndao"
+        ],
+        "urls": [
+          "https://t.co/NFFRKljO12",
+          "https://twitter.com/solanamobile/status/2021344379059961973"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021346052662796377",
+      "createdAt": "2026-02-10T22:10:28.000Z",
+      "created_at": "2026-02-10 17:10:28 -05:00",
+      "created_at_ms": 1770761428000,
+      "created_at_iso": "2026-02-10T22:10:28.000Z",
+      "handle": "gumsays",
+      "text": "You can do so much on @solana DeFi:\n\n- Stocks exposure like SPY and QQQ (xStocks)\n- Indirect exposure to Real Estate (PRIME Market)\n- Fixed yield (PTs)\n- 300% APY for JLP Multiply\n\nIf you don't want to do any of it then simply put some stables to work in stablecoin LPs or stake SOL in Lend vaults.\n\nAll of it is possible on @kamino.",
+      "link": "https://twitter.com/gumsays/status/2021346052662796377",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solana",
+          "@kamino"
+        ],
+        "urls": [
+          "https://t.co/NARX4CeA8P",
+          "https://twitter.com/gumsays/status/2021346052662796377"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 11,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021356727187493127",
+      "createdAt": "2026-02-10T22:52:53.000Z",
+      "created_at": "2026-02-10 17:52:53 -05:00",
+      "created_at_ms": 1770763973000,
+      "created_at_iso": "2026-02-10T22:52:53.000Z",
+      "handle": "solanamobile",
+      "text": "RT @brookebuysbags: New pink case for my @solanamobile \n\nAnd looking forward to the workshops everyday in the offices this week 🤳 https://t…",
+      "link": "https://twitter.com/solanamobile/status/2021356727187493127",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@brookebuysbags",
+          "@solanamobile"
+        ],
+        "urls": [
+          "https://t…",
+          "https://t.co/XWLCZACYYF",
+          "https://twitter.com/solanamobile/status/2021356727187493127"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021364715650416985",
+      "createdAt": "2026-02-10T23:24:38.000Z",
+      "created_at": "2026-02-10 18:24:38 -05:00",
+      "created_at_ms": 1770765878000,
+      "created_at_iso": "2026-02-10T23:24:38.000Z",
+      "handle": "solanamobile",
+      "text": "Just ship it on Seeker \n\nPumped to support teams shipping apps for the MONOLITH hackathon\n\nSKR szn",
+      "link": "https://twitter.com/solanamobile/status/2021364715650416985",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/solanamobile/status/2021364715650416985"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021364896613662970",
+      "createdAt": "2026-02-10T23:25:21.000Z",
+      "created_at": "2026-02-10 18:25:21 -05:00",
+      "created_at_ms": 1770765921000,
+      "created_at_iso": "2026-02-10T23:25:21.000Z",
+      "handle": "solanamobile",
+      "text": "Compete for $125k in prizes and submit to MONOLITH, the Solana Mobile Hackathon by @RadiantsDAO, by March 9th: https://t.co/9HUjxx3EYS",
+      "link": "https://twitter.com/solanamobile/status/2021364896613662970",
+      "entities": {
+        "tickers": [
+          "$125K"
+        ],
+        "handles": [
+          "@radiantsdao"
+        ],
+        "urls": [
+          "https://t.co/9HUjxx3EYS",
+          "http://solanamobile.com/hackathon",
+          "https://twitter.com/solanamobile/status/2021364896613662970"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021397987277344927",
+      "createdAt": "2026-02-11T01:36:50.000Z",
+      "created_at": "2026-02-10 20:36:50 -05:00",
+      "created_at_ms": 1770773810000,
+      "created_at_iso": "2026-02-11T01:36:50.000Z",
+      "handle": "solana_daily",
+      "text": "$GIRAFFES – $1.2M MCap\n\nCA: GbqbsRyBHVPHEv7xLEsikXmdpPPiApLTJesDBbL5pump\n\n$GIRAFFES is a memecoin with the slogan:\n“Become the Giraffes. Endure the pain of the storm, Together.”\n\nThe community currently has 2K members.\n\n#DYOR https://t.co/rWrhPNUqIO",
+      "link": "https://twitter.com/solana_daily/status/2021397987277344927",
+      "entities": {
+        "tickers": [
+          "$GIRAFFES",
+          "$GIRAFFES"
+        ],
+        "handles": [],
+        "urls": [
+          "https://t.co/rWrhPNUqIO",
+          "https://twitter.com/solana_daily/status/2021397987277344927"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021517943432151479",
+      "createdAt": "2026-02-11T09:33:30.000Z",
+      "created_at": "2026-02-11 04:33:30 -05:00",
+      "created_at_ms": 1770802410000,
+      "created_at_iso": "2026-02-11T09:33:30.000Z",
+      "handle": "solana_daily",
+      "text": "🚨 “If Solana doesn’t do it, nobody will.” - Lily Liu, President of the Solana Foundation.\n\nAt Consensus Hong Kong 2026, Lily Liu doubled down on Solana’s role as the last serious contender to push blockchain innovation forward - especially in real-world finance and peer-to-peer systems. 🌐\n\n#Web3 #ConsensusHK",
+      "link": "https://twitter.com/solana_daily/status/2021517943432151479",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/4VOX7frhYq",
+          "https://twitter.com/solana_daily/status/2021517943432151479"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021525870327029831",
+      "createdAt": "2026-02-11T10:05:00.000Z",
+      "created_at": "2026-02-11 05:05:00 -05:00",
+      "created_at_ms": 1770804300000,
+      "created_at_iso": "2026-02-11T10:05:00.000Z",
+      "handle": "solana_daily",
+      "text": "🚨 Goldman Sachs - one of Wall Street’s largest investment banks - just discloses $108M in $SOL holdings https://t.co/nb2dYee3Ey",
+      "link": "https://twitter.com/solana_daily/status/2021525870327029831",
+      "entities": {
+        "tickers": [
+          "$108M",
+          "$SOL"
+        ],
+        "handles": [],
+        "urls": [
+          "https://t.co/nb2dYee3Ey",
+          "https://twitter.com/solana_daily/status/2021525870327029831"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021528756742189514",
+      "createdAt": "2026-02-11T10:16:28.000Z",
+      "created_at": "2026-02-11 05:16:28 -05:00",
+      "created_at_ms": 1770804988000,
+      "created_at_iso": "2026-02-11T10:16:28.000Z",
+      "handle": "gumsays",
+      "text": "AI moving so fast I'm having extra caution with my tone when speaking with Claude\n\nDon't want to be blacklisted when they take over the world",
+      "link": "https://twitter.com/gumsays/status/2021528756742189514",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/gumsays/status/2021528756742189514"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021563778912190808",
+      "createdAt": "2026-02-11T12:35:38.000Z",
+      "created_at": "2026-02-11 07:35:38 -05:00",
+      "created_at_ms": 1770813338000,
+      "created_at_iso": "2026-02-11T12:35:38.000Z",
+      "handle": "Matty_Solana",
+      "text": "Still holding. Still building. Still Solana.",
+      "link": "https://twitter.com/Matty_Solana/status/2021563778912190808",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/2021563778912190808"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021576044315337154",
+      "createdAt": "2026-02-11T13:24:22.000Z",
+      "created_at": "2026-02-11 08:24:22 -05:00",
+      "created_at_ms": 1770816262000,
+      "created_at_iso": "2026-02-11T13:24:22.000Z",
+      "handle": "solana_daily",
+      "text": "Spotlight x402 Tokens on Solana in the Last 7 Days 📈 \n\n▫️FDRY | @getFoundry\n▫️ZAUTH | @zauthx402\n▫️CODEC| @codecopenflow\n▫️SYRA | @syra_agent\n▫️AVO | @avodotso\n▫️DND | @dndNGMI\n▫️DIRA | @dira_network\n▫️MOSS | @0xMOSSAI",
+      "link": "https://twitter.com/solana_daily/status/2021576044315337154",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@getfoundry",
+          "@zauthx402",
+          "@codecopenflow",
+          "@syra_agent",
+          "@avodotso",
+          "@dndngmi",
+          "@dira_network",
+          "@0xmossai"
+        ],
+        "urls": [
+          "https://t.co/fWMKNWb9y2",
+          "https://twitter.com/solana_daily/status/2021576044315337154"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021587095815360664",
+      "createdAt": "2026-02-11T14:08:17.000Z",
+      "created_at": "2026-02-11 09:08:17 -05:00",
+      "created_at_ms": 1770818897000,
+      "created_at_iso": "2026-02-11T14:08:17.000Z",
+      "handle": "Matty_Solana",
+      "text": "RT @solana_stream: Seeker $SKR Incentives: Ongoing Pools &amp; Live Now! 🔥\n\nEarn real $SKR rewards from these top dApps right noơ.\n\n- @raffledo…",
+      "link": "https://twitter.com/Matty_Solana/status/2021587095815360664",
+      "entities": {
+        "tickers": [
+          "$SKR",
+          "$SKR"
+        ],
+        "handles": [
+          "@solana_stream",
+          "@raffledo"
+        ],
+        "urls": [
+          "https://t.co/J92ifybMCv",
+          "https://twitter.com/Matty_Solana/status/2021587095815360664"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 6,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021587629829951936",
+      "createdAt": "2026-02-11T14:10:24.000Z",
+      "created_at": "2026-02-11 09:10:24 -05:00",
+      "created_at_ms": 1770819024000,
+      "created_at_iso": "2026-02-11T14:10:24.000Z",
+      "handle": "Matty_Solana",
+      "text": "8 Days left,\n113M already burnt! https://t.co/vGRfSjEDor",
+      "link": "https://twitter.com/Matty_Solana/status/2021587629829951936",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/vGRfSjEDor",
+          "https://twitter.com/Matty_Solana/status/2021587629829951936"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021587885305049127",
+      "createdAt": "2026-02-11T14:11:25.000Z",
+      "created_at": "2026-02-11 09:11:25 -05:00",
+      "created_at_ms": 1770819085000,
+      "created_at_iso": "2026-02-11T14:11:25.000Z",
+      "handle": "solana_daily",
+      "text": "🚨 Alibaba Cloud – world's largest ecommerce giant – demos high-performance Solana RPCs at Accelerate APAC in Hong Kong.\n\nLatency slashed: get slot from 25ms to 10ms, get block &lt;200ms via backbone network. Perfect for high-frequency trading. https://t.co/IIrt8uZ1Nh",
+      "link": "https://twitter.com/solana_daily/status/2021587885305049127",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/IIrt8uZ1Nh",
+          "https://twitter.com/solana_daily/status/2021587885305049127"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021591334436360416",
+      "createdAt": "2026-02-11T14:25:08.000Z",
+      "created_at": "2026-02-11 09:25:08 -05:00",
+      "created_at_ms": 1770819908000,
+      "created_at_iso": "2026-02-11T14:25:08.000Z",
+      "handle": "solanamobile",
+      "text": "RT @beeman_nl: 📢 I'm excited to introduce the Seeker Genesis Holders API!\n\nThe easiest way to add a token gate for @solanamobile Seeker use…",
+      "link": "https://twitter.com/solanamobile/status/2021591334436360416",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@beeman_nl",
+          "@solanamobile"
+        ],
+        "urls": [
+          "https://t.co/BdRmCOjs5Z",
+          "https://twitter.com/solanamobile/status/2021591334436360416"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 6,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021593844698022067",
+      "createdAt": "2026-02-11T14:35:06.000Z",
+      "created_at": "2026-02-11 09:35:06 -05:00",
+      "created_at_ms": 1770820506000,
+      "created_at_iso": "2026-02-11T14:35:06.000Z",
+      "handle": "solana_daily",
+      "text": "🚨 Now you can spend any SPL token or RWA asset when using @solflare 's card. https://t.co/jfg4XoeUEm",
+      "link": "https://twitter.com/solana_daily/status/2021593844698022067",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solflare"
+        ],
+        "urls": [
+          "https://t.co/jfg4XoeUEm",
+          "https://twitter.com/solana_daily/status/2021593844698022067"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021597593147417083",
+      "createdAt": "2026-02-11T14:50:00.000Z",
+      "created_at": "2026-02-11 09:50:00 -05:00",
+      "created_at_ms": 1770821400000,
+      "created_at_iso": "2026-02-11T14:50:00.000Z",
+      "handle": "solana_daily",
+      "text": "⚡️ According to @DanJablonski, Director of Growth at @dflow, prediction markets are gaining serious traction on Solana.\nSince launching in December, 400+ apps are now building on the @dflow Prediction Markets API -highlighting accelerating developer adoption across the ecosystem. https://t.co/IO0vpn4MQA",
+      "link": "https://twitter.com/solana_daily/status/2021597593147417083",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@danjablonski",
+          "@dflow",
+          "@dflow"
+        ],
+        "urls": [
+          "https://t.co/IO0vpn4MQA",
+          "https://twitter.com/solana_daily/status/2021597593147417083"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021607660723052686",
+      "createdAt": "2026-02-11T15:30:00.000Z",
+      "created_at": "2026-02-11 10:30:00 -05:00",
+      "created_at_ms": 1770823800000,
+      "created_at_iso": "2026-02-11T15:30:00.000Z",
+      "handle": "solana_daily",
+      "text": "Top 10 Trading App by Fee in the Last 30D 📊\n\n🔸@AxiomExchange\n🔸@ant_fun_trade\n🔸@tryfomo\n🔸@tradewithPhoton\n🔸@moonshot\n🔸@LABtrade_\n🔸@maxbidbro\n🔸@o1_exchange\n🔸@blazingapp\n🔸@xtrade_xyz",
+      "link": "https://twitter.com/solana_daily/status/2021607660723052686",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@axiomexchange",
+          "@ant_fun_trade",
+          "@tryfomo",
+          "@tradewithphoton",
+          "@moonshot",
+          "@labtrade_",
+          "@maxbidbro",
+          "@o1_exchange",
+          "@blazingapp",
+          "@xtrade_xyz"
+        ],
+        "urls": [
+          "https://t.co/8vF6IDczCB",
+          "https://twitter.com/solana_daily/status/2021607660723052686"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021615219580297419",
+      "createdAt": "2026-02-11T16:00:02.000Z",
+      "created_at": "2026-02-11 11:00:02 -05:00",
+      "created_at_ms": 1770825602000,
+      "created_at_iso": "2026-02-11T16:00:02.000Z",
+      "handle": "solana_daily",
+      "text": "⚡️Solana now leads across key metrics - including users, transactions, developer growth, trading volume, and fees - while maintaining 24+ consecutive months of uptime.\n( According to Zheng Jie Lim of @artemis at Accelerate APAC in Hong Kong) https://t.co/o5FmRPMQwb",
+      "link": "https://twitter.com/solana_daily/status/2021615219580297419",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@artemis"
+        ],
+        "urls": [
+          "https://t.co/o5FmRPMQwb",
+          "https://twitter.com/solana_daily/status/2021615219580297419"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021620433473147305",
+      "createdAt": "2026-02-11T16:20:45.000Z",
+      "created_at": "2026-02-11 11:20:45 -05:00",
+      "created_at_ms": 1770826845000,
+      "created_at_iso": "2026-02-11T16:20:45.000Z",
+      "handle": "armaniferrante",
+      "text": "RT @0Xlynn03: 未来场景，持有美股作为保证金，做多/空比特币，参与体育赛事预测，盈利后去超市用BP卡买点啤酒，顺手给群友发红包，多余的钱存到金库或者买$BP质押\n\n加密与金融一体，投资与生活融合，理想很丰满，期待@armaniferrante 带领🎒早日实现，go…",
+      "link": "https://twitter.com/armaniferrante/status/2021620433473147305",
+      "entities": {
+        "tickers": [
+          "$BP"
+        ],
+        "handles": [
+          "@0xlynn03",
+          "@armaniferrante"
+        ],
+        "urls": [
+          "https://t.co/xwKdX85wZd",
+          "https://twitter.com/armaniferrante/status/2021620433473147305"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021622643258986518",
+      "createdAt": "2026-02-11T16:29:32.000Z",
+      "created_at": "2026-02-11 11:29:32 -05:00",
+      "created_at_ms": 1770827372000,
+      "created_at_iso": "2026-02-11T16:29:32.000Z",
+      "handle": "gumsays",
+      "text": "There's nothing to say about Bitcoin right now\n\nOther than completely avoid trading if your portfolio is down more than 20% from ATH and/or if you ended up losing money in the last 3 years\n\n$60K, $65K, $72K are the only levels to watch and trying to capture 1% moves between that will be more painful than what already is",
+      "link": "https://twitter.com/gumsays/status/2021622643258986518",
+      "entities": {
+        "tickers": [
+          "$60K",
+          "$65K",
+          "$72K"
+        ],
+        "handles": [],
+        "urls": [
+          "https://t.co/qxcnKglSRH",
+          "https://twitter.com/gumsays/status/2021622643258986518"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021623269322100797",
+      "createdAt": "2026-02-11T16:32:02.000Z",
+      "created_at": "2026-02-11 11:32:02 -05:00",
+      "created_at_ms": 1770827522000,
+      "created_at_iso": "2026-02-11T16:32:02.000Z",
+      "handle": "cobotgg",
+      "text": "Excited to announce, Cobot won the @opinionlabsxyz   Week 2 Builders Grant! 🏆 \n\nWe are building a prediction market aggregator with autonomous trading agents and a full-stack infra to deploy OpenClaw agents in minutes, with x402 crypto skills and on-chain identity to earn and operate autonomously.\n\nThank you @opinionlabsxyz  for the support.",
+      "link": "https://twitter.com/cobotgg/status/2021623269322100797",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@opinionlabsxyz",
+          "@opinionlabsxyz"
+        ],
+        "urls": [
+          "https://t.co/gkHJn9nQOB",
+          "https://twitter.com/cobotgg/status/2021623269322100797"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021643006827184228",
+      "createdAt": "2026-02-11T17:50:27.000Z",
+      "created_at": "2026-02-11 12:50:27 -05:00",
+      "created_at_ms": 1770832227000,
+      "created_at_iso": "2026-02-11T17:50:27.000Z",
+      "handle": "solana_devs",
+      "text": "🚨 Solana Privacy Hack - Closing Ceremony 🚨\n\nJoin us Friday 13th (👻) at 6pm UTC to celebrate the projects, demos, and winners!🏆\n\nWe'll be livestreaming here with @catmcgee our Queen of Privacy 🔒",
+      "link": "https://twitter.com/solana_devs/status/2021643006827184228",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@catmcgee"
+        ],
+        "urls": [
+          "https://twitter.com/solana_devs/status/2021643006827184228"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021649184525611454",
+      "createdAt": "2026-02-11T18:15:00.000Z",
+      "created_at": "2026-02-11 13:15:00 -05:00",
+      "created_at_ms": 1770833700000,
+      "created_at_iso": "2026-02-11T18:15:00.000Z",
+      "handle": "solanamobile",
+      "text": "RT @GEODNET: 💝Love is in the air… and on the map.\n\nDownload TokenRun on Seeker @solanamobile. Start burying &amp; digging your surprises.\n\nLove…",
+      "link": "https://twitter.com/solanamobile/status/2021649184525611454",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@geodnet",
+          "@solanamobile"
+        ],
+        "urls": [
+          "https://t.co/U7fWlLnJ6E",
+          "https://twitter.com/solanamobile/status/2021649184525611454"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 6,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021660734091145395",
+      "createdAt": "2026-02-11T19:00:54.000Z",
+      "created_at": "2026-02-11 14:00:54 -05:00",
+      "created_at_ms": 1770836454000,
+      "created_at_iso": "2026-02-11T19:00:54.000Z",
+      "handle": "gumsays",
+      "text": "Interesting:\n\n$1.9B minted on Solana\n$1.9B minted on Ethereum\n\nJust in the last 7 days\n\nAs many stablecoins were minted on Solana despite ETH having a 10x bigger stablecoin market cap\n\nEncouraging for @solana bulls. https://t.co/ifwGCb2fuU",
+      "link": "https://twitter.com/gumsays/status/2021660734091145395",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/ifwGCb2fuU",
+          "https://twitter.com/gumsays/status/2021660734091145395"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021671134278848530",
+      "createdAt": "2026-02-11T19:42:13.000Z",
+      "created_at": "2026-02-11 14:42:13 -05:00",
+      "created_at_ms": 1770838933000,
+      "created_at_iso": "2026-02-11T19:42:13.000Z",
+      "handle": "solanamobile",
+      "text": "https://t.co/7cvrPJZLiL",
+      "link": "https://twitter.com/solanamobile/status/2021671134278848530",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/7cvrPJZLiL",
+          "http://x.com/i/article/2021576446381101056",
+          "https://twitter.com/solanamobile/status/2021671134278848530"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021674534144028985",
+      "createdAt": "2026-02-11T19:55:44.000Z",
+      "created_at": "2026-02-11 14:55:44 -05:00",
+      "created_at_ms": 1770839744000,
+      "created_at_iso": "2026-02-11T19:55:44.000Z",
+      "handle": "solana_devs",
+      "text": "RT @dev_jodee: A lot of teams end up scaffolding the same programs to kick off their projects. We're building common programs so you don't…",
+      "link": "https://twitter.com/solana_devs/status/2021674534144028985",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@dev_jodee"
+        ],
+        "urls": [
+          "https://t.co/s3GAibQfpN",
+          "https://twitter.com/solana_devs/status/2021674534144028985"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021674623570427954",
+      "createdAt": "2026-02-11T19:56:05.000Z",
+      "created_at": "2026-02-11 14:56:05 -05:00",
+      "created_at_ms": 1770839765000,
+      "created_at_iso": "2026-02-11T19:56:05.000Z",
+      "handle": "solana_devs",
+      "text": "RT @dev_jodee: New template for building native Solana programs with Pinocchio v0.1+ &amp; Codama.\n\nReusable traits, PDA helpers, safety checks…",
+      "link": "https://twitter.com/solana_devs/status/2021674623570427954",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@dev_jodee"
+        ],
+        "urls": [
+          "https://t.co/8vZZx96Qd9",
+          "https://twitter.com/solana_devs/status/2021674623570427954"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021678691609354271",
+      "createdAt": "2026-02-11T20:12:15.000Z",
+      "created_at": "2026-02-11 15:12:15 -05:00",
+      "created_at_ms": 1770840735000,
+      "created_at_iso": "2026-02-11T20:12:15.000Z",
+      "handle": "solanamobile",
+      "text": "RT @toly: The cheat code for app developers is @solanamobile seeker",
+      "link": "https://twitter.com/solanamobile/status/2021678691609354271",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@toly",
+          "@solanamobile"
+        ],
+        "urls": [
+          "https://twitter.com/solanamobile/status/2021678691609354271"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 6,
+        "recencyBoost": 0
+      }
+    },
+    {
+      "id": "2021688794278248869",
+      "createdAt": "2026-02-11T20:52:24.000Z",
+      "created_at": "2026-02-11 15:52:24 -05:00",
+      "created_at_ms": 1770843144000,
+      "created_at_iso": "2026-02-11T20:52:24.000Z",
+      "handle": "solanamobile",
+      "text": "Wherever you are, SKR is there \n\nSKR is now available globally on Kraken 🌍",
+      "link": "https://twitter.com/solanamobile/status/2021688794278248869",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/solanamobile/status/2021688794278248869"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.013
+      }
+    },
+    {
+      "id": "2021707281826820558",
+      "createdAt": "2026-02-11T22:05:52.000Z",
+      "created_at": "2026-02-11 17:05:52 -05:00",
+      "created_at_ms": 1770847552000,
+      "created_at_iso": "2026-02-11T22:05:52.000Z",
+      "handle": "solanamobile",
+      "text": "RT @elchuo160: Just submitted the new @Gableguardians APK! The experience so far has been incredible. The @solanamobile review system is si…",
+      "link": "https://twitter.com/solanamobile/status/2021707281826820558",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@elchuo160",
+          "@gableguardians",
+          "@solanamobile"
+        ],
+        "urls": [
+          "https://t.co/eK4EDA5v2g",
+          "https://twitter.com/solanamobile/status/2021707281826820558"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0.038
+      }
+    },
+    {
+      "id": "2021708031952924937",
+      "createdAt": "2026-02-11T22:08:50.000Z",
+      "created_at": "2026-02-11 17:08:50 -05:00",
+      "created_at_ms": 1770847730000,
+      "created_at_iso": "2026-02-11T22:08:50.000Z",
+      "handle": "solanamobile",
+      "text": "RT @SOLYD_STORE: Wake up babe, it's SKR SZN on solyd[.]store!\n\n30% off on all Seeker cases ⚡\n\nPay with SKR, and we'll match your purchase w…",
+      "link": "https://twitter.com/solanamobile/status/2021708031952924937",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solyd_store"
+        ],
+        "urls": [
+          "https://t.co/XkwRAINjJt",
+          "https://twitter.com/solanamobile/status/2021708031952924937"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0.039
+      }
+    },
+    {
+      "id": "2021733274306195739",
+      "createdAt": "2026-02-11T23:49:09.000Z",
+      "created_at": "2026-02-11 18:49:09 -05:00",
+      "created_at_ms": 1770853749000,
+      "created_at_iso": "2026-02-11T23:49:09.000Z",
+      "handle": "solanamobile",
+      "text": "RT @0xharsh1001: I built a @solanamobile version of @openclaw, now you can use the phone's hardware from TG to \n\n- take pictures \n- use see…",
+      "link": "https://twitter.com/solanamobile/status/2021733274306195739",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@0xharsh1001",
+          "@solanamobile",
+          "@openclaw"
+        ],
+        "urls": [
+          "https://t.co/gnodTtUTJO",
+          "https://twitter.com/solanamobile/status/2021733274306195739"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 6,
+        "recencyBoost": 0.074
+      }
+    },
+    {
+      "id": "2021736063811957111",
+      "createdAt": "2026-02-12T00:00:14.000Z",
+      "created_at": "2026-02-11 19:00:14 -05:00",
+      "created_at_ms": 1770854414000,
+      "created_at_iso": "2026-02-12T00:00:14.000Z",
+      "handle": "solana_daily",
+      "text": "$SOLUNA - $1.2M MCap\n\nCA: 2qT8JVotQ2C1gKbqpuqNatkpSBWxiKHbXkCyTqH9pump\n\n@solunamovement with a narrative centered on proving that memecoins are the driving force behind Solana's blockchain\n\n#DYOR https://t.co/aDNvuqpKfR",
+      "link": "https://twitter.com/solana_daily/status/2021736063811957111",
+      "entities": {
+        "tickers": [
+          "$SOLUNA"
+        ],
+        "handles": [
+          "@solunamovement"
+        ],
+        "urls": [
+          "https://t.co/aDNvuqpKfR",
+          "https://twitter.com/solana_daily/status/2021736063811957111"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.078
+      }
+    },
+    {
+      "id": "2021894453045133540",
+      "createdAt": "2026-02-12T10:29:37.000Z",
+      "created_at": "2026-02-12 05:29:37 -05:00",
+      "created_at_ms": 1770892177000,
+      "created_at_iso": "2026-02-12T10:29:37.000Z",
+      "handle": "gumsays",
+      "text": "Here's my problem with AI\n\nNo, you don't need to spend 8 hours a day prompting a revolutionary app that you end up quitting as soon as you have to do something manually\n\nMost of you are becoming AI's tools and don't even know\n\nYou're becoming the product of these LLMs\n\nAlmost nothing changed in your life since installing Claude\n\nBy no means I am saying it isn't useful, just that most of us are doing it wrong\n\nYou don't have to build a $1M ARR company overnight\n\nJust build something that is useful for you, and maybe something of value will come\n\nThat's how AI can change your life",
+      "link": "https://twitter.com/gumsays/status/2021894453045133540",
+      "entities": {
+        "tickers": [
+          "$1M"
+        ],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/gumsays/status/2021894453045133540"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.297
+      }
+    },
+    {
+      "id": "2021920979371352437",
+      "createdAt": "2026-02-12T12:15:01.000Z",
+      "created_at": "2026-02-12 07:15:01 -05:00",
+      "created_at_ms": 1770898501000,
+      "created_at_iso": "2026-02-12T12:15:01.000Z",
+      "handle": "Matty_Solana",
+      "text": "Ideas don’t compound. \nExecution does.",
+      "link": "https://twitter.com/Matty_Solana/status/2021920979371352437",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/2021920979371352437"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.333
+      }
+    },
+    {
+      "id": "2021923719304843401",
+      "createdAt": "2026-02-12T12:25:54.000Z",
+      "created_at": "2026-02-12 07:25:54 -05:00",
+      "created_at_ms": 1770899154000,
+      "created_at_iso": "2026-02-12T12:25:54.000Z",
+      "handle": "armaniferrante",
+      "text": "RT @Airdrop_Guard: 昨天去参加 Backpack 在香港的用户交流会，Armani 讲了两个小时，我们问了一大堆问题，都得到了耐心和详细的解答，又一起吃了一品鸡煲\n\n团队、用户、网友，大家见面都是老朋友了，像家人一样开心，我也找回了才入币圈，那种纯真感觉，真好…",
+      "link": "https://twitter.com/armaniferrante/status/2021923719304843401",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@airdrop_guard"
+        ],
+        "urls": [
+          "https://t.co/F8j0wi3dhj",
+          "https://twitter.com/armaniferrante/status/2021923719304843401"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0.337
+      }
+    },
+    {
+      "id": "2021931554218684528",
+      "createdAt": "2026-02-12T12:57:02.000Z",
+      "created_at": "2026-02-12 07:57:02 -05:00",
+      "created_at_ms": 1770901022000,
+      "created_at_iso": "2026-02-12T12:57:02.000Z",
+      "handle": "armaniferrante",
+      "text": "RT @y_tolep: Grid bot on @Backpack is actually really cool tool.\n\nI opened the bot 5 days ago, and during this period it has already made m…",
+      "link": "https://twitter.com/armaniferrante/status/2021931554218684528",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@y_tolep",
+          "@backpack"
+        ],
+        "urls": [
+          "https://t.co/CBFnxQ3PLv",
+          "https://twitter.com/armaniferrante/status/2021931554218684528"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0.348
+      }
+    },
+    {
+      "id": "2021950760196747556",
+      "createdAt": "2026-02-12T14:13:21.000Z",
+      "created_at": "2026-02-12 09:13:21 -05:00",
+      "created_at_ms": 1770905601000,
+      "created_at_iso": "2026-02-12T14:13:21.000Z",
+      "handle": "armaniferrante",
+      "text": "RT @Backpack: gm\n\nit's a beautiful day to swap and bridge in a wallet with (literally) 0 fees\n\nwhy are you swapping anywhere else?",
+      "link": "https://twitter.com/armaniferrante/status/2021950760196747556",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@backpack"
+        ],
+        "urls": [
+          "https://twitter.com/armaniferrante/status/2021950760196747556"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 3,
+        "recencyBoost": 0.374
+      }
+    },
+    {
+      "id": "2021989907573699014",
+      "createdAt": "2026-02-12T16:48:55.000Z",
+      "created_at": "2026-02-12 11:48:55 -05:00",
+      "created_at_ms": 1770914935000,
+      "created_at_iso": "2026-02-12T16:48:55.000Z",
+      "handle": "solana_devs",
+      "text": "Toly the Grey invites you https://t.co/amvfoxveXi https://t.co/FDTDUHurfV",
+      "link": "https://twitter.com/solana_devs/status/2021989907573699014",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/amvfoxveXi",
+          "https://t.co/FDTDUHurfV",
+          "https://x.com/solana/status/2021977851231338891?s=20",
+          "https://twitter.com/solana_devs/status/2021989907573699014"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.428
+      }
+    },
+    {
+      "id": "2021993719659135062",
+      "createdAt": "2026-02-12T17:04:04.000Z",
+      "created_at": "2026-02-12 12:04:04 -05:00",
+      "created_at_ms": 1770915844000,
+      "created_at_iso": "2026-02-12T17:04:04.000Z",
+      "handle": "solanamobile",
+      "text": "The mobile first revolution is happening on Solana 📱 https://t.co/Uf2Wyab3Hi",
+      "link": "https://twitter.com/solanamobile/status/2021993719659135062",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/Uf2Wyab3Hi",
+          "https://twitter.com/solanamobile/status/2021993719659135062"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.434
+      }
+    },
+    {
+      "id": "2021993721068499313",
+      "createdAt": "2026-02-12T17:04:04.000Z",
+      "created_at": "2026-02-12 12:04:04 -05:00",
+      "created_at_ms": 1770915844000,
+      "created_at_iso": "2026-02-12T17:04:04.000Z",
+      "handle": "solanamobile",
+      "text": "Many thanks to @therealchaseeb, @DeadCaitBounce, @ryantjhin_, and @supermarioblock 🫡\n\nHelp break the duopoly. MONOLITH, the @Solana Mobile Hackathon by @RadiantsDAO, is live, with $125k in prizes for developers: https://t.co/9HUjxx3EYS",
+      "link": "https://twitter.com/solanamobile/status/2021993721068499313",
+      "entities": {
+        "tickers": [
+          "$125K"
+        ],
+        "handles": [
+          "@therealchaseeb",
+          "@deadcaitbounce",
+          "@ryantjhin_",
+          "@supermarioblock",
+          "@solana",
+          "@radiantsdao"
+        ],
+        "urls": [
+          "https://t.co/9HUjxx3EYS",
+          "http://solanamobile.com/hackathon",
+          "https://twitter.com/solanamobile/status/2021993721068499313"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 10,
+        "recencyBoost": 0.434
+      }
+    },
+    {
+      "id": "2021997268426228020",
+      "createdAt": "2026-02-12T17:18:10.000Z",
+      "created_at": "2026-02-12 12:18:10 -05:00",
+      "created_at_ms": 1770916690000,
+      "created_at_iso": "2026-02-12T17:18:10.000Z",
+      "handle": "solana_devs",
+      "text": "You shall n̶o̶t̶ pass",
+      "link": "https://twitter.com/solana_devs/status/2021997268426228020",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/solana_devs/status/2021997268426228020"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.438
+      }
+    },
+    {
+      "id": "2022001207947239428",
+      "createdAt": "2026-02-12T17:33:49.000Z",
+      "created_at": "2026-02-12 12:33:49 -05:00",
+      "created_at_ms": 1770917629000,
+      "created_at_iso": "2026-02-12T17:33:49.000Z",
+      "handle": "solanamobile",
+      "text": "RT @elchuo160: Spanish review:\n\nhttps://t.co/UFMLBnShOw",
+      "link": "https://twitter.com/solanamobile/status/2022001207947239428",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@elchuo160"
+        ],
+        "urls": [
+          "https://t.co/UFMLBnShOw",
+          "https://twitter.com/solanamobile/status/2022001207947239428"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.444
+      }
+    },
+    {
+      "id": "2022001617638502717",
+      "createdAt": "2026-02-12T17:35:27.000Z",
+      "created_at": "2026-02-12 12:35:27 -05:00",
+      "created_at_ms": 1770917727000,
+      "created_at_iso": "2026-02-12T17:35:27.000Z",
+      "handle": "solana_daily",
+      "text": "AI Agents on Solana 🌟 \n\nWhich one are you watching? 👀 \n\n@OPENCLAW, @moltbook, @moltdotid, @zauthx402, @bankrbot, @daydreamsagents, @AgentPad_Solana, @VeryAI, @t54ai, @Hey_Amiko, @JatevoId, @BuildTuna, @TradeBoba, @sanafionchain, @KarmaWallet, @moltmatch, @Claude_Memory, @homebrewrobots, @switchboardxyz, @PayAINetwork, @radrdotfun, @NexgentAI, @nodesphereai, @CVAgentlauncher, @_cjft, @acedatacloud, @zaara_ai\n\nAnyone we missed? Please comment below and we'll update next time 👇",
+      "link": "https://twitter.com/solana_daily/status/2022001617638502717",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@openclaw",
+          "@moltbook",
+          "@moltdotid",
+          "@zauthx402",
+          "@bankrbot",
+          "@daydreamsagents",
+          "@agentpad_solana",
+          "@veryai",
+          "@t54ai",
+          "@hey_amiko",
+          "@jatevoid",
+          "@buildtuna",
+          "@tradeboba",
+          "@sanafionchain",
+          "@karmawallet",
+          "@moltmatch",
+          "@claude_memory",
+          "@homebrewrobots",
+          "@switchboardxyz",
+          "@payainetwork",
+          "@radrdotfun",
+          "@nexgentai",
+          "@nodesphereai",
+          "@cvagentlauncher",
+          "@_cjft",
+          "@acedatacloud",
+          "@zaara_ai"
+        ],
+        "urls": [
+          "https://t.co/9pavNzYRBN",
+          "https://twitter.com/solana_daily/status/2022001617638502717"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 11,
+        "recencyBoost": 0.444
+      }
+    },
+    {
+      "id": "2022001622138925361",
+      "createdAt": "2026-02-12T17:35:28.000Z",
+      "created_at": "2026-02-12 12:35:28 -05:00",
+      "created_at_ms": 1770917728000,
+      "created_at_iso": "2026-02-12T17:35:28.000Z",
+      "handle": "solana_daily",
+      "text": "AI Agents on Solana 🌟 \n\nWhich one are you watching? 👀 \n\n@giantsprotocol, @SolarisAI_fun, @swarms_corp, @mobyagent, @HeyAnonai, @yesnoerror, @AgentPad_Solana, @getFoundry, @relayaisolana, @dira_network, @syra_agent, @ionet, @nosana_ai, @rainmakerdotfun, @elizaOS, @NATIXNetwork, @375ai_, @opus_universe, @avodotso, @caesar_data, @orgo, @memeothy0101, @codecopenflow, @infraxa, @dexteraisol, @joinFXN, @sallar_io, @Freya_Starfall, @NexgentAI, @synesis_one, @yesnoerror, @BetakkumaAI, @AgentHustleAI, @HAiO_Official, @pippinlovesyou \n\nAnyone we missed? Please comment below and we'll update next time 👇",
+      "link": "https://twitter.com/solana_daily/status/2022001622138925361",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@giantsprotocol",
+          "@solarisai_fun",
+          "@swarms_corp",
+          "@mobyagent",
+          "@heyanonai",
+          "@yesnoerror",
+          "@agentpad_solana",
+          "@getfoundry",
+          "@relayaisolana",
+          "@dira_network",
+          "@syra_agent",
+          "@ionet",
+          "@nosana_ai",
+          "@rainmakerdotfun",
+          "@elizaos",
+          "@natixnetwork",
+          "@375ai_",
+          "@opus_universe",
+          "@avodotso",
+          "@caesar_data",
+          "@orgo",
+          "@memeothy0101",
+          "@codecopenflow",
+          "@infraxa",
+          "@dexteraisol",
+          "@joinfxn",
+          "@sallar_io",
+          "@freya_starfall",
+          "@nexgentai",
+          "@synesis_one",
+          "@yesnoerror",
+          "@betakkumaai",
+          "@agenthustleai",
+          "@haio_official",
+          "@pippinlovesyou"
+        ],
+        "urls": [
+          "https://twitter.com/solana_daily/status/2022001622138925361"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0.444
+      }
+    },
+    {
+      "id": "2022003387894837579",
+      "createdAt": "2026-02-12T17:42:29.000Z",
+      "created_at": "2026-02-12 12:42:29 -05:00",
+      "created_at_ms": 1770918149000,
+      "created_at_iso": "2026-02-12T17:42:29.000Z",
+      "handle": "solanamobile",
+      "text": "RT @somemobiledev: It's HACKATHON season in Solana.\n\n- @solanamobile  Mobile Hackathon ends at Mar 9\n- @solana  Graveyard Hack ends at Feb…",
+      "link": "https://twitter.com/solanamobile/status/2022003387894837579",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@somemobiledev",
+          "@solanamobile",
+          "@solana"
+        ],
+        "urls": [
+          "https://twitter.com/solanamobile/status/2022003387894837579"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0.447
+      }
+    },
+    {
+      "id": "2022003761011638327",
+      "createdAt": "2026-02-12T17:43:58.000Z",
+      "created_at": "2026-02-12 12:43:58 -05:00",
+      "created_at_ms": 1770918238000,
+      "created_at_iso": "2026-02-12T17:43:58.000Z",
+      "handle": "solana_devs",
+      "text": "RT @soubhik_deb: Solana is rewriting its core.\n\nEpisode 3 of TheCoordinate is about one of the most ambitious protocol upgrades in crypto r…",
+      "link": "https://twitter.com/solana_devs/status/2022003761011638327",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@soubhik_deb"
+        ],
+        "urls": [
+          "https://t.co/7J845MwIbu",
+          "https://twitter.com/solana_devs/status/2022003761011638327"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.447
+      }
+    },
+    {
+      "id": "2022015093874249906",
+      "createdAt": "2026-02-12T18:29:00.000Z",
+      "created_at": "2026-02-12 13:29:00 -05:00",
+      "created_at_ms": 1770920940000,
+      "created_at_iso": "2026-02-12T18:29:00.000Z",
+      "handle": "solana_daily",
+      "text": "🚨 PayPal has quietly made @Solana the default network for its blockchain integrations - a subtle but significant shift signaling broader adoption of Solana’s high-speed, low-fee infrastructure across major payments rails. https://t.co/DFoKyClYmO",
+      "link": "https://twitter.com/solana_daily/status/2022015093874249906",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/DFoKyClYmO",
+          "https://twitter.com/solana_daily/status/2022015093874249906"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.463
+      }
+    },
+    {
+      "id": "2022015346719572036",
+      "createdAt": "2026-02-12T18:30:00.000Z",
+      "created_at": "2026-02-12 13:30:00 -05:00",
+      "created_at_ms": 1770921000000,
+      "created_at_iso": "2026-02-12T18:30:00.000Z",
+      "handle": "solanamobile",
+      "text": "RT @cfldotfun: Another $1000 layer of reward on top of your winnings on CFL\n\nGet yourself on the top 50 of Global Leaderboard and you'll ge…",
+      "link": "https://twitter.com/solanamobile/status/2022015346719572036",
+      "entities": {
+        "tickers": [
+          "$1000"
+        ],
+        "handles": [
+          "@cfldotfun"
+        ],
+        "urls": [
+          "https://t.co/ucOGbVHkqC",
+          "https://twitter.com/solanamobile/status/2022015346719572036"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.463
+      }
+    },
+    {
+      "id": "2022038658485039234",
+      "createdAt": "2026-02-12T20:02:38.000Z",
+      "created_at": "2026-02-12 15:02:38 -05:00",
+      "created_at_ms": 1770926558000,
+      "created_at_iso": "2026-02-12T20:02:38.000Z",
+      "handle": "solana_devs",
+      "text": "solana keeps winning tbh",
+      "link": "https://twitter.com/solana_devs/status/2022038658485039234",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/solana_devs/status/2022038658485039234"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.496
+      }
+    },
+    {
+      "id": "2022057147778183443",
+      "createdAt": "2026-02-12T21:16:06.000Z",
+      "created_at": "2026-02-12 16:16:06 -05:00",
+      "created_at_ms": 1770930966000,
+      "created_at_iso": "2026-02-12T21:16:06.000Z",
+      "handle": "solana_daily",
+      "text": "Winners of our AMA with AgentPad ($20 each):\n@FaRuk172338\n@CryptoUnite_\n@Kcarlastro\n@rezkos19\n@youneedme\n\n👉Submit your BEP20 wallet address under this Tweet to claim the prize",
+      "link": "https://twitter.com/solana_daily/status/2022057147778183443",
+      "entities": {
+        "tickers": [
+          "$20"
+        ],
+        "handles": [
+          "@faruk172338",
+          "@cryptounite_",
+          "@kcarlastro",
+          "@rezkos19",
+          "@youneedme"
+        ],
+        "urls": [
+          "https://twitter.com/solana_daily/status/2022057147778183443"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.521
+      }
+    },
+    {
+      "id": "2022059917386076331",
+      "createdAt": "2026-02-12T21:27:07.000Z",
+      "created_at": "2026-02-12 16:27:07 -05:00",
+      "created_at_ms": 1770931627000,
+      "created_at_iso": "2026-02-12T21:27:07.000Z",
+      "handle": "solana_devs",
+      "text": "TOLY THE GREY HAS SPOKEN",
+      "link": "https://twitter.com/solana_devs/status/2022059917386076331",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/solana_devs/status/2022059917386076331"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.525
+      }
+    },
+    {
+      "id": "2022087469311852722",
+      "createdAt": "2026-02-12T23:16:35.000Z",
+      "created_at": "2026-02-12 18:16:35 -05:00",
+      "created_at_ms": 1770938195000,
+      "created_at_iso": "2026-02-12T23:16:35.000Z",
+      "handle": "gumsays",
+      "text": "There is no way the USA won’t announce a Bitcoin TWAP in the next 1/2 years\n\nIt will happen",
+      "link": "https://twitter.com/gumsays/status/2022087469311852722",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/gumsays/status/2022087469311852722"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.563
+      }
+    },
+    {
+      "id": "2022092029866790913",
+      "createdAt": "2026-02-12T23:34:43.000Z",
+      "created_at": "2026-02-12 18:34:43 -05:00",
+      "created_at_ms": 1770939283000,
+      "created_at_iso": "2026-02-12T23:34:43.000Z",
+      "handle": "solana_devs",
+      "text": "RT @harkl_: Reminder for all of you claw junkies\n\nThe definitive vibe coding Solana skill lives at\n\nhttps://t.co/7zRBGaYF22",
+      "link": "https://twitter.com/solana_devs/status/2022092029866790913",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@harkl_"
+        ],
+        "urls": [
+          "https://t.co/7zRBGaYF22",
+          "https://solana.com/SKILL.md",
+          "https://twitter.com/solana_devs/status/2022092029866790913"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.569
+      }
+    },
+    {
+      "id": "2022135127393067183",
+      "createdAt": "2026-02-13T02:25:58.000Z",
+      "created_at": "2026-02-12 21:25:58 -05:00",
+      "created_at_ms": 1770949558000,
+      "created_at_iso": "2026-02-13T02:25:58.000Z",
+      "handle": "solanamobile",
+      "text": "RT @PauluneMoon: Just opened my @solanamobile 👀\n\nWhat app should I download first? https://t.co/H8ZpJUpVj7",
+      "link": "https://twitter.com/solanamobile/status/2022135127393067183",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@paulunemoon",
+          "@solanamobile"
+        ],
+        "urls": [
+          "https://t.co/H8ZpJUpVj7",
+          "https://twitter.com/solanamobile/status/2022135127393067183"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 6,
+        "recencyBoost": 0.629
+      }
+    },
+    {
+      "id": "2022189945755238466",
+      "createdAt": "2026-02-13T06:03:48.000Z",
+      "created_at": "2026-02-13 01:03:48 -05:00",
+      "created_at_ms": 1770962628000,
+      "created_at_iso": "2026-02-13T06:03:48.000Z",
+      "handle": "solana_daily",
+      "text": "🚨Anatoly Yakovenko, CEO of @solanalabs , has been appointed to the U.S. Commodity Futures Trading Commission’s newly formed Innovation Advisory Committee. \nThe 35-member panel - launched by CFTC Chairman Michael S. Selig - brings together leaders from crypto, traditional finance, and tech to advise the agency on regulation and emerging technologies like blockchain and AI. Yakovenko joins other prominent executives such as Coinbase’s Brian Armstrong and Ripple’s Brad Garlinghouse as the committee aims to shape future policy in digital asset markets.",
+      "link": "https://twitter.com/solana_daily/status/2022189945755238466",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solanalabs"
+        ],
+        "urls": [
+          "https://t.co/miTPHHwnCR",
+          "https://twitter.com/solana_daily/status/2022189945755238466"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0.704
+      }
+    },
+    {
+      "id": "2022222753731158374",
+      "createdAt": "2026-02-13T08:14:10.000Z",
+      "created_at": "2026-02-13 03:14:10 -05:00",
+      "created_at_ms": 1770970450000,
+      "created_at_iso": "2026-02-13T08:14:10.000Z",
+      "handle": "armaniferrante",
+      "text": "RT @SebMontgomery: so @Backpack have TGE soon, and if you haven't paid attention yet, now is the time to do so.\n\nwhat is Backpack? what doe…",
+      "link": "https://twitter.com/armaniferrante/status/2022222753731158374",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@sebmontgomery",
+          "@backpack"
+        ],
+        "urls": [
+          "https://t.co/nAxgNieXQb",
+          "https://twitter.com/armaniferrante/status/2022222753731158374"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0.75
+      }
+    },
+    {
+      "id": "2022231992516202912",
+      "createdAt": "2026-02-13T08:50:52.000Z",
+      "created_at": "2026-02-13 03:50:52 -05:00",
+      "created_at_ms": 1770972652000,
+      "created_at_iso": "2026-02-13T08:50:52.000Z",
+      "handle": "SolanaFloor",
+      "text": "UPDATE: Gangnam Police has again discovered 22 BTC (~2.1B won) seized in a 2021 investigation were drained from a cold wallet while the device remained intact. Earlier, prosecutors had already lost 320 BTC in a separate incident. https://t.co/DEObm9u4RG",
+      "link": "https://twitter.com/SolanaFloor/status/2022231992516202912",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/DEObm9u4RG",
+          "https://twitter.com/SolanaFloor/status/2022231992516202912"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.762
+      }
+    },
+    {
+      "id": "2022231997704556807",
+      "createdAt": "2026-02-13T08:50:54.000Z",
+      "created_at": "2026-02-13 03:50:54 -05:00",
+      "created_at_ms": 1770972654000,
+      "created_at_iso": "2026-02-13T08:50:54.000Z",
+      "handle": "SolanaFloor",
+      "text": "Source: https://t.co/2bkaHm31aV",
+      "link": "https://twitter.com/SolanaFloor/status/2022231997704556807",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/2bkaHm31aV",
+          "https://www.donga.com/news/Society/article/all/20260213/133360736/1",
+          "https://twitter.com/SolanaFloor/status/2022231997704556807"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.762
+      }
+    },
+    {
+      "id": "2022244167322419373",
+      "createdAt": "2026-02-13T09:39:15.000Z",
+      "created_at": "2026-02-13 04:39:15 -05:00",
+      "created_at_ms": 1770975555000,
+      "created_at_iso": "2026-02-13T09:39:15.000Z",
+      "handle": "SolanaFloor",
+      "text": "🚨NEW: @Solana dominates stablecoin inflows, ranking #1 among all chains in the past 24 hours. https://t.co/aRfOMiCTU1",
+      "link": "https://twitter.com/SolanaFloor/status/2022244167322419373",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/aRfOMiCTU1",
+          "https://twitter.com/SolanaFloor/status/2022244167322419373"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.779
+      }
+    },
+    {
+      "id": "2022244170367471970",
+      "createdAt": "2026-02-13T09:39:16.000Z",
+      "created_at": "2026-02-13 04:39:16 -05:00",
+      "created_at_ms": 1770975556000,
+      "created_at_iso": "2026-02-13T09:39:16.000Z",
+      "handle": "SolanaFloor",
+      "text": "Source: https://t.co/F1HE8XijBB",
+      "link": "https://twitter.com/SolanaFloor/status/2022244170367471970",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/F1HE8XijBB",
+          "https://app.artemisanalytics.com/macro",
+          "https://twitter.com/SolanaFloor/status/2022244170367471970"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.779
+      }
+    },
+    {
+      "id": "2022244526375739783",
+      "createdAt": "2026-02-13T09:40:41.000Z",
+      "created_at": "2026-02-13 04:40:41 -05:00",
+      "created_at_ms": 1770975641000,
+      "created_at_iso": "2026-02-13T09:40:41.000Z",
+      "handle": "SolanaFloor",
+      "text": "UPDATE: @Solana continues to surpass all other chains combined in x402 transactions. https://t.co/VVOFlVZ0z9",
+      "link": "https://twitter.com/SolanaFloor/status/2022244526375739783",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/VVOFlVZ0z9",
+          "https://twitter.com/SolanaFloor/status/2022244526375739783"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.78
+      }
+    },
+    {
+      "id": "2022244529236213999",
+      "createdAt": "2026-02-13T09:40:41.000Z",
+      "created_at": "2026-02-13 04:40:41 -05:00",
+      "created_at_ms": 1770975641000,
+      "created_at_iso": "2026-02-13T09:40:41.000Z",
+      "handle": "SolanaFloor",
+      "text": "Source: https://t.co/a9pxIj6Ho6",
+      "link": "https://twitter.com/SolanaFloor/status/2022244529236213999",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/a9pxIj6Ho6",
+          "https://dune.com/hashed_official/x402-analytics",
+          "https://twitter.com/SolanaFloor/status/2022244529236213999"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.78
+      }
+    },
+    {
+      "id": "2022246148178907545",
+      "createdAt": "2026-02-13T09:47:07.000Z",
+      "created_at": "2026-02-13 04:47:07 -05:00",
+      "created_at_ms": 1770976027000,
+      "created_at_iso": "2026-02-13T09:47:07.000Z",
+      "handle": "SolanaFloor",
+      "text": "🚨BREAKING: @Solana DeFi TVL has surpassed 80M $SOL, a new all-time high. https://t.co/O0ZBoSLy36",
+      "link": "https://twitter.com/SolanaFloor/status/2022246148178907545",
+      "entities": {
+        "tickers": [
+          "$SOL"
+        ],
+        "handles": [
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/O0ZBoSLy36",
+          "https://twitter.com/SolanaFloor/status/2022246148178907545"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0.782
+      }
+    },
+    {
+      "id": "2022246150817063064",
+      "createdAt": "2026-02-13T09:47:08.000Z",
+      "created_at": "2026-02-13 04:47:08 -05:00",
+      "created_at_ms": 1770976028000,
+      "created_at_iso": "2026-02-13T09:47:08.000Z",
+      "handle": "SolanaFloor",
+      "text": "Source: https://t.co/4qFAFIuCON",
+      "link": "https://twitter.com/SolanaFloor/status/2022246150817063064",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/4qFAFIuCON",
+          "https://defillama.com/chain/solana?currency=SOL",
+          "https://twitter.com/SolanaFloor/status/2022246150817063064"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.782
+      }
+    },
+    {
+      "id": "2022289726045078004",
+      "createdAt": "2026-02-13T12:40:17.000Z",
+      "created_at": "2026-02-13 07:40:17 -05:00",
+      "created_at_ms": 1770986417000,
+      "created_at_iso": "2026-02-13T12:40:17.000Z",
+      "handle": "solana_devs",
+      "text": "gm Solana devs\n\nWhat are we building today?",
+      "link": "https://twitter.com/solana_devs/status/2022289726045078004",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/solana_devs/status/2022289726045078004"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.842
+      }
+    },
+    {
+      "id": "2022293803881648295",
+      "createdAt": "2026-02-13T12:56:29.000Z",
+      "created_at": "2026-02-13 07:56:29 -05:00",
+      "created_at_ms": 1770987389000,
+      "created_at_iso": "2026-02-13T12:56:29.000Z",
+      "handle": "Matty_Solana",
+      "text": "Winners don’t chase pumps.\nThey chase positioning + products.",
+      "link": "https://twitter.com/Matty_Solana/status/2022293803881648295",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/2022293803881648295"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.848
+      }
+    },
+    {
+      "id": "2022295818875891809",
+      "createdAt": "2026-02-13T13:04:30.000Z",
+      "created_at": "2026-02-13 08:04:30 -05:00",
+      "created_at_ms": 1770987870000,
+      "created_at_iso": "2026-02-13T13:04:30.000Z",
+      "handle": "SolanaFloor",
+      "text": "NEW: @Binance France president targeted in a home-jacking attempt, but suspects fled after finding him absent. The three attackers were later arrested in Lyon following a second failed attempt. https://t.co/ti6MaDcwkX",
+      "link": "https://twitter.com/SolanaFloor/status/2022295818875891809",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@binance"
+        ],
+        "urls": [
+          "https://t.co/ti6MaDcwkX",
+          "https://twitter.com/SolanaFloor/status/2022295818875891809"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.85
+      }
+    },
+    {
+      "id": "2022295823808344536",
+      "createdAt": "2026-02-13T13:04:31.000Z",
+      "created_at": "2026-02-13 08:04:31 -05:00",
+      "created_at_ms": 1770987871000,
+      "created_at_iso": "2026-02-13T13:04:31.000Z",
+      "handle": "SolanaFloor",
+      "text": "Source: https://t.co/C80a3z4pcB",
+      "link": "https://twitter.com/SolanaFloor/status/2022295823808344536",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/C80a3z4pcB",
+          "https://www.rtl.fr/actu/justice-faits-divers/info-rtl-cryptomonnaies-le-patron-de-binance-france-mastodonte-du-secteur-vise-par-une-tentative-de-home-jacking-7900601034",
+          "https://twitter.com/SolanaFloor/status/2022295823808344536"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.85
+      }
+    },
+    {
+      "id": "2022305320249459173",
+      "createdAt": "2026-02-13T13:42:15.000Z",
+      "created_at": "2026-02-13 08:42:15 -05:00",
+      "created_at_ms": 1770990135000,
+      "created_at_iso": "2026-02-13T13:42:15.000Z",
+      "handle": "SolanaFloor",
+      "text": "NEWS: @21shares announces $0.316871 per share staking rewards distribution for its @Solana ETF (TSOL), payable on Feb 17, 2026. https://t.co/sWe4dGbEBx",
+      "link": "https://twitter.com/SolanaFloor/status/2022305320249459173",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@21shares",
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/sWe4dGbEBx",
+          "https://twitter.com/SolanaFloor/status/2022305320249459173"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.863
+      }
+    },
+    {
+      "id": "2022305323365929036",
+      "createdAt": "2026-02-13T13:42:16.000Z",
+      "created_at": "2026-02-13 08:42:16 -05:00",
+      "created_at_ms": 1770990136000,
+      "created_at_iso": "2026-02-13T13:42:16.000Z",
+      "handle": "SolanaFloor",
+      "text": "Source: https://t.co/VUm1vzNea4",
+      "link": "https://twitter.com/SolanaFloor/status/2022305323365929036",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/VUm1vzNea4",
+          "https://www.globenewswire.com/news-release/2026/02/12/3237797/0/en/21shares-Announces-Distributions-on-TSOL.html?_gl=1*d4ncqk*_up*MQ..*_ga*MTQ1ODU1NjQ4MC4xNzcwOTg5ODU0*_ga_B6167QB2TF*czE3NzA5ODk4NTMkbzEkZzAkdDE3NzA5ODk4NTMkajYwJGwwJGgw*_ga_ERWPGTJ5X8*czE3NzA5ODk4NTMkbzEkZzAkdDE3NzA5ODk4NTMkajYwJGwwJGgw",
+          "https://twitter.com/SolanaFloor/status/2022305323365929036"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.863
+      }
+    },
+    {
+      "id": "2022306811806880101",
+      "createdAt": "2026-02-13T13:48:11.000Z",
+      "created_at": "2026-02-13 08:48:11 -05:00",
+      "created_at_ms": 1770990491000,
+      "created_at_iso": "2026-02-13T13:48:11.000Z",
+      "handle": "SolanaFloor",
+      "text": "🚨 BREAKING: @Solana’s RWA ecosystem has reached $1.64B in total value, a new all-time high.\n\nTotal holders: 285K+, up over 113% in the last 30 days. https://t.co/MfhLmyGCEM",
+      "link": "https://twitter.com/SolanaFloor/status/2022306811806880101",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/MfhLmyGCEM",
+          "https://twitter.com/SolanaFloor/status/2022306811806880101"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.866
+      }
+    },
+    {
+      "id": "2022306814638039224",
+      "createdAt": "2026-02-13T13:48:11.000Z",
+      "created_at": "2026-02-13 08:48:11 -05:00",
+      "created_at_ms": 1770990491000,
+      "created_at_iso": "2026-02-13T13:48:11.000Z",
+      "handle": "SolanaFloor",
+      "text": "Source: https://t.co/MQ2jFI9iVi",
+      "link": "https://twitter.com/SolanaFloor/status/2022306814638039224",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/MQ2jFI9iVi",
+          "https://app.rwa.xyz/networks/solana",
+          "https://twitter.com/SolanaFloor/status/2022306814638039224"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.866
+      }
+    },
+    {
+      "id": "2022326570224914789",
+      "createdAt": "2026-02-13T15:06:42.000Z",
+      "created_at": "2026-02-13 10:06:42 -05:00",
+      "created_at_ms": 1770995202000,
+      "created_at_iso": "2026-02-13T15:06:42.000Z",
+      "handle": "SolanaFloor",
+      "text": "The 6 BIGGEST Solana News Stories of the Week:        \n\n✍️@solace_fm \n\n1. Goldman Sachs Discloses $108 Million in Solana ETFs as it Slashes Bitcoin and Ethereum Exposure\n\n2. Solana Perps Scene Snubbed Once Again As @TrojanOnSolana Integrates Elsewhere\n\n3. Solana Co-Founder Anatoly Yakovenko Shares Vibe-Coded Percolator Memecoin Perps as Developers Fork the Project\n\n4. Jupiter Community Expresses Concern Over “Missing Airdrop” and $JUP Decline\n\n5. Developers on Solana Increase Almost 10X Since 2020 as Network Welcomes a Record 3830 New Devs in 2025\n\n6. Hurupay Fails to Raise $3M ICO Target on @MetaDAOProject  - Is the ICO Meta Over?",
+      "link": "https://twitter.com/SolanaFloor/status/2022326570224914789",
+      "entities": {
+        "tickers": [
+          "$108",
+          "$JUP",
+          "$3M"
+        ],
+        "handles": [
+          "@solace_fm",
+          "@trojanonsolana",
+          "@metadaoproject"
+        ],
+        "urls": [
+          "https://t.co/adJqCZ1FKN",
+          "https://twitter.com/SolanaFloor/status/2022326570224914789"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 13,
+        "recencyBoost": 0.893
+      }
+    },
+    {
+      "id": "2022326574369124863",
+      "createdAt": "2026-02-13T15:06:42.000Z",
+      "created_at": "2026-02-13 10:06:42 -05:00",
+      "created_at_ms": 1770995202000,
+      "created_at_iso": "2026-02-13T15:06:42.000Z",
+      "handle": "SolanaFloor",
+      "text": "Everything that happened in the last 7 days on\n@solana\n\nThe Solana Weekly Newsletter is now out!      \n\nRead and subscribe to get top Solana News directly in your email     \n\nhttps://t.co/cbhhKqO0Hu",
+      "link": "https://twitter.com/SolanaFloor/status/2022326574369124863",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/cbhhKqO0Hu",
+          "http://solanafloor.substack.com",
+          "https://twitter.com/SolanaFloor/status/2022326574369124863"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.893
+      }
+    },
+    {
+      "id": "2022326749024104448",
+      "createdAt": "2026-02-13T15:07:24.000Z",
+      "created_at": "2026-02-13 10:07:24 -05:00",
+      "created_at_ms": 1770995244000,
+      "created_at_iso": "2026-02-13T15:07:24.000Z",
+      "handle": "SolanaFloor",
+      "text": "NEW: @Anchorage, in collaboration with Kamino and Solana Company, has launched a new structure bringing institutional collateral management to @Solana.\n\nInstitutions can use staked SOL as collateral for onchain borrowing without moving assets out of qualified custody. https://t.co/PcJWhTr7Wu",
+      "link": "https://twitter.com/SolanaFloor/status/2022326749024104448",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@anchorage",
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/PcJWhTr7Wu",
+          "https://twitter.com/SolanaFloor/status/2022326749024104448"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 11,
+        "recencyBoost": 0.893
+      }
+    },
+    {
+      "id": "2022328314120012083",
+      "createdAt": "2026-02-13T15:13:37.000Z",
+      "created_at": "2026-02-13 10:13:37 -05:00",
+      "created_at_ms": 1770995617000,
+      "created_at_iso": "2026-02-13T15:13:37.000Z",
+      "handle": "cobotgg",
+      "text": "Excited to launch autonomous trading agents for @Polymarket  5-min Bitcoin price market.\n\nTop up your wallet, set the preferences and let the agent trade 24/7, few users are already up 70% in just 6 hours\n\nPWA: https://t.co/fz558jjvwa\n\n@base   and @solanamobile   mini-apps launching soon",
+      "link": "https://twitter.com/cobotgg/status/2022328314120012083",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@polymarket",
+          "@base",
+          "@solanamobile"
+        ],
+        "urls": [
+          "https://t.co/fz558jjvwa",
+          "https://t.co/8GWQwmlx7y",
+          "https://app.cobot.gg",
+          "https://twitter.com/cobotgg/status/2022328314120012083"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 6,
+        "recencyBoost": 0.895
+      }
+    },
+    {
+      "id": "2022328348626853927",
+      "createdAt": "2026-02-13T15:13:46.000Z",
+      "created_at": "2026-02-13 10:13:46 -05:00",
+      "created_at_ms": 1770995626000,
+      "created_at_iso": "2026-02-13T15:13:46.000Z",
+      "handle": "SolanaFloor",
+      "text": "🚨NEW: Can You Protect Yourself Against Hacks? - Key Takeaways from @Certora's Livestream on Evolving Threats and What Protocols Must Do Next\n\n✍️ @ideyquickvex \n\nhttps://t.co/BwziHO0wXH",
+      "link": "https://twitter.com/SolanaFloor/status/2022328348626853927",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@certora",
+          "@ideyquickvex"
+        ],
+        "urls": [
+          "https://t.co/BwziHO0wXH",
+          "https://solanafloor.com/news/can-you-protect-yourself-against-hacks-key-takeaways-from-certora-s-livestream",
+          "https://twitter.com/SolanaFloor/status/2022328348626853927"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.895
+      }
+    },
+    {
+      "id": "2022340367451140151",
+      "createdAt": "2026-02-13T16:01:31.000Z",
+      "created_at": "2026-02-13 11:01:31 -05:00",
+      "created_at_ms": 1770998491000,
+      "created_at_iso": "2026-02-13T16:01:31.000Z",
+      "handle": "SolanaFloor",
+      "text": "Solana Weekly News is LIVE on X!\n\n💸 Goldman Sachs $SOL Investment\n👀 Solana Perps DEXs Get Snubbed\n☁️ $JUP Holders Await Airdrop News\n\n...and more top stories of the week.\n\nhttps://t.co/EPO2bEc333",
+      "link": "https://twitter.com/SolanaFloor/status/2022340367451140151",
+      "entities": {
+        "tickers": [
+          "$SOL",
+          "$JUP"
+        ],
+        "handles": [],
+        "urls": [
+          "https://t.co/EPO2bEc333",
+          "https://x.com/i/broadcasts/1vAGRQQPgyZKl",
+          "https://twitter.com/SolanaFloor/status/2022340367451140151"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 13,
+        "recencyBoost": 0.912
+      }
+    },
+    {
+      "id": "2022341612333084915",
+      "createdAt": "2026-02-13T16:06:28.000Z",
+      "created_at": "2026-02-13 11:06:28 -05:00",
+      "created_at_ms": 1770998788000,
+      "created_at_iso": "2026-02-13T16:06:28.000Z",
+      "handle": "solanamobile",
+      "text": "RT @degenphone: We're live on the Solana dApp Store.\n\n@solanamobile users can now mint and use degenphone directly from their device. Real…",
+      "link": "https://twitter.com/solanamobile/status/2022341612333084915",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@degenphone",
+          "@solanamobile"
+        ],
+        "urls": [
+          "https://t.co/xmHpz5H1QZ",
+          "https://twitter.com/solanamobile/status/2022341612333084915"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.914
+      }
+    },
+    {
+      "id": "2022347519934464398",
+      "createdAt": "2026-02-13T16:29:56.000Z",
+      "created_at": "2026-02-13 11:29:56 -05:00",
+      "created_at_ms": 1771000196000,
+      "created_at_iso": "2026-02-13T16:29:56.000Z",
+      "handle": "gumsays",
+      "text": "THIS IS HUGE\n\nMore people should be talking about this!\n\n@kamino is bringing INSTITUTIONAL collateral management to @solana.\n\nInstitutions can now use natively staked SOL as collateral and access onchain borrowing without moving their assets out of regulated custody\n\nThis means it just got easier to do DeFi as an institution\n\nThe institutions are not coming, they're finally here and on @solana",
+      "link": "https://twitter.com/gumsays/status/2022347519934464398",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@kamino",
+          "@solana",
+          "@solana"
+        ],
+        "urls": [
+          "https://twitter.com/gumsays/status/2022347519934464398"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 11,
+        "recencyBoost": 0.922
+      }
+    },
+    {
+      "id": "2022348283101041080",
+      "createdAt": "2026-02-13T16:32:58.000Z",
+      "created_at": "2026-02-13 11:32:58 -05:00",
+      "created_at_ms": 1771000378000,
+      "created_at_iso": "2026-02-13T16:32:58.000Z",
+      "handle": "solana_devs",
+      "text": "The Solana weekly changelog is back! \n\nTune in every Thursday at 15:00 UTC to stay up to date with all the latest in Solana development and chat with some team members from the Solana Foundation devrel team 👩‍💻👨‍💻",
+      "link": "https://twitter.com/solana_devs/status/2022348283101041080",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://twitter.com/solana_devs/status/2022348283101041080"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.923
+      }
+    },
+    {
+      "id": "2022348284736737392",
+      "createdAt": "2026-02-13T16:32:59.000Z",
+      "created_at": "2026-02-13 11:32:59 -05:00",
+      "created_at_ms": 1771000379000,
+      "created_at_iso": "2026-02-13T16:32:59.000Z",
+      "handle": "solana_devs",
+      "text": "If you missed it yesterday, here is the recording: https://t.co/aDlvRUrkTe",
+      "link": "https://twitter.com/solana_devs/status/2022348284736737392",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/aDlvRUrkTe",
+          "https://www.youtube.com/live/J44ZNhMN9V8?si=MDgAF44gpE8eTIFp",
+          "https://twitter.com/solana_devs/status/2022348284736737392"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.923
+      }
+    },
+    {
+      "id": "2022348286427070686",
+      "createdAt": "2026-02-13T16:32:59.000Z",
+      "created_at": "2026-02-13 11:32:59 -05:00",
+      "created_at_ms": 1771000379000,
+      "created_at_iso": "2026-02-13T16:32:59.000Z",
+      "handle": "solana_devs",
+      "text": "Mark your calendars for next week: https://t.co/RChxHS4n3l",
+      "link": "https://twitter.com/solana_devs/status/2022348286427070686",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/RChxHS4n3l",
+          "https://youtube.com/live/H_VmS-MD6yw?feature=share",
+          "https://twitter.com/solana_devs/status/2022348286427070686"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.923
+      }
+    },
+    {
+      "id": "2022348428249125036",
+      "createdAt": "2026-02-13T16:33:33.000Z",
+      "created_at": "2026-02-13 11:33:33 -05:00",
+      "created_at_ms": 1771000413000,
+      "created_at_iso": "2026-02-13T16:33:33.000Z",
+      "handle": "solana_daily",
+      "text": "⚡️Solana leads the Top 10 Layer 1 Blockchains by Revenue in January 2026 \n\n🥇@solana\n🥈@trondao\n🥉@ethereum\n🏅@BNBCHAIN\n🏅@ton_blockchain\n🏅@SuiNetwork\n🏅@avax\n🏅@injective\n🏅@Aptos\n🏅@NEARProtocol",
+      "link": "https://twitter.com/solana_daily/status/2022348428249125036",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@solana",
+          "@trondao",
+          "@ethereum",
+          "@bnbchain",
+          "@ton_blockchain",
+          "@suinetwork",
+          "@avax",
+          "@injective",
+          "@aptos",
+          "@nearprotocol"
+        ],
+        "urls": [
+          "https://t.co/L70bELMLqg",
+          "https://twitter.com/solana_daily/status/2022348428249125036"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.923
+      }
+    },
+    {
+      "id": "2022349407598047718",
+      "createdAt": "2026-02-13T16:37:26.000Z",
+      "created_at": "2026-02-13 11:37:26 -05:00",
+      "created_at_ms": 1771000646000,
+      "created_at_iso": "2026-02-13T16:37:26.000Z",
+      "handle": "Matty_Solana",
+      "text": "RT @WIDITDOTFUN: Widi was the beginning\nA new chapter begins\nVision bigger than ever\nExpect the unexpected\n\n🌊🔜",
+      "link": "https://twitter.com/Matty_Solana/status/2022349407598047718",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@widitdotfun"
+        ],
+        "urls": [
+          "https://twitter.com/Matty_Solana/status/2022349407598047718"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.924
+      }
+    },
+    {
+      "id": "2022350407608258653",
+      "createdAt": "2026-02-13T16:41:25.000Z",
+      "created_at": "2026-02-13 11:41:25 -05:00",
+      "created_at_ms": 1771000885000,
+      "created_at_iso": "2026-02-13T16:41:25.000Z",
+      "handle": "SolanaFloor",
+      "text": "🚨BREAKING: According to Fortune, @binance fired multiple internal investigators after they uncovered evidence that Iran-linked entities moved over $1B through the exchange between March 2024 and August 2025, potentially violating U.S. sanctions laws. https://t.co/USZM7jVMDW",
+      "link": "https://twitter.com/SolanaFloor/status/2022350407608258653",
+      "entities": {
+        "tickers": [
+          "$1B"
+        ],
+        "handles": [
+          "@binance"
+        ],
+        "urls": [
+          "https://t.co/USZM7jVMDW",
+          "https://twitter.com/SolanaFloor/status/2022350407608258653"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.926
+      }
+    },
+    {
+      "id": "2022350775234760950",
+      "createdAt": "2026-02-13T16:42:52.000Z",
+      "created_at": "2026-02-13 11:42:52 -05:00",
+      "created_at_ms": 1771000972000,
+      "created_at_iso": "2026-02-13T16:42:52.000Z",
+      "handle": "SolanaFloor",
+      "text": "🚨 EXCLUSIVE: @JupiterExchange Weighs Plan to Drive $JUP Token Emissions to Net Zero for the Rest of 2026\n\n✍️ @ideyquickvex \n\nhttps://t.co/sPcluc2dK1",
+      "link": "https://twitter.com/SolanaFloor/status/2022350775234760950",
+      "entities": {
+        "tickers": [
+          "$JUP"
+        ],
+        "handles": [
+          "@jupiterexchange",
+          "@ideyquickvex"
+        ],
+        "urls": [
+          "https://t.co/sPcluc2dK1",
+          "https://solanafloor.com/news/jupiter-weighs-plan-to-drive-jup-token-emissions-to-net-zero",
+          "https://twitter.com/SolanaFloor/status/2022350775234760950"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0.926
+      }
+    },
+    {
+      "id": "2022358928953356413",
+      "createdAt": "2026-02-13T17:15:16.000Z",
+      "created_at": "2026-02-13 12:15:16 -05:00",
+      "created_at_ms": 1771002916000,
+      "created_at_iso": "2026-02-13T17:15:16.000Z",
+      "handle": "armaniferrante",
+      "text": "RT @SenseiSOL: With every new update, @Backpack is becoming the platform with the cleanest UI/UX in the entire ecosystem.\n\nThey pay attenti…",
+      "link": "https://twitter.com/armaniferrante/status/2022358928953356413",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@senseisol",
+          "@backpack"
+        ],
+        "urls": [
+          "https://t.co/nJCuPfhqAU",
+          "https://twitter.com/armaniferrante/status/2022358928953356413"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 4,
+        "recencyBoost": 0.937
+      }
+    },
+    {
+      "id": "2022360250108764556",
+      "createdAt": "2026-02-13T17:20:31.000Z",
+      "created_at": "2026-02-13 12:20:31 -05:00",
+      "created_at_ms": 1771003231000,
+      "created_at_iso": "2026-02-13T17:20:31.000Z",
+      "handle": "solanamobile",
+      "text": "We took a phone and put it on the mtn 🏔️\n\nmtn Seekers on top https://t.co/3CTHwZPmu0",
+      "link": "https://twitter.com/solanamobile/status/2022360250108764556",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/3CTHwZPmu0",
+          "https://twitter.com/solanamobile/status/2022360250108764556"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0.939
+      }
+    },
+    {
+      "id": "2022360797515780199",
+      "createdAt": "2026-02-13T17:22:42.000Z",
+      "created_at": "2026-02-13 12:22:42 -05:00",
+      "created_at_ms": 1771003362000,
+      "created_at_iso": "2026-02-13T17:22:42.000Z",
+      "handle": "armaniferrante",
+      "text": "NFT skins now with blurring and integration with the exchange accounts! https://t.co/gWC1sKz6CQ",
+      "link": "https://twitter.com/armaniferrante/status/2022360797515780199",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/gWC1sKz6CQ",
+          "https://twitter.com/armaniferrante/status/2022360797515780199"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 0,
+        "recencyBoost": 0.94
+      }
+    },
+    {
+      "id": "2022362885792358829",
+      "createdAt": "2026-02-13T17:31:00.000Z",
+      "created_at": "2026-02-13 12:31:00 -05:00",
+      "created_at_ms": 1771003860000,
+      "created_at_iso": "2026-02-13T17:31:00.000Z",
+      "handle": "solana_daily",
+      "text": "🚨 Solana’s RWA reached a new ATH: \n🔸$1.64B+ in tokenized value \n🔸285K+ RWA holders https://t.co/qXGIKQVkvD",
+      "link": "https://twitter.com/solana_daily/status/2022362885792358829",
+      "entities": {
+        "tickers": [],
+        "handles": [],
+        "urls": [
+          "https://t.co/qXGIKQVkvD",
+          "https://twitter.com/solana_daily/status/2022362885792358829"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 7,
+        "recencyBoost": 0.943
+      }
+    },
+    {
+      "id": "2022365864285344179",
+      "createdAt": "2026-02-13T17:42:50.000Z",
+      "created_at": "2026-02-13 12:42:50 -05:00",
+      "created_at_ms": 1771004570000,
+      "created_at_iso": "2026-02-13T17:42:50.000Z",
+      "handle": "solana_devs",
+      "text": "RT @b_migliaccio: There is ONE day left in the @solana AI Agent hackathon and its not too late to participate. \n\nFollow this tutorial to ge…",
+      "link": "https://twitter.com/solana_devs/status/2022365864285344179",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@b_migliaccio",
+          "@solana"
+        ],
+        "urls": [
+          "https://t.co/W2KQgPHXW3",
+          "https://twitter.com/solana_devs/status/2022365864285344179"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 9,
+        "recencyBoost": 0.947
+      }
+    },
+    {
+      "id": "2022367761691799727",
+      "createdAt": "2026-02-13T17:50:22.000Z",
+      "created_at": "2026-02-13 12:50:22 -05:00",
+      "created_at_ms": 1771005022000,
+      "created_at_iso": "2026-02-13T17:50:22.000Z",
+      "handle": "cobotgg",
+      "text": "Deploy your agents to trade autonomously on @cobotgg \n\nhttps://t.co/BayVGBsFxA",
+      "link": "https://twitter.com/cobotgg/status/2022367761691799727",
+      "entities": {
+        "tickers": [],
+        "handles": [
+          "@cobotgg"
+        ],
+        "urls": [
+          "https://t.co/BayVGBsFxA",
+          "https://x.com/cobotgg/status/2022328314120012083",
+          "https://twitter.com/cobotgg/status/2022367761691799727"
+        ]
+      },
+      "score": {
+        "solanaRelevance": 2,
+        "recencyBoost": 0.95
+      }
+    }
+  ]
+}

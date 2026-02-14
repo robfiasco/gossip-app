@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Solana Blog",
+    "type": "rss",
+    "url": "https://solana.com/rss",
+    "domain": "solana.com",
+    "weight": 1.3,
+    "topics": ["protocol", "foundation", "updates"]
+  },
+  {
+    "name": "SolanaFloor",
+    "type": "html",
+    "url": "https://solanafloor.com/news",
+    "domain": "solanafloor.com",
+    "weight": 1.2,
+    "topics": ["solana", "news"]
+  },
+  {
+    "name": "Backpack",
+    "type": "rss",
+    "url": "https://blog.backpack.exchange/feed/",
+    "domain": "backpack.exchange",
+    "weight": 1.1,
+    "topics": ["tokenomics", "exchange", "airdrop"]
+  },
+  {
+    "name": "Jito",
+    "type": "rss",
+    "url": "https://www.jito.network/rss.xml",
+    "domain": "jito.network",
+    "weight": 1.2,
+    "topics": ["staking", "restaking", "mev"]
+  },
+  {
+    "name": "Blockworks",
+    "type": "rss",
+    "url": "https://blockworks.co/feed",
+    "domain": "blockworks.co",
+    "weight": 1.0,
+    "topics": ["markets", "defi"]
+  },
+  {
+    "name": "CoinDesk",
+    "type": "rss",
+    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml",
+    "domain": "coindesk.com",
+    "weight": 0.9,
+    "topics": ["markets", "defi"]
+  },
+  {
+    "name": "The Block",
+    "type": "rss",
+    "url": "https://www.theblock.co/rss",
+    "domain": "theblock.co",
+    "weight": 0.9,
+    "topics": ["markets", "defi"]
+  },
+  {
+    "name": "DeFiLlama",
+    "type": "rss",
+    "url": "https://defillama.com/blog/rss.xml",
+    "domain": "defillama.com",
+    "weight": 1.0,
+    "topics": ["defi", "yields"]
+  },
+  {
+    "name": "Messari",
+    "type": "rss",
+    "url": "https://messari.io/rss",
+    "domain": "messari.io",
+    "weight": 0.9,
+    "topics": ["research", "solana"]
+  },
+  {
+    "name": "CoinTelegraph",
+    "type": "rss",
+    "url": "https://cointelegraph.com/rss",
+    "domain": "cointelegraph.com",
+    "weight": 0.7,
+    "topics": ["markets", "crypto"]
+  }
+]

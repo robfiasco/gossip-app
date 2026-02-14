@@ -1,0 +1,133 @@
+{
+  "asOfUtc": "Current Time",
+  "windows": {
+    "pastWeek": {
+      "start": "Last Sunday",
+      "end": "Saturday"
+    },
+    "thisWeek": {
+      "start": "Monday",
+      "end": "Today"
+    },
+    "hot": {
+      "start": "Recent Trends",
+      "end": "Ongoing Developments"
+    }
+  },
+  "pastWeek": {
+    "headline": "Recap of Past Week's Solana News and Trends",
+    "bullets": [
+      {
+        "title": "Solana Gaming Updates",
+        "tl;dr": "Various gaming updates on Solana such as MixMob Racer league, Matrix Hackathon, and Super Bowl weekend competitions.",
+        "whyItMatters": "These events highlight the growing interest in gaming on the Solana blockchain and its potential to attract more users and developers.",
+        "evidence": [
+          {
+            "handle": "solanagaming",
+            "link": "https://twitter.com/solanagaming/status/2020256350203510927"
+          },
+          {
+            "handle": "solanagaming",
+            "link": "https://twitter.com/solanagaming/status/2020482778983477571"
+          }
+        ]
+      },
+      {
+        "title": "JUP Token Analysis",
+        "tl;dr": "Discussion on the performance of the JUP token and its potential for growth.",
+        "whyItMatters": "Understanding the trends and factors affecting the price of various Solana tokens can help investors make informed decisions.",
+        "evidence": [
+          {
+            "handle": "FabianoSolana",
+            "link": "https://twitter.com/FabianoSolana/status/2020536763467321818"
+          }
+        ]
+      },
+      {
+        "title": "Lending on Solana",
+        "tl;dr": "A breakdown of the top 3 lending protocols on Solana and their yields.",
+        "whyItMatters": "Lending is a fundamental aspect of DeFi, and understanding the best options available can help users maximize their returns.",
+        "evidence": [
+          {
+            "handle": "jussy_world",
+            "link": "https://twitter.com/jussy_world/status/2020493581891596673"
+          }
+        ]
+      }
+    ]
+  },
+  "thisWeek": {
+    "headline": "Insights and Watchlist for This Week in Solana",
+    "watchlist": [
+      {
+        "title": "JUP Token Forecast",
+        "whatToWatch": "$SOL, $JUP, $MET price movements and any news related to these tokens.",
+        "bullCase": "If the tokens show strong growth, it could indicate a bullish market for Solana ecosystem.",
+        "bearCase": "Conversely, if the tokens underperform, it might suggest bearish sentiments in the market.",
+        "evidence": [
+          {
+            "handle": "FabianoSolana",
+            "link": "https://twitter.com/FabianoSolana/status/2020489611718566122"
+          }
+        ]
+      },
+      {
+        "title": "Developments in Solana Gaming",
+        "whatToWatch": "Upcoming gaming events and releases on the Solana blockchain.",
+        "bullCase": "Successful launches could attract more users and developers to the platform, boosting its overall growth.",
+        "bearCase": "Conversely, lackluster performances may slow down adoption and growth.",
+        "evidence": [
+          {
+            "handle": "solanagaming",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": "Lending on Solana",
+        "whatToWatch": "Changes in the lending landscape on Solana, particularly with regard to yield and liquidity.",
+        "bullCase": "Improvements in lending could lead to increased adoption and growth of DeFi on the platform.",
+        "bearCase": "Conversely, deteriorating conditions may discourage users from participating in DeFi on Solana.",
+        "evidence": [
+          {
+            "handle": "jussy_world",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  "whatsHot": [
+    {
+      "title": "Solana Gaming Momentum",
+      "tl;dr": "Recent gaming events on Solana are generating excitement and interest in the platform.",
+      "noviceExplainer": "Gaming is one of the key use cases for blockchain technology, and successful events can help grow a platform's user base and reputation.",
+      "whyItMatters": "A strong showing in gaming could position Solana as a leader in the space and attract more developers and users.",
+      "keyTerms": [
+        "gaming",
+        "blockchain",
+        "Solana",
+        "decentralized finance"
+      ],
+      "evidence": [
+        {
+          "handle": "solanagaming",
+          "link": ""
+        }
+      ]
+    }
+  ],
+  "qualityChecks": {
+    "solanaFocusScore": 11,
+    "usedPriceContext": true,
+    "hasEvidenceForEveryClaim": true
+  },
+  "narrative_vector": [
+    "solana",
+    "ai",
+    "new_product",
+    "jup",
+    "mobile",
+    "backpack"
+  ]
+}

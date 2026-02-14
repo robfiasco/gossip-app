@@ -1,0 +1,46 @@
+{
+  "name": "validator-solana-intelligence",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "market:build": "node scripts/buildMarketContext.mjs",
+    "daily:stories": "node scripts/fetchDailyStories.mjs",
+    "daily:validate": "node scripts/validateDailyStories.mjs",
+    "inspect:signals": "node scripts/inspectSignals.mjs",
+    "fetch:articles": "node scripts/fetchArticles.mjs",
+    "build:digest": "node scripts/buildDailyDigest.mjs",
+    "digest:llm": "node scripts/llmSummarize.mjs",
+    "articles:build": "node scripts/buildDailyArticles.mjs",
+    "stories:build": "node scripts/buildTopStories.mjs",
+    "score:stories": "node scripts/scoreArticlesWithTweets.mjs",
+    "digest:ollama": "node scripts/ollamaDigest.mjs",
+    "extract:tweetTopics": "node scripts/extractTweetTopics.mjs",
+    "tweets:72h": "node scripts/filterTweets72h.mjs",
+    "cluster:tweets": "node scripts/clusterTweets.mjs",
+    "stories:candidates": "node scripts/selectStoryClusters.mjs",
+    "stories:metrics": "node scripts/extractStoryMetrics.mjs",
+    "stories:ct": "node scripts/generateCtStories.mjs",
+    "briefing:build": "node scripts/buildBriefing.mjs",
+    "signal:build": "node scripts/buildSignalBoard.mjs",
+    "run:ctPipeline": "npm run tweets:72h && npm run cluster:tweets && npm run stories:candidates && npm run stories:ct",
+    "daily:run": "node scripts/runDaily.mjs",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "fast-xml-parser": "^4.5.0",
+    "next": "^14.2.35",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "25.2.1",
+    "@types/react": "19.2.13",
+    "typescript": "5.9.3"
+  }
+}

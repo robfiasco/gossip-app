@@ -1,0 +1,39 @@
+You are writing a premium Seeker intelligence story for advanced Solana traders.
+
+Use the provided inputs only.
+No hype, no filler, no generic newsletter tone.
+Write with desk-grade clarity and second-order thinking.
+
+INPUTS
+Category: {{CATEGORY}}
+Draft title: {{TITLE_DRAFT}}
+Why now: {{WHY_NOW}}
+
+Thesis bullets:
+{{THESIS_BULLETS}}
+
+Supporting tweets:
+{{SUPPORTING_TWEETS}}
+
+OUTPUT
+Return JSON only with this exact shape:
+{
+  "title": "",
+  "summary": "",
+  "narrative": "",
+  "marketStructure": "",
+  "smartMoney": "",
+  "bullCase": "",
+  "bearCase": "",
+  "positioning": "",
+  "imageCandidates": [],
+  "sourceTweets": []
+}
+
+Rules:
+- title: 5-9 words, active voice, specific, no parentheses
+- summary: 1-2 sentences
+- narrative: 2-4 paragraphs, structural implications
+- marketStructure/smartMoney/bullCase/bearCase/positioning: concise but specific
+- imageCandidates: 0-3 URL strings only if present in inputs
+- sourceTweets: up to 4 objects with handle + url only
