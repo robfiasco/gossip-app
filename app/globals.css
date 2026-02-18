@@ -1132,6 +1132,35 @@ body {
   display: inline-flex;
   align-items: center;
   gap: 8px;
+  flex-shrink: 0;
+}
+
+@media (max-width: 400px) {
+  .page {
+    padding: 12px 8px 28px;
+    gap: 14px;
+  }
+
+  .header {
+    gap: 6px;
+  }
+
+  .header-actions {
+    gap: 5px;
+  }
+
+  .focus-toggle {
+    min-width: 48px;
+    padding: 0 8px;
+    font-size: 0.58rem;
+    height: 28px;
+  }
+
+  .theme-toggle-icon {
+    width: 28px;
+    height: 28px;
+    font-size: 0.8rem;
+  }
 }
 
 .focus-toggle {
@@ -1769,6 +1798,7 @@ body {
 }
 
 @keyframes logo-cursor-pulse {
+
   0%,
   3%,
   48%,
@@ -2641,8 +2671,7 @@ body {
   display: flex;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
-  scroll-behavior: smooth;
-  gap: 16px;
+  -webkit-overflow-scrolling: touch;
   padding-bottom: 8px;
   flex: 1;
   min-height: 0;
@@ -4245,7 +4274,7 @@ body {
   margin-bottom: 12px;
 }
 
-.mag-metrics > div {
+.mag-metrics>div {
   border: 1px solid rgba(67, 79, 103, 0.28);
   border-radius: 10px;
   background: rgba(9, 11, 16, 0.72);
@@ -4343,7 +4372,7 @@ body {
   gap: 8px;
 }
 
-.mag-detail-intel > div {
+.mag-detail-intel>div {
   border: 1px solid rgba(67, 79, 103, 0.28);
   border-radius: 8px;
   padding: 8px;
@@ -5457,9 +5486,17 @@ body {
   margin-top: 3px;
 }
 
-.seeker-detail-timeline-row .dot.high { background: #ff5d70; }
-.seeker-detail-timeline-row .dot.medium { background: #ff9f3f; }
-.seeker-detail-timeline-row .dot.low { background: #45dca8; }
+.seeker-detail-timeline-row .dot.high {
+  background: #ff5d70;
+}
+
+.seeker-detail-timeline-row .dot.medium {
+  background: #ff9f3f;
+}
+
+.seeker-detail-timeline-row .dot.low {
+  background: #45dca8;
+}
 
 .seeker-detail-timeline-row small {
   font-size: 0.78rem;
@@ -5486,9 +5523,19 @@ body {
   padding: 12px;
 }
 
-.seeker-quote.neutral { background: rgba(18, 22, 32, 0.74); }
-.seeker-quote.positive { background: rgba(10, 52, 41, 0.35); border-color: rgba(20, 241, 149, 0.34); }
-.seeker-quote.negative { background: rgba(58, 17, 24, 0.35); border-color: rgba(255, 94, 118, 0.34); }
+.seeker-quote.neutral {
+  background: rgba(18, 22, 32, 0.74);
+}
+
+.seeker-quote.positive {
+  background: rgba(10, 52, 41, 0.35);
+  border-color: rgba(20, 241, 149, 0.34);
+}
+
+.seeker-quote.negative {
+  background: rgba(58, 17, 24, 0.35);
+  border-color: rgba(255, 94, 118, 0.34);
+}
 
 .seeker-quote p {
   margin: 0;

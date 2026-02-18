@@ -18,3 +18,13 @@ pnpm-debug.log*
 
 # misc
 .DS_Store
+.vercel
+
+# capacitor / android
+android/
+ios/
+
+# IDE
+.idea/
+*.swp
+*.swo

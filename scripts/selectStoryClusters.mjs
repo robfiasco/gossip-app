@@ -37,8 +37,11 @@ const CONFIG = {
     'Security / Risk Alert': 1.9,          // Breaches, hacks, warnings
     'Product Launch / Live': 1.8,          // Just launched
     'DeFi Strategy / Alpha': 1.8,          // Non-obvious strategies
+    'Prediction Markets': 1.75,            // NEW: Trending high
     'Infrastructure / Tools': 1.7,         // Builder announcements
     'Investigative / Due Diligence': 1.7,  // Deep dives, mechanics
+    'Privacy / ZK Tech': 1.6,              // NEW: Emerging topic
+    'Airdrop Strategy': 1.5,               // NEW: Actionable farming
     'AI / Agents': 1.5,
     'Mobile / Seeker': 1.4,
     'New Product Launch': 1.4,             // Announcements (not live yet)
@@ -129,6 +132,18 @@ const LAUNCH_SIGNALS = [
   'invite code:'
 ];
 
+const PRIVACY_SIGNALS = [
+  'privacy', 'zero knowledge', 'zk', 'snark', 'proof', 'confidential'
+];
+
+const PREDICTION_SIGNALS = [
+  'prediction', 'polymarket', 'betting', 'outcome', 'forecast'
+];
+
+const AIRDROP_SIGNALS = [
+  'airdrop', 'snapshot', 'farming', 'points', 'eligibility', 'claim'
+];
+
 function detectSignalType(text) {
   const lower = text.toLowerCase();
 
@@ -137,6 +152,8 @@ function detectSignalType(text) {
   if (INVESTIGATIVE_SIGNALS.some(s => lower.includes(s))) return 'investigative';
   if (BUILDER_SIGNALS.some(s => lower.includes(s))) return 'builder';
   if (LAUNCH_SIGNALS.some(s => lower.includes(s))) return 'launch';
+  if (PRIVACY_SIGNALS.some(s => lower.includes(s))) return 'privacy';
+  if (PREDICTION_SIGNALS.some(s => lower.includes(s))) return 'prediction';
 
   return null;
 }
@@ -287,6 +304,16 @@ function categorizeCluster(tweets, signalType) {
     return 'Alpha / Early Access';
   }
 
+  // Privacy / ZK
+  if (signalType === 'privacy' || allText.includes('privacy') || allText.includes('zk')) {
+    return 'Privacy / ZK Tech';
+  }
+
+  // Prediction Markets
+  if (signalType === 'prediction' || allText.includes('polymarket')) {
+    return 'Prediction Markets';
+  }
+
   // DeFi Strategy Alpha
   if (signalType === 'alpha' ||
     (allText.includes('lp') && allText.includes('safer')) ||
@@ -299,6 +326,11 @@ function categorizeCluster(tweets, signalType) {
     allText.includes('mechanics breakdown') ||
     allText.includes('ponzi')) {
     return 'Investigative / Due Diligence';
+  }
+
+  // Airdrop Strategy
+  if (allText.includes('airdrop') || allText.includes('farming points')) {
+    return 'Airdrop Strategy';
   }
 
   // Builder / Infrastructure
@@ -508,8 +540,8 @@ function selectStoryCandidates() {
       continue;
     }
 
-    // Diversity: avoid too many from same category
-    if (categoriesSeen.has(candidate.category) && selected.length >= 3) {
+    // STRICT Diversity: Never 2 of the same category
+    if (categoriesSeen.has(candidate.category)) {
       continue;
     }
 

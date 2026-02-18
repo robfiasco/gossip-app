@@ -1,6 +1,19 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+/**
+ * Seeker Page (Token Gated)
+ * 
+ * Displays the "Validator Magazine" interface — a premium content feed available
+ * only to holders of the Seeker Genesis Token.
+ * 
+ * Features:
+ * - Lazy loading of story content
+ * - Specialized "Cover Story" layout for the lead item
+ * - Grid layout for featured stories
+ * - Deep-dive story detail view with timeline, quotes, and analysis
+ */
+
+import { Suspense, useEffect, useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import {
   Activity,
@@ -55,6 +68,14 @@ type StoryPayload = {
 };
 
 export default function SeekerPage() {
+  return (
+    <Suspense fallback={<div className="seeker-loading">Loading stories...</div>}>
+      <SeekerPageInner />
+    </Suspense>
+  );
+}
+
+function SeekerPageInner() {
   const searchParams = useSearchParams();
   const [stories, setStories] = useState<Story[]>([]);
   const [globalMetrics, setGlobalMetrics] = useState<StoryPayload["global_metrics"]>({});
@@ -156,10 +177,36 @@ function MagazineCover({
   totals: { totalTweets: number; totalEngagement: number; uniqueVoices: number; topTweet: number };
   onOpenStory: (index: number) => void;
 }) {
-  const moreStories = stories.slice(1, 3);
-  const leadStats = lead?.metrics || lead?.stats || {};
   const leadCategory = String(lead?.category || "Daily Intel").toUpperCase();
   const leadColorClass = getKickerClass(leadCategory);
+
+  // Logic to prioritize variety in Featured Stories
+  // defined as: distinct categories from the lead story + distinct from each other
+  const otherStories = stories.slice(1);
+  const distinctStories: Story[] = [];
+  const usedCategories = new Set([String(lead.category || "").split("/")[0].trim()]);
+
+  // Pass 1: Find stories with unused categories
+  for (const s of otherStories) {
+    if (distinctStories.length >= 2) break;
+    const cat = String(s.category || "").split("/")[0].trim();
+    if (!usedCategories.has(cat)) {
+      distinctStories.push(s);
+      usedCategories.add(cat);
+    }
+  }
+
+  // Pass 2: Fill remaining slots with whatever is available (skipping exact duplicates if possible)
+  if (distinctStories.length < 2) {
+    for (const s of otherStories) {
+      if (distinctStories.length >= 2) break;
+      if (!distinctStories.includes(s)) {
+        distinctStories.push(s);
+      }
+    }
+  }
+
+  const moreStories = distinctStories;
 
   return (
     <div className="seeker-mag-shell">
@@ -206,58 +253,105 @@ function MagazineCover({
         <span className={`seeker-mag-kicker ${leadColorClass}`}>{leadCategory}</span>
       </div>
 
-      <h2 className="seeker-mag-title seeker-mag-title-cover">{lead?.title || "Untitled"}</h2>
+      <h2 className="seeker-mag-title seeker-mag-title-cover">{cleanTitle(lead?.title) || "Untitled"}</h2>
 
       <div className="seeker-mag-meta">
         <span>By AI Validator News Desk</span>
       </div>
 
       <p className="seeker-mag-preview">
-        {compactSentence(lead?.content?.signal || lead?.summary || lead?.hook || lead?.narrative || lead?.title || "", 250)}
+        {compactSentence(lead?.content?.signal || lead?.summary || lead?.hook || lead?.narrative || lead?.title || "", 450)}
       </p>
-
-      <div className="seeker-mag-metrics-label">Story Metrics</div>
-      <div className="seeker-mag-metrics">
-        <div>
-          <span>Coverage</span>
-          <strong>{leadStats?.tweets ?? leadStats?.total_tweets ?? 0}</strong>
-          <small>tweets</small>
-        </div>
-        <div>
-          <span>Reach</span>
-          <strong className="is-green">{formatCompactNumber(leadStats?.engagement ?? leadStats?.total_engagement ?? 0)}</strong>
-          <small>engagement</small>
-        </div>
-        <div>
-          <span>Voices</span>
-          <strong>{leadStats?.voices ?? leadStats?.unique_users ?? 0}</strong>
-          <small>people</small>
-        </div>
-      </div>
 
       <div className="seeker-mag-cta-row">
         <button className="seeker-mag-cta primary" onClick={() => onOpenStory(0)} type="button">
-          Read Full Story
+          Read Analysis
         </button>
       </div>
 
       {moreStories.length > 0 ? (
         <div className="seeker-mag-more">
           <h3>Featured Stories</h3>
-          <div className="seeker-mag-grid">
-            {moreStories.map((story, idx) => (
-              <button key={`${story?.title || "story"}-${idx}`} className="seeker-mag-card seeker-mag-card-button" onClick={() => onOpenStory(idx + 1)} type="button">
-                <div className={`seeker-mag-thumb ${idx % 2 === 0 ? "live" : "alpha"}`}>
-                  {idx % 2 === 0 ? <Rocket size={36} /> : <Brain size={36} />}
-                </div>
-                <div className="seeker-mag-card-row">
-                  <span className={`seeker-mag-card-tag ${idx % 2 === 0 ? "live" : "alpha"}`}>{idx % 2 === 0 ? "LIVE" : "ALPHA"}</span>
-                  <span className="seeker-mag-card-time">{formatShortDate(story?.timestamp || story?.publishedAt)}</span>
-                </div>
-                <div className="seeker-mag-card-title">{story?.title || "Untitled"}</div>
-                <div className="seeker-mag-card-sub">{compactSentence(story?.summary || story?.hook || story?.narrative || story?.title || "", 90)}</div>
-              </button>
-            ))}
+          <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "16px", marginTop: "20px" }}>
+            {moreStories.map((story, idx) => {
+              const category = String(story?.category || "Intel").split("/")[0].trim();
+              const isAlert = /risk|security|alert/i.test(String(story?.category || ""));
+              const signal = story?.content?.signal || story?.summary || story?.title || "";
+
+              const dateRaw = new Date(story?.timestamp || story?.publishedAt || Date.now());
+              const dateStr = dateRaw.toLocaleDateString("en-US", { day: "numeric", month: "short" });
+              const title = cleanTitle(story?.title);
+
+              return (
+                <button
+                  key={`${story?.title || "story"}-${idx}`}
+                  className="group relative overflow-hidden transition-all active:scale-[0.98]"
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    height: "100%",
+                    minHeight: "260px",
+                    textAlign: "left",
+                    backgroundColor: "rgba(255, 255, 255, 0.03)",
+                    backdropFilter: "blur(10px)",
+                    border: "1px solid rgba(255, 255, 255, 0.08)",
+                    borderRadius: "20px",
+                    padding: "24px",
+                  }}
+                  onClick={() => onOpenStory(idx + 1)}
+                  type="button"
+                >
+                  {/* Category Pill */}
+                  <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", width: "100%", marginBottom: "16px" }}>
+                    <span style={{
+                      fontSize: "11px",
+                      fontWeight: 700,
+                      letterSpacing: "0.05em",
+                      padding: "4px 8px",
+                      borderRadius: "6px",
+                      textTransform: "uppercase",
+                      backgroundColor: isAlert ? "rgba(239, 68, 68, 0.15)" : "rgba(168, 85, 247, 0.15)",
+                      color: isAlert ? "#fca5a5" : "#d8b4fe",
+                      border: isAlert ? "1px solid rgba(239, 68, 68, 0.2)" : "1px solid rgba(168, 85, 247, 0.2)"
+                    }}>
+                      {category}
+                    </span>
+                    <span className="text-[11px] text-white/40 font-mono tracking-tight">
+                      {dateStr}
+                    </span>
+                  </div>
+
+                  {/* Title - Clamped to 3 lines */}
+                  <h4 className="text-[15px] font-bold text-white/90 leading-snug mb-3" style={{
+                    height: "66px",
+                    overflow: "hidden",
+                    display: "-webkit-box",
+                    WebkitBoxOrient: "vertical",
+                    WebkitLineClamp: 3,
+                    marginBottom: "12px"
+                  }}>
+                    {title}
+                  </h4>
+
+                  {/* Summary/Signal - Clamped to 5 lines */}
+                  <p className="text-[13px] text-white/50 leading-relaxed" style={{
+                    flex: 1,
+                    overflow: "hidden",
+                    display: "-webkit-box",
+                    WebkitBoxOrient: "vertical",
+                    WebkitLineClamp: 5,
+                    marginBottom: "16px"
+                  }}>
+                    {compactSentence(signal, 200)}
+                  </p>
+
+                  {/* Footer / Read More */}
+                  <div className="flex items-center text-[10px] font-medium text-purple-400/80 group-hover:text-purple-300 transition-colors mt-auto uppercase tracking-wide">
+                    Read Analysis <ChevronLeft className="rotate-180 ml-1 w-2.5 h-2.5 group-hover:translate-x-1 transition-transform" />
+                  </div>
+                </button>
+              );
+            })}
           </div>
         </div>
       ) : null}
@@ -472,4 +566,18 @@ function compactSentence(value: string, maxLen = 180) {
   const cleaned = String(value || "").replace(/\s+/g, " ").trim();
   if (cleaned.length <= maxLen) return cleaned;
   return `${cleaned.slice(0, Math.max(0, maxLen - 1)).trimEnd()}…`;
+}
+
+function cleanTitle(title?: string) {
+  if (!title) return "Untitled Intelligence";
+  const cleaned = title
+    .replace(/^RT\s+@[^:]+:?\s*/i, "") // Remove RT @user: prefix
+    .replace(/https?:\/\/\S+/g, "")   // Remove URLs
+    .replace(/\s+/g, " ")             // Normalize whitespace
+    .trim();
+
+  if (cleaned.length > 85) {
+    return cleaned.slice(0, 85).trimEnd() + "…";
+  }
+  return cleaned;
 }

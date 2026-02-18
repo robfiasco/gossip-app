@@ -48,7 +48,7 @@ export default function MarketContextPage() {
       <section className="detail-section">
         <div className="section-label">Summary</div>
         <p className="detail-text">
-          SOL moved {sol?.change7dPct !== null ? sol.change7dPct.toFixed(1) : "—"}% over the
+          SOL moved {sol?.change7dPct != null ? sol.change7dPct.toFixed(1) : "—"}% over the
           past 7 days. Fear &amp; Greed sits at {fearGreed?.value ?? "—"}, signaling the
           current risk posture across crypto.
         </p>

@@ -1,6 +1,13 @@
+/**
+ * Ingest Sources Script
+ * 
+ * Fetches, parses, and normalizes news from configured RSS/Atom feeds
+ * and HTML sources. Runs as a scheduled task to populate the raw data pool
+ * used by the AI summarization pipeline.
+ */
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname } from "node:path";
-import cheerio from "cheerio";
+import * as cheerio from "cheerio";
 import { XMLParser } from "fast-xml-parser";
 
 type SourceDef = {

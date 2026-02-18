@@ -1,5 +1,16 @@
 "use client";
 
+/**
+ * Validator — Solana Intelligence Terminal
+ * 
+ * The main application shell that manages the three primary panels:
+ * 1. Signal Board (Market data & weekly intel)
+ * 2. Briefing (Daily curated news)
+ * 3. Seeker Magazine (Long-form stories, gated by Seeker token)
+ *
+ * Handles global state, theme switching, and touch-based carousel navigation.
+ */
+
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Activity, Brain, MessageCircle, Rocket, TrendingUp, Users } from "lucide-react";
 import SeekerGuard from "./components/SeekerGuard";
@@ -86,7 +97,7 @@ function MarketStatsBlock({
   );
 }
 
-// Force refresh for Story Mode update
+// Main application component containing the full terminal interface
 export default function Home() {
   const [theme, setTheme] = useState<"dark" | "darker">("darker");
   const [focusMode, setFocusMode] = useState(false);
@@ -121,27 +132,17 @@ export default function Home() {
       setFocusMode(stored === "1");
       return;
     }
-    const isMobile = window.matchMedia("(max-width: 768px)").matches;
-    setFocusMode(isMobile);
+    // Default to focus OFF so pricing info is visible on Seeker
+    setFocusMode(false);
   }, []);
 
   useEffect(() => {
     window.localStorage.setItem("validator_focus_mode", focusMode ? "1" : "0");
   }, [focusMode]);
 
+  // Always start on Signal Board (panel 0)
   useEffect(() => {
-    const stored = window.localStorage.getItem("validator-panel");
-    const idx = stored ? Number(stored) : 0;
-    if (!Number.isNaN(idx) && idx >= 0 && idx <= 2) {
-      setActivePanel(idx);
-      requestAnimationFrame(() => {
-        const container = carouselRef.current;
-        const node = panelRefs.current[idx];
-        if (container && node) {
-          container.scrollTo({ left: node.offsetLeft, behavior: "auto" });
-        }
-      });
-    }
+    window.localStorage.removeItem("validator-panel");
   }, []);
 
   useEffect(() => {
@@ -531,51 +532,48 @@ export default function Home() {
 
   return (
     <main className="page terminal-surface">
-      {activePanel !== 2 && (
-        <header className="header header-terminal">
-          <div className="hero-copy">
-            <h1 className="title" aria-label="VALIDATOR">
-              <span className={`title-logo ${focusMode ? "title-logo-focus" : ""}`}>VALIDATOR</span>
-              <span className="logo-cursor" aria-hidden="true">_</span>
-            </h1>
-            <p className="subtitle">
-              SOLANA INTELLIGENCE TERMINAL
-            </p>
-            {isStaked ? (
-              <span className="staked-chip">Staked — Enhanced Signal</span>
-            ) : null}
-          </div>
-          <div className="header-actions">
-            <button
-              className={`focus-toggle ${focusMode ? "active" : ""}`}
-              onClick={() => setFocusMode((prev) => !prev)}
-              aria-label={focusMode ? "Disable Focus Mode" : "Enable Focus Mode"}
-            >
-              FOCUS
-            </button>
-            <button
-              className="theme-toggle-icon"
-              onClick={() => setTheme(theme === "darker" ? "dark" : "darker")}
-              aria-label={toggleLabel}
-            >
-              {theme === "darker" ? "☾" : "☼"}
-            </button>
-          </div>
-        </header>
-      )}
-
-      {activePanel !== 2 && (
-        <div className={`market-collapsible ${focusMode ? "collapsed" : ""}`}>
-          <MarketStatsBlock
-            marketView={marketView}
-            formatPrice={formatPrice}
-            formatDelta={formatDelta}
-            formatDollarDelta={formatDollarDelta}
-            formatUsd={formatUsd}
-            sol7dDollarDelta={sol7dDollarDelta}
-          />
+      <header className="header header-terminal">
+        <div className="hero-copy">
+          <h1 className="title" aria-label="VALIDATOR">
+            <span className={`title-logo ${focusMode ? "title-logo-focus" : ""}`}>VALIDATOR</span>
+            <span className="logo-cursor" aria-hidden="true">_</span>
+          </h1>
+          <p className="subtitle">
+            {activePanel === 2 ? "PREMIUM INTELLIGENCE FOR SEEKER HOLDERS" : "SOLANA INTELLIGENCE TERMINAL"}
+          </p>
+          {isStaked && activePanel !== 2 ? (
+            <span className="staked-chip">Staked — Enhanced Signal</span>
+          ) : null}
         </div>
-      )}
+        <div className="header-actions">
+          <button
+            className={`focus-toggle ${focusMode ? "active" : ""}`}
+            onClick={() => setFocusMode((prev) => !prev)}
+            aria-label={focusMode ? "Disable Focus Mode" : "Enable Focus Mode"}
+          >
+            FOCUS
+          </button>
+          <button
+            className="theme-toggle-icon"
+            onClick={() => setTheme(theme === "darker" ? "dark" : "darker")}
+            aria-label={toggleLabel}
+          >
+            {theme === "darker" ? "☾" : "☼"}
+          </button>
+        </div>
+      </header>
+
+
+      <div className={`market-collapsible ${focusMode ? "collapsed" : ""}`}>
+        <MarketStatsBlock
+          marketView={marketView}
+          formatPrice={formatPrice}
+          formatDelta={formatDelta}
+          formatDollarDelta={formatDollarDelta}
+          formatUsd={formatUsd}
+          sol7dDollarDelta={sol7dDollarDelta}
+        />
+      </div>
 
       <div className="panel-carousel-wrap">
         <div
@@ -766,21 +764,6 @@ export default function Home() {
                   const leadIsGaming = /gaming|game/i.test(leadCategory);
                   return (
                     <div className="seeker-mag-shell">
-                      <div className="seeker-mag-header">
-                        <div>
-                          <h1 className="seeker-mag-logo">
-                            <span className="title-logo">VALIDATOR</span>
-                            <span className="logo-cursor" aria-hidden="true">_</span>
-                          </h1>
-                          <p className="seeker-mag-sub">
-                            Premium Intelligence • {formatShortDate(lead.timestamp || lead.publishedAt || null)}
-                          </p>
-                        </div>
-                        <div className="seeker-mag-issue">
-                          <div className="seeker-mag-issue-label">Issue</div>
-                          <div className="seeker-mag-issue-value">#{Math.max(stories.length, 1)}</div>
-                        </div>
-                      </div>
 
                       <div className="seeker-mag-stats">
                         <div className="seeker-mag-stat">

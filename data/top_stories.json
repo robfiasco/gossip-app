@@ -1,215 +1,400 @@
 {
   "meta": {
-    "generatedAt": "2026-02-17T15:05:09.917Z",
-    "totalCandidates": 87,
-    "solanaCandidates": 16,
+    "generatedAt": "2026-02-18T14:53:42.857Z",
+    "totalCandidates": 91,
+    "solanaCandidates": 20,
     "selected": 5,
-    "tweetPool": 322,
+    "tweetPool": 396,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/390119/zerolend-to-shut-down",
-      "title": "Loss-making DeFi lender ZeroLend to shut down after 98% TVL drop",
-      "url": "https://www.theblock.co/post/390119/zerolend-to-shut-down",
-      "source": "The Block",
-      "publishedAt": "2026-02-17T08:47:30.000Z",
-      "summary": "ZeroLend will wind down after operating losses as TVL fell 98% to $6.6 million and the ZERO token plunged.",
+      "id": "https://www.coindesk.com/tech/2026/02/18/zora-moves-onto-solana-with-attention-markets-for-trading-internet-trends",
+      "title": "Zora moves onto Solana with 'attention markets' for trading internet trends",
+      "url": "https://www.coindesk.com/tech/2026/02/18/zora-moves-onto-solana-with-attention-markets-for-trading-internet-trends",
+      "source": "CoinDesk",
+      "publishedAt": "2026-02-18T07:55:27.000Z",
+      "summary": "The creator platform’s new product lets users trade tokens linked to social-media traction, a Polymarket-style bet on vibes rather than events.",
       "tags": [
-        "loss",
-        "making",
-        "defi"
+        "zora",
+        "moves",
+        "onto"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 1,
-      "xMentions": 1,
+      "mentionCount": 3,
+      "xMentions": 3,
       "who": [
         {
-          "handle": "@neel_ds",
-          "summary": "Bitcoin Up or Down 5 minutes is all you need I saw the move early on polymarket: - smart traders holding - profit/tvl...",
-          "tweetUrl": "https://twitter.com/neel_ds/status/2023428812722295255",
+          "handle": "@xcombhq",
+          "summary": "We're shutting down $X. following the footsteps of $SEND. launched $X in December 2024 as a fun experiment. gave 14 S...",
+          "tweetUrl": "https://twitter.com/xcombhq/status/2016534733778465074",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@bulletxyz",
+          "summary": "Perps Trading on Solana is about to change for the better. Mainnet is live. Here's how you can get in early 👇 https:...",
+          "tweetUrl": "https://twitter.com/bulletxyz/status/2021948056841990207",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@jussy_world",
+          "summary": "I spent 4 hours researching the best crypto jobs: (Engineers, Managers, Interns) Here are 10 of them: @nunchi - Oncha...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2023096475568492879",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@neel_ds",
-          "summary": "Bitcoin Up or Down 5 minutes is all you need I saw the move early on polymarket: - smart traders holding - profit/tvl...",
-          "tweetUrl": "https://twitter.com/neel_ds/status/2023428812722295255",
+          "handle": "@xcombhq",
+          "summary": "We're shutting down $X. following the footsteps of $SEND. launched $X in December 2024 as a fun experiment. gave 14 S...",
+          "tweetUrl": "https://twitter.com/xcombhq/status/2016534733778465074",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@bulletxyz",
+          "summary": "Perps Trading on Solana is about to change for the better. Mainnet is live. Here's how you can get in early 👇 https:...",
+          "tweetUrl": "https://twitter.com/bulletxyz/status/2021948056841990207",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@jussy_world",
+          "summary": "I spent 4 hours researching the best crypto jobs: (Engineers, Managers, Interns) Here are 10 of them: @nunchi - Oncha...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2023096475568492879",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@neel_ds",
-          "linkToTweet": "https://twitter.com/neel_ds/status/2023428812722295255"
+          "handle": "@xcombhq",
+          "linkToTweet": "https://twitter.com/xcombhq/status/2016534733778465074"
+        },
+        {
+          "handle": "@bulletxyz",
+          "linkToTweet": "https://twitter.com/bulletxyz/status/2021948056841990207"
+        },
+        {
+          "handle": "@jussy_world",
+          "linkToTweet": "https://twitter.com/jussy_world/status/2023096475568492879"
         }
       ],
       "matchReason": "keyword_match",
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 10,
+        "relevanceScore": 5,
+        "mentionScore": 60,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9b8971d19f7c536a5a105f7fe21c8328f5b12d12",
-      "score": 32
+      "dedupeFingerprint": "3f3ad20898ea2d1dc86e4ea7ea63920cbc0d6e2c",
+      "score": 79
     },
     {
-      "id": "https://ambcrypto.com/ethereum-will-staking-supply-consolidation-trends-help-eths-price-action",
-      "title": "Ethereum – Will staking, supply consolidation trends help ETH’s price action?",
-      "url": "https://ambcrypto.com/ethereum-will-staking-supply-consolidation-trends-help-eths-price-action",
+      "id": "https://ambcrypto.com/solana-how-30b-in-staked-sol-unlocks-new-defi-liquidity",
+      "title": "Solana: How $30B in staked SOL unlocks new DeFi liquidity",
+      "url": "https://ambcrypto.com/solana-how-30b-in-staked-sol-unlocks-new-defi-liquidity",
       "source": "AMB Crypto",
-      "publishedAt": "2026-02-17T05:00:48.000Z",
-      "summary": "After a violent move, prices tend to consolidate and go sideways to build up liquidity in either direction.",
+      "publishedAt": "2026-02-18T08:00:03.000Z",
+      "summary": "Solana unlocks staked liquidity as whales position near the critical $80 demand zone.",
       "tags": [
-        "ethereum",
-        "will",
-        "staking"
+        "solana",
+        "staked",
+        "unlocks"
       ],
       "topicBucket": "tokenomics",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 1,
-      "xMentions": 1,
+      "mentionCount": 3,
+      "xMentions": 3,
       "who": [
         {
-          "handle": "@sebmontgomery",
-          "summary": "🚨 Crypto News: February 10th - trump doubles down on kevin warsh for fed chair. says if warsh does the job right, U....",
-          "tweetUrl": "https://twitter.com/sebmontgomery/status/2021268028445602138",
+          "handle": "@fabianosolana",
+          "summary": "I ALREADY WON 15 TIMES 10 days ago I staked 20 SOL In that time I won 1 big reward (5 SOL) and 14 small rewards (0.29...",
+          "tweetUrl": "https://twitter.com/fabianosolana/status/2022688589813862873",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@jussy_world",
+          "summary": "It's time to buy BTC on @Solana Then use it in DeFi to make 5-10% on it cbBTC - @coinbase wBTC - @BitGo xBTC - @okx L...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2023010659856990236",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@vibhu",
+          "summary": "Since Prop AMMs took over @solana, many say the best price for SOL is on the chain itself, but is that actually true?...",
+          "tweetUrl": "https://twitter.com/vibhu/status/2023623814433706418",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@sebmontgomery",
-          "summary": "🚨 Crypto News: February 10th - trump doubles down on kevin warsh for fed chair. says if warsh does the job right, U....",
-          "tweetUrl": "https://twitter.com/sebmontgomery/status/2021268028445602138",
+          "handle": "@fabianosolana",
+          "summary": "I ALREADY WON 15 TIMES 10 days ago I staked 20 SOL In that time I won 1 big reward (5 SOL) and 14 small rewards (0.29...",
+          "tweetUrl": "https://twitter.com/fabianosolana/status/2022688589813862873",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@jussy_world",
+          "summary": "It's time to buy BTC on @Solana Then use it in DeFi to make 5-10% on it cbBTC - @coinbase wBTC - @BitGo xBTC - @okx L...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2023010659856990236",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@vibhu",
+          "summary": "Since Prop AMMs took over @solana, many say the best price for SOL is on the chain itself, but is that actually true?...",
+          "tweetUrl": "https://twitter.com/vibhu/status/2023623814433706418",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@sebmontgomery",
-          "linkToTweet": "https://twitter.com/sebmontgomery/status/2021268028445602138"
+          "handle": "@fabianosolana",
+          "linkToTweet": "https://twitter.com/fabianosolana/status/2022688589813862873"
+        },
+        {
+          "handle": "@jussy_world",
+          "linkToTweet": "https://twitter.com/jussy_world/status/2023010659856990236"
+        },
+        {
+          "handle": "@vibhu",
+          "linkToTweet": "https://twitter.com/vibhu/status/2023623814433706418"
         }
       ],
       "matchReason": "keyword_match",
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 2,
-        "mentionScore": 10,
+        "relevanceScore": 21,
+        "mentionScore": 44,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "cf996e2e115af5f50bd67eeaca0d7a41d3778d78",
-      "score": 23
+      "dedupeFingerprint": "a3c7db7c585878cb9450aaf21030ea227eb6735e",
+      "score": 76
     },
     {
-      "id": "https://www.theblock.co/post/390138/ton-foundation-osl-banxa-stablecoin-payments",
-      "title": "TON Foundation partners with OSL’s Banxa to expand stablecoin payment infrastructure for Asia-Pacific merchants",
-      "url": "https://www.theblock.co/post/390138/ton-foundation-osl-banxa-stablecoin-payments",
+      "id": "https://www.theblock.co/post/390249/zora-launches-attention-markets-solana",
+      "title": "Zora launches ‘attention markets’ on Solana",
+      "url": "https://www.theblock.co/post/390249/zora-launches-attention-markets-solana",
       "source": "The Block",
-      "publishedAt": "2026-02-17T11:31:59.000Z",
-      "summary": "TON Foundation and Banxa have partnered to enable stablecoin payments for APAC merchants using TON infrastructure.",
+      "publishedAt": "2026-02-17T18:48:24.000Z",
+      "summary": "Zora, a socialfi platform closely associated with the Ethereum Layer 2 Base, is launching its new attention market platform on Solana.",
       "tags": [
-        "foundation",
-        "partners",
-        "with"
+        "zora",
+        "launches",
+        "attention"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
+      "topicBucket": "general",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 3,
+      "xMentions": 3,
+      "who": [
+        {
+          "handle": "@bulletxyz",
+          "summary": "RT @SolanaFloor: ICYMI: @Bulletxyz launches mainnet for its perps DEX on @Solana, claiming ~250µs order execution lat...",
+          "tweetUrl": "https://twitter.com/bulletxyz/status/2022879829251744179",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@jussy_world",
+          "summary": "I spent 4 hours researching the best crypto jobs: (Engineers, Managers, Interns) Here are 10 of them: @nunchi - Oncha...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2023096475568492879",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@solanasensei",
+          "summary": "It's Solana News time again: - @Backpack verify for claim day - @omnipair beta is live - @debridge launches MCP - @Tr...",
+          "tweetUrl": "https://twitter.com/solanasensei/status/2023638806801584341",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@bulletxyz",
+          "summary": "RT @SolanaFloor: ICYMI: @Bulletxyz launches mainnet for its perps DEX on @Solana, claiming ~250µs order execution lat...",
+          "tweetUrl": "https://twitter.com/bulletxyz/status/2022879829251744179",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@jussy_world",
+          "summary": "I spent 4 hours researching the best crypto jobs: (Engineers, Managers, Interns) Here are 10 of them: @nunchi - Oncha...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2023096475568492879",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@solanasensei",
+          "summary": "It's Solana News time again: - @Backpack verify for claim day - @omnipair beta is live - @debridge launches MCP - @Tr...",
+          "tweetUrl": "https://twitter.com/solanasensei/status/2023638806801584341",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@bulletxyz",
+          "linkToTweet": "https://twitter.com/bulletxyz/status/2022879829251744179"
+        },
+        {
+          "handle": "@jussy_world",
+          "linkToTweet": "https://twitter.com/jussy_world/status/2023096475568492879"
+        },
+        {
+          "handle": "@solanasensei",
+          "linkToTweet": "https://twitter.com/solanasensei/status/2023638806801584341"
+        }
+      ],
+      "matchReason": "keyword_match",
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
         "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
+        "mentionScore": 52,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "726879c50fcbbe41fe2083df08518f9746034a74",
-      "score": 22
+      "dedupeFingerprint": "2b71d01fa5ffe8ac789591f514545d84f816791d",
+      "score": 73
     },
     {
-      "id": "https://www.theblock.co/post/390057/cryptos-300-billion-stablecoin-supply-is-increasingly-used-as-everyday-money-global-study-finds",
-      "title": "Crypto’s $300 billion stablecoin supply is increasingly used as ‘everyday money,’ global study finds",
-      "url": "https://www.theblock.co/post/390057/cryptos-300-billion-stablecoin-supply-is-increasingly-used-as-everyday-money-global-study-finds",
-      "source": "The Block",
-      "publishedAt": "2026-02-17T07:00:00.000Z",
-      "summary": "Stablecoin use in everyday spending, cross-border work, and savings allocation is growing rapidly among crypto-savvy consumers.",
+      "id": "https://decrypt.co/358304/zerolend-latest-defi-platform-to-shut-down-amid-liquidity-revenue-pressures",
+      "title": "ZeroLend Latest DeFi Platform to Shut Down Amid Liquidity, Revenue Pressures",
+      "url": "https://decrypt.co/358304/zerolend-latest-defi-platform-to-shut-down-amid-liquidity-revenue-pressures",
+      "source": "Decrypt",
+      "publishedAt": "2026-02-17T15:33:31.000Z",
+      "summary": "ZeroLend cited an inability to \"generate sustainable revenue\" as it became the latest DeFi platform to wind down amid the ongoing slump.",
       "tags": [
-        "crypto",
-        "billion",
-        "stablecoin"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d1770fde54b21f44eba1934b624d43c2c9d54dba",
-      "score": 22
-    },
-    {
-      "id": "https://cointelegraph.com/news/stablecoin-outflows-slow-binance-65-cex-usdt-usdc-reserves",
-      "title": "Binance holds 65% of CEX stablecoin reserves as outflows cool: CryptoQuant",
-      "url": "https://cointelegraph.com/news/stablecoin-outflows-slow-binance-65-cex-usdt-usdc-reserves",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-02-17T13:55:26.000Z",
-      "summary": "Stablecoin outflows slow to $2 billion as Binance consolidates 65% of CEX liquidity, signaling capital concentration even amid the ongoing crypto bear market.",
-      "tags": [
-        "binance",
-        "holds",
-        "stablecoin"
+        "zerolend",
+        "latest",
+        "defi"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 3,
+      "xMentions": 3,
+      "who": [
+        {
+          "handle": "@kamino_liq",
+          "summary": "Kamino Liquidity has now generated over $41M in trading fees for our users In 2022 we aimed to transform DeFi liquidi...",
+          "tweetUrl": "https://twitter.com/kamino_liq/status/2023761354784747878",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@therealchaseeb",
+          "summary": "RT @kamino_liq: Kamino Liquidity has now generated over $41M in trading fees for our users In 2022 we aimed to transf...",
+          "tweetUrl": "https://twitter.com/therealchaseeb/status/2024009597267169299",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@solanasensei",
+          "summary": "Jupiter now allows you to borrow against natively staked SOL without relying on liquid staking tokens. Your staking r...",
+          "tweetUrl": "https://twitter.com/solanasensei/status/2024092551603700123",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@kamino_liq",
+          "summary": "Kamino Liquidity has now generated over $41M in trading fees for our users In 2022 we aimed to transform DeFi liquidi...",
+          "tweetUrl": "https://twitter.com/kamino_liq/status/2023761354784747878",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@therealchaseeb",
+          "summary": "RT @kamino_liq: Kamino Liquidity has now generated over $41M in trading fees for our users In 2022 we aimed to transf...",
+          "tweetUrl": "https://twitter.com/therealchaseeb/status/2024009597267169299",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@solanasensei",
+          "summary": "Jupiter now allows you to borrow against natively staked SOL without relying on liquid staking tokens. Your staking r...",
+          "tweetUrl": "https://twitter.com/solanasensei/status/2024092551603700123",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@kamino_liq",
+          "linkToTweet": "https://twitter.com/kamino_liq/status/2023761354784747878"
+        },
+        {
+          "handle": "@therealchaseeb",
+          "linkToTweet": "https://twitter.com/therealchaseeb/status/2024009597267169299"
+        },
+        {
+          "handle": "@solanasensei",
+          "linkToTweet": "https://twitter.com/solanasensei/status/2024092551603700123"
+        }
+      ],
+      "matchReason": "keyword_match",
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
+        "relevanceScore": 5,
+        "mentionScore": 32,
+        "recencyScore": 9,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e016b270f487d7c030d0ed0fcbd4aacfd060f915",
-      "score": 21
+      "dedupeFingerprint": "61051e60c068dd1a1b2b3f81bb6e7915e89713fd",
+      "score": 49
+    },
+    {
+      "id": "https://www.coindesk.com/tech/2026/02/18/xrp-ledger-rolls-out-members-only-dex-for-regulated-institutions",
+      "title": "XRP Ledger rolls out members-only DEX for regulated institutions",
+      "url": "https://www.coindesk.com/tech/2026/02/18/xrp-ledger-rolls-out-members-only-dex-for-regulated-institutions",
+      "source": "CoinDesk",
+      "publishedAt": "2026-02-18T12:10:46.000Z",
+      "summary": "A permissioned DEX amendment creates controlled versions of XRPL’s built-in exchange, letting approved entities decide who can place and take orders.",
+      "tags": [
+        "ledger",
+        "rolls",
+        "members"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 1,
+      "xMentions": 1,
+      "who": [
+        {
+          "handle": "@armaniferrante",
+          "summary": "In the limit, Backpack and Perp DEXs are going down completely different paths. Perp DEXs are going to eat the entire...",
+          "tweetUrl": "https://twitter.com/armaniferrante/status/2023671957548658994",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@armaniferrante",
+          "summary": "In the limit, Backpack and Perp DEXs are going down completely different paths. Perp DEXs are going to eat the entire...",
+          "tweetUrl": "https://twitter.com/armaniferrante/status/2023671957548658994",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@armaniferrante",
+          "linkToTweet": "https://twitter.com/armaniferrante/status/2023671957548658994"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 10,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b16a219149c4478d62c3b41cb4171d5b6695c23b",
+      "score": 32
     }
   ]
 }

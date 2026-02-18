@@ -1,5 +1,16 @@
 "use client";
 
+/**
+ * SeekerGuard
+ * 
+ * A protective wrapper component that restricts access to child content
+ * based on ownership of the Solana Seeker Genesis Token.
+ * 
+ * - Checks user's wallet for the specific mint address
+ * - Displays a high-fidelity "Access Denied" UI if token is missing
+ * - Includes a dev-only bypass for testing on non-Seeker devices
+ */
+
 import React, { useEffect, useState } from 'react';
 import { useConnection, useWallet } from '@solana/wallet-adapter-react';
 import { useWalletModal } from '@solana/wallet-adapter-react-ui';
@@ -198,25 +209,26 @@ export default function SeekerGuard({ children }) {
                             {publicKey?.toBase58().substring(0, 4)}...{publicKey?.toBase58().slice(-4)}
                         </p>
                         <div style={{ display: 'flex', gap: '8px' }}>
-                            {process.env.NODE_ENV === 'development' && (
-                                <button
-                                    onClick={() => setHasSeeker(true)}
-                                    style={{
-                                        flex: 1,
-                                        background: 'linear-gradient(135deg, #10b981 0%, #059669 100%)',
-                                        color: 'white',
-                                        padding: '12px',
-                                        borderRadius: '10px',
-                                        fontSize: '13px',
-                                        fontWeight: 600,
-                                        border: 'none',
-                                        cursor: 'pointer',
-                                        boxShadow: '0 4px 12px rgba(16, 185, 129, 0.3)'
-                                    }}
-                                >
-                                    Bypass
-                                </button>
-                            )}
+                            {/* Dev bypass allows testing the UI without holding the actual token on mainnet */
+                                process.env.NODE_ENV === 'development' && (
+                                    <button
+                                        onClick={() => setHasSeeker(true)}
+                                        style={{
+                                            flex: 1,
+                                            background: 'linear-gradient(135deg, #10b981 0%, #059669 100%)',
+                                            color: 'white',
+                                            padding: '12px',
+                                            borderRadius: '10px',
+                                            fontSize: '13px',
+                                            fontWeight: 600,
+                                            border: 'none',
+                                            cursor: 'pointer',
+                                            boxShadow: '0 4px 12px rgba(16, 185, 129, 0.3)'
+                                        }}
+                                    >
+                                        Bypass
+                                    </button>
+                                )}
                             <button
                                 onClick={disconnect}
                                 style={{
