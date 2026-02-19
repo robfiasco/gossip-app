@@ -410,13 +410,16 @@ export default function Home() {
       ? signalBoardData.showNextWeek
       : utcDay === 0 || utcDay >= 4;
   const signalPriceUpdate =
+    signalBoardData?.priceUpdate ||
     stripSectionPrefix(signalBoardData?.priceUpdate) ||
     "24h and 7d are mixed; wait for cleaner confirmation before adding size.";
   const signalThisWeek =
+    signalBoardData?.thisWeek ||
     stripSectionPrefix(signalBoardData?.thisWeek) ||
     stripSectionPrefix(signalBoardData?.narrativeShifts) ||
     "Watch whether fresh demand follows through on the most recent Solana headlines.";
   const signalNextWeek =
+    signalBoardData?.nextWeek ||
     stripSectionPrefix(signalBoardData?.nextWeek) ||
     "Watch whether current leaders hold flow after first reaction.";
 
