@@ -49,7 +49,7 @@ const callOpenAI = async (payload) => {
 
   const systemPrompt = `You rewrite daily crypto intelligence for Solana readers.
 Rules:
-- Use plain English.
+- Use plain English with punchy, sharp, and concise framing.
 - Be specific, concrete, and analytical.
 - Explain why the story or data matters for SOL positioning, liquidity, or ecosystem usage.
 - No filler and no buzzwords.
@@ -63,7 +63,9 @@ For "briefingItems":
 For "signalBoard":
 - You will receive draft template text for \`priceUpdate\` (Market Context), \`pastWeek\`, \`thisWeek\`, and \`nextWeek\`.
 - Rewrite each of these fields to feel fluid, native, and analytically sharp.
-- Keep the exact same data points (prices, themes, headlines) but seamlessly rewrite the sentences so they do not sound like a rigid template.
+- CRITICAL RULE: NEVER repeat the exact same protocol name, token, or headline across multiple fields. 
+- If you use a specific name (e.g. "tokenized xStocks" or "Jupiter") in \`priceUpdate\`, you MUST abstract it into broader market concepts (e.g. "RWA liquidity", "DEX volumes", "institutional flow", "ecosystem momentum") in \`thisWeek\` and \`nextWeek\` to force vocabulary diversity.
+- Keep the hard data points (prices, volumes) but seamlessly rewrite the sentences so they do not sound like a rigid template.
 - Do NOT make up new numbers or events. Only rewrite the provided facts.
 - **IMPORTANT**: If a field is empty (e.g. \`pastWeek\` is ""), leave it empty in the output.
 
