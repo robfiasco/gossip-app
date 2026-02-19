@@ -376,11 +376,10 @@ export default function Home() {
   };
 
   const narrativeGeneratedDate =
-    narrativesData?.generated_at ||
-    narrativesData?.generatedAt ||
-    narrativesData?.asOfUtc ||
     signalBoardData?.generated_at_utc ||
     signalBoardData?.date ||
+    narrativesData?.generated_at ||
+    narrativesData?.generatedAt ||
     null;
 
   const asList = <T,>(value?: T[] | null) => (Array.isArray(value) ? value : []);
