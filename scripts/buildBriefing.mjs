@@ -17,7 +17,7 @@ const OUT_DATA = path.join(cwd, "data", "briefing.json");
 const OUT_PUBLIC = path.join(cwd, "public", "briefing.json");
 const TOP_STORIES_PATH = path.join(cwd, "data", "top_stories.json");
 
-const LOOKBACK_DAYS = 7;
+const LOOKBACK_DAYS = 2;
 const MAX_ITEMS = 3;
 const MAX_PER_SOURCE = 1;
 
@@ -213,20 +213,20 @@ const main = () => {
     const topicTags = extractEntities(`${story.title} ${story.summary}`);
     const verdict = ignoreMemory
       ? {
-          allowed: true,
-          fingerprint: createStoryFingerprint({
-            url: story.url,
-            title: story.title,
-            source: story.source,
-            entities: topicTags,
-            dateBucket: story.date,
-          }),
-        }
+        allowed: true,
+        fingerprint: createStoryFingerprint({
+          url: story.url,
+          title: story.title,
+          source: story.source,
+          entities: topicTags,
+          dateBucket: story.date,
+        }),
+      }
       : canUseStory(
-          { ...story, topicTags, sectionShown: "briefing" },
-          memory,
-          runSet,
-        );
+        { ...story, topicTags, sectionShown: "briefing" },
+        memory,
+        runSet,
+      );
     if (!verdict.allowed) return false;
     selected.push(story);
     runSet.add(verdict.fingerprint);
