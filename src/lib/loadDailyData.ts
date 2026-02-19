@@ -227,8 +227,29 @@ const loadMarketContext = async (fallback: MarketContextPayload): Promise<Market
   return fallback;
 };
 
+import { createClient } from "@vercel/kv";
+
+// Initialize KV client - safe to call even if env vars are missing (methods will just fail/throw)
+const getKv = () => {
+  const url = process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL;
+  const token = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN;
+
+  if (!url || !token) {
+    console.warn("⚠️ KV_REST_API_URL or KV_REST_API_TOKEN is missing. KV fetch will be skipped.");
+    return null;
+  }
+
+  try {
+    return createClient({ url, token });
+  } catch (err) {
+    console.warn("Failed to initialize KV client", err);
+    return null;
+  }
+};
+
 export const loadDailyData = async () => {
   const generatedNow = new Date().toISOString();
+  const kv = getKv();
 
   const fallbackSignalBoard: SignalBoardPayload = {
     generated_at_utc: generatedNow,
@@ -261,25 +282,61 @@ export const loadDailyData = async () => {
     vol: { sol_24h_usd: null },
   };
 
-  const [signalBoard, briefing, newsCards, narratives, marketContext] = await Promise.all([
-    safeFetchMany<SignalBoardPayload>(
+  // Try loading from KV first
+  let kvSignalBoard: SignalBoardPayload | null = null;
+  let kvBriefing: BriefingPayload | null = null;
+  let kvNews: NewsCardsPayload | null = null;
+  let kvNarratives: NarrativesPayload | null = null;
+  let kvMarketContext: MarketContextPayload | null = null;
+
+  if (kv) {
+    try {
+      console.log("Fetching config from Vercel KV...");
+      [kvSignalBoard, kvBriefing, kvNews, kvNarratives, kvMarketContext] = await Promise.all([
+        kv.get<SignalBoardPayload>("validator:signal_board"),
+        kv.get<BriefingPayload>("validator:briefing"),
+        kv.get<NewsCardsPayload>("validator:news_cards"),
+        kv.get<NarrativesPayload>("validator:narratives"),
+        kv.get<MarketContextPayload>("validator:market_context"),
+      ]);
+      console.log("KV Fetch Result:", {
+        signalBoard: !!kvSignalBoard,
+        briefing: !!kvBriefing,
+        newsCards: !!kvNews,
+        narratives: !!kvNarratives,
+        marketContext: !!kvMarketContext
+      });
+    } catch (e: any) {
+      console.error("Failed to fetch from Vercel KV, falling back to static files:", e.message || String(e));
+    }
+  }
+
+  // If KV missed anything, fetch from static files
+  const [staticSignalBoard, staticBriefing, staticNewsCards, staticNarratives, staticMarketContext] = await Promise.all([
+    !kvSignalBoard ? safeFetchMany<SignalBoardPayload>(
       ["/data/signal_board.json", "/signal_board.json"],
       fallbackSignalBoard
-    ),
-    safeFetchMany<BriefingPayload>(
+    ) : null,
+    !kvBriefing ? safeFetchMany<BriefingPayload>(
       ["/data/briefing.json", "/briefing.json"],
       fallbackBriefing
-    ),
-    safeFetchMany<NewsCardsPayload | NewsCard[]>(
+    ) : null,
+    !kvNews ? safeFetchMany<NewsCardsPayload | NewsCard[]>(
       ["/data/validator_stories.json", "/data/news_cards.json", "/news_cards.json"],
       fallbackNews
-    ),
-    safeFetchMany<NarrativesPayload>(
+    ) : null,
+    !kvNarratives ? safeFetchMany<NarrativesPayload>(
       ["/narratives.json", "/data/narratives.json"],
       {}
-    ),
-    loadMarketContext(fallbackMarketContext),
+    ) : null,
+    !kvMarketContext ? loadMarketContext(fallbackMarketContext) : null,
   ]);
+
+  const signalBoard = kvSignalBoard || staticSignalBoard || fallbackSignalBoard;
+  const briefing = kvBriefing || staticBriefing || fallbackBriefing;
+  const newsCards = kvNews || staticNewsCards || fallbackNews;
+  const narratives = kvNarratives || staticNarratives || {};
+  const marketContext = kvMarketContext || staticMarketContext || fallbackMarketContext;
 
   const normalizedNews = Array.isArray(newsCards) ? { items: newsCards } : newsCards;
 
@@ -309,3 +366,4 @@ export const loadDailyData = async () => {
     marketContext: { ...fallbackMarketContext, ...(marketContext || {}) },
   };
 };
+
