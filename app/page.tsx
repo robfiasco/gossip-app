@@ -15,17 +15,16 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { Activity, Brain, MessageCircle, Rocket, TrendingUp, Users } from "lucide-react";
 import SeekerGuard from "./components/SeekerGuard";
 import type { TerminalData } from "../lib/data/types";
-import {
-  loadDailyData,
-  type BriefingPayload,
-  type MarketContextPayload,
-  type NarrativeEvidence,
-  type NarrativeHotItem,
-  type NarrativePastWeekItem,
-  type NarrativeThisWeekItem,
-  type NarrativesPayload,
-  type NewsCardsPayload,
-  type SignalBoardPayload,
+import type {
+  BriefingPayload,
+  MarketContextPayload,
+  NarrativeEvidence,
+  NarrativeHotItem,
+  NarrativePastWeekItem,
+  NarrativeThisWeekItem,
+  NarrativesPayload,
+  NewsCardsPayload,
+  SignalBoardPayload,
 } from "../src/lib/loadDailyData";
 
 type MarketView = {
@@ -189,13 +188,19 @@ export default function Home() {
   useEffect(() => {
     let active = true;
     const run = async () => {
-      const daily = await loadDailyData();
-      if (!active) return;
-      setSignalBoardData(daily.signalBoard);
-      setNarrativesData(daily.narratives);
-      setBriefingData(daily.briefing);
-      setNewsCardsData(daily.newsCards);
-      setMarketContextData(daily.marketContext);
+      try {
+        const res = await fetch("/api/daily");
+        if (!res.ok) throw new Error("daily fetch failed");
+        const daily = await res.json();
+        if (!active) return;
+        setSignalBoardData(daily.signalBoard);
+        setNarrativesData(daily.narratives);
+        setBriefingData(daily.briefing);
+        setNewsCardsData(daily.newsCards);
+        setMarketContextData(daily.marketContext);
+      } catch (err) {
+        console.warn("Error fetching daily data", err);
+      }
     };
     run();
     const interval = window.setInterval(run, 30000);
