@@ -61,10 +61,11 @@ For "briefingItems":
 - Do not repeat the headline, just provide the contextual analysis.
 
 For "signalBoard":
-- You will receive draft template text for \`priceUpdate\` (Market Context), \`pastWeek\`, \`thisWeek\`, and \`nextWeek\`.
+- You will receive draft template text for \`priceUpdate\` (Market Context), \`pastWeek\`, \`thisWeek\`, \`nextWeek\`, and \`whatsHot\`.
 - Rewrite each of these fields to feel fluid, native, and analytically sharp.
 - CRITICAL RULE: NEVER repeat the exact same protocol name, token, or headline across multiple fields. 
 - If you use a specific name (e.g. "tokenized xStocks" or "Jupiter") in \`priceUpdate\`, you MUST abstract it into broader market concepts (e.g. "RWA liquidity", "DEX volumes", "institutional flow", "ecosystem momentum") in \`thisWeek\` and \`nextWeek\` to force vocabulary diversity.
+- For \`whatsHot\`, rewrite it specifically to highlight actionable ecosystem intel. Highlight airdrops, token launches, top performing apps, or emerging protocols if present in the data. Make it sound like an insider's watchlist.
 - Keep the hard data points (prices, volumes) but seamlessly rewrite the sentences so they do not sound like a rigid template.
 - Do NOT make up new numbers or events. Only rewrite the provided facts.
 - **IMPORTANT**: If a field is empty (e.g. \`pastWeek\` is ""), leave it empty in the output.
@@ -78,7 +79,8 @@ Return JSON ONLY matching the exact structure:
     "priceUpdate": "...",
     "pastWeek": "...",
     "thisWeek": "...",
-    "nextWeek": "..."
+    "nextWeek": "...",
+    "whatsHot": "..."
   }
 }`;
 
@@ -127,9 +129,10 @@ For "briefingItems":
 - Do not repeat the headline, just provide the contextual analysis.
 
 For "signalBoard":
-- You will receive draft template text for \`priceUpdate\` (Market Context), \`pastWeek\`, \`thisWeek\`, and \`nextWeek\`.
+- You will receive draft template text for \`priceUpdate\` (Market Context), \`pastWeek\`, \`thisWeek\`, \`nextWeek\`, and \`whatsHot\`.
 - Rewrite each of these fields to feel fluid, native, and analytically sharp.
 - Keep the exact same data points (prices, themes, headlines) but seamlessly rewrite the sentences so they do not sound like a rigid template.
+- For \`whatsHot\`, rewrite it specifically to highlight actionable ecosystem intel (airdrops, launches, top apps).
 - Do NOT make up new numbers or events. Only rewrite the provided facts. If a field is empty, leave it empty.
 
 Return JSON ONLY matching the exact structure:
@@ -141,7 +144,8 @@ Return JSON ONLY matching the exact structure:
     "priceUpdate": "...",
     "pastWeek": "...",
     "thisWeek": "...",
-    "nextWeek": "..."
+    "nextWeek": "...",
+    "whatsHot": "..."
   }
 }
 
@@ -197,26 +201,31 @@ const main = async () => {
     date: item.date,
   }));
 
-  const payload = {
-    briefingItems: promptItems,
-    signalBoard: signalBoard ? {
-      priceUpdate: signalBoard.priceUpdate,
-      pastWeek: signalBoard.pastWeek,
-      thisWeek: signalBoard.thisWeek,
-      nextWeek: signalBoard.nextWeek,
-    } : null,
+  const promptSignalBoard = {
+    priceUpdate: signalBoard?.priceUpdate || "",
+    pastWeek: signalBoard?.pastWeek || "",
+    thisWeek: signalBoard?.thisWeek || "",
+    nextWeek: signalBoard?.nextWeek || "",
+    whatsHot: signalBoard?.whatsHot || "",
   };
 
   try {
     let rewritten;
     if (process.env.OPENAI_API_KEY) {
-      console.log("Enhancing briefing & signal board with OpenAI (gpt-4o-mini)...");
-      rewritten = await callOpenAI(payload);
+      console.log("Enhancing briefing and signal board with OpenAI (gpt-4o-mini)...");
+      rewritten = await callOpenAI({ briefingItems: promptItems, signalBoard: promptSignalBoard });
     } else {
-      console.log(`Enhancing briefing & signal board with local Ollama model: ${MODEL}`);
-      rewritten = await callOllama(payload);
+      console.log(`Enhancing with Ollama (${MODEL})...`);
+      rewritten = await callOllama({ briefingItems: promptItems, signalBoard: promptSignalBoard });
     }
 
+    if (!rewritten || !rewritten.briefingItems || !rewritten.signalBoard) {
+      throw new Error("AI did not return a valid combined JSON object");
+    }
+
+    const { briefingItems, signalBoard: rewrittenSB } = rewritten;
+
+    // 1) Update briefing items
     if (briefing && Array.isArray(briefing.items)) {
       const updates = new Map(
         (rewritten?.briefingItems || [])
@@ -245,16 +254,17 @@ const main = async () => {
         pastWeek: rewritten.signalBoard.pastWeek || signalBoard.pastWeek,
         thisWeek: rewritten.signalBoard.thisWeek || signalBoard.thisWeek,
         nextWeek: rewritten.signalBoard.nextWeek || signalBoard.nextWeek,
+        whatsHot: rewritten.signalBoard.whatsHot || signalBoard.whatsHot,
       };
 
       saveJson(path.join(cwd, "signal_board.json"), nextSignalBoard);
       saveJson(path.join(cwd, "data", "signal_board.json"), nextSignalBoard);
       saveJson(path.join(cwd, "public", "signal_board.json"), nextSignalBoard);
-      console.log("Signal Board natively rewritten by AI.");
+      console.log(`Signal Board enhanced.`);
     }
 
-  } catch (err) {
-    console.log(`Enhancement skipped: ${err?.message || err}`);
+  } catch (error) {
+    console.error("AI enhancement failed:", error);
   }
 };
 

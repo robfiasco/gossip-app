@@ -2,6 +2,7 @@ import { fetchRss } from "./rss";
 import { getStoryImage } from "./imageFetcher";
 import { filterRecentStories, markStoriesSeen } from "./storyStore";
 import type { TerminalData } from "./types";
+import { getKvData } from "../kv";
 
 const CACHE_TTL_MS = 5 * 60 * 1000;
 let cache: { data: TerminalData; fetchedAt: number } | null = null;
@@ -620,6 +621,13 @@ const buildSignalBoard = (data: {
 export const getTerminalData = async (): Promise<TerminalData> => {
   if (cache && Date.now() - cache.fetchedAt < CACHE_TTL_MS) {
     return cache.data;
+  }
+
+  // Attempt to fetch from KV first
+  const kvData = await getKvData<TerminalData>("validator:market_context");
+  if (kvData) {
+    cache = { data: kvData, fetchedAt: Date.now() };
+    return kvData;
   }
 
   const fallback: TerminalData = {

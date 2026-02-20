@@ -442,7 +442,8 @@ body {
   font-size: 0.74rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  white-space: nowrap;
+  white-space: normal;
+  line-height: 1.4;
 }
 
 .subtitle-seeker {

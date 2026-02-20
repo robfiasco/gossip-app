@@ -7,34 +7,33 @@ CATEGORY: {category}
 NARRATIVE: {narrative}
 
 YOUR TASK:
-Write a high-impact, 400-600 word intelligence brief.
+Write a high-impact, 400-600 word intelligence brief in JSON format.
 
-TONE & STYLE:
-- **Insider**: Write like you are talking to a peer, not a beginner.
-- **Direct**: Cut the fluff. No "In the ever-evolving world of crypto..."
-- **Actionable**: Focus on what this means for capital and code.
-- **Critical**: Don't just shill. Point out risks and second-order effects.
+TONE & STYLE (CRITICAL):
+- **Insider**: Write like you are talking to a peer, not a beginner. Use industry terms correctly (e.g., "rehypothecation," "composability," "MEV").
+- **Direct**: Cut the fluff. No "In the ever-evolving world..." or "It's important to note."
+- **Actionable**: Focus on capital and code. What do we DO with this info?
+- **Skeptical**: Don't just shill. Point out risks, centralization vectors, and second-order effects.
 - **NO BS**: No "buckle up," "moon," "LFG," or "game changer."
-- **NO FILLER**: Avoid "It is important to note" or "In conclusion."
+- **Dense**: High information density. Every sentence must add value.
 
-STRUCTURE (4-5 Paragraphs):
+STRUCTURE (4-5 Paragraphs for usage in 'story_content'):
 1. **The Hook**: What happened *now* and why it moves the needle.
 2. **The Mechanics**: How it works or the specific numbers/data backing it.
-3. ** The Alpha**: The non-obvious implication or competitive advantage.
+3. **The Alpha**: The non-obvious implication or competitive advantage.
 4. **The Risk/Trade-off**: What could go wrong? (Technical or Economic).
 5. **The Look Ahead**: What specific event/metric verifies this thesis?
 
 OUTPUT FORMAT:
+Return a single, valid JSON object. Do not include markdown formatting (```json).
 
-You must output a VALID JSON object followed by the story text block.
-
-1. **JSON Metadata** (Ensure strictly valid JSON, no trailing commas):
 {
   "signal": "One punchy sentence on why this matters (max 20 words)",
+  "story_content": "The full 400-600 word article text. Use \\n\\n for paragraph breaks. No markdown headers, just pure text paragraphs.",
   "takeaways": [
-    "Actionable insight 1",
-    "Actionable insight 2",
-    "Actionable insight 3"
+    "Actionable insight 1 (Max 15 words)",
+    "Actionable insight 2 (Max 15 words)",
+    "Actionable insight 3 (Max 15 words)"
   ],
   "whoToFollow": [
     {
@@ -46,13 +45,3 @@ You must output a VALID JSON object followed by the story text block.
   "riskLevel": "Low" | "Medium" | "High",
   "narrativeStrength": 8.5
 }
-
-2. **The Story**:
-[STORY]
-(Your full article text here. Use normal spacing between paragraphs.)
-[/STORY]
-
-⛔️ CRITICALLY IMPORTANT: 
-- The JSON must be syntacticly correct.
-- Do NOT output markdown code blocks (```json) around the JSON.
-- Just output the raw JSON object then the [STORY] block.

@@ -62,18 +62,21 @@ export default function SeekerGuard({ children }) {
 
     if (!connected) {
         return (
-            <div style={{ position: 'relative' }}>
+            <div style={{ position: 'relative', overflow: 'hidden', height: '85vh', minHeight: '500px' }}>
                 <div style={{
                     WebkitMaskImage: 'linear-gradient(to bottom, black 24%, transparent 50%)',
                     maskImage: 'linear-gradient(to bottom, black 24%, transparent 50%)',
+                    filter: 'blur(5px)',
+                    opacity: 0.45,
                     pointerEvents: 'none',
-                    userSelect: 'none'
+                    userSelect: 'none',
+                    height: '100%'
                 }}>
                     {children}
                 </div>
                 <div style={{
                     position: 'absolute',
-                    top: '51%',
+                    top: '42%',
                     left: '50%',
                     transform: 'translate(-50%, -50%)',
                     zIndex: 50,
@@ -160,18 +163,21 @@ export default function SeekerGuard({ children }) {
 
     if (!hasSeeker) {
         return (
-            <div style={{ position: 'relative' }}>
+            <div style={{ position: 'relative', overflow: 'hidden', height: '85vh', minHeight: '500px' }}>
                 <div style={{
                     WebkitMaskImage: 'linear-gradient(to bottom, black 24%, transparent 50%)',
                     maskImage: 'linear-gradient(to bottom, black 24%, transparent 50%)',
+                    filter: 'blur(5px)',
+                    opacity: 0.45,
                     pointerEvents: 'none',
-                    userSelect: 'none'
+                    userSelect: 'none',
+                    height: '100%'
                 }}>
                     {children}
                 </div>
                 <div style={{
                     position: 'absolute',
-                    top: '51%',
+                    top: '42%',
                     left: '50%',
                     transform: 'translate(-50%, -50%)',
                     zIndex: 50,

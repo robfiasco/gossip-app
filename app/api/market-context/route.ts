@@ -2,10 +2,10 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { NextResponse } from "next/server";
+import { kv } from "../../../lib/kv";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-// Stable project-root resolution regardless of Next working directory.
 const repoRoot = path.resolve(__dirname, "../../../");
 const cwd = process.cwd();
 const CANDIDATE_PATHS = [
@@ -44,6 +44,17 @@ const readFirstValid = () => {
 export const revalidate = 60;
 
 export async function GET() {
+  if (kv) {
+    try {
+      const cached = await kv.get("validator:market_context");
+      if (cached) {
+        return NextResponse.json(cached);
+      }
+    } catch (e) {
+      console.warn("KV fetch failed for market-context, falling back to file", e);
+    }
+  }
+
   const payload = readFirstValid();
   return NextResponse.json(payload);
 }

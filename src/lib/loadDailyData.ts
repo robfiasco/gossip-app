@@ -187,9 +187,16 @@ export type NewsCardsPayload = {
   items?: NewsCard[];
 };
 
+const getBaseUrl = () => {
+  if (typeof window !== "undefined") return ""; // browser
+  if (process.env.VERCEL_URL) return `https://${process.env.VERCEL_URL}`;
+  return `http://localhost:${process.env.PORT || 3000}`;
+};
+
 const safeFetch = async <T>(url: string, fallback: T): Promise<T> => {
   try {
-    const res = await fetch(url, { cache: "no-store" });
+    const fullUrl = url.startsWith("/") ? `${getBaseUrl()}${url}` : url;
+    const res = await fetch(fullUrl, { cache: "no-store", next: { revalidate: 0 } });
     if (!res.ok) return fallback;
     return (await res.json()) as T;
   } catch {
@@ -295,7 +302,7 @@ export const loadDailyData = async () => {
       [kvSignalBoard, kvBriefing, kvNews, kvNarratives, kvMarketContext] = await Promise.all([
         kv.get<SignalBoardPayload>("validator:signal_board"),
         kv.get<BriefingPayload>("validator:briefing"),
-        kv.get<NewsCardsPayload>("validator:news_cards"),
+        kv.get<NewsCardsPayload>("validator:stories"),
         kv.get<NarrativesPayload>("validator:narratives"),
         kv.get<MarketContextPayload>("validator:market_context"),
       ]);

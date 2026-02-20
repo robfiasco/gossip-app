@@ -1,192 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-02-18T14:53:42.857Z",
-    "totalCandidates": 91,
-    "solanaCandidates": 20,
+    "generatedAt": "2026-02-20T16:00:28.894Z",
+    "totalCandidates": 98,
+    "solanaCandidates": 21,
     "selected": 5,
-    "tweetPool": 396,
+    "tweetPool": 276,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/tech/2026/02/18/zora-moves-onto-solana-with-attention-markets-for-trading-internet-trends",
-      "title": "Zora moves onto Solana with 'attention markets' for trading internet trends",
-      "url": "https://www.coindesk.com/tech/2026/02/18/zora-moves-onto-solana-with-attention-markets-for-trading-internet-trends",
-      "source": "CoinDesk",
-      "publishedAt": "2026-02-18T07:55:27.000Z",
-      "summary": "The creator platform’s new product lets users trade tokens linked to social-media traction, a Polymarket-style bet on vibes rather than events.",
-      "tags": [
-        "zora",
-        "moves",
-        "onto"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 3,
-      "xMentions": 3,
-      "who": [
-        {
-          "handle": "@xcombhq",
-          "summary": "We're shutting down $X. following the footsteps of $SEND. launched $X in December 2024 as a fun experiment. gave 14 S...",
-          "tweetUrl": "https://twitter.com/xcombhq/status/2016534733778465074",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@bulletxyz",
-          "summary": "Perps Trading on Solana is about to change for the better. Mainnet is live. Here's how you can get in early 👇 https:...",
-          "tweetUrl": "https://twitter.com/bulletxyz/status/2021948056841990207",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@jussy_world",
-          "summary": "I spent 4 hours researching the best crypto jobs: (Engineers, Managers, Interns) Here are 10 of them: @nunchi - Oncha...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2023096475568492879",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "xWho": [
-        {
-          "handle": "@xcombhq",
-          "summary": "We're shutting down $X. following the footsteps of $SEND. launched $X in December 2024 as a fun experiment. gave 14 S...",
-          "tweetUrl": "https://twitter.com/xcombhq/status/2016534733778465074",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@bulletxyz",
-          "summary": "Perps Trading on Solana is about to change for the better. Mainnet is live. Here's how you can get in early 👇 https:...",
-          "tweetUrl": "https://twitter.com/bulletxyz/status/2021948056841990207",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@jussy_world",
-          "summary": "I spent 4 hours researching the best crypto jobs: (Engineers, Managers, Interns) Here are 10 of them: @nunchi - Oncha...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2023096475568492879",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "mentionedBy": [
-        {
-          "handle": "@xcombhq",
-          "linkToTweet": "https://twitter.com/xcombhq/status/2016534733778465074"
-        },
-        {
-          "handle": "@bulletxyz",
-          "linkToTweet": "https://twitter.com/bulletxyz/status/2021948056841990207"
-        },
-        {
-          "handle": "@jussy_world",
-          "linkToTweet": "https://twitter.com/jussy_world/status/2023096475568492879"
-        }
-      ],
-      "matchReason": "keyword_match",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 60,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "3f3ad20898ea2d1dc86e4ea7ea63920cbc0d6e2c",
-      "score": 79
-    },
-    {
-      "id": "https://ambcrypto.com/solana-how-30b-in-staked-sol-unlocks-new-defi-liquidity",
-      "title": "Solana: How $30B in staked SOL unlocks new DeFi liquidity",
-      "url": "https://ambcrypto.com/solana-how-30b-in-staked-sol-unlocks-new-defi-liquidity",
+      "id": "https://ambcrypto.com/solana-tops-dapp-revenue-is-efficient-monetization-driving-institutional-interest",
+      "title": "Solana tops DApp revenue! Is efficient monetization driving institutional interest?",
+      "url": "https://ambcrypto.com/solana-tops-dapp-revenue-is-efficient-monetization-driving-institutional-interest",
       "source": "AMB Crypto",
-      "publishedAt": "2026-02-18T08:00:03.000Z",
-      "summary": "Solana unlocks staked liquidity as whales position near the critical $80 demand zone.",
+      "publishedAt": "2026-02-20T16:00:09.000Z",
+      "summary": "Lower activity, higher returns - Solana’s capital efficiency shines.",
       "tags": [
         "solana",
-        "staked",
-        "unlocks"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 3,
-      "xMentions": 3,
-      "who": [
-        {
-          "handle": "@fabianosolana",
-          "summary": "I ALREADY WON 15 TIMES 10 days ago I staked 20 SOL In that time I won 1 big reward (5 SOL) and 14 small rewards (0.29...",
-          "tweetUrl": "https://twitter.com/fabianosolana/status/2022688589813862873",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@jussy_world",
-          "summary": "It's time to buy BTC on @Solana Then use it in DeFi to make 5-10% on it cbBTC - @coinbase wBTC - @BitGo xBTC - @okx L...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2023010659856990236",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@vibhu",
-          "summary": "Since Prop AMMs took over @solana, many say the best price for SOL is on the chain itself, but is that actually true?...",
-          "tweetUrl": "https://twitter.com/vibhu/status/2023623814433706418",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "xWho": [
-        {
-          "handle": "@fabianosolana",
-          "summary": "I ALREADY WON 15 TIMES 10 days ago I staked 20 SOL In that time I won 1 big reward (5 SOL) and 14 small rewards (0.29...",
-          "tweetUrl": "https://twitter.com/fabianosolana/status/2022688589813862873",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@jussy_world",
-          "summary": "It's time to buy BTC on @Solana Then use it in DeFi to make 5-10% on it cbBTC - @coinbase wBTC - @BitGo xBTC - @okx L...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2023010659856990236",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@vibhu",
-          "summary": "Since Prop AMMs took over @solana, many say the best price for SOL is on the chain itself, but is that actually true?...",
-          "tweetUrl": "https://twitter.com/vibhu/status/2023623814433706418",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "mentionedBy": [
-        {
-          "handle": "@fabianosolana",
-          "linkToTweet": "https://twitter.com/fabianosolana/status/2022688589813862873"
-        },
-        {
-          "handle": "@jussy_world",
-          "linkToTweet": "https://twitter.com/jussy_world/status/2023010659856990236"
-        },
-        {
-          "handle": "@vibhu",
-          "linkToTweet": "https://twitter.com/vibhu/status/2023623814433706418"
-        }
-      ],
-      "matchReason": "keyword_match",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 21,
-        "mentionScore": 44,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "a3c7db7c585878cb9450aaf21030ea227eb6735e",
-      "score": 76
-    },
-    {
-      "id": "https://www.theblock.co/post/390249/zora-launches-attention-markets-solana",
-      "title": "Zora launches ‘attention markets’ on Solana",
-      "url": "https://www.theblock.co/post/390249/zora-launches-attention-markets-solana",
-      "source": "The Block",
-      "publishedAt": "2026-02-17T18:48:24.000Z",
-      "summary": "Zora, a socialfi platform closely associated with the Ethereum Layer 2 Base, is launching its new attention market platform on Solana.",
-      "tags": [
-        "zora",
-        "launches",
-        "attention"
+        "tops",
+        "dapp"
       ],
       "topicBucket": "general",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
@@ -194,56 +26,56 @@
       "xMentions": 3,
       "who": [
         {
-          "handle": "@bulletxyz",
-          "summary": "RT @SolanaFloor: ICYMI: @Bulletxyz launches mainnet for its perps DEX on @Solana, claiming ~250µs order execution lat...",
-          "tweetUrl": "https://twitter.com/bulletxyz/status/2022879829251744179",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@jussy_world",
-          "summary": "I spent 4 hours researching the best crypto jobs: (Engineers, Managers, Interns) Here are 10 of them: @nunchi - Oncha...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2023096475568492879",
+          "handle": "@fabianosolana",
+          "summary": "These 40 tools will make your life easier on Solana Private Swaps & Send: - @GhostWareOS Security: - Revoke wallets: ...",
+          "tweetUrl": "https://twitter.com/fabianosolana/status/2024138054836138342",
           "matchReason": "keyword_match"
         },
         {
           "handle": "@solanasensei",
-          "summary": "It's Solana News time again: - @Backpack verify for claim day - @omnipair beta is live - @debridge launches MCP - @Tr...",
-          "tweetUrl": "https://twitter.com/solanasensei/status/2023638806801584341",
+          "summary": "Over the last 24 hours, Solana led in DEX volume, chain fees, and app revenue. Solana’s performance has no competitio...",
+          "tweetUrl": "https://twitter.com/solanasensei/status/2024187349773799906",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@solanamobile",
+          "summary": "RT @ivan_nomadz: Launch recap of @NOMADZxyz at the @Solana dApp Store. We participated in the first Hackathon by @sol...",
+          "tweetUrl": "https://twitter.com/solanamobile/status/2024578707763896530",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@bulletxyz",
-          "summary": "RT @SolanaFloor: ICYMI: @Bulletxyz launches mainnet for its perps DEX on @Solana, claiming ~250µs order execution lat...",
-          "tweetUrl": "https://twitter.com/bulletxyz/status/2022879829251744179",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@jussy_world",
-          "summary": "I spent 4 hours researching the best crypto jobs: (Engineers, Managers, Interns) Here are 10 of them: @nunchi - Oncha...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2023096475568492879",
+          "handle": "@fabianosolana",
+          "summary": "These 40 tools will make your life easier on Solana Private Swaps & Send: - @GhostWareOS Security: - Revoke wallets: ...",
+          "tweetUrl": "https://twitter.com/fabianosolana/status/2024138054836138342",
           "matchReason": "keyword_match"
         },
         {
           "handle": "@solanasensei",
-          "summary": "It's Solana News time again: - @Backpack verify for claim day - @omnipair beta is live - @debridge launches MCP - @Tr...",
-          "tweetUrl": "https://twitter.com/solanasensei/status/2023638806801584341",
+          "summary": "Over the last 24 hours, Solana led in DEX volume, chain fees, and app revenue. Solana’s performance has no competitio...",
+          "tweetUrl": "https://twitter.com/solanasensei/status/2024187349773799906",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@solanamobile",
+          "summary": "RT @ivan_nomadz: Launch recap of @NOMADZxyz at the @Solana dApp Store. We participated in the first Hackathon by @sol...",
+          "tweetUrl": "https://twitter.com/solanamobile/status/2024578707763896530",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@bulletxyz",
-          "linkToTweet": "https://twitter.com/bulletxyz/status/2022879829251744179"
-        },
-        {
-          "handle": "@jussy_world",
-          "linkToTweet": "https://twitter.com/jussy_world/status/2023096475568492879"
+          "handle": "@fabianosolana",
+          "linkToTweet": "https://twitter.com/fabianosolana/status/2024138054836138342"
         },
         {
           "handle": "@solanasensei",
-          "linkToTweet": "https://twitter.com/solanasensei/status/2023638806801584341"
+          "linkToTweet": "https://twitter.com/solanasensei/status/2024187349773799906"
+        },
+        {
+          "handle": "@solanamobile",
+          "linkToTweet": "https://twitter.com/solanamobile/status/2024578707763896530"
         }
       ],
       "matchReason": "keyword_match",
@@ -251,83 +83,67 @@
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
         "relevanceScore": 8,
-        "mentionScore": 52,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "mentionScore": 34,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2b71d01fa5ffe8ac789591f514545d84f816791d",
-      "score": 73
+      "dedupeFingerprint": "56b6a0dbfa8d28c345d18aad58ea53a45a46f0f0",
+      "score": 53
     },
     {
-      "id": "https://decrypt.co/358304/zerolend-latest-defi-platform-to-shut-down-amid-liquidity-revenue-pressures",
-      "title": "ZeroLend Latest DeFi Platform to Shut Down Amid Liquidity, Revenue Pressures",
-      "url": "https://decrypt.co/358304/zerolend-latest-defi-platform-to-shut-down-amid-liquidity-revenue-pressures",
-      "source": "Decrypt",
-      "publishedAt": "2026-02-17T15:33:31.000Z",
-      "summary": "ZeroLend cited an inability to \"generate sustainable revenue\" as it became the latest DeFi platform to wind down amid the ongoing slump.",
+      "id": "https://www.theblock.co/post/390572/more-come-crypto-leaders-say-third-white-house-stablecoin-meeting",
+      "title": "‘More to come,’ crypto leaders say after third White House stablecoin meeting",
+      "url": "https://www.theblock.co/post/390572/more-come-crypto-leaders-say-third-white-house-stablecoin-meeting",
+      "source": "The Block",
+      "publishedAt": "2026-02-19T19:44:25.000Z",
+      "summary": "\"More to come,\" was the main message coming out of the third meeting between crypto and banking groups at the White House.",
       "tags": [
-        "zerolend",
-        "latest",
-        "defi"
+        "more",
+        "come",
+        "crypto"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 3,
-      "xMentions": 3,
+      "mentionCount": 2,
+      "xMentions": 2,
       "who": [
         {
-          "handle": "@kamino_liq",
-          "summary": "Kamino Liquidity has now generated over $41M in trading fees for our users In 2022 we aimed to transform DeFi liquidi...",
-          "tweetUrl": "https://twitter.com/kamino_liq/status/2023761354784747878",
+          "handle": "@jussy_world",
+          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
           "matchReason": "keyword_match"
         },
         {
-          "handle": "@therealchaseeb",
-          "summary": "RT @kamino_liq: Kamino Liquidity has now generated over $41M in trading fees for our users In 2022 we aimed to transf...",
-          "tweetUrl": "https://twitter.com/therealchaseeb/status/2024009597267169299",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@solanasensei",
-          "summary": "Jupiter now allows you to borrow against natively staked SOL without relying on liquid staking tokens. Your staking r...",
-          "tweetUrl": "https://twitter.com/solanasensei/status/2024092551603700123",
+          "handle": "@solanafloor",
+          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
+          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@kamino_liq",
-          "summary": "Kamino Liquidity has now generated over $41M in trading fees for our users In 2022 we aimed to transform DeFi liquidi...",
-          "tweetUrl": "https://twitter.com/kamino_liq/status/2023761354784747878",
+          "handle": "@jussy_world",
+          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
           "matchReason": "keyword_match"
         },
         {
-          "handle": "@therealchaseeb",
-          "summary": "RT @kamino_liq: Kamino Liquidity has now generated over $41M in trading fees for our users In 2022 we aimed to transf...",
-          "tweetUrl": "https://twitter.com/therealchaseeb/status/2024009597267169299",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@solanasensei",
-          "summary": "Jupiter now allows you to borrow against natively staked SOL without relying on liquid staking tokens. Your staking r...",
-          "tweetUrl": "https://twitter.com/solanasensei/status/2024092551603700123",
+          "handle": "@solanafloor",
+          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
+          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@kamino_liq",
-          "linkToTweet": "https://twitter.com/kamino_liq/status/2023761354784747878"
+          "handle": "@jussy_world",
+          "linkToTweet": "https://twitter.com/jussy_world/status/2024530687894986933"
         },
         {
-          "handle": "@therealchaseeb",
-          "linkToTweet": "https://twitter.com/therealchaseeb/status/2024009597267169299"
-        },
-        {
-          "handle": "@solanasensei",
-          "linkToTweet": "https://twitter.com/solanasensei/status/2024092551603700123"
+          "handle": "@solanafloor",
+          "linkToTweet": "https://twitter.com/solanafloor/status/2024564557239504938"
         }
       ],
       "matchReason": "keyword_match",
@@ -335,26 +151,94 @@
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
         "relevanceScore": 5,
-        "mentionScore": 32,
+        "mentionScore": 24,
         "recencyScore": 9,
-        "sourceScore": 3,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "61051e60c068dd1a1b2b3f81bb6e7915e89713fd",
-      "score": 49
+      "dedupeFingerprint": "72091d9c0c97554588fde1b77999cfac74aea18c",
+      "score": 42
     },
     {
-      "id": "https://www.coindesk.com/tech/2026/02/18/xrp-ledger-rolls-out-members-only-dex-for-regulated-institutions",
-      "title": "XRP Ledger rolls out members-only DEX for regulated institutions",
-      "url": "https://www.coindesk.com/tech/2026/02/18/xrp-ledger-rolls-out-members-only-dex-for-regulated-institutions",
+      "id": "https://www.coindesk.com/policy/2026/02/19/latest-white-house-talks-on-stablecoin-yield-make-progress-with-banks-no-deal-yet",
+      "title": "Latest White House talks on stablecoin yield make 'progress' with banks, no deal yet",
+      "url": "https://www.coindesk.com/policy/2026/02/19/latest-white-house-talks-on-stablecoin-yield-make-progress-with-banks-no-deal-yet",
       "source": "CoinDesk",
-      "publishedAt": "2026-02-18T12:10:46.000Z",
-      "summary": "A permissioned DEX amendment creates controlled versions of XRPL’s built-in exchange, letting approved entities decide who can place and take orders.",
+      "publishedAt": "2026-02-19T19:00:35.000Z",
+      "summary": "In the latest of a series of meetings hosted at the White House, bankers and crypto policy experts met to break down the wall halting the market structure bill.",
       "tags": [
-        "ledger",
-        "rolls",
-        "members"
+        "latest",
+        "white",
+        "house"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 2,
+      "xMentions": 2,
+      "who": [
+        {
+          "handle": "@solanafloor",
+          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
+          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@fabianosolana",
+          "summary": "If you don’t take this yield, you hate money... - No leverage - No liquidation risk - No IL Simply stablecoin LP, bac...",
+          "tweetUrl": "https://twitter.com/fabianosolana/status/2024851455325127059",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@solanafloor",
+          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
+          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@fabianosolana",
+          "summary": "If you don’t take this yield, you hate money... - No leverage - No liquidation risk - No IL Simply stablecoin LP, bac...",
+          "tweetUrl": "https://twitter.com/fabianosolana/status/2024851455325127059",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@solanafloor",
+          "linkToTweet": "https://twitter.com/solanafloor/status/2024564557239504938"
+        },
+        {
+          "handle": "@fabianosolana",
+          "linkToTweet": "https://twitter.com/fabianosolana/status/2024851455325127059"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 24,
+        "recencyScore": 9,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "657cabaaf574a918a49014f9fcb8d2949c5f0012",
+      "score": 42
+    },
+    {
+      "id": "https://www.coindesk.com/policy/2026/02/19/inside-the-meeting-white-house-favors-some-stablecoin-rewards-tells-banks-it-s-time-to-move",
+      "title": "Inside the meeting: White House favors some stablecoin rewards, tells banks it's time to move",
+      "url": "https://www.coindesk.com/policy/2026/02/19/inside-the-meeting-white-house-favors-some-stablecoin-rewards-tells-banks-it-s-time-to-move",
+      "source": "CoinDesk",
+      "publishedAt": "2026-02-19T22:36:57.000Z",
+      "summary": "Sources familiar with the talks on stablecoin yields say the White House urged bankers to get on board with a deal that lets the market structure bill advance.",
+      "tags": [
+        "inside",
+        "meeting",
+        "white"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
@@ -362,24 +246,24 @@
       "xMentions": 1,
       "who": [
         {
-          "handle": "@armaniferrante",
-          "summary": "In the limit, Backpack and Perp DEXs are going down completely different paths. Perp DEXs are going to eat the entire...",
-          "tweetUrl": "https://twitter.com/armaniferrante/status/2023671957548658994",
+          "handle": "@solanafloor",
+          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
+          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@armaniferrante",
-          "summary": "In the limit, Backpack and Perp DEXs are going down completely different paths. Perp DEXs are going to eat the entire...",
-          "tweetUrl": "https://twitter.com/armaniferrante/status/2023671957548658994",
+          "handle": "@solanafloor",
+          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
+          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@armaniferrante",
-          "linkToTweet": "https://twitter.com/armaniferrante/status/2023671957548658994"
+          "handle": "@solanafloor",
+          "linkToTweet": "https://twitter.com/solanafloor/status/2024564557239504938"
         }
       ],
       "matchReason": "keyword_match",
@@ -387,14 +271,66 @@
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
         "relevanceScore": 8,
-        "mentionScore": 10,
-        "recencyScore": 10,
+        "mentionScore": 14,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b16a219149c4478d62c3b41cb4171d5b6695c23b",
-      "score": 32
+      "dedupeFingerprint": "085ef169177f743f72b75748632506220095b927",
+      "score": 35
+    },
+    {
+      "id": "https://decrypt.co/358688/white-house-banks-crypto-groups-resume-talks-stablecoin",
+      "title": "White House, Banks and Crypto Groups Resume Talks on Stablecoin Rewards",
+      "url": "https://decrypt.co/358688/white-house-banks-crypto-groups-resume-talks-stablecoin",
+      "source": "Decrypt",
+      "publishedAt": "2026-02-20T01:01:28.000Z",
+      "summary": "Stablecoin incentives remain a key unresolved issue as lawmakers seek to advance digital-asset market-structure legislation.",
+      "tags": [
+        "white",
+        "house",
+        "banks"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 1,
+      "xMentions": 1,
+      "who": [
+        {
+          "handle": "@solanafloor",
+          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
+          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@solanafloor",
+          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
+          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@solanafloor",
+          "linkToTweet": "https://twitter.com/solanafloor/status/2024564557239504938"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 14,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "729788b1698192d581cafea90c24a98f9947e29f",
+      "score": 34
     }
   ]
 }

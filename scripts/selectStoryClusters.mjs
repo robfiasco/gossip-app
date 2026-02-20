@@ -27,7 +27,7 @@ const MEMORY_48H_PATH = './data/stories_shown_last_48h.json';
 
 const CONFIG = {
   MIN_CLUSTER_SIZE: 2,
-  MIN_ENGAGEMENT_SCORE: 100,
+  MIN_ENGAGEMENT_SCORE: 200,
   MAX_CANDIDATES: 5,
   MIN_TWEET_QUALITY: 50,
 
@@ -462,7 +462,15 @@ function selectStoryCandidates() {
 
   // Load tweets
   const rawTweets = JSON.parse(fs.readFileSync(SIGNALS_RAW_PATH, 'utf-8'));
-  console.log(`📊 Loaded ${rawTweets.length} tweets\n`);
+  console.log(`📊 Loaded ${rawTweets.length} tweets total\n`);
+
+  // Filter to last 72 hours only
+  const cutoff72h = Date.now() - (72 * 60 * 60 * 1000);
+  const recentTweets = rawTweets.filter(t => {
+    const ts = t.created_at ? new Date(t.created_at).getTime() : 0;
+    return ts >= cutoff72h;
+  });
+  console.log(`🕐 ${recentTweets.length} tweets within last 72h\n`);
 
   // Load memory
   const memory24h = fs.existsSync(MEMORY_24H_PATH)
@@ -472,8 +480,8 @@ function selectStoryCandidates() {
     ? JSON.parse(fs.readFileSync(MEMORY_48H_PATH, 'utf-8'))
     : [];
 
-  // STEP 1: Filter for quality
-  const qualityTweets = rawTweets.filter(isHighQualityTweet);
+  // STEP 1: Filter for quality (from already-filtered 72h set)
+  const qualityTweets = recentTweets.filter(isHighQualityTweet);
   console.log(`✅ ${qualityTweets.length} quality tweets (filtered from ${rawTweets.length})\n`);
 
   // STEP 2: Sort by engagement

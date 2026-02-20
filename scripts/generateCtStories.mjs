@@ -1,13 +1,21 @@
 #!/usr/bin/env node
 /**
- * generateCtStories.mjs - SATURDAY UPGRADE
+ * generateCtStories.mjs - HYBRID AI UPGRADE
  * 
  * Generates 500-600 word premium stories with:
  * 1. Full articles (not just bullets)
  * 2. Engagement metrics for UI
  * 3. Structured output (signal, story, takeaways, whoToFollow)
- * 4. Quality checks
+ * 4. OpenAI (GPT-4o-mini) priority with Ollama fallback
  */
+
+import { createRequire } from 'module';
+const require = createRequire(import.meta.url);
+try {
+  const dotenv = require('dotenv');
+  dotenv.config({ path: '.env.local' });
+  dotenv.config();
+} catch { }
 
 import fs from 'fs';
 
@@ -17,6 +25,7 @@ import fs from 'fs';
 
 const CANDIDATES_PATH = './public/data/story_candidates.json';
 const OUTPUT_PATH = './public/data/validator_stories.json';
+const OUTPUT_PATH_MIRROR = './data/validator_stories.json'; // Mirror for KV sync fallback
 
 // ============================================================================
 // CONFIGURATION
@@ -28,11 +37,11 @@ const CONFIG = {
   OLLAMA_TIMEOUT: 120000, // 2 minutes per story
   MAX_STORIES: 3,         // Limit for performance
   MIN_STORY_LENGTH: 400,  // Minimum characters
-  MAX_STORY_LENGTH: 3000, // Maximum characters
+  MAX_STORY_LENGTH: 5000, // Maximum characters
 };
 
 // ============================================================================
-// LLAMA3 PROMPT TEMPLATE
+// PROMPT TEMPLATE
 // ============================================================================
 
 const PROMPT_PATH = './prompts/story_prompt.md';
@@ -47,8 +56,47 @@ try {
 }
 
 // ============================================================================
-// OLLAMA INTEGRATION
+// AI API CLIENTS
 // ============================================================================
+
+async function callOpenAI(prompt) {
+  if (!process.env.OPENAI_API_KEY) throw new Error("No OPENAI_API_KEY");
+
+  // Split prompt into system/user if possible, but for simplicity we'll pass full context
+  // Actually, better to separate the system instruction if we can, but the prompt file is one block.
+  // We'll treat the loaded prompt template as the system instruction structure.
+
+  try {
+    const response = await fetch("https://api.openai.com/v1/chat/completions", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`
+      },
+      body: JSON.stringify({
+        model: "gpt-4o-mini",
+        messages: [
+          { role: "system", content: "You are an elite crypto intelligence analyst. Return valid JSON only." },
+          { role: "user", content: prompt }
+        ],
+        temperature: 0.3,
+        response_format: { type: "json_object" }
+      }),
+    });
+
+    if (!response.ok) {
+      const err = await response.text();
+      throw new Error(`OpenAI error: ${response.status} ${err}`);
+    }
+
+    const data = await response.json();
+    return data.choices[0].message.content;
+
+  } catch (error) {
+    console.error(`❌ OpenAI call failed: ${error.message}`);
+    throw error;
+  }
+}
 
 async function callOllama(prompt) {
   try {
@@ -57,11 +105,12 @@ async function callOllama(prompt) {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         model: CONFIG.OLLAMA_MODEL,
-        prompt: prompt,
+        prompt: prompt + "\n\nIMPORTANT: Return valid JSON only.",
         stream: false,
+        format: "json", // Force JSON mode in Ollama if supported
         options: {
-          temperature: 0.7,
-          num_predict: 1500
+          temperature: 0.3,
+          num_predict: 2000 // Ensure enough tokens for full story
         }
       }),
       signal: AbortSignal.timeout(CONFIG.OLLAMA_TIMEOUT)
@@ -80,82 +129,40 @@ async function callOllama(prompt) {
   }
 }
 
+// ============================================================================
+// PARSING LOGIC
+// ============================================================================
+
+function cleanJsonString(str) {
+  // Remove markdown code blocks if present
+  let cleaned = str.trim();
+  if (cleaned.startsWith('```json')) {
+    cleaned = cleaned.replace(/^```json/, '').replace(/```$/, '');
+  } else if (cleaned.startsWith('```')) {
+    cleaned = cleaned.replace(/^```/, '').replace(/```$/, '');
+  }
+  return cleaned.trim();
+}
+
 function parseStoryJSON(response) {
-  let text = response.trim();
-  console.log("DEBUG RAW RESPONSE START:", text.substring(0, 100).replace(/\n/g, ' '));
-
-  // Remove markdown formatting
-  text = text.replace(/```json\n?/g, '').replace(/```\n?/g, '');
-
-  let storyData = {};
-
-  // 1. Extract Story Content first (most robust marker)
-  // Look for [STORY] ... optional [/STORY]
-  const storyStartRegex = /\[STORY\]/i;
-  const storyStartMatch = text.match(storyStartRegex);
-
-  let storyText = '';
-  let jsonTextCandidate = text;
-
-  if (storyStartMatch) {
-    const startIndex = storyStartMatch.index + storyStartMatch[0].length;
-    const remainder = text.substring(startIndex);
-
-    const storyEndMatch = remainder.match(/\[\/STORY\]/i);
-    if (storyEndMatch) {
-      storyText = remainder.substring(0, storyEndMatch.index).trim();
-    } else {
-      storyText = remainder.trim(); // Take everything until end if no closing tag
-    }
-
-    // The JSON should be *before* the [STORY] tag
-    jsonTextCandidate = text.substring(0, storyStartMatch.index).trim();
-  } else {
-    // Fallback: If no [STORY] tag, try to split by the last '}' 
-    const lastBrace = text.lastIndexOf('}');
-    if (lastBrace !== -1) {
-      jsonTextCandidate = text.substring(0, lastBrace + 1);
-      storyText = text.substring(lastBrace + 1).trim();
-    }
-  }
-
-  // 2. Parse JSON
+  const text = cleanJsonString(response);
   try {
-    // Find the first '{' and last '}' in the candidate region
-    const jsonStart = jsonTextCandidate.indexOf('{');
-    const jsonEnd = jsonTextCandidate.lastIndexOf('}');
+    const data = JSON.parse(text);
 
-    if (jsonStart !== -1 && jsonEnd !== -1) {
-      let jsonString = jsonTextCandidate.substring(jsonStart, jsonEnd + 1);
-      // Basic cleanup
-      jsonString = jsonString.replace(/,\s*([\]}])/g, '$1'); // remove trailing commas
-      storyData = JSON.parse(jsonString);
+    // Map new 'story_content' field to 'story' for compatibility
+    if (data.story_content && !data.story) {
+      data.story = data.story_content;
     }
+
+    if (!data.story && !data.story_content) {
+      throw new Error("JSON parsed but missing 'story_content' field.");
+    }
+
+    return data;
   } catch (e) {
-    console.warn("⚠️ JSON parse error:", e.message);
-    // Attempt manual extraction for critical fields if JSON fails
-    const signalMatch = jsonTextCandidate.match(/"signal":\s*"([^"]+)"/);
-    if (signalMatch) storyData.signal = signalMatch[1];
+    console.error("❌ JSON Parse Failed. Response snippet:", text.substring(0, 100));
+    throw new Error("Invalid JSON response from AI");
   }
-
-  // 3. Fallbacks
-  if (!storyText && text.length > 500 && !storyData.story) {
-    // If we failed to find tags and JSON, treated as raw story?
-    // Only if it doesn't look like JSON
-    if (text.trim().startsWith('{')) {
-      // It's probably just JSON with no story
-    } else {
-      storyText = text;
-    }
-  }
-
-  storyData.story = storyText || storyData.story;
-
-  if (!storyData.story) {
-    throw new Error("Could not extract story content");
-  }
-
-  return storyData;
 }
 
 // ============================================================================
@@ -163,10 +170,6 @@ function parseStoryJSON(response) {
 // ============================================================================
 
 function extractMetrics(candidate) {
-  /**
-   * Calculate engagement metrics from tweet cluster
-   */
-
   const tweets = candidate.tweets || [];
 
   // Total engagement
@@ -209,10 +212,6 @@ function extractMetrics(candidate) {
 }
 
 function extractWhoToFollow(candidate) {
-  /**
-   * Identify top voices from tweet cluster
-   */
-
   const tweets = candidate.tweets || [];
 
   // Calculate engagement per user
@@ -250,8 +249,8 @@ async function generateStory(candidate, index) {
 
   // Build context from tweets
   const tweets = candidate.tweets || [];
-  const context = tweets.slice(0, 8).map(t => { // Increased context
-    const text = (t.full_text || '').substring(0, 280);
+  const context = tweets.slice(0, 15).map(t => { // Increased context for GPT-4o
+    const text = (t.full_text || '').substring(0, 350);
     return `- @${t.screen_name}: ${text}`;
   }).join('\n');
 
@@ -261,14 +260,22 @@ async function generateStory(candidate, index) {
     .replace('{narrative}', candidate.narrative);
 
   try {
-    const response = await callOllama(prompt);
+    let response;
+    // Hybrid Logic: Use OpenAI if key exists, else Ollama
+    if (process.env.OPENAI_API_KEY) {
+      response = await callOpenAI(prompt);
+    } else {
+      response = await callOllama(prompt);
+    }
+
     const storyData = parseStoryJSON(response);
 
     // Soft validation
-    if (storyData.story.length < CONFIG.MIN_STORY_LENGTH) {
-      console.log(`⚠️ Short (${storyData.story.length}c)`);
+    const storyLen = storyData.story ? storyData.story.length : 0;
+    if (storyLen < CONFIG.MIN_STORY_LENGTH) {
+      console.log(`⚠️ Short (${storyLen}c)`);
     } else {
-      console.log(`✅ (${storyData.story.length}c)`);
+      console.log(`✅ (${storyLen}c)`);
     }
 
     // Extract metrics & voices
@@ -300,7 +307,7 @@ async function generateStory(candidate, index) {
       metrics,
       content: {
         signal: storyData.signal || candidate.narrative,
-        story: storyData.story,
+        story: storyData.story, // This now comes from 'story_content' via parser
         takeaways: Array.isArray(storyData.takeaways) ? storyData.takeaways : [],
         whoToFollow
       },
@@ -310,7 +317,7 @@ async function generateStory(candidate, index) {
 
   } catch (error) {
     console.log(`❌ ${error.message}`);
-    return null; // Return null instead of throwing to keep flow
+    return null;
   }
 }
 
@@ -326,11 +333,15 @@ function getStoryType(category) {
 
 async function generateStories() {
   console.log('🚀 [Story Generation] Starting...\n');
+  if (process.env.OPENAI_API_KEY) {
+    console.log('🤖 AI Provider: OpenAI (gpt-4o-mini)');
+  } else {
+    console.log('🦙 AI Provider: Ollama (llama3) - Set OPENAI_API_KEY for better results');
+  }
 
   const candidates = JSON.parse(fs.readFileSync(CANDIDATES_PATH, 'utf-8'));
   console.log(`📊 Candidates available: ${candidates.length}`);
 
-  // Try to generate more than needed to pick the best/successful ones
   const toGenerate = candidates.slice(0, CONFIG.MAX_STORIES);
 
   const stories = [];
@@ -339,19 +350,15 @@ async function generateStories() {
     if (story) {
       stories.push(story);
     }
-    // Optimization: Stop if we have enough GOOD stories? 
-    // No, let's generate 5 and pick best 3 to ensure density.
   }
 
-  // Filter and sort if needed, or just take first 3 valid
-  const finalStories = stories.slice(0, CONFIG.TARGET_STORIES);
+  const finalStories = stories;
 
   if (finalStories.length === 0) {
     console.error("\n❌ Failed to generate any valid stories.");
     return;
   }
 
-  // Calculate global metrics
   const globalMetrics = {
     total_tweets: finalStories.reduce((sum, s) => sum + s.metrics.tweets, 0),
     total_engagement: finalStories.reduce((sum, s) => sum + s.metrics.engagement, 0),
@@ -366,6 +373,11 @@ async function generateStories() {
   };
 
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2));
+
+  // Mirror to data/ so syncToKv.mjs can find it from either path
+  const mirrorDir = OUTPUT_PATH_MIRROR.replace(/\/[^/]+$/, '');
+  if (!fs.existsSync(mirrorDir)) fs.mkdirSync(mirrorDir, { recursive: true });
+  fs.writeFileSync(OUTPUT_PATH_MIRROR, JSON.stringify(output, null, 2));
 
   console.log(`\n✅ Saved ${finalStories.length} premium stories to: ${OUTPUT_PATH}\n`);
   return finalStories;

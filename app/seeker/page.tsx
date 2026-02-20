@@ -85,7 +85,7 @@ function SeekerPageInner() {
   useEffect(() => {
     async function load() {
       try {
-        const res = await fetch("/data/validator_stories.json", { cache: "no-store" });
+        const res = await fetch("/api/stories", { cache: "no-store" });
         const data: StoryPayload = await res.json();
         const list = (data.stories || data.items || []).filter(Boolean);
         setStories(list);

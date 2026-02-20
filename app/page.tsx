@@ -646,6 +646,17 @@ export default function Home() {
                         </p>
                       </div>
                     ) : null}
+
+                    {signalBoardData?.whatsHot ? (
+                      <div className="sb-item sb-item-hot">
+                        <div className="sb-item-head">
+                          <span className="sb-item-label">ECOSYSTEM</span>
+                        </div>
+                        <p className="sb-item-copy">
+                          {signalBoardData.whatsHot}
+                        </p>
+                      </div>
+                    ) : null}
                   </div>
                 </div>
               </div>

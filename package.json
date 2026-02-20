@@ -50,7 +50,8 @@
     "next": "^16.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "rss-parser": "^3.13.0"
+    "rss-parser": "^3.13.0",
+    "solana-wallet-adaptor-capacitor": "^0.0.4"
   },
   "devDependencies": {
     "@types/node": "25.2.1",
