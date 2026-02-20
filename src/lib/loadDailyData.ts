@@ -206,6 +206,24 @@ const safeFetch = async <T>(url: string, fallback: T): Promise<T> => {
 
 const safeFetchMany = async <T>(urls: string[], fallback: T): Promise<T> => {
   for (const url of urls) {
+    if (typeof window === "undefined") {
+      try {
+        const fs = require('fs');
+        const path = require('path');
+        const filePath = url.replace('/data/', 'data/').replace(/^\/+/, '');
+        const fullPath = path.join(process.cwd(), 'public', filePath);
+        if (fs.existsSync(fullPath)) {
+          console.log(`Node fallback reading from disk: ${fullPath}`);
+          const content = fs.readFileSync(fullPath, "utf-8");
+          const value = JSON.parse(content);
+          if (value && (typeof value !== "object" || Object.keys(value as object).length > 0)) {
+            return value as T;
+          }
+        }
+      } catch (err) {
+        console.warn(`Local FS fallback failed for ${url}`);
+      }
+    }
     const value = await safeFetch<T | null>(url, null);
     if (value && (typeof value !== "object" || Object.keys(value as object).length > 0)) {
       return value as T;
