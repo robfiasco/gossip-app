@@ -1,0 +1,549 @@
+--------- beginning of main
+02-20 15:49:46.647  1311  1311 I mtkpower_client: perf_lock_acq, hdl:0, dur:120, num:14, pid:1311, tid:1311
+02-20 15:49:46.648  1311  1311 I mtkpower_client: ret_hdl:3528
+02-20 15:49:46.648  1311  1311 I touch_boost: set_top_grp_aware
+02-20 15:49:46.648  1311  1311 I mtkpower_client: perf_lock_acq, hdl:3525, dur:2000, num:4, pid:1311, tid:1311
+02-20 15:49:46.648  1253  1316 I libPowerHal: [perfLockAcq] idx:0 hdl:3528 hint:-1 pid:1311 tid:1311 duration:120 lock_user:touch_boost => ret_hdl:3528
+02-20 15:49:46.649  1253  1316 I libPowerHal: [setClusterFreq] touch_boost set cpufreq[0] min:1800000 max:-1 cpufreq[1] min:900000 max:-1 
+02-20 15:49:46.649  1253  1316 I libPowerHal: [setClusterFreq]  set cpu_ctrl cpufreq: 1800000 -1 900000 -1 
+02-20 15:49:46.649  1253  1316 I libPowerHal: [PE] touch_boost update cmd:1404100, param:0
+02-20 15:49:46.649  1253  1316 I libPowerHal: [PE] touch_boost update cmd:1404300, param:0
+02-20 15:49:46.649  1253  1316 I libPowerHal: [PE] touch_boost update cmd:1408100, param:0
+02-20 15:49:46.649  1253  1316 I libPowerHal: [PE] touch_boost update cmd:1408300, param:0
+02-20 15:49:46.649  1311  1311 I mtkpower_client: ret_hdl:3525
+02-20 15:49:46.650  1253  1316 I libPowerHal: [perfLockAcq] idx:1 hdl:3525 hint:-1 pid:1311 tid:1311 duration:2000 lock_user:touch_boost => ret_hdl:3525
+02-20 15:49:46.650  1253  1316 I libPowerHal: [PU] scn:1, update
+02-20 15:49:46.763  1253  1284 E libPowerHal: [getHintRscSize] hint_id 56 cannot be found in PowerScnTbl
+02-20 15:49:46.767  1311  1311 I touch_boost: enable=0, boost_up=0, boost_down=1, render_deboost=0, active_time=100, duration=120, idleprefer(TA,FG)=(0,0), util(TA,FG)=(0,0), freq(c0,c1,c2)=(1800000,900000,0)
+02-20 15:49:46.767  1311  1311 I mtkpower_client: perf_lock_rel, hdl:3528, tid:1311
+02-20 15:49:46.768  1311  1311 I touch_boost: set_top_grp_aware
+02-20 15:49:46.768  1311  1311 I mtkpower_client: perf_lock_acq, hdl:3525, dur:2000, num:4, pid:1311, tid:1311
+02-20 15:49:46.768  1253  1316 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:3528
+02-20 15:49:46.768  1253  1316 I libPowerHal: [perfLockRel] hdl:3528, idx:0
+02-20 15:49:46.769  1253  1316 I libPowerHal: [setClusterFreq]  set cpu_ctrl cpufreq: -1 -1 -1 -1 
+02-20 15:49:46.769  1253  1316 I libPowerHal: [PD] touch_boost update cmd:1404100 param:0
+02-20 15:49:46.769  1253  1316 I libPowerHal: [PD] touch_boost update cmd:1404300 param:0
+02-20 15:49:46.769  1253  1316 I libPowerHal: [PD] touch_boost update cmd:1408100 param:0
+02-20 15:49:46.769  1253  1316 I libPowerHal: [PD] touch_boost update cmd:1408300 param:0
+02-20 15:49:46.770  1253  1316 I libPowerHal: [perfLockRel] hdl:3528, idx:-1
+02-20 15:49:46.771  1311  1311 I mtkpower_client: ret_hdl:3525
+02-20 15:49:46.771  1253  1316 I libPowerHal: [perfLockAcq] idx:1 hdl:3525 hint:-1 pid:1311 tid:1311 duration:2000 lock_user:touch_boost => ret_hdl:3525
+02-20 15:49:46.771  1253  1316 I libPowerHal: [PU] scn:1, update
+02-20 15:49:46.816  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=114.44 dur=1004.87 max=24.75 min=7.50
+02-20 15:49:47.034  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:49:47.034  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:47.228  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 9
+02-20 15:49:47.229  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:49:47.358  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:114.465363,dur:1004.67,max:23.82,min:6.74  
+02-20 15:49:47.507  1311  1311 I touch_boost: enable=1, boost_up=0, boost_down=1, render_deboost=0, active_time=100, duration=120, idleprefer(TA,FG)=(0,0), util(TA,FG)=(0,0), freq(c0,c1,c2)=(1800000,900000,0)
+02-20 15:49:47.508  1311  1311 I mtkpower_client: perf_lock_acq, hdl:0, dur:120, num:14, pid:1311, tid:1311
+02-20 15:49:47.508  1253  1316 I libPowerHal: [perfLockAcq] idx:0 hdl:3529 hint:-1 pid:1311 tid:1311 duration:120 lock_user:touch_boost => ret_hdl:3529
+02-20 15:49:47.508  1253  1316 I libPowerHal: [setClusterFreq] touch_boost set cpufreq[0] min:1800000 max:-1 cpufreq[1] min:900000 max:-1 
+02-20 15:49:47.508  1253  1316 I libPowerHal: [setClusterFreq]  set cpu_ctrl cpufreq: 1800000 -1 900000 -1 
+02-20 15:49:47.509  1253  1316 I libPowerHal: [PE] touch_boost update cmd:1404100, param:0
+02-20 15:49:47.509  1253  1316 I libPowerHal: [PE] touch_boost update cmd:1404300, param:0
+02-20 15:49:47.509  1253  1316 I libPowerHal: [PE] touch_boost update cmd:1408100, param:0
+02-20 15:49:47.509  1253  1316 I libPowerHal: [PE] touch_boost update cmd:1408300, param:0
+02-20 15:49:47.509  1311  1311 I mtkpower_client: ret_hdl:3529
+02-20 15:49:47.509  1311  1311 I touch_boost: set_top_grp_aware
+02-20 15:49:47.509  1311  1311 I mtkpower_client: perf_lock_acq, hdl:3525, dur:2000, num:4, pid:1311, tid:1311
+02-20 15:49:47.509  1311  1311 I mtkpower_client: ret_hdl:3525
+02-20 15:49:47.510  1253  1316 I libPowerHal: [perfLockAcq] idx:1 hdl:3525 hint:-1 pid:1311 tid:1311 duration:2000 lock_user:touch_boost => ret_hdl:3525
+02-20 15:49:47.510  1253  1316 I libPowerHal: [PU] scn:1, update
+02-20 15:49:47.621  1253  1284 E libPowerHal: [getHintRscSize] hint_id 56 cannot be found in PowerScnTbl
+02-20 15:49:47.628  1311  1311 I touch_boost: enable=0, boost_up=0, boost_down=1, render_deboost=0, active_time=100, duration=120, idleprefer(TA,FG)=(0,0), util(TA,FG)=(0,0), freq(c0,c1,c2)=(1800000,900000,0)
+02-20 15:49:47.628  1311  1311 I mtkpower_client: perf_lock_rel, hdl:3529, tid:1311
+02-20 15:49:47.628  1253  1316 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:3529
+02-20 15:49:47.628  1311  1311 I touch_boost: set_top_grp_aware
+02-20 15:49:47.628  1253  1316 I libPowerHal: [perfLockRel] hdl:3529, idx:0
+02-20 15:49:47.628  1311  1311 I mtkpower_client: perf_lock_acq, hdl:3525, dur:2000, num:4, pid:1311, tid:1311
+02-20 15:49:47.629  1253  1316 I libPowerHal: [setClusterFreq]  set cpu_ctrl cpufreq: -1 -1 -1 -1 
+02-20 15:49:47.629  1253  1316 I libPowerHal: [PD] touch_boost update cmd:1404100 param:0
+02-20 15:49:47.629  1253  1316 I libPowerHal: [PD] touch_boost update cmd:1404300 param:0
+02-20 15:49:47.629  1253  1316 I libPowerHal: [PD] touch_boost update cmd:1408100 param:0
+02-20 15:49:47.629  1253  1316 I libPowerHal: [PD] touch_boost update cmd:1408300 param:0
+02-20 15:49:47.630  1253  1316 I libPowerHal: [perfLockRel] hdl:3529, idx:-1
+02-20 15:49:47.631  1311  1311 I mtkpower_client: ret_hdl:3525
+02-20 15:49:47.632  1253  1316 I libPowerHal: [perfLockAcq] idx:1 hdl:3525 hint:-1 pid:1311 tid:1311 duration:2000 lock_user:touch_boost => ret_hdl:3525
+02-20 15:49:47.632  1253  1316 I libPowerHal: [PU] scn:1, update
+02-20 15:49:47.821  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=116.43 dur=1004.90 max=17.02 min=7.40
+02-20 15:49:47.904  1519  5555 I focaltech:ta:trans: 'ff_trustlet_message_dispatch' enter.
+02-20 15:49:47.904  1519  5555 I focaltech:template: 'ff_template_new' dlen = 590794
+02-20 15:49:47.904  1519  5555 I focaltech:template: 'ff_template_new' fid_index = 0
+02-20 15:49:47.904  1519  5555 I focaltech:ta:core: '__save_template_data'402 g_context->current_fid_index = 0
+02-20 15:49:47.904  1519  5555 I focaltech:template: 'ff_template_new' dlen = 783548
+02-20 15:49:47.904  1519  5555 I focaltech:template: 'ff_template_new' fid_index = 0
+02-20 15:49:48.034  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:49:48.035  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:48.230  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 8
+02-20 15:49:48.232  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+--------- beginning of system
+02-20 15:49:48.252  1811  1860 I DisplayPowerController2[0]: BrightnessEvent: disp=0, physDisp=local:4627039422300187648, displayState=ON, displayPolicy=BRIGHT, brt=0.027559055, initBrt=0.03623476, rcmdBrt=0.027559055, preBrt=0.03623476, lux=0.0, preLux=5.0, hbmMax=1.0, hbmMode=off, rbcStrength=50, thrmMax=1.0, powerFactor=1.0, wasShortTermModelActive=false, flags=, reason=automatic, autoBrightness=true, strategy=InvalidBrightnessStrategy, autoBrightnessMode=default
+02-20 15:49:48.257  1811  1811 I BrightnessSynchronizer: [323] New Update 0.027559055(f) set brightness values:  8(i)
+02-20 15:49:48.259  1811  1811 I BrightnessSynchronizer: Swallowing update of 8(i) by update: {[323] 0.027559055(f), mUpdatedTypes=1, mConfirmedTypes=1, mTimeUpdated=36996576}
+02-20 15:49:48.260  1811  1811 I BrightnessSynchronizer: Completed Update: {[323] 0.027559055(f), mUpdatedTypes=1, mConfirmedTypes=1, mTimeUpdated=36996576}
+02-20 15:49:48.263  1229  1263 E hwcomposer: [LEDDEV] brightness_val(84)  
+02-20 15:49:48.271  1229  1263 E hwcomposer: [LEDDEV] brightness_val(83)  
+02-20 15:49:48.279  1229  1263 E hwcomposer: [LEDDEV] brightness_val(83)  
+02-20 15:49:48.288  1229  1263 E hwcomposer: [LEDDEV] brightness_val(82)  
+02-20 15:49:48.296  1229  1263 E hwcomposer: [LEDDEV] brightness_val(81)  
+02-20 15:49:48.304  1229  1263 E hwcomposer: [LEDDEV] brightness_val(80)  
+02-20 15:49:48.313  1229  1263 E hwcomposer: [LEDDEV] brightness_val(79)  
+02-20 15:49:48.321  1229  1263 E hwcomposer: [LEDDEV] brightness_val(78)  
+02-20 15:49:48.330  1229  1263 E hwcomposer: [LEDDEV] brightness_val(77)  
+02-20 15:49:48.338  1229  1263 E hwcomposer: [LEDDEV] brightness_val(76)  
+02-20 15:49:48.346  1229  1263 E hwcomposer: [LEDDEV] brightness_val(75)  
+02-20 15:49:48.355  1229  1263 E hwcomposer: [LEDDEV] brightness_val(74)  
+02-20 15:49:48.362  1229  1263 E hwcomposer: [LEDDEV] brightness_val(73)  
+02-20 15:49:48.363  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.408035,dur:1005.09,max:17.41,min:5.84  
+02-20 15:49:48.371  1229  1263 E hwcomposer: [LEDDEV] brightness_val(73)  
+02-20 15:49:48.380  1229  1263 E hwcomposer: [LEDDEV] brightness_val(72)  
+02-20 15:49:48.387  1229  1263 E hwcomposer: [LEDDEV] brightness_val(71)  
+02-20 15:49:48.396  1229  1263 E hwcomposer: [LEDDEV] brightness_val(70)  
+02-20 15:49:48.404  1229  1263 E hwcomposer: [LEDDEV] brightness_val(69)  
+02-20 15:49:48.412  1229  1263 E hwcomposer: [LEDDEV] brightness_val(68)  
+02-20 15:49:48.420  1229  1263 E hwcomposer: [LEDDEV] brightness_val(67)  
+02-20 15:49:48.428  1229  1263 E hwcomposer: [LEDDEV] brightness_val(67)  
+02-20 15:49:48.438  1229  1263 E hwcomposer: [LEDDEV] brightness_val(66)  
+02-20 15:49:48.514  1811  3458 I mtkpower_client: perf_lock_acq, hdl:3527, dur:1, num:2, pid:1811, tid:3458
+02-20 15:49:48.515  1811  3458 I mtkpower_client: ret_hdl:3530
+02-20 15:49:48.516  5351  5456 I PowerHalMgrImpl: hdl:3530, pid:5351 
+02-20 15:49:48.516  1811  3458 I mtkpower_client: perf_lock_rel, hdl:3530, tid:3458
+02-20 15:49:48.516  1253  1316 I libPowerHal: [perfLockAcq] idx:0 hdl:3530 hint:-1 pid:1811 tid:3458 duration:1 lock_user:system_server => ret_hdl:3530
+02-20 15:49:48.516  1253  1316 I libPowerHal: [PE] system_server update ONESHOT(set) cmd:1444300 param:5351
+02-20 15:49:48.517  1253  1316 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:3530
+02-20 15:49:48.517  1253  1316 I libPowerHal: [perfLockRel] hdl:3530, idx:0
+02-20 15:49:48.519  1253  1316 I libPowerHal: [PD] system_server update ONESHOT(unset) cmd:1444300 param:5351
+02-20 15:49:48.519  1253  1316 I libPowerHal: [perfLockRel] hdl:3530, idx:-1
+02-20 15:49:48.772  1383  1411 E md_thermal: interval=40 temp: 36100 31300 30000 28900
+02-20 15:49:48.826  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=117.37 dur=1005.34 max=17.38 min=6.88
+02-20 15:49:49.035  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:49:49.035  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:49.119  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 15:49:49.119  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:49:49.119  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:49:49.119  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:49:49.127  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 15:49:49.233  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 7
+02-20 15:49:49.234  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:49:49.368  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.397453,dur:1005.18,max:17.95,min:6.59  
+02-20 15:49:49.633  1253  1316 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:3525
+02-20 15:49:49.633  1253  1316 I libPowerHal: [perfLockRel] hdl:3525, idx:1
+02-20 15:49:49.633  1253  1316 I libPowerHal: [PD] touch_boost update cmd:3409100, param:0
+02-20 15:49:49.633  1253  1316 I libPowerHal: [PD] touch_boost update cmd:3409200, param:-1
+02-20 15:49:49.831  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=115.47 dur=1004.57 max=18.08 min=6.77
+02-20 15:49:50.035  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:49:50.035  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:50.042 29283 31560 I NearbyPresence: (REDACTED) %s verified [==] new request %s equals to the old request
+02-20 15:49:50.235  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 6
+02-20 15:49:50.235  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:49:50.372  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:118.495056,dur:1004.26,max:18.66,min:5.94  
+02-20 15:49:50.837  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.31 dur=1005.69 max=9.16 min=7.18
+02-20 15:49:51.037  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:49:51.037  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:51.236  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 5
+02-20 15:49:51.237  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:49:51.377  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.479073,dur:1004.47,max:17.49,min:6.35  
+02-20 15:49:51.841  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=114.47 dur=1004.62 max=17.10 min=7.34
+02-20 15:49:52.036  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:49:52.036  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:52.146  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 15:49:52.146  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:49:52.146  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:49:52.146  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:49:52.161  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 15:49:52.164 10211 10278 I BugleRcsEngine: Connected state: [1], networkType: [WIFI] [CONTEXT thread_id=134 ]
+02-20 15:49:52.164 10211 10319 I BugleRcsEngine: handleMessage processing message:[NOTIFY_UPTIME_IGNORE_STATE_CHANGED] with [non-null]:RcsEngineImpl reference [CONTEXT log_prefix="RcsEngineImpl[DUAL_REG]:[6622f385-29d1]>Handler" thread_id=140 ]
+02-20 15:49:52.168  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:49:52.169 29283 29440 I NullBinder: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl, calling uid: 1000, calling pid: 0
+02-20 15:49:52.169 29283 29440 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+02-20 15:49:52.182  1276  1276 I BufferQueueProducer: [StatusBar#88](this:0xb400007b1fa38070,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=3.45 dur=8995.89 max=8696.96 min=7.53
+02-20 15:49:52.237  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 4
+02-20 15:49:52.239  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:49:52.382  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:110.358025,dur:1005.82,max:19.72,min:5.42  
+02-20 15:49:52.668 29283 31560 I NearbySharing: Network state changed: NetworkState(isRestricted=false, isOnline=true, isCongested=false, isMetered=false, isWifiConnected=true)
+02-20 15:49:52.846  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=111.43 dur=1005.12 max=17.44 min=7.48
+02-20 15:49:53.036  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 15:49:53.036  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:53.239  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 3
+02-20 15:49:53.241  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:49:53.387  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.444542,dur:1004.77,max:17.77,min:6.79  
+02-20 15:49:53.851  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=113.43 dur=1005.02 max=17.27 min=7.38
+02-20 15:49:54.036  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 15:49:54.036  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:54.163   570  5554 I keystore2: system/security/keystore2/watchdog/src/lib.rs:319 - Watchdog thread idle -> terminating. Have a great day.
+02-20 15:49:54.241  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 2
+02-20 15:49:54.246  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:49:54.393  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:115.351440,dur:1005.62,max:18.57,min:5.17  
+02-20 15:49:54.856  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=119.43 dur=1004.77 max=17.17 min=7.55
+02-20 15:49:55.036  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:49:55.036  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:55.178  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 15:49:55.178  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:49:55.178  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:49:55.178  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:49:55.187  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 15:49:55.247  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 1
+02-20 15:49:55.248  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:49:55.398  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:119.410011,dur:1004.94,max:18.53,min:6.78  
+02-20 15:49:55.861  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=117.40 dur=1005.11 max=17.87 min=7.46
+02-20 15:49:56.037  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:49:56.037  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:56.248  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 0
+02-20 15:49:56.249  1446  1532 E mtk_storageproxyd: mtk.ufs.trustonic.ta: ipc connect failed (-12)
+02-20 15:49:56.403  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:108.427834,dur:1005.28,max:18.92,min:6.00  
+02-20 15:49:56.866  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=109.44 dur=1005.11 max=17.35 min=7.46
+02-20 15:49:57.037  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:49:57.037  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:57.408  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:119.471558,dur:1004.42,max:17.60,min:5.90  
+02-20 15:49:57.871  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=119.42 dur=1004.84 max=16.88 min=7.50
+02-20 15:49:58.038  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:49:58.038  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:58.202  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:49:58.206  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 15:49:58.206  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:49:58.206  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:49:58.206  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:49:58.216  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 15:49:58.420  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.495979,dur:1012.91,max:17.70,min:6.41  
+02-20 15:49:58.671  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:49:58.672  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:49:58.876  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=116.40 dur=1005.14 max=16.79 min=7.39
+02-20 15:49:59.038  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:49:59.038  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:49:59.250  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:49:59.426  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:117.314064,dur:1005.85,max:16.33,min:6.35  
+02-20 15:49:59.881  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=113.49 dur=1004.46 max=17.35 min=7.41
+02-20 15:50:00.031  1276  1276 I BufferQueueProducer: [StatusBar#88](this:0xb400007b1fa38070,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=0.13 dur=7848.97 max=7848.97 min=7848.97
+02-20 15:50:00.038  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 15:50:00.038  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:00.251  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 9
+02-20 15:50:00.252  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:00.431  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:114.473740,dur:1004.60,max:17.23,min:5.89  
+02-20 15:50:00.886  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=117.36 dur=1005.43 max=16.74 min=7.44
+02-20 15:50:01.038  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 15:50:01.040  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:01.232  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 15:50:01.232  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:50:01.232  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:50:01.232  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:50:01.246  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 15:50:01.252  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 8
+02-20 15:50:01.254  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:01.436  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.379890,dur:1005.33,max:16.97,min:5.33  
+02-20 15:50:01.891  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=117.45 dur=1004.65 max=17.42 min=7.56
+02-20 15:50:02.038  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:02.039  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:02.255  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 7
+02-20 15:50:02.262  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:02.441  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.488197,dur:1004.39,max:18.27,min:6.38  
+02-20 15:50:02.896  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=116.44 dur=1004.80 max=17.34 min=7.56
+02-20 15:50:03.039  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:03.039  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:03.102  1811  1811 W libc    : Access denied finding property "vendor.mbrain.battery"
+02-20 15:50:03.120  1276  1276 I BufferQueueProducer: [StatusBar#88](this:0xb400007b1fa38070,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=0.32 dur=3088.86 max=3088.86 min=3088.86
+02-20 15:50:03.263  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 6
+02-20 15:50:03.263  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:03.446  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:118.378098,dur:1005.25,max:18.60,min:6.61  
+02-20 15:50:03.901  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=114.40 dur=1005.21 max=16.96 min=7.39
+02-20 15:50:04.039  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 15:50:04.039  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:04.262  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 15:50:04.262  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:50:04.262  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:50:04.262  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:50:04.264  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 5
+02-20 15:50:04.265  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:04.270  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 15:50:04.451  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:114.381813,dur:1005.40,max:18.07,min:6.36  
+02-20 15:50:04.906  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=117.43 dur=1004.82 max=17.06 min=7.55
+02-20 15:50:05.039  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 15:50:05.040  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:05.266  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 4
+02-20 15:50:05.266  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:05.456  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:117.429436,dur:1004.86,max:16.80,min:6.52  
+02-20 15:50:05.911  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=118.41 dur=1004.98 max=17.29 min=7.58
+02-20 15:50:06.040  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:06.040  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:06.267  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 3
+02-20 15:50:06.268  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:06.460  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.491058,dur:1004.37,max:17.85,min:5.32  
+02-20 15:50:06.916  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=113.39 dur=1005.37 max=17.01 min=7.26
+02-20 15:50:07.040  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:07.040  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:07.269  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 2
+02-20 15:50:07.270  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:07.284  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 15:50:07.284  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:50:07.284  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:50:07.284  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:50:07.292  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 15:50:07.466  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.413254,dur:1005.04,max:17.16,min:5.09  
+02-20 15:50:07.920  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=117.49 dur=1004.32 max=24.80 min=7.60
+02-20 15:50:08.040  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:08.040  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:08.270  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 1
+02-20 15:50:08.272  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:08.470  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:115.432770,dur:1004.91,max:25.49,min:6.26  
+02-20 15:50:08.925  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=116.39 dur=1005.23 max=17.14 min=7.36
+02-20 15:50:09.040  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:09.041  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:09.275  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 0
+02-20 15:50:09.275  1446  1532 E mtk_storageproxyd: mtk.ufs.trustonic.ta: ipc connect failed (-12)
+02-20 15:50:09.474  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:114.548828,dur:1003.94,max:18.66,min:4.46  
+02-20 15:50:09.891  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:09.914  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:09.927  3317  5591 I Authzen : [DeviceStateSyncManager] The server is in sync with current state. Nothing to do
+02-20 15:50:09.930  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=111.49 dur=1004.53 max=17.69 min=6.92
+02-20 15:50:10.040  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:10.040  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:10.180 13791 13888 I native  : I0000 00:00:1771620610.179777   13888 soda_async_impl.cc:1411] Current audio timestamp: 1771620610052457
+02-20 15:50:10.312  2055  2061 I WifiHAL : LLS RSP: data=0xb40000753b9d67d0, len=4868
+02-20 15:50:10.312  2055  2061 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:50:10.312  2055  2061 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:50:10.312  2055  2061 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:50:10.318  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 15:50:10.479  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:109.494171,dur:1004.62,max:18.74,min:6.33  
+02-20 15:50:10.484 29283  5587 I CastDatabase: Saving the database
+02-20 15:50:10.492 29283  5587 I SQLiteCastStore: [CastNetworkInfo] saved: 1, skipped: 0, [CastDeviceInfo]: saved 1, skipped 0, [ProbedNetworks]: saved 0, skipped: 0, [ProbedSocketAddress]: saved 1, skipped: 0, [Network-Device pairs]: saved: 1
+02-20 15:50:10.935  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=110.45 dur=1004.99 max=17.39 min=7.48
+02-20 15:50:11.040  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:11.040  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:11.484  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:112.424210,dur:1005.12,max:18.78,min:5.92  
+02-20 15:50:11.940  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=116.47 dur=1004.53 max=17.39 min=7.52
+02-20 15:50:12.040  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:12.041  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:12.277  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:12.489  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.388107,dur:1005.08,max:10.25,min:6.60  
+02-20 15:50:12.578 13791 13953 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+02-20 15:50:12.945  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=117.39 dur=1005.22 max=17.50 min=7.64
+02-20 15:50:13.041  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:13.042  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:13.278  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 9
+02-20 15:50:13.280  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:13.292 29283  5587 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 177787615]
+02-20 15:50:13.307 29283  5595 I AlarmManager: setExactAndAllowWhileIdle [name: FcmRetry type: 2 triggerAtMillis: 176107629]
+02-20 15:50:13.312 29283  5599 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 177787635]
+02-20 15:50:13.315  1211  1710 I netd    : tetherGetStats() -> {[]} <2.51ms>
+02-20 15:50:13.323  1811  1841 I ActivityManager: Start proc 5602:com.google.android.gm/u0a130 for broadcast {com.google.android.gm/com.google.firebase.iid.FirebaseInstanceIdReceiver}
+02-20 15:50:13.323  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 15:50:13.324  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:50:13.324  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:50:13.324  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:50:13.327  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 15:50:13.336  5602  5602 I ogle.android.gm: Using CollectorTypeCMC GC.
+02-20 15:50:13.340 12053 12058 I adbd    : jdwp connection from 5602
+02-20 15:50:13.348  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.389  5602  5602 W ogle.android.gm: Failed to find entry 'classes.dex': Entry not found
+02-20 15:50:13.390  5602  5602 W ogle.android.gm: Failed to find entry 'classes.dex': Entry not found
+02-20 15:50:13.390  5602  5602 W ogle.android.gm: Failed to find entry 'classes.dex': Entry not found
+02-20 15:50:13.403  5602  5602 W AndroidLoggerBackend: AndroidLoggerBackend configured with enableAndroidLogger:false; no logs will be emitted.
+02-20 15:50:13.431  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.437  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.446  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.470  1811  3458 W ProcessStats: Tracking association SourceState{54a179b com.google.android.gm/10130 Receivr #70498} whose proc state 10 is better than process ProcessState{7faffef com.google.android.gms/10115 pkg=com.google.android.gms} proc state 14 (21 skipped)
+02-20 15:50:13.470  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.477  5602  5627 W ogle.android.gm: ClassLoaderContext classpath size mismatch. expected=1, found=0 (DLC[];PCL[base.apk*2701253676]{PCL[/system/framework/org.apache.http.legacy.jar*437079508]#PCL[/system/framework/com.android.location.provider.jar*3414091812]#PCL[/system/framework/com.android.media.remotedisplay.jar*2042759013]#PCL[/system_ext/framework/androidx.window.extensions.jar*96836294]#PCL[/system_ext/framework/androidx.window.sidecar.jar*838133530]} | DLC[];PCL[])
+02-20 15:50:13.494  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.474564,dur:1004.51,max:19.23,min:6.55  
+02-20 15:50:13.545  5602  5627 W System  : ClassLoader referenced unknown path: 
+02-20 15:50:13.579  5602  5627 W ogle.android.gm: ClassLoaderContext classpath element checksum mismatch. expected=2701253676, found=3336490216 (DLC[];PCL[base.apk*2701253676]{PCL[/system/framework/org.apache.http.legacy.jar*437079508]#PCL[/system/framework/com.android.location.provider.jar*3414091812]#PCL[/system/framework/com.android.media.remotedisplay.jar*2042759013]#PCL[/system_ext/framework/androidx.window.extensions.jar*96836294]#PCL[/system_ext/framework/androidx.window.sidecar.jar*838133530]} | DLC[];PCL[/data/app/~~x_jCcFXEjO682xsKe05BFA==/com.google.android.gm-2HWI1O5RCHrseIckFUDWyw==/base.apk*3336490216]{PCL[/system/framework/org.apache.http.legacy.jar*437079508]#PCL[/system_ext/framework/androidx.window.extensions.jar*96836294]#PCL[/system_ext/framework/androidx.window.sidecar.jar*838133530]})
+02-20 15:50:13.616  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.620  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.657  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.659  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.661  3317  5122 I MdiSyncModule: (REDACTED) Receiving API connection from package '%s'...
+02-20 15:50:13.663  3317  5122 I MdiSyncModule: API connection successful!
+02-20 15:50:13.713  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.746  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.746  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.748  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.748  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:13.752  5602  5701 W DynamiteModule: Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+02-20 15:50:13.753 29283 31155 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+02-20 15:50:13.754  1811  1849 W BatteryExternalStatsWorker: error reading Bluetooth stats: 9
+02-20 15:50:13.755  5602  5701 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module com.google.android.gms.providerinstaller.dynamite found. Local version is 0 and remote version is 0.
+02-20 15:50:13.765  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 15:50:13.765  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:50:13.765  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:50:13.765  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:50:13.789  5602  5681 E bcxd    : Sync subscriptions not available
+02-20 15:50:13.790  1211  1710 I netd    : tetherGetStats() -> {[]} <1.19ms>
+02-20 15:50:13.795  1211  1710 I netd    : tetherGetStats() -> {[]} <0.66ms>
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: Failed to get service from broker. 
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: java.lang.SecurityException: Unknown calling package name 'com.google.android.gms'.
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3242)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at android.os.Parcel.createException(Parcel.java:3226)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3209)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3151)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at beut.a(:com.google.android.gms@260534035@26.05.34 (260400-869443408):36)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at besu.z(:com.google.android.gms@260534035@26.05.34 (260400-869443408):143)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at bdza.run(:com.google.android.gms@260534035@26.05.34 (260400-869443408):42)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at android.os.Handler.handleCallback(Handler.java:959)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at ctdu.mv(:com.google.android.gms@260534035@26.05.34 (260400-869443408):1)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at ctdu.dispatchMessage(:com.google.android.gms@260534035@26.05.34 (260400-869443408):5)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at android.os.Looper.loopOnce(Looper.java:232)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at android.os.Looper.loop(Looper.java:317)
+02-20 15:50:13.871  5602  5704 E GoogleApiManager: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+02-20 15:50:13.871  5602  5704 W GoogleApiManager: Not showing notification since connectionResult is not user-facing: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: Failed to register com.google.android.gms.providerinstaller#com.google.android.gm
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: gach: 17: 17: API: Phenotype.API is not available on this device. Connection failed with: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at gacj.a(:com.google.android.gms@260534035@26.05.34 (260400-869443408):13)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at gykp.d(:com.google.android.gms@260534035@26.05.34 (260400-869443408):3)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at gykr.run(:com.google.android.gms@260534035@26.05.34 (260400-869443408):130)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at gymy.execute(:com.google.android.gms@260534035@26.05.34 (260400-869443408):1)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at gykz.f(:com.google.android.gms@260534035@26.05.34 (260400-869443408):1)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at gykz.m(:com.google.android.gms@260534035@26.05.34 (260400-869443408):99)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at gykz.r(:com.google.android.gms@260534035@26.05.34 (260400-869443408):17)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at fsqk.hy(:com.google.android.gms@260534035@26.05.34 (260400-869443408):35)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at ffth.run(:com.google.android.gms@260534035@26.05.34 (260400-869443408):12)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at gymy.execute(:com.google.android.gms@260534035@26.05.34 (260400-869443408):1)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at ffti.b(:com.google.android.gms@260534035@26.05.34 (260400-869443408):18)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at fftx.b(:com.google.android.gms@260534035@26.05.34 (260400-869443408):34)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at fftz.d(:com.google.android.gms@260534035@26.05.34 (260400-869443408):25)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at bdwj.c(:com.google.android.gms@260534035@26.05.34 (260400-869443408):9)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at bdyy.q(:com.google.android.gms@260534035@26.05.34 (260400-869443408):48)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at bdyy.d(:com.google.android.gms@260534035@26.05.34 (260400-869443408):10)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at bdyy.g(:com.google.android.gms@260534035@26.05.34 (260400-869443408):191)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at bdyy.onConnectionFailed(:com.google.android.gms@260534035@26.05.34 (260400-869443408):2)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at bdza.run(:com.google.android.gms@260534035@26.05.34 (260400-869443408):70)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at android.os.Handler.handleCallback(Handler.java:959)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at ctdu.mv(:com.google.android.gms@260534035@26.05.34 (260400-869443408):1)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at ctdu.dispatchMessage(:com.google.android.gms@260534035@26.05.34 (260400-869443408):5)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at android.os.Looper.loopOnce(Looper.java:232)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at android.os.Looper.loop(Looper.java:317)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: Caused by: bduq: 17: API: Phenotype.API is not available on this device. Connection failed with: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at besg.a(:com.google.android.gms@260534035@26.05.34 (260400-869443408):15)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at bdwm.a(:com.google.android.gms@260534035@26.05.34 (260400-869443408):1)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	at bdwj.c(:com.google.android.gms@260534035@26.05.34 (260400-869443408):5)
+02-20 15:50:13.873  5602  5703 W FlagRegistrar: 	... 12 more
+02-20 15:50:13.914  5602  5701 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+02-20 15:50:13.944  5602  5707 I HttpFlagsLoader: HTTP flags log line (Impl): Using live production flag values from Google
+02-20 15:50:13.946  5602  5700 I cn_CronetLibraryLoader: Cronet version: 145.0.7582.0, arch: aarch64
+02-20 15:50:13.949  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=119.44 dur=1004.69 max=17.47 min=7.55
+02-20 15:50:13.969  1211  5718 I resolv  : GetAddrInfoHandler::run: {100 262244 100 983140 10130 0}
+02-20 15:50:13.969  1211  5719 I resolv  : GetAddrInfoHandler::run: {100 262244 100 983140 10130 0}
+02-20 15:50:13.969  1211  5720 I resolv  : res_nmkquery: (QUERY, IN, A)
+02-20 15:50:13.969  1211  5722 I resolv  : GetAddrInfoHandler::run: {100 262244 100 983140 10130 0}
+02-20 15:50:13.970  1211  5723 I resolv  : res_nmkquery: (QUERY, IN, A)
+02-20 15:50:13.970  1211  5724 I resolv  : res_nmkquery: (QUERY, IN, A)
+02-20 15:50:13.994  1211  5720 I resolv  : res_nsend: used send_dg 302 terrno: 0
+02-20 15:50:13.994  1211  5720 I resolv  : doQuery: rcode=0, ancount=16, return value=302
+02-20 15:50:13.998  1211  5725 I resolv  : GetAddrInfoHandler::run: {100 262244 100 983140 10130 0}
+02-20 15:50:13.998  1211  5726 I resolv  : res_nmkquery: (QUERY, IN, A)
+02-20 15:50:13.998  1211  5726 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0xb400007129e96910
+02-20 15:50:13.998  1211  5726 I resolv  : doQuery: rcode=0, ancount=16, return value=302
+02-20 15:50:14.004  1211  5724 I resolv  : res_nsend: used send_dg 291 terrno: 0
+02-20 15:50:14.004  1211  5723 I resolv  : res_nsend: used send_dg 50 terrno: 0
+02-20 15:50:14.005  1211  5723 I resolv  : doQuery: rcode=0, ancount=1, return value=50
+02-20 15:50:14.005  1211  5724 I resolv  : doQuery: rcode=0, ancount=15, return value=291
+02-20 15:50:14.007  1211  5727 I resolv  : GetAddrInfoHandler::run: {100 262244 100 983140 10130 0}
+02-20 15:50:14.007  1211  5728 I resolv  : GetAddrInfoHandler::run: {100 262244 100 983140 10130 0}
+02-20 15:50:14.008  1211  5730 I resolv  : res_nmkquery: (QUERY, IN, A)
+02-20 15:50:14.008  1211  5729 I resolv  : res_nmkquery: (QUERY, IN, A)
+02-20 15:50:14.008  1211  5730 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0xb400007189e8dd50
+02-20 15:50:14.008  1211  5730 I resolv  : doQuery: rcode=0, ancount=1, return value=50
+02-20 15:50:14.008  1211  5729 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0xb400007129e92d90
+02-20 15:50:14.008  1211  5729 I resolv  : doQuery: rcode=0, ancount=15, return value=291
+02-20 15:50:14.041  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:14.041  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:14.281  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 8
+02-20 15:50:14.281  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:14.308  1211  5734 I resolv  : GetAddrInfoHandler::run: {100 262244 100 983140 10130 0}
+02-20 15:50:14.309  1211  5735 I resolv  : res_nmkquery: (QUERY, IN, A)
+02-20 15:50:14.356  1211  5735 I resolv  : res_nsend: used send_dg 275 terrno: 0
+02-20 15:50:14.356  1211  5735 I resolv  : doQuery: rcode=0, ancount=14, return value=275
+02-20 15:50:14.499  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:119.424957,dur:1004.82,max:17.01,min:6.95  
+02-20 15:50:14.520 29283 29304 I Wear_Controller: Wearable module requires a companion app to be installed.
+02-20 15:50:14.520 29283 29304 I WearableService: onCreate: Wearable Services not starting. Wear is not available on this device.
+02-20 15:50:14.521 29283 29291 W WearableService: onGetService: Wear is not available on this device.
+02-20 15:50:14.526  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:14.527  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:14.528  5602  5602 W ojx     : [Gmail] MailSyncAdapterService: MailSyncAdapterService is destroyed! [CONTEXT android_log_tag="MailSyncAdapterService" ]
+02-20 15:50:14.529  1211  1710 I netd    : tetherGetStats() -> {[]} <1.49ms>
+02-20 15:50:14.539  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:14.539  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:14.557  5602  5602 I PowerHalWrapper: PowerHalWrapper.getInstance 
+02-20 15:50:14.558  5602  5602 I M-ProMotion: M-ProMotion is disabled
+02-20 15:50:14.955  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=119.36 dur=1005.39 max=16.87 min=7.41
+02-20 15:50:15.041  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:15.041  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:15.282  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 7
+02-20 15:50:15.283  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:15.503  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:117.423584,dur:1004.91,max:18.31,min:5.96  
+02-20 15:50:15.959  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=114.51 dur=1004.28 max=17.03 min=7.27
+02-20 15:50:16.041  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:16.042  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:16.284  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 6
+02-20 15:50:16.287  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:16.341  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 15:50:16.341  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:50:16.341  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:50:16.341  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:50:16.349  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 15:50:16.471 29283  5599 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 177790794]
+02-20 15:50:16.487 29283  5597 I AlarmManager: setExactAndAllowWhileIdle [name: FcmRetry type: 2 triggerAtMillis: 176110804]
+02-20 15:50:16.494  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.496  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.499  1211  1710 I netd    : tetherGetStats() -> {[]} <1.60ms>
+02-20 15:50:16.509  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.380890,dur:1005.32,max:17.92,min:6.41  
+02-20 15:50:16.526  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.539  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.539  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.540  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.542  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.869  5602  5602 W ojx     : [Gmail] MailSyncAdapterService: MailSyncAdapterService is destroyed! [CONTEXT android_log_tag="MailSyncAdapterService" ]
+02-20 15:50:16.869  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.870  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.877  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.877  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.933  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 15:50:16.964  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=119.41 dur=1004.93 max=17.24 min=7.33
+02-20 15:50:17.041  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:17.042  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:17.044  5602  5607 W ogle.android.gm: userfaultfd: MOVE ioctl seems unsupported: Connection timed out
+02-20 15:50:17.287  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 5
+02-20 15:50:17.288  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:17.291  1211  5744 I resolv  : GetAddrInfoHandler::run: {100 100 100 983140 10228 0}
+02-20 15:50:17.293  1211  5745 I resolv  : res_nmkquery: (QUERY, IN, A)
+02-20 15:50:17.293  1211  5745 I resolv  : resolv_cache_lookup: FOUND IN CACHE entry=0xb4000070f9e99a70
+02-20 15:50:17.293  1211  5745 I resolv  : doQuery: rcode=0, ancount=2, return value=90
+02-20 15:50:17.513  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:119.437836,dur:1004.71,max:17.13,min:5.88  
+02-20 15:50:17.969  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=118.39 dur=1005.18 max=16.98 min=7.34
+02-20 15:50:18.042  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:18.042  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:18.289  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 4
+02-20 15:50:18.290  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:18.463  1211  1710 I netd    : setProcSysNet(4, 2, wlan0, retrans_time_ms, 750) <0.49ms>
+02-20 15:50:18.464  1211  1710 I netd    : setProcSysNet(4, 2, wlan0, ucast_solicit, 10) <0.48ms>
+02-20 15:50:18.466  1211  1710 I netd    : setProcSysNet(6, 2, wlan0, retrans_time_ms, 750) <0.20ms>
+02-20 15:50:18.466  1211  1710 I netd    : setProcSysNet(6, 2, wlan0, ucast_solicit, 10) <0.17ms>
+02-20 15:50:18.519  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:117.376450,dur:1005.31,max:18.44,min:5.38  
+02-20 15:50:18.824 29283  5595 I .gms.persistent: Explicit concurrent mark compact GC freed 14MB AllocSpace bytes, 33(1092KB) LOS objects, 75% free, 19MB/76MB, paused 408us,2.488ms total 106.821ms
+02-20 15:50:18.831 29283 29289 W .gms.persistent: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DcA1EWsLAozpncYM7mm51A==/app.validator.intelligence-T131QXzf25X217-DQGOe0A==/base.apk' with 1 weak references
+02-20 15:50:18.833 29283 29289 W .gms.persistent: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~x_jCcFXEjO682xsKe05BFA==/com.google.android.gm-2HWI1O5RCHrseIckFUDWyw==/base.apk' with 1 weak references
+02-20 15:50:18.833 29283 29289 W .gms.persistent: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~x_jCcFXEjO682xsKe05BFA==/com.google.android.gm-2HWI1O5RCHrseIckFUDWyw==/split_config.arm64_v8a.apk' with 1 weak references
+02-20 15:50:18.833 29283 29289 W .gms.persistent: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~x_jCcFXEjO682xsKe05BFA==/com.google.android.gm-2HWI1O5RCHrseIckFUDWyw==/split_config.en.apk' with 1 weak references
+02-20 15:50:18.833 29283 29289 W .gms.persistent: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~x_jCcFXEjO682xsKe05BFA==/com.google.android.gm-2HWI1O5RCHrseIckFUDWyw==/split_config.xxhdpi.apk' with 1 weak references
+02-20 15:50:18.974  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=116.45 dur=1004.74 max=17.71 min=7.33
+02-20 15:50:19.042  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:19.042  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:19.290  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 3
+02-20 15:50:19.292  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:19.369  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 15:50:19.370  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 15:50:19.370  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 15:50:19.370  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 15:50:19.379  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 15:50:19.523  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:115.479500,dur:1004.51,max:18.00,min:6.50  
+02-20 15:50:19.979  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=117.47 dur=1004.55 max=17.24 min=7.34
+02-20 15:50:20.042  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:20.042  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1
+02-20 15:50:20.293  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 2
+02-20 15:50:20.295  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 15:50:20.528  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:119.408020,dur:1004.96,max:17.45,min:6.30  
+02-20 15:50:20.984  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3075](this:0xb400007b1fa2f7c0,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=119.40 dur=1005.02 max=16.98 min=7.70
+02-20 15:50:21.042  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 15:50:21.043  1248  1309 I libPerfCtl: xgfGetFPS pid:5351 fps:-1

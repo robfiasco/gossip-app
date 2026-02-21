@@ -1,0 +1,1003 @@
+--------- beginning of main
+02-20 16:37:21.452  1276  2681 I BufferQueueDebug: [8e0f015 com.android.launcher3/com.android.searchlauncher.SearchLauncher#3400](this:0xb400007b1fa5d0c0,id:-1,api:0,p:-1,c:-1) BufferQueue core=(1276:/system/bin/surfaceflinger)
+--------- beginning of system
+02-20 16:37:21.457  1811  3368 W UserManagerService: Requested status bar icon for non-badged user 0
+02-20 16:37:21.457  5236  5267 I cmho    : (REDACTED) remove request for trigger key: %s, isClientInitiated: %s
+02-20 16:37:21.463 13704 13704 I bqwu    : (REDACTED) windowAttached completed window=%s fragmentHost=%s
+02-20 16:37:21.466  5236  5236 I xgk     : Local calendar periodic scheduler worker starts.
+02-20 16:37:21.466  5236  5236 I A       : Scheduling the PCP local calendar update worker.
+02-20 16:37:21.467  1276  1276 I SurfaceFlinger: onHandleDestroyed: name=Surface(name=WindowToken{8d035d9 type=2019 android.os.BinderProxy@7928b23})/@0xd0891ec - animation-leash of token_transform#3398, layerId=3398, parentId=0
+02-20 16:37:21.475  1276  1276 I BufferQueueDebug: [Surface(name=WindowToken{8d035d9 type=2019 android.os.BinderProxy@7928b23})/@0xd0891ec - animation-leash of token_transform#3398](this:0xb400007b1faa1640,id:-1,api:0,p:-1,c:1276) onDestructor()
+02-20 16:37:21.487  5236  5266 I bjgh    : CTF Update success.
+02-20 16:37:21.491  5236  5270 I bhpm    : (REDACTED) Updating user context. Event: %s
+02-20 16:37:21.492  1811  1841 I ActivityManager: Start proc 8023:com.android.providers.calendar/u0a52 for content provider {com.android.providers.calendar/com.android.providers.calendar.CalendarProvider2}
+02-20 16:37:21.497  5236  5268 I A       : Calendar refresh worker found. Do not schedule new one.
+02-20 16:37:21.499  5236  5264 I dptn    : Building Device Properties.
+02-20 16:37:21.500  1276  1276 I SurfaceFlinger: onHandleDestroyed: name=BackColorSurface#3397, layerId=3397, parentId=0
+02-20 16:37:21.500  1276  1276 I SurfaceFlinger: onHandleDestroyed: name=Animation leash of screenshot rotation#3396, layerId=3396, parentId=0
+02-20 16:37:21.500  1276  1676 I SurfaceFlinger: onHandleDestroyed: name=Surface(name=WindowToken{3853336 type=2000 android.os.BinderProxy@1b06ff8})/@0xe7bf22d - animation-leash of token_transform#3393, layerId=3393, parentId=0
+02-20 16:37:21.501  1276  1676 I SurfaceFlinger: onHandleDestroyed: name=Surface(name=WindowToken{8d035d9 type=2019 android.os.BinderProxy@7928b23})/@0xd0891ec - animation-leash of token_transform#3391, layerId=3391, parentId=0
+02-20 16:37:21.502  1253  1284 I mtkpower@impl: [setMode] type:6, enabled:0
+02-20 16:37:21.502  1253  1284 E mtkpower@impl: [setMode] unknown type
+02-20 16:37:21.503  8023  8023 I viders.calendar: Using CollectorTypeCMC GC.
+02-20 16:37:21.507  1276  2681 I SurfaceFlinger: onHandleDestroyed: name=Transition Root: Display 0 name="Built-in Screen"#3395, layerId=3395, parentId=0
+02-20 16:37:21.507  1276  2681 I SurfaceFlinger: onHandleDestroyed: name=RotationLayer#3394, layerId=3394, parentId=0
+02-20 16:37:21.508 29283 29304 I Wear_Controller: Wearable module requires a companion app to be installed.
+02-20 16:37:21.508 29283 29304 I WearableService: onCreate: Wearable Services not starting. Wear is not available on this device.
+02-20 16:37:21.508  1276  1276 I BufferQueueDebug: [BackColorSurface#3397](this:0xb400007b1fa70fb0,id:-1,api:0,p:-1,c:1276) onDestructor()
+02-20 16:37:21.509  1276  1276 I BufferQueueDebug: [RotationLayer#3394](this:0xb400007b1fa76ad0,id:-1,api:0,p:-1,c:1276) onDestructor()
+02-20 16:37:21.509  1276  1276 I BufferQueueDebug: [Animation leash of screenshot rotation#3396](this:0xb400007b1fa7c5f0,id:-1,api:0,p:-1,c:1276) onDestructor()
+02-20 16:37:21.509  1276  1276 I BufferQueueDebug: [Surface(name=WindowToken{8d035d9 type=2019 android.os.BinderProxy@7928b23})/@0xd0891ec - animation-leash of token_transform#3391](this:0xb400007b1fa7f380,id:-1,api:0,p:-1,c:1276) onDestructor()
+02-20 16:37:21.509  1276  1276 I BufferQueueDebug: [Surface(name=WindowToken{3853336 type=2000 android.os.BinderProxy@1b06ff8})/@0xe7bf22d - animation-leash of token_transform#3393](this:0xb400007b1fa8d750,id:-1,api:0,p:-1,c:1276) onDestructor()
+02-20 16:37:21.509  1276  1276 I BufferQueueDebug: [Transition Root: Display 0 name="Built-in Screen"#3395](this:0xb400007b1fa9e8b0,id:-1,api:0,p:-1,c:1276) onDestructor()
+02-20 16:37:21.508  1811  3368 I PowerHalWrapper: <setRotation> do boost with 0ms 
+02-20 16:37:21.511  1253  1316 I libPowerHal: [perfLockRel] hdl:3884, idx:0
+02-20 16:37:21.511  1253  1316 I libPowerHal: [setClusterFreq]  set cpu_ctrl cpufreq: -1 -1 -1 -1 
+02-20 16:37:21.511  5236  5267 I ebkb    : #getHotwordModelConfig
+02-20 16:37:21.511  1253  1316 I libPowerHal: [PD] MTKPOWER_HINT_APP_ROTATE update cmd:1408300 param:40
+02-20 16:37:21.512  1253  1316 I libPowerHal: [setDvfsrcDevFreqOpp] opp:2, freq:4212000000
+02-20 16:37:21.512  1253  1316 I libPowerHal: [PD] MTKPOWER_HINT_APP_ROTATE update cmd:1000000 param:2
+02-20 16:37:21.513  5236  5267 I cnxg    : (REDACTED) MDD.getFileGroup(%s)
+02-20 16:37:21.513 29283 31476 W WearableService: onGetService: Wear is not available on this device.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b1340 (#0x7f0b1340) has not been defined.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b14f7 (#0x7f0b14f7) has not been defined.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b1008 (#0x7f0b1008) has not been defined.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b1e83 (#0x7f0b1e83) has not been defined.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b1eed (#0x7f0b1eed) has not been defined.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b0879 (#0x7f0b0879) has not been defined.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b0ce2 (#0x7f0b0ce2) has not been defined.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b12b1 (#0x7f0b12b1) has not been defined.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b0ce7 (#0x7f0b0ce7) has not been defined.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b12b1 (#0x7f0b12b1) has not been defined.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b1f5d (#0x7f0b1f5d) has not been defined.
+02-20 16:37:21.515 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b12b1 (#0x7f0b12b1) has not been defined.
+02-20 16:37:21.516 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b2361 (#0x7f0b2361) has not been defined.
+02-20 16:37:21.516 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b1aee (#0x7f0b1aee) has not been defined.
+02-20 16:37:21.516 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b1e51 (#0x7f0b1e51) has not been defined.
+02-20 16:37:21.516 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b23aa (#0x7f0b23aa) has not been defined.
+02-20 16:37:21.516 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b1af1 (#0x7f0b1af1) has not been defined.
+02-20 16:37:21.516 32178  7987 W AndroidIME: KeyMappingDef$Builder.findSoftKeyDef():537 SoftKeyDef 0x7f0b1378 (#0x7f0b1378) has not been defined.
+02-20 16:37:21.517  5236  5269 I cnof    : (REDACTED) getUpcomingEvents(%s, %s)
+02-20 16:37:21.520  5236  5264 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=881f04ae-e1a5-4df6-a6eb-7dcbd443db27, tags={ com.google.apps.tiktok.contrib.work.TikTokListenableWorker,TikTokWorker#com.google.android.apps.search.assistant.platform.pcp.featuredata.localcalendar.LocalCalendarPeriodicSchedulerWorker } ]
+02-20 16:37:21.520  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.523  5236  5269 I cmjo    : (REDACTED) #remove: subTriggerId=%s
+02-20 16:37:21.527  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.532  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.542 32178 32178 I KeyboardInterfacePrivate: IKeyboard.createKeyboard():67 Keyboard created from HiltKeyboardFactory: com.google.android.apps.inputmethod.latin.keyboard.LatinPrimeKeyboard
+02-20 16:37:21.544  5236  5269 I cmjo    : (REDACTED) #maybeCreateTimeTrigger: time trigger= %s with start time=%d, stop time=%d in seconds.
+02-20 16:37:21.554  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.557  2194  2194 I RotationButtonController: onRotationProposal(rotation=0)
+02-20 16:37:21.560  7996  8053 I SqliteTransaction: Started new WRITEABLE transaction writetx1 [SqliteDatabase.onStart]
+02-20 16:37:21.562  5236  5268 I cmrv    : (REDACTED) #entry Fetching proactive suggestions for [%s]
+02-20 16:37:21.569  5236  5268 I xco     : (REDACTED) %s getProactiveContent: %s
+02-20 16:37:21.569  5236  5308 I xpc     : (REDACTED) filterInvalidEvents pre-filter size=%s
+02-20 16:37:21.569  5236  5308 I xpc     : (REDACTED) post-filter events size=%s
+02-20 16:37:21.572  5236  5270 I xdu     : (REDACTED) #getLastReturnedProactiveData for client type %s and proactive data type %s
+02-20 16:37:21.572  7996  8054 I cal.aozv: Obtained writable database SQLiteDatabase/218963982 instance with path /data/user/0/com.google.android.calendar/databases/cal_v2a
+02-20 16:37:21.572  5236  5270 I xei     : (REDACTED) #getLastReturnedProactiveData for client type %s and proactive data type %s
+02-20 16:37:21.573  5236  5270 I xei     : (REDACTED) #getLastReturnedProactiveData for client type %s and proactive data type %s
+02-20 16:37:21.573  5236  5268 I BcSsSuggestionAgg: TNG Bluechip smartspace not enabled.
+02-20 16:37:21.574  5236  5268 W bhmm    : Triggering event does not contain a headphone connection.
+02-20 16:37:21.577  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.583  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.584  1276  1350 I BufferQueueDebug: [WindowToken{b529324 type=2024 android.os.BinderProxy@e21bfb7}#3401](this:0xb400007b1fa9e8b0,id:-1,api:0,p:-1,c:-1) BufferQueue core=(1276:/system/bin/surfaceflinger)
+02-20 16:37:21.587  1276  1350 I BufferQueueDebug: [cd5ce8d FloatingRotationButton#3402](this:0xb400007b1fa8d750,id:-1,api:0,p:-1,c:-1) BufferQueue core=(1276:/system/bin/surfaceflinger)
+02-20 16:37:21.589  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.592  7996  8053 I cal.aoyb: The schema version is 23, the database version is 23, and there are 0 migrations
+02-20 16:37:21.592  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.594  7996  8054 I SqliteTransaction: Closing transaction writetx1 [SqliteDatabase.onStart]: Stats[2 Reads (rows: 2)] after 33 ms
+02-20 16:37:21.594  1276  1350 I BufferQueueDebug: [FloatingRotationButton#3403](this:0xb400007b1faa1640,id:-1,api:0,p:-1,c:-1) BufferQueue core=(1276:/system/bin/surfaceflinger)
+02-20 16:37:21.594  7996  8053 I SqliteTransaction: Started new READ_ONLY transaction readtx2 [AccountReaderServiceImpl lazy initialization]
+02-20 16:37:21.597  5236  5308 I DebugExecutorService: execute() called with Runnable: cbvv@86961b9
+02-20 16:37:21.597  5236  5308 I DebugExecutorService: cbvv@86961b9 finished on thread
+02-20 16:37:21.607  5236  5261 I xqb     : #updateLastReturnedDatabase
+02-20 16:37:21.608  7996  8054 I SqliteTransaction: Closing transaction readtx2 [AccountReaderServiceImpl lazy initialization]: Stats[1 Reads (rows: 1)] after 14 ms
+02-20 16:37:21.608  5236  5267 I bjaz    : OEM Device doesn't enable Smartspace Integration.
+02-20 16:37:21.609  5236  5267 I A       : Air Quality is disabled in TNG.
+02-20 16:37:21.611  5236  5267 I biyh    : Hotel feature is disabled.
+02-20 16:37:21.612  5236  5267 I biyo    : Hotel feature is disabled.
+02-20 16:37:21.612  5236  5267 I bjed    : Time to leave feature is disabled via ProactiveDataList producer.
+02-20 16:37:21.612  5236  5267 I bjdu    : Tips feature is disabled for smartspace TNG.
+02-20 16:37:21.612  5236  5267 I A       : Weather Alert is disabled in TNG via ProactiveDataList producer.
+02-20 16:37:21.613  5236  5267 I A       : Weather is disabled in TNG via ProactiveDataList producer.
+02-20 16:37:21.613  5236  5266 I cnof    : (REDACTED) getUpcomingEvents(%s, %s)
+02-20 16:37:21.613  5236  5261 I xel     : #putNewReturnedDataQuery
+02-20 16:37:21.613  5236  5261 I xei     : #putNewReturnedDataQuery
+02-20 16:37:21.620  7996  8060 W AndroidLoggerBackend: AndroidLoggerBackend configured with enableAndroidLogger:false; no logs will be emitted.
+02-20 16:37:21.620  5236  5269 I ebkb    : #getHotwordModelConfig
+02-20 16:37:21.621  5236  5269 I cnxg    : (REDACTED) MDD.getFileGroup(%s)
+02-20 16:37:21.626  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.627  3317  5206 I Blockstore: (REDACTED) [BlockstoreImpl] Snapshot enabled. updateAccessPerSnapshotIfEligible for package: %s
+02-20 16:37:21.633  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.635  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.636  5236  8064 I DebugExecutorService: execute() called with Runnable: cbvy@c32a8e9
+02-20 16:37:21.636  5236  5268 I xpc     : (REDACTED) filterInvalidEvents pre-filter size=%s
+02-20 16:37:21.636  5236  5268 I xpc     : (REDACTED) post-filter events size=%s
+02-20 16:37:21.636  5236  5253 I xdu     : #putNewReturnedDataQuery
+02-20 16:37:21.636  5236  5253 I xei     : #putNewReturnedDataQuery
+02-20 16:37:21.637  5236  8064 I DebugExecutorService: cbvy@c32a8e9 finished on thread
+02-20 16:37:21.639  5236  8064 I CrossProfileSender: tryMakeAsyncCalls
+02-20 16:37:21.639  5236  8064 I DebugExecutorService: execute() called with Runnable: cbvw@9519f7e
+02-20 16:37:21.639  5236  8064 I DebugExecutorService: cbvw@9519f7e finished on thread
+02-20 16:37:21.639  5236  8064 I CrossProfileSender: Attempting to bind
+02-20 16:37:21.644  5236  5264 I dptn    : Building Device Properties.
+02-20 16:37:21.645  8023  8023 I CalendarProvider2: Created com.android.providers.calendar.CalendarAlarmManager@803bf00(com.android.providers.calendar.CalendarProvider2@7ca8339)
+02-20 16:37:21.645  5236  5264 I cnxg    : (REDACTED) Loading %s from MDD with name=%s version=%d BuildId= %d
+02-20 16:37:21.647  5236  5253 I cnxg    : (REDACTED) Loading %s from MDD with name=%s version=%d BuildId= %d
+02-20 16:37:21.649  5236  5266 I cnxg    : (REDACTED) [SRM] [Hotword] get hotword model config success, %d locales.
+02-20 16:37:21.649  5236  5266 I ebkb    : (REDACTED) Mobserve returned config w/ build ID: %d
+02-20 16:37:21.649  5236  5266 I ebkb    : (REDACTED) Returning hotword config from Mobserve with build %d and keys: %s
+02-20 16:37:21.650  5236  5266 I cnxg    : (REDACTED) [SRM] [Hotword] get hotword model config success, %d locales.
+02-20 16:37:21.650  5236  5266 I ebkb    : (REDACTED) Mobserve returned config w/ build ID: %d
+02-20 16:37:21.650  5236  5266 I ebkb    : (REDACTED) Returning hotword config from Mobserve with build %d and keys: %s
+02-20 16:37:21.656  5236  8034 I xpc     : (REDACTED) filterInvalidEvents pre-filter size=%s
+02-20 16:37:21.660  1276  1276 I SurfaceFlinger: onHandleDestroyed: name=Surface(name=WindowToken{3853336 type=2000 android.os.BinderProxy@1b06ff8})/@0xe7bf22d - animation-leash of token_transform#3399, layerId=3399, parentId=0
+02-20 16:37:21.662  5236  8034 I xpc     : (REDACTED) post-filter events size=%s
+02-20 16:37:21.668  1276  1276 I BufferQueueDebug: [Surface(name=WindowToken{3853336 type=2000 android.os.BinderProxy@1b06ff8})/@0xe7bf22d - animation-leash of token_transform#3399](this:0xb400007b1fa40920,id:-1,api:0,p:-1,c:1276) onDestructor()
+02-20 16:37:21.670  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.680  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.682  1811  1811 W JobService: onNetworkChanged() not implemented in com.android.server.content.SyncJobService. Must override in a subclass.
+02-20 16:37:21.685  5236  8065 I xpc     : (REDACTED) filterInvalidEvents pre-filter size=%s
+02-20 16:37:21.685  5236  8065 I xpc     : (REDACTED) post-filter events size=%s
+02-20 16:37:21.696  5236  5269 I cmho    : (REDACTED) remove request for trigger key: %s, isClientInitiated: %s
+02-20 16:37:21.698  5236  5268 I cmjo    : (REDACTED) #remove: subTriggerId=%s
+02-20 16:37:21.700  5236  8064 I CrossProfileSender: Binding attempt failed: Permission not granted
+02-20 16:37:21.700  5236  8064 I DebugExecutorService: execute() called with Runnable: cbvz@aa6b5bc
+02-20 16:37:21.700  5236  8064 I DebugExecutorService: cbvz@aa6b5bc finished on thread
+02-20 16:37:21.702  5236  6342 I amvw    : #onAvailable()
+02-20 16:37:21.703  5236  5268 I cmjo    : (REDACTED) #maybeCreateTimeTrigger: time trigger= %s with start time=%d, stop time=%d in seconds.
+02-20 16:37:21.705  5236  5267 I auiw    : Live eligibility: Not available yet.
+02-20 16:37:21.720  5236  5267 I cmho    : (REDACTED) remove request for trigger key: %s, isClientInitiated: %s
+02-20 16:37:21.728  1248  1309 I libPerfCtl: xgfGetFPS pid:1811 fps:-1
+02-20 16:37:21.728  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 16:37:21.728  1248  1309 I libPerfCtl: xgfGetFPS pid:7807 fps:-1
+02-20 16:37:21.728  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:21.730  5236  5268 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:21.731  5236  5268 I agev    : Robin eligibility: Device is eligible.
+02-20 16:37:21.734  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.736  3317  3364 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.googlequicksearchbox componentName=AMBIENT_ASSISTANT serviceId=32
+02-20 16:37:21.739  5236  5308 I cmjo    : (REDACTED) #remove: subTriggerId=%s
+02-20 16:37:21.747  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.750  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=85.60 dur=1004.67 max=116.59 min=7.06
+02-20 16:37:21.751  5236  5268 I apak    : (REDACTED) #TRIGGER_TYPE type is: %s
+02-20 16:37:21.751  5236  5268 I apak    : (REDACTED) #TRIGGER_TYPE islockscreen is: %s
+02-20 16:37:21.751  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.753  5236  5267 I afxh    : (REDACTED) FCF System FeatureName to check: %s
+02-20 16:37:21.753  5236  5267 I afxh    : (REDACTED) FCF: Device model check status : %s
+02-20 16:37:21.753  5236  5267 I ageq    : #isGeminiDefaultSystemFeatureEnabled: true
+02-20 16:37:21.753  5236  5267 I ajpf    : Device not matched [CONTEXT ratelimit_period="10 SECONDS" ]
+02-20 16:37:21.758  5236  5267 I ausa    : #CM# ControllerV3 is disabled
+02-20 16:37:21.767  5236  6788 I dvuv    : Updating cached location
+02-20 16:37:21.768  5236  5244 I dvuv    : Updating cached location
+02-20 16:37:21.769  5236  5269 I cmjo    : (REDACTED) #maybeCreateTimeTrigger: time trigger= %s with start time=%d, stop time=%d in seconds.
+02-20 16:37:21.771  3317  3364 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=null serviceId=30
+02-20 16:37:21.774  5236  5308 I anlb    : (REDACTED) current query: %s
+02-20 16:37:21.778  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.789  5236  5253 I apak    : (REDACTED) #TRIGGER_TYPE type is: %s
+02-20 16:37:21.789  5236  5253 I apak    : (REDACTED) #TRIGGER_TYPE islockscreen is: %s
+02-20 16:37:21.789  3317  5206 I Icing   : Usage reports ok 1, Failed Usage reports 0, indexed 0, rejected 0
+02-20 16:37:21.805  3317  5206 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+02-20 16:37:21.812  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.815  5236  5253 I anys    : #shouldTriggerSafeguardsForAssistantDisabled passed
+02-20 16:37:21.815  5236  5267 I awqq    : (REDACTED) #CM# VolumeManager settings: volumeStream=%s, minVolumeFraction=%s
+02-20 16:37:21.817  5236  5267 I aoyn    : using AudioLibrary for default Playback
+02-20 16:37:21.818  7364  7364 W bbcy    : Failed to find local clusters.
+02-20 16:37:21.822  5236  5268 I aodh    : #getOobeStatus: OptedIn [CONTEXT ratelimit_period="10 SECONDS" ]
+02-20 16:37:21.825  5236  5267 W aihp    : #bnb# Bonobo client flag is not enabled
+02-20 16:37:21.825  5236  5267 W aihp    : #bnb# Permission status: Not eligible for Bonobo
+02-20 16:37:21.826  5236  5267 I afxh    : (REDACTED) FCF System FeatureName to check: %s
+02-20 16:37:21.826  5236  5267 I afxh    : (REDACTED) FCF: Device model check status : %s
+02-20 16:37:21.827  5236  5267 I alwj    : (REDACTED) getRequiredCapabilities: Providing screen context, uiSource=%s
+02-20 16:37:21.828  5236  5267 I CameraManagerGlobal: Connecting to camera service
+02-20 16:37:21.830  5236  5270 I djrk    : (REDACTED) isAppDefaultAssistant setting: %s
+02-20 16:37:21.830  5236  5270 I djrk    : (REDACTED) isAppDefaultAssistant defaultComponentName: %s
+02-20 16:37:21.830  5236  5268 I djrk    : (REDACTED) isAppDefaultAssistant setting: %s
+02-20 16:37:21.831  5236  5268 I djrk    : (REDACTED) isAppDefaultAssistant defaultComponentName: %s
+02-20 16:37:21.831  5236  5268 I cmzk    : Using default weather temperature preference
+02-20 16:37:21.832  5236  5266 I cmzk    : Using default weather temperature preference
+02-20 16:37:21.837  5236  5268 W faoa    : (REDACTED) Product id propagation is missing (traffic tag: %s).
+02-20 16:37:21.838  5236  5266 W faoa    : (REDACTED) Product id propagation is missing (traffic tag: %s).
+02-20 16:37:21.839  5236  5267 I djrk    : (REDACTED) isAppDefaultAssistant setting: %s
+02-20 16:37:21.839  5236  5267 I djrk    : (REDACTED) isAppDefaultAssistant defaultComponentName: %s
+02-20 16:37:21.842  5236  5266 I djrk    : (REDACTED) isAppDefaultAssistant setting: %s
+02-20 16:37:21.842  5236  5266 I djrk    : (REDACTED) isAppDefaultAssistant defaultComponentName: %s
+02-20 16:37:21.843  5236  5266 I djrk    : (REDACTED) isAppDefaultAssistant setting: %s
+02-20 16:37:21.843  5236  5266 I djrk    : (REDACTED) isAppDefaultAssistant defaultComponentName: %s
+02-20 16:37:21.843  5236  5266 I alia    : CreateCalendarEventExecutor is not enabled.
+02-20 16:37:21.843  5236  5266 I alit    : DeleteNoteExecutor is not enabled.
+02-20 16:37:21.843  5236  5266 I alkd    : UpdateNoteExecutor is not enabled.
+02-20 16:37:21.843  5236  5266 I alkd    : UpdateNoteExecutor is not enabled.
+02-20 16:37:21.844  5236  5269 I djrk    : (REDACTED) isAppDefaultAssistant setting: %s
+02-20 16:37:21.844  5236  5269 I djrk    : (REDACTED) isAppDefaultAssistant defaultComponentName: %s
+02-20 16:37:21.852  5236  5266 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:21.857  5236  5266 I beaf    : (REDACTED) getSimplifiedOobeViaDeeplinkUser: %b
+02-20 16:37:21.858  5236  5266 I bdgq    : (REDACTED) isSimplifiedOobeViaDeeplinkUser OobeStatus: %s, ZeroStateStatus: %s
+02-20 16:37:21.861  5236  5266 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:21.861  5236  5266 I aggx    : (REDACTED) isCacheFresh: %s
+02-20 16:37:21.862  5236  5266 I akpt    : Robin eligibility : Robin is eligible
+02-20 16:37:21.863  5236  5308 I auiw    : Live eligibility: Eligible.
+02-20 16:37:21.887  5236  8066 I HttpFlagsLoader: HTTP flags log line (API): Using live production flag values from Google
+02-20 16:37:21.891  1811  3368 W ParceledListSlice: Element #16 is 19584 bytes.
+02-20 16:37:21.892  1811  3368 W ParceledListSlice: Element #17 is 19464 bytes.
+02-20 16:37:21.892  1811  3368 W ParceledListSlice: Element #18 is 19676 bytes.
+02-20 16:37:21.893  1811  3368 W ParceledListSlice: Element #19 is 19488 bytes.
+02-20 16:37:21.893  5236  8066 W earchbox:search: ClassLoaderContext classpath size mismatch. expected=1, found=0 (DLC[];PCL[base.apk*2701253676]{PCL[/system/framework/org.apache.http.legacy.jar*437079508]#PCL[/system/framework/com.android.location.provider.jar*3414091812]#PCL[/system/framework/com.android.media.remotedisplay.jar*2042759013]#PCL[/system_ext/framework/androidx.window.extensions.jar*96836294]#PCL[/system_ext/framework/androidx.window.sidecar.jar*838133530]} | DLC[];PCL[])
+02-20 16:37:21.895  5236  8066 I DynamiteModule: Considering local module com.google.android.gms.cronet_dynamite:0 and remote module com.google.android.gms.cronet_dynamite:4311
+02-20 16:37:21.895  5236  8066 I DynamiteModule: Selected remote version of com.google.android.gms.cronet_dynamite, version >= 4311
+02-20 16:37:21.901  5236  8066 W System  : ClassLoader referenced unknown path: 
+02-20 16:37:21.901  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.901  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.901  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:21.910  5236  8066 W earchbox:search: ClassLoaderContext classpath element checksum mismatch. expected=2701253676, found=2326441471 (DLC[];PCL[base.apk*2701253676]{PCL[/system/framework/org.apache.http.legacy.jar*437079508]#PCL[/system/framework/com.android.location.provider.jar*3414091812]#PCL[/system/framework/com.android.media.remotedisplay.jar*2042759013]#PCL[/system_ext/framework/androidx.window.extensions.jar*96836294]#PCL[/system_ext/framework/androidx.window.sidecar.jar*838133530]} | DLC[];PCL[/data/app/~~XGXdHXNRqkfY4sKkggU2nQ==/com.google.android.googlequicksearchbox-msKdmlSuqLKNrxjhmOoS5g==/base.apk*2326441471]{PCL[/system_ext/framework/androidx.window.extensions.jar*96836294]#PCL[/system_ext/framework/androidx.window.sidecar.jar*838133530]})
+02-20 16:37:21.933  5236  8066 I cn_CronetLibraryLoader: Cronet version: 145.0.7608.0, arch: aarch64
+02-20 16:37:21.945  5236  8118 W chromium: [0220/163721.945287:WARNING:components/cronet/url_request_context_config.cc:769] Unrecognized Cronet experimental option "enable_telemetry" with params "true
+02-20 16:37:21.945  5236  8118 W chromium: 
+02-20 16:37:21.949  1211  8122 I resolv  : GetAddrInfoHandler::run: {100 262244 100 983140 10117 0}
+02-20 16:37:21.950  1211  8123 I resolv  : res_nmkquery: (QUERY, IN, A)
+02-20 16:37:21.972  1211  8123 I resolv  : res_nsend: used send_dg 292 terrno: 0
+02-20 16:37:21.972  1211  8123 I resolv  : doQuery: rcode=0, ancount=15, return value=292
+02-20 16:37:21.995  7996  8125 I c.aozv  : Obtained writable database SQLiteDatabase/8567483 instance with path /data/user/0/com.google.android.calendar/files/tasks/9ff8601f-cf82-3fa0-b6bc-1927c9a5041c/data.db
+02-20 16:37:21.997  7996  8058 I c.aoyb  : The schema version is 10, the database version is 10, and there are 0 migrations
+02-20 16:37:22.040  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 16:37:22.040  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 16:37:22.040  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 16:37:22.040  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 16:37:22.043  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 16:37:22.085  1211  8134 I resolv  : GetAddrInfoHandler::run: {100 262244 100 983140 10130 0}
+02-20 16:37:22.086  1211  8135 I resolv  : res_nmkquery: (QUERY, IN, A)
+02-20 16:37:22.095  1211  8135 I resolv  : res_nsend: used send_dg 50 terrno: 0
+02-20 16:37:22.095  1211  8135 I resolv  : doQuery: rcode=0, ancount=1, return value=50
+02-20 16:37:22.144  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.995506,dur:1000.04,max:18.38,min:5.72  
+02-20 16:37:22.255  1253  1316 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:3827
+02-20 16:37:22.255  1253  1316 I libPowerHal: [perfLockRel] hdl:3827, idx:1
+02-20 16:37:22.255  1253  1316 I libPowerHal: [PD] touch_boost update cmd:3409100, param:0
+02-20 16:37:22.255  1253  1316 I libPowerHal: [PD] touch_boost update cmd:3409200, param:-1
+02-20 16:37:22.422  5236  8118 I cn_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@2894151
+02-20 16:37:22.459  5236  5267 I cmho    : (REDACTED) remove request for trigger key: %s, isClientInitiated: %s
+02-20 16:37:22.463  5236  5268 I cmjo    : (REDACTED) #remove: subTriggerId=%s
+02-20 16:37:22.467  5236  5308 I bjhn    : #onDataUpdated
+02-20 16:37:22.469  5236  5308 I cmjo    : (REDACTED) #maybeCreateTimeTrigger: time trigger= %s with start time=%d, stop time=%d in seconds.
+02-20 16:37:22.473 29283 31476 W WearableService: onGetService: Wear is not available on this device.
+02-20 16:37:22.544  5236  8118 I cn_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@65bf1d6
+02-20 16:37:22.552  5236  5308 I A       : AQI from Pixel Weather is disabled.
+02-20 16:37:22.552  5236  5308 I biwu    : Commute time feature is disabled via ProactiveSuggestions producer.
+02-20 16:37:22.555  5236  5308 I bjed    : Time to leave feature is disabled via ProactiveSuggestions producer.
+02-20 16:37:22.556  5236  5270 I cmho    : (REDACTED) remove request for trigger key: %s, isClientInitiated: %s
+02-20 16:37:22.559  5236  5308 I TemplateParserPvdImpl: (REDACTED) UI template for: %s for surfacce: %s is disabled. Skipping...
+02-20 16:37:22.560  5236  5308 I A       : #Generate weather data.
+02-20 16:37:22.562  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.562  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.566  5236  5270 I cmjo    : (REDACTED) #remove: subTriggerId=%s
+02-20 16:37:22.569  5236  5308 I bikx    : Create card explanation intent
+02-20 16:37:22.569  5236  5308 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.570  5236  5308 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.571  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.571  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.572  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.572  5236  5267 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.572  5236  5267 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.573  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.573  5236  5308 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.574  5236  5308 I bikx    : Create card explanation intent
+02-20 16:37:22.574  5236  5308 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.575  5236  5308 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.575  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.575  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.575  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.575  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.575  5236  5308 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.576  5236  5308 I bikx    : Create card explanation intent
+02-20 16:37:22.576  5236  5308 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.576  5236  5308 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.576  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.576  5236  5262 I bikx    : Create card explanation intent
+02-20 16:37:22.576  5236  5262 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.576  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.576  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.576  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.577  5236  5308 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.577  5236  5308 I bikx    : Create card explanation intent
+02-20 16:37:22.577  5236  5308 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.577  5236  5308 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.577  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.577  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.577  5236  5269 I cmjo    : (REDACTED) #maybeCreateTimeTrigger: time trigger= %s with start time=%d, stop time=%d in seconds.
+02-20 16:37:22.578  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.578  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.578  5236  5308 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.578  5236  5308 I bikx    : Create card explanation intent
+02-20 16:37:22.578  5236  5308 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.578  5236  5308 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.579  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.579  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.579  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.579  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.579  5236  5308 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.579  5236  5308 I bikx    : Create card explanation intent
+02-20 16:37:22.579  5236  5308 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.580  5236  5308 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.580  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.580  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.580  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.580  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.580  5236  5308 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.580  5236  5308 I bikx    : Create card explanation intent
+02-20 16:37:22.581  5236  5308 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.581  5236  5308 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.581  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.581  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.581  5236  5308 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.581  5236  5308 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.581  5236  5308 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.582  5236  5308 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.582  5236  5308 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.582  5236  5262 I bikw    : load card icon from url
+02-20 16:37:22.582  5236  5308 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.582  5236  5308 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.582  5236  5308 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.582  5236  5261 I bikw    : load card icon from url
+02-20 16:37:22.582  5236  5308 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.582  5236  5308 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.582  5236  5308 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.582  5236  5308 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.582  5236  5308 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.583  5236  5308 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.583  5236  5308 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.583  5236  5308 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.583  5236  5308 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.583  5236  5308 I A       : Generate weather tomorrow forecast data.
+02-20 16:37:22.584  5236  5269 E A       : UI template failed to generate weather tomorrow forecast card
+02-20 16:37:22.585  5236  5253 I bikw    : load card icon from url
+02-20 16:37:22.586  5236  5264 I bikw    : load card icon from url
+02-20 16:37:22.591  5236  5261 I bikw    : load card icon from url
+02-20 16:37:22.591  5236  5253 I bikw    : load card icon from url
+02-20 16:37:22.591  5236  5264 I bikw    : load card icon from url
+02-20 16:37:22.611  5236  5308 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.611  5236  5269 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.611  5236  5267 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.612  5236  5270 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.612  5236  5266 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.612  5236  5308 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.612  5236  5268 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.614  5236  5268 I biif    : #filterNoMapsConsentCards: Flag is off. Return UnfilteredCards
+02-20 16:37:22.620  5236  5266 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.621  5236  5270 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.621  5236  5308 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.621  5236  5308 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.621  5236  5308 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.621  5236  5269 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.621  5236  5266 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.621  5236  5308 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.621  5236  5269 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.621  5236  5308 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.621  5236  5267 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.621  5236  5308 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.621  5236  5308 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.622  5236  5308 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.622  5236  5308 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.622  5236  5269 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.622  5236  5308 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.622  5236  5269 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.622  5236  5308 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.622  5236  5269 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.622  5236  5267 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.622  5236  5267 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.623  5236  5269 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.624  5236  5266 W GlanceWidgetHelper: No valid UI template data for event block
+02-20 16:37:22.624  5236  5267 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.624  5236  5308 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.624  5236  5308 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.624  5236  5267 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.624  5236  5268 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.624  5236  5268 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.624  5236  5268 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.625  5236  5308 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.625  5236  5267 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.625  5236  5269 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.625  5236  5267 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.625  5236  5268 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.625  5236  5268 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.625  5236  5268 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.625  5236  5268 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.625  5236  5267 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.625  5236  5308 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.625  5236  5308 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.625  5236  5308 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.625  5236  5308 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.625  5236  5308 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.625  5236  5308 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.625  5236  5308 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.625  5236  5308 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.626  5236  5308 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.626  5236  5308 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.626  5236  5268 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.626  5236  5268 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.626  5236  5268 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.626  5236  5269 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.626  5236  5269 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.627  5236  5269 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.627  5236  5269 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.627  5236  5268 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.627  5236  5267 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.627  5236  5308 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.627  5236  5308 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.627  5236  5308 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.627  5236  5308 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.627  5236  5308 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.627  5236  5308 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.627  5236  5308 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.627  5236  5268 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.627  5236  5268 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.627  5236  5268 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.627  5236  5268 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.628  5236  5268 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.628  5236  5267 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.628  5236  5267 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.628  5236  8066 I GlanceWidgetHelper: (REDACTED) build main window from message for card type: %s.
+02-20 16:37:22.628  5236  5267 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.628  5236  5267 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.628  5236  5267 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.628  5236  5308 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.628  5236  5308 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.628  5236  5308 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.628  5236  5308 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.628  5236  5308 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.628  5236  5308 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.628  5236  5308 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.629  5236  5266 I TngSSWidgetRndr: Send AAG widget update.
+02-20 16:37:22.629  5236  5268 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.629  5236  5268 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.629  5236  5270 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.630  5236  5268 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.630  5236  5268 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.630  5236  5268 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.630  5236  5268 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.630  5236  5268 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.630  5236  5269 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.630  5236  5269 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.630  5236  5269 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.630  5236  5270 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.630  5236  5269 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.630  5236  5269 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.631  5236  5270 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.631  5236  5270 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.632  5236  5270 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.632  5236  5270 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.632  5236  5270 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.633  5236  5270 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.633  5236  5270 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.633  5236  5270 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.633  5236  5253 I bist    : (REDACTED) update normal widget [%s] started.
+02-20 16:37:22.633  5236  5270 I SS3PSurfacesSuggestAggr: (REDACTED) Smartspace card update to %s successfully.
+02-20 16:37:22.633  5236  5266 I bivl    : (REDACTED) %s Success.
+02-20 16:37:22.633  5236  5267 I bhpm    : (REDACTED) Updating user context. Event: %s
+02-20 16:37:22.634  5236  5262 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.634  5236  5262 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.634  5236  5262 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.634  5236  5262 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.634  5236  5262 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.635  5236  5253 I bist    : (REDACTED) #AAG update widget [%s] with widget data
+02-20 16:37:22.635  5236  5261 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.635  5236  5261 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.636  5236  5270 I SS3PSurfacesSuggestAggr: (REDACTED) For %s:
+02-20 16:37:22.636  5236  5262 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.637  5236  5270 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.640  5236  5270 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.640  5236  5270 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.640  5236  5270 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.640  5236  5270 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.640  5236  5270 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.640  5236  5270 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.640  5236  5270 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.647  1276  1276 I BufferQueueProducer: [FloatingRotationButton#3403](this:0xb400007b1faa1640,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=109.54 dur=1004.22 max=65.74 min=7.56
+02-20 16:37:22.650  5236  8066 I crtm    : (REDACTED) Writing data of size=%d bytes with N=%d keys to Geller corpus %s at ts=%d
+02-20 16:37:22.667  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:22.668  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:22.669  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:22.669  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:22.672  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:22.672  5236  5267 I cmrv    : (REDACTED) #entry Fetching proactive suggestions for [%s]
+02-20 16:37:22.673  1211  1710 I netd    : tetherGetStats() -> {[]} <1.75ms>
+02-20 16:37:22.674  5236  5267 I xco     : (REDACTED) %s getProactiveContent: %s
+02-20 16:37:22.675  5236  5268 I DebugExecutorService: execute() called with Runnable: cbvv@6f595fd
+02-20 16:37:22.675  5236  5268 I DebugExecutorService: cbvv@6f595fd finished on thread
+02-20 16:37:22.675  5236  5267 I BcSsSuggestionAgg: TNG Bluechip smartspace not enabled.
+02-20 16:37:22.675  5236  5267 W bhmm    : Triggering event does not contain a headphone connection.
+02-20 16:37:22.675  5236  5268 I xdu     : (REDACTED) #getLastReturnedProactiveData for client type %s and proactive data type %s
+02-20 16:37:22.676  5236  8064 I DebugExecutorService: execute() called with Runnable: cbvy@a498d33
+02-20 16:37:22.676  5236  8064 I DebugExecutorService: cbvy@a498d33 finished on thread
+02-20 16:37:22.676  5236  8064 I CrossProfileSender: tryMakeAsyncCalls
+02-20 16:37:22.676  5236  8064 I DebugExecutorService: execute() called with Runnable: cbvw@2c8d8f0
+02-20 16:37:22.676  5236  8064 I DebugExecutorService: cbvw@2c8d8f0 finished on thread
+02-20 16:37:22.676  5236  8064 I CrossProfileSender: Attempting to bind
+02-20 16:37:22.676  5236  5268 I xei     : (REDACTED) #getLastReturnedProactiveData for client type %s and proactive data type %s
+02-20 16:37:22.677  5236  8064 I CrossProfileSender: Binding attempt failed: Permission not granted
+02-20 16:37:22.677  5236  5268 I xei     : (REDACTED) #getLastReturnedProactiveData for client type %s and proactive data type %s
+02-20 16:37:22.677  5236  8064 I DebugExecutorService: execute() called with Runnable: cbvz@54fa402
+02-20 16:37:22.678  5236  8064 I DebugExecutorService: cbvz@54fa402 finished on thread
+02-20 16:37:22.678  5236  5264 I xqb     : #updateLastReturnedDatabase
+02-20 16:37:22.678  5236  5308 I bjaz    : OEM Device doesn't enable Smartspace Integration.
+02-20 16:37:22.678  5236  5264 I xel     : #putNewReturnedDataQuery
+02-20 16:37:22.679  5236  5264 I xei     : #putNewReturnedDataQuery
+02-20 16:37:22.679  5236  5262 I xdu     : #putNewReturnedDataQuery
+02-20 16:37:22.680  5236  5262 I xei     : #putNewReturnedDataQuery
+02-20 16:37:22.680  5236  5308 I A       : Air Quality is disabled in TNG.
+02-20 16:37:22.680  5236  5308 I biyh    : Hotel feature is disabled.
+02-20 16:37:22.680  5236  5308 I biyo    : Hotel feature is disabled.
+02-20 16:37:22.680  5236  5308 I bjed    : Time to leave feature is disabled via ProactiveDataList producer.
+02-20 16:37:22.680  5236  5308 I bjdu    : Tips feature is disabled for smartspace TNG.
+02-20 16:37:22.681  5236  5308 I A       : Weather Alert is disabled in TNG via ProactiveDataList producer.
+02-20 16:37:22.681  5236  5308 I A       : Weather is disabled in TNG via ProactiveDataList producer.
+02-20 16:37:22.692  5236  5269 I cnof    : (REDACTED) getUpcomingEvents(%s, %s)
+02-20 16:37:22.697  5236  8069 I xpc     : (REDACTED) filterInvalidEvents pre-filter size=%s
+02-20 16:37:22.698  5236  8069 I xpc     : (REDACTED) post-filter events size=%s
+02-20 16:37:22.706  5236  5269 I xpc     : (REDACTED) filterInvalidEvents pre-filter size=%s
+02-20 16:37:22.706  5236  5269 I xpc     : (REDACTED) post-filter events size=%s
+02-20 16:37:22.714  5236  5268 I A       : AQI from Pixel Weather is disabled.
+02-20 16:37:22.714  5236  5268 I biwu    : Commute time feature is disabled via ProactiveSuggestions producer.
+02-20 16:37:22.715  5236  5268 I bjed    : Time to leave feature is disabled via ProactiveSuggestions producer.
+02-20 16:37:22.715  5236  5268 I TemplateParserPvdImpl: (REDACTED) UI template for: %s for surfacce: %s is disabled. Skipping...
+02-20 16:37:22.715  5236  5268 I A       : #Generate weather data.
+02-20 16:37:22.716  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.716  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.716  5236  5268 I bikx    : Create card explanation intent
+02-20 16:37:22.716  5236  5268 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.716  5236  5268 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.717  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.717  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.717  5236  5270 I cmho    : (REDACTED) remove request for trigger key: %s, isClientInitiated: %s
+02-20 16:37:22.717  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.717  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.717  5236  5268 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.717  5236  5268 I bikx    : Create card explanation intent
+02-20 16:37:22.717  5236  5268 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.717  5236  5268 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.718  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.718  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.718  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.718  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.718  5236  5268 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.718  5236  5268 I bikx    : Create card explanation intent
+02-20 16:37:22.718  5236  5268 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.718  5236  5268 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.719  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.719  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.719  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.719  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.719  5236  5268 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.719  5236  5268 I bikx    : Create card explanation intent
+02-20 16:37:22.720  5236  5268 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.720  5236  5268 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.720  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.720  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.720  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.720  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.720  5236  5268 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.721  5236  5268 I bikx    : Create card explanation intent
+02-20 16:37:22.721  5236  5268 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.721  5236  5268 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.721  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.721  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.722  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.722  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.722  5236  5268 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.722  5236  5268 I bikx    : Create card explanation intent
+02-20 16:37:22.722  5236  5268 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.722  5236  5268 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.723  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.723  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.723  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.723  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.723  5236  5268 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.724  5236  5270 I cmjo    : (REDACTED) #remove: subTriggerId=%s
+02-20 16:37:22.724  5236  5266 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.724  5236  5266 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.724  5236  5268 I bikx    : Create card explanation intent
+02-20 16:37:22.724  5236  5268 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.725  5236  5268 I A       : (REDACTED) #TNG createSmartspaceCard enable_reminder: %b, enable_forecast: %b, showTimelyReminderForPrecipitationType presents: %b
+02-20 16:37:22.725  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.725  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.725  5236  5268 I bikx    : Create TNG weather or weather daily forecast or weather timely reminder wrapped click intent.
+02-20 16:37:22.726  5236  5268 I birb    : #createWrappedClickIntent: Put account
+02-20 16:37:22.726  5236  5268 I A       : (REDACTED) #TNG high temperature: %s, low temperature: %s, show weather daily forecast: %b in AAG widget.
+02-20 16:37:22.726  5236  5268 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.726  5236  5268 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.726  5236  5268 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.726  5236  5264 I bikw    : load card icon from url
+02-20 16:37:22.726  5236  5268 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.726  5236  5268 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.726  5236  5264 I bikw    : load card icon from url
+02-20 16:37:22.726  5236  5268 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.726  5236  5268 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.727  5236  5264 I bikw    : load card icon from url
+02-20 16:37:22.727  5236  5268 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.727  5236  5268 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.727  5236  5268 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.727  5236  5268 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.727  5236  5253 I bikw    : load card icon from url
+02-20 16:37:22.727  5236  5268 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.727  5236  5268 I bikw    : (REDACTED) #getIconFromCard: %s
+02-20 16:37:22.727  5236  5268 W bikw    : (REDACTED) cardType: %s has no icon.
+02-20 16:37:22.727  5236  5253 I bikw    : load card icon from url
+02-20 16:37:22.727  5236  5268 I A       : Generate weather tomorrow forecast data.
+02-20 16:37:22.728  5236  5264 I bikw    : load card icon from url
+02-20 16:37:22.728  5236  5270 E A       : UI template failed to generate weather tomorrow forecast card
+02-20 16:37:22.728  5236  5262 I bikw    : load card icon from url
+02-20 16:37:22.728  1248  1309 I libPerfCtl: xgfGetFPS pid:1811 fps:-1
+02-20 16:37:22.728  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 16:37:22.728  1248  1309 I libPerfCtl: xgfGetFPS pid:7807 fps:-1
+02-20 16:37:22.728  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:22.728  5236  5266 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.729  5236  5268 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.729  5236  5308 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.729  5236  5264 I bikx    : Create card explanation intent
+02-20 16:37:22.729  5236  5308 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.730  5236  5264 I birb    : #createWrappedClickIntent: Account is missing
+02-20 16:37:22.730  5236  5308 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.730  5236  5266 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.731  5236  5268 I WeatherTempParser: (REDACTED) #getParsedCard: UI template weather card, cardId: %s
+02-20 16:37:22.731  5236  5266 I cmjo    : (REDACTED) #maybeCreateTimeTrigger: time trigger= %s with start time=%d, stop time=%d in seconds.
+02-20 16:37:22.732  5236  5268 I biif    : #filterNoMapsConsentCards: Flag is off. Return UnfilteredCards
+02-20 16:37:22.733  5236  5308 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.733  5236  5308 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.733  5236  5270 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.734  5236  5308 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.734  5236  5267 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.734  5236  5268 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.734  5236  5270 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.734  5236  5270 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.734  5236  5268 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.734  5236  5270 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.734  5236  5270 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.734  5236  5268 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.734  5236  5268 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.734  5236  5270 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.734  5236  5269 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.734  5236  5268 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.734  5236  5270 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.734  5236  5268 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.734  5236  5269 W GlanceWidgetHelper: No valid UI template data for event block
+02-20 16:37:22.734  5236  5268 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.734  5236  5270 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.734  5236  5267 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.734  5236  5268 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.734  5236  5270 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.734  5236  5268 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.735  5236  5268 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.735  5236  5268 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.735  5236  5268 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.735  5236  5267 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.735  5236  5267 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.735  5236  5269 I TngSSWidgetRndr: Send AAG widget update.
+02-20 16:37:22.735  5236  5270 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.735  5236  5270 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.735  5236  5270 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.735  5236  5270 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.735  5236  5270 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.735  5236  5269 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.735  5236  5266 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.735  5236  5269 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.735  5236  5268 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.735  5236  5266 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.735  5236  5269 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.735  5236  5268 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.735  5236  5269 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.735  5236  5268 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.735  5236  5269 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.735  5236  5269 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.736  5236  5269 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.736  5236  5269 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.736  5236  5269 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.736  5236  5269 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.736  5236  5266 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.736  5236  5266 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.736  5236  5267 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.736  5236  5267 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.736  5236  5268 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.736  5236  5268 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.736  5236  5268 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.736  5236  5268 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.736  5236  5268 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.736  5236  5308 I ymb     : TNG:MA eligibility is used in AssistantEligibilityCheckerTNGImpl.
+02-20 16:37:22.736  5236  5267 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.736  5236  5267 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.736  5236  5268 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.736  5236  5267 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.736  5236  5268 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.736  5236  5270 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.737  5236  5270 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.737  5236  5270 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.737  5236  5270 I agaj    : (REDACTED) #FCF: Managed profile check status : %s
+02-20 16:37:22.737  5236  5270 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.737  5236  5308 I agae    : (REDACTED) #FCF: Demo mode check status : %s
+02-20 16:37:22.737  5236  5270 I agdd    : (REDACTED) #FCF evaluate: %s
+02-20 16:37:22.737  5236  5270 I agdd    : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+02-20 16:37:22.737  5236  5270 I ymt     : (REDACTED) tngMaFeatureEnabled: %s
+02-20 16:37:22.737  5236  5308 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.737  5236  5270 I ymo     : (REDACTED) LocaleAssistantEligibilityCheckerImpl#isLocationAssistantEligible completed in %s millis
+02-20 16:37:22.737  5236  5267 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.737  5236  5308 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.737  5236  5267 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.737  5236  8066 I GlanceWidgetHelper: (REDACTED) build main window from message for card type: %s.
+02-20 16:37:22.737  5236  5270 I ymt     : (REDACTED) locationAssistantEligible: %s
+02-20 16:37:22.737  5236  5269 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.737  5236  5269 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.737  5236  5269 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.737  5236  5269 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.738  5236  5269 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.738  5236  5266 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.738  5236  5270 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.738  5236  5270 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.738  5236  5270 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.738  5236  5270 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.738  5236  5270 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.738  5236  5266 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.738  5236  5266 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.738  5236  5308 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.738  5236  5266 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.738  5236  5266 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.738  5236  5308 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.738  5236  5308 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.738  5236  5308 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.738  5236  5308 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.738  5236  5268 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceInstalled completed in %s millis
+02-20 16:37:22.738  5236  5268 I ymm     : (REDACTED) GoogleKidsSpaceCheckerImpl#isGoogleKidsSpaceActive completed in %s millis
+02-20 16:37:22.738  5236  5268 I ymt     : (REDACTED) googleKidsSpaceActive: %s
+02-20 16:37:22.738  5236  5268 I ymt     : (REDACTED) isTngMaEligible: %s
+02-20 16:37:22.738  5236  5268 I ymt     : (REDACTED) TngMaEligibilityCheckerImpl#isEligible completed in %s millis
+02-20 16:37:22.738  5236  5264 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.739  5236  5253 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.739  5236  5253 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.739  5236  5262 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.739  5236  5262 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.739  5236  5261 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.739  5236  5262 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.739  5236  5262 I bibf    : Successfully logged card impression and maybe settings
+02-20 16:37:22.741  5236  5262 I bist    : (REDACTED) update normal widget [%s] started.
+02-20 16:37:22.741  5236  5266 I SS3PSurfacesSuggestAggr: (REDACTED) Smartspace card update to %s successfully.
+02-20 16:37:22.741  5236  5266 I SS3PSurfacesSuggestAggr: (REDACTED) For %s:
+02-20 16:37:22.742  5236  5266 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.742  5236  5266 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.742  5236  5266 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.742  5236  5262 I bist    : (REDACTED) #AAG update widget [%s] with widget data
+02-20 16:37:22.742  5236  5266 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.742  5236  5266 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.742  5236  5266 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.742  5236  5266 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.742  5236  5266 I SS3PSurfacesSuggestAggr: (REDACTED) cardId: %d, card type: %s, pre event title: %s, event start time: %s, update time: %s, expireTime: %s, is from work profile: %b
+02-20 16:37:22.755  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=115.45 dur=1004.76 max=33.02 min=7.49
+02-20 16:37:22.867 29283 29709 W WearableService: onGetService: Wear is not available on this device.
+02-20 16:37:22.879  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:22.880  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:22.881  7364  7364 W ojx     : [Gmail] MailSyncAdapterService: MailSyncAdapterService is destroyed! [CONTEXT android_log_tag="MailSyncAdapterService" ]
+02-20 16:37:22.893  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:22.893  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:22.894  5236  5236 I birt    : (REDACTED) Add weather metadata element to card explanation data: %s
+02-20 16:37:22.897  5236  5236 I birt    : (REDACTED) Add weather metadata element to card explanation data: %s
+02-20 16:37:23.146  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.731148,dur:1002.23,max:10.40,min:5.84  
+02-20 16:37:23.652  1276  1276 I BufferQueueProducer: [FloatingRotationButton#3403](this:0xb400007b1faa1640,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.36 dur=1005.28 max=9.12 min=7.71
+02-20 16:37:23.672  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 9
+02-20 16:37:23.675  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:23.678  5236  8064 I CrossProfileSender: Attempting to bind
+02-20 16:37:23.678  5236  8064 I CrossProfileSender: Binding attempt failed: Not trying to bind
+02-20 16:37:23.679  5236  8064 I CrossProfileSender: Unbind
+02-20 16:37:23.728  1248  1309 I libPerfCtl: xgfGetFPS pid:1811 fps:-1
+02-20 16:37:23.728  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 16:37:23.729  1248  1309 I libPerfCtl: xgfGetFPS pid:7807 fps:-1
+02-20 16:37:23.729  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:23.760  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=119.38 dur=1005.21 max=16.45 min=7.69
+02-20 16:37:24.153  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.150566,dur:1007.07,max:10.47,min:5.99  
+02-20 16:37:24.192  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:24.203  1211  1710 I netd    : tetherGetStats() -> {[]} <4.24ms>
+02-20 16:37:24.206  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:24.210  3317  8145 I Authzen : [DeviceStateSyncManager] The server is in sync with current state. Nothing to do
+02-20 16:37:24.212  1211  1710 I netd    : bandwidthSetGlobalAlert(2097152) <0.92ms>
+02-20 16:37:24.657  1276  1276 I BufferQueueProducer: [FloatingRotationButton#3403](this:0xb400007b1faa1640,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.41 dur=1004.88 max=9.15 min=7.29
+02-20 16:37:24.676  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 8
+02-20 16:37:24.678  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:24.728  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 16:37:24.729  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:24.765  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.41 dur=1004.93 max=9.26 min=7.11
+02-20 16:37:25.051  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 16:37:25.051  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 16:37:25.051  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 16:37:25.051  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 16:37:25.056  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 16:37:25.157  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.526749,dur:1003.93,max:10.87,min:6.24  
+02-20 16:37:25.662  1276  1276 I BufferQueueProducer: [FloatingRotationButton#3403](this:0xb400007b1faa1640,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=119.43 dur=1004.81 max=16.75 min=7.48
+02-20 16:37:25.679  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 7
+02-20 16:37:25.680  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:25.729  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 16:37:25.729  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:25.770  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.39 dur=1005.03 max=9.39 min=7.22
+02-20 16:37:26.163  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.227631,dur:1006.42,max:10.44,min:5.59  
+02-20 16:37:26.436  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:26.440  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:26.666  1276  1276 I BufferQueueProducer: [FloatingRotationButton#3403](this:0xb400007b1faa1640,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.47 dur=1004.41 max=9.28 min=7.24
+02-20 16:37:26.681  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 6
+02-20 16:37:26.683  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:26.705  1811  5647 W InputManager-JNI: Input channel object 'cd5ce8d FloatingRotationButton (client)' was disposed without first being removed with the input manager!
+02-20 16:37:26.726  1276  1276 I SurfaceFlinger: onHandleDestroyed: name=WindowToken{b529324 type=2024 android.os.BinderProxy@e21bfb7}#3401, layerId=3401, parentId=0
+02-20 16:37:26.726  1276  1276 I SurfaceFlinger: onHandleDestroyed: name=cd5ce8d FloatingRotationButton#3402, layerId=3402, parentId=0
+02-20 16:37:26.726  1276  1276 I SurfaceFlinger: onHandleDestroyed: name=FloatingRotationButton#3403, layerId=3403, parentId=0
+02-20 16:37:26.729  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:26.731  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:26.734  1276  1276 I BufferQueueDebug: [cd5ce8d FloatingRotationButton#3402](this:0xb400007b1fa8d750,id:-1,api:0,p:-1,c:1276) onDestructor()
+02-20 16:37:26.734  1276  1276 I BufferQueueDebug: [WindowToken{b529324 type=2024 android.os.BinderProxy@e21bfb7}#3401](this:0xb400007b1fa9e8b0,id:-1,api:0,p:-1,c:1276) onDestructor()
+02-20 16:37:26.735  1276  1276 I BufferQueueDebug: [FloatingRotationButton#3403](this:0xb400007b1faa1640,id:-1,api:0,p:-1,c:1276) onDestructor()
+02-20 16:37:26.774  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.44 dur=1004.64 max=9.26 min=7.25
+02-20 16:37:26.940  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:26.942  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:27.167  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.557648,dur:1003.67,max:10.67,min:4.86  
+02-20 16:37:27.684  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 5
+02-20 16:37:27.686  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:27.734  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:27.734  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:27.780  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.38 dur=1005.17 max=9.28 min=7.35
+02-20 16:37:27.947 13791 13888 I native  : I0000 00:00:1771623447.947354   13888 soda_async_impl.cc:1411] Current audio timestamp: 1771623447806571
+02-20 16:37:27.965 13791 13953 W ProxyAndroidLoggerBackend: Too many Flogger logs received before configuration. Dropping old logs.
+02-20 16:37:28.065  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 16:37:28.065  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 16:37:28.065  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 16:37:28.065  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 16:37:28.075  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 16:37:28.171  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.457710,dur:1004.50,max:10.09,min:6.44  
+02-20 16:37:28.686  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 4
+02-20 16:37:28.687  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:28.708  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:28.717  1211  1710 I netd    : tetherGetStats() -> {[]} <3.02ms>
+02-20 16:37:28.734  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:28.734  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:28.785  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.39 dur=1005.03 max=8.92 min=7.45
+02-20 16:37:29.177  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.370110,dur:1005.23,max:9.37,min:7.12  
+02-20 16:37:29.688  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 3
+02-20 16:37:29.689  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:29.734  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:29.734  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:29.790  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.39 dur=1005.04 max=9.12 min=7.45
+02-20 16:37:30.181  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.433075,dur:1004.71,max:10.43,min:6.27  
+02-20 16:37:30.690  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 2
+02-20 16:37:30.691  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:30.734  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:30.734  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:30.794  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.44 dur=1004.65 max=8.95 min=7.38
+02-20 16:37:30.878  7888  7891 W ocessService0:0: userfaultfd: MOVE ioctl seems unsupported: Connection timed out
+02-20 16:37:31.095  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 16:37:31.095  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 16:37:31.095  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 16:37:31.095  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 16:37:31.107  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 16:37:31.186  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.384743,dur:1005.11,max:10.28,min:6.23  
+02-20 16:37:31.692  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 1
+02-20 16:37:31.694  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:31.734  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:31.735  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:31.799  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.38 dur=1005.12 max=9.14 min=7.36
+02-20 16:37:32.191  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.490974,dur:1004.22,max:10.32,min:6.40  
+02-20 16:37:32.696  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 0
+02-20 16:37:32.696  1446  1532 E mtk_storageproxyd: mtk.ufs.trustonic.ta: ipc connect failed (-12)
+02-20 16:37:32.735  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:32.735  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:32.805  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.33 dur=1005.60 max=8.92 min=7.65
+02-20 16:37:33.195  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.425636,dur:1004.77,max:10.31,min:6.44  
+02-20 16:37:33.735  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:33.736  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:33.810  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.40 dur=1004.99 max=9.37 min=7.25
+02-20 16:37:34.128  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 16:37:34.129  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 16:37:34.129  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 16:37:34.129  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 16:37:34.148  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 16:37:34.202  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.246399,dur:1006.27,max:10.64,min:5.99  
+02-20 16:37:34.735  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:34.736  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:34.815  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.45 dur=1004.55 max=9.11 min=7.50
+02-20 16:37:35.093 23173 23203 I RustStdoutStderr: StateManager::update_state: finished: "OPEN"
+02-20 16:37:35.208  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.252213,dur:1006.22,max:10.17,min:6.20  
+02-20 16:37:35.698  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:35.736  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:35.736  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:35.819  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.42 dur=1004.79 max=9.71 min=6.78
+02-20 16:37:36.212  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.486656,dur:1004.26,max:10.69,min:5.88  
+02-20 16:37:36.699  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 9
+02-20 16:37:36.706  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:36.715  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:36.716  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:36.736  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:36.736  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:36.780  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:36.783  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:36.812  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:36.825  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.37 dur=1005.22 max=9.29 min=7.43
+02-20 16:37:36.825  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:36.853  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:36.859  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 16:37:37.159  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 16:37:37.159  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 16:37:37.159  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 16:37:37.159  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 16:37:37.184  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 16:37:37.216  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.523987,dur:1003.95,max:10.24,min:6.27  
+02-20 16:37:37.707  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 8
+02-20 16:37:37.712  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:37.717  1253  1316 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:3863
+02-20 16:37:37.717  1253  1316 I libPowerHal: [perfLockRel] hdl:3863, idx:2
+02-20 16:37:37.717  1253  1316 I libPowerHal: [PD] MTKPOWER_HINT_EXT_LAUNCH update cmd:1408300 param:0
+02-20 16:37:37.720  1253  1316 I libPowerHal: [PD] MTKPOWER_HINT_EXT_LAUNCH update cmd:1000000 param:-1
+02-20 16:37:37.736  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:37.736  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:37.830  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=120.39 dur=1005.06 max=9.16 min=7.48
+02-20 16:37:38.222  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:120.334129,dur:1005.53,max:10.42,min:6.24  
+02-20 16:37:38.713  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 7
+02-20 16:37:38.714  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:38.736  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:38.736  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:38.835  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=113.42 dur=1005.12 max=17.39 min=7.49
+02-20 16:37:39.226  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:111.472313,dur:1004.73,max:19.43,min:5.37  
+02-20 16:37:39.715  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 6
+02-20 16:37:39.716  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:39.736  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:39.736  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:39.839  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=115.48 dur=1004.51 max=17.21 min=7.59
+02-20 16:37:40.192  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 16:37:40.192  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 16:37:40.192  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 16:37:40.192  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 16:37:40.205  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 16:37:40.231  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:117.477020,dur:1004.45,max:17.50,min:6.39  
+02-20 16:37:40.716  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 5
+02-20 16:37:40.718  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:40.737  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:40.737  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:40.844  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=119.37 dur=1005.25 max=16.75 min=7.03
+02-20 16:37:40.870  1811  1811 W libc    : Access denied finding property "vendor.mbrain.battery"
+02-20 16:37:40.886  1276  1276 I BufferQueueProducer: [StatusBar#88](this:0xb400007b1fa38070,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=0.57 dur=19468.66 max=19069.91 min=7.34
+02-20 16:37:41.236  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:118.396004,dur:1005.10,max:17.58,min:5.55  
+02-20 16:37:41.719  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 4
+02-20 16:37:41.719  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:41.737  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:120
+02-20 16:37:41.737  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:41.849  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=116.48 dur=1004.45 max=17.20 min=7.32
+02-20 16:37:42.241  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.386948,dur:1005.27,max:19.53,min:5.89  
+02-20 16:37:42.720  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 3
+02-20 16:37:42.721  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:42.737  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:42.737  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:42.854  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=118.39 dur=1005.15 max=16.91 min=7.54
+02-20 16:37:43.224  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 16:37:43.224  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 16:37:43.225  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 16:37:43.225  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 16:37:43.231  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 16:37:43.246  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:118.372253,dur:1005.30,max:18.21,min:6.88  
+02-20 16:37:43.722  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 2
+02-20 16:37:43.723  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:43.737  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:43.738  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:43.860  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=118.36 dur=1005.40 max=16.94 min=7.23
+02-20 16:37:44.251  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:119.421425,dur:1004.84,max:16.28,min:5.13  
+02-20 16:37:44.723  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 1
+02-20 16:37:44.726  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 16:37:44.737  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:44.738  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:44.864  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=118.48 dur=1004.42 max=17.42 min=7.48
+02-20 16:37:45.257  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:116.304390,dur:1005.98,max:18.43,min:5.66  
+02-20 16:37:45.726  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 0
+02-20 16:37:45.726  1446  1532 E mtk_storageproxyd: mtk.ufs.trustonic.ta: ipc connect failed (-12)
+02-20 16:37:45.737  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:45.738  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:45.869  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=117.38 dur=1005.29 max=16.66 min=7.46
+02-20 16:37:46.249  2055  2062 I WifiHAL : LLS RSP: data=0xb40000753b9d3030, len=4868
+02-20 16:37:46.249  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=43
+02-20 16:37:46.249  2055  2062 I WifiHAL : LLS check_data_sanity: 1821: current_radio_stat->num_channels=17
+02-20 16:37:46.249  2055  2062 I WifiHAL : LLS check_data_sanity: confirmed_size=4868, len=4868
+02-20 16:37:46.261  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:119.603104,dur:1003.32,max:15.12,min:6.55  
+02-20 16:37:46.263  2055  2062 I WifiHAL : feature_set=0x8489341a
+02-20 16:37:46.738  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:46.738  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:46.874  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=118.45 dur=1004.65 max=16.70 min=7.43
+02-20 16:37:47.265  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:117.456917,dur:1004.62,max:16.84,min:7.11  
+02-20 16:37:47.738  1248  1309 I libPerfCtl: xgfGetFPS pid:2194 fps:-1
+02-20 16:37:47.739  1248  1309 I libPerfCtl: xgfGetFPS pid:7860 fps:-1
+02-20 16:37:47.879  1276  1276 I BufferQueueProducer: [app.validator.intelligence/app.validator.intelligence.MainActivity#3376](this:0xb400007b1f9f6880,id:-1,api:0,p:-1,c:1276) queueBuffer: fps=118.35 dur=1005.48 max=16.77 min=7.35
+02-20 16:37:48.271  1229  1263 I hwcomposer: [HWCDisplay] [Display_0 (type:1, mode:2)] fps:115.279968,dur:1006.25,max:24.77,min:5.38  

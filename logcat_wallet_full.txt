@@ -1,0 +1,52 @@
+--------- beginning of main
+02-20 17:13:29.879  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 7
+02-20 17:13:29.881  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 17:13:30.330  1811  1835 D AES     : AEEIOCTL_GET/SET_SF_STATE IOCTL,cmd= 1074294797, lParam=0. 
+02-20 17:13:30.330  1811  1835 D AES     : AEEIOCTL_RT_MON_Kick IOCTL,cmd= 2147774474, lParam=300. 
+02-20 17:13:30.460 23173 23173 D a2.f@28a4456: Getting value for key: cellularUsageTimestamp
+02-20 17:13:30.461 23173 23173 D io.getgrass.www: Checking if websocket should be running
+02-20 17:13:30.883  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 6
+02-20 17:13:30.886  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 17:13:31.889  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 5
+02-20 17:13:31.892  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 17:13:32.276  1287  1298 D ccci_mdinit: (1):monitor_time_update_thread round:3056 ########
+--------- beginning of system
+02-20 17:13:32.836  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 17:13:32.894  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 4
+02-20 17:13:32.897  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 17:13:33.901  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 3
+02-20 17:13:33.903  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 17:13:34.907  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 2
+02-20 17:13:34.909  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 17:13:35.452  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 17:13:35.467  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 17:13:35.473 29283  9707 I GmsCoreXrpcWrapper: (REDACTED) Creating a custom channel provider with trafficStatsTag=%d trafficStatsUid=%d
+02-20 17:13:35.476  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 17:13:35.479  3317  3317 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.onboardingconsent.api.ConsentManagerApiService.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsApiService }
+02-20 17:13:35.481 29283  9707 I LocationReportUplIntOp: Uploading owner sightings. [CONTEXT service_id=284 ratelimit_period="5 MINUTES" ]
+02-20 17:13:35.481 29283  9707 I GmsCoreXrpcWrapper: (REDACTED) Returning a channel provider with trafficStatsTag=%d trafficStatsUid=%d
+02-20 17:13:35.486  3317  4770 W ConsentManagerApiServic: Consent Manager API is not enabled. [CONTEXT service_id=460 ]
+02-20 17:13:35.488  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 17:13:35.491  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 17:13:35.683 23173 23316 D io.getgrass.plugin.ForegroundService$Companion@755ae3d: ForegroundService:updateWebsocketState: OPEN
+02-20 17:13:35.684 23173 23316 D a2.f@28a4456: Setting value for key: status
+02-20 17:13:35.687 23173 23203 I RustStdoutStderr: StateManager::update_state: finished: "OPEN"
+02-20 17:13:35.856 29283 29542 I cn_CronetUrlRequestContext: destroyNativeStreamLocked org.chromium.net.impl.CronetBidirectionalStream@543ce11
+02-20 17:13:35.910  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 1
+02-20 17:13:35.912  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 17:13:36.272 32178 32274 I PhenotypeProcessReaper: Memory state is: 200
+02-20 17:13:36.916  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 0
+02-20 17:13:36.916  1446  1532 E mtk_storageproxyd: mtk.ufs.trustonic.ta: ipc connect failed (-12)
+02-20 17:13:39.920  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 17:13:40.461 23173 23173 D a2.f@28a4456: Getting value for key: cellularUsageTimestamp
+02-20 17:13:40.462 23173 23173 D io.getgrass.www: Checking if websocket should be running
+02-20 17:13:40.506  3317  3317 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.onboardingconsent.api.ConsentManagerApiService.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsApiService }
+02-20 17:13:40.507  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 17:13:40.510  1811  1829 E ApplicationHelper: Fail to get PackageManager
+02-20 17:13:40.923  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 9
+02-20 17:13:40.926  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 17:13:41.929  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 8
+02-20 17:13:41.931  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)
+02-20 17:13:42.736  1811  1898 I UsageStatsService: User[0] Flushing usage stats to disk
+02-20 17:13:42.934  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: retry left 7
+02-20 17:13:42.936  1446  1532 E mtk_storageproxyd: ipc-trustonic: ipc_trustonic_connect: Unable to resolve family name (-12)

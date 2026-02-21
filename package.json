@@ -1,9 +1,10 @@
 {
-  "name": "validator-solana-intelligence",
+  "name": "gossip-solana-intelligence",
   "private": true,
   "version": "0.1.0",
   "type": "module",
   "scripts": {
+    "postinstall": "node patch-solana.mjs",
     "market:build": "node scripts/buildMarketContext.mjs",
     "daily:stories": "node scripts/fetchDailyStories.mjs",
     "daily:validate": "node scripts/validateDailyStories.mjs",
@@ -34,6 +35,8 @@
   },
   "dependencies": {
     "@capacitor/android": "^8.1.0",
+    "@capacitor/app": "^8.0.1",
+    "@capacitor/browser": "^8.0.1",
     "@capacitor/cli": "^8.1.0",
     "@capacitor/core": "^8.1.0",
     "@solana-mobile/wallet-adapter-mobile": "^2.2.5",
@@ -50,8 +53,7 @@
     "next": "^16.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "rss-parser": "^3.13.0",
-    "solana-wallet-adaptor-capacitor": "^0.0.4"
+    "rss-parser": "^3.13.0"
   },
   "devDependencies": {
     "@types/node": "25.2.1",

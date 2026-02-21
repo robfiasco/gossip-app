@@ -9,8 +9,7 @@ import type { CapacitorConfig } from "@capacitor/cli";
  */
 
 const config: CapacitorConfig = {
-    appId: "app.validator.intelligence",
-    appName: "Validator",
+    appName: "Gossip",
     // Point to the Vercel deployment so server-side API routes work
     server: {
         url: "https://validator-solana-intelligence.vercel.app",

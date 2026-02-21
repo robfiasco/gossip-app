@@ -1,81 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-02-21T07:32:00.474Z",
+    "generatedAt": "2026-02-21T14:22:18.502Z",
     "totalCandidates": 98,
-    "solanaCandidates": 17,
+    "solanaCandidates": 21,
     "selected": 5,
-    "tweetPool": 276,
+    "tweetPool": 281,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://www.theblock.co/post/390572/more-come-crypto-leaders-say-third-white-house-stablecoin-meeting",
-      "title": "‘More to come,’ crypto leaders say after third White House stablecoin meeting",
-      "url": "https://www.theblock.co/post/390572/more-come-crypto-leaders-say-third-white-house-stablecoin-meeting",
-      "source": "The Block",
-      "publishedAt": "2026-02-19T19:44:25.000Z",
-      "summary": "\"More to come,\" was the main message coming out of the third meeting between crypto and banking groups at the White House.",
-      "tags": [
-        "more",
-        "come",
-        "crypto"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 2,
-      "xMentions": 2,
-      "who": [
-        {
-          "handle": "@jussy_world",
-          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@solanafloor",
-          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
-          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "xWho": [
-        {
-          "handle": "@jussy_world",
-          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@solanafloor",
-          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
-          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "mentionedBy": [
-        {
-          "handle": "@jussy_world",
-          "linkToTweet": "https://twitter.com/jussy_world/status/2024530687894986933"
-        },
-        {
-          "handle": "@solanafloor",
-          "linkToTweet": "https://twitter.com/solanafloor/status/2024564557239504938"
-        }
-      ],
-      "matchReason": "keyword_match",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 24,
-        "recencyScore": 8,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "72091d9c0c97554588fde1b77999cfac74aea18c",
-      "score": 41
-    },
     {
       "id": "https://www.coindesk.com/policy/2026/02/19/latest-white-house-talks-on-stablecoin-yield-make-progress-with-banks-no-deal-yet",
       "title": "Latest White House talks on stablecoin yield make 'progress' with banks, no deal yet",
@@ -94,40 +26,40 @@
       "xMentions": 2,
       "who": [
         {
-          "handle": "@solanafloor",
-          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
-          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
-          "matchReason": "keyword_match"
-        },
-        {
           "handle": "@fabianosolana",
           "summary": "If you don’t take this yield, you hate money... - No leverage - No liquidation risk - No IL Simply stablecoin LP, bac...",
           "tweetUrl": "https://twitter.com/fabianosolana/status/2024851455325127059",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@armaniferrante",
+          "summary": "Because @Backpack continuously realizes PnL in real time, we get this feature for free. When physical USD is exchange...",
+          "tweetUrl": "https://twitter.com/armaniferrante/status/2025212025580978213",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@solanafloor",
-          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
-          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
-          "matchReason": "keyword_match"
-        },
-        {
           "handle": "@fabianosolana",
           "summary": "If you don’t take this yield, you hate money... - No leverage - No liquidation risk - No IL Simply stablecoin LP, bac...",
           "tweetUrl": "https://twitter.com/fabianosolana/status/2024851455325127059",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@armaniferrante",
+          "summary": "Because @Backpack continuously realizes PnL in real time, we get this feature for free. When physical USD is exchange...",
+          "tweetUrl": "https://twitter.com/armaniferrante/status/2025212025580978213",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@solanafloor",
-          "linkToTweet": "https://twitter.com/solanafloor/status/2024564557239504938"
-        },
-        {
           "handle": "@fabianosolana",
           "linkToTweet": "https://twitter.com/fabianosolana/status/2024851455325127059"
+        },
+        {
+          "handle": "@armaniferrante",
+          "linkToTweet": "https://twitter.com/armaniferrante/status/2025212025580978213"
         }
       ],
       "matchReason": "keyword_match",
@@ -135,26 +67,26 @@
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
         "relevanceScore": 5,
-        "mentionScore": 24,
+        "mentionScore": 22,
         "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "657cabaaf574a918a49014f9fcb8d2949c5f0012",
-      "score": 40
+      "score": 38
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/02/19/inside-the-meeting-white-house-favors-some-stablecoin-rewards-tells-banks-it-s-time-to-move",
-      "title": "Inside the meeting: White House favors some stablecoin rewards, tells banks it's time to move",
-      "url": "https://www.coindesk.com/policy/2026/02/19/inside-the-meeting-white-house-favors-some-stablecoin-rewards-tells-banks-it-s-time-to-move",
+      "id": "https://www.coindesk.com/business/2026/02/20/rwa-issuers-prioritize-capital-formation-over-liquidity-according-to-brickken-survey",
+      "title": "RWA issuers prioritize capital formation over liquidity, according to Brickken survey",
+      "url": "https://www.coindesk.com/business/2026/02/20/rwa-issuers-prioritize-capital-formation-over-liquidity-according-to-brickken-survey",
       "source": "CoinDesk",
-      "publishedAt": "2026-02-19T22:36:57.000Z",
-      "summary": "Sources familiar with the talks on stablecoin yields say the White House urged bankers to get on board with a deal that lets the market structure bill advance.",
+      "publishedAt": "2026-02-20T15:55:33.000Z",
+      "summary": "Exclusive fourth quarter data shows 69.2% of issuers are live, while 84.6% report regulatory friction shaping tokenization rollout.",
       "tags": [
-        "inside",
-        "meeting",
-        "white"
+        "issuers",
+        "prioritize",
+        "capital"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
@@ -162,143 +94,195 @@
       "xMentions": 1,
       "who": [
         {
-          "handle": "@solanafloor",
-          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
-          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
+          "handle": "@matty_solana",
+          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
+          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@solanafloor",
-          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
-          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
+          "handle": "@matty_solana",
+          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
+          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@solanafloor",
-          "linkToTweet": "https://twitter.com/solanafloor/status/2024564557239504938"
+          "handle": "@matty_solana",
+          "linkToTweet": "https://twitter.com/matty_solana/status/2020903942092206499"
         }
       ],
       "matchReason": "keyword_match",
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 14,
-        "recencyScore": 8,
+        "relevanceScore": 5,
+        "mentionScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "085ef169177f743f72b75748632506220095b927",
-      "score": 34
+      "dedupeFingerprint": "317081e2b127c580f5e6ff6cacd83fd6eab4d7e1",
+      "score": 28
     },
     {
-      "id": "https://decrypt.co/358688/white-house-banks-crypto-groups-resume-talks-stablecoin",
-      "title": "White House, Banks and Crypto Groups Resume Talks on Stablecoin Rewards",
-      "url": "https://decrypt.co/358688/white-house-banks-crypto-groups-resume-talks-stablecoin",
-      "source": "Decrypt",
-      "publishedAt": "2026-02-20T01:01:28.000Z",
-      "summary": "Stablecoin incentives remain a key unresolved issue as lawmakers seek to advance digital-asset market-structure legislation.",
+      "id": "https://ambcrypto.com/polygon-holds-key-support-after-100m-pol-burn-can-it-reach-0-12",
+      "title": "Polygon holds KEY support after 100M POL burn: What’s next?",
+      "url": "https://ambcrypto.com/polygon-holds-key-support-after-100m-pol-burn-can-it-reach-0-12",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-02-21T11:00:39.000Z",
+      "summary": "Polygon reaches a major deflationary milestone burning 100 million POL tokens",
       "tags": [
-        "white",
-        "house",
-        "banks"
+        "polygon",
+        "holds",
+        "support"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "tokenomics",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
       "mentionCount": 1,
       "xMentions": 1,
       "who": [
         {
-          "handle": "@solanafloor",
-          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
-          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
+          "handle": "@matty_solana",
+          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
+          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@solanafloor",
-          "summary": "🚨JUST IN: @coinbase Chief Legal Officer @iampaulgrewal says today’s White House meeting on stablecoin yield was “con...",
-          "tweetUrl": "https://twitter.com/solanafloor/status/2024564557239504938",
+          "handle": "@matty_solana",
+          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
+          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@solanafloor",
-          "linkToTweet": "https://twitter.com/solanafloor/status/2024564557239504938"
+          "handle": "@matty_solana",
+          "linkToTweet": "https://twitter.com/matty_solana/status/2020903942092206499"
         }
       ],
       "matchReason": "keyword_match",
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 14,
-        "recencyScore": 8,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "729788b1698192d581cafea90c24a98f9947e29f",
-      "score": 33
-    },
-    {
-      "id": "https://www.coindesk.com/policy/2026/02/20/sec-makes-quiet-shift-to-brokers-stablecoin-holdings-that-may-pack-big-results",
-      "title": "SEC makes quiet shift to brokers' stablecoin holdings that may pack big results",
-      "url": "https://www.coindesk.com/policy/2026/02/20/sec-makes-quiet-shift-to-brokers-stablecoin-holdings-that-may-pack-big-results",
-      "source": "CoinDesk",
-      "publishedAt": "2026-02-20T22:15:40.000Z",
-      "summary": "The securities regulator has continued its Project Crypto work to make unofficial policy changes as it moved to let broker-dealers treat stablecoins as capital.",
-      "tags": [
-        "makes",
-        "quiet",
-        "shift"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 1,
-      "xMentions": 1,
-      "who": [
-        {
-          "handle": "@solanafloor",
-          "summary": "The 6 BIGGEST Solana News Stories of the Week: ✍️@solace_fm 1. Third Time’s the Charm? - White House Hosts Third Stab...",
-          "tweetUrl": "https://twitter.com/solanafloor/status/2024844182846648386",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "xWho": [
-        {
-          "handle": "@solanafloor",
-          "summary": "The 6 BIGGEST Solana News Stories of the Week: ✍️@solace_fm 1. Third Time’s the Charm? - White House Hosts Third Stab...",
-          "tweetUrl": "https://twitter.com/solanafloor/status/2024844182846648386",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "mentionedBy": [
-        {
-          "handle": "@solanafloor",
-          "linkToTweet": "https://twitter.com/solanafloor/status/2024844182846648386"
-        }
-      ],
-      "matchReason": "keyword_match",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 10,
         "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "10777dbe0895fa19a135bc2105d4db6c0a9b0b84",
+      "score": 26
+    },
+    {
+      "id": "https://cryptoslate.com/stablecoins-are-cryptos-m2-and-a-1-percent-slip-can-tighten-bitcoin-liquidity",
+      "title": "Crypto has a native version of the M2 money supply that’s falling and killing Bitcoin liquidity",
+      "url": "https://cryptoslate.com/stablecoins-are-cryptos-m2-and-a-1-percent-slip-can-tighten-bitcoin-liquidity",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-02-21T09:00:24.000Z",
+      "summary": "Stablecoin supply is crypto’s deployable cash. With a total stablecoin market cap of around $307.92 billion and down -1.13% in the past 30 days, the pool has stopped growing month over month. When supply stalls, price moves get sharper, and Bitcoin feels it first in thin depth and bigger wicks. Stab",
+      "tags": [
+        "crypto",
+        "native",
+        "version"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 1,
+      "xMentions": 1,
+      "who": [
+        {
+          "handle": "@matty_solana",
+          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
+          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@matty_solana",
+          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
+          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@matty_solana",
+          "linkToTweet": "https://twitter.com/matty_solana/status/2020903942092206499"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 2,
+        "mentionScore": 10,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "dfcb1ffb2fae9664b67ede636d0d67fa5096bbcf",
+      "score": 24
+    },
+    {
+      "id": "https://www.theblock.co/post/390572/more-come-crypto-leaders-say-third-white-house-stablecoin-meeting",
+      "title": "‘More to come,’ crypto leaders say after third White House stablecoin meeting",
+      "url": "https://www.theblock.co/post/390572/more-come-crypto-leaders-say-third-white-house-stablecoin-meeting",
+      "source": "The Block",
+      "publishedAt": "2026-02-19T19:44:25.000Z",
+      "summary": "\"More to come,\" was the main message coming out of the third meeting between crypto and banking groups at the White House.",
+      "tags": [
+        "more",
+        "come",
+        "crypto"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 1,
+      "xMentions": 1,
+      "who": [
+        {
+          "handle": "@jussy_world",
+          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@jussy_world",
+          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@jussy_world",
+          "linkToTweet": "https://twitter.com/jussy_world/status/2024530687894986933"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 10,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b030c69aa936b4787e1520feae78b545020e5c4a",
-      "score": 32
+      "dedupeFingerprint": "72091d9c0c97554588fde1b77999cfac74aea18c",
+      "score": 26
     }
   ]
 }

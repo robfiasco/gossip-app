@@ -38,7 +38,7 @@ export default function MarketContextPage() {
 
       <section className="detail-hero">
         <p className="detail-source">
-          Validator
+          Gossip
           <span className="dot" aria-hidden="true" />
           <span className="time">Market Context</span>
         </p>

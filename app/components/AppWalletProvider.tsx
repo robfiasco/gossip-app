@@ -1,19 +1,5 @@
 "use client";
 
-/**
- * AppWalletProvider
- * 
- * Configures the Solana Wallet Adapter for the application.
- * 
- * ARCHITECTURE NOTE:
- * This app is wrapped in Capacitor for Android. The Mobile Wallet Adapter (MWA)
- * protocol relies on Android Intents which cannot be triggered directly from
- * a Capacitor WebView without a native plugin bridge.
- * 
- * For this reason, we explicitly support Phantom and Solflare standard adapters
- * which function correctly via deep linking/universal links in this environment.
- */
-
 import React, { useMemo, useEffect, useState } from "react";
 import { ConnectionProvider, WalletProvider } from "@solana/wallet-adapter-react";
 import { WalletAdapterNetwork } from "@solana/wallet-adapter-base";
@@ -21,10 +7,31 @@ import { PhantomWalletAdapter, SolflareWalletAdapter } from "@solana/wallet-adap
 import { SolanaMobileWalletAdapter, createDefaultAddressSelector, createDefaultAuthorizationResultCache, createDefaultWalletNotFoundHandler } from "@solana-mobile/wallet-adapter-mobile";
 import { WalletModalProvider } from "@solana/wallet-adapter-react-ui";
 import { clusterApiUrl } from "@solana/web3.js";
-import { Capacitor } from "@capacitor/core";
+import { Capacitor, registerPlugin } from "@capacitor/core";
+
+const NativeIntent = registerPlugin<any>('NativeIntent');
 
 // Default styles that can be overridden by your app
 import "@solana/wallet-adapter-react-ui/styles.css";
+
+// Bypass Chrome's asynchronous intent blockage by proxying the JS string through Capacitor's native layer
+if (typeof window !== "undefined") {
+    (window as any).__openSolanaIntentUrl = (url: URL) => {
+        window.alert(`Attempting to open Intent URL: ${url.toString()}`);
+        if (Capacitor.isNativePlatform()) {
+            window.alert(`Native Platform Detected. Triggering NativeIntent bridge...`);
+            NativeIntent.openUrl({ url: url.toString() }).then(() => {
+                window.alert(`NativeIntent successfully fired!`);
+            }).catch((err: any) => {
+                window.alert(`NativeIntent failed: ${String(err)}`);
+                console.error(err);
+            });
+        } else {
+            window.alert(`Web environment detected. Assigning location...`);
+            window.location.assign(url);
+        }
+    };
+}
 
 export default function AppWalletProvider({ children }) {
     const network = WalletAdapterNetwork.Mainnet;
@@ -40,12 +47,12 @@ export default function AppWalletProvider({ children }) {
 
             if (Capacitor.isNativePlatform() && Capacitor.getPlatform() === 'android') {
                 // We are natively on Android (Seeker), use the official Mobile Wallet Adapter
-                // This triggers the native Android intents for the Seed Vault
+                // This triggers the native Android intents for the Seed Vault natively via our patch
                 setWallets([
                     new SolanaMobileWalletAdapter({
                         addressSelector: createDefaultAddressSelector(),
                         appIdentity: {
-                            name: "Validator Intelligence",
+                            name: "Gossip Intelligence",
                             uri: "https://validator-solana-intelligence.vercel.app",
                             icon: "https://validator-solana-intelligence.vercel.app/icon.png",
                         },
@@ -66,7 +73,7 @@ export default function AppWalletProvider({ children }) {
 
     return (
         <ConnectionProvider endpoint={endpoint}>
-            <WalletProvider wallets={wallets} autoConnect>
+            <WalletProvider wallets={wallets} autoConnect={true}>
                 <WalletModalProvider>{children}</WalletModalProvider>
             </WalletProvider>
         </ConnectionProvider>

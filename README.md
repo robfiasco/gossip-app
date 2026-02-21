@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Validator v1 Data Sources
+# Gossip (formerly Validator) v1 Data Sources
 
 This app now pulls live market data and stories from public endpoints. No API keys required (v1).
 
@@ -53,7 +52,6 @@ Outputs:
 ### Debugging digest:llm
 - Raw LLM response is saved to: `data/llm_last_response.txt`
 - “Backpack seeded” now means the Backpack tokenomics article is guaranteed to be in the **LLM input subset**.
-=======
-# validator-solana-intelligence
+
+# gossip-solana-intelligence
 Mobile-first Solana intelligence terminal that converts crypto Twitter + ecosystem data into high-signal daily narratives and premium trader insights.
->>>>>>> 05179e982a91330c0de78db77bf4df67cbc07cbd

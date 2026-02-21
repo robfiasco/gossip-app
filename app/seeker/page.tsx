@@ -3,7 +3,7 @@
 /**
  * Seeker Page (Token Gated)
  * 
- * Displays the "Validator Magazine" interface — a premium content feed available
+ * Displays the "Gossip Magazine" interface — a premium content feed available
  * only to holders of the Seeker Genesis Token.
  * 
  * Features:
@@ -213,7 +213,7 @@ function MagazineCover({
       <div className="seeker-mag-header">
         <div>
           <h1 className="seeker-mag-logo">
-            <span className="title-logo">VALIDATOR</span>
+            <span className="title-logo">GOSSIP</span>
             <span className="logo-cursor" aria-hidden="true">_</span>
           </h1>
           <p className="seeker-mag-sub">Premium Intelligence • {formatShortDate(lead?.timestamp || lead?.publishedAt)}</p>
@@ -256,7 +256,7 @@ function MagazineCover({
       <h2 className="seeker-mag-title seeker-mag-title-cover">{cleanTitle(lead?.title) || "Untitled"}</h2>
 
       <div className="seeker-mag-meta">
-        <span>By AI Validator News Desk</span>
+        <span>By AI Gossip News Desk</span>
       </div>
 
       <p className="seeker-mag-preview">
@@ -392,7 +392,7 @@ function StoryDetail({ story, index, total, onBack }: { story: Story; index: num
       <div className="seeker-detail-header">
         <div>
           <h1 className="seeker-mag-logo seeker-detail-logo">
-            <span className="title-logo">VALIDATOR</span>
+            <span className="title-logo">GOSSIP</span>
             <span className="logo-cursor" aria-hidden="true">_</span>
           </h1>
           <p className="seeker-detail-sub">Premium Intelligence • {formatShortDate(story?.timestamp || story?.publishedAt)}</p>
@@ -409,7 +409,7 @@ function StoryDetail({ story, index, total, onBack }: { story: Story; index: num
           {String(story?.category || "Seeker Story").toUpperCase()}
         </div>
         <h2 className="seeker-detail-title">{story?.title || "Untitled"}</h2>
-        <p className="seeker-detail-author">Analysis by AI Validator News Desk</p>
+        <p className="seeker-detail-author">Analysis by AI Gossip News Desk</p>
       </div>
 
       <div className="seeker-detail-metrics">

@@ -1,7 +1,7 @@
 "use client";
 
 /**
- * Validator — Solana Intelligence Terminal
+ * Gossip — Solana Intelligence Terminal
  * 
  * The main application shell that manages the three primary panels:
  * 1. Signal Board (Market data & weekly intel)
@@ -14,6 +14,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Activity, Brain, MessageCircle, Rocket, TrendingUp, Users } from "lucide-react";
 import SeekerGuard from "./components/SeekerGuard";
+import GossipLoadingScreen from "./components/GossipLoadingScreen";
 import type { TerminalData } from "../lib/data/types";
 import type {
   BriefingPayload,
@@ -98,7 +99,7 @@ function MarketStatsBlock({
 
 // Main application component containing the full terminal interface
 export default function Home() {
-  const [theme, setTheme] = useState<"dark" | "darker">("darker");
+  const [theme, setTheme] = useState<"dark" | "darker" | "gossip">("darker");
   const [focusMode, setFocusMode] = useState(false);
   const isStaked = false;
   const [terminalData, setTerminalData] = useState<TerminalData | null>(null);
@@ -110,12 +111,14 @@ export default function Home() {
   const [marketCache, setMarketCache] = useState<MarketContextPayload | null>(null);
   const [activePanel, setActivePanel] = useState(0);
   const [isSeeker, setIsSeeker] = useState(false);
+  const [showLoadingScreen, setShowLoadingScreen] = useState(true);
+  const [isAppReady, setIsAppReady] = useState(false);
   const carouselRef = useRef<HTMLDivElement | null>(null);
   const panelRefs = useRef<Array<HTMLDivElement | null>>([]);
 
   useEffect(() => {
     const stored = window.localStorage.getItem("validator_theme");
-    if (stored === "dark" || stored === "darker") {
+    if (stored === "dark" || stored === "darker" || stored === "gossip") {
       setTheme(stored);
     }
   }, []);
@@ -198,8 +201,11 @@ export default function Home() {
         setBriefingData(daily.briefing);
         setNewsCardsData(daily.newsCards);
         setMarketContextData(daily.marketContext);
+        setIsAppReady(true);
       } catch (err) {
         console.warn("Error fetching daily data", err);
+        // Fallback to allow app to load eventually even if data fetch fails
+        setIsAppReady(true);
       }
     };
     run();
@@ -538,347 +544,355 @@ export default function Home() {
 
 
   return (
-    <main className="page terminal-surface">
-      <header className="header header-terminal">
-        <div className="hero-copy">
-          <h1 className="title" aria-label="VALIDATOR">
-            <span className={`title-logo ${focusMode ? "title-logo-focus" : ""}`}>VALIDATOR</span>
-            <span className="logo-cursor" aria-hidden="true">_</span>
-          </h1>
-          <p className="subtitle">
-            {activePanel === 2 ? "PREMIUM INTELLIGENCE FOR SEEKER HOLDERS" : "SOLANA INTELLIGENCE TERMINAL"}
-          </p>
-          {isStaked && activePanel !== 2 ? (
-            <span className="staked-chip">Staked — Enhanced Signal</span>
-          ) : null}
-        </div>
-        <div className="header-actions">
-          <button
-            className={`focus-toggle ${focusMode ? "active" : ""}`}
-            onClick={() => setFocusMode((prev) => !prev)}
-            aria-label={focusMode ? "Disable Focus Mode" : "Enable Focus Mode"}
-          >
-            FOCUS
-          </button>
-          <button
-            className="theme-toggle-icon"
-            onClick={() => setTheme(theme === "darker" ? "dark" : "darker")}
-            aria-label={toggleLabel}
-          >
-            {theme === "darker" ? "☾" : "☼"}
-          </button>
-        </div>
-      </header>
-
-
-      <div className={`market-collapsible ${focusMode ? "collapsed" : ""}`}>
-        <MarketStatsBlock
-          marketView={marketView}
-          formatPrice={formatPrice}
-          formatDelta={formatDelta}
-          formatDollarDelta={formatDollarDelta}
-          formatUsd={formatUsd}
-          sol7dDollarDelta={sol7dDollarDelta}
+    <>
+      {showLoadingScreen && (
+        <GossipLoadingScreen
+          isAppReady={isAppReady}
+          onFinished={() => setShowLoadingScreen(false)}
         />
-      </div>
+      )}
+      <main className="page terminal-surface">
+        <header className="header header-terminal">
+          <div className="hero-copy">
+            <h1 className="title" aria-label="GOSSIP">
+              <span className={`title-logo ${focusMode ? "title-logo-focus" : ""}`}>GOSSIP</span>
+              <span className="logo-cursor" aria-hidden="true">_</span>
+            </h1>
+            <p className="subtitle">
+              {activePanel === 2 ? "PREMIUM INTELLIGENCE FOR SEEKER HOLDERS" : "SOLANA INTELLIGENCE TERMINAL"}
+            </p>
+            {isStaked && activePanel !== 2 ? (
+              <span className="staked-chip">Staked — Enhanced Signal</span>
+            ) : null}
+          </div>
+          <div className="header-actions">
+            <button
+              className={`focus-toggle ${focusMode ? "active" : ""}`}
+              onClick={() => setFocusMode((prev) => !prev)}
+              aria-label={focusMode ? "Disable Focus Mode" : "Enable Focus Mode"}
+            >
+              FOCUS
+            </button>
+            <button
+              className="theme-toggle-icon"
+              onClick={() => setTheme(theme === "darker" ? "gossip" : theme === "gossip" ? "dark" : "darker")}
+              aria-label={toggleLabel}
+            >
+              {theme === "darker" ? "☾" : theme === "gossip" ? "✧" : "☼"}
+            </button>
+          </div>
+        </header>
 
-      <div className="panel-carousel-wrap">
-        <div
-          className="panel-carousel"
-          ref={carouselRef}
-          onScroll={handleCarouselScroll}
-        >
+
+        <div className={`market-collapsible ${focusMode ? "collapsed" : ""}`}>
+          <MarketStatsBlock
+            marketView={marketView}
+            formatPrice={formatPrice}
+            formatDelta={formatDelta}
+            formatDollarDelta={formatDollarDelta}
+            formatUsd={formatUsd}
+            sol7dDollarDelta={sol7dDollarDelta}
+          />
+        </div>
+
+        <div className="panel-carousel-wrap">
           <div
-            className="panel-slide panel-slide-signal"
-            ref={(el) => {
-              panelRefs.current[0] = el;
-            }}
+            className="panel-carousel"
+            ref={carouselRef}
+            onScroll={handleCarouselScroll}
           >
-            <section className="intelligence intel-card card--signal">
-              <div className="intelligence-header">
-                <h2 className="intelligence-title">Signal Board</h2>
-              </div>
-              <div className="weekly-intel-head">
-                <div className="weekly-intel-title">Weekly Intelligence</div>
-                <div className="weekly-intel-date">
-                  Generated {formatShortDate(narrativeGeneratedDate)}
+            <div
+              className="panel-slide panel-slide-signal"
+              ref={(el) => {
+                panelRefs.current[0] = el;
+              }}
+            >
+              <section className="intelligence intel-card card--signal">
+                <div className="intelligence-header">
+                  <h2 className="intelligence-title">Signal Board</h2>
                 </div>
-              </div>
-              <div className="terminal-divider" aria-hidden="true" />
-              <div className="signal-brief">
-                <div className="signal-brief-body">
-                  <div className="sb-list">
-                    <div className="sb-item sb-item-price">
-                      <div className="sb-item-head">
-                        <span className="sb-item-label">MARKET CONTEXT</span>
-                      </div>
-                      <p className="sb-item-copy">
-                        {signalPriceUpdate}
-                      </p>
-                    </div>
-                    {signalShowPastWeek ? (
-                      <div className="sb-item sb-item-past">
-                        <div className="sb-item-head">
-                          <span className="sb-item-label">PAST WEEK</span>
-                        </div>
-                        <p className="sb-item-copy">
-                          {signalPastWeek}
-                        </p>
-                      </div>
-                    ) : null}
-
-                    <div className="sb-item sb-item-this">
-                      <div className="sb-item-head">
-                        <span className="sb-item-label">THIS WEEK</span>
-                      </div>
-                      <p className="sb-item-copy">
-                        {signalThisWeek}
-                      </p>
-                    </div>
-
-                    {signalShowNextWeek ? (
-                      <div className="sb-item sb-item-next">
-                        <div className="sb-item-head">
-                          <span className="sb-item-label">NEXT WEEK</span>
-                        </div>
-                        <p className="sb-item-copy">
-                          {signalNextWeek}
-                        </p>
-                      </div>
-                    ) : null}
-
-                    {signalBoardData?.whatsHot ? (
-                      <div className="sb-item sb-item-hot">
-                        <div className="sb-item-head">
-                          <span className="sb-item-label">ECOSYSTEM</span>
-                        </div>
-                        <p className="sb-item-copy">
-                          {signalBoardData.whatsHot}
-                        </p>
-                      </div>
-                    ) : null}
+                <div className="weekly-intel-head">
+                  <div className="weekly-intel-title">Weekly Intelligence</div>
+                  <div className="weekly-intel-date">
+                    Generated {formatShortDate(narrativeGeneratedDate)}
                   </div>
                 </div>
-              </div>
-            </section>
-          </div>
-          <div
-            className="panel-slide panel-slide-briefing"
-            ref={(el) => {
-              panelRefs.current[1] = el;
-            }}
-          >
-            <section className="morning-open">
-              <div className="morning-panel intel-card card--briefing">
-                <div className="morning-panel-header">
-                  <h2 className="intelligence-title briefing-title-glitch">{briefingData?.title || "TODAY'S SOLANA BRIEFING"}</h2>
-                </div>
-                <div className="briefing-subhead-row">
-                  <span className="briefing-subhead-line" />
-                  <span className="briefing-subhead-text">{briefingData?.subtitle || "Top links from trusted desks"}</span>
-                  <span className="briefing-subhead-line" />
-                </div>
-                <div className="briefing-card-stack">
-                  {(() => {
-                    const items = briefingData?.items || [];
-                    const slots = [
-                      { label: "NEED TO KNOW", icon: "⚡", tone: "briefing-item-need", item: items[0] },
-                      { label: "GOOD TO KNOW", icon: "↗", tone: "briefing-item-good", item: items[1] },
-                      { label: "KEEP AN EYE ON", icon: "◉", tone: "briefing-item-keep", item: items[2] },
-                    ];
-                    return slots.map((slot, idx) => (
-                      <div key={idx} className={`briefing-item ${slot.tone}`}>
-                        <div className="briefing-item-head">
-                          <span className="briefing-item-icon">{slot.icon}</span>
-                          <span className="briefing-item-label">{slot.label}</span>
+                <div className="terminal-divider" aria-hidden="true" />
+                <div className="signal-brief">
+                  <div className="signal-brief-body">
+                    <div className="sb-list">
+                      <div className="sb-item sb-item-price">
+                        <div className="sb-item-head">
+                          <span className="sb-item-label">MARKET CONTEXT</span>
                         </div>
-                        {slot.item?.url ? (
-                          <a
-                            href={slot.item.url}
-                            target="_blank"
-                            rel="noreferrer"
-                            className="briefing-story-link"
-                          >
-                            {slot.item.title} <span className="briefing-story-arrow">↗</span>
-                          </a>
-                        ) : (
-                          <p className="briefing-card-copy">
-                            {slot.item?.title || "Refreshing high-signal picks…"}
+                        <p className="sb-item-copy">
+                          {signalPriceUpdate}
+                        </p>
+                      </div>
+                      {signalShowPastWeek ? (
+                        <div className="sb-item sb-item-past">
+                          <div className="sb-item-head">
+                            <span className="sb-item-label">PAST WEEK</span>
+                          </div>
+                          <p className="sb-item-copy">
+                            {signalPastWeek}
                           </p>
-                        )}
-                        {slot.item?.source ? (
-                          <div className="briefing-story-meta">
-                            {slot.item.source}
-                            {slot.item.date ? ` • ${formatShortDate(slot.item.date)}` : ""}
-                          </div>
-                        ) : null}
-                        {slot.item?.whyYouShouldCare ? (
-                          <p className="briefing-story-why">{slot.item.whyYouShouldCare}</p>
-                        ) : null}
-                      </div>
-                    ));
-                  })()}
-                  {(!briefingData?.items || briefingData.items.length === 0) && (
-                    <div className="text-white/40 text-sm italic p-4 text-center">Briefing generating...</div>
-                  )}
-                </div>
-              </div>
-            </section>
-          </div>
-
-          <div
-            className="panel-slide panel-slide-scroll"
-            ref={(el) => {
-              panelRefs.current[2] = el;
-            }}
-          >
-            <SeekerGuard>
-              <section className="stories stories-seeker-fullscreen" id="top-story-feed">
-                {(() => {
-                  const stories = (newsCardsData?.items || []).slice(0, 3);
-                  const globalMetrics = (newsCardsData as any)?.global_metrics || null;
-                  const lead = stories[0];
-                  const moreStories = stories.slice(1, 3);
-                  const globalTweets = Number(
-                    globalMetrics?.total_tweets ??
-                    stories.reduce((sum, item) => {
-                      const tweets = item?.metrics?.tweets ?? item?.stats?.total_tweets ?? 0;
-                      return sum + Number(tweets);
-                    }, 0)
-                  );
-                  const globalEng = Number(
-                    globalMetrics?.total_engagement ??
-                    stories.reduce((sum, item) => {
-                      const engagement = item?.metrics?.engagement ?? item?.stats?.total_engagement ?? 0;
-                      return sum + Number(engagement);
-                    }, 0)
-                  );
-                  const globalTop = Number(
-                    globalMetrics?.top_tweet ??
-                    Math.max(
-                      0,
-                      ...stories.map((item) => Number(item?.metrics?.topTweet ?? item?.stats?.top_engagement ?? 0))
-                    )
-                  );
-                  const globalVoices = Number(
-                    globalMetrics?.unique_voices ??
-                    stories.reduce((sum, item) => {
-                      const voices = item?.metrics?.voices ?? item?.stats?.unique_users ?? 0;
-                      return sum + Number(voices);
-                    }, 0)
-                  );
-
-                  if (!lead) {
-                    return (
-                      <div className="news-empty">
-                        Run node scripts/runDaily.mjs to generate today’s stories.
-                      </div>
-                    );
-                  }
-
-                  const leadCategory = String(lead?.category || "Daily Intel");
-                  const leadIsCritical = /security|risk|breach|exploit|hack/i.test(leadCategory);
-                  const leadIsAi = /ai|agent/i.test(leadCategory);
-                  const leadIsGaming = /gaming|game/i.test(leadCategory);
-                  return (
-                    <div className="seeker-mag-shell">
-
-                      <div className="seeker-mag-stats">
-                        <div className="seeker-mag-stat">
-                          <i><MessageCircle size={16} strokeWidth={1.8} /></i>
-                          <strong>{globalTweets || 0}</strong>
-                          <span>Tweets Analyzed</span>
-                        </div>
-                        <div className="seeker-mag-stat">
-                          <i className="is-green"><TrendingUp size={16} strokeWidth={1.8} /></i>
-                          <strong className="is-green">{formatCompactNumber(globalEng)}</strong>
-                          <span>Total Engagement</span>
-                        </div>
-                        <div className="seeker-mag-stat">
-                          <i><Users size={16} strokeWidth={1.8} /></i>
-                          <strong>{globalVoices || 0}</strong>
-                          <span>Unique Voices</span>
-                        </div>
-                        <div className="seeker-mag-stat">
-                          <i className="is-purple"><Activity size={16} strokeWidth={1.8} /></i>
-                          <strong className="is-purple">{formatCompactNumber(globalTop)}</strong>
-                          <span>Top Tweet</span>
-                        </div>
-                      </div>
-
-                      <div className="seeker-mag-divider" />
-
-                      <div className="seeker-mag-kicker-row">
-                        <span className={`seeker-mag-kicker ${leadIsCritical ? "critical" : leadIsAi ? "ai" : leadIsGaming ? "gaming" : ""}`}>
-                          {String(lead.category || "Seeker Story").toUpperCase()}
-                        </span>
-                      </div>
-                      <h2 className="seeker-mag-title">{lead.title}</h2>
-
-                      <div className="seeker-mag-meta">
-                        <span>By AI Validator News Desk</span>
-                      </div>
-
-                      <p className="seeker-mag-preview">
-                        {compactSentence(
-                          lead.content?.signal || lead.summary || lead.hook || lead.narrative || lead.title,
-                          260,
-                        )}
-                      </p>
-
-                      <div className="seeker-mag-cta-row">
-                        <a
-                          href="/seeker?story=0"
-                          className={`seeker-mag-cta ${leadIsCritical ? "critical" : "primary"}`}
-                        >
-                          Read Full Story
-                        </a>
-                      </div>
-
-                      {moreStories.length > 0 ? (
-                        <div className="seeker-mag-more">
-                          <h3>Featured Stories</h3>
-                          <div className="seeker-mag-grid">
-                            {moreStories.map((story, idx) => (
-                              <a
-                                key={`${story.title}-${idx}`}
-                                href={`/seeker?story=${idx + 1}`}
-                                className="seeker-mag-card"
-                              >
-                                <div className={`seeker-mag-thumb ${idx % 2 === 0 ? "live" : "alpha"}`}>
-                                  {idx % 2 === 0 ? <Rocket size={38} /> : <Brain size={38} />}
-                                </div>
-                                <div className="seeker-mag-card-row">
-                                  <span className={`seeker-mag-card-tag ${idx % 2 === 0 ? "live" : "alpha"}`}>
-                                    {idx % 2 === 0 ? "LIVE" : "ALPHA"}
-                                  </span>
-                                  <span className="seeker-mag-card-time">
-                                    {formatShortDate(story.timestamp || story.publishedAt || null)}
-                                  </span>
-                                </div>
-                                <div className="seeker-mag-card-title">{story.title}</div>
-                                <div className="seeker-mag-card-sub">
-                                  {compactSentence(story.summary || story.hook || story.narrative || story.title, 85)}
-                                </div>
-                                <div className="seeker-mag-card-meta">
-                                  {story?.metrics?.tweets ?? story?.stats?.total_tweets ?? 0} •{" "}
-                                  {formatCompactNumber(story?.metrics?.engagement ?? story?.stats?.total_engagement ?? 0)}
-                                </div>
-                              </a>
-                            ))}
-                          </div>
                         </div>
                       ) : null}
 
-                    </div>
-                  );
-                })()}
-              </section>
-            </SeekerGuard>
-          </div>
-        </div >
-      </div >
+                      <div className="sb-item sb-item-this">
+                        <div className="sb-item-head">
+                          <span className="sb-item-label">THIS WEEK</span>
+                        </div>
+                        <p className="sb-item-copy">
+                          {signalThisWeek}
+                        </p>
+                      </div>
 
-    </main >
+                      {signalShowNextWeek ? (
+                        <div className="sb-item sb-item-next">
+                          <div className="sb-item-head">
+                            <span className="sb-item-label">NEXT WEEK</span>
+                          </div>
+                          <p className="sb-item-copy">
+                            {signalNextWeek}
+                          </p>
+                        </div>
+                      ) : null}
+
+                      {signalBoardData?.whatsHot ? (
+                        <div className="sb-item sb-item-hot">
+                          <div className="sb-item-head">
+                            <span className="sb-item-label">ECOSYSTEM</span>
+                          </div>
+                          <p className="sb-item-copy">
+                            {signalBoardData.whatsHot}
+                          </p>
+                        </div>
+                      ) : null}
+                    </div>
+                  </div>
+                </div>
+              </section>
+            </div>
+            <div
+              className="panel-slide panel-slide-briefing"
+              ref={(el) => {
+                panelRefs.current[1] = el;
+              }}
+            >
+              <section className="morning-open">
+                <div className="morning-panel intel-card card--briefing">
+                  <div className="morning-panel-header">
+                    <h2 className="intelligence-title briefing-title-glitch">{briefingData?.title || "TODAY'S SOLANA BRIEFING"}</h2>
+                  </div>
+                  <div className="briefing-subhead-row">
+                    <span className="briefing-subhead-line" />
+                    <span className="briefing-subhead-text">{briefingData?.subtitle || "Top links from trusted desks"}</span>
+                    <span className="briefing-subhead-line" />
+                  </div>
+                  <div className="briefing-card-stack">
+                    {(() => {
+                      const items = briefingData?.items || [];
+                      const slots = [
+                        { label: "NEED TO KNOW", icon: "⚡", tone: "briefing-item-need", item: items[0] },
+                        { label: "GOOD TO KNOW", icon: "↗", tone: "briefing-item-good", item: items[1] },
+                        { label: "KEEP AN EYE ON", icon: "◉", tone: "briefing-item-keep", item: items[2] },
+                      ];
+                      return slots.map((slot, idx) => (
+                        <div key={idx} className={`briefing-item ${slot.tone}`}>
+                          <div className="briefing-item-head">
+                            <span className="briefing-item-icon">{slot.icon}</span>
+                            <span className="briefing-item-label">{slot.label}</span>
+                          </div>
+                          {slot.item?.url ? (
+                            <a
+                              href={slot.item.url}
+                              target="_blank"
+                              rel="noreferrer"
+                              className="briefing-story-link"
+                            >
+                              {slot.item.title} <span className="briefing-story-arrow">↗</span>
+                            </a>
+                          ) : (
+                            <p className="briefing-card-copy">
+                              {slot.item?.title || "Refreshing high-signal picks…"}
+                            </p>
+                          )}
+                          {slot.item?.source ? (
+                            <div className="briefing-story-meta">
+                              {slot.item.source}
+                              {slot.item.date ? ` • ${formatShortDate(slot.item.date)}` : ""}
+                            </div>
+                          ) : null}
+                          {slot.item?.whyYouShouldCare ? (
+                            <p className="briefing-story-why">{slot.item.whyYouShouldCare}</p>
+                          ) : null}
+                        </div>
+                      ));
+                    })()}
+                    {(!briefingData?.items || briefingData.items.length === 0) && (
+                      <div className="text-white/40 text-sm italic p-4 text-center">Briefing generating...</div>
+                    )}
+                  </div>
+                </div>
+              </section>
+            </div>
+
+            <div
+              className="panel-slide panel-slide-scroll"
+              ref={(el) => {
+                panelRefs.current[2] = el;
+              }}
+            >
+              <SeekerGuard>
+                <section className="stories stories-seeker-fullscreen" id="top-story-feed">
+                  {(() => {
+                    const stories = (newsCardsData?.items || []).slice(0, 3);
+                    const globalMetrics = (newsCardsData as any)?.global_metrics || null;
+                    const lead = stories[0];
+                    const moreStories = stories.slice(1, 3);
+                    const globalTweets = Number(
+                      globalMetrics?.total_tweets ??
+                      stories.reduce((sum, item) => {
+                        const tweets = item?.metrics?.tweets ?? item?.stats?.total_tweets ?? 0;
+                        return sum + Number(tweets);
+                      }, 0)
+                    );
+                    const globalEng = Number(
+                      globalMetrics?.total_engagement ??
+                      stories.reduce((sum, item) => {
+                        const engagement = item?.metrics?.engagement ?? item?.stats?.total_engagement ?? 0;
+                        return sum + Number(engagement);
+                      }, 0)
+                    );
+                    const globalTop = Number(
+                      globalMetrics?.top_tweet ??
+                      Math.max(
+                        0,
+                        ...stories.map((item) => Number(item?.metrics?.topTweet ?? item?.stats?.top_engagement ?? 0))
+                      )
+                    );
+                    const globalVoices = Number(
+                      globalMetrics?.unique_voices ??
+                      stories.reduce((sum, item) => {
+                        const voices = item?.metrics?.voices ?? item?.stats?.unique_users ?? 0;
+                        return sum + Number(voices);
+                      }, 0)
+                    );
+
+                    if (!lead) {
+                      return (
+                        <div className="news-empty">
+                          Run node scripts/runDaily.mjs to generate today’s stories.
+                        </div>
+                      );
+                    }
+
+                    const leadCategory = String(lead?.category || "Daily Intel");
+                    const leadIsCritical = /security|risk|breach|exploit|hack/i.test(leadCategory);
+                    const leadIsAi = /ai|agent/i.test(leadCategory);
+                    const leadIsGaming = /gaming|game/i.test(leadCategory);
+                    return (
+                      <div className="seeker-mag-shell">
+
+                        <div className="seeker-mag-stats">
+                          <div className="seeker-mag-stat">
+                            <i><MessageCircle size={16} strokeWidth={1.8} /></i>
+                            <strong>{globalTweets || 0}</strong>
+                            <span>Tweets Analyzed</span>
+                          </div>
+                          <div className="seeker-mag-stat">
+                            <i className="is-green"><TrendingUp size={16} strokeWidth={1.8} /></i>
+                            <strong className="is-green">{formatCompactNumber(globalEng)}</strong>
+                            <span>Total Engagement</span>
+                          </div>
+                          <div className="seeker-mag-stat">
+                            <i><Users size={16} strokeWidth={1.8} /></i>
+                            <strong>{globalVoices || 0}</strong>
+                            <span>Unique Voices</span>
+                          </div>
+                          <div className="seeker-mag-stat">
+                            <i className="is-purple"><Activity size={16} strokeWidth={1.8} /></i>
+                            <strong className="is-purple">{formatCompactNumber(globalTop)}</strong>
+                            <span>Top Tweet</span>
+                          </div>
+                        </div>
+
+                        <div className="seeker-mag-divider" />
+
+                        <div className="seeker-mag-kicker-row">
+                          <span className={`seeker-mag-kicker ${leadIsCritical ? "critical" : leadIsAi ? "ai" : leadIsGaming ? "gaming" : ""}`}>
+                            {String(lead.category || "Seeker Story").toUpperCase()}
+                          </span>
+                        </div>
+                        <h2 className="seeker-mag-title">{lead.title}</h2>
+
+                        <div className="seeker-mag-meta">
+                          <span>By AI Gossip News Desk</span>
+                        </div>
+
+                        <p className="seeker-mag-preview">
+                          {compactSentence(
+                            lead.content?.signal || lead.summary || lead.hook || lead.narrative || lead.title,
+                            260,
+                          )}
+                        </p>
+
+                        <div className="seeker-mag-cta-row">
+                          <a
+                            href="/seeker?story=0"
+                            className={`seeker-mag-cta ${leadIsCritical ? "critical" : "primary"}`}
+                          >
+                            Read Full Story
+                          </a>
+                        </div>
+
+                        {moreStories.length > 0 ? (
+                          <div className="seeker-mag-more">
+                            <h3>Featured Stories</h3>
+                            <div className="seeker-mag-grid">
+                              {moreStories.map((story, idx) => (
+                                <a
+                                  key={`${story.title}-${idx}`}
+                                  href={`/seeker?story=${idx + 1}`}
+                                  className="seeker-mag-card"
+                                >
+                                  <div className={`seeker-mag-thumb ${idx % 2 === 0 ? "live" : "alpha"}`}>
+                                    {idx % 2 === 0 ? <Rocket size={38} /> : <Brain size={38} />}
+                                  </div>
+                                  <div className="seeker-mag-card-row">
+                                    <span className={`seeker-mag-card-tag ${idx % 2 === 0 ? "live" : "alpha"}`}>
+                                      {idx % 2 === 0 ? "LIVE" : "ALPHA"}
+                                    </span>
+                                    <span className="seeker-mag-card-time">
+                                      {formatShortDate(story.timestamp || story.publishedAt || null)}
+                                    </span>
+                                  </div>
+                                  <div className="seeker-mag-card-title">{story.title}</div>
+                                  <div className="seeker-mag-card-sub">
+                                    {compactSentence(story.summary || story.hook || story.narrative || story.title, 85)}
+                                  </div>
+                                  <div className="seeker-mag-card-meta">
+                                    {story?.metrics?.tweets ?? story?.stats?.total_tweets ?? 0} •{" "}
+                                    {formatCompactNumber(story?.metrics?.engagement ?? story?.stats?.total_engagement ?? 0)}
+                                  </div>
+                                </a>
+                              ))}
+                            </div>
+                          </div>
+                        ) : null}
+
+                      </div>
+                    );
+                  })()}
+                </section>
+              </SeekerGuard>
+            </div>
+          </div >
+        </div >
+
+      </main >
+    </>
   );
 }
