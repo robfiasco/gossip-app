@@ -17,17 +17,16 @@ import "@solana/wallet-adapter-react-ui/styles.css";
 // Bypass Chrome's asynchronous intent blockage by proxying the JS string through Capacitor's native layer
 if (typeof window !== "undefined") {
     (window as any).__openSolanaIntentUrl = (url: URL) => {
-        window.alert(`Attempting to open Intent URL: ${url.toString()}`);
+        console.log(`Attempting to open Intent URL: ${url.toString()}`);
         if (Capacitor.isNativePlatform()) {
-            window.alert(`Native Platform Detected. Triggering NativeIntent bridge...`);
+            console.log(`Native Platform Detected. Triggering NativeIntent bridge...`);
             NativeIntent.openUrl({ url: url.toString() }).then(() => {
-                window.alert(`NativeIntent successfully fired!`);
+                console.log(`NativeIntent successfully fired!`);
             }).catch((err: any) => {
-                window.alert(`NativeIntent failed: ${String(err)}`);
-                console.error(err);
+                console.error(`NativeIntent failed:`, err);
             });
         } else {
-            window.alert(`Web environment detected. Assigning location...`);
+            console.log(`Web environment detected. Assigning location...`);
             window.location.assign(url);
         }
     };
