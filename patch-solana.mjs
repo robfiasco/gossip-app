@@ -59,6 +59,8 @@ files.forEach(f => {
         let oldS = s;
         s = s.replace(/this\._readyState\s*=\s*(?:typeof window === 'undefined' \|\| !window\.isSecureContext \|\| typeof document === 'undefined' \|\| !\/android\/i\.test\(navigator\.userAgent\)|typeof window === 'undefined' \|\| typeof document === 'undefined' \|\| !\/android\/i\.test\(navigator\.userAgent\))\s*\?\s*[^:]+\.WalletReadyState\.Unsupported\s*:\s*[^;]+\.WalletReadyState\.Loadable;/g, 'this._readyState = 1; /* Forced Loadable by patch-solana.mjs */');
         s = s.replace(/\w+\.set\(this,"u"===typeof window&&true&&"u"===typeof document&&\/android\/i\.test\(navigator\.userAgent\)\?\w+\.Loadable:\w+\.Unsupported\)/g, 'this._readyState = 1; /* Forced Loadable for minified */');
+        s = s.replace(/_BaseSolanaMobileWalletAdapter_readyState\.set\(this,\s*getIsSupported\(\)\s*\?\s*[^:]+\s*:\s*([^)]+)\);/g, '_BaseSolanaMobileWalletAdapter_readyState.set(this, $1); /* Forced Loadable by patch-solana.mjs */');
+
         if (s !== oldS) {
             patched = true;
             console.log('Patched WalletReadyState in ' + f);
