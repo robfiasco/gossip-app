@@ -13,11 +13,11 @@ const config: CapacitorConfig = {
     // Point to the Vercel deployment so server-side API routes work
     server: {
         url: "https://validator-solana-intelligence.vercel.app",
-        cleartext: false,
+        cleartext: true,
     },
     webDir: "out", // Required by Capacitor even when using remote URL
     android: {
-        allowMixedContent: false,
+        allowMixedContent: true,
     },
 };
 

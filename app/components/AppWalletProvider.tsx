@@ -58,8 +58,7 @@ export default function AppWalletProvider({ children }) {
                         authorizationResultCache: createDefaultAuthorizationResultCache(),
                         cluster: WalletAdapterNetwork.Mainnet,
                         onWalletNotFound: createDefaultWalletNotFoundHandler(),
-                    }),
-                    ...baseWallets
+                    })
                 ]);
             } else {
                 // We are in the web browser preview
