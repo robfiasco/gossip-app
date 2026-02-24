@@ -775,7 +775,7 @@ export default function Home() {
                 const leadIsCritical = /security|risk|breach|exploit|hack/i.test(leadCategory);
                 const leadIsAi = /ai|agent/i.test(leadCategory);
                 const leadIsGaming = /gaming|game/i.test(leadCategory);
-                const peekData = { lead, tweets: globalTweets, eng: globalEng, voices: globalVoices, topTweet: globalTop };
+                const peekData = { lead, tweets: globalTweets, eng: globalEng, voices: globalVoices, topTweet: globalTop, stories };
                 return (
                   <SeekerGuard peekData={peekData}>
                     <section className="stories stories-seeker-fullscreen" id="top-story-feed">
