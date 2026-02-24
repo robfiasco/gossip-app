@@ -1,65 +1,149 @@
 {
   "meta": {
-    "generatedAt": "2026-02-21T14:22:18.502Z",
-    "totalCandidates": 98,
-    "solanaCandidates": 21,
+    "generatedAt": "2026-02-24T14:41:57.317Z",
+    "totalCandidates": 90,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 281,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/policy/2026/02/19/latest-white-house-talks-on-stablecoin-yield-make-progress-with-banks-no-deal-yet",
-      "title": "Latest White House talks on stablecoin yield make 'progress' with banks, no deal yet",
-      "url": "https://www.coindesk.com/policy/2026/02/19/latest-white-house-talks-on-stablecoin-yield-make-progress-with-banks-no-deal-yet",
-      "source": "CoinDesk",
-      "publishedAt": "2026-02-19T19:00:35.000Z",
-      "summary": "In the latest of a series of meetings hosted at the White House, bankers and crypto policy experts met to break down the wall halting the market structure bill.",
+      "id": "https://decrypt.co/358970/solana-defi-project-step-finance-to-wind-down-weeks-after-29m-hack",
+      "title": "Solana DeFi Project Step Finance to Wind Down Weeks After $29M Hack",
+      "url": "https://decrypt.co/358970/solana-defi-project-step-finance-to-wind-down-weeks-after-29m-hack",
+      "source": "Decrypt",
+      "publishedAt": "2026-02-24T14:01:51.000Z",
+      "summary": "The Solana projects made the \"difficult decision\" to cease operations after January's treasury breach and subsequent failed rescue efforts.",
       "tags": [
-        "latest",
-        "white",
-        "house"
+        "solana",
+        "defi",
+        "project"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 2,
-      "xMentions": 2,
+      "mentionCount": 3,
+      "xMentions": 3,
       "who": [
         {
-          "handle": "@fabianosolana",
-          "summary": "If you don’t take this yield, you hate money... - No leverage - No liquidation risk - No IL Simply stablecoin LP, bac...",
-          "tweetUrl": "https://twitter.com/fabianosolana/status/2024851455325127059",
+          "handle": "@matty_solana",
+          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
+          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
           "matchReason": "keyword_match"
         },
         {
-          "handle": "@armaniferrante",
-          "summary": "Because @Backpack continuously realizes PnL in real time, we get this feature for free. When physical USD is exchange...",
-          "tweetUrl": "https://twitter.com/armaniferrante/status/2025212025580978213",
+          "handle": "@inno_ox",
+          "summary": "Started with <$1,000 in Q4 2021, right in the NFT euphoria, haven’t missed a single day since. 🔒 Lived through @sola...",
+          "tweetUrl": "https://twitter.com/inno_ox/status/2021974168560885979",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@gumsays",
+          "summary": "THIS IS HUGE More people should be talking about this! @kamino is bringing INSTITUTIONAL collateral management to @so...",
+          "tweetUrl": "https://twitter.com/gumsays/status/2022347519934464398",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@fabianosolana",
-          "summary": "If you don’t take this yield, you hate money... - No leverage - No liquidation risk - No IL Simply stablecoin LP, bac...",
-          "tweetUrl": "https://twitter.com/fabianosolana/status/2024851455325127059",
+          "handle": "@matty_solana",
+          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
+          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
           "matchReason": "keyword_match"
         },
         {
-          "handle": "@armaniferrante",
-          "summary": "Because @Backpack continuously realizes PnL in real time, we get this feature for free. When physical USD is exchange...",
-          "tweetUrl": "https://twitter.com/armaniferrante/status/2025212025580978213",
+          "handle": "@inno_ox",
+          "summary": "Started with <$1,000 in Q4 2021, right in the NFT euphoria, haven’t missed a single day since. 🔒 Lived through @sola...",
+          "tweetUrl": "https://twitter.com/inno_ox/status/2021974168560885979",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@gumsays",
+          "summary": "THIS IS HUGE More people should be talking about this! @kamino is bringing INSTITUTIONAL collateral management to @so...",
+          "tweetUrl": "https://twitter.com/gumsays/status/2022347519934464398",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@fabianosolana",
-          "linkToTweet": "https://twitter.com/fabianosolana/status/2024851455325127059"
+          "handle": "@matty_solana",
+          "linkToTweet": "https://twitter.com/matty_solana/status/2020903942092206499"
         },
         {
-          "handle": "@armaniferrante",
-          "linkToTweet": "https://twitter.com/armaniferrante/status/2025212025580978213"
+          "handle": "@inno_ox",
+          "linkToTweet": "https://twitter.com/inno_ox/status/2021974168560885979"
+        },
+        {
+          "handle": "@gumsays",
+          "linkToTweet": "https://twitter.com/gumsays/status/2022347519934464398"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 38,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2ba0fc8b23148984a82db870d47a95a109e41c3b",
+      "score": 59
+    },
+    {
+      "id": "https://cryptopotato.com/santiment-solana-growth-signals-hope-despite-woes",
+      "title": "Santiment: Solana Growth Signals Hope Despite Woes",
+      "url": "https://cryptopotato.com/santiment-solana-growth-signals-hope-despite-woes",
+      "source": "CryptoPotato",
+      "publishedAt": "2026-02-21T20:19:52.000Z",
+      "summary": "Data from Santiment shows new wallet creation rising even as prices slump, hinting network curiosity hasn’t faded with sentiment yet.",
+      "tags": [
+        "santiment",
+        "solana",
+        "growth"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 2,
+      "xMentions": 2,
+      "who": [
+        {
+          "handle": "@ivan_nomadz",
+          "summary": "Long story short on how I fully immersed in the @solana ecosystem ~ 2020: My Solana journey started when I participat...",
+          "tweetUrl": "https://twitter.com/ivan_nomadz/status/1861468515024122079",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@gumsays",
+          "summary": "Interesting: $1.9B minted on Solana $1.9B minted on Ethereum Just in the last 7 days As many stablecoins were minted ...",
+          "tweetUrl": "https://twitter.com/gumsays/status/2021660734091145395",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@ivan_nomadz",
+          "summary": "Long story short on how I fully immersed in the @solana ecosystem ~ 2020: My Solana journey started when I participat...",
+          "tweetUrl": "https://twitter.com/ivan_nomadz/status/1861468515024122079",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@gumsays",
+          "summary": "Interesting: $1.9B minted on Solana $1.9B minted on Ethereum Just in the last 7 days As many stablecoins were minted ...",
+          "tweetUrl": "https://twitter.com/gumsays/status/2021660734091145395",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@ivan_nomadz",
+          "linkToTweet": "https://twitter.com/ivan_nomadz/status/1861468515024122079"
+        },
+        {
+          "handle": "@gumsays",
+          "linkToTweet": "https://twitter.com/gumsays/status/2021660734091145395"
         }
       ],
       "matchReason": "keyword_match",
@@ -68,181 +152,77 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 22,
-        "recencyScore": 7,
-        "sourceScore": 4,
+        "recencyScore": 5,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "657cabaaf574a918a49014f9fcb8d2949c5f0012",
-      "score": 38
+      "dedupeFingerprint": "b3330ae112169721ba9a856447d72955d47ddd1e",
+      "score": 32
     },
     {
-      "id": "https://www.coindesk.com/business/2026/02/20/rwa-issuers-prioritize-capital-formation-over-liquidity-according-to-brickken-survey",
-      "title": "RWA issuers prioritize capital formation over liquidity, according to Brickken survey",
-      "url": "https://www.coindesk.com/business/2026/02/20/rwa-issuers-prioritize-capital-formation-over-liquidity-according-to-brickken-survey",
-      "source": "CoinDesk",
-      "publishedAt": "2026-02-20T15:55:33.000Z",
-      "summary": "Exclusive fourth quarter data shows 69.2% of issuers are live, while 84.6% report regulatory friction shaping tokenization rollout.",
+      "id": "https://cointelegraph.com/news/step-finance-solanafloor-remora-markets-wind-down-operations",
+      "title": "3 Solana platforms to shutter following devastating $40M hack",
+      "url": "https://cointelegraph.com/news/step-finance-solanafloor-remora-markets-wind-down-operations",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-02-24T02:51:01.000Z",
+      "summary": "Solana DeFi aggregator Step Finance says it was “unable to secure a viable outcome” after a $40 million treasury wallet breach in January.",
       "tags": [
-        "issuers",
-        "prioritize",
-        "capital"
+        "solana",
+        "platforms",
+        "shutter"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "consumer",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
       "mentionCount": 1,
       "xMentions": 1,
       "who": [
         {
-          "handle": "@matty_solana",
-          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
-          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
+          "handle": "@inno_ox",
+          "summary": "What happened this week on Solana? 📰 > Solana RWA TVL reached a new all-time high of $1.66B+, with 285K unique holde...",
+          "tweetUrl": "https://twitter.com/inno_ox/status/2023408023222546527",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@matty_solana",
-          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
-          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
+          "handle": "@inno_ox",
+          "summary": "What happened this week on Solana? 📰 > Solana RWA TVL reached a new all-time high of $1.66B+, with 285K unique holde...",
+          "tweetUrl": "https://twitter.com/inno_ox/status/2023408023222546527",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@matty_solana",
-          "linkToTweet": "https://twitter.com/matty_solana/status/2020903942092206499"
+          "handle": "@inno_ox",
+          "linkToTweet": "https://twitter.com/inno_ox/status/2023408023222546527"
         }
       ],
       "matchReason": "keyword_match",
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 8,
         "mentionScore": 10,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "317081e2b127c580f5e6ff6cacd83fd6eab4d7e1",
+      "dedupeFingerprint": "ecc46d7ce501ce6854651b64da0bbd83c08a2b42",
       "score": 28
     },
     {
-      "id": "https://ambcrypto.com/polygon-holds-key-support-after-100m-pol-burn-can-it-reach-0-12",
-      "title": "Polygon holds KEY support after 100M POL burn: What’s next?",
-      "url": "https://ambcrypto.com/polygon-holds-key-support-after-100m-pol-burn-can-it-reach-0-12",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-02-21T11:00:39.000Z",
-      "summary": "Polygon reaches a major deflationary milestone burning 100 million POL tokens",
-      "tags": [
-        "polygon",
-        "holds",
-        "support"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 1,
-      "xMentions": 1,
-      "who": [
-        {
-          "handle": "@matty_solana",
-          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
-          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "xWho": [
-        {
-          "handle": "@matty_solana",
-          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
-          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "mentionedBy": [
-        {
-          "handle": "@matty_solana",
-          "linkToTweet": "https://twitter.com/matty_solana/status/2020903942092206499"
-        }
-      ],
-      "matchReason": "keyword_match",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 10,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "10777dbe0895fa19a135bc2105d4db6c0a9b0b84",
-      "score": 26
-    },
-    {
-      "id": "https://cryptoslate.com/stablecoins-are-cryptos-m2-and-a-1-percent-slip-can-tighten-bitcoin-liquidity",
-      "title": "Crypto has a native version of the M2 money supply that’s falling and killing Bitcoin liquidity",
-      "url": "https://cryptoslate.com/stablecoins-are-cryptos-m2-and-a-1-percent-slip-can-tighten-bitcoin-liquidity",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-02-21T09:00:24.000Z",
-      "summary": "Stablecoin supply is crypto’s deployable cash. With a total stablecoin market cap of around $307.92 billion and down -1.13% in the past 30 days, the pool has stopped growing month over month. When supply stalls, price moves get sharper, and Bitcoin feels it first in thin depth and bigger wicks. Stab",
-      "tags": [
-        "crypto",
-        "native",
-        "version"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 1,
-      "xMentions": 1,
-      "who": [
-        {
-          "handle": "@matty_solana",
-          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
-          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "xWho": [
-        {
-          "handle": "@matty_solana",
-          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
-          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "mentionedBy": [
-        {
-          "handle": "@matty_solana",
-          "linkToTweet": "https://twitter.com/matty_solana/status/2020903942092206499"
-        }
-      ],
-      "matchReason": "keyword_match",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 2,
-        "mentionScore": 10,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "dfcb1ffb2fae9664b67ede636d0d67fa5096bbcf",
-      "score": 24
-    },
-    {
-      "id": "https://www.theblock.co/post/390572/more-come-crypto-leaders-say-third-white-house-stablecoin-meeting",
-      "title": "‘More to come,’ crypto leaders say after third White House stablecoin meeting",
-      "url": "https://www.theblock.co/post/390572/more-come-crypto-leaders-say-third-white-house-stablecoin-meeting",
+      "id": "https://www.theblock.co/post/390993/ethereum-foundation-begins-staking-part-of-ether-treasury-plans-to-deploy-about-70000-eth-to-generate-yield",
+      "title": "Ethereum Foundation begins staking part of ether treasury, plans to deploy about 70,000 ETH to generate yield",
+      "url": "https://www.theblock.co/post/390993/ethereum-foundation-begins-staking-part-of-ether-treasury-plans-to-deploy-about-70000-eth-to-generate-yield",
       "source": "The Block",
-      "publishedAt": "2026-02-19T19:44:25.000Z",
-      "summary": "\"More to come,\" was the main message coming out of the third meeting between crypto and banking groups at the White House.",
+      "publishedAt": "2026-02-24T12:38:11.000Z",
+      "summary": "The Ethereum Foundation has begun staking a portion of its ether treasury, targeting about 70,000 ETH to generate rewards for operations.",
       "tags": [
-        "more",
-        "come",
-        "crypto"
+        "ethereum",
+        "foundation",
+        "begins"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
@@ -274,15 +254,67 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 2,
         "mentionScore": 10,
-        "recencyScore": 7,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "72091d9c0c97554588fde1b77999cfac74aea18c",
+      "dedupeFingerprint": "fda3b80bba3a3d445f31713d8ca1bf207e0feefe",
       "score": 26
+    },
+    {
+      "id": "https://cointelegraph.com/news/ethereum-foundation-starts-staking-eth",
+      "title": "Ethereum Foundation starts staking ETH as client diversity concerns persist",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-starts-staking-eth",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-02-24T14:22:45.000Z",
+      "summary": "Ethereum Foundation’s move to stake its own ETH, using minority clients and distributed infrastructure, throws fresh focus on how Ethereum’s staking landscape is evolving.",
+      "tags": [
+        "ethereum",
+        "foundation",
+        "starts"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 1,
+      "xMentions": 1,
+      "who": [
+        {
+          "handle": "@jussy_world",
+          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@jussy_world",
+          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
+          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@jussy_world",
+          "linkToTweet": "https://twitter.com/jussy_world/status/2024530687894986933"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 2,
+        "mentionScore": 10,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "97cdbe28ba4d8a49c9ab766aafae35449799f6e3",
+      "score": 22
     }
   ]
 }

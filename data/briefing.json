@@ -1,16 +1,34 @@
 {
-  "date": "2026-02-21",
+  "date": "2026-02-24",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "RISK",
+      "title": "Solana DeFi Project Step Finance to Wind Down Weeks After $29M Hack",
+      "category": "RISK",
+      "source": "Decrypt",
+      "date": "2026-02-24",
+      "url": "https://decrypt.co/358970/solana-defi-project-step-finance-to-wind-down-weeks-after-29m-hack",
+      "whyYouShouldCare": "Risk events change positioning quickly, so this is more about downside control than hype."
+    },
+    {
+      "type": "RISK",
+      "title": "3 Solana platforms to shutter following devastating $40M hack",
+      "category": "RISK",
+      "source": "Cointelegraph",
+      "date": "2026-02-24",
+      "url": "https://cointelegraph.com/news/step-finance-solanafloor-remora-markets-wind-down-operations",
+      "whyYouShouldCare": "Risk events change positioning quickly, so this is more about downside control than hype."
+    },
+    {
       "type": "APPS",
-      "title": "Solana stabilizes after $10.26M SOL whale buy: Will recovery follow?",
+      "title": "Polymarket bettors put $3 million on which crypto firm ZachXBT will expose next",
       "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-02-21",
-      "url": "https://ambcrypto.com/solana-stabilizes-after-10-26m-sol-whale-buy-will-recovery-follow",
-      "whyYouShouldCare": "A significant whale purchase could indicate renewed interest in Solana, potentially influencing market recovery and liquidity dynamics."
+      "source": "CoinDesk",
+      "date": "2026-02-24",
+      "url": "https://www.coindesk.com/markets/2026/02/24/polymarket-bettors-put-usd3-million-on-which-crypto-firm-zachxbt-will-expose-next",
+      "whyYouShouldCare": "Worth a read from CoinDesk: it adds context around \"Polymarket bettors put $3 million on which crypto firm ZachXBT will exp…\" for the next few sessions."
     }
   ]
 }
