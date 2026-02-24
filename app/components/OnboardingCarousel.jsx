@@ -98,7 +98,7 @@ export default function OnboardingCarousel() {
                 {/* Cat image area */}
                 <div style={{
                     height: "240px",
-                    background: "linear-gradient(to bottom, #f5f2eb, #ede9df)",
+                    background: "transparent",
                     display: "flex", alignItems: "center", justifyContent: "center",
                     position: "relative",
                     borderBottom: "1px solid rgba(80, 95, 130, 0.15)",
