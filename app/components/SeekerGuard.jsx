@@ -6,7 +6,12 @@ import { useWalletModal } from "@solana/wallet-adapter-react-ui";
 import { PublicKey } from "@solana/web3.js";
 import { Activity, MessageCircle, TrendingUp, Users } from "lucide-react";
 
-const SEEKER_MINT_ADDRESS = "7xNEYsjb1GHCGeRqgM32i2d7DjiNb731JuwmAR84d9ma"; // Seeker Genesis Token
+// Seeker Genesis Token — each holder has a UNIQUE mint address.
+// We verify by checking if any of the wallet's Token-2022 NFTs belongs to this group.
+const SEEKER_GROUP = "GT22s89nU4iWFkNXj1Bw6uYhJJWDRPpShHt4Bk8f99Te";
+const TOKEN_2022_PROGRAM = "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb";
+const TOKEN_2022_ALT = "TokenzQdBNbequW8uyM9nj2HPEC4bsrghF8RTuPMJM"; // common alias
+const TOKEN_CLASSIC = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA";
 
 const fmt = (n) => {
   const num = Number(n) || 0;
@@ -206,25 +211,63 @@ export default function SeekerGuard({ children, peekData = null }) {
       if (!publicKey || !connected) { setHasSeeker(false); return; }
       setChecking(true);
       try {
-        // Check both classic Token program AND Token-2022 in parallel
-        const TOKEN_PROGRAM = "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA";
-        const TOKEN_2022 = "TokenzQdBNbequW8uyM9nj2HPEC4bsrghF8RTuPMJM";
-        const findInProgram = async (progId) => {
-          try {
-            const res = await connection.getParsedTokenAccountsByOwner(publicKey, {
-              programId: new PublicKey(progId),
-            });
-            return res.value.find((acct) => {
-              const info = acct.account.data.parsed.info;
-              return info.mint === SEEKER_MINT_ADDRESS && Number(info.tokenAmount.uiAmount) > 0;
-            });
-          } catch { return null; }
-        };
-        const [found1, found2] = await Promise.all([
-          findInProgram(TOKEN_PROGRAM),
-          findInProgram(TOKEN_2022),
-        ]);
-        setHasSeeker(!!(found1 || found2));
+        // Each Seeker Genesis holder has their own UNIQUE mint (Token-2022 NFT).
+        // Verify by: get wallet's Token-2022 accounts → filter NFTs (amount=1,decimals=0)
+        // → batch-fetch each mint's on-chain info → check tokenGroupMember.group === SEEKER_GROUP
+        const rpcUrl = connection.rpcEndpoint;
+
+        const accountsRes = await fetch(rpcUrl, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            jsonrpc: "2.0", id: 1,
+            method: "getTokenAccountsByOwner",
+            params: [
+              publicKey.toBase58(),
+              { programId: TOKEN_2022_PROGRAM },
+              { encoding: "jsonParsed" },
+            ],
+          }),
+        });
+        const accountsData = await accountsRes.json();
+        const accounts = accountsData?.result?.value || [];
+
+        // Filter to NFT-like accounts (amount=1, decimals=0)
+        const nftAccounts = accounts.filter((a) => {
+          const info = a.account?.data?.parsed?.info;
+          return (
+            Number(info?.tokenAmount?.uiAmount) === 1 &&
+            Number(info?.tokenAmount?.decimals) === 0
+          );
+        });
+
+        if (nftAccounts.length === 0) { setHasSeeker(false); return; }
+
+        // Batch-fetch mint accounts and check group membership
+        const mintAddresses = nftAccounts.map((a) => a.account.data.parsed.info.mint);
+        const mintInfoRes = await fetch(rpcUrl, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(
+            mintAddresses.map((mint, i) => ({
+              jsonrpc: "2.0", id: i + 10,
+              method: "getAccountInfo",
+              params: [mint, { encoding: "jsonParsed" }],
+            }))
+          ),
+        });
+        const mintInfos = await mintInfoRes.json();
+        const responses = Array.isArray(mintInfos) ? mintInfos : [mintInfos];
+
+        const found = responses.some((resp) => {
+          const extensions = resp?.result?.value?.data?.parsed?.info?.extensions;
+          if (!Array.isArray(extensions)) return false;
+          const groupExt = extensions.find((e) => e.extension === "tokenGroupMember");
+          return groupExt?.state?.group === SEEKER_GROUP;
+        });
+
+        setHasSeeker(found);
+
       } catch (err) {
         console.error("Error checking Seeker ownership:", err);
         setHasSeeker(false);
