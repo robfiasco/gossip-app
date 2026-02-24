@@ -814,69 +814,90 @@ export default function Home() {
                               </div>
                             </div>
 
+                            {/* ── Connected: all 3 stories as linked cards ── */}
+                            <div className="seeker-mag-stats">
+                              <div className="seeker-mag-stat">
+                                <i><MessageCircle size={16} strokeWidth={1.8} /></i>
+                                <strong>{globalTweets || 0}</strong>
+                                <span>Tweets Analyzed</span>
+                              </div>
+                              <div className="seeker-mag-stat">
+                                <i className="is-green"><TrendingUp size={16} strokeWidth={1.8} /></i>
+                                <strong className="is-green">{formatCompactNumber(globalEng)}</strong>
+                                <span>Total Engagement</span>
+                              </div>
+                              <div className="seeker-mag-stat">
+                                <i><Users size={16} strokeWidth={1.8} /></i>
+                                <strong>{globalVoices || 0}</strong>
+                                <span>Unique Voices</span>
+                              </div>
+                              <div className="seeker-mag-stat">
+                                <i className="is-purple"><Activity size={16} strokeWidth={1.8} /></i>
+                                <strong className="is-purple">{formatCompactNumber(globalTop)}</strong>
+                                <span>Top Tweet</span>
+                              </div>
+                            </div>
+
                             <div className="seeker-mag-divider" />
 
-                            <div className="seeker-mag-kicker-row">
-                              <span className={`seeker-mag-kicker ${leadIsCritical ? "critical" : leadIsAi ? "ai" : leadIsGaming ? "gaming" : ""}`}>
-                                {String(lead.category || "Seeker Story").toUpperCase()}
-                              </span>
+                            <div style={{ padding: "0 18px 18px", display: "grid", gap: "12px" }}>
+                              {stories.map((story, idx) => {
+                                const cat = String(story?.category || "Intel").toUpperCase();
+                                const isCrit = /security|risk|breach|exploit|hack/i.test(cat);
+                                const isAi = /ai|agent/i.test(cat);
+                                const isGaming = /gaming|game/i.test(cat);
+                                const kickerCls = isCrit ? "critical" : isAi ? "ai" : isGaming ? "gaming" : "";
+                                const tweets = story?.metrics?.tweets ?? story?.stats?.total_tweets ?? 0;
+                                const eng = story?.metrics?.engagement ?? story?.stats?.total_engagement ?? 0;
+                                const preview = compactSentence(
+                                  story?.content?.signal || story?.summary || story?.hook || story?.narrative || story?.title || "",
+                                  160,
+                                );
+                                return (
+                                  <a
+                                    key={`story-card-${idx}`}
+                                    href={`/seeker?story=${idx}`}
+                                    style={{
+                                      display: "block",
+                                      textDecoration: "none",
+                                      background: "rgba(12, 15, 24, 0.72)",
+                                      border: "1px solid rgba(72, 84, 112, 0.32)",
+                                      borderRadius: "14px",
+                                      padding: "16px",
+                                    }}
+                                  >
+                                    <div style={{ display: "flex", alignItems: "center", gap: "8px", marginBottom: "8px" }}>
+                                      <span className={`seeker-mag-kicker ${kickerCls}`} style={{ fontSize: "0.6rem", padding: "0" }}>
+                                        {cat}
+                                      </span>
+                                      {idx === 0 && (
+                                        <span style={{
+                                          fontSize: "0.58rem", fontFamily: "JetBrains Mono, monospace",
+                                          letterSpacing: "0.1em", background: "rgba(20,241,149,0.12)",
+                                          color: "#14f195", border: "1px solid rgba(20,241,149,0.3)",
+                                          borderRadius: "999px", padding: "2px 8px", textTransform: "uppercase",
+                                        }}>Top Story</span>
+                                      )}
+                                    </div>
+                                    <div style={{ fontSize: "1rem", fontWeight: 700, color: "#f3f6ff", lineHeight: 1.25, marginBottom: "6px" }}>
+                                      {story?.title || "Untitled"}
+                                    </div>
+                                    <div style={{ fontSize: "0.86rem", color: "rgba(180,188,220,0.72)", lineHeight: 1.5, marginBottom: "10px" }}>
+                                      {preview}
+                                    </div>
+                                    <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
+                                      <span style={{ fontSize: "0.64rem", fontFamily: "JetBrains Mono, monospace", color: "rgba(150,160,190,0.6)", letterSpacing: "0.08em" }}>
+                                        {Number(tweets)} tweets · {formatCompactNumber(Number(eng))} eng
+                                      </span>
+                                      <span style={{ fontSize: "0.68rem", fontWeight: 700, color: "#14f195", letterSpacing: "0.06em", textTransform: "uppercase" }}>
+                                        Read Full Story →
+                                      </span>
+                                    </div>
+                                  </a>
+                                );
+                              })}
                             </div>
-                            <h2 className="seeker-mag-title">{lead.title}</h2>
 
-                            <div className="seeker-mag-meta">
-                              <span>By AI Gossip News Desk</span>
-                            </div>
-
-                            <p className="seeker-mag-preview">
-                              {compactSentence(
-                                lead.content?.signal || lead.summary || lead.hook || lead.narrative || lead.title,
-                                260,
-                              )}
-                            </p>
-
-                            <div className="seeker-mag-cta-row">
-                              <a
-                                href="/seeker?story=0"
-                                className={`seeker-mag-cta ${leadIsCritical ? "critical" : "primary"}`}
-                              >
-                                Read Full Story
-                              </a>
-                            </div>
-
-                            {moreStories.length > 0 ? (
-                              <div className="seeker-mag-more">
-                                <h3>Featured Stories</h3>
-                                <div className="seeker-mag-grid">
-                                  {moreStories.map((story, idx) => (
-                                    <a
-                                      key={`${story.title}-${idx}`}
-                                      href={`/seeker?story=${idx + 1}`}
-                                      className="seeker-mag-card"
-                                    >
-                                      <div className={`seeker-mag-thumb ${idx % 2 === 0 ? "live" : "alpha"}`}>
-                                        {idx % 2 === 0 ? <Rocket size={38} /> : <Brain size={38} />}
-                                      </div>
-                                      <div className="seeker-mag-card-row">
-                                        <span className={`seeker-mag-card-tag ${idx % 2 === 0 ? "live" : "alpha"}`}>
-                                          {idx % 2 === 0 ? "LIVE" : "ALPHA"}
-                                        </span>
-                                        <span className="seeker-mag-card-time">
-                                          {formatShortDate(story.timestamp || story.publishedAt || null)}
-                                        </span>
-                                      </div>
-                                      <div className="seeker-mag-card-title">{story.title}</div>
-                                      <div className="seeker-mag-card-sub">
-                                        {compactSentence(story.summary || story.hook || story.narrative || story.title, 85)}
-                                      </div>
-                                      <div className="seeker-mag-card-meta">
-                                        {story?.metrics?.tweets ?? story?.stats?.total_tweets ?? 0} •{" "}
-                                        {formatCompactNumber(story?.metrics?.engagement ?? story?.stats?.total_engagement ?? 0)}
-                                      </div>
-                                    </a>
-                                  ))}
-                                </div>
-                              </div>
-                            ) : null}
 
                           </div>
                         );

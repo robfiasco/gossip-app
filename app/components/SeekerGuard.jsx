@@ -38,11 +38,11 @@ function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisc
       {/* ── Readable content peek — fades out mid-paragraph ─── */}
       <div
         style={{
-          WebkitMaskImage: "linear-gradient(to bottom, black 0%, black 62%, transparent 85%)",
-          maskImage: "linear-gradient(to bottom, black 0%, black 62%, transparent 85%)",
+          WebkitMaskImage: "linear-gradient(to bottom, black 0%, black 55%, transparent 82%)",
+          maskImage: "linear-gradient(to bottom, black 0%, black 55%, transparent 82%)",
           pointerEvents: "none",
           userSelect: "none",
-          paddingBottom: "120px", /* extra space so the fade has room */
+          paddingBottom: "120px",
         }}
       >
         <div className="seeker-peek-shell">
@@ -92,6 +92,25 @@ function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisc
 
         </div>
       </div>
+
+      {/* ── Progressive blur overlay — sits on top of the lower peek zone ── */}
+      <div
+        aria-hidden="true"
+        style={{
+          position: "absolute",
+          bottom: "120px", /* align with where the paywall panel starts */
+          left: 0,
+          right: 0,
+          height: "160px",
+          backdropFilter: "blur(6px)",
+          WebkitBackdropFilter: "blur(6px)",
+          WebkitMaskImage: "linear-gradient(to bottom, transparent 0%, black 70%)",
+          maskImage: "linear-gradient(to bottom, transparent 0%, black 70%)",
+          pointerEvents: "none",
+          zIndex: 4,
+        }}
+      />
+
 
       {/* ── Solid paywall panel ────────────────────────────── */}
       <div className="gossip-paywall-panel">
