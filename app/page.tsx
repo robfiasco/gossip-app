@@ -15,6 +15,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { Activity, Brain, MessageCircle, Rocket, TrendingUp, Users } from "lucide-react";
 import SeekerGuard from "./components/SeekerGuard";
 import GossipLoadingScreen from "./components/GossipLoadingScreen";
+import OnboardingCarousel from "./components/OnboardingCarousel";
 import type { TerminalData } from "../lib/data/types";
 import type {
   BriefingPayload,
@@ -911,6 +912,7 @@ export default function Home() {
         </div >
 
       </main >
+      <OnboardingCarousel />
     </>
   );
 }
