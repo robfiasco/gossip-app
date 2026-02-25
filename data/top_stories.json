@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-02-24T14:50:31.293Z",
-    "totalCandidates": 90,
-    "solanaCandidates": 22,
-    "selected": 4,
-    "tweetPool": 281,
+    "generatedAt": "2026-02-25T07:51:24.067Z",
+    "totalCandidates": 93,
+    "solanaCandidates": 28,
+    "selected": 5,
+    "tweetPool": 392,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/stablecoin-reserves-slip-to-2024-levels-what-it-means-for-you",
-      "title": "Stablecoin reserves slip to 2024 levels: What it means for you",
-      "url": "https://ambcrypto.com/stablecoin-reserves-slip-to-2024-levels-what-it-means-for-you",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-02-24T12:00:04.000Z",
-      "summary": "Stablecoin exchange reserves drop to 2024 levels amid reduced global liquidity.",
+      "id": "https://decrypt.co/359090/coinbase-ceo-uk-stablecoin-caps-token-profits-surge",
+      "title": "Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge",
+      "url": "https://decrypt.co/359090/coinbase-ceo-uk-stablecoin-caps-token-profits-surge",
+      "source": "Decrypt",
+      "publishedAt": "2026-02-25T05:20:30.000Z",
+      "summary": "The proposal would cap stablecoin holdings and curb yields, a move critics say could push liquidity overseas as stablecoins become a core revenue stream.",
       "tags": [
-        "stablecoin",
-        "reserves",
-        "slip"
+        "coinbase",
+        "pushes",
+        "back"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
@@ -27,91 +27,231 @@
       "who": [
         {
           "handle": "@fabianosolana",
-          "summary": "The higher your leverage, the higher your risk But even with full leverage, you still have a 15% health buffer, which...",
-          "tweetUrl": "https://twitter.com/fabianosolana/status/2024492558441693645",
+          "summary": "RT @FabianoSolana: If you don’t take this yield, you hate money... - No leverage - No liquidation risk - No IL Simply...",
+          "tweetUrl": "https://twitter.com/fabianosolana/status/2024979011990942070",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
           "handle": "@fabianosolana",
-          "summary": "The higher your leverage, the higher your risk But even with full leverage, you still have a 15% health buffer, which...",
-          "tweetUrl": "https://twitter.com/fabianosolana/status/2024492558441693645",
+          "summary": "RT @FabianoSolana: If you don’t take this yield, you hate money... - No leverage - No liquidation risk - No IL Simply...",
+          "tweetUrl": "https://twitter.com/fabianosolana/status/2024979011990942070",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
           "handle": "@fabianosolana",
-          "linkToTweet": "https://twitter.com/fabianosolana/status/2024492558441693645"
+          "linkToTweet": "https://twitter.com/fabianosolana/status/2024979011990942070"
         }
       ],
       "matchReason": "keyword_match",
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 17,
+        "mentionScore": 10,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "1e9fa3e9f9dcc65120743831493e7594cf5c7641",
+      "score": 40
+    },
+    {
+      "id": "https://www.theblock.co/post/391172/hong-kong-first-stablecoin-license",
+      "title": "Hong Kong to issue first stablecoin issuer licenses next month: finance chief",
+      "url": "https://www.theblock.co/post/391172/hong-kong-first-stablecoin-license",
+      "source": "The Block",
+      "publishedAt": "2026-02-25T07:16:00.000Z",
+      "summary": "Financial Secretary Paul Chan said the first licenses for fiat-referenced stablecoin issuers are expected to be approved in March.",
+      "tags": [
+        "hong",
+        "kong",
+        "issue"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 1,
+      "xMentions": 1,
+      "who": [
+        {
+          "handle": "@marygooneratne",
+          "summary": "RWA looping but make it U.K. government bonds. stablecoins have been so USD-dominated that people forget there's $30T...",
+          "tweetUrl": "https://twitter.com/marygooneratne/status/2021977201202115002",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@marygooneratne",
+          "summary": "RWA looping but make it U.K. government bonds. stablecoins have been so USD-dominated that people forget there's $30T...",
+          "tweetUrl": "https://twitter.com/marygooneratne/status/2021977201202115002",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@marygooneratne",
+          "linkToTweet": "https://twitter.com/marygooneratne/status/2021977201202115002"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 10,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "cac4e1e280e71b6abd802d0a216983a487042c68",
+      "score": 32
+    },
+    {
+      "id": "https://ambcrypto.com/humanity-protocol-falls-19-before-14m-unlock-is-supply-shock-next",
+      "title": "Humanity Protocol falls 19% before $14M unlock: Is supply shock next?",
+      "url": "https://ambcrypto.com/humanity-protocol-falls-19-before-14m-unlock-is-supply-shock-next",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-02-25T04:00:35.000Z",
+      "summary": "Expounding on how weak network activity and upcoming token unlock impacted H's price decline.",
+      "tags": [
+        "humanity",
+        "protocol",
+        "falls"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 1,
+      "xMentions": 1,
+      "who": [
+        {
+          "handle": "@armaniferrante",
+          "summary": "I didn't come into crypto 9 years ago to launch a shit coin. I didn't come into crypto to get rich quick. I came into...",
+          "tweetUrl": "https://twitter.com/armaniferrante/status/2025890431897129426",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@armaniferrante",
+          "summary": "I didn't come into crypto 9 years ago to launch a shit coin. I didn't come into crypto to get rich quick. I came into...",
+          "tweetUrl": "https://twitter.com/armaniferrante/status/2025890431897129426",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@armaniferrante",
+          "linkToTweet": "https://twitter.com/armaniferrante/status/2025890431897129426"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
         "mentionScore": 10,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a1261b8b893c948266df2097882a95f10695e9cd",
-      "score": 32
+      "dedupeFingerprint": "e1b1f9def994a6824ceda03c99319e4689cac53e",
+      "score": 29
     },
     {
-      "id": "https://cryptopotato.com/santiment-solana-growth-signals-hope-despite-woes",
-      "title": "Santiment: Solana Growth Signals Hope Despite Woes",
-      "url": "https://cryptopotato.com/santiment-solana-growth-signals-hope-despite-woes",
-      "source": "CryptoPotato",
-      "publishedAt": "2026-02-21T20:19:52.000Z",
-      "summary": "Data from Santiment shows new wallet creation rising even as prices slump, hinting network curiosity hasn’t faded with sentiment yet.",
+      "id": "https://ambcrypto.com/seeker-is-up-40-in-24-hours-will-profit-taking-trap-skr-bulls",
+      "title": "Seeker is up 40% in 24 hours: Will profit-taking trap SKR bulls?",
+      "url": "https://ambcrypto.com/seeker-is-up-40-in-24-hours-will-profit-taking-trap-skr-bulls",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-02-24T22:00:14.000Z",
+      "summary": "Seeker rallies despite the general crypto market weakness.",
       "tags": [
-        "santiment",
-        "solana",
-        "growth"
+        "seeker",
+        "hours",
+        "will"
       ],
       "topicBucket": "consumer",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 2,
-      "xMentions": 2,
+      "mentionCount": 1,
+      "xMentions": 1,
       "who": [
         {
-          "handle": "@ivan_nomadz",
-          "summary": "Long story short on how I fully immersed in the @solana ecosystem ~ 2020: My Solana journey started when I participat...",
-          "tweetUrl": "https://twitter.com/ivan_nomadz/status/1861468515024122079",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@gumsays",
-          "summary": "Interesting: $1.9B minted on Solana $1.9B minted on Ethereum Just in the last 7 days As many stablecoins were minted ...",
-          "tweetUrl": "https://twitter.com/gumsays/status/2021660734091145395",
+          "handle": "@solanagaming",
+          "summary": "RT @solanamobile: Only 48 hours remain to get a Seeker for 50% off when you pay with SKR 👀 If you've been on the fen...",
+          "tweetUrl": "https://twitter.com/solanagaming/status/2024213440802201642",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@ivan_nomadz",
-          "summary": "Long story short on how I fully immersed in the @solana ecosystem ~ 2020: My Solana journey started when I participat...",
-          "tweetUrl": "https://twitter.com/ivan_nomadz/status/1861468515024122079",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@gumsays",
-          "summary": "Interesting: $1.9B minted on Solana $1.9B minted on Ethereum Just in the last 7 days As many stablecoins were minted ...",
-          "tweetUrl": "https://twitter.com/gumsays/status/2021660734091145395",
+          "handle": "@solanagaming",
+          "summary": "RT @solanamobile: Only 48 hours remain to get a Seeker for 50% off when you pay with SKR 👀 If you've been on the fen...",
+          "tweetUrl": "https://twitter.com/solanagaming/status/2024213440802201642",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@ivan_nomadz",
-          "linkToTweet": "https://twitter.com/ivan_nomadz/status/1861468515024122079"
-        },
+          "handle": "@solanagaming",
+          "linkToTweet": "https://twitter.com/solanagaming/status/2024213440802201642"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 10,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e19b835f353c1ad537e110b6d4f01aafde0f0512",
+      "score": 29
+    },
+    {
+      "id": "https://cointelegraph.com/news/polymarket-bets-zachxbt-insider-trading",
+      "title": "Polymarket users favor Meteora in bets over ZachXBT crypto takedown",
+      "url": "https://cointelegraph.com/news/polymarket-bets-zachxbt-insider-trading",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-02-24T20:14:17.000Z",
+      "summary": "Users placed more than $7 million betting on the outcome of the crypto sleuth's investigation, expected to be announced on Thursday.",
+      "tags": [
+        "polymarket",
+        "users",
+        "favor"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 1,
+      "xMentions": 1,
+      "who": [
         {
-          "handle": "@gumsays",
-          "linkToTweet": "https://twitter.com/gumsays/status/2021660734091145395"
+          "handle": "@sebmontgomery",
+          "summary": "who will @zachxbt reveal as the inside trader 1. meteora, top 3 of my fav protocols, had some high profile launches i...",
+          "tweetUrl": "https://twitter.com/sebmontgomery/status/2026226034941521995",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@sebmontgomery",
+          "summary": "who will @zachxbt reveal as the inside trader 1. meteora, top 3 of my fav protocols, had some high profile launches i...",
+          "tweetUrl": "https://twitter.com/sebmontgomery/status/2026226034941521995",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@sebmontgomery",
+          "linkToTweet": "https://twitter.com/sebmontgomery/status/2026226034941521995"
         }
       ],
       "matchReason": "keyword_match",
@@ -119,118 +259,14 @@
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
         "relevanceScore": 5,
-        "mentionScore": 22,
-        "recencyScore": 5,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "b3330ae112169721ba9a856447d72955d47ddd1e",
-      "score": 32
-    },
-    {
-      "id": "https://www.theblock.co/post/390993/ethereum-foundation-begins-staking-part-of-ether-treasury-plans-to-deploy-about-70000-eth-to-generate-yield",
-      "title": "Ethereum Foundation begins staking part of ether treasury, plans to deploy about 70,000 ETH to generate yield",
-      "url": "https://www.theblock.co/post/390993/ethereum-foundation-begins-staking-part-of-ether-treasury-plans-to-deploy-about-70000-eth-to-generate-yield",
-      "source": "The Block",
-      "publishedAt": "2026-02-24T12:38:11.000Z",
-      "summary": "The Ethereum Foundation has begun staking a portion of its ether treasury, targeting about 70,000 ETH to generate rewards for operations.",
-      "tags": [
-        "ethereum",
-        "foundation",
-        "begins"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 1,
-      "xMentions": 1,
-      "who": [
-        {
-          "handle": "@jussy_world",
-          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "xWho": [
-        {
-          "handle": "@jussy_world",
-          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "mentionedBy": [
-        {
-          "handle": "@jussy_world",
-          "linkToTweet": "https://twitter.com/jussy_world/status/2024530687894986933"
-        }
-      ],
-      "matchReason": "keyword_match",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 2,
-        "mentionScore": 10,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "fda3b80bba3a3d445f31713d8ca1bf207e0feefe",
-      "score": 26
-    },
-    {
-      "id": "https://cointelegraph.com/news/ethereum-foundation-starts-staking-eth",
-      "title": "Ethereum Foundation starts staking ETH as client diversity concerns persist",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-starts-staking-eth",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-02-24T14:22:45.000Z",
-      "summary": "Ethereum Foundation’s move to stake its own ETH, using minority clients and distributed infrastructure, throws fresh focus on how Ethereum’s staking landscape is evolving.",
-      "tags": [
-        "ethereum",
-        "foundation",
-        "starts"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 1,
-      "xMentions": 1,
-      "who": [
-        {
-          "handle": "@jussy_world",
-          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "xWho": [
-        {
-          "handle": "@jussy_world",
-          "summary": "Solana TVL leaders have changed a lot @kamino is still holding 2nd place and could overtake Jupiter soon Why? Institu...",
-          "tweetUrl": "https://twitter.com/jussy_world/status/2024530687894986933",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "mentionedBy": [
-        {
-          "handle": "@jussy_world",
-          "linkToTweet": "https://twitter.com/jussy_world/status/2024530687894986933"
-        }
-      ],
-      "matchReason": "keyword_match",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 2,
         "mentionScore": 10,
         "recencyScore": 10,
         "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "97cdbe28ba4d8a49c9ab766aafae35449799f6e3",
-      "score": 22
+      "dedupeFingerprint": "c4f6859a13ac2442bc83f48eb07638088d18b550",
+      "score": 25
     }
   ]
 }

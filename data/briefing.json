@@ -1,34 +1,34 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
       "type": "APPS",
-      "title": "ETH, SOL, XRP extend losses as AI scare trade unsettles risk markets",
+      "title": "Bitwise acquires Chorus One, potentially paving way for more staked ETFs",
       "category": "APPS",
-      "source": "CoinDesk",
+      "source": "Cointelegraph",
+      "date": "2026-02-25",
+      "url": "https://cointelegraph.com/news/bitwise-acquires-crypto-staking-provider-chorus-one",
+      "whyYouShouldCare": "Bitwise's acquisition of Chorus One signals potential growth in staked ETFs, which could enhance institutional interest in Solana's staking ecosystem."
+    },
+    {
+      "type": "MARKET",
+      "title": "State of Marinade Q4 2025: Institutions Select Marinade",
+      "category": "MARKET",
+      "source": "Messari",
       "date": "2026-02-24",
-      "url": "https://www.coindesk.com/markets/2026/02/24/eth-sol-xrp-extend-losses-as-ai-scare-trade-unsettles-risk-markets",
-      "whyYouShouldCare": "The ongoing losses in major cryptocurrencies reflect a broader risk-off sentiment, which could hinder Solana's liquidity and market positioning."
+      "url": "https://messari.io/article/state-of-marinade-q4-2025-institutions-select-marinade",
+      "whyYouShouldCare": "Marinade's Q4 report highlights institutional adoption, indicating a growing preference for Solana-based staking solutions that could boost liquidity and network usage."
     },
     {
       "type": "APPS",
-      "title": "Backpack pledges 20% equity to token stakers amid IPO plans",
+      "title": "Polymarket users favor Meteora in bets over ZachXBT crypto takedown",
       "category": "APPS",
       "source": "Cointelegraph",
       "date": "2026-02-24",
-      "url": "https://cointelegraph.com/news/backpack-20-percent-equity-token-stakers-ipo",
-      "whyYouShouldCare": "Backpack's equity offering to token stakers signals a shift towards incentivizing community participation, potentially enhancing Solana's ecosystem engagement."
-    },
-    {
-      "type": "APPS",
-      "title": "Crypto Exchange Backpack Plans to Offer Company Equity to Token Stakers",
-      "category": "APPS",
-      "source": "Decrypt",
-      "date": "2026-02-23",
-      "url": "https://decrypt.co/358909/crypto-exchange-backpack-offer-equity-token-stakers",
-      "whyYouShouldCare": "Offering equity to token stakers could attract more investment into the Solana ecosystem, fostering growth and stability amid current market volatility."
+      "url": "https://cointelegraph.com/news/polymarket-bets-zachxbt-insider-trading",
+      "whyYouShouldCare": "Polymarket's user bets on Meteora reflect shifting sentiment in the crypto landscape, which could influence trading dynamics and liquidity flows within Solana."
     }
   ]
 }
