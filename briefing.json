@@ -1,8 +1,26 @@
 {
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "SEC approval sought for JitoSOL Solana-based liquid staking token ETF",
+      "category": "APPS",
+      "source": "Cointelegraph",
+      "date": "2026-02-26",
+      "url": "https://cointelegraph.com/news/liquid-staking-token-etf-enters-formal-sec-review-with-nasdaq-19b-4-filing",
+      "whyYouShouldCare": "The SEC's move to approve a liquid staking token ETF could enhance institutional interest and liquidity in the Solana ecosystem."
+    },
+    {
+      "type": "APPS",
+      "title": "A former Solana exec is taking a page out of Wall Street playbook to make global crypto trades faster",
+      "category": "APPS",
+      "source": "CoinDesk",
+      "date": "2026-02-26",
+      "url": "https://www.coindesk.com/tech/2026/02/25/a-former-solana-exec-is-taking-a-page-out-of-wall-street-playbook-to-make-global-crypto-trades-faster",
+      "whyYouShouldCare": "A former Solana executive's initiative to expedite global crypto trades may boost transaction efficiency and attract more users to the network."
+    },
     {
       "type": "MARKET",
       "title": "Webinar Recap: Payments on Solana - A Production-Ready Ecosystem",
@@ -10,25 +28,7 @@
       "source": "Solana News",
       "date": "2026-02-26",
       "url": "https://solana.com/news/payments-on-solana-production-ready-ecosystem-webinar",
-      "whyYouShouldCare": "The recent webinar highlights the growing maturity of Solana's payment ecosystem, indicating potential for increased adoption and transaction volume."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana leads crypto recovery with 10% gain: Is $100 SOL price next?",
-      "category": "APPS",
-      "source": "Cointelegraph",
-      "date": "2026-02-25",
-      "url": "https://cointelegraph.com/news/solana-leads-crypto-recovery-10-percent-100-dollars-sol-price-next",
-      "whyYouShouldCare": "Solana's recent price surge signals renewed investor confidence, which could attract more liquidity and trading activity in the ecosystem."
-    },
-    {
-      "type": "MARKET",
-      "title": "State of Marinade Q4 2025: Institutions Select Marinade",
-      "category": "MARKET",
-      "source": "Messari",
-      "date": "2026-02-24",
-      "url": "https://messari.io/article/state-of-marinade-q4-2025-institutions-select-marinade",
-      "whyYouShouldCare": "Institutional interest in Marinade suggests a strengthening of Solana's staking infrastructure, potentially enhancing overall network security and user engagement."
+      "whyYouShouldCare": "The recent webinar on payments highlights Solana's readiness for real-world applications, potentially increasing its adoption in the payments sector."
     }
   ]
 }

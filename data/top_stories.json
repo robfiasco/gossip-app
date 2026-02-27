@@ -1,198 +1,36 @@
 {
   "meta": {
-    "generatedAt": "2026-02-26T07:51:46.331Z",
-    "totalCandidates": 98,
-    "solanaCandidates": 32,
+    "generatedAt": "2026-02-27T07:44:45.729Z",
+    "totalCandidates": 101,
+    "solanaCandidates": 20,
     "selected": 5,
     "tweetPool": 293,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cointelegraph.com/news/solana-leads-crypto-recovery-10-percent-100-dollars-sol-price-next",
-      "title": "Solana leads crypto recovery with 10% gain: Is $100 SOL price next?",
-      "url": "https://cointelegraph.com/news/solana-leads-crypto-recovery-10-percent-100-dollars-sol-price-next",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-02-25T16:08:24.000Z",
-      "summary": "Solana price eyes a potential rise toward the $110-$115 range, according to a confluence of bullish technical and onchain indicators.",
-      "tags": [
-        "solana",
-        "leads",
-        "crypto"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 3,
-      "xMentions": 3,
-      "who": [
-        {
-          "handle": "@ivan_nomadz",
-          "summary": "Long story short on how I fully immersed in the @solana ecosystem ~ 2020: My Solana journey started when I participat...",
-          "tweetUrl": "https://twitter.com/ivan_nomadz/status/1861468515024122079",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@triton_one",
-          "summary": "We know writing a Solana TPU client from scratch is really hard. Handling Agave releases, QUIC quirks, and leader sch...",
-          "tweetUrl": "https://twitter.com/triton_one/status/2001896431104463073",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@matty_solana",
-          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
-          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "xWho": [
-        {
-          "handle": "@ivan_nomadz",
-          "summary": "Long story short on how I fully immersed in the @solana ecosystem ~ 2020: My Solana journey started when I participat...",
-          "tweetUrl": "https://twitter.com/ivan_nomadz/status/1861468515024122079",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@triton_one",
-          "summary": "We know writing a Solana TPU client from scratch is really hard. Handling Agave releases, QUIC quirks, and leader sch...",
-          "tweetUrl": "https://twitter.com/triton_one/status/2001896431104463073",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@matty_solana",
-          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
-          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "mentionedBy": [
-        {
-          "handle": "@ivan_nomadz",
-          "linkToTweet": "https://twitter.com/ivan_nomadz/status/1861468515024122079"
-        },
-        {
-          "handle": "@triton_one",
-          "linkToTweet": "https://twitter.com/triton_one/status/2001896431104463073"
-        },
-        {
-          "handle": "@matty_solana",
-          "linkToTweet": "https://twitter.com/matty_solana/status/2020903942092206499"
-        }
-      ],
-      "matchReason": "keyword_match",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 46,
-        "recencyScore": 9,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "671745c860052a293f696d6a245508ee7dea2bab",
-      "score": 68
-    },
-    {
-      "id": "https://solana.com/news/payments-on-solana-production-ready-ecosystem-webinar",
-      "title": "Webinar Recap: Payments on Solana - A Production-Ready Ecosystem",
-      "url": "https://solana.com/news/payments-on-solana-production-ready-ecosystem-webinar",
-      "source": "Solana News",
-      "publishedAt": "2026-02-26T00:00:00.000Z",
-      "summary": "Recap of the \"Payments on Solana\" webinar featuring Sheraz Shere and Ilan Gitter, covering why Visa, PayPal, and Worldpay are building on Solana across treasury management, remittances, neobanking, payouts, and merchant settlement.",
-      "tags": [
-        "webinar",
-        "recap",
-        "payments"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 3,
-      "xMentions": 3,
-      "who": [
-        {
-          "handle": "@ivan_nomadz",
-          "summary": "Long story short on how I fully immersed in the @solana ecosystem ~ 2020: My Solana journey started when I participat...",
-          "tweetUrl": "https://twitter.com/ivan_nomadz/status/1861468515024122079",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@matty_solana",
-          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
-          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@solana_daily",
-          "summary": "🚨 @dflow launches DFlow MCP, a universal trading tool for AI agents on Solana. The new MCP enables OpenClaw, Claude,...",
-          "tweetUrl": "https://twitter.com/solana_daily/status/2025510889752023472",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "xWho": [
-        {
-          "handle": "@ivan_nomadz",
-          "summary": "Long story short on how I fully immersed in the @solana ecosystem ~ 2020: My Solana journey started when I participat...",
-          "tweetUrl": "https://twitter.com/ivan_nomadz/status/1861468515024122079",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@matty_solana",
-          "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
-          "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@solana_daily",
-          "summary": "🚨 @dflow launches DFlow MCP, a universal trading tool for AI agents on Solana. The new MCP enables OpenClaw, Claude,...",
-          "tweetUrl": "https://twitter.com/solana_daily/status/2025510889752023472",
-          "matchReason": "keyword_match"
-        }
-      ],
-      "mentionedBy": [
-        {
-          "handle": "@ivan_nomadz",
-          "linkToTweet": "https://twitter.com/ivan_nomadz/status/1861468515024122079"
-        },
-        {
-          "handle": "@matty_solana",
-          "linkToTweet": "https://twitter.com/matty_solana/status/2020903942092206499"
-        },
-        {
-          "handle": "@solana_daily",
-          "linkToTweet": "https://twitter.com/solana_daily/status/2025510889752023472"
-        }
-      ],
-      "matchReason": "keyword_match",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 14,
-        "mentionScore": 34,
-        "recencyScore": 10,
-        "sourceScore": 5,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "851173755cceb1a01326a5e6ae6eae8cd5542c09",
-      "score": 63
-    },
-    {
-      "id": "https://ambcrypto.com/liquidity-floods-solana-as-sol-reclaims-ema-ribbon-to-hit-85-details",
-      "title": "Liquidity floods Solana as SOL reclaims EMA Ribbon to hit $85 – Details",
-      "url": "https://ambcrypto.com/liquidity-floods-solana-as-sol-reclaims-ema-ribbon-to-hit-85-details",
+      "id": "https://ambcrypto.com/decoding-nears-11-25m-liquidity-sweep-is-1-35-the-next-target",
+      "title": "Decoding NEAR’s $11.25M liquidity sweep: Is $1.35 the next target?",
+      "url": "https://ambcrypto.com/decoding-nears-11-25m-liquidity-sweep-is-1-35-the-next-target",
       "source": "AMB Crypto",
-      "publishedAt": "2026-02-26T07:00:27.000Z",
-      "summary": "SOL's last 24 hours have been very important.",
+      "publishedAt": "2026-02-27T03:30:15.000Z",
+      "summary": "NEAR dominates social media amid NEARCON event and upcoming Nvidia report for Q4 2025.",
       "tags": [
-        "liquidity",
-        "floods",
-        "solana"
+        "decoding",
+        "near",
+        "liquidity"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 1,
-      "xMentions": 1,
+      "mentionCount": 2,
+      "xMentions": 2,
       "who": [
+        {
+          "handle": "@ivan_nomadz",
+          "summary": "Long story short on how I fully immersed in the @solana ecosystem ~ 2020: My Solana journey started when I participat...",
+          "tweetUrl": "https://twitter.com/ivan_nomadz/status/1861468515024122079",
+          "matchReason": "keyword_match"
+        },
         {
           "handle": "@matty_solana",
           "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
@@ -202,6 +40,12 @@
       ],
       "xWho": [
         {
+          "handle": "@ivan_nomadz",
+          "summary": "Long story short on how I fully immersed in the @solana ecosystem ~ 2020: My Solana journey started when I participat...",
+          "tweetUrl": "https://twitter.com/ivan_nomadz/status/1861468515024122079",
+          "matchReason": "keyword_match"
+        },
+        {
           "handle": "@matty_solana",
           "summary": "New Chapter for WIDI begins now. Rebranding ahead & sunsetting $WIDI TL;DR $WIDI will no longer be the core token acr...",
           "tweetUrl": "https://twitter.com/matty_solana/status/2020903942092206499",
@@ -209,6 +53,10 @@
         }
       ],
       "mentionedBy": [
+        {
+          "handle": "@ivan_nomadz",
+          "linkToTweet": "https://twitter.com/ivan_nomadz/status/1861468515024122079"
+        },
         {
           "handle": "@matty_solana",
           "linkToTweet": "https://twitter.com/matty_solana/status/2020903942092206499"
@@ -218,15 +66,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 18,
-        "mentionScore": 10,
+        "relevanceScore": 5,
+        "mentionScore": 20,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "f3c3299190170933c288329505d2bacbc7e066fb",
-      "score": 39
+      "dedupeFingerprint": "1648dd2b6de35b261fac7cb93486ddfb2d37fa3d",
+      "score": 36
     },
     {
       "id": "https://decrypt.co/359188/occ-framework-regulated-stablecoins-genius-act",
@@ -272,97 +120,112 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 10,
-        "recencyScore": 10,
+        "recencyScore": 8,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "c7207dc7467a13dd5a1480041771b60ff3c2ff27",
-      "score": 34
+      "score": 32
     },
     {
-      "id": "https://decrypt.co/359129/bitcoin-ethereum-solana-shorts-get-rekt-btc-price-rebounds-69k",
-      "title": "Bitcoin, Ethereum and Solana Shorts Get Rekt as BTC Price Rebounds Near $69K",
-      "url": "https://decrypt.co/359129/bitcoin-ethereum-solana-shorts-get-rekt-btc-price-rebounds-69k",
-      "source": "Decrypt",
-      "publishedAt": "2026-02-25T18:14:17.000Z",
-      "summary": "More than $400 million worth of short positions have been liquidated in the last day as Bitcoin nears $69K and Ethereum and Solana surge.",
+      "id": "https://cointelegraph.com/news/liquid-staking-token-etf-enters-formal-sec-review-with-nasdaq-19b-4-filing",
+      "title": "SEC approval sought for JitoSOL Solana-based liquid staking token ETF",
+      "url": "https://cointelegraph.com/news/liquid-staking-token-etf-enters-formal-sec-review-with-nasdaq-19b-4-filing",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-02-26T21:02:25.000Z",
+      "summary": "The proposal would allow a US exchange to trade shares of a fund holding JitoSOL, representing the first SEC exchange filing for a liquid staking token ETP.",
       "tags": [
-        "bitcoin",
-        "ethereum",
-        "solana"
+        "approval",
+        "sought",
+        "jitosol"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 3,
-      "xMentions": 3,
-      "who": [
-        {
-          "handle": "@solanasensei",
-          "summary": "More capital keeps flowing into solana with over $5M bridged in this past week. More of ethereum was channeled, funne...",
-          "tweetUrl": "https://twitter.com/solanasensei/status/2026228368602259919",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@solana_daily",
-          "summary": "⚡️Solana continues to lead all L1 & L2 chains in 7-day DApp revenue Top 10 Chains by App Revenue in the Last 7 Days :...",
-          "tweetUrl": "https://twitter.com/solana_daily/status/2026297820085690731",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@aaalexhl",
-          "summary": "I pivoted to AI as soon as Jason posted this Missed the entire Bitcoin, Solana, Hyperliquid bullrun, and spent $200k ...",
-          "tweetUrl": "https://twitter.com/aaalexhl/status/2026620244928688318",
-          "matchReason": "keyword_match"
-        }
+      "topicBucket": "market",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "d0b300068a76a0401afe15d1d5642e93e812ed1a",
+      "score": 26
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/02/26/world-liberty-financial-ties-voting-power-to-staking-as-usd1-supply-tops-usd4-7-billion",
+      "title": "World Liberty Financial ties voting power to staking as USD1 supply tops $4.7 Billion",
+      "url": "https://www.coindesk.com/markets/2026/02/26/world-liberty-financial-ties-voting-power-to-staking-as-usd1-supply-tops-usd4-7-billion",
+      "source": "CoinDesk",
+      "publishedAt": "2026-02-27T04:43:19.000Z",
+      "summary": "The proposal redirects stablecoin arbitrage from institutional market makers to large token holders and links voting rights to capital commitment.",
+      "tags": [
+        "world",
+        "liberty",
+        "financial"
       ],
-      "xWho": [
-        {
-          "handle": "@solanasensei",
-          "summary": "More capital keeps flowing into solana with over $5M bridged in this past week. More of ethereum was channeled, funne...",
-          "tweetUrl": "https://twitter.com/solanasensei/status/2026228368602259919",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@solana_daily",
-          "summary": "⚡️Solana continues to lead all L1 & L2 chains in 7-day DApp revenue Top 10 Chains by App Revenue in the Last 7 Days :...",
-          "tweetUrl": "https://twitter.com/solana_daily/status/2026297820085690731",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@aaalexhl",
-          "summary": "I pivoted to AI as soon as Jason posted this Missed the entire Bitcoin, Solana, Hyperliquid bullrun, and spent $200k ...",
-          "tweetUrl": "https://twitter.com/aaalexhl/status/2026620244928688318",
-          "matchReason": "keyword_match"
-        }
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "17f0e7bc3700b200adfb185e95cae82c725b9294",
+      "score": 25
+    },
+    {
+      "id": "https://messari.io/article/paradex-privacy-first-perp-dex-and-the-dime-tge",
+      "title": "Paradex: Privacy-First Perp DEX and the DIME TGE",
+      "url": "https://messari.io/article/paradex-privacy-first-perp-dex-and-the-dime-tge",
+      "source": "Messari",
+      "publishedAt": "2026-02-27T03:00:00.000Z",
+      "summary": "Paradex is a privacy-first, self-custodial perpetual futures exchange built on a high-performance Layer-2 appchain. The platform utilizes an offchain matching engine to deliver institutional-grade speed and liquidity while maintaining onchain transparency and security. Core features include a layere",
+      "tags": [
+        "paradex",
+        "privacy",
+        "first"
       ],
-      "mentionedBy": [
-        {
-          "handle": "@solanasensei",
-          "linkToTweet": "https://twitter.com/solanasensei/status/2026228368602259919"
-        },
-        {
-          "handle": "@solana_daily",
-          "linkToTweet": "https://twitter.com/solana_daily/status/2026297820085690731"
-        },
-        {
-          "handle": "@aaalexhl",
-          "linkToTweet": "https://twitter.com/aaalexhl/status/2026620244928688318"
-        }
-      ],
-      "matchReason": "keyword_match",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
         "relevanceScore": 8,
-        "mentionScore": 34,
-        "recencyScore": 9,
+        "mentionScore": 0,
+        "recencyScore": 10,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "07b4ae712d8521a3a8cc40c48f083b5fc9a1f576",
-      "score": 54
+      "dedupeFingerprint": "62968bece0be6365aa9cf0b98a00a3176b4bdfeb",
+      "score": 21
     }
   ]
 }
