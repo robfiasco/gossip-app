@@ -4,6 +4,7 @@ import React, { useEffect, useState } from "react";
 import { useConnection, useWallet } from "@solana/wallet-adapter-react";
 import { useWalletModal } from "@solana/wallet-adapter-react-ui";
 import { Activity, MessageCircle, TrendingUp, Users } from "lucide-react";
+import AnimatedEngagementChart from "./AnimatedEngagementChart";
 
 // Solana Mobile detection (Capacitor runtime, available on-device)
 let Capacitor = null;
@@ -150,6 +151,18 @@ function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisc
             <span>Top Tweet</span>
           </div>
         </div>
+
+        {stories.length > 0 && (
+          <div style={{ marginTop: "16px", marginBottom: "16px", padding: "0 4px" }}>
+            <AnimatedEngagementChart
+              title="TOP SIGNALS BY NETWORK ENGAGEMENT"
+              items={stories.map(s => ({
+                label: s?.title || "Unknown Signal",
+                value: Number(s?.metrics?.engagement ?? s?.stats?.total_engagement ?? 0)
+              })).sort((a, b) => b.value - a.value).slice(0, 5)}
+            />
+          </div>
+        )}
 
         <div className="seeker-mag-divider" />
 

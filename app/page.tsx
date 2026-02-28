@@ -846,29 +846,17 @@ export default function Home() {
                               </div>
                             </div>
 
-                            {/* ── Connected: all 3 stories as linked cards ── */}
-                            <div className="seeker-mag-stats">
-                              <div className="seeker-mag-stat">
-                                <i><MessageCircle size={16} strokeWidth={1.8} /></i>
-                                <strong>{globalTweets || 0}</strong>
-                                <span>Tweets Analyzed</span>
+                            {stories.length > 0 && (
+                              <div style={{ marginTop: "24px", marginBottom: "16px", padding: "0 4px" }}>
+                                <AnimatedEngagementChart
+                                  title="TOP SIGNALS BY NETWORK ENGAGEMENT"
+                                  items={stories.map(s => ({
+                                    label: s?.title || "Unknown Signal",
+                                    value: Number(s?.metrics?.engagement ?? s?.stats?.total_engagement ?? 0)
+                                  })).sort((a, b) => b.value - a.value).slice(0, 5)}
+                                />
                               </div>
-                              <div className="seeker-mag-stat">
-                                <i className="is-green"><TrendingUp size={16} strokeWidth={1.8} /></i>
-                                <strong className="is-green">{formatCompactNumber(globalEng)}</strong>
-                                <span>Total Engagement</span>
-                              </div>
-                              <div className="seeker-mag-stat">
-                                <i><Users size={16} strokeWidth={1.8} /></i>
-                                <strong>{globalVoices || 0}</strong>
-                                <span>Unique Voices</span>
-                              </div>
-                              <div className="seeker-mag-stat">
-                                <i className="is-purple"><Activity size={16} strokeWidth={1.8} /></i>
-                                <strong className="is-purple">{formatCompactNumber(globalTop)}</strong>
-                                <span>Top Tweet</span>
-                              </div>
-                            </div>
+                            )}
 
                             <div className="seeker-mag-divider" />
 
