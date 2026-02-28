@@ -119,57 +119,10 @@ function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisc
   return (
     <section className="morning-open">
       <div className="morning-panel intel-card card--briefing">
-        <div className="morning-panel-header">
-          <h2 className="intelligence-title briefing-title-glitch">SEEKER EXCLUSIVE INTEL</h2>
-        </div>
-        <div className="briefing-subhead-row">
-          <span className="briefing-subhead-line" />
-          <span className="briefing-subhead-text">Premium On-Chain Data Analysis</span>
-          <span className="briefing-subhead-line" />
-        </div>
-
-        {/* Global Stats Block */}
-        <div className="seeker-mag-stats" style={{ padding: "16px 18px 4px" }}>
-          <div className="seeker-mag-stat">
-            <i><MessageCircle size={16} strokeWidth={1.8} /></i>
-            <strong>{peekData?.tweets || "—"}</strong>
-            <span>Tweets Analyzed</span>
-          </div>
-          <div className="seeker-mag-stat">
-            <i className="is-green"><TrendingUp size={16} strokeWidth={1.8} /></i>
-            <strong className="is-green">{fmt(peekData?.eng)}</strong>
-            <span>Total Engagement</span>
-          </div>
-          <div className="seeker-mag-stat">
-            <i><Users size={16} strokeWidth={1.8} /></i>
-            <strong>{peekData?.voices || "—"}</strong>
-            <span>Unique Voices</span>
-          </div>
-          <div className="seeker-mag-stat">
-            <i className="is-purple"><Activity size={16} strokeWidth={1.8} /></i>
-            <strong className="is-purple">{fmt(peekData?.topTweet)}</strong>
-            <span>Top Tweet</span>
-          </div>
-        </div>
-
-        {/* Animated Chart Block */}
-        {stories.length > 0 && (
-          <div style={{ padding: "16px 18px 0" }}>
-            <AnimatedEngagementChart
-              title="TOP SIGNALS BY NETWORK ENGAGEMENT"
-              items={stories.map(s => ({
-                label: s?.title || "Unknown Signal",
-                value: Number(s?.metrics?.engagement ?? s?.stats?.total_engagement ?? 0)
-              })).sort((a, b) => b.value - a.value).slice(0, 5)}
-            />
-          </div>
-        )}
-
-        <div className="terminal-divider" aria-hidden="true" style={{ margin: "24px 0" }} />
 
         {/* Paywall CTA Block (Placed OVER the blurred stories) */}
         <div style={{
-          padding: "0 18px 24px",
+          padding: "24px 18px 24px",
           textAlign: "center"
         }}>
           <p className="gossip-paywall-overline" style={{ color: "#4cbb17" }}>SEEKER INTELLIGENCE</p>

@@ -825,30 +825,27 @@ export default function Home() {
 
                         return (
                           <div className="seeker-mag-shell">
-
-                            <div className="seeker-mag-stats">
-                              <div className="seeker-mag-stat">
-                                <i><MessageCircle size={16} strokeWidth={1.8} /></i>
-                                <strong>{globalTweets || 0}</strong>
-                                <span>Tweets Analyzed</span>
-                              </div>
-                              <div className="seeker-mag-stat">
-                                <i className="is-green"><TrendingUp size={16} strokeWidth={1.8} /></i>
-                                <strong className="is-green">{formatCompactNumber(globalEng)}</strong>
-                                <span>Total Engagement</span>
-                              </div>
-                              <div className="seeker-mag-stat">
-                                <i><Users size={16} strokeWidth={1.8} /></i>
-                                <strong>{globalVoices || 0}</strong>
-                                <span>Unique Voices</span>
-                              </div>
-                              <div className="seeker-mag-stat">
-                                <i className="is-purple"><Activity size={16} strokeWidth={1.8} /></i>
-                                <strong className="is-purple">{formatCompactNumber(globalTop)}</strong>
-                                <span>Top Tweet</span>
-                              </div>
+                            <div className="morning-panel-header">
+                              <h2 className="intelligence-title briefing-title-glitch">SEEKER EXCLUSIVE INTEL</h2>
+                            </div>
+                            <div className="briefing-subhead-row">
+                              <span className="briefing-subhead-line" />
+                              <span className="briefing-subhead-text">Premium On-Chain Data Analysis</span>
+                              <span className="briefing-subhead-line" />
                             </div>
 
+                            <div style={{ padding: "16px 18px 4px" }}>
+                              <AnimatedEngagementChart
+                                title="GLOBAL NETWORK METRICS"
+                                maxValue={100}
+                                items={[
+                                  { label: "Tweets Analyzed", value: Math.min(100, (globalTweets || 0) / 200 * 100), formattedValue: String(globalTweets || 0) },
+                                  { label: "Total Engagement", value: Math.min(100, (globalEng || 0) / 50000 * 100), formattedValue: formatCompactNumber(globalEng) },
+                                  { label: "Unique Voices", value: Math.min(100, (globalVoices || 0) / 100 * 100), formattedValue: String(globalVoices || 0) },
+                                  { label: "Top Tweet", value: Math.min(100, (globalTop || 0) / 5000 * 100), formattedValue: formatCompactNumber(globalTop) }
+                                ]}
+                              />
+                            </div>
                             {stories.length > 0 && (
                               <div style={{ marginTop: "24px", marginBottom: "16px", padding: "0 4px" }}>
                                 <AnimatedEngagementChart

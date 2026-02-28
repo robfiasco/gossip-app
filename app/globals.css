@@ -5977,8 +5977,8 @@ body {
 }
 
 .engagement-chart-label {
-  width: 90px;
-  min-width: 90px;
+  width: 130px;
+  min-width: 130px;
   text-align: right;
   font-size: 0.75rem;
   color: rgba(255, 255, 255, 0.8);
