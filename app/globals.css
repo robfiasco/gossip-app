@@ -415,7 +415,7 @@ body {
 
 .title {
   margin: 5px 0 6px;
-  font-size: 1.35rem;
+  font-size: 1.15rem;
   line-height: 1.05;
   color: #1a1b2f;
   font-weight: 800;
@@ -467,7 +467,7 @@ body {
 .subtitle {
   margin: 0;
   color: color-mix(in srgb, var(--text) 70%, var(--link));
-  font-size: 0.74rem;
+  font-size: 0.65rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
   white-space: normal;
