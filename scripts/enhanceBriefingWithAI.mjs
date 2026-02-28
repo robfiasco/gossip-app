@@ -63,7 +63,9 @@ For "briefingItems":
 For "signalBoard":
 - You will receive draft template text for \`priceUpdate\` (Market Context), \`pastWeek\`, \`thisWeek\`, \`nextWeek\`, and \`whatsHot\`.
 - Rewrite each of these fields to feel fluid, native, and analytically sharp.
-- CRITICAL RULE: NEVER repeat the exact same protocol name, token, or headline across multiple fields. 
+- CRITICAL RULE: NEVER repeat the exact same protocol name, token, or headline across multiple fields.
+- CRITICAL RULE: Do NOT use repetitive cliché phrases like "rotating into BTC and ETH" or "macro is doing the work". Keep the analysis fresh and specific to today's data.
+- If there is major real-world geopolitical or macroeconomic news today that clearly impacts crypto prices (e.g. major wars, Fed decisions), you SHOULD briefly contextualize the market movement against it, but remain highly objective. 
 - If you use a specific name (e.g. "tokenized xStocks" or "Jupiter") in \`priceUpdate\`, you MUST abstract it into broader market concepts (e.g. "RWA liquidity", "DEX volumes", "institutional flow", "ecosystem momentum") in \`thisWeek\` and \`nextWeek\` to force vocabulary diversity.
 - For \`whatsHot\`, rewrite it specifically to highlight actionable ecosystem intel. Highlight airdrops, token launches, top performing apps, or emerging protocols if present in the data. Make it sound like an insider's watchlist.
 - Keep the hard data points (prices, volumes) but seamlessly rewrite the sentences so they do not sound like a rigid template.
@@ -130,7 +132,8 @@ For "briefingItems":
 
 For "signalBoard":
 - You will receive draft template text for \`priceUpdate\` (Market Context), \`pastWeek\`, \`thisWeek\`, \`nextWeek\`, and \`whatsHot\`.
-- Rewrite each of these fields to feel fluid, native, and analytically sharp.
+- Rewrite each of these fields to feel fluid, native, and analytically sharp. Do NOT use cliché phrases like "rotating into BTC and ETH".
+- If major geo-political or macro events are dominating the news today, briefly contextualize the crypto price movement against them.
 - Keep the exact same data points (prices, themes, headlines) but seamlessly rewrite the sentences so they do not sound like a rigid template.
 - For \`whatsHot\`, rewrite it specifically to highlight actionable ecosystem intel (airdrops, launches, top apps).
 - Do NOT make up new numbers or events. Only rewrite the provided facts. If a field is empty, leave it empty.

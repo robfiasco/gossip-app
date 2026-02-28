@@ -28,7 +28,13 @@ const compact = (text, max = 120) => {
   return s.length <= max ? s : s.slice(0, max - 1).trimEnd() + "…";
 };
 
-/* ─── Locked story card (blurred teaser) ──────────────────────────── */
+/**
+ * Renders a locked story card, showing a blurred teaser for premium intelligence.
+ * @param {Object} props - The component props
+ * @param {Object} props.story - The story data object
+ * @param {number} props.idx - The rank index of the story
+ * @returns {JSX.Element} The locked card component
+ */
 function LockedCard({ story, idx }) {
   const cat = String(story?.category || "Intel").toUpperCase();
   const isCrit = /security|risk|breach|exploit|hack/i.test(cat);
@@ -74,7 +80,10 @@ function LockedCard({ story, idx }) {
   );
 }
 
-/* ─── Placeholder card when no story data yet ──────────────────────── */
+/**
+ * Displays a placeholder card skeleton while story data is loading.
+ * @returns {JSX.Element} The placeholder card
+ */
 function PlaceholderCard() {
   return (
     <div style={{
@@ -88,7 +97,18 @@ function PlaceholderCard() {
   );
 }
 
-/* ─── Paywall component ──────────────────────────────────────────────── */
+/**
+ * Renders the paywall component, prompting the user to connect their wallet
+ * or acquire a Seeker Token to access premium content.
+ * @param {Object} props - The component props
+ * @param {Function} props.onConnect - Callback to initiate wallet connection
+ * @param {"not-connected"|"no-token"} props.variant - The current state of the user's access
+ * @param {Object} [props.publicKey] - The connected user's public key
+ * @param {Function} [props.onDisconnect] - Callback to disconnect wallet
+ * @param {Function} [props.onBypass] - Callback to bypass in development mode
+ * @param {Object} [props.peekData] - Teaser data shown on the paywall
+ * @returns {JSX.Element} The paywall component
+ */
 function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisconnect, onBypass, peekData }) {
   const isNoToken = variant === "no-token";
   const lead = peekData?.lead;
@@ -201,7 +221,14 @@ function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisc
   );
 }
 
-/* ─── Main guard ─────────────────────────────────────────────────────── */
+/**
+ * A higher-order component that acts as a guard for premium content.
+ * Validates whether the connected wallet holds a Seeker Genesis Token.
+ * @param {Object} props - The component props
+ * @param {React.ReactNode} props.children - The protected content to render if authorized
+ * @param {Object} [props.peekData] - Content preview data to display on the paywall
+ * @returns {JSX.Element} The original content if authorized, or the paywall otherwise
+ */
 export default function SeekerGuard({ children, peekData = null }) {
   const { connection } = useConnection();
   const { publicKey, connected, wallet, disconnect } = useWallet();

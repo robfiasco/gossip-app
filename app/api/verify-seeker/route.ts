@@ -9,6 +9,15 @@ const RPC_URL =
     process.env.SOLANA_RPC_URL ||
     "https://api.mainnet-beta.solana.com";
 
+/**
+ * API Route to verify if a Solana wallet holds a Seeker Genesis Token.
+ * 
+ * Verifies ownership by checking if any of the wallet's Token-2022 NFTs
+ * belongs to the defined SEEKER_GROUP.
+ * 
+ * @param {Request} req - The incoming HTTP request containing the `wallet` search parameter.
+ * @returns {Promise<NextResponse>} JSON response indicating ownership status and details.
+ */
 export async function GET(req: Request) {
     const { searchParams } = new URL(req.url);
     const wallet = searchParams.get("wallet");

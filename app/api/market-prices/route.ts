@@ -6,7 +6,7 @@ export const dynamic = "force-dynamic";
 export const revalidate = 180;
 
 const COINGECKO_URL =
-    "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=solana&order=market_cap_desc&per_page=1&page=1&sparkline=false&price_change_percentage=24h,7d&x_cg_demo_api_key=";
+    "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=solana&order=market_cap_desc&per_page=1&page=1&sparkline=false&price_change_percentage=24h,7d";
 
 const GLOBAL_URL = "https://api.coingecko.com/api/v3/global";
 const FEAR_GREED_URL = "https://api.alternative.me/fng/?limit=1";

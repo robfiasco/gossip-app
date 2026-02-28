@@ -202,10 +202,10 @@ const priceInsight = (market, themes, weekArticles) => {
 
   const s24 = formatPct(change24h) || "0.0%";
   const s7 = formatPct(change7d) || "0.0%";
-  const line1 = `SOL is ${s24} in the last 24h and ${s7} over the last 7 days, while sentiment is still ${sentiment}. That keeps the setup tradable, but not stable yet.`;
+  const line1 = `SOL is ${s24} in the last 24h and ${s7} over the last 7 days, while sentiment is still ${sentiment}.`;
   const line2 = vol
-    ? `24h volume is about $${vol}, which shows active trading. The key question is whether buyers keep rotating into Solana instead of back into BTC and ETH.`
-    : "Trading is active, but the direction still depends on whether flows stay in Solana instead of rotating back to majors.";
+    ? `24h volume is about $${vol}, which shows active trading. The key question is whether ecosystem flow remains strong.`
+    : "Trading is active, but the direction depends on broader market macro conditions.";
   const line3 = leadArticle
     ? `Near-term direction depends on whether ${leadTheme} headlines turn into real usage (wallets, swaps, borrowing), led by ${headlineForCopy(leadArticle, 68)}.`
     : `Near-term direction depends on whether ${leadTheme} headlines turn into actual on-chain activity.`;
