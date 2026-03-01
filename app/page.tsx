@@ -110,6 +110,7 @@ export default function Home() {
   const [briefingData, setBriefingData] = useState<BriefingPayload | null>(null);
   const [newsCardsData, setNewsCardsData] = useState<NewsCardsPayload | null>(null);
   const [marketContextData, setMarketContextData] = useState<MarketContextPayload | null>(null);
+  const [storyMetrics, setStoryMetrics] = useState<any>(null);
   const [marketCache, setMarketCache] = useState<MarketContextPayload | null>(null);
   const [activePanel, setActivePanel] = useState(0);
   const [isSeeker, setIsSeeker] = useState(false);
@@ -203,9 +204,19 @@ export default function Home() {
     let active = true;
     const run = async () => {
       try {
-        const res = await fetch("/api/daily");
+        const [res, metricsRes] = await Promise.all([
+          fetch("/api/daily"),
+          fetch("/api/metrics")
+        ]);
+
         if (!res.ok) throw new Error("daily fetch failed");
         const daily = await res.json();
+
+        if (metricsRes.ok) {
+          const metrics = await metricsRes.json();
+          if (active) setStoryMetrics(metrics);
+        }
+
         if (!active) return;
         setSignalBoardData(daily.signalBoard);
         setNarrativesData(daily.narratives);
@@ -810,29 +821,18 @@ export default function Home() {
                               <span className="briefing-subhead-line" />
                             </div>
 
-                            <div style={{ padding: "16px 18px 4px" }}>
+                            <div style={{ padding: "16px 18px 4px", marginBottom: "16px" }}>
                               <AnimatedEngagementChart
                                 title="GLOBAL NETWORK METRICS"
                                 maxValue={100}
                                 items={[
-                                  { label: "Tweets Analyzed", value: Math.min(100, (globalTweets || 0) / 200 * 100), formattedValue: String(globalTweets || 0) },
-                                  { label: "Total Engagement", value: Math.min(100, (globalEng || 0) / 50000 * 100), formattedValue: formatCompactNumber(globalEng) },
-                                  { label: "Unique Voices", value: Math.min(100, (globalVoices || 0) / 100 * 100), formattedValue: String(globalVoices || 0) },
-                                  { label: "Top Tweet", value: Math.min(100, (globalTop || 0) / 5000 * 100), formattedValue: formatCompactNumber(globalTop) }
+                                  { label: "Tweets Analyzed", value: Math.min(100, (storyMetrics?.totals?.total_tweets || globalTweets || 0) / 500 * 100), formattedValue: String(storyMetrics?.totals?.total_tweets || globalTweets || 0) },
+                                  { label: "Total Engagement", value: Math.min(100, (storyMetrics?.totals?.total_engagement || globalEng || 0) / 100000 * 100), formattedValue: formatCompactNumber(storyMetrics?.totals?.total_engagement || globalEng || 0) },
+                                  { label: "Unique Voices", value: Math.min(100, (storyMetrics?.totals?.unique_users || globalVoices || 0) / 200 * 100), formattedValue: String(storyMetrics?.totals?.unique_users || globalVoices || 0) },
+                                  { label: "Top Tweet", value: Math.min(100, (storyMetrics?.totals?.top_tweet_engagement || globalTop || 0) / 20000 * 100), formattedValue: formatCompactNumber(storyMetrics?.totals?.top_tweet_engagement || globalTop || 0) }
                                 ]}
                               />
                             </div>
-                            {stories.length > 0 && (
-                              <div style={{ marginTop: "24px", marginBottom: "16px", padding: "0 4px" }}>
-                                <AnimatedEngagementChart
-                                  title="TOP SIGNALS BY NETWORK ENGAGEMENT"
-                                  items={stories.map(s => ({
-                                    label: s?.title || "Unknown Signal",
-                                    value: Number(s?.metrics?.engagement ?? s?.stats?.total_engagement ?? 0)
-                                  })).sort((a, b) => b.value - a.value).slice(0, 5)}
-                                />
-                              </div>
-                            )}
 
                             <div className="seeker-mag-divider" />
 
