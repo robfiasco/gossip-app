@@ -1,6 +1,5 @@
 import fs from "fs";
 import path from "path";
-import { spawn } from "child_process";
 
 const cwd = process.cwd();
 
@@ -15,7 +14,6 @@ const outSignalPublic = path.join(cwd, "public", "signal_board.json");
 const outBriefingPublic = path.join(cwd, "public", "briefing.json");
 const outNewsPublic = path.join(cwd, "public", "news_cards.json");
 const llmDebugOut = path.join(cwd, "data", "llm_last_response.txt");
-const MODEL_NAME = process.env.OLLAMA_MODEL || "llama3";
 
 const BACKPACK_SEED_URL =
   "https://learn.backpack.exchange/blog/backpack-tokenomics-explained";
@@ -89,11 +87,11 @@ const keywordize = (text) => {
     .trim();
   if (!cleaned) return [];
   const stop = new Set([
-    "this","that","with","from","have","your","just","like","into","over","under","than",
-    "then","them","they","their","there","about","after","before","could","would","should",
-    "where","when","what","which","while","still","been","being","also","more","most",
-    "some","such","very","much","many","here","only","make","made","does","did","doing",
-    "will","cant","can't","dont","don't","https","http","www","com","twitter","x","tco"
+    "this", "that", "with", "from", "have", "your", "just", "like", "into", "over", "under", "than",
+    "then", "them", "they", "their", "there", "about", "after", "before", "could", "would", "should",
+    "where", "when", "what", "which", "while", "still", "been", "being", "also", "more", "most",
+    "some", "such", "very", "much", "many", "here", "only", "make", "made", "does", "did", "doing",
+    "will", "cant", "can't", "dont", "don't", "https", "http", "www", "com", "twitter", "x", "tco"
   ]);
   return cleaned
     .split(" ")
@@ -211,23 +209,28 @@ const parseLLMJsonOrThrow = (raw) => {
   }
 };
 
-const runOllama = (prompt) =>
-  new Promise((resolve, reject) => {
-    const child = spawn("ollama", ["run", MODEL_NAME], { stdio: ["pipe", "pipe", "pipe"] });
-    let stdout = "";
-    let stderr = "";
-    child.stdout.on("data", (chunk) => (stdout += chunk.toString()));
-    child.stderr.on("data", (chunk) => (stderr += chunk.toString()));
-    child.on("close", (code) => {
-      if (code !== 0) {
-        reject(new Error(stderr || `ollama exited with code ${code}`));
-      } else {
-        resolve(stdout);
-      }
-    });
-    child.stdin.write(prompt);
-    child.stdin.end();
+const callOpenAI = async (prompt) => {
+  if (!process.env.OPENAI_API_KEY) throw new Error("No OPENAI_API_KEY array found.");
+  const response = await fetch("https://api.openai.com/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`
+    },
+    body: JSON.stringify({
+      model: "gpt-4o-mini",
+      messages: [{ role: "user", content: prompt }],
+      temperature: 0.3,
+      response_format: { type: "json_object" }
+    })
   });
+  if (!response.ok) {
+    const err = await response.text();
+    throw new Error(`OpenAI error: ${response.status} ${err}`);
+  }
+  const data = await response.json();
+  return data.choices[0].message.content;
+};
 
 const buildPrompt = ({ posts, articles, date }) => {
   const trimmedPosts = posts.slice(0, 25).map((post) => ({
@@ -393,7 +396,7 @@ const fallbackDigest = (articles, date) => {
 };
 
 const main = async () => {
-  console.log("Using Ollama model:", MODEL_NAME);
+  console.log("Using OpenAI model: gpt-4o-mini");
   const { file: signalsFile, posts } = loadSignals();
   const { items: rawArticles } = loadArticles();
   const date = formatDate(new Date());
@@ -443,7 +446,7 @@ const main = async () => {
   let parsed;
   try {
     const prompt = buildPrompt({ posts, articles: recentArticles, date });
-    const output = await runOllama(prompt);
+    const output = await callOpenAI(prompt);
     fs.mkdirSync(path.dirname(llmDebugOut), { recursive: true });
     fs.writeFileSync(llmDebugOut, output, "utf-8");
     parsed = parseLLMJsonOrThrow(output);

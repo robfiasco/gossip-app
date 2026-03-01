@@ -11,7 +11,6 @@ try {
 }
 
 const cwd = process.cwd();
-const MODEL = process.env.OLLAMA_MODEL || "llama3";
 const BRIEFING_PATHS = [
   path.join(cwd, "data", "briefing.json"),
   path.join(cwd, "briefing.json"),
@@ -115,72 +114,6 @@ Return JSON ONLY matching the exact structure:
   return extractJson(content);
 };
 
-const callOllama = async (payload) => {
-  const prompt = `
-You rewrite daily crypto intelligence for Solana readers.
-
-Rules:
-- Use plain English.
-- Be specific, concrete, and analytical.
-- Explain why the story or data matters for SOL positioning, liquidity, or ecosystem usage.
-- No filler and no buzzwords.
-- Do not mention that this is AI generated.
-
-For "briefingItems":
-- Rewrite each "whyYouShouldCare" into exactly 1 sentence (18-28 words max).
-- Do not repeat the headline, just provide the contextual analysis.
-
-For "signalBoard":
-- You will receive draft template text for \`priceUpdate\` (Market Context), \`pastWeek\`, \`thisWeek\`, \`nextWeek\`, and \`whatsHot\`.
-- Rewrite each of these fields to feel fluid, native, and analytically sharp. Do NOT use cliché phrases like "rotating into BTC and ETH".
-- If major geo-political or macro events are dominating the news today, briefly contextualize the crypto price movement against them.
-- Keep the exact same data points (prices, themes, headlines) but seamlessly rewrite the sentences so they do not sound like a rigid template.
-- For \`whatsHot\`, rewrite it specifically to highlight actionable ecosystem intel (airdrops, launches, top apps).
-- Do NOT make up new numbers or events. Only rewrite the provided facts. If a field is empty, leave it empty.
-
-Return JSON ONLY matching the exact structure:
-{
-  "briefingItems": [
-    { "index": 0, "whyYouShouldCare": "..." }
-  ],
-  "signalBoard": {
-    "priceUpdate": "...",
-    "pastWeek": "...",
-    "thisWeek": "...",
-    "nextWeek": "...",
-    "whatsHot": "..."
-  }
-}
-
-INPUT:
-${JSON.stringify(payload)}
-`;
-
-  const res = await fetch("http://localhost:11434/api/generate", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      model: MODEL,
-      stream: false,
-      prompt,
-      options: {
-        temperature: 0.3,
-      },
-      format: "json",
-    }),
-  });
-
-  if (!res.ok) {
-    throw new Error(`Ollama HTTP ${res.status}`);
-  }
-
-  const data = await res.json();
-  const content = String(data?.response || "").trim();
-  if (!content) {
-    throw new Error("Empty Ollama response");
-  }
-  return extractJson(content);
-};
 
 const SIGNAL_PATHS = [
   path.join(cwd, "data", "signal_board.json"),
@@ -213,14 +146,8 @@ const main = async () => {
   };
 
   try {
-    let rewritten;
-    if (process.env.OPENAI_API_KEY) {
-      console.log("Enhancing briefing and signal board with OpenAI (gpt-4o-mini)...");
-      rewritten = await callOpenAI({ briefingItems: promptItems, signalBoard: promptSignalBoard });
-    } else {
-      console.log(`Enhancing with Ollama (${MODEL})...`);
-      rewritten = await callOllama({ briefingItems: promptItems, signalBoard: promptSignalBoard });
-    }
+    console.log("Enhancing briefing and signal board with OpenAI (gpt-4o-mini)...");
+    const rewritten = await callOpenAI({ briefingItems: promptItems, signalBoard: promptSignalBoard });
 
     if (!rewritten || !rewritten.briefingItems || !rewritten.signalBoard) {
       throw new Error("AI did not return a valid combined JSON object");

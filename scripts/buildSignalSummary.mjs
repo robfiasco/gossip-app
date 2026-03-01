@@ -1,6 +1,5 @@
 import fs from "fs";
 import path from "path";
-import { spawn } from "child_process";
 
 const cwd = process.cwd();
 const matchedPath = path.join(cwd, "data", "matched_stories.json");
@@ -12,7 +11,6 @@ const outSignal = path.join(cwd, "signal_board.json");
 const outNewsPublic = path.join(cwd, "public", "news_cards.json");
 const outBriefingPublic = path.join(cwd, "public", "briefing.json");
 const outSignalPublic = path.join(cwd, "public", "signal_board.json");
-const MODEL_NAME = process.env.OLLAMA_MODEL || "llama3";
 
 const loadJson = (filePath) => {
   if (!fs.existsSync(filePath)) return null;
@@ -53,23 +51,28 @@ const parseLLMJsonOrThrow = (raw) => {
   }
 };
 
-const runOllama = (prompt) =>
-  new Promise((resolve, reject) => {
-    const child = spawn("ollama", ["run", MODEL_NAME], { stdio: ["pipe", "pipe", "pipe"] });
-    let stdout = "";
-    let stderr = "";
-    child.stdout.on("data", (chunk) => (stdout += chunk.toString()));
-    child.stderr.on("data", (chunk) => (stderr += chunk.toString()));
-    child.on("close", (code) => {
-      if (code !== 0) {
-        reject(new Error(stderr || `ollama exited with code ${code}`));
-      } else {
-        resolve(stdout);
-      }
-    });
-    child.stdin.write(prompt);
-    child.stdin.end();
+const callOpenAI = async (prompt) => {
+  if (!process.env.OPENAI_API_KEY) throw new Error("No OPENAI_API_KEY array found.");
+  const response = await fetch("https://api.openai.com/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`
+    },
+    body: JSON.stringify({
+      model: "gpt-4.1",
+      messages: [{ role: "user", content: prompt }],
+      temperature: 0.3,
+      response_format: { type: "json_object" }
+    })
   });
+  if (!response.ok) {
+    const err = await response.text();
+    throw new Error(`OpenAI error: ${response.status} ${err}`);
+  }
+  const data = await response.json();
+  return data.choices[0].message.content;
+};
 
 const buildPrompt = ({ matchedStories, tweets }) => {
   const trimmedStories = matchedStories.slice(0, 20).map((story) => ({
@@ -158,7 +161,7 @@ const fallback = (matchedStories) => {
 };
 
 const main = async () => {
-  console.log("Using Ollama model:", MODEL_NAME);
+  console.log("Using OpenAI model: gpt-4.1");
   const matchedStoriesRaw = loadJson(matchedPath);
   const tweetsRaw = loadJson(tweetsPath);
   const matchedStories = Array.isArray(matchedStoriesRaw)
@@ -169,7 +172,7 @@ const main = async () => {
   let parsed;
   try {
     const prompt = buildPrompt({ matchedStories, tweets });
-    const output = await runOllama(prompt);
+    const output = await callOpenAI(prompt);
     parsed = parseLLMJsonOrThrow(output);
   } catch (err) {
     console.error("LLM failed:", err.message);

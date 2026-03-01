@@ -19,8 +19,6 @@ const outBriefingPublic = path.join(cwd, "public", "briefing.json");
 const outNewsPublic = path.join(cwd, "public", "news_cards.json");
 const outNarratives = path.join(cwd, "data", "narratives.json");
 
-const MODEL = process.env.OLLAMA_MODEL || "llama3";
-
 const loadJson = (filePath) => {
   if (!fs.existsSync(filePath)) return null;
   try {
@@ -536,21 +534,30 @@ Tweets: ${JSON.stringify(tweetsByWindow)}
 `;
 };
 
-const callOllama = async (prompt, schema) => {
-  const res = await fetch("http://localhost:11434/api/generate", {
+const callOpenAI = async (prompt, schema) => {
+  if (!process.env.OPENAI_API_KEY) throw new Error("No OPENAI_API_KEY array found.");
+  const res = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`
+    },
     body: JSON.stringify({
-      model: MODEL,
-      prompt,
-      format: schema,
-      stream: false,
+      model: "gpt-4o-mini",
+      messages: [
+        { role: "system", content: "You are a professional crypto intelligence analyst. Return valid JSON only linking facts to market conditions." },
+        { role: "user", content: prompt }
+      ],
+      temperature: 0.3,
+      response_format: { type: "json_object" }
     }),
   });
   if (!res.ok) {
-    throw new Error(`Ollama error: HTTP ${res.status}`);
+    const err = await res.text();
+    throw new Error(`OpenAI error: HTTP ${res.status} - ${err}`);
   }
-  return res.json();
+  const data = await res.json();
+  return { response: data.choices[0].message.content };
 };
 
 const writeOutputs = (signalBoard, briefing, validatorStories) => {
@@ -780,7 +787,7 @@ const main = async () => {
       ? topStoriesRaw.items
       : [];
 
-  console.log("Using Ollama model:", MODEL);
+  console.log("Using OpenAI model: gpt-4o-mini");
   console.log(`Loaded ${articles.length} articles, ${tweets.length} tweets`);
   console.log(`Top stories available: ${topStories.length}`);
 
@@ -1014,7 +1021,7 @@ const main = async () => {
   );
   let payload;
   try {
-    const response = await callOllama(prompt, buildSchema());
+    const response = await callOpenAI(prompt, buildSchema());
     const rawResponse = response.response || "";
     fs.mkdirSync(path.join(cwd, "data"), { recursive: true });
     fs.writeFileSync(path.join(cwd, "data", "llm_last_response.txt"), rawResponse, "utf-8");
@@ -1023,7 +1030,7 @@ const main = async () => {
     console.error("Primary parse failed:", err.message);
     try {
       const fixPrompt = `Fix and return valid JSON only:\n${prompt}`;
-      const response = await callOllama(fixPrompt);
+      const response = await callOpenAI(fixPrompt);
       const rawRetry = response.response || "";
       fs.writeFileSync(path.join(cwd, "data", "llm_last_response.txt"), rawRetry, "utf-8");
       payload = parseStrictJson(rawRetry);
@@ -1207,7 +1214,7 @@ const main = async () => {
 
   writeOutputs(signalBoard, briefing, validatorStories);
   const mentionsCount = validatorStories.items.reduce((sum, item) => sum + (item?.citations?.length || 0), 0);
-  console.log("Ollama structured output OK");
+  console.log("OpenAI structured output OK");
   console.log(`Wrote: signal_board.json, briefing.json, validator_stories.json`);
   console.log(`Citations linked: ${mentionsCount}`);
 };

@@ -32,9 +32,6 @@ const OUTPUT_PATH_MIRROR = './data/validator_stories.json'; // Mirror for KV syn
 // ============================================================================
 
 const CONFIG = {
-  OLLAMA_MODEL: 'llama3',
-  OLLAMA_URL: 'http://localhost:11434/api/generate',
-  OLLAMA_TIMEOUT: 120000, // 2 minutes per story
   MAX_STORIES: 3,         // Limit for performance
   MIN_STORY_LENGTH: 400,  // Minimum characters
   MAX_STORY_LENGTH: 5000, // Maximum characters
@@ -74,7 +71,7 @@ async function callOpenAI(prompt) {
         "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`
       },
       body: JSON.stringify({
-        model: "gpt-4o-mini",
+        model: "gpt-4.1",
         messages: [
           { role: "system", content: "You are an elite crypto intelligence analyst. Return valid JSON only." },
           { role: "user", content: prompt }
@@ -94,37 +91,6 @@ async function callOpenAI(prompt) {
 
   } catch (error) {
     console.error(`❌ OpenAI call failed: ${error.message}`);
-    throw error;
-  }
-}
-
-async function callOllama(prompt) {
-  try {
-    const response = await fetch(CONFIG.OLLAMA_URL, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        model: CONFIG.OLLAMA_MODEL,
-        prompt: prompt + "\n\nIMPORTANT: Return valid JSON only.",
-        stream: false,
-        format: "json", // Force JSON mode in Ollama if supported
-        options: {
-          temperature: 0.3,
-          num_predict: 2000 // Ensure enough tokens for full story
-        }
-      }),
-      signal: AbortSignal.timeout(CONFIG.OLLAMA_TIMEOUT)
-    });
-
-    if (!response.ok) {
-      throw new Error(`Ollama error: ${response.status}`);
-    }
-
-    const data = await response.json();
-    return data.response;
-
-  } catch (error) {
-    console.error(`❌ Ollama call failed: ${error.message}`);
     throw error;
   }
 }
@@ -260,13 +226,8 @@ async function generateStory(candidate, index) {
     .replace('{narrative}', candidate.narrative);
 
   try {
-    let response;
-    // Hybrid Logic: Use OpenAI if key exists, else Ollama
-    if (process.env.OPENAI_API_KEY) {
-      response = await callOpenAI(prompt);
-    } else {
-      response = await callOllama(prompt);
-    }
+    // Use OpenAI directly
+    let response = await callOpenAI(prompt);
 
     const storyData = parseStoryJSON(response);
 
@@ -333,11 +294,7 @@ function getStoryType(category) {
 
 async function generateStories() {
   console.log('🚀 [Story Generation] Starting...\n');
-  if (process.env.OPENAI_API_KEY) {
-    console.log('🤖 AI Provider: OpenAI (gpt-4o-mini)');
-  } else {
-    console.log('🦙 AI Provider: Ollama (llama3) - Set OPENAI_API_KEY for better results');
-  }
+  console.log('🤖 AI Provider: OpenAI (gpt-4.1)');
 
   const candidates = JSON.parse(fs.readFileSync(CANDIDATES_PATH, 'utf-8'));
   console.log(`📊 Candidates available: ${candidates.length}`);
