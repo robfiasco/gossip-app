@@ -149,6 +149,7 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
                     gap: "8px"
                 }}>
                     <div className={`title-logo ${isGlitching ? 'loading-glitch-active' : ''}`} style={{
+                        animationDelay: "0s",
                         fontFamily: "'JetBrains Mono', 'IBM Plex Mono', monospace",
                         fontSize: "clamp(24px, 5vw, 36px)",
                         fontWeight: 700,
