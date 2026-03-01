@@ -181,8 +181,8 @@ const utcWeekVisibility = () => {
   const now = new Date();
   const utcDay = now.getUTCDay(); // 0=Sun,1=Mon...6=Sat
   return {
-    showPastWeek: utcDay >= 1 && utcDay <= 3, // Mon-Wed only
-    showNextWeek: utcDay === 0 || utcDay >= 4, // Thu-Sun
+    showPastWeek: utcDay >= 0 && utcDay <= 2, // Sun-Tue
+    showNextWeek: utcDay >= 3, // Wed-Sat
     generatedDate: now.toISOString().slice(0, 10),
   };
 };
