@@ -109,35 +109,40 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
 
             <div style={{ zIndex: 1, display: "flex", flexDirection: "column", alignItems: "center", gap: "32px", width: "100%", padding: "0 24px" }}>
 
-                {/* Glowing Spinner */}
-                <div style={{ position: "relative", width: "64px", height: "64px" }}>
+                {/* Terminal Decryption Block */}
+                <div style={{
+                    position: "relative",
+                    width: "48px",
+                    height: "48px",
+                    border: "1px solid rgba(76, 187, 23, 0.3)",
+                    background: "rgba(10, 6, 18, 0.8)",
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                    boxShadow: "0 0 15px rgba(76, 187, 23, 0.1) inset",
+                    overflow: "hidden"
+                }}>
+                    {/* Corner accents */}
+                    <div style={{ position: "absolute", top: -1, left: -1, width: 6, height: 6, borderTop: "2px solid #4cbb17", borderLeft: "2px solid #4cbb17" }} />
+                    <div style={{ position: "absolute", top: -1, right: -1, width: 6, height: 6, borderTop: "2px solid #4cbb17", borderRight: "2px solid #4cbb17" }} />
+                    <div style={{ position: "absolute", bottom: -1, left: -1, width: 6, height: 6, borderBottom: "2px solid #4cbb17", borderLeft: "2px solid #4cbb17" }} />
+                    <div style={{ position: "absolute", bottom: -1, right: -1, width: 6, height: 6, borderBottom: "2px solid #4cbb17", borderRight: "2px solid #4cbb17" }} />
+
+                    {/* Scanline */}
                     <div style={{
                         position: "absolute",
-                        inset: 0,
-                        borderRadius: "50%",
-                        border: "1px solid rgba(139, 92, 246, 0.15)",
-                    }} />
-                    <div style={{
-                        position: "absolute",
-                        inset: 0,
-                        borderRadius: "50%",
-                        borderTop: "2px solid #a78bfa",
-                        borderRight: "2px solid transparent",
-                        borderBottom: "2px solid transparent",
-                        borderLeft: "2px solid transparent",
-                        animation: "spin 1.2s cubic-bezier(0.68, -0.55, 0.265, 1.55) infinite",
-                        boxShadow: "0 -2px 12px rgba(167, 139, 250, 0.4)"
-                    }} />
-                    <div style={{
-                        position: "absolute",
-                        inset: "10px",
-                        borderRadius: "50%",
-                        borderBottom: "2px solid #818cf8",
-                        borderTop: "2px solid transparent",
-                        borderRight: "2px solid transparent",
-                        borderLeft: "2px solid transparent",
-                        animation: "spinReverse 1.8s cubic-bezier(0.68, -0.55, 0.265, 1.55) infinite",
+                        top: 0, left: 0, right: 0, height: "100%",
+                        background: "linear-gradient(to bottom, transparent 0%, rgba(76, 187, 23, 0.4) 50%, transparent 100%)",
+                        animation: "loading-scanline 1.5s linear infinite",
                         opacity: 0.8
+                    }} />
+
+                    {/* Blinking decoding node */}
+                    <div style={{
+                        width: "12px", height: "12px",
+                        background: "#4cbb17",
+                        animation: "fast-blink 0.6s steps(2, start) infinite",
+                        boxShadow: "0 0 10px #4cbb17"
                     }} />
                 </div>
 
