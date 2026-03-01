@@ -826,6 +826,7 @@ export default function Home() {
                                 <AnimatedEngagementChart
                                   title="GLOBAL NETWORK METRICS"
                                   maxValue={100}
+                                  colors={['#9945FF', '#14F195', '#00C2FF', '#FF0080']}
                                   items={[
                                     { label: "Tweets Analyzed", value: Math.min(100, (storyMetrics?.totals?.total_tweets || globalTweets || 0) / 500 * 100), formattedValue: String(storyMetrics?.totals?.total_tweets || globalTweets || 0) },
                                     { label: "Total Engagement", value: Math.min(100, (storyMetrics?.totals?.total_engagement || globalEng || 0) / 100000 * 100), formattedValue: formatCompactNumber(storyMetrics?.totals?.total_engagement || globalEng || 0) },
@@ -853,8 +854,14 @@ export default function Home() {
                                   const isCrit = /security|risk|breach|exploit|hack/i.test(cat);
                                   const isAi = /ai|agent/i.test(cat);
                                   const isGaming = /gaming|game/i.test(cat);
+                                  const isAirdrop = /airdrop/i.test(cat);
                                   const kickerCls = isCrit ? "critical" : isAi ? "ai" : isGaming ? "gaming" : "";
-                                  const icon = isCrit ? "●" : isAi ? "⚡" : isGaming ? "🎮" : "↗";
+
+                                  let bannerImg = "/story-images/ecosystem_banner.png";
+                                  if (isCrit) bannerImg = "/story-images/security_banner.png";
+                                  else if (isAi) bannerImg = "/story-images/ai_banner.png";
+                                  else if (isGaming) bannerImg = "/story-images/gaming_banner.png";
+                                  else if (isAirdrop) bannerImg = "/story-images/airdrop_banner.png";
 
                                   return (
                                     <a
@@ -862,14 +869,16 @@ export default function Home() {
                                       href={`/seeker?story=${idx}`}
                                       className="seeker-mag-item"
                                     >
+                                      <div className="seeker-mag-item-banner" style={{ backgroundImage: `url(${bannerImg})` }} />
+
                                       <div className="seeker-mag-item-head">
                                         <span className={`seeker-mag-kicker ${kickerCls}`} style={{ padding: 0, fontSize: "0.6rem" }}>
-                                          <span style={{ marginRight: "4px", opacity: 0.8 }}>{icon}</span>{cat}
+                                          {cat}
                                         </span>
                                       </div>
 
                                       <h3 className="seeker-mag-item-title">
-                                        {title} <span aria-hidden="true">↗</span>
+                                        {title}
                                       </h3>
 
                                       {preview && (

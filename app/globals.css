@@ -5514,6 +5514,16 @@ body {
   transform: translateY(-1px);
 }
 
+.seeker-mag-item-banner {
+  height: 28px;
+  width: 100%;
+  border-radius: 4px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 10px;
+  opacity: 0.85;
+}
+
 .seeker-mag-item-copy {
   margin: 0;
   font-size: 0.86rem;

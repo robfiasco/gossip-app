@@ -12,9 +12,10 @@ type AnimatedEngagementChartProps = {
     title: string;
     items: ChartItem[];
     maxValue?: number;
+    colors?: string[];
 };
 
-export default function AnimatedEngagementChart({ title, items, maxValue }: AnimatedEngagementChartProps) {
+export default function AnimatedEngagementChart({ title, items, maxValue, colors }: AnimatedEngagementChartProps) {
     const [isVisible, setIsVisible] = useState(false);
     const chartRef = useRef<HTMLDivElement>(null);
 
@@ -66,7 +67,11 @@ export default function AnimatedEngagementChart({ title, items, maxValue }: Anim
                                     className={`engagement-chart-bar ${isVisible ? 'visible' : ''}`}
                                     style={{
                                         width: isVisible ? `${widthPercent}%` : '0%',
-                                        transitionDelay: `${index * 150}ms`
+                                        transitionDelay: `${index * 150}ms`,
+                                        ...(colors && colors[index] ? {
+                                            background: colors[index],
+                                            boxShadow: `0 0 10px ${colors[index]}4D`
+                                        } : {})
                                     }}
                                 />
                                 <span

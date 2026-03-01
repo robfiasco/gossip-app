@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 import { useConnection, useWallet } from "@solana/wallet-adapter-react";
 import { useWalletModal } from "@solana/wallet-adapter-react-ui";
 import { Activity, MessageCircle, TrendingUp, Users } from "lucide-react";
-import AnimatedEngagementChart from "./AnimatedEngagementChart";
+
 
 // Solana Mobile detection (Capacitor runtime, available on-device)
 let Capacitor = null;
