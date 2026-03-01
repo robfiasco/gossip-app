@@ -12,6 +12,7 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
     const [progress, setProgress] = useState(0);
     const [exiting, setExiting] = useState(false);
     const [introSequenceComplete, setIntroSequenceComplete] = useState(false);
+    const [isGlitching, setIsGlitching] = useState(false);
 
     useEffect(() => {
         let iterations = 0;
@@ -50,11 +51,20 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
 
     useEffect(() => {
         if (introSequenceComplete && isAppReady) {
+            const glitchTimer = setTimeout(() => {
+                setIsGlitching(true);
+            }, 2000);
+
             const delayTimer = setTimeout(() => {
+                setIsGlitching(false);
                 setExiting(true);
                 setTimeout(() => onFinished?.(), 800);
             }, 3000);
-            return () => clearTimeout(delayTimer);
+
+            return () => {
+                clearTimeout(glitchTimer);
+                clearTimeout(delayTimer);
+            };
         }
     }, [introSequenceComplete, isAppReady, onFinished]);
 
@@ -138,15 +148,12 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
                     alignItems: "center",
                     gap: "8px"
                 }}>
-                    <div style={{
+                    <div className={`title-logo ${isGlitching ? 'loading-glitch-active' : ''}`} style={{
                         fontFamily: "'JetBrains Mono', 'IBM Plex Mono', monospace",
                         fontSize: "clamp(24px, 5vw, 36px)",
                         fontWeight: 700,
                         letterSpacing: "0.4em",
-                        color: "#4cbb17",
                         textAlign: "center",
-                        textTransform: "uppercase",
-                        textShadow: "0 0 10px rgba(94, 220, 198, 0.4)",
                         display: "flex",
                         alignItems: "center",
                         justifyContent: "center"

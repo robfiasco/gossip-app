@@ -6105,3 +6105,35 @@ body {
 .info-modal-btn-close:hover {
   color: rgba(255, 255, 255, 0.7);
 }
+
+.loading-glitch-active {
+  animation: logo-sweep 8s ease-in-out infinite, loading-fast-glitch 0.15s ease-in-out infinite !important;
+  color: white !important;
+  text-shadow: 2px 0 #4cbb17, -2px 0 #7a7cff, 0 0 10px rgba(94, 220, 198, 0.8) !important;
+}
+
+@keyframes loading-fast-glitch {
+  0% {
+    transform: translate(0)
+  }
+
+  20% {
+    transform: translate(-2px, 2px)
+  }
+
+  40% {
+    transform: translate(-2px, -2px)
+  }
+
+  60% {
+    transform: translate(2px, 2px)
+  }
+
+  80% {
+    transform: translate(2px, -2px)
+  }
+
+  100% {
+    transform: translate(0)
+  }
+}
