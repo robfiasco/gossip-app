@@ -43,10 +43,10 @@ const extractJson = (raw) => {
   }
 };
 
-const callOpenAI = async (payload) => {
+const callOpenAI = async (payload, isRetry = false) => {
   if (!process.env.OPENAI_API_KEY) throw new Error("No OPENAI_API_KEY");
 
-  const systemPrompt = `You rewrite daily crypto intelligence for Solana readers.
+  let systemPrompt = `You rewrite daily crypto intelligence for Solana readers.
 Rules:
 - Use plain English with punchy, sharp, and concise framing.
 - Be specific, concrete, and analytical.
@@ -54,6 +54,12 @@ Rules:
 - No filler and no buzzwords.
 - Do not mention that this is AI generated.
 - Ensure the tone is professional, insightful, and strictly objective. Let the data lead the narrative.
+
+### HARD RULES (must follow)
+- Do NOT give instructions or financial advice. Avoid verbs like: buy, sell, stake, farm, rotate, ape, short, long, avoid, exit, enter.
+- Do NOT say "no action required" or any equivalent.
+- Do NOT invent causes, numbers, or claims not supported by the input items.
+- Do NOT use generic market filler (e.g. "amid uncertainty", "despite fear sentiment") unless the input explicitly supports it.
 
 For "briefingItems":
 - Rewrite each "whyYouShouldCare" into exactly 1 sentence (18-28 words max).
@@ -65,6 +71,10 @@ Return JSON ONLY matching the exact structure:
     { "index": 0, "whyYouShouldCare": "..." }
   ]
 }`;
+
+  if (isRetry) {
+    systemPrompt = "Your last answer was too generic or contained banned vocabulary. Break templates, use only the provided facts, remove filler, and be more specific.\n\n" + systemPrompt;
+  }
 
   const userPrompt = JSON.stringify(payload);
 
@@ -95,6 +105,42 @@ Return JSON ONLY matching the exact structure:
   return extractJson(content);
 };
 
+const qualityGateFails = (text, items) => {
+  const lower = text.toLowerCase();
+
+  const bannedPhrases = [
+    "amid uncertainty",
+    "prevailing fear sentiment",
+    "market participants",
+    "macro headwinds",
+  ];
+  if (bannedPhrases.some(phrase => lower.includes(phrase))) {
+    console.log("Quality Gate Failed: Contains banned filler phrase.");
+    return true;
+  }
+
+  if (lower.includes("risk-on") || lower.includes("risk-off")) {
+    const rssText = JSON.stringify(items).toLowerCase();
+    if (!rssText.includes("risk-on") && !rssText.includes("risk-off")) {
+      console.log("Quality Gate Failed: Hallucinated 'risk-on/risk-off'.");
+      return true;
+    }
+  }
+
+  const instructionVerbs = ["buy ", "sell ", "stake ", "avoid ", "short ", "long ", "ape ", "rotate "];
+  if (instructionVerbs.some(verb => lower.includes(` ${verb}`))) {
+    console.log("Quality Gate Failed: Contains instruction verbs.");
+    return true;
+  }
+
+  if (lower.includes("no action required")) {
+    console.log("Quality Gate Failed: Contains 'no action required'.");
+    return true;
+  }
+
+  return false;
+};
+
 const main = async () => {
   const briefing = BRIEFING_PATHS.map((p) => loadJson(p)).find(Boolean);
 
@@ -113,7 +159,12 @@ const main = async () => {
 
   try {
     console.log("Enhancing briefing with OpenAI (gpt-4o-mini)...");
-    const rewritten = await callOpenAI({ briefingItems: promptItems });
+    let rewritten = await callOpenAI({ briefingItems: promptItems });
+
+    if (qualityGateFails(JSON.stringify(rewritten), promptItems)) {
+      console.log("Briefing failed quality gate. Retrying once...");
+      rewritten = await callOpenAI({ briefingItems: promptItems }, true);
+    }
 
     if (!rewritten || !rewritten.briefingItems) {
       throw new Error("AI did not return a valid JSON object");

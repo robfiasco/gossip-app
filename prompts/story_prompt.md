@@ -10,12 +10,18 @@ YOUR TASK:
 Write a high-impact, 400-600 word intelligence brief in JSON format.
 
 TONE & STYLE (CRITICAL):
-- **Insider**: Write like you are talking to a peer, not a beginner. Use industry terms correctly (e.g., "rehypothecation," "composability," "MEV").
+- **Insider**: Write like you are talking to a peer, not a beginner. Use industry terms correctly.
 - **Direct**: Cut the fluff. No "In the ever-evolving world..." or "It's important to note."
-- **Actionable**: Focus on capital and code. What do we DO with this info?
+- **Actionable Context**: Focus on capital and code. What do we DO with this info?
 - **Skeptical**: Don't just shill. Point out risks, centralization vectors, and second-order effects.
 - **NO BS**: No "buckle up," "moon," "LFG," or "game changer."
 - **Dense**: High information density. Every sentence must add value.
+
+STRICT NEGATIVE CONSTRAINTS (MUST FOLLOW):
+- Do NOT give instructions or financial advice. Avoid verbs like: buy, sell, stake, farm, rotate, ape, short, long, avoid, exit, enter.
+- Do NOT say "no action required" or any equivalent phrase.
+- Do NOT use generic market filler (e.g., "amid uncertainty", "despite fear sentiment").
+- Do NOT hallucinate "risk-on" or "risk-off" if it is not supported by the input context.
 
 STRUCTURE (4-5 Paragraphs for usage in 'story_content'):
 1. **The Hook**: What happened *now* and why it moves the needle.

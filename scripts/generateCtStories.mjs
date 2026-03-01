@@ -56,12 +56,13 @@ try {
 // AI API CLIENTS
 // ============================================================================
 
-async function callOpenAI(prompt) {
+async function callOpenAI(prompt, isRetry = false) {
   if (!process.env.OPENAI_API_KEY) throw new Error("No OPENAI_API_KEY");
 
-  // Split prompt into system/user if possible, but for simplicity we'll pass full context
-  // Actually, better to separate the system instruction if we can, but the prompt file is one block.
-  // We'll treat the loaded prompt template as the system instruction structure.
+  let systemPrompt = "You are an elite crypto intelligence analyst. Return valid JSON only.";
+  if (isRetry) {
+    systemPrompt = "Your last answer broke our strict negative constraints by including banned vocabulary, explicit financial advice, generic market filler, or 'no action required'. Rewrite it, use only provided facts, remove ALL instruction verbs, remove ALL fluff, and return valid JSON only.\n\n" + systemPrompt;
+  }
 
   try {
     const response = await fetch("https://api.openai.com/v1/chat/completions", {
@@ -73,7 +74,7 @@ async function callOpenAI(prompt) {
       body: JSON.stringify({
         model: "gpt-4.1",
         messages: [
-          { role: "system", content: "You are an elite crypto intelligence analyst. Return valid JSON only." },
+          { role: "system", content: systemPrompt },
           { role: "user", content: prompt }
         ],
         temperature: 0.3,
@@ -93,6 +94,42 @@ async function callOpenAI(prompt) {
     console.error(`❌ OpenAI call failed: ${error.message}`);
     throw error;
   }
+}
+
+function qualityGateFails(text, contextStr) {
+  const lower = text.toLowerCase();
+
+  const bannedPhrases = [
+    "amid uncertainty",
+    "prevailing fear sentiment",
+    "market participants",
+    "macro headwinds",
+  ];
+  if (bannedPhrases.some(phrase => lower.includes(phrase))) {
+    console.log("Quality Gate Failed: Contains banned filler phrase.");
+    return true;
+  }
+
+  if (lower.includes("risk-on") || lower.includes("risk-off")) {
+    const rssText = contextStr.toLowerCase();
+    if (!rssText.includes("risk-on") && !rssText.includes("risk-off")) {
+      console.log("Quality Gate Failed: Hallucinated 'risk-on/risk-off'.");
+      return true;
+    }
+  }
+
+  const instructionVerbs = ["buy ", "sell ", "stake ", "avoid ", "short ", "long ", "ape ", "rotate "];
+  if (instructionVerbs.some(verb => lower.includes(` ${verb}`))) {
+    console.log("Quality Gate Failed: Contains instruction verbs.");
+    return true;
+  }
+
+  if (lower.includes("no action required")) {
+    console.log("Quality Gate Failed: Contains 'no action required'.");
+    return true;
+  }
+
+  return false;
 }
 
 // ============================================================================
@@ -228,6 +265,11 @@ async function generateStory(candidate, index) {
   try {
     // Use OpenAI directly
     let response = await callOpenAI(prompt);
+
+    if (qualityGateFails(response, context)) {
+      console.log(`⚠️ Quality gate failed for story ${index + 1}. Retrying once...`);
+      response = await callOpenAI(prompt, true);
+    }
 
     const storyData = parseStoryJSON(response);
 
