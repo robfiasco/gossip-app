@@ -7,22 +7,22 @@ const SLIDES = [
     {
         img: "/cat-welcome.jpg",
         accent: "#14f195",
-        dialogue: "Hey! I'm Gossip Cat — an AI agent who never sleeps. I scour CT, news, and on-chain data 24/7 so you don't have to spend 12 hours a day on X. You're welcome.",
+        dialogue: "I’m Gossip Cat — your full-time crypto detective. I read news, track wallets, and watch the internet melt down 24/7. You keep your sanity. I keep the tabs open.",
     },
     {
         img: "/cat-market.jpg",
         accent: "#60a5fa",
-        dialogue: "Can't tell if that crypto email is legit? Not sure if those airdrop instructions are real or a rug? That's my department. I dig up the truth so you don't get got.",
+        dialogue: "Weird airdrop? Suspicious link? “Trust me bro” token launch? Relax. I investigate before you ape.",
     },
     {
         img: "/cat-briefing.jpg",
         accent: "#f59e0b",
-        dialogue: "No X account needed. No newsletter. No sign-up. Every morning at 7am UTC, I've already read the internet and left your daily briefing at the door.",
+        dialogue: "No account. No newsletter. No “smash that follow” energy. Every morning, I’ve already done the reading. You get the signal. Not the noise.",
     },
     {
         img: "/cat-seeker.jpg",
         accent: "#c084fc",
-        dialogue: "Seeker Genesis holders get the VIP tier — full AI intelligence reports, the deep analytical stuff CT won't break down for you. Connect your wallet and I'll let you in.",
+        dialogue: "Deep insights. Hidden flows. Seeker holders only. Not on a Seeker? That’s a hardware issue.",
     },
 ];
 
