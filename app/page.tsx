@@ -918,17 +918,28 @@ export default function Home() {
                                 </div>
 
                                 <div style={{ padding: "16px 18px 4px", marginBottom: "16px" }}>
-                                  <AnimatedEngagementChart
-                                    title="GLOBAL NETWORK METRICS"
-                                    maxValue={100}
-                                    colors={['#9945FF', '#14F195', '#00C2FF', '#FF0080']}
-                                    items={[
-                                      { label: "Tweets Analyzed", value: Math.min(100, (storyMetrics?.totals?.total_tweets || globalTweets || 0) / 500 * 100), formattedValue: String(storyMetrics?.totals?.total_tweets || globalTweets || 0) },
-                                      { label: "Total Engagement", value: Math.min(100, (storyMetrics?.totals?.total_engagement || globalEng || 0) / 100000 * 100), formattedValue: formatCompactNumber(storyMetrics?.totals?.total_engagement || globalEng || 0) },
-                                      { label: "Unique Voices", value: Math.min(100, (storyMetrics?.totals?.unique_users || globalVoices || 0) / 200 * 100), formattedValue: String(storyMetrics?.totals?.unique_users || globalVoices || 0) },
-                                      { label: "Top Tweet", value: Math.min(100, (storyMetrics?.totals?.top_tweet_engagement || globalTop || 0) / 20000 * 100), formattedValue: formatCompactNumber(storyMetrics?.totals?.top_tweet_engagement || globalTop || 0) }
-                                    ]}
-                                  />
+                                  {(() => {
+                                    const rawTweets = storyMetrics?.totals?.total_tweets || globalTweets || 0;
+                                    const rawEng = storyMetrics?.totals?.total_engagement || globalEng || 0;
+                                    const rawVoices = storyMetrics?.totals?.unique_users || globalVoices || 0;
+                                    const rawTop = storyMetrics?.totals?.top_tweet_engagement || globalTop || 0;
+
+                                    const chartItems = [
+                                      { label: "Tweets Analyzed", value: Math.min(100, rawTweets / 500 * 100), formattedValue: String(rawTweets), raw: rawTweets, color: '#9945FF' },
+                                      { label: "Total Engagement", value: Math.min(100, rawEng / 100000 * 100), formattedValue: formatCompactNumber(rawEng), raw: rawEng, color: '#14F195' },
+                                      { label: "Unique Voices", value: Math.min(100, rawVoices / 200 * 100), formattedValue: String(rawVoices), raw: rawVoices, color: '#00C2FF' },
+                                      { label: "Top Tweet", value: Math.min(100, rawTop / 20000 * 100), formattedValue: formatCompactNumber(rawTop), raw: rawTop, color: '#FF0080' }
+                                    ].filter(item => item.raw >= 10);
+
+                                    return (
+                                      <AnimatedEngagementChart
+                                        title="GLOBAL NETWORK METRICS"
+                                        maxValue={100}
+                                        colors={chartItems.map(item => item.color)}
+                                        items={chartItems}
+                                      />
+                                    );
+                                  })()}
                                 </div>
 
                                 <div className="seeker-mag-divider" />
