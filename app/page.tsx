@@ -1030,7 +1030,7 @@ export default function Home() {
             onClick={e => e.stopPropagation()}
           >
             <h2 className="info-modal-title">Gossip Terminal</h2>
-            <p className="info-modal-version">v1.0.0</p>
+            <p className="info-modal-version">v1.0.1</p>
 
             <div className="info-modal-dev">
               <span style={{ opacity: 0.6, fontSize: "0.85rem", textTransform: "uppercase", letterSpacing: "0.05em" }}>Developed by</span><br />
