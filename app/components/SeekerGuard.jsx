@@ -30,11 +30,12 @@ const compact = (text, max = 120) => {
   return s.length <= max ? s : s.slice(0, max - 1).trimEnd() + "…";
 };
 
+const PALETTE_3 = ["accent-purple", "accent-cyan", "accent-pink", "accent-green"];
+const ROW_BANNER_COLORS = ["#9945FF", "#00C2FF", "#FF00FF", "#14F195"];
+
 function LockedCard({ story, idx }) {
   let cat = String(story?.category || "Intel").toUpperCase();
-  if (cat.includes("/")) {
-    cat = cat.split("/")[0].trim();
-  }
+  if (cat.includes("/")) cat = cat.split("/")[0].trim();
 
   const title = String(story?.title || "Untitled Intelligence");
   const preview = compact(
@@ -42,33 +43,19 @@ function LockedCard({ story, idx }) {
     160,
   );
 
+  // Exact same kicker + color logic as the unlocked story cards in page.tsx
   const isCrit = /security|risk|breach|exploit|hack/i.test(cat);
   const isAi = /ai|agent/i.test(cat);
   const isGaming = /gaming|game/i.test(cat);
-  const kickerCls = isCrit ? "critical" : isAi ? "ai" : isGaming ? "gaming" : "";
-
-  const PALETTE_3 = ["accent-purple", "accent-cyan", "accent-pink", "accent-green"];
-  const bannerColors = [
-    "#9945FF", // Purple
-    "#00C2FF", // Cyan
-    "#FF00FF", // Pink
-    "#14F195", // Green
-  ];
-
-  // To match the category styling exactly from the previous step:
-  let toneIndex = 3; // accent-green fallback
-  if (isCrit) toneIndex = 0; // purple
-  else if (isAi) toneIndex = 1; // cyan
-  else if (isGaming) toneIndex = 3; // green
-  else if (/privacy|zk tech|zk/i.test(cat)) toneIndex = 2; // pink
-  else if (/ecosystem|launch|update/i.test(cat)) toneIndex = 1; // cyan
-
-  const bannerColor = bannerColors[toneIndex];
-  const paletteCls = PALETTE_3[toneIndex];
+  const isAlpha = /alpha/i.test(cat);
+  const isMobile = /mobile|seeker/i.test(cat);
+  const isPrivacy = /privacy|zk/i.test(cat);
+  const kickerCls = isCrit ? "critical" : isAi ? "ai" : isGaming ? "gaming" : isAlpha ? "alpha" : isMobile ? "mobile" : isPrivacy ? "privacy" : "";
+  const bannerColor = kickerCls === "critical" ? "#ff7f86" : kickerCls === "ai" ? "#ae88ff" : kickerCls === "gaming" ? "#14f195" : kickerCls === "alpha" ? "#14f195" : kickerCls === "mobile" ? "#00c2ff" : kickerCls === "privacy" ? "#ef77c7" : ROW_BANNER_COLORS[idx % 4];
 
   return (
     <div
-      className={`seeker-mag-item ${paletteCls}`}
+      className={`seeker-mag-item ${PALETTE_3[idx % 4]}`}
       style={{ textAlign: "left", width: "100%", padding: 0 }}
     >
       <div className="seeker-mag-item-banner" style={{ overflow: "hidden" }}>
