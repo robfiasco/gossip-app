@@ -32,7 +32,6 @@ export default function MatrixBanner({ color }: { color: string }) {
             columns = Math.ceil(canvas.width / fontSize);
             drops = [];
             for (let x = 0; x < columns; x++) {
-                // Randomize initial drop positions so it looks organic immediately
                 drops[x] = Math.random() * (canvas.height / fontSize);
             }
         };
@@ -40,7 +39,6 @@ export default function MatrixBanner({ color }: { color: string }) {
         resize();
 
         const draw = () => {
-            // Fade out previous frames
             ctx.fillStyle = 'rgba(10, 11, 14, 0.2)';
             ctx.fillRect(0, 0, canvas.width, canvas.height);
 
@@ -50,27 +48,23 @@ export default function MatrixBanner({ color }: { color: string }) {
 
             const fontSize = 10;
             for (let i = 0; i < drops.length; i++) {
-                // Randomly skip drawing sometimes to make it sparser and more elegant
                 if (Math.random() > 0.3) {
                     const text = CHARS[Math.floor(Math.random() * CHARS.length)];
-                    // Add a glow effect based on the color
                     ctx.shadowBlur = 4;
                     ctx.shadowColor = color;
                     ctx.fillText(text, i * fontSize + (fontSize / 2), drops[i] * fontSize);
-                    ctx.shadowBlur = 0; // Reset for performance
+                    ctx.shadowBlur = 0;
                 }
 
-                // Send drop back to top randomly after it crosses the bottom
                 if (drops[i] * fontSize > canvas.height && Math.random() > 0.95) {
                     drops[i] = 0;
                 }
 
-                // Move drop down. Fractional increments work if ctx handles sub-pixel, but for canvas text it's better to stay integers or use a slower increment
                 drops[i] += 0.5;
             }
         };
 
-        const interval = setInterval(draw, 60); // slightly slower frame rate
+        const interval = setInterval(draw, 60);
         window.addEventListener('resize', resize);
 
         return () => {

@@ -44,7 +44,6 @@ export default function AnimatedEngagementChart({ title, items, maxValue, colors
         return () => observer.disconnect();
     }, []);
 
-    // Format numbers like 8.45M or 21.1K
     const formatNumber = (num: number) => {
         if (num >= 1000000) return (num / 1000000).toFixed(2) + "M";
         if (num >= 1000) return (num / 1000).toFixed(1) + "K";
@@ -56,8 +55,6 @@ export default function AnimatedEngagementChart({ title, items, maxValue, colors
             <h3 className="engagement-chart-title">{title}</h3>
 
             <div className="engagement-chart-grid">
-                {/* Optional vertical dashed line to indicate median/benchmark could go here */}
-
                 {items.map((item, index) => {
                     const widthPercent = Math.min(100, Math.max(2, (item.value / computedMax) * 100));
 

@@ -67,7 +67,7 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
     }, []);
     useEffect(() => {
         let iterations = 0;
-        const totalIterations = 35; // Smooth decrypt duration
+        const totalIterations = 35;
 
         const interval = setInterval(() => {
             setTitleText(TARGET_TITLE.split("").map((letter, index) => {
@@ -95,7 +95,7 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
                 setSubtitleText(TARGET_SUBTITLE);
                 setIntroSequenceComplete(true);
             }
-        }, 40); // 40ms step
+        }, 40);
 
         return () => clearInterval(interval);
     }, []);
@@ -137,7 +137,6 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
                 pointerEvents: exiting ? "none" : "auto",
             }}
         >
-            {/* Grid overlay */}
             <div style={{
                 position: "absolute",
                 inset: "-40px -40px 0 -40px",
@@ -147,7 +146,6 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
                 animation: "gridPan 15s linear infinite"
             }} />
 
-            {/* Matrix Rain Canvas */}
             <canvas
                 ref={canvasRef}
                 style={{
@@ -161,7 +159,6 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
                 }}
             />
 
-            {/* Glowing Aura */}
             <div style={{
                 position: "absolute",
                 width: "60vh",
@@ -174,7 +171,6 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
 
             <div style={{ zIndex: 1, display: "flex", flexDirection: "column", alignItems: "center", gap: "32px", width: "100%", padding: "0 24px" }}>
 
-                {/* Decrypting Text */}
                 <div style={{
                     display: "flex",
                     flexDirection: "column",
@@ -213,7 +209,6 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
                     </div>
                 </div>
 
-                {/* Progress Bar Container */}
                 <div style={{
                     width: "min(240px, 60vw)",
                     height: "1px",
@@ -231,7 +226,6 @@ export default function GossipLoadingScreen({ onFinished, isAppReady }: { onFini
                     }} />
                 </div>
 
-                {/* Status Text */}
                 <div style={{
                     fontFamily: "'JetBrains Mono', 'IBM Plex Mono', monospace",
                     fontSize: "10px",

@@ -8,34 +8,29 @@ import { SolanaMobileWalletAdapter, createDefaultAddressSelector, createDefaultA
 import { WalletModalProvider } from "@solana/wallet-adapter-react-ui";
 import { clusterApiUrl } from "@solana/web3.js";
 import { Capacitor, registerPlugin } from "@capacitor/core";
+import type { Adapter } from "@solana/wallet-adapter-base";
 
-const NativeIntent = registerPlugin<any>('NativeIntent');
+const NativeIntent = registerPlugin<{ openUrl: (opts: { url: string }) => Promise<void> }>('NativeIntent');
 
-// Default styles that can be overridden by your app
 import "@solana/wallet-adapter-react-ui/styles.css";
 
-// Bypass Chrome's asynchronous intent blockage by proxying the JS string through Capacitor's native layer
+// Chrome blocks asynchronous intent URLs — proxy through Capacitor's native layer instead
 if (typeof window !== "undefined") {
-    (window as any).__openSolanaIntentUrl = (url: URL) => {
-        console.log(`Attempting to open Intent URL: ${url.toString()}`);
+    (window as Window & { __openSolanaIntentUrl?: (url: URL) => void }).__openSolanaIntentUrl = (url: URL) => {
         if (Capacitor.isNativePlatform()) {
-            console.log(`Native Platform Detected. Triggering NativeIntent bridge...`);
-            NativeIntent.openUrl({ url: url.toString() }).then(() => {
-                console.log(`NativeIntent successfully fired!`);
-            }).catch((err: any) => {
-                console.error(`NativeIntent failed:`, err);
+            NativeIntent.openUrl({ url: url.toString() }).catch(() => {
+                window.location.assign(url);
             });
         } else {
-            console.log(`Web environment detected. Assigning location...`);
             window.location.assign(url);
         }
     };
 }
 
-export default function AppWalletProvider({ children }) {
+export default function AppWalletProvider({ children }: { children: React.ReactNode }) {
     const network = WalletAdapterNetwork.Mainnet;
     const endpoint = useMemo(() => clusterApiUrl(network), [network]);
-    const [wallets, setWallets] = useState<any[]>([]);
+    const [wallets, setWallets] = useState<Adapter[]>([]);
 
     useEffect(() => {
         const setupWallets = async () => {
@@ -51,8 +46,7 @@ export default function AppWalletProvider({ children }) {
                 onWalletNotFound: createDefaultWalletNotFoundHandler(),
             });
 
-            // Always include all three: MWA (shows on mobile/Seeker browsers),
-            // Phantom, and Solflare (show when extension/app is detected).
+            // MWA shows on Seeker/mobile browsers; Phantom and Solflare show when their extension/app is detected
             setWallets([
                 mobileWalletAdapter,
                 new PhantomWalletAdapter(),

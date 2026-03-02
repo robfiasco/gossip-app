@@ -5,8 +5,27 @@ import { ChevronLeft } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 import AnimatedEngagementChart from "./AnimatedEngagementChart";
 import ScrollMatrixBackground from "./ScrollMatrixBackground";
+import { getKickerClass, getKickerColor } from "../lib/categories";
 
-type Story = any; // You can refine this using your existing Story type
+type Story = {
+    category?: string;
+    title?: string;
+    timestamp?: string;
+    publishedAt?: string;
+    metrics?: { tweets?: number; engagement?: number; voices?: number; topTweet?: number };
+    stats?: { total_tweets?: number; total_engagement?: number; unique_users?: number; top_tweet?: number };
+    sections?: {
+        timeline?: Array<{ date?: string; event?: string; impact?: string }>;
+        keyQuotes?: Array<{ text?: string; author?: string; sentiment?: string }>;
+        keyPlayers?: Array<{ name?: string; role?: string }>;
+    };
+    takeaways?: string[];
+    content?: { story?: string; signal?: string };
+    story?: string;
+    narrative?: string;
+    summary?: string;
+    hook?: string;
+};
 
 export default function StoryDetail({ story, index, total, onBack }: { story: Story; index: number; total: number; onBack: () => void }) {
     const metrics = {
@@ -31,7 +50,6 @@ export default function StoryDetail({ story, index, total, onBack }: { story: St
         { label: "Unique Voices", value: metrics.voices },
     ];
     const chartMax = Math.max(...allChartItems.map(i => i.value), 1);
-    // Hide metrics that are less than 5% of the top metric — they'd render as a sliver
     const chartItems = allChartItems.filter(item => item.value >= chartMax * 0.05 && item.value >= 10);
 
     return (
@@ -146,27 +164,6 @@ export default function StoryDetail({ story, index, total, onBack }: { story: St
     );
 }
 
-function getKickerClass(categoryRaw: string) {
-    const category = String(categoryRaw || "").toLowerCase();
-    if (/security|risk|breach|exploit|hack/.test(category)) return "critical";
-    if (/ai|agent/.test(category)) return "ai";
-    if (/gaming|game/.test(category)) return "gaming";
-    if (/alpha/.test(category)) return "alpha";
-    if (/mobile|seeker/.test(category)) return "mobile";
-    if (/privacy|zk/.test(category)) return "privacy";
-    return "";
-}
-
-function getKickerColor(categoryRaw: string) {
-    const category = String(categoryRaw || "").toLowerCase();
-    if (/security|risk|breach|exploit|hack/.test(category)) return "#ff7f86"; // critical
-    if (/ai|agent/.test(category)) return "#ae88ff"; // ai/purple
-    if (/gaming|game/.test(category)) return "#14f195"; // gaming/green
-    if (/alpha/.test(category)) return "#14f195"; // alpha/green
-    if (/mobile|seeker/.test(category)) return "#00c2ff"; // mobile/cyan
-    if (/privacy|zk/.test(category)) return "#ef77c7"; // privacy/pink
-    return "#00c2ff"; // default cyan
-}
 
 function timelineDotClass(impactRaw: unknown) {
     const impact = String(impactRaw || "").toLowerCase();

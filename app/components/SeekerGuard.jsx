@@ -3,16 +3,14 @@
 import React, { useEffect, useState } from "react";
 import { useConnection, useWallet } from "@solana/wallet-adapter-react";
 import { useWalletModal } from "@solana/wallet-adapter-react-ui";
-import { Activity, MessageCircle, TrendingUp, Users } from "lucide-react";
 import MatrixBanner from "./MatrixBanner";
+import { getKickerClass, getKickerColor } from "../lib/categories";
 
 
-// Solana Mobile detection (Capacitor runtime, available on-device)
+// Capacitor may not be available in web builds
 let Capacitor = null;
 try { Capacitor = require("@capacitor/core").Capacitor; } catch { /* web build */ }
 
-// Seeker Genesis Token — each holder has a UNIQUE mint address.
-// We verify by checking if any of the wallet's Token-2022 NFTs belongs to this group.
 const SEEKER_GROUP = "GT22s89nU4iWFkNXj1Bw6uYhJJWDRPpShHt4Bk8f99Te";
 const TOKEN_2022_PROGRAM = "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb";
 const TOKEN_2022_ALT = "TokenzQdBNbequW8uyM9nj2HPEC4bsrghF8RTuPMJM"; // common alias
@@ -43,15 +41,8 @@ function LockedCard({ story, idx }) {
     160,
   );
 
-  // Exact same kicker + color logic as the unlocked story cards in page.tsx
-  const isCrit = /security|risk|breach|exploit|hack/i.test(cat);
-  const isAi = /ai|agent/i.test(cat);
-  const isGaming = /gaming|game/i.test(cat);
-  const isAlpha = /alpha/i.test(cat);
-  const isMobile = /mobile|seeker/i.test(cat);
-  const isPrivacy = /privacy|zk/i.test(cat);
-  const kickerCls = isCrit ? "critical" : isAi ? "ai" : isGaming ? "gaming" : isAlpha ? "alpha" : isMobile ? "mobile" : isPrivacy ? "privacy" : "";
-  const bannerColor = kickerCls === "critical" ? "#ff7f86" : kickerCls === "ai" ? "#ae88ff" : kickerCls === "gaming" ? "#14f195" : kickerCls === "alpha" ? "#14f195" : kickerCls === "mobile" ? "#00c2ff" : kickerCls === "privacy" ? "#ef77c7" : ROW_BANNER_COLORS[idx % 4];
+  const kickerCls = getKickerClass(cat);
+  const bannerColor = kickerCls ? getKickerColor(cat) : ROW_BANNER_COLORS[idx % 4];
 
   return (
     <div
@@ -158,9 +149,7 @@ function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisc
           </div>
         </div>
 
-        {/* Blurred Stories Section */}
         <div className="briefing-card-stack" style={{ position: "relative" }}>
-          {/* Fading gradient overlay to disguise the bottom cut-off */}
           <div style={{
             position: "absolute",
             bottom: 0, left: 0, right: 0, height: "120px",
@@ -211,31 +200,27 @@ export default function SeekerGuard({ children, peekData = null }) {
         const isMWA = adapterName.toLowerCase().includes("mobile wallet") || adapterName.toLowerCase().includes("mwa");
 
         if (!isNative && !isMWA) {
-          console.log("[SeekerGuard] Non-mobile connection blocked.");
           setWrongDevice(true);
           setHasSeeker(false);
           return;
         }
 
-        // ── Tier 1: Running as native Capacitor app ON the Seeker device ──
+        // Tier 1: native Capacitor app running on the Seeker device
         if (isNative) {
-          console.log("[SeekerGuard] Native Android detected — granting access");
           setHasSeeker(true);
           return;
         }
 
-        // ── Tier 2: Connected via Solana Mobile Wallet Adapter (MWA) ──
+        // Tier 2: connected via Mobile Wallet Adapter
         if (isMWA) {
-          console.log("[SeekerGuard] Mobile Wallet Adapter detected — verifying token or bypassing");
           setHasSeeker(true);
           return;
         }
 
-        // ── Tier 3: Server-side check (Fallback) ──
+        // Tier 3: server-side token verification fallback
         const res = await fetch(`/api/verify-seeker?wallet=${encodeURIComponent(publicKey.toBase58())}`);
         if (!res.ok) { setHasSeeker(false); return; }
         const { hasSeeker: found } = await res.json();
-        console.log("[SeekerGuard] Server verify result:", found);
         setHasSeeker(!!found);
 
       } catch (err) {

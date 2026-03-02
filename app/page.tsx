@@ -20,6 +20,7 @@ import GossipLoadingScreen from "./components/GossipLoadingScreen";
 import OnboardingCarousel from "./components/OnboardingCarousel";
 import AnimatedEngagementChart from "./components/AnimatedEngagementChart";
 import MatrixBanner from "./components/MatrixBanner";
+import { getKickerClass, getKickerColor } from "./lib/categories";
 import type { TerminalData } from "../lib/data/types";
 import type {
   BriefingPayload,
@@ -957,22 +958,9 @@ export default function Home() {
                                       160,
                                     );
 
-                                    const isCrit = /security|risk|breach|exploit|hack/i.test(cat);
-                                    const isAi = /ai|agent/i.test(cat);
-                                    const isGaming = /gaming|game/i.test(cat);
-                                    const isAlpha = /alpha/i.test(cat);
-                                    const isMobile = /mobile|seeker/i.test(cat);
-                                    const isPrivacy = /privacy|zk/i.test(cat);
-                                    const kickerCls = isCrit ? "critical" : isAi ? "ai" : isGaming ? "gaming" : isAlpha ? "alpha" : isMobile ? "mobile" : isPrivacy ? "privacy" : "";
-
-                                    const bannerColors = [
-                                      "#9945FF", // Purple
-                                      "#00C2FF", // Cyan
-                                      "#FF00FF", // Pink
-                                      "#14F195", // Green
-                                    ];
-                                    const rowBannerColor = bannerColors[idx % 4];
-                                    const bannerColor = kickerCls === "critical" ? "#ff7f86" : kickerCls === "ai" ? "#ae88ff" : kickerCls === "gaming" ? "#14f195" : kickerCls === "alpha" ? "#14f195" : kickerCls === "mobile" ? "#00c2ff" : kickerCls === "privacy" ? "#ef77c7" : rowBannerColor;
+                                    const ROW_BANNER_COLORS = ["#9945FF", "#00C2FF", "#FF00FF", "#14F195"];
+                                    const kickerCls = getKickerClass(cat);
+                                    const bannerColor = kickerCls ? getKickerColor(cat) : ROW_BANNER_COLORS[idx % 4];
 
                                     return (
                                       <button
