@@ -21,7 +21,8 @@ export default function ScrollMatrixBackground({ color = "#14F195" }: { color?: 
             }, 300);
         };
 
-        const container = document.querySelector('.seeker-page') || window;
+        // Story detail lives inside .panel-slide-scroll; fall back to .seeker-page then window
+        const container = document.querySelector('.panel-slide-scroll') || document.querySelector('.seeker-page') || window;
         container.addEventListener('scroll', handleScroll, { passive: true });
 
         return () => {
