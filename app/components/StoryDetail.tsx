@@ -4,6 +4,7 @@ import React from "react";
 import { ChevronLeft } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 import AnimatedEngagementChart from "./AnimatedEngagementChart";
+import ScrollMatrixBackground from "./ScrollMatrixBackground";
 
 type Story = any; // You can refine this using your existing Story type
 
@@ -31,7 +32,9 @@ export default function StoryDetail({ story, index, total, onBack }: { story: St
     ].filter(item => item.value >= 10);
 
     return (
-        <div className="seeker-detail-shell" style={{ paddingBottom: "100px", zIndex: 9999 }} >
+        <div className="seeker-detail-shell" style={{ paddingBottom: "100px", zIndex: 9999, position: "relative" }} >
+            <ScrollMatrixBackground color={getKickerColor(String(story?.category || ""))} />
+
             <button className="seeker-detail-back" onClick={onBack} type="button">
                 <ChevronLeft size={16} /> Back
             </button>
@@ -149,6 +152,17 @@ function getKickerClass(categoryRaw: string) {
     if (/mobile|seeker/.test(category)) return "mobile";
     if (/privacy|zk/.test(category)) return "privacy";
     return "";
+}
+
+function getKickerColor(categoryRaw: string) {
+    const category = String(categoryRaw || "").toLowerCase();
+    if (/security|risk|breach|exploit|hack/.test(category)) return "#ff7f86"; // critical
+    if (/ai|agent/.test(category)) return "#ae88ff"; // ai/purple
+    if (/gaming|game/.test(category)) return "#14f195"; // gaming/green
+    if (/alpha/.test(category)) return "#14f195"; // alpha/green
+    if (/mobile|seeker/.test(category)) return "#00c2ff"; // mobile/cyan
+    if (/privacy|zk/.test(category)) return "#ef77c7"; // privacy/pink
+    return "#00c2ff"; // default cyan
 }
 
 function timelineDotClass(impactRaw: unknown) {
