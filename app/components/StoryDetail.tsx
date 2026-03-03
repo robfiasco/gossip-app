@@ -18,6 +18,7 @@ type Story = {
         timeline?: Array<{ date?: string; event?: string; impact?: string }>;
         keyQuotes?: Array<{ text?: string; author?: string; sentiment?: string }>;
         keyPlayers?: Array<{ name?: string; role?: string }>;
+        [key: string]: unknown;
     };
     takeaways?: string[];
     content?: { story?: string; signal?: string };
