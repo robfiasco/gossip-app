@@ -300,9 +300,17 @@ async function generateStory(candidate, index) {
       }));
     }
 
+    // Use AI-generated title; fall back to first 60 chars of narrative (no ellipsis mid-word)
+    const aiTitle = typeof storyData.title === "string" && storyData.title.trim().length > 0
+      ? storyData.title.trim()
+      : (() => {
+          const t = candidate.narrative.slice(0, 60).trimEnd();
+          return t.length < candidate.narrative.length ? t.replace(/\s\S*$/, "") : t;
+        })();
+
     return {
       id: `story_${Date.now()}_${index}`,
-      title: candidate.narrative,
+      title: aiTitle,
       type: getStoryType(candidate.category),
       category: candidate.category,
       author: tweets[0]?.screen_name ? `@${tweets[0].screen_name}` : 'Solana Intelligence',

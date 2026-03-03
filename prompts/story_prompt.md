@@ -42,6 +42,7 @@ OUTPUT FORMAT:
 Return a single, valid JSON object. Do not include markdown formatting (```json).
 
 {
+  "title": "A punchy, editorial headline (max 8 words). No ellipsis. No question marks. Reads like a WSJ or Bloomberg headline — specific, intriguing, not clickbait.",
   "signal": "A highly descriptive executive summary (2-3 sentences, 40-50 words max) that explains the core event, context, and why it is important.",
   "story_content": "The full 400-600 word feature article text. MUST follow all FORMATTING RULES (CRITICAL) listed above.",
   "takeaways": [
