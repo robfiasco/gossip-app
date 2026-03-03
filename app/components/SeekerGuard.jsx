@@ -225,7 +225,7 @@ export default function SeekerGuard({ children, peekData = null }) {
           identity: {
             name: "Gossip Intelligence",
             uri: "https://validator-solana-intelligence.vercel.app",
-            icon: "https://validator-solana-intelligence.vercel.app/icon.png",
+            icon: "/icon.png",
           },
         });
       });
