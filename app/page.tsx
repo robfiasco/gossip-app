@@ -930,7 +930,7 @@ export default function Home() {
                                       { label: "Total Engagement", value: Math.min(100, rawEng / 100000 * 100), formattedValue: formatCompactNumber(rawEng), raw: rawEng, color: '#14F195' },
                                       { label: "Unique Voices", value: Math.min(100, rawVoices / 200 * 100), formattedValue: String(rawVoices), raw: rawVoices, color: '#00C2FF' },
                                       { label: "Top Tweet", value: Math.min(100, rawTop / 20000 * 100), formattedValue: formatCompactNumber(rawTop), raw: rawTop, color: '#FF0080' }
-                                    ].filter(item => item.value >= 8); // hide bars < 8% of expected scale
+                                    ].filter(item => item.value >= 15); // hide bars < 15% of expected scale
 
                                     return (
                                       <AnimatedEngagementChart
