@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generatedAt": "2026-03-03T07:41:01.753Z",
-    "totalCandidates": 96,
-    "solanaCandidates": 21,
-    "selected": 3,
-    "tweetPool": 380,
+    "generatedAt": "2026-03-03T18:39:11.371Z",
+    "totalCandidates": 97,
+    "solanaCandidates": 23,
+    "selected": 5,
+    "tweetPool": 474,
     "narrativeKeywordsCount": 0
   },
   "items": [
@@ -26,56 +26,56 @@
       "xMentions": 3,
       "who": [
         {
-          "handle": "@inno_ox",
-          "summary": "Here is your recap for @JupiterExchange Planetary Call #64 🐱: > @jup_dao vote has concluded with 75.3% in favor of N...",
-          "tweetUrl": "https://twitter.com/inno_ox/status/2027468853924479367",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@cobotgg",
-          "summary": "Introducing Cobot Arc, Privacy-preserving prediction markets & AI agents on @solana , powered by @dflow @Kalshi The p...",
-          "tweetUrl": "https://twitter.com/cobotgg/status/2018399452277702708",
-          "matchReason": "keyword_match"
-        },
-        {
           "handle": "@gumsays",
           "summary": "ONLY IN CRYPTO: You can do this in less than 5 minutes: > Create wallet, no KYC > Buy Stocks > Supply on @kamino > Ge...",
           "tweetUrl": "https://twitter.com/gumsays/status/2025259173144080767",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@sol_nxxn",
+          "summary": "Privacy is on Solana 🛡️ Solflare is the first Solana wallet introducing private send Recipients won’t see your walle...",
+          "tweetUrl": "https://twitter.com/sol_nxxn/status/2028506821011427648",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@inno_ox",
+          "summary": "Here is your recap for @JupiterExchange Planetary Call #64 🐱: > @jup_dao vote has concluded with 75.3% in favor of N...",
+          "tweetUrl": "https://twitter.com/inno_ox/status/2027468853924479367",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@inno_ox",
-          "summary": "Here is your recap for @JupiterExchange Planetary Call #64 🐱: > @jup_dao vote has concluded with 75.3% in favor of N...",
-          "tweetUrl": "https://twitter.com/inno_ox/status/2027468853924479367",
-          "matchReason": "keyword_match"
-        },
-        {
-          "handle": "@cobotgg",
-          "summary": "Introducing Cobot Arc, Privacy-preserving prediction markets & AI agents on @solana , powered by @dflow @Kalshi The p...",
-          "tweetUrl": "https://twitter.com/cobotgg/status/2018399452277702708",
-          "matchReason": "keyword_match"
-        },
-        {
           "handle": "@gumsays",
           "summary": "ONLY IN CRYPTO: You can do this in less than 5 minutes: > Create wallet, no KYC > Buy Stocks > Supply on @kamino > Ge...",
           "tweetUrl": "https://twitter.com/gumsays/status/2025259173144080767",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@sol_nxxn",
+          "summary": "Privacy is on Solana 🛡️ Solflare is the first Solana wallet introducing private send Recipients won’t see your walle...",
+          "tweetUrl": "https://twitter.com/sol_nxxn/status/2028506821011427648",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@inno_ox",
+          "summary": "Here is your recap for @JupiterExchange Planetary Call #64 🐱: > @jup_dao vote has concluded with 75.3% in favor of N...",
+          "tweetUrl": "https://twitter.com/inno_ox/status/2027468853924479367",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@inno_ox",
-          "linkToTweet": "https://twitter.com/inno_ox/status/2027468853924479367"
-        },
-        {
-          "handle": "@cobotgg",
-          "linkToTweet": "https://twitter.com/cobotgg/status/2018399452277702708"
-        },
-        {
           "handle": "@gumsays",
           "linkToTweet": "https://twitter.com/gumsays/status/2025259173144080767"
+        },
+        {
+          "handle": "@sol_nxxn",
+          "linkToTweet": "https://twitter.com/sol_nxxn/status/2028506821011427648"
+        },
+        {
+          "handle": "@inno_ox",
+          "linkToTweet": "https://twitter.com/inno_ox/status/2027468853924479367"
         }
       ],
       "matchReason": "keyword_match",
@@ -83,51 +83,83 @@
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
         "relevanceScore": 5,
-        "mentionScore": 46,
-        "recencyScore": 6,
+        "mentionScore": 68,
+        "recencyScore": 5,
         "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "d405ec9aff7bf384a9c2403141f2faffffeb3d6c",
-      "score": 57
+      "score": 78
     },
     {
-      "id": "https://www.theblock.co/post/391770/european-bank-consortium-targets-2026-launch-for-euro-backed-stablecoin-report",
-      "title": "European bank consortium targets 2026 launch for euro-backed stablecoin: report",
-      "url": "https://www.theblock.co/post/391770/european-bank-consortium-targets-2026-launch-for-euro-backed-stablecoin-report",
-      "source": "The Block",
-      "publishedAt": "2026-03-02T16:13:46.000Z",
-      "summary": "12 major European banks are moving forward with a euro-backed stablecoin under the Qivalis consortium, aiming for a second-half 2026 launch.",
+      "id": "https://www.coindesk.com/business/2026/03/03/japan-prime-minister-sanae-takaichi-disavows-solana-meme-coin-after-it-crashes-by-75",
+      "title": "Japan prime minister Sanae Takaichi disavows Solana meme coin after it crashes by 75%",
+      "url": "https://www.coindesk.com/business/2026/03/03/japan-prime-minister-sanae-takaichi-disavows-solana-meme-coin-after-it-crashes-by-75",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-03T10:24:15.000Z",
+      "summary": "Japan’s prime minister says she has no knowledge of or involvement in a Solana-based meme token that briefly reached a $27.7 million market cap before tumbling.",
       "tags": [
-        "european",
-        "bank",
-        "consortium"
+        "japan",
+        "prime",
+        "minister"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 1,
-      "xMentions": 1,
+      "mentionCount": 3,
+      "xMentions": 3,
       "who": [
         {
-          "handle": "@umbraprivacy",
-          "summary": "RT @reflectmoney: 1/ Introducing Reflect Whitelabel. Launch your own custom yield-bearing stablecoin, powered by Refl...",
-          "tweetUrl": "https://twitter.com/umbraprivacy/status/2026330530791199012",
+          "handle": "@gumsays",
+          "summary": "I don't think we understand how insane this is > RWAs surpassed $1B in market size on @kamino > RWAs are attracting h...",
+          "tweetUrl": "https://twitter.com/gumsays/status/2028552767548408027",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@inno_ox",
+          "summary": "BEST $10,000 PORTFOLIO ON SOLANA (conservative) > $2,500 BTC: bitcoin is king. you should always hold some. > $2,000 ...",
+          "tweetUrl": "https://twitter.com/inno_ox/status/2027833051074437591",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@fabianosolana",
+          "summary": "My job is farming yields on Solana War? Crypto down? Doesn't matter I'm earning $2,768.30 monthly by depositing money...",
+          "tweetUrl": "https://twitter.com/fabianosolana/status/2027755415409463534",
           "matchReason": "keyword_match"
         }
       ],
       "xWho": [
         {
-          "handle": "@umbraprivacy",
-          "summary": "RT @reflectmoney: 1/ Introducing Reflect Whitelabel. Launch your own custom yield-bearing stablecoin, powered by Refl...",
-          "tweetUrl": "https://twitter.com/umbraprivacy/status/2026330530791199012",
+          "handle": "@gumsays",
+          "summary": "I don't think we understand how insane this is > RWAs surpassed $1B in market size on @kamino > RWAs are attracting h...",
+          "tweetUrl": "https://twitter.com/gumsays/status/2028552767548408027",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@inno_ox",
+          "summary": "BEST $10,000 PORTFOLIO ON SOLANA (conservative) > $2,500 BTC: bitcoin is king. you should always hold some. > $2,000 ...",
+          "tweetUrl": "https://twitter.com/inno_ox/status/2027833051074437591",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@fabianosolana",
+          "summary": "My job is farming yields on Solana War? Crypto down? Doesn't matter I'm earning $2,768.30 monthly by depositing money...",
+          "tweetUrl": "https://twitter.com/fabianosolana/status/2027755415409463534",
           "matchReason": "keyword_match"
         }
       ],
       "mentionedBy": [
         {
-          "handle": "@umbraprivacy",
-          "linkToTweet": "https://twitter.com/umbraprivacy/status/2026330530791199012"
+          "handle": "@gumsays",
+          "linkToTweet": "https://twitter.com/gumsays/status/2028552767548408027"
+        },
+        {
+          "handle": "@inno_ox",
+          "linkToTweet": "https://twitter.com/inno_ox/status/2027833051074437591"
+        },
+        {
+          "handle": "@fabianosolana",
+          "linkToTweet": "https://twitter.com/fabianosolana/status/2027755415409463534"
         }
       ],
       "matchReason": "keyword_match",
@@ -135,14 +167,82 @@
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
         "relevanceScore": 8,
-        "mentionScore": 10,
-        "recencyScore": 9,
+        "mentionScore": 32,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "59c8a1bab251018017e7d91651759d4778ae91da",
-      "score": 31
+      "dedupeFingerprint": "4ae18cbf51eb9ccbd2dae032a9e69bb46e2ebad6",
+      "score": 54
+    },
+    {
+      "id": "https://www.coindesk.com/web3/2026/03/03/aave-governance-rift-deepens-as-major-governance-group-exits-usd26-billion-defi-protocol",
+      "title": "Aave governance rift deepens as major governance group exits $26 billion DeFi protocol",
+      "url": "https://www.coindesk.com/web3/2026/03/03/aave-governance-rift-deepens-as-major-governance-group-exits-usd26-billion-defi-protocol",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-03T17:26:07.000Z",
+      "summary": "The conflict centered on a proposal to fund product development and expansion, which ACI opposed due to concerns over self-voting and lack of transparency.",
+      "tags": [
+        "aave",
+        "governance",
+        "rift"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 2,
+      "xMentions": 2,
+      "who": [
+        {
+          "handle": "@marinonchain",
+          "summary": "What does the Net-Zero Emissions vote mean for the future of $JUP? 🪐 And what does the next era of the Jupiverse act...",
+          "tweetUrl": "https://twitter.com/marinonchain/status/2026870033247318445",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@defiantnews",
+          "summary": "Aave Chan Initiative @AaveChan Announces Exit From Aave Amid Governance Rift In a governance forum post published Mar...",
+          "tweetUrl": "https://twitter.com/defiantnews/status/2028797935182389269",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@marinonchain",
+          "summary": "What does the Net-Zero Emissions vote mean for the future of $JUP? 🪐 And what does the next era of the Jupiverse act...",
+          "tweetUrl": "https://twitter.com/marinonchain/status/2026870033247318445",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@defiantnews",
+          "summary": "Aave Chan Initiative @AaveChan Announces Exit From Aave Amid Governance Rift In a governance forum post published Mar...",
+          "tweetUrl": "https://twitter.com/defiantnews/status/2028797935182389269",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@marinonchain",
+          "linkToTweet": "https://twitter.com/marinonchain/status/2026870033247318445"
+        },
+        {
+          "handle": "@defiantnews",
+          "linkToTweet": "https://twitter.com/defiantnews/status/2028797935182389269"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 22,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ddd0177c8269f50120fac5380d11b25d951ea434",
+      "score": 44
     },
     {
       "id": "https://decrypt.co/359691/tether-anchorage-deloitte-usat-stablecoin-reserve-report",
@@ -158,9 +258,21 @@
       ],
       "topicBucket": "defi",
       "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
-      "mentionCount": 1,
-      "xMentions": 1,
+      "mentionCount": 3,
+      "xMentions": 3,
       "who": [
+        {
+          "handle": "@marinonchain",
+          "summary": "Jupiter just raised $35M from @paraficapital. But this wasn’t about the money. It’s about what comes next for Solana’...",
+          "tweetUrl": "https://twitter.com/marinonchain/status/2026358142695559603",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@defiantnews",
+          "summary": "Stablecoin issuer @tether has made a $200 million strategic investment in @whop as it looks to expand stablecoin paym...",
+          "tweetUrl": "https://twitter.com/defiantnews/status/2026757089968939060",
+          "matchReason": "keyword_match"
+        },
         {
           "handle": "@fabianosolana",
           "summary": "One of the biggest things this year in crypto will be Meta launching their stablecoin A top-10 company by market cap ...",
@@ -170,6 +282,18 @@
       ],
       "xWho": [
         {
+          "handle": "@marinonchain",
+          "summary": "Jupiter just raised $35M from @paraficapital. But this wasn’t about the money. It’s about what comes next for Solana’...",
+          "tweetUrl": "https://twitter.com/marinonchain/status/2026358142695559603",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@defiantnews",
+          "summary": "Stablecoin issuer @tether has made a $200 million strategic investment in @whop as it looks to expand stablecoin paym...",
+          "tweetUrl": "https://twitter.com/defiantnews/status/2026757089968939060",
+          "matchReason": "keyword_match"
+        },
+        {
           "handle": "@fabianosolana",
           "summary": "One of the biggest things this year in crypto will be Meta launching their stablecoin A top-10 company by market cap ...",
           "tweetUrl": "https://twitter.com/fabianosolana/status/2028143565294170601",
@@ -177,6 +301,14 @@
         }
       ],
       "mentionedBy": [
+        {
+          "handle": "@marinonchain",
+          "linkToTweet": "https://twitter.com/marinonchain/status/2026358142695559603"
+        },
+        {
+          "handle": "@defiantnews",
+          "linkToTweet": "https://twitter.com/defiantnews/status/2026757089968939060"
+        },
         {
           "handle": "@fabianosolana",
           "linkToTweet": "https://twitter.com/fabianosolana/status/2028143565294170601"
@@ -187,14 +319,82 @@
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
         "relevanceScore": 2,
-        "mentionScore": 10,
-        "recencyScore": 10,
+        "mentionScore": 30,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "73f75707b7e236885d3f86ceec28a758178facb6",
-      "score": 25
+      "score": 44
+    },
+    {
+      "id": "https://www.theblock.co/post/392019/visa-and-stripe-plan-global-expansion-of-stablecoin-card-issuance-product-to-over-100-countries",
+      "title": "Visa and Stripe plan global expansion of stablecoin card issuance product to over 100 countries",
+      "url": "https://www.theblock.co/post/392019/visa-and-stripe-plan-global-expansion-of-stablecoin-card-issuance-product-to-over-100-countries",
+      "source": "The Block",
+      "publishedAt": "2026-03-03T15:01:25.000Z",
+      "summary": "The product, when first unveiled in 2025, was initially focused on Central and South American countries and is currently live in 18 countries.",
+      "tags": [
+        "visa",
+        "stripe",
+        "plan"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Conversation overlap is live — this is actively shaping Solana positioning.",
+      "mentionCount": 2,
+      "xMentions": 2,
+      "who": [
+        {
+          "handle": "@marinonchain",
+          "summary": "You don't realize how much Jupiter is dominating Solana right now 🪐 They just dropped their yearly report - and I we...",
+          "tweetUrl": "https://twitter.com/marinonchain/status/2028433560831463428",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@defiantnews",
+          "summary": "Visa and Stripe-Owned Bridge Roll Out Stablecoin-Linked Cards to 100+ Countries The program allows fintech firms and ...",
+          "tweetUrl": "https://twitter.com/defiantnews/status/2028834451845754974",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "xWho": [
+        {
+          "handle": "@marinonchain",
+          "summary": "You don't realize how much Jupiter is dominating Solana right now 🪐 They just dropped their yearly report - and I we...",
+          "tweetUrl": "https://twitter.com/marinonchain/status/2028433560831463428",
+          "matchReason": "keyword_match"
+        },
+        {
+          "handle": "@defiantnews",
+          "summary": "Visa and Stripe-Owned Bridge Roll Out Stablecoin-Linked Cards to 100+ Countries The program allows fintech firms and ...",
+          "tweetUrl": "https://twitter.com/defiantnews/status/2028834451845754974",
+          "matchReason": "keyword_match"
+        }
+      ],
+      "mentionedBy": [
+        {
+          "handle": "@marinonchain",
+          "linkToTweet": "https://twitter.com/marinonchain/status/2028433560831463428"
+        },
+        {
+          "handle": "@defiantnews",
+          "linkToTweet": "https://twitter.com/defiantnews/status/2028834451845754974"
+        }
+      ],
+      "matchReason": "keyword_match",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 22,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "570d5e24042acb158339370758f54b81db974d12",
+      "score": 41
     }
   ]
 }

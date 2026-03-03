@@ -1,26 +1,26 @@
 {
   "date": "2026-03-03",
-  "generated_at_utc": "2026-03-03T07:41:14.229Z",
-  "ctxMarket": "Attention is on Solana’s resilience and product expansion, with ETF inflows and new integrations drawing interest despite recent price declines. Activity around memecoin platforms and institutional staking is also in focus.",
-  "ctxTalking": "• Pump.fun expanding to support tokens from rival memecoin generators and non-native assets\n• Continued inflows into Solana ETFs even as spot prices softened\n• Institutional adoption of Marinade’s staking products and the launch of a Solana ETF staking exclusively via Marinade Select",
-  "ctxMatters": "Support for non-native tokens on Pump.fun may broaden Solana’s memecoin ecosystem and user base. ETF inflows and institutional staking signal ongoing confidence in Solana’s infrastructure, even during market drawdowns. Recent DeFi setbacks, such as the Step Finance shutdown, highlight ongoing security and sustainability challenges.",
-  "ctxSignal": "Signal: ETF inflows and Marinade’s institutional traction suggest sustained interest from larger players. \nNoise: Short-term altcoin outperformance is being framed as a positioning rebound, not a lasting trend.",
-  "ctxGlossary": "ETF — Exchange-traded fund; a regulated investment vehicle tracking an asset or basket of assets\nTVL — Total value locked; the sum of assets deposited in a protocol or ecosystem",
+  "generated_at_utc": "2026-03-03T18:39:21.115Z",
+  "ctxMarket": "Attention is focused on Solana’s ecosystem resilience after a major DeFi aggregator shut down and a meme coin controversy in Japan. Altcoins, including some Solana projects, have seen notable gains as Bitcoin trading steadies.",
+  "ctxTalking": "• Japan’s prime minister distancing herself from a Solana meme coin that crashed after a brief surge\n• The closure of Step Finance following a wallet compromise, ending its role as a DeFi aggregator on Solana\n• Growing interest from major payment companies in Solana’s infrastructure for real-world financial applications",
+  "ctxMatters": "Solana’s security practices and project sustainability are under scrutiny after Step Finance’s shutdown. The meme coin incident highlights risks around celebrity or political associations. Meanwhile, continued engagement from firms like Visa and PayPal signals institutional confidence in Solana’s payment capabilities.",
+  "ctxSignal": "Signal: Institutional payment players are actively building on Solana, and security lapses can end even established projects.\nNoise: Speculation around political figures and meme coins without substantiated links.",
+  "ctxGlossary": "DeFi aggregator — A platform that combines multiple decentralized finance services for users.\nMeme coin — A cryptocurrency created as a joke or based on internet memes, often highly volatile.",
   "readMore": [
     {
-      "title": "Pump.fun adds support for tokens launched on rival memecoin generators and other non-native assets",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/391855/pump-fun-adds-support-tokens-launched-rival-memecoin-generators-other-non-native-assets"
-    },
-    {
-      "title": "Bitcoin, Ethereum, and Solana ETFs record weekly inflows amid price weakness",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/bitcoin-ethereum-and-solana-etfs-record-weekly-inflows-amid-price-weakness"
-    },
-    {
-      "title": "CoinDesk 20 performance update",
+      "title": "Japan prime minister Sanae Takaichi disavows Solana meme coin after it crashes by 75%",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/02/coindesk-20-performance-update-near-protocol-near-jumps-12-4-over-weekend"
+      "url": "https://www.coindesk.com/business/2026/03/03/japan-prime-minister-sanae-takaichi-disavows-solana-meme-coin-after-it-crashes-by-75"
+    },
+    {
+      "title": "Altcoins Outperform Bitcoin With Double-Digit Weekly Gains",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/359581/altcoins-outperform-bitcoin-with-double-digit-weekly-gains"
+    },
+    {
+      "title": "The End of Step Finance",
+      "source": "CryptoPotato",
+      "url": "https://cryptopotato.com/the-end-of-step-finance-how-a-wallet-compromise-killed-the-solana-defi-aggregator"
     }
   ]
 }
