@@ -1,12 +1,12 @@
 "use client";
 
 import React, { useEffect, useRef, useState } from "react";
-import { useConnection, useWallet } from "@solana/wallet-adapter-react";
+import { useWallet } from "@solana/wallet-adapter-react";
 import { useWalletModal } from "@solana/wallet-adapter-react-ui";
 import MatrixBanner from "./MatrixBanner";
 import { getKickerClass, getKickerColor } from "../lib/categories";
-
-
+import { SolanaMobileWalletAdapter, createDefaultAddressSelector, createDefaultAuthorizationResultCache, createDefaultWalletNotFoundHandler } from "@solana-mobile/wallet-adapter-mobile";
+import { WalletAdapterNetwork } from "@solana/wallet-adapter-base";
 import { Capacitor } from "@capacitor/core";
 
 const SEEKER_GROUP = "GT22s89nU4iWFkNXj1Bw6uYhJJWDRPpShHt4Bk8f99Te";
@@ -180,151 +180,74 @@ function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisc
  * @returns {JSX.Element} The original content if authorized, or the paywall otherwise
  */
 export default function SeekerGuard({ children, peekData = null }) {
-  const { connection } = useConnection();
-  const { publicKey, connected, wallet, wallets, disconnect, select, connect: connectWallet } = useWallet();
+  const { disconnect } = useWallet();
   const { setVisible } = useWalletModal();
-  const mwaConnectPending = useRef(false);
-  // Ref always points to the latest connectWallet — avoids stale closure in useEffect
-  const connectWalletRef = useRef(connectWallet);
-  connectWalletRef.current = connectWallet;
 
   const [debugInfo, setDebugInfo] = useState(null);
+  const [connecting, setConnecting] = useState(false);
 
   const [hasSeeker, setHasSeeker] = useState(() => {
     if (typeof window !== "undefined") {
-      // Persist across sessions — cleared on explicit disconnect
       if (window.localStorage.getItem("gossip_seeker_verified") === "true") return true;
     }
     return false;
   });
-  const [wrongDevice, setWrongDevice] = useState(false);
-  const [checking, setChecking] = useState(false);
 
-  // Fires after select() updates wallet state. Uses connectWalletRef (not connectWallet
-  // directly) to avoid the stale closure bug — the dep array triggers re-run when wallet
-  // name changes, but without the ref, connectWallet would still be the old closure where
-  // wallet===null, causing WalletNotSelectedError.
-  useEffect(() => {
-    const adName = wallet?.adapter?.name || "nil";
-    setDebugInfo(`eff|pend:${mwaConnectPending.current}|w:${adName.slice(0,6)}|conn:${connected}`);
-    if (!mwaConnectPending.current) return;
-    if (!adName.toLowerCase().includes("mobile wallet")) return;
-    if (connected) return;
-    mwaConnectPending.current = false;
-    connectWalletRef.current()
-      .then(() => setDebugInfo("mwa:connected"))
-      .catch(e => setDebugInfo(`err: ${e?.message || String(e)}`));
-  }, [wallet?.adapter?.name, connected]);
-
-  useEffect(() => {
-    const checkOwnership = async () => {
-      if (!publicKey || !connected) { setHasSeeker(false); setWrongDevice(false); return; }
-      setChecking(true);
-      setWrongDevice(false);
-      try {
-        const adapterName = wallet?.adapter?.name || "";
-        const isMWA = adapterName.toLowerCase().includes("mobile wallet") || adapterName.toLowerCase().includes("mwa");
-
-        if (!isMWA) {
-          setWrongDevice(true);
-          setHasSeeker(false);
-          return;
-        }
-
-        // Connected via Mobile Wallet Adapter — persist so re-opens don't require reconnect
-        window.localStorage.setItem("gossip_seeker_verified", "true");
-        setHasSeeker(true);
-      } catch (err) {
-        setHasSeeker(false);
-      } finally {
-        setChecking(false);
-      }
-    };
-    checkOwnership();
-  }, [publicKey, connected, wallet, connection]);
-
-  const handleConnect = () => {
+  const handleConnect = async () => {
     const isNative = Capacitor?.isNativePlatform?.() && Capacitor?.getPlatform?.() === "android";
-    const adapterName = wallet?.adapter?.name || "none";
-    const walletNames = wallets.map(w => w.adapter?.name || "?").join(",") || "empty";
+    setDebugInfo(`tap|native:${isNative ? "Y" : "N"}`);
 
-    setDebugInfo(`tap|native:${isNative ? "Y" : "N"}|cur:${adapterName}|reg:${walletNames}`);
-
-    if (isNative) {
-      // Find the mobile wallet adapter by checking for "mobile" in the name
-      const mwaWallet = wallets.find(w => w.adapter?.name?.toLowerCase().includes("mobile"));
-      const mwaName = mwaWallet?.adapter?.name;
-
-      const alreadyMWA = adapterName.toLowerCase().includes("mobile");
-      if (alreadyMWA && !connected) {
-        connectWallet()
-          .then(() => setDebugInfo("mwa:connected"))
-          .catch(e => setDebugInfo(`err: ${e?.message || String(e)}`));
-      } else if (mwaName) {
-        mwaConnectPending.current = true;
-        select(mwaName);
-      } else {
-        setDebugInfo(`no-mwa|reg:${walletNames}`);
-      }
-    } else {
+    if (!isNative) {
       setVisible(true);
+      return;
+    }
+
+    // Native Android: directly invoke SolanaMobileWalletAdapter, bypassing
+    // useWallet() which filters MWA out on Capacitor WebViews (isWebView check).
+    setConnecting(true);
+    setDebugInfo("creating-mwa");
+    try {
+      const mwa = new SolanaMobileWalletAdapter({
+        addressSelector: createDefaultAddressSelector(),
+        appIdentity: {
+          name: "Gossip Intelligence",
+          uri: "https://validator-solana-intelligence.vercel.app",
+          icon: "https://validator-solana-intelligence.vercel.app/icon.png",
+        },
+        authorizationResultCache: createDefaultAuthorizationResultCache(),
+        cluster: WalletAdapterNetwork.Mainnet,
+        onWalletNotFound: createDefaultWalletNotFoundHandler(),
+      });
+      setDebugInfo("connecting-mwa");
+      await mwa.connect();
+      setDebugInfo("mwa:connected");
+      window.localStorage.setItem("gossip_seeker_verified", "true");
+      setHasSeeker(true);
+    } catch (e) {
+      setDebugInfo(`err: ${e?.message || String(e)}`);
+    } finally {
+      setConnecting(false);
     }
   };
+
   const handleDisconnect = () => {
     window.localStorage.removeItem("gossip_seeker_verified");
     setHasSeeker(false);
     disconnect();
   };
 
-  if (!connected && !hasSeeker) {
-    return <GossipPaywall variant="not-connected" onConnect={handleConnect} onBypass={() => {
-      if (typeof window !== "undefined") {
-        window.localStorage.setItem("gossip_seeker_verified", "true");
-      }
-      setHasSeeker(true);
-    }} peekData={peekData} debugInfo={debugInfo} />;
-  }
-
-  if (checking) {
-    return (
-      <div style={{ position: "relative" }}>
-        {children}
-        <div style={{
-          position: "absolute", top: "50%", left: "50%",
-          transform: "translate(-50%, -50%)", zIndex: 50,
-          background: "rgba(24,24,27,0.95)", border: "1px solid rgba(16,185,129,0.4)",
-          borderRadius: "12px", padding: "16px 24px", backdropFilter: "blur(12px)",
-        }}>
-          <div style={{ color: "#10b981", fontSize: "14px" }}>Verifying Seeker token…</div>
-        </div>
-      </div>
-    );
-  }
-
-  if (wrongDevice) {
-    return (
-      <GossipPaywall
-        variant="wrong-device"
-        onConnect={handleConnect}
-        publicKey={publicKey}
-        onDisconnect={handleDisconnect}
-        onBypass={() => { setWrongDevice(false); setHasSeeker(true); }}
-        peekData={peekData}
-      />
-    );
-  }
-
   if (!hasSeeker) {
-    return (
-      <GossipPaywall
-        variant="no-token"
-        onConnect={handleConnect}
-        publicKey={publicKey}
-        onDisconnect={handleDisconnect}
-        onBypass={() => setHasSeeker(true)}
-        peekData={peekData}
-      />
-    );
+    return <GossipPaywall
+      variant="not-connected"
+      onConnect={handleConnect}
+      onDisconnect={handleDisconnect}
+      onBypass={() => {
+        window.localStorage.setItem("gossip_seeker_verified", "true");
+        setHasSeeker(true);
+      }}
+      peekData={peekData}
+      debugInfo={connecting ? "Connecting…" : debugInfo}
+    />;
   }
 
   return children;
