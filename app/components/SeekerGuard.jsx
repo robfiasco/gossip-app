@@ -220,9 +220,29 @@ export default function SeekerGuard({ children, peekData = null }) {
         cluster: WalletAdapterNetwork.Mainnet,
         onWalletNotFound: createDefaultWalletNotFoundHandler(),
       });
+      // Intercept the intent URL so we can see if MWA actually ran
+      let intentUrl = null;
+      const origBridge = window.__openSolanaIntentUrl;
+      window.__openSolanaIntentUrl = (url) => {
+        intentUrl = url.toString();
+        setDebugInfo(`intent:${intentUrl.slice(0, 40)}`);
+        return origBridge?.(url);
+      };
+
       setDebugInfo("connecting-mwa");
       await mwa.connect();
-      setDebugInfo("mwa:connected");
+
+      window.__openSolanaIntentUrl = origBridge; // restore
+
+      const pk = mwa.publicKey?.toBase58() || null;
+      setDebugInfo(`done|pk:${pk?.slice(0, 8) || "null"}|intent:${intentUrl ? "Y" : "N"}`);
+
+      // Require a real public key — connect() resolving without one means no real MWA handshake
+      if (!pk) {
+        setDebugInfo(`no-pubkey|intent:${intentUrl ? "Y" : "N"} — connection did not authenticate`);
+        return;
+      }
+
       window.localStorage.setItem("gossip_seeker_verified", "true");
       setHasSeeker(true);
     } catch (e) {
