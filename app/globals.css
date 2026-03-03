@@ -5843,6 +5843,11 @@ body {
   .seeker-detail-metric-card strong {
     font-size: 1.1rem;
   }
+
+  /* Push header below Android status bar — placed after base rule to win cascade */
+  .header-terminal {
+    padding-top: max(calc(env(safe-area-inset-top) + 12px), 56px);
+  }
 }
 
 /* ─────────────────────────────────────────────────────────────────────────

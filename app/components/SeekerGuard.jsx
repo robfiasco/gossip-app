@@ -190,13 +190,16 @@ export default function SeekerGuard({ children, peekData = null }) {
   const [wrongDevice, setWrongDevice] = useState(false);
   const [checking, setChecking] = useState(false);
 
-  // autoConnect only fires when readyState===Installed; MWA may report Loadable in a WebView,
-  // so we manually call connect() once the adapter is selected
+  // autoConnect only fires when readyState===Installed; MWA may report Loadable in a WebView.
+  // Watch for the adapter being set AND for the pending flag, then connect manually.
+  // The setTimeout handles the case where MWA is already the selected adapter (select() is a
+  // no-op and doesn't trigger a state change, so we can't rely on the dep array alone).
   useEffect(() => {
-    if (mwaConnectPending.current && wallet?.adapter?.name?.toLowerCase().includes("mobile wallet") && !connected) {
-      mwaConnectPending.current = false;
-      connectWallet().catch(() => {});
-    }
+    if (!mwaConnectPending.current) return;
+    if (!wallet?.adapter?.name?.toLowerCase().includes("mobile wallet")) return;
+    if (connected) return;
+    mwaConnectPending.current = false;
+    connectWallet().catch(() => {});
   }, [wallet?.adapter?.name, connected]);
 
   useEffect(() => {
@@ -233,6 +236,13 @@ export default function SeekerGuard({ children, peekData = null }) {
     if (isNative) {
       mwaConnectPending.current = true;
       select("Mobile Wallet Adapter");
+      // Fallback: if MWA is already selected the dep-array effect won't re-fire,
+      // so also attempt connect() after a tick directly.
+      setTimeout(() => {
+        if (!mwaConnectPending.current) return; // effect already handled it
+        mwaConnectPending.current = false;
+        connectWallet().catch(() => {});
+      }, 100);
     } else {
       setVisible(true);
     }
