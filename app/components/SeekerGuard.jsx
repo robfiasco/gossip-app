@@ -181,7 +181,7 @@ function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisc
  */
 export default function SeekerGuard({ children, peekData = null }) {
   const { connection } = useConnection();
-  const { publicKey, connected, wallet, disconnect, select, connect: connectWallet } = useWallet();
+  const { publicKey, connected, wallet, wallets, disconnect, select, connect: connectWallet } = useWallet();
   const { setVisible } = useWalletModal();
   const mwaConnectPending = useRef(false);
   // Ref always points to the latest connectWallet — avoids stale closure in useEffect
@@ -246,19 +246,25 @@ export default function SeekerGuard({ children, peekData = null }) {
   const handleConnect = () => {
     const isNative = Capacitor?.isNativePlatform?.() && Capacitor?.getPlatform?.() === "android";
     const adapterName = wallet?.adapter?.name || "none";
-    setDebugInfo(`tap | native:${isNative ? "Y" : "N"} | adapter:${adapterName}`);
+    const walletNames = wallets.map(w => w.name).join(",") || "empty";
+
+    setDebugInfo(`tap|native:${isNative ? "Y" : "N"}|cur:${adapterName}|reg:${walletNames}`);
 
     if (isNative) {
-      const alreadyMWA = adapterName.toLowerCase().includes("mobile wallet");
+      // Find the mobile wallet adapter by checking for "mobile" in the name
+      const mwaAdapter = wallets.find(w => w.name.toLowerCase().includes("mobile"));
+      const mwaName = mwaAdapter?.name;
+
+      const alreadyMWA = adapterName.toLowerCase().includes("mobile");
       if (alreadyMWA && !connected) {
-        // Adapter already selected — connectWallet() has current wallet in scope, call directly
         connectWallet()
           .then(() => setDebugInfo("mwa:connected"))
           .catch(e => setDebugInfo(`err: ${e?.message || String(e)}`));
-      } else {
-        // Need to select first; useEffect fires after state update with fresh connectWallet
+      } else if (mwaName) {
         mwaConnectPending.current = true;
-        select("Mobile Wallet Adapter");
+        select(mwaName);
+      } else {
+        setDebugInfo(`no-mwa|reg:${walletNames}`);
       }
     } else {
       setVisible(true);
