@@ -176,14 +176,12 @@ function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisc
  */
 export default function SeekerGuard({ children, peekData = null }) {
   const { connection } = useConnection();
-  const { publicKey, connected, wallet, disconnect } = useWallet();
+  const { publicKey, connected, wallet, disconnect, select } = useWallet();
   const { setVisible } = useWalletModal();
   const [hasSeeker, setHasSeeker] = useState(() => {
     if (typeof window !== "undefined") {
       // Persist across sessions — cleared on explicit disconnect
       if (window.localStorage.getItem("gossip_seeker_verified") === "true") return true;
-      // Grant access immediately if running as native Capacitor app on Android
-      if (Capacitor?.isNativePlatform?.() && Capacitor?.getPlatform?.() === "android") return true;
     }
     return false;
   });
@@ -192,10 +190,6 @@ export default function SeekerGuard({ children, peekData = null }) {
 
   useEffect(() => {
     const checkOwnership = async () => {
-      // Native Capacitor on Android — grant access without requiring a wallet connection
-      const isNative = Capacitor?.isNativePlatform?.() && Capacitor?.getPlatform?.() === "android";
-      if (isNative) { setHasSeeker(true); return; }
-
       if (!publicKey || !connected) { setHasSeeker(false); setWrongDevice(false); return; }
       setChecking(true);
       setWrongDevice(false);
@@ -221,7 +215,16 @@ export default function SeekerGuard({ children, peekData = null }) {
     checkOwnership();
   }, [publicKey, connected, wallet, connection]);
 
-  const handleConnect = () => setVisible(true);
+  const handleConnect = () => {
+    // On native Android, skip the wallet selection modal and go straight to MWA
+    // — this fires the solana-wallet:// intent that triggers the robfiasco.skr bottom sheet
+    const isNative = Capacitor?.isNativePlatform?.() && Capacitor?.getPlatform?.() === "android";
+    if (isNative) {
+      select("Mobile Wallet Adapter");
+    } else {
+      setVisible(true);
+    }
+  };
   const handleDisconnect = () => {
     window.localStorage.removeItem("gossip_seeker_verified");
     setHasSeeker(false);
