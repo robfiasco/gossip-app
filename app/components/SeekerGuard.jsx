@@ -5,7 +5,7 @@ import { useWallet } from "@solana/wallet-adapter-react";
 import { useWalletModal } from "@solana/wallet-adapter-react-ui";
 import MatrixBanner from "./MatrixBanner";
 import { getKickerClass, getKickerColor } from "../lib/categories";
-import { SolanaMobileWalletAdapter, createDefaultAddressSelector, createDefaultAuthorizationResultCache, createDefaultWalletNotFoundHandler } from "@solana-mobile/wallet-adapter-mobile";
+import { SolanaMobileWalletAdapter, createDefaultAddressSelector, createDefaultWalletNotFoundHandler } from "@solana-mobile/wallet-adapter-mobile";
 import { WalletAdapterNetwork } from "@solana/wallet-adapter-base";
 import { Capacitor } from "@capacitor/core";
 
@@ -214,7 +214,9 @@ export default function SeekerGuard({ children, peekData = null }) {
           uri: "https://validator-solana-intelligence.vercel.app",
           icon: "https://validator-solana-intelligence.vercel.app/icon.png",
         },
-        authorizationResultCache: createDefaultAuthorizationResultCache(),
+        // No-op cache — always show the Seeker wallet sheet on Connect.
+        // Our own gossip_seeker_verified key handles the "stay logged in" flow.
+        authorizationResultCache: { get: async () => null, set: async () => {}, clear: async () => {} },
         cluster: WalletAdapterNetwork.Mainnet,
         onWalletNotFound: createDefaultWalletNotFoundHandler(),
       });
