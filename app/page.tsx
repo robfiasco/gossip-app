@@ -933,7 +933,7 @@ export default function Home() {
                         index={activeStoryIndex}
                         total={stories.length}
                         onBack={() => setActiveStoryIndex(-1)}
-                        publishDate={newsCardsData?.date}
+                        publishDate={new Date().toISOString().slice(0, 10)}
                       />
                     ) : (
                       <section className="morning-open" id="top-story-feed">
