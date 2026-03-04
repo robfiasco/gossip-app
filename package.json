@@ -1,7 +1,7 @@
 {
   "name": "gossip-solana-intelligence",
   "private": true,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "type": "module",
   "scripts": {
     "postinstall": "node patch-solana.mjs",
