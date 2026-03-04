@@ -385,6 +385,9 @@ export const loadDailyData = async () => {
   const resolvedNews = {
     ...fallbackNews,
     ...(normalizedNews || {}),
+    // Always reflect today's server date — KV payload may carry yesterday's date if the
+    // pipeline ran before midnight, but the app is always serving current-day intelligence.
+    date: generatedNow.slice(0, 10),
     items: Array.isArray(normalizedNews?.items) ? normalizedNews.items : fallbackNews.items
   };
 
