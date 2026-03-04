@@ -8,6 +8,8 @@ import { getKickerClass, getKickerColor } from "../lib/categories";
 import { transact } from "@solana-mobile/mobile-wallet-adapter-protocol-web3js";
 import { Capacitor } from "@capacitor/core";
 
+// These are public on-chain program/group addresses — not secrets.
+// They are used to verify Seeker token holdings via the Solana RPC.
 const SEEKER_GROUP = "GT22s89nU4iWFkNXj1Bw6uYhJJWDRPpShHt4Bk8f99Te";
 const TOKEN_2022_PROGRAM = "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb";
 const TOKEN_2022_ALT = "TokenzQdBNbequW8uyM9nj2HPEC4bsrghF8RTuPMJM"; // common alias
@@ -82,7 +84,7 @@ function PlaceholderCard() {
   );
 }
 
-function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisconnect, onBypass, peekData }) {
+function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisconnect, onBypass, peekData, connectError }) {
   const isNoToken = variant === "no-token";
   const isWrongDevice = variant === "wrong-device";
   const lead = peekData?.lead;
@@ -117,15 +119,18 @@ function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisc
                 ? `Wallet ${publicKey?.toBase58().slice(0, 4)}…${publicKey?.toBase58().slice(-4)} doesn't hold the Genesis token.`
                 : "This intel is exclusive to Solana Seeker Mobile holders. Connect your wallet to unlock today's full stories."}
           </p>
+          {connectError && (
+            <p style={{ color: "#ff6b6b", fontSize: "0.78rem", marginBottom: "12px" }}>{connectError}</p>
+          )}
           <div style={{ display: isWrongDevice ? "none" : "block" }}>
-            <button className="gossip-paywall-cta" onClick={onConnect} style={{ width: "100%", maxWidth: "260px", margin: "0 auto" }}>
+            <button type="button" className="gossip-paywall-cta" onClick={onConnect} style={{ width: "100%", maxWidth: "260px", margin: "0 auto" }}>
               {isNoToken ? "Get Seeker Token  ↗" : "Connect Wallet"}
             </button>
           </div>
           <div className="gossip-paywall-secondary-row" style={{ marginTop: "16px", display: "flex", flexDirection: "column", gap: "8px", alignItems: "center" }}>
-            <button className="gossip-paywall-link" style={{ color: "rgba(16, 185, 129, 0.8)", fontWeight: "500", letterSpacing: "0.05em" }} onClick={onBypass}>Hackathon Judge Bypass</button>
+            <button type="button" className="gossip-paywall-link" style={{ color: "rgba(16, 185, 129, 0.8)", fontWeight: "500", letterSpacing: "0.05em" }} onClick={onBypass}>Hackathon Judge Bypass</button>
             {(isNoToken || isWrongDevice) && (
-              <button className="gossip-paywall-link" onClick={onDisconnect}>Disconnect</button>
+              <button type="button" className="gossip-paywall-link" onClick={onDisconnect}>Disconnect</button>
             )}
           </div>
         </div>
@@ -159,6 +164,7 @@ export default function SeekerGuard({ children, peekData = null }) {
     }
     return false;
   });
+  const [connectError, setConnectError] = useState(null);
 
   useEffect(() => {
     const onDisconnect = () => setHasSeeker(false);
@@ -167,6 +173,7 @@ export default function SeekerGuard({ children, peekData = null }) {
   }, []);
 
   const handleConnect = async () => {
+    setConnectError(null);
     const isNative = Capacitor?.isNativePlatform?.() && Capacitor?.getPlatform?.() === "android";
 
     if (!isNative) {
@@ -191,12 +198,17 @@ export default function SeekerGuard({ children, peekData = null }) {
       });
 
       const address = authResult?.accounts?.[0]?.address;
-      if (!address) return;
+      if (!address) {
+        setConnectError("Wallet returned no address. Please try again.");
+        return;
+      }
 
       window.localStorage.setItem("gossip_seeker_verified", "true");
       setHasSeeker(true);
     } catch (e) {
-      console.error("MWA connect failed:", e);
+      // User dismissed the wallet sheet or MWA session failed
+      const msg = e?.message || "Wallet connection failed. Please try again.";
+      setConnectError(msg);
     }
   };
 
@@ -211,6 +223,7 @@ export default function SeekerGuard({ children, peekData = null }) {
       variant="not-connected"
       onConnect={handleConnect}
       onDisconnect={handleDisconnect}
+      connectError={connectError}
       onBypass={() => {
         window.localStorage.setItem("gossip_seeker_verified", "true");
         setHasSeeker(true);

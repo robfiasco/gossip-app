@@ -36,7 +36,11 @@ export default function OnboardingCarousel() {
     useEffect(() => {
         try {
             if (!window.localStorage.getItem(STORAGE_KEY)) setVisible(true);
-        } catch { /* ignore */ }
+        } catch (e) {
+            // localStorage blocked (e.g. private browsing); show onboarding anyway
+            if (process.env.NODE_ENV !== "production") console.warn("localStorage read failed:", e);
+            setVisible(true);
+        }
     }, []);
 
     const goTo = useCallback((idx) => {
@@ -53,7 +57,10 @@ export default function OnboardingCarousel() {
         setExiting(true);
         setTimeout(() => setVisible(false), 320);
         if (permanent) {
-            try { window.localStorage.setItem(STORAGE_KEY, "1"); } catch { /* ignore */ }
+            try { window.localStorage.setItem(STORAGE_KEY, "1"); } catch (e) {
+                // Silently fail — preference just won't persist in restricted environments
+                if (process.env.NODE_ENV !== "production") console.warn("localStorage write failed:", e);
+            }
         }
     }, []);
 

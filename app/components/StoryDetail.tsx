@@ -88,7 +88,7 @@ export default function StoryDetail({ story, index, total, onBack, publishDate }
                     <section className="seeker-detail-card">
                         <h3>Event Timeline</h3>
                         <div className="seeker-detail-timeline">
-                            {timeline.map((event: any, idx: number) => (
+                            {timeline.map((event: { date?: string; event?: string; impact?: string }, idx: number) => (
                                 <div key={`${event?.date || "event"}-${idx}`} className="seeker-detail-timeline-row">
                                     <span className={`dot ${timelineDotClass(event?.impact)}`} />
                                     <div>
@@ -107,7 +107,7 @@ export default function StoryDetail({ story, index, total, onBack, publishDate }
                     <section className="seeker-detail-card">
                         <h3>Key Voices</h3>
                         <div className="seeker-detail-quotes">
-                            {keyQuotes.map((quote: any, idx: number) => (
+                            {keyQuotes.map((quote: { text?: string; author?: string; sentiment?: string }, idx: number) => (
                                 <article key={`${quote?.author || "quote"}-${idx}`} className={`seeker-quote ${quoteColorClass(quote?.sentiment)}`}>
                                     <p>&ldquo;{String(quote?.text || "")}&rdquo;</p>
                                     <small>{String(quote?.author || "")}</small>
@@ -123,7 +123,7 @@ export default function StoryDetail({ story, index, total, onBack, publishDate }
                     <section className="seeker-detail-card">
                         <h3>Key Players</h3>
                         <div className="seeker-detail-players">
-                            {keyPlayers.map((player: any, idx: number) => (
+                            {keyPlayers.map((player: { name?: string; role?: string; stance?: string; influence?: string }, idx: number) => (
                                 <div key={`${player?.name || "player"}-${idx}`} className="seeker-detail-player-row">
                                     <div>
                                         <p>{String(player?.name || "")}</p>

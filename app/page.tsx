@@ -308,7 +308,7 @@ export default function Home() {
         setNewsCardsData(daily.newsCards);
         setIsAppReady(true);
       } catch (err) {
-        console.warn("Error fetching daily data", err);
+        if (process.env.NODE_ENV !== "production") console.warn("Error fetching daily data", err);
         setIsAppReady(true);
       }
     };
@@ -328,7 +328,7 @@ export default function Home() {
         if (!active) return;
         setMarketContextData(data);
       } catch (err) {
-        console.warn("Live price fetch failed, keeping cached value:", err);
+        if (process.env.NODE_ENV !== "production") console.warn("Live price fetch failed, keeping cached value:", err);
       }
     };
     fetchPrices();

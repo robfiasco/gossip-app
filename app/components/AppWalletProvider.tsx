@@ -38,8 +38,9 @@ export default function AppWalletProvider({ children }: { children: React.ReactN
                 addressSelector: createDefaultAddressSelector(),
                 appIdentity: {
                     name: "Gossip Intelligence",
-                    uri: "https://validator-solana-intelligence.vercel.app",
-                    icon: "https://validator-solana-intelligence.vercel.app/icon.png",
+                    // NEXT_PUBLIC_APP_URL is set in next.config.mjs (falls back to the Vercel deployment)
+                    uri: process.env.NEXT_PUBLIC_APP_URL ?? "https://validator-solana-intelligence.vercel.app",
+                    icon: `${process.env.NEXT_PUBLIC_APP_URL ?? "https://validator-solana-intelligence.vercel.app"}/icon.png`,
                 },
                 authorizationResultCache: createDefaultAuthorizationResultCache(),
                 cluster: WalletAdapterNetwork.Mainnet,
