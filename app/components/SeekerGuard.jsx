@@ -8,8 +8,6 @@ import { getKickerClass, getKickerColor } from "../lib/categories";
 import { transact } from "@solana-mobile/mobile-wallet-adapter-protocol-web3js";
 import { Capacitor } from "@capacitor/core";
 
-// These are public on-chain program/group addresses — not secrets.
-// They are used to verify Seeker token holdings via the Solana RPC.
 const SEEKER_GROUP = "GT22s89nU4iWFkNXj1Bw6uYhJJWDRPpShHt4Bk8f99Te";
 const TOKEN_2022_PROGRAM = "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb";
 const TOKEN_2022_ALT = "TokenzQdBNbequW8uyM9nj2HPEC4bsrghF8RTuPMJM"; // common alias
@@ -103,7 +101,6 @@ function GossipPaywall({ onConnect, variant = "not-connected", publicKey, onDisc
     <section className="morning-open">
       <div className="morning-panel intel-card card--briefing">
 
-        {/* Paywall CTA Block (Placed OVER the blurred stories) */}
         <div style={{
           padding: "24px 18px 24px",
           textAlign: "center"

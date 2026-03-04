@@ -10,12 +10,11 @@ const { version } = require("./package.json");
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   turbopack: {
-    // Force Next to use this repo as root (prevents wrong root inference from parent lockfiles).
+    // Prevents wrong root inference when this repo sits inside a monorepo with a parent lockfile
     root: __dirname,
   },
   env: {
     NEXT_PUBLIC_APP_VERSION: version,
-    // Override via Vercel env var to decouple app URL from the project URL
     NEXT_PUBLIC_APP_URL: process.env.NEXT_PUBLIC_APP_URL ?? "https://gossip-app.vercel.app",
   },
 };

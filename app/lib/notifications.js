@@ -7,7 +7,6 @@ export async function requestAndScheduleNotifications() {
     const { display } = await LocalNotifications.requestPermissions();
     if (display !== "granted") return false;
 
-    // Cancel any existing scheduled notifications before rescheduling
     await LocalNotifications.cancel({
       notifications: Object.values(NOTIF_IDS).map(id => ({ id })),
     });
@@ -35,7 +34,6 @@ export async function requestAndScheduleNotifications() {
 
     return true;
   } catch (err) {
-    // Plugin unavailable on web or OS rejected the request
     if (process.env.NODE_ENV !== "production") console.error("Notification scheduling failed:", err);
     return false;
   }
@@ -47,6 +45,6 @@ export async function cancelNotifications() {
       notifications: Object.values(NOTIF_IDS).map(id => ({ id })),
     });
   } catch {
-    // Silently ignore — nothing to cancel or plugin unavailable
+    // ignore — nothing scheduled or plugin unavailable
   }
 }

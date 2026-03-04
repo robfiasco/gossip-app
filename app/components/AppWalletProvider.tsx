@@ -47,7 +47,6 @@ export default function AppWalletProvider({ children }: { children: React.ReactN
                 onWalletNotFound: createDefaultWalletNotFoundHandler(),
             });
 
-            // MWA shows on Seeker/mobile browsers; Phantom and Solflare show when their extension/app is detected
             setWallets([
                 mobileWalletAdapter,
                 new PhantomWalletAdapter(),

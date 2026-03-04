@@ -37,7 +37,7 @@ export default function OnboardingCarousel() {
         try {
             if (!window.localStorage.getItem(STORAGE_KEY)) setVisible(true);
         } catch (e) {
-            // localStorage blocked (e.g. private browsing); show onboarding anyway
+            // localStorage blocked (e.g. private browsing) — show onboarding regardless
             if (process.env.NODE_ENV !== "production") console.warn("localStorage read failed:", e);
             setVisible(true);
         }
@@ -58,7 +58,6 @@ export default function OnboardingCarousel() {
         setTimeout(() => setVisible(false), 320);
         if (permanent) {
             try { window.localStorage.setItem(STORAGE_KEY, "1"); } catch (e) {
-                // Silently fail — preference just won't persist in restricted environments
                 if (process.env.NODE_ENV !== "production") console.warn("localStorage write failed:", e);
             }
         }
@@ -79,7 +78,7 @@ export default function OnboardingCarousel() {
         if (touchStartX.current === null) return;
         const delta = e.changedTouches[0].clientX - touchStartX.current;
         touchStartX.current = null;
-        if (Math.abs(delta) < 50) return; // ignore micro-swipes
+        if (Math.abs(delta) < 50) return;
         if (delta < 0) next(); // swipe left → next
         else if (slide > 0) goTo(slide - 1); // swipe right → prev
     };
@@ -90,7 +89,6 @@ export default function OnboardingCarousel() {
     const isLast = slide === SLIDES.length - 1;
 
     return (
-        /* Backdrop */
         <div
             onClick={() => dismiss(false)}
             style={{
@@ -106,7 +104,6 @@ export default function OnboardingCarousel() {
                 transition: "opacity 0.32s ease",
             }}
         >
-            {/* Phone-width card */}
             <div
                 onClick={(e) => e.stopPropagation()}
                 onTouchStart={handleTouchStart}
@@ -124,7 +121,6 @@ export default function OnboardingCarousel() {
                     border: "1px solid rgba(255,255,255,0.07)",
                 }}
             >
-                {/* ── Full-bleed scene image ─── */}
                 <div style={{ flex: 1, position: "relative", minHeight: 0, overflow: "hidden" }}>
                     <img
                         key={s.img}
@@ -142,7 +138,6 @@ export default function OnboardingCarousel() {
                         }}
                     />
 
-                    {/* Skip */}
                     <button
                         onClick={() => dismiss(true)}
                         style={{
@@ -156,7 +151,6 @@ export default function OnboardingCarousel() {
                         }}
                     >Skip</button>
 
-                    {/* Gradient fade into dialogue box */}
                     <div style={{
                         position: "absolute", bottom: 0, left: 0, right: 0,
                         height: "80px",
@@ -165,7 +159,6 @@ export default function OnboardingCarousel() {
                     }} />
                 </div>
 
-                {/* ── Dialogue box ─── */}
                 <div style={{
                     flexShrink: 0,
                     padding: "16px 20px 22px",
@@ -173,7 +166,6 @@ export default function OnboardingCarousel() {
                     borderTop: `1px solid ${s.accent}28`,
                     transition: "border-color 0.4s ease",
                 }}>
-                    {/* Speaker label */}
                     <div style={{ display: "flex", alignItems: "center", gap: "7px", marginBottom: "8px" }}>
                         <div style={{ width: "5px", height: "5px", borderRadius: "50%", background: s.accent, flexShrink: 0 }} />
                         <span style={{
@@ -183,7 +175,6 @@ export default function OnboardingCarousel() {
                         }}>Gossip Cat</span>
                     </div>
 
-                    {/* Dialogue */}
                     <p style={{
                         fontSize: "0.95rem", lineHeight: 1.65,
                         color: "rgba(225,232,255,0.88)",
@@ -194,7 +185,6 @@ export default function OnboardingCarousel() {
                         transition: "opacity 0.2s ease, transform 0.2s ease",
                     }}>{s.dialogue}</p>
 
-                    {/* Dots + nav */}
                     <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
                         <div style={{ display: "flex", gap: "5px", flex: 1 }}>
                             {SLIDES.map((_, i) => (

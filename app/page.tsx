@@ -113,7 +113,6 @@ function MarketStatsBlock({
   );
 }
 
-// Main application component containing the full terminal interface
 export default function Home() {
   const [theme, setTheme] = useState<"dark" | "darker" | "gossip">("darker");
   const [focusMode, setFocusMode] = useState(false);
@@ -240,7 +239,6 @@ export default function Home() {
     }
   }, [focusMode]);
 
-  // Remove the `removeItem` hook that forcibly resets panel state on mount
 
 
 
@@ -269,9 +267,7 @@ export default function Home() {
           setTerminalData(json);
         }
       } catch {
-        // Keep last good value on transient failures.
-      } finally {
-        // no-op
+        // Keep last good value on transient failures
       }
     };
     fetchData();
