@@ -16,7 +16,7 @@ const nextConfig = {
   env: {
     NEXT_PUBLIC_APP_VERSION: version,
     // Override via Vercel env var to decouple app URL from the project URL
-    NEXT_PUBLIC_APP_URL: process.env.NEXT_PUBLIC_APP_URL ?? "https://validator-solana-intelligence.vercel.app",
+    NEXT_PUBLIC_APP_URL: process.env.NEXT_PUBLIC_APP_URL ?? "https://gossip-app.vercel.app",
   },
 };
 

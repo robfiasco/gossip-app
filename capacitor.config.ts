@@ -12,7 +12,7 @@ const config: CapacitorConfig = {
     appName: "Gossip",
     // Point to the Vercel deployment so server-side API routes work
     server: {
-        url: "https://validator-solana-intelligence.vercel.app",
+        url: "https://gossip-app.vercel.app",
         cleartext: false, // HTTPS only — no HTTP fallback
     },
     webDir: "out", // Required by Capacitor even when using remote URL
