@@ -172,7 +172,7 @@ export default function Home() {
   const hasRestoredScroll = useRef(false);
 
   const handleReplayOnboarding = () => {
-    window.sessionStorage.removeItem("gossip_onboarded");
+    window.localStorage.removeItem("gossip_onboarded");
     window.location.reload();
   };
 

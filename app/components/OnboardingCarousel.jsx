@@ -35,7 +35,7 @@ export default function OnboardingCarousel() {
 
     useEffect(() => {
         try {
-            if (!window.sessionStorage.getItem(STORAGE_KEY)) setVisible(true);
+            if (!window.localStorage.getItem(STORAGE_KEY)) setVisible(true);
         } catch { /* ignore */ }
     }, []);
 
@@ -53,7 +53,7 @@ export default function OnboardingCarousel() {
         setExiting(true);
         setTimeout(() => setVisible(false), 320);
         if (permanent) {
-            try { window.sessionStorage.setItem(STORAGE_KEY, "1"); } catch { /* ignore */ }
+            try { window.localStorage.setItem(STORAGE_KEY, "1"); } catch { /* ignore */ }
         }
     }, []);
 
