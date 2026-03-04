@@ -1118,6 +1118,7 @@ export default function Home() {
                 onClick={() => {
                   localStorage.removeItem("gossip_seeker_verified");
                   disconnect();
+                  window.dispatchEvent(new Event("gossip:disconnect"));
                   setShowInfoModal(false);
                 }}
                 className="info-modal-btn-replay"

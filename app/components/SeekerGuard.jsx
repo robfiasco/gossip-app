@@ -160,6 +160,12 @@ export default function SeekerGuard({ children, peekData = null }) {
     return false;
   });
 
+  useEffect(() => {
+    const onDisconnect = () => setHasSeeker(false);
+    window.addEventListener("gossip:disconnect", onDisconnect);
+    return () => window.removeEventListener("gossip:disconnect", onDisconnect);
+  }, []);
+
   const handleConnect = async () => {
     const isNative = Capacitor?.isNativePlatform?.() && Capacitor?.getPlatform?.() === "android";
 
