@@ -182,7 +182,10 @@ function quoteColorClass(sentimentRaw: unknown) {
 
 function formatShortDate(value?: string) {
     if (!value) return "";
-    const d = new Date(value);
+    // "YYYY-MM-DD" strings parse as UTC midnight — in western timezones that rolls back
+    // a day. Replace dashes with slashes so JS treats it as local midnight instead.
+    const normalized = /^\d{4}-\d{2}-\d{2}$/.test(value) ? value.replace(/-/g, "/") : value;
+    const d = new Date(normalized);
     if (Number.isNaN(d.getTime())) return "";
     return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
 }
