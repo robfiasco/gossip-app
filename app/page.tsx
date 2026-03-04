@@ -163,7 +163,11 @@ export default function Home() {
     typeof window !== "undefined" &&
     window.localStorage.getItem("gossip_notifications_enabled") === "true"
   );
-  const { connected, disconnect } = useWallet();
+  const { disconnect } = useWallet();
+  const [isSeekerConnected, setIsSeekerConnected] = useState(() =>
+    typeof window !== "undefined" &&
+    window.localStorage.getItem("gossip_seeker_verified") === "true"
+  );
   const carouselRef = useRef<HTMLDivElement | null>(null);
   const hasRestoredScroll = useRef(false);
 
@@ -1111,9 +1115,14 @@ export default function Home() {
               REPLAY TUTORIAL
             </button>
 
-            {connected && (
+            {isSeekerConnected && (
               <button
-                onClick={() => { disconnect(); setShowInfoModal(false); }}
+                onClick={() => {
+                  localStorage.removeItem("gossip_seeker_verified");
+                  setIsSeekerConnected(false);
+                  disconnect();
+                  setShowInfoModal(false);
+                }}
                 className="info-modal-btn-replay"
                 style={{ color: "#ff4d4d", borderColor: "rgba(255,77,77,0.25)", marginBottom: "4px" }}
               >
