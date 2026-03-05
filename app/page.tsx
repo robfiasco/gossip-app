@@ -120,42 +120,27 @@ export default function Home() {
   const [terminalData, setTerminalData] = useState<TerminalData | null>(null);
 
   const getCachedDaily = () => {
-    if (typeof window !== "undefined") {
-      try {
-        const cached = window.sessionStorage.getItem("validator_daily_cache");
-        if (cached) return JSON.parse(cached);
-      } catch { }
-    }
+    try {
+      const cached = window.sessionStorage.getItem("validator_daily_cache");
+      if (cached) return JSON.parse(cached);
+    } catch { }
     return null;
   };
-  const cachedDaily = getCachedDaily();
 
-  const [signalBoardData, setSignalBoardData] = useState<SignalBoardPayload | null>(cachedDaily?.signalBoard || null);
-  const [narrativesData, setNarrativesData] = useState<NarrativesPayload | null>(cachedDaily?.narratives || null);
-  const [briefingData, setBriefingData] = useState<BriefingPayload | null>(cachedDaily?.briefing || null);
-  const [newsCardsData, setNewsCardsData] = useState<NewsCardsPayload | null>(cachedDaily?.newsCards || null);
+  // All initial states are null/false so server and client render identical HTML.
+  // sessionStorage is unavailable during SSR — reading it inline causes hydration
+  // mismatches when the client has cached data. Cache is loaded after mount instead.
+  const [signalBoardData, setSignalBoardData] = useState<SignalBoardPayload | null>(null);
+  const [narrativesData, setNarrativesData] = useState<NarrativesPayload | null>(null);
+  const [briefingData, setBriefingData] = useState<BriefingPayload | null>(null);
+  const [newsCardsData, setNewsCardsData] = useState<NewsCardsPayload | null>(null);
   const [marketContextData, setMarketContextData] = useState<MarketContextPayload | null>(null);
-
-  const [storyMetrics, setStoryMetrics] = useState<any>(() => {
-    if (typeof window !== "undefined") {
-      try {
-        const m = window.sessionStorage.getItem("validator_metrics_cache");
-        if (m) return JSON.parse(m);
-      } catch { }
-    }
-    return null;
-  });
-
+  const [storyMetrics, setStoryMetrics] = useState<any>(null);
   const [marketCache, setMarketCache] = useState<MarketContextPayload | null>(null);
-  const [activePanel, setActivePanel] = useState(0); // always default to the first page
+  const [activePanel, setActivePanel] = useState(0);
   const [isSeeker, setIsSeeker] = useState(false);
-  const [showLoadingScreen, setShowLoadingScreen] = useState(() => {
-    if (typeof window !== "undefined") {
-      return window.sessionStorage.getItem("gossip_onboarded") !== "true";
-    }
-    return true;
-  });
-  const [isAppReady, setIsAppReady] = useState(!!cachedDaily);
+  const [showLoadingScreen, setShowLoadingScreen] = useState(true);
+  const [isAppReady, setIsAppReady] = useState(false);
   const [showInfoModal, setShowInfoModal] = useState(false);
   const [activeStoryIndex, setActiveStoryIndex] = useState(-1);
   const [notifsEnabled, setNotifsEnabled] = useState(() =>
@@ -275,6 +260,23 @@ export default function Home() {
 
 
 
+
+  // Populate from sessionStorage cache immediately after mount.
+  // This runs before the API fetch completes, so returning users see content instantly.
+  useEffect(() => {
+    const cached = getCachedDaily();
+    if (cached) {
+      if (cached.signalBoard) setSignalBoardData(cached.signalBoard);
+      if (cached.narratives) setNarrativesData(cached.narratives);
+      if (cached.briefing) setBriefingData(cached.briefing);
+      if (cached.newsCards) setNewsCardsData(cached.newsCards);
+      setIsAppReady(true);
+    }
+    try {
+      const m = window.sessionStorage.getItem("validator_metrics_cache");
+      if (m) setStoryMetrics(JSON.parse(m));
+    } catch { }
+  }, []);
 
   useEffect(() => {
     try {
