@@ -1,0 +1,34 @@
+name: Daily Intelligence Pipeline
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # 7:00 AM UTC  (morning briefing)
+    - cron: "0 19 * * *"  # 7:00 PM UTC  (evening briefing)
+  workflow_dispatch:       # allow manual trigger from GitHub Actions tab
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run daily pipeline (market + articles + briefing + signal board)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          KV_REST_API_URL: ${{ secrets.KV_REST_API_URL }}
+          KV_REST_API_TOKEN: ${{ secrets.KV_REST_API_TOKEN }}
+          NEXT_PUBLIC_APP_URL: https://gossip-app-rob-fiasco.vercel.app
+        run: npm run daily:run:fast
+        # --no-stories skips CT story generation (requires signals_raw.json
+        # which is updated manually). Stories in KV are preserved between runs.
