@@ -168,6 +168,34 @@ export default function Home() {
   useEffect(() => {
     setIsNativeAndroid(Capacitor?.isNativePlatform?.() === true && Capacitor?.getPlatform?.() === "android");
   }, []);
+
+  const [nextUpdateCountdown, setNextUpdateCountdown] = useState("");
+  useEffect(() => {
+    // Pipeline runs at 7:00 and 19:00 UTC daily
+    function getNextUpdate() {
+      const now = new Date();
+      const candidates = [7, 19].map((h) => {
+        const d = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), h, 0, 0));
+        if (d <= now) d.setUTCDate(d.getUTCDate() + 1);
+        return d;
+      });
+      return candidates.reduce((a, b) => (a < b ? a : b));
+    }
+    function fmtCountdown(ms: number) {
+      const s = Math.floor(ms / 1000);
+      const h = Math.floor(s / 3600);
+      const m = Math.floor((s % 3600) / 60);
+      const sec = s % 60;
+      return `${h}h ${m.toString().padStart(2, "0")}m ${sec.toString().padStart(2, "0")}s`;
+    }
+    const tick = () => {
+      const diff = getNextUpdate().getTime() - Date.now();
+      setNextUpdateCountdown(diff > 0 ? fmtCountdown(diff) : "updating...");
+    };
+    tick();
+    const id = setInterval(tick, 1000);
+    return () => clearInterval(id);
+  }, []);
   const { disconnect } = useWallet();
   const isSeekerConnected = typeof window !== "undefined" &&
     window.localStorage.getItem("gossip_seeker_verified") === "true";
@@ -481,6 +509,20 @@ export default function Home() {
     return formatDailyDate(value);
   };
 
+  const formatGeneratedLocal = (value?: string | null) => {
+    if (!value) return null;
+    const d = new Date(value);
+    if (isNaN(d.getTime())) return null;
+    return d.toLocaleString("en-US", { month: "short", day: "numeric", year: "numeric", hour: "numeric", minute: "2-digit" });
+  };
+
+  const formatLocalTime = (value?: string | null) => {
+    if (!value) return "";
+    const d = new Date(value);
+    if (isNaN(d.getTime())) return "";
+    return d.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" });
+  };
+
   const stripHandles = (value?: string | null) =>
     String(value || "").replace(/@\w+/g, "").replace(/\s+/g, " ").trim();
 
@@ -763,8 +805,13 @@ export default function Home() {
                 <div className="weekly-intel-head">
                   <div className="weekly-intel-title">Weekly Intelligence</div>
                   <div className="weekly-intel-date">
-                    Generated {formatShortDate(narrativeGeneratedDate)}
+                    Generated {formatGeneratedLocal(narrativeGeneratedDate) ?? formatShortDate(narrativeGeneratedDate)}
                   </div>
+                  {nextUpdateCountdown && (
+                    <div className="weekly-intel-countdown">
+                      Next update in {nextUpdateCountdown}
+                    </div>
+                  )}
                 </div>
                 <div className="terminal-divider" aria-hidden="true" />
                 <div className="signal-brief">
@@ -774,7 +821,7 @@ export default function Home() {
                         <div className={`sb-item ${PALETTE_1[0]}`}>
                           <div className="sb-item-head">
                             <span className="sb-item-label">
-                              MARKET CONTEXT {narrativeGeneratedDate ? `(AS OF ${new Date(narrativeGeneratedDate).getUTCHours().toString().padStart(2, '0')}:${new Date(narrativeGeneratedDate).getUTCMinutes().toString().padStart(2, '0')} UTC)` : ''}
+                              MARKET CONTEXT {narrativeGeneratedDate ? `(AS OF ${formatLocalTime(narrativeGeneratedDate)})` : ''}
                             </span>
                           </div>
                           <p className="sb-item-copy">
@@ -1040,6 +1087,20 @@ export default function Home() {
               })()}
             </div>
           </div >
+
+          <div className="panel-nav-dots">
+            {(["Signal Board", "Briefing", "Stories"] as const).map((label, i) => (
+              <button
+                key={i}
+                className={`panel-nav-dot${activePanel === i ? " active" : ""}`}
+                onClick={() => scrollToPanel(i)}
+                aria-label={`Go to ${label}`}
+              >
+                <span className="panel-nav-pip" />
+                <span className="panel-nav-label">{label}</span>
+              </button>
+            ))}
+          </div>
         </div >
 
       </main >
