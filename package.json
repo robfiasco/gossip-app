@@ -1,7 +1,7 @@
 {
   "name": "gossip-solana-intelligence",
   "private": true,
-  "version": "1.0.6",
+  "version": "1.0.7",
   "type": "module",
   "scripts": {
     "postinstall": "node patch-solana.mjs",
@@ -47,6 +47,7 @@
     "@solana/wallet-adapter-react-ui": "^0.9.39",
     "@solana/wallet-adapter-wallets": "^0.19.37",
     "@solana/web3.js": "^1.98.4",
+    "@vercel/analytics": "^1.6.1",
     "@vercel/kv": "^3.0.0",
     "cheerio": "^1.0.0-rc.12",
     "fast-xml-parser": "^4.5.0",
