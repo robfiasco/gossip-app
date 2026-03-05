@@ -1,92 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-03-04T19:36:53.370Z",
-    "totalCandidates": 99,
-    "solanaCandidates": 31,
+    "generatedAt": "2026-03-05T07:40:45.629Z",
+    "totalCandidates": 100,
+    "solanaCandidates": 37,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/coindesk-indices/2026/03/04/coindesk-20-performance-update-solana-sol-gains-5-6-leading-index-higher",
-      "title": "CoinDesk 20 performance update: Solana (SOL) gains 5.6%, leading index higher",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/04/coindesk-20-performance-update-solana-sol-gains-5-6-leading-index-higher",
+      "id": "https://www.coindesk.com/markets/2026/03/05/sky-jumps-nearly-10-after-governance-vote-cuts-emissions-while-buybacks-tighten-supply",
+      "title": "Sky token jumps 10% after governance vote causes bullish tilt in market dynamics",
+      "url": "https://www.coindesk.com/markets/2026/03/05/sky-jumps-nearly-10-after-governance-vote-cuts-emissions-while-buybacks-tighten-supply",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-04T14:28:02.000Z",
-      "summary": "Aave (AAVE) joined Solana (SOL) as a top performer, rising 5% from Tuesday.",
+      "publishedAt": "2026-03-05T05:04:59.000Z",
+      "summary": "The protocol has repurchased about 1.83 Billion SKY tokens with USDS while a March 2 governance proposal reduced staking emissions and expanded credit infrastructure around its USDS stablecoin.",
       "tags": [
-        "coindesk",
-        "performance",
-        "update"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6f04d17f1351880afa81d237e0dd7c36150b8a41",
-      "score": 30
-    },
-    {
-      "id": "https://www.theblock.co/post/392217/solana-stablecoin-volume-record-650-billion-february-onchain-payments-demand-grayscale",
-      "title": "Solana stablecoin volume hits record $650 billion in February as onchain payments draw demand, Grayscale says",
-      "url": "https://www.theblock.co/post/392217/solana-stablecoin-volume-record-650-billion-february-onchain-payments-demand-grayscale",
-      "source": "The Block",
-      "publishedAt": "2026-03-04T14:24:41.000Z",
-      "summary": "Solana's record monthly stablecoin transaction volume follows growing appetite for retail payments infrastructure over memecoins.",
-      "tags": [
-        "solana",
-        "stablecoin",
-        "volume"
+        "token",
+        "jumps",
+        "after"
       ],
       "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "202ae23610872e9bfaaa30813133e69fc174ef2b",
-      "score": 30
-    },
-    {
-      "id": "https://cryptoslate.com/bank-sale-begins-on-solana-targeting-poker-staking-market",
-      "title": "$BANK Sale Begins on Solana, Targeting Poker Staking Market",
-      "url": "https://cryptoslate.com/bank-sale-begins-on-solana-targeting-poker-staking-market",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-03-04T18:10:25.000Z",
-      "summary": "Switzerland-registered FANtium AG launched $BANK on Solana today, with a public sale via Metaplex Spotlight. The token is designed to give holders liquid on-chain exposure to a professionally managed poker bankroll. The sale window runs through March 6, 00:00 UTC, accepts payment in $SOL, and carrie",
-      "tags": [
-        "bank",
-        "sale",
-        "begins"
-      ],
-      "topicBucket": "general",
       "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -97,27 +31,60 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 22,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ac6f78224d84cdfb71ac4e559dc3942fe7f8a37a",
-      "score": 28
+      "dedupeFingerprint": "fb9aa2bdd76231e857e1966015a4d6f8e63cc9f7",
+      "score": 36
     },
     {
-      "id": "https://ambcrypto.com/solana-sol-signals-potential-volatility-spike-heres-what-it-means-for-new-crypto-protocols",
-      "title": "Solana (SOL) Signals Potential Volatility Spike: Here’s What It Means for New Crypto Protocols",
-      "url": "https://ambcrypto.com/solana-sol-signals-potential-volatility-spike-heres-what-it-means-for-new-crypto-protocols",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-04T15:25:16.000Z",
-      "summary": "For the past several weeks, Solana (SOL) has been pinned within a tight consolidation range […]",
+      "id": "https://www.theblock.co/post/392344/sol-strategies-shares-jump",
+      "title": "SOL Strategies shares jump 20% as firm posts validator network growth",
+      "url": "https://www.theblock.co/post/392344/sol-strategies-shares-jump",
+      "source": "The Block",
+      "publishedAt": "2026-03-05T04:50:21.000Z",
+      "summary": "The company said its validator network grew to 33,568 unique wallets in February, up from about 31,000 announced earlier in the month.",
       "tags": [
+        "strategies",
+        "shares",
+        "jump"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b44c310e7a711162d766e49d08c14f41249431be",
+      "score": 27
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/03/05/ether-solana-xrp-surge-8-as-crypto-markets-rally-on-easing-war-fears",
+      "title": "Ether, solana, xrp surge 8% as crypto markets rally on easing war fears",
+      "url": "https://www.coindesk.com/markets/2026/03/05/ether-solana-xrp-surge-8-as-crypto-markets-rally-on-easing-war-fears",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-05T06:29:26.000Z",
+      "summary": "Ether surged 7.5%, dogecoin jumped 7.5%, and solana added 5.3% as global equities rebounded and $700 million flowed into U.S. spot bitcoin ETFs since the start of March.",
+      "tags": [
+        "ether",
         "solana",
-        "signals",
-        "potential"
+        "surge"
       ],
       "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,15 +97,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "1e0219c2e03ab086249f4590a85d7e653b4387b1",
-      "score": 27
+      "dedupeFingerprint": "409fdd1bc6e4478a3a205f771e2d5223477cfc54",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/policy/2026/03/04/eric-trump-world-liberty-co-founder-calls-banks-anti-american-over-stablecoin-fight",
+      "title": "Eric Trump, World Liberty co-founder, calls banks 'anti-American' over stablecoin fight",
+      "url": "https://www.coindesk.com/policy/2026/03/04/eric-trump-world-liberty-co-founder-calls-banks-anti-american-over-stablecoin-fight",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-04T23:12:46.000Z",
+      "summary": "The World Liberty Financial co-founder and presidential son posted about the ongoing negotiations on stablecoin yield on Wednesday.",
+      "tags": [
+        "eric",
+        "trump",
+        "world"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "bd04403a3432d8f074df65349b3d1263c395c411",
+      "score": 22
     },
     {
       "id": "https://www.theblock.co/post/392240/backpack-taps-superstate-for-ipo-roadshow-tokenization-offering-opens-waitlist",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5369265a1ae0866c234c2c892ab8298b046fc056",
-      "score": 22
+      "score": 21
     }
   ]
 }
