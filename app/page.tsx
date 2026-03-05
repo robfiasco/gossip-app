@@ -1098,10 +1098,7 @@ export default function Home() {
                 className={`panel-nav-dot${activePanel === i ? " active" : ""}`}
                 onClick={() => scrollToPanel(i)}
                 aria-label={`Go to ${label}`}
-              >
-                <span className="panel-nav-pip" />
-                <span className="panel-nav-label">{label}</span>
-              </button>
+              />
             ))}
           </div>
         </div >
