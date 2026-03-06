@@ -1,57 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-03-05T20:32:09.817Z",
+    "generatedAt": "2026-03-06T07:37:18.684Z",
     "totalCandidates": 103,
-    "solanaCandidates": 26,
+    "solanaCandidates": 18,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/markets/2026/03/05/sky-jumps-nearly-10-after-governance-vote-cuts-emissions-while-buybacks-tighten-supply",
-      "title": "Sky token jumps 10% after governance vote causes bullish tilt in market dynamics",
-      "url": "https://www.coindesk.com/markets/2026/03/05/sky-jumps-nearly-10-after-governance-vote-cuts-emissions-while-buybacks-tighten-supply",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-05T05:04:59.000Z",
-      "summary": "The protocol has repurchased about 1.83 Billion SKY tokens with USDS while a March 2 governance proposal reduced staking emissions and expanded credit infrastructure around its USDS stablecoin.",
+      "id": "https://ambcrypto.com/solana-seeing-rising-interest-but-is-it-enough-to-boost-sol",
+      "title": "Solana seeing rising interest, but is it enough to boost SOL?",
+      "url": "https://ambcrypto.com/solana-seeing-rising-interest-but-is-it-enough-to-boost-sol",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-05T22:00:40.000Z",
+      "summary": "Transaction volume for Solana stablecoins hit a record high of $650 billion.",
       "tags": [
-        "token",
-        "jumps",
-        "after"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 22,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "fb9aa2bdd76231e857e1966015a4d6f8e63cc9f7",
-      "score": 35
-    },
-    {
-      "id": "https://messari.io/article/state-of-solana-payments",
-      "title": "State of Solana: Payments",
-      "url": "https://messari.io/article/state-of-solana-payments",
-      "source": "Messari",
-      "publishedAt": "2026-03-05T16:10:39.000Z",
-      "summary": "Total Payment Volume (TPV) on the network surged by a staggering 755.3% year-over-year, nearly tripling the growth rate of its nearest peer blockchains. This expansion was fueled by a \"Cambrian explosion\" of stablecoin activity, with the network’s stablecoin market cap hitting an all-time high of $1",
-      "tags": [
-        "state",
         "solana",
-        "payments"
+        "seeing",
+        "rising"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,95 +31,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 3,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "468e5d2a4d5bc13965a1d9d73c05b3adcc53011b",
-      "score": 21
+      "dedupeFingerprint": "d1bd97bbda65af2271435bb1d19572103723198c",
+      "score": 27
     },
     {
-      "id": "https://www.theblock.co/post/392440/doppler-token-platform-powering-majority-base-launches-expands-solana",
-      "title": "Doppler token creation platform powering most Base launches expands to Solana",
-      "url": "https://www.theblock.co/post/392440/doppler-token-platform-powering-majority-base-launches-expands-solana",
-      "source": "The Block",
-      "publishedAt": "2026-03-05T16:05:53.000Z",
-      "summary": "The platform is live on multiple EVM chains and powers the majority of token launches on Base, via integrations with apps like Zora and Bankr.",
-      "tags": [
-        "doppler",
-        "token",
-        "creation"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "4400fcc2bcedd4f60797a0d553ee84e14eb1b458",
-      "score": 19
-    },
-    {
-      "id": "https://www.theblock.co/post/392327/apollo-crypto-tokenized-mevusd",
-      "title": "Apollo Crypto to manage tokenized mEVUSD targeting returns on stablecoins",
-      "url": "https://www.theblock.co/post/392327/apollo-crypto-tokenized-mevusd",
-      "source": "The Block",
-      "publishedAt": "2026-03-05T12:00:00.000Z",
-      "summary": "The product will tap diversified lending strategies on protocols such as Aave, Morpho, and Pendle as well as market-neutral basis trades.",
-      "tags": [
-        "apollo",
-        "crypto",
-        "manage"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "569d3c35898ee1a505e220852c9c7737038a9c23",
-      "score": 19
-    },
-    {
-      "id": "https://cointelegraph.com/news/sofi-bitgo-bank-issued-stablecoin-sofiusd",
-      "title": "SoFi taps BitGo to provide infrastructure for bank-issued stablecoin",
-      "url": "https://cointelegraph.com/news/sofi-bitgo-bank-issued-stablecoin-sofiusd",
+      "id": "https://cointelegraph.com/news/solana-etfs-impressive-numbers-token-dives-since-launch",
+      "title": "Solana ETFs still hold ‘impressive numbers’ even as token dives 57%",
+      "url": "https://cointelegraph.com/news/solana-etfs-impressive-numbers-token-dives-since-launch",
       "source": "Cointelegraph",
-      "publishedAt": "2026-03-05T16:42:24.000Z",
-      "summary": "BitGo will support the rollout of US dollar-pegged stablecoin SoFiUSD, as US fintechs and banks expand digital dollar infrastructure following new federal legislation.",
+      "publishedAt": "2026-03-06T05:20:34.000Z",
+      "summary": "Bloomberg ETF analyst Eric Balchunas says Solana ETF inflows are posting “pretty impressive numbers,” even as the token has dropped by more than half since they launched.",
       "tags": [
-        "sofi",
-        "taps",
-        "bitgo"
+        "solana",
+        "etfs",
+        "still"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -170,8 +71,107 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c3fc692b8ca7ba6414b8e5b01c8b0a062a5777f8",
+      "dedupeFingerprint": "89e11606c74ae9718409ff38115fa857d8888837",
       "score": 18
+    },
+    {
+      "id": "https://messari.io/article/in-the-stables-inflows-surge-414-as-stablecoin-use-returns",
+      "title": "In The Stables: Inflows Surge 414% as Stablecoin Use Returns",
+      "url": "https://messari.io/article/in-the-stables-inflows-surge-414-as-stablecoin-use-returns",
+      "source": "Messari",
+      "publishedAt": "2026-03-04T18:25:00.000Z",
+      "summary": "This week’s edition of In The Stables highlights a rebound in stablecoin demand and usage after a slow start to the year. Total stablecoin market cap expanded 0.63% WoW to $293.7 billion, led by USDS and PYUSD gains while USDe contracted. Onchain activity strengthened meaningfully, with transaction ",
+      "tags": [
+        "stables",
+        "inflows",
+        "surge"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 7,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "dc86241e3e2f2c641de16900f2b89218fe341bc9",
+      "score": 18
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/03/05/ripple-adds-coinbase-crypto-futures-to-its-usd3-trillion-trading-venue",
+      "title": "Ripple adds Coinbase crypto futures to its $3 trillion clearing platform",
+      "url": "https://www.coindesk.com/business/2026/03/05/ripple-adds-coinbase-crypto-futures-to-its-usd3-trillion-trading-venue",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-05T19:39:33.000Z",
+      "summary": "Ripple Prime institutional clients can now trade Coinbase's bitcoin, ether, solana and XRP futures in a regulated U.S. market.",
+      "tags": [
+        "ripple",
+        "adds",
+        "coinbase"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2cb9e9ddf1ccdd5c945a2b055196d8d2701a1e6f",
+      "score": 17
+    },
+    {
+      "id": "https://www.theblock.co/post/392466/kraken-unified-execution-layer-xstocks-tokenized-equities-xchange",
+      "title": "Kraken rolls out unified execution layer for xStocks tokenized equities called xChange",
+      "url": "https://www.theblock.co/post/392466/kraken-unified-execution-layer-xstocks-tokenized-equities-xchange",
+      "source": "The Block",
+      "publishedAt": "2026-03-05T18:55:37.000Z",
+      "summary": "xChange is an onchain trading engine and unified execution layer for xStocks issued on Solana and Ethereum.",
+      "tags": [
+        "kraken",
+        "rolls",
+        "unified"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "47caaff417f2a39b30a8d38d5931b135e2480564",
+      "score": 16
     }
   ]
 }
