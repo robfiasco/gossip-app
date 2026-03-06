@@ -1,12 +1,10 @@
 #!/usr/bin/env node
 /**
- * generateCtStories.mjs - HYBRID AI UPGRADE
- * 
- * Generates 500-600 word premium stories with:
- * 1. Full articles (not just bullets)
- * 2. Engagement metrics for UI
- * 3. Structured output (signal, story, takeaways, whoToFollow)
- * 4. OpenAI (GPT-4o-mini) priority with Ollama fallback
+ * generateCtStories.mjs
+ *
+ * Generates structured 400-600 word intelligence stories from CT signal clusters.
+ * Uses OpenAI (gpt-4.1) with a quality gate + one retry on banned phrase detection.
+ * Output: public/data/validator_stories.json (mirrored to data/)
  */
 
 import { createRequire } from 'module';
@@ -152,14 +150,9 @@ function parseStoryJSON(response) {
   try {
     const data = JSON.parse(text);
 
-    // Map new 'story_content' field to 'story' for compatibility
-    if (data.story_content && !data.story) {
-      data.story = data.story_content;
-    }
-
-    if (!data.story && !data.story_content) {
-      throw new Error("JSON parsed but missing 'story_content' field.");
-    }
+    // Accept either 'story' or legacy 'story_content' field name
+    if (!data.story && data.story_content) data.story = data.story_content;
+    if (!data.story) throw new Error("Missing 'story' field in AI response.");
 
     return data;
   } catch (e) {

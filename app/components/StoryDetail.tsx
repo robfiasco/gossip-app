@@ -65,7 +65,6 @@ export default function StoryDetail({ story, index, total, onBack, publishDate }
             </button>
 
             <div className="seeker-detail-hero">
-                {/* Category signal label with pulsing dot */}
                 <div className={`seeker-mag-kicker ${getKickerClass(String(story?.category || ""))}`}>
                     <span className="seeker-signal-dot" style={{ background: getKickerColor(String(story?.category || "")) }} />
                     {getSignalLabel(String(story?.category || ""))}
@@ -77,7 +76,6 @@ export default function StoryDetail({ story, index, total, onBack, publishDate }
 
                 <p className="seeker-freshness">{formatFreshness(story?.timestamp || story?.publishedAt)}</p>
 
-                {/* Signal strength bar */}
                 {story?.narrativeStrength != null && (
                     <div className="seeker-signal-strength">
                         <span className="seeker-signal-strength-label">Signal Strength</span>

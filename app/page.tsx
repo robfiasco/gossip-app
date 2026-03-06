@@ -14,7 +14,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import StoryDetail from "./components/StoryDetail";
-import { Activity, Brain, Info, MessageCircle, Rocket, RotateCw, TrendingUp, Users } from "lucide-react";
+import { Info } from "lucide-react";
 import SeekerGuard from "./components/SeekerGuard";
 import GossipLoadingScreen from "./components/GossipLoadingScreen";
 import OnboardingCarousel from "./components/OnboardingCarousel";
@@ -130,7 +130,6 @@ export default function Home() {
   // All initial states are null/false so server and client render identical HTML.
   // sessionStorage is unavailable during SSR — reading it inline causes hydration
   // mismatches when the client has cached data. Cache is loaded after mount instead.
-  const [isRefreshing, setIsRefreshing] = useState(false);
   const [signalBoardData, setSignalBoardData] = useState<SignalBoardPayload | null>(null);
   const [narrativesData, setNarrativesData] = useState<NarrativesPayload | null>(null);
   const [briefingData, setBriefingData] = useState<BriefingPayload | null>(null);
@@ -158,37 +157,6 @@ export default function Home() {
   // Stable reference — passing an inline arrow to GossipLoadingScreen would cause its
   // dismiss timers to reset on every re-render (e.g. the 1-second countdown tick).
   const handleLoadingFinished = useCallback(() => setShowLoadingScreen(false), []);
-
-  const handleRefresh = async () => {
-    if (isRefreshing) return;
-    setIsRefreshing(true);
-    try {
-      // Clear cached data so we always get fresh content
-      window.sessionStorage.removeItem("validator_daily_cache");
-      window.sessionStorage.removeItem("validator_metrics_cache");
-      const [res, metricsRes] = await Promise.all([
-        fetch("/api/daily", { cache: "no-store" }),
-        fetch("/api/metrics", { cache: "no-store" }),
-      ]);
-      if (res.ok) {
-        const daily = await res.json();
-        setSignalBoardData(daily.signalBoard);
-        setNarrativesData(daily.narratives);
-        setBriefingData(daily.briefing);
-        setNewsCardsData(daily.newsCards);
-        window.sessionStorage.setItem("validator_daily_cache", JSON.stringify(daily));
-      }
-      if (metricsRes.ok) {
-        const metrics = await metricsRes.json();
-        setStoryMetrics(metrics);
-        window.sessionStorage.setItem("validator_metrics_cache", JSON.stringify(metrics));
-      }
-    } catch {
-      // silently ignore — stale data is fine
-    } finally {
-      setIsRefreshing(false);
-    }
-  };
 
   const [nextUpdateCountdown, setNextUpdateCountdown] = useState("");
   useEffect(() => {
@@ -791,15 +759,6 @@ export default function Home() {
             ) : null}
           </div>
           <div className="header-actions">
-            <button
-              className="theme-toggle-icon"
-              onClick={handleRefresh}
-              aria-label="Refresh"
-              disabled={isRefreshing}
-              style={{ opacity: isRefreshing ? 0.5 : 1 }}
-            >
-              <RotateCw size={14} style={isRefreshing ? { animation: "spin 1s linear infinite" } : {}} />
-            </button>
             <button
               className="theme-toggle-icon"
               onClick={() => setShowInfoModal(true)}
