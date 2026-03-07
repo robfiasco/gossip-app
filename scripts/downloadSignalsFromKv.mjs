@@ -41,6 +41,7 @@ if (!blobUrl || typeof blobUrl !== "string") {
 }
 
 // Step 2: fetch the file from Vercel Blob (public blob, no auth needed)
+console.log(`⬇️  Blob URL: ${blobUrl}`);
 console.log(`⬇️  Downloading signals from blob...`);
 
 const blobRes = await fetch(blobUrl);
