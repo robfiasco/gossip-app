@@ -1,7 +1,8 @@
 /**
- * Downloads admin:signals_raw from Vercel KV and writes it to signals_raw.json.
- * Used by the ct-stories.yml GitHub Actions workflow before running the CT pipeline.
- * Exits with code 1 if the key is missing so the workflow fails clearly.
+ * Reads admin:signals_blob_url from Vercel KV, fetches the file from Vercel Blob,
+ * and writes it to signals_raw.json in the project root.
+ * Used by ct-stories.yml before running the CT pipeline.
+ * Exits with code 1 on any failure so GH Actions fails clearly.
  */
 import fs from "fs";
 import path from "path";
@@ -14,36 +15,53 @@ const KV_REST_API_URL = process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS
 const KV_REST_API_TOKEN = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN;
 
 if (!KV_REST_API_URL || !KV_REST_API_TOKEN) {
-  console.error("❌  KV_REST_API_URL / KV_REST_API_TOKEN not set.");
-  process.exit(1);
+    console.error("❌  KV_REST_API_URL / KV_REST_API_TOKEN not set.");
+    process.exit(1);
 }
 
-const key = "admin:signals_raw";
-const url = `${KV_REST_API_URL}/get/${encodeURIComponent(key)}`;
+// Step 1: get the blob URL from KV
+const kvKey = "admin:signals_blob_url";
+console.log(`⬇️  Fetching ${kvKey} from KV...`);
 
-console.log(`⬇️  Fetching ${key} from KV...`);
-
-const res = await fetch(url, {
-  headers: { Authorization: `Bearer ${KV_REST_API_TOKEN}` },
+const kvRes = await fetch(`${KV_REST_API_URL}/get/${encodeURIComponent(kvKey)}`, {
+    headers: { Authorization: `Bearer ${KV_REST_API_TOKEN}` },
 });
 
-if (!res.ok) {
-  console.error(`❌  KV request failed: ${res.status} ${res.statusText}`);
-  process.exit(1);
+if (!kvRes.ok) {
+    console.error(`❌  KV request failed: ${kvRes.status} ${kvRes.statusText}`);
+    process.exit(1);
 }
 
-const body = await res.json();
+const kvBody = await kvRes.json();
+const blobUrl = kvBody.result;
 
-// Upstash REST API wraps the value: { result: <value> }
-const value = body.result;
+if (!blobUrl || typeof blobUrl !== "string") {
+    console.error(`❌  Key "${kvKey}" not found. Upload signals via the admin page first.`);
+    process.exit(1);
+}
 
-if (value === null || value === undefined) {
-  console.error(`❌  Key "${key}" not found in KV. Upload signals via the admin page first.`);
-  process.exit(1);
+// Step 2: fetch the file from Vercel Blob
+console.log(`⬇️  Downloading signals from blob...`);
+
+const blobRes = await fetch(blobUrl);
+
+if (!blobRes.ok) {
+    console.error(`❌  Blob download failed: ${blobRes.status} ${blobRes.statusText}`);
+    process.exit(1);
+}
+
+const content = await blobRes.text();
+
+// Quick sanity check
+try {
+    JSON.parse(content);
+} catch {
+    console.error("❌  Downloaded file is not valid JSON.");
+    process.exit(1);
 }
 
 const outPath = path.join(process.cwd(), "signals_raw.json");
-fs.writeFileSync(outPath, JSON.stringify(value, null, 2), "utf-8");
+fs.writeFileSync(outPath, content, "utf-8");
 
 const size = fs.statSync(outPath).size;
 console.log(`✅  Wrote signals_raw.json (${(size / 1024).toFixed(1)} KB)`);
