@@ -40,10 +40,12 @@ if (!blobUrl || typeof blobUrl !== "string") {
     process.exit(1);
 }
 
-// Step 2: fetch the file from Vercel Blob
+// Step 2: fetch the file from Vercel Blob (private blob requires token)
 console.log(`⬇️  Downloading signals from blob...`);
 
-const blobRes = await fetch(blobUrl);
+const blobToken = process.env.BLOB_READ_WRITE_TOKEN;
+const blobHeaders = blobToken ? { Authorization: `Bearer ${blobToken}` } : {};
+const blobRes = await fetch(blobUrl, { headers: blobHeaders });
 
 if (!blobRes.ok) {
     console.error(`❌  Blob download failed: ${blobRes.status} ${blobRes.statusText}`);

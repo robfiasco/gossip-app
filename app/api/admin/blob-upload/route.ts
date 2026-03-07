@@ -6,7 +6,9 @@ import { NextRequest, NextResponse } from "next/server";
 export async function POST(request: NextRequest): Promise<NextResponse> {
     // Validate secret from query param before anything else
     const secretParam = request.nextUrl.searchParams.get("secret");
-    if (!secretParam || secretParam !== process.env.ADMIN_SECRET) {
+    const adminSecret = process.env.ADMIN_SECRET;
+    console.log(`[blob-upload] secret param len=${secretParam?.length ?? 0} env len=${adminSecret?.length ?? 0} match=${secretParam === adminSecret}`);
+    if (!secretParam || secretParam !== adminSecret) {
         return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
     }
 
