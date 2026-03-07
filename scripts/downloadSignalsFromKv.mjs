@@ -40,19 +40,10 @@ if (!blobUrl || typeof blobUrl !== "string") {
     process.exit(1);
 }
 
-// Step 2: fetch the file from Vercel Blob
-// Private blobs require the SDK's head() to get a signed download URL — a raw
-// Authorization: Bearer header doesn't work against Vercel's blob storage.
+// Step 2: fetch the file from Vercel Blob (public blob, no auth needed)
 console.log(`⬇️  Downloading signals from blob...`);
 
-const blobToken = process.env.BLOB_READ_WRITE_TOKEN;
-let fetchUrl = blobUrl;
-if (blobToken) {
-    const { head } = await import("@vercel/blob");
-    const meta = await head(blobUrl, { token: blobToken });
-    fetchUrl = meta.downloadUrl ?? blobUrl;
-}
-const blobRes = await fetch(fetchUrl);
+const blobRes = await fetch(blobUrl);
 
 if (!blobRes.ok) {
     console.error(`❌  Blob download failed: ${blobRes.status} ${blobRes.statusText}`);
