@@ -1,5 +1,68 @@
 [
   {
+    "id": "b347a75e9cca91ded89b402dcaecaeb524bb1f65",
+    "title": "CoinDesk 20 performance update: Aave drops 4.3% as all index constituents trade lower",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/03/06/coindesk-20-performance-update-aave-drops-4-3-as-all-index-constituents-trade-lower",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-03-06T19:32:43.075Z",
+    "lastSeenAt": "2026-03-07T07:26:42.946Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "coindesk",
+      "performance",
+      "update",
+      "aave",
+      "drops",
+      "index",
+      "constituents",
+      "trade"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "468e5d2a4d5bc13965a1d9d73c05b3adcc53011b",
+    "title": "State of Solana: Payments",
+    "url": "https://messari.io/article/state-of-solana-payments",
+    "source": "Messari",
+    "firstSeenAt": "2026-03-05T20:32:09.989Z",
+    "lastSeenAt": "2026-03-07T07:26:42.946Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "state",
+      "solana",
+      "payments",
+      "total",
+      "payment",
+      "volume",
+      "network",
+      "surged"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "db7cd0d83682f73e16a511ddd4fe5f889df371e9",
+    "title": "Kraken launches xChange engine to power tokenized stock trading",
+    "url": "https://cointelegraph.com/news/kraken-xstocks-platform-xchange-engine-tokenized-stock-trading",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-03-07T07:26:42.945Z",
+    "lastSeenAt": "2026-03-07T07:26:42.945Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "kraken",
+      "launches",
+      "xchange",
+      "engine",
+      "power",
+      "tokenized",
+      "stock",
+      "trading"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "2cb9e9ddf1ccdd5c945a2b055196d8d2701a1e6f",
     "title": "Ripple adds Coinbase crypto futures to its $3 trillion clearing platform",
     "url": "https://www.coindesk.com/business/2026/03/05/ripple-adds-coinbase-crypto-futures-to-its-usd3-trillion-trading-venue",
@@ -37,27 +100,6 @@
       "rising",
       "volumes",
       "center"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "b347a75e9cca91ded89b402dcaecaeb524bb1f65",
-    "title": "CoinDesk 20 performance update: Aave drops 4.3% as all index constituents trade lower",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/03/06/coindesk-20-performance-update-aave-drops-4-3-as-all-index-constituents-trade-lower",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-03-06T19:32:43.075Z",
-    "lastSeenAt": "2026-03-06T19:32:43.075Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "coindesk",
-      "performance",
-      "update",
-      "aave",
-      "drops",
-      "index",
-      "constituents",
-      "trade"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -121,69 +163,6 @@
       "numbers",
       "even",
       "token"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "f34c34f4209dd64f65b9db5e6967c2b0dfd1c3bb",
-    "title": "Canada's Scotiabank launches multi-crypto ETF with 3iQ",
-    "url": "https://cointelegraph.com/news/scotiabank-launches-multi-crypto-etf-with-3iq",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-03-05T20:32:09.990Z",
-    "lastSeenAt": "2026-03-05T20:32:09.990Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "canada",
-      "scotiabank",
-      "launches",
-      "multi",
-      "crypto",
-      "with",
-      "bank",
-      "asset"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "4400fcc2bcedd4f60797a0d553ee84e14eb1b458",
-    "title": "Doppler token creation platform powering most Base launches expands to Solana",
-    "url": "https://www.theblock.co/post/392440/doppler-token-platform-powering-majority-base-launches-expands-solana",
-    "source": "The Block",
-    "firstSeenAt": "2026-03-05T20:32:09.990Z",
-    "lastSeenAt": "2026-03-05T20:32:09.990Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "doppler",
-      "token",
-      "creation",
-      "platform",
-      "powering",
-      "most",
-      "base",
-      "launches"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "468e5d2a4d5bc13965a1d9d73c05b3adcc53011b",
-    "title": "State of Solana: Payments",
-    "url": "https://messari.io/article/state-of-solana-payments",
-    "source": "Messari",
-    "firstSeenAt": "2026-03-05T20:32:09.989Z",
-    "lastSeenAt": "2026-03-05T20:32:09.989Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "state",
-      "solana",
-      "payments",
-      "total",
-      "payment",
-      "volume",
-      "network",
-      "surged"
     ],
     "majorUpdate": false,
     "updateReason": null

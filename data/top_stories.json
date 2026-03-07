@@ -1,46 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-03-06T19:32:42.898Z",
-    "totalCandidates": 106,
-    "solanaCandidates": 20,
+    "generatedAt": "2026-03-07T07:26:42.784Z",
+    "totalCandidates": 102,
+    "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://ambcrypto.com/can-solanas-755-payment-surge-trigger-a-sol-supercycle",
-      "title": "Can Solana’s 755% payment surge trigger a SOL supercycle?",
-      "url": "https://ambcrypto.com/can-solanas-755-payment-surge-trigger-a-sol-supercycle",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-06T09:00:13.000Z",
-      "summary": "Rising payment volumes put Solana at the center of Web3’s adoption push.",
-      "tags": [
-        "solana",
-        "payment",
-        "surge"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "4770a7e23ecb863f21a104fda97d0bfb6a17688e",
-      "score": 24
-    },
     {
       "id": "https://www.theblock.co/post/392733/first-us-state-level-stablecoin-bill-passes-in-florida",
       "title": "First US state-level stablecoin bill passes in Florida",
@@ -66,28 +33,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "c7558681ecafd28d8a52c1b40540bbce042b016e",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.coindesk.com/coindesk-indices/2026/03/06/coindesk-20-performance-update-aave-drops-4-3-as-all-index-constituents-trade-lower",
-      "title": "CoinDesk 20 performance update: Aave drops 4.3% as all index constituents trade lower",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/06/coindesk-20-performance-update-aave-drops-4-3-as-all-index-constituents-trade-lower",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-06T14:18:17.000Z",
-      "summary": "Solana (SOL), down 3.1% since Thursday, joined Aave (AAVE) as an underperformer.",
+      "id": "https://ambcrypto.com/bnb-chain-outpaces-rivals-in-stablecoin-activity-why-is-capital-moving-here",
+      "title": "BNB Chain outpaces rivals in stablecoin activity – Why is capital moving here?",
+      "url": "https://ambcrypto.com/bnb-chain-outpaces-rivals-in-stablecoin-activity-why-is-capital-moving-here",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-07T01:00:42.000Z",
+      "summary": "BNB Chain is seeing significant stablecoin activity as its fast infrastructure supports high-frequency transfers.",
       "tags": [
-        "coindesk",
-        "performance",
-        "update"
+        "chain",
+        "outpaces",
+        "rivals"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -97,30 +64,63 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 6,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b347a75e9cca91ded89b402dcaecaeb524bb1f65",
-      "score": 20
+      "dedupeFingerprint": "a5594ec664fd5bcc30bbc5e52bfe686d31b7ab3c",
+      "score": 19
     },
     {
-      "id": "https://ambcrypto.com/unlock-for-tokenization-occ-clarifies-capital-rules-for-tokenized-securities",
-      "title": "‘Unlock for tokenization? ’- OCC clarifies capital rules for tokenized securities",
-      "url": "https://ambcrypto.com/unlock-for-tokenization-occ-clarifies-capital-rules-for-tokenized-securities",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-06T19:00:22.000Z",
-      "summary": "Tokenized stock adoption jumped by 47% in 2026.",
+      "id": "https://decrypt.co/360284/florida-gov-ron-desantis-eyes-state-stablecoin-framework",
+      "title": "Florida Gov. Ron DeSantis Eyes State Stablecoin Framework Following Senate Passage",
+      "url": "https://decrypt.co/360284/florida-gov-ron-desantis-eyes-state-stablecoin-framework",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-06T21:24:45.000Z",
+      "summary": "The bill establishes Florida-centric consumer protections and safeguards against money laundering",
       "tags": [
-        "unlock",
-        "tokenization",
-        "clarifies"
+        "florida",
+        "desantis",
+        "eyes"
       ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e533ace39a4ad9f047bf525301d6b257d4be4892",
+      "score": 18
+    },
+    {
+      "id": "https://ambcrypto.com/pump-fun-team-moves-1-75b-pump-can-bulls-offset-selling-pressure",
+      "title": "Pump.fun team moves 1.75B PUMP: Can bulls offset selling pressure?",
+      "url": "https://ambcrypto.com/pump-fun-team-moves-1-75b-pump-can-bulls-offset-selling-pressure",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-07T03:00:36.000Z",
+      "summary": "PUMP team may be adding fresh pressure after recent token transfers.",
+      "tags": [
+        "pump",
+        "team",
+        "moves"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -137,20 +137,20 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8124ad3e622b5a3cc5825a9a87ddab3be95075f8",
+      "dedupeFingerprint": "699d5165d344a25fa3248153644210aea604e9dc",
       "score": 16
     },
     {
-      "id": "https://www.coindesk.com/business/2026/03/05/ripple-adds-coinbase-crypto-futures-to-its-usd3-trillion-trading-venue",
-      "title": "Ripple adds Coinbase crypto futures to its $3 trillion clearing platform",
-      "url": "https://www.coindesk.com/business/2026/03/05/ripple-adds-coinbase-crypto-futures-to-its-usd3-trillion-trading-venue",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-05T19:39:33.000Z",
-      "summary": "Ripple Prime institutional clients can now trade Coinbase's bitcoin, ether, solana and XRP futures in a regulated U.S. market.",
+      "id": "https://cointelegraph.com/news/kraken-xstocks-platform-xchange-engine-tokenized-stock-trading",
+      "title": "Kraken launches xChange engine to power tokenized stock trading",
+      "url": "https://cointelegraph.com/news/kraken-xstocks-platform-xchange-engine-tokenized-stock-trading",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-03-06T17:15:37.000Z",
+      "summary": "The new onchain trading engine from the xStocks platform enables trading of more than 70 tokenized equities across Ethereum and Solana.",
       "tags": [
-        "ripple",
-        "adds",
-        "coinbase"
+        "kraken",
+        "launches",
+        "xchange"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -166,12 +166,12 @@
         "relevanceScore": 3,
         "mentionScore": 0,
         "recencyScore": 9,
-        "sourceScore": 4,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2cb9e9ddf1ccdd5c945a2b055196d8d2701a1e6f",
-      "score": 16
+      "dedupeFingerprint": "db7cd0d83682f73e16a511ddd4fe5f889df371e9",
+      "score": 12
     }
   ]
 }
