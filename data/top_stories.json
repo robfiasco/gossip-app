@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-03-08T07:29:29.973Z",
-    "totalCandidates": 99,
-    "solanaCandidates": 20,
+    "generatedAt": "2026-03-08T19:21:33.520Z",
+    "totalCandidates": 91,
+    "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://ambcrypto.com/solana-vs-ethereum-4-4t-traded-rwa-holders-flipped-but-who-wins",
+      "title": "Solana vs Ethereum – $4.4T traded, RWA holders flipped – But who wins?",
+      "url": "https://ambcrypto.com/solana-vs-ethereum-4-4t-traded-rwa-holders-flipped-but-who-wins",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-08T10:00:20.000Z",
+      "summary": "Solana leads retail trading growth, while Ethereum retains deeper institutional liquidity.",
+      "tags": [
+        "solana",
+        "ethereum",
+        "traded"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "71d83d7e34090cedd3eed3e51d4cd61e1243d264",
+      "score": 22
+    },
     {
       "id": "https://www.coindesk.com/business/2026/03/07/circle-starts-using-usdc-stablecoin-for-internal-treasury-moves-settling-usd68-million",
       "title": "Circle moves $68 million in just 30 minutes by using its own stablecoin for internal payments",
@@ -33,127 +66,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "136303ad2e41ad760ada06533d87a753fa60eb03",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://ambcrypto.com/solana-what-to-expect-when-bullish-fundamentals-meet-bearish-market-reality",
-      "title": "Solana – What to expect when bullish fundamentals meet bearish market reality",
-      "url": "https://ambcrypto.com/solana-what-to-expect-when-bullish-fundamentals-meet-bearish-market-reality",
+      "id": "https://ambcrypto.com/what-happened-to-bitcoin-ethereum-solana-and-xrp-etfs-this-week",
+      "title": "What happened to Bitcoin, Ethereum, Solana, and XRP ETFs this week?",
+      "url": "https://ambcrypto.com/what-happened-to-bitcoin-ethereum-solana-and-xrp-etfs-this-week",
       "source": "AMB Crypto",
-      "publishedAt": "2026-03-08T04:00:08.000Z",
-      "summary": "While multi-year conviction remains strong, it doesn't mean everything for Solana.",
+      "publishedAt": "2026-03-08T18:00:56.000Z",
+      "summary": "The sudden shift from inflows to outflows signals growing uncertainty among large investors.",
       "tags": [
-        "solana",
         "what",
-        "expect"
+        "happened",
+        "bitcoin"
       ],
-      "topicBucket": "general",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "db0624ea890d88a9fdbfa4976af14cef3a10d350",
-      "score": 19
-    },
-    {
-      "id": "https://ambcrypto.com/youll-burn-down-your-home-trump-crypto-advisor-slams-banks-position-on-clarity-act",
-      "title": "‘You’ll burn down your home?’ – Trump crypto advisor slams banks’ position on CLARITY Act",
-      "url": "https://ambcrypto.com/youll-burn-down-your-home-trump-crypto-advisor-slams-banks-position-on-clarity-act",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-08T01:00:30.000Z",
-      "summary": "Stablecoins emerged as the third largest buyer of U.S T-bills, reinforcing the White House's bet.",
-      "tags": [
-        "burn",
-        "down",
-        "your"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "b78d13e0cf51aa7635f8401d92bfc4e91dd1fd31",
-      "score": 19
-    },
-    {
-      "id": "https://www.theblock.co/post/392733/first-us-state-level-stablecoin-bill-passes-in-florida",
-      "title": "First US state-level stablecoin bill passes in Florida",
-      "url": "https://www.theblock.co/post/392733/first-us-state-level-stablecoin-bill-passes-in-florida",
-      "source": "The Block",
-      "publishedAt": "2026-03-06T19:11:40.000Z",
-      "summary": "Senate Bill 314 provides a framework for payment stablecoin issuers in the state, aligning with federal GENIUS Act standards.",
-      "tags": [
-        "first",
-        "state",
-        "level"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c7558681ecafd28d8a52c1b40540bbce042b016e",
-      "score": 19
-    },
-    {
-      "id": "https://ambcrypto.com/ethereum-blackrock-drops-eth-etf-staking-fee-after-firm-issues-warning",
-      "title": "Ethereum – BlackRock drops ETH ETF staking fee as firm issues ‘warning’",
-      "url": "https://ambcrypto.com/ethereum-blackrock-drops-eth-etf-staking-fee-after-firm-issues-warning",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-07T20:00:59.000Z",
-      "summary": "Culper Research has shorted ETH citing underlying Ethereum staking and validator crisis.",
-      "tags": [
-        "ethereum",
-        "blackrock",
-        "drops"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -170,8 +104,74 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "175df8f49ceb05dbc2035592ae14c772ffb40280",
+      "dedupeFingerprint": "5fa73c2524968004faa8d7ceb64b1cf7953d053b",
       "score": 16
+    },
+    {
+      "id": "https://decrypt.co/360216/vancouver-close-bitcoin-reserve-proposal-legal-review",
+      "title": "Vancouver Moves to Close Bitcoin Reserve Proposal After Legal Review",
+      "url": "https://decrypt.co/360216/vancouver-close-bitcoin-reserve-proposal-legal-review",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-06T03:40:07.000Z",
+      "summary": "Over a year after Vancouver explored becoming a “Bitcoin-friendly city,” staff say municipal law bars holding Bitcoin in city reserves.",
+      "tags": [
+        "vancouver",
+        "moves",
+        "close"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -1,
+        "mentionScore": 0,
+        "recencyScore": 5,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "226225b4ee2258214f42b05cfef5eca8b3b781d3",
+      "score": 7
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year",
+      "title": "Bitcoin slips below $68,000 as dollar posts steepest weekly gain in a year",
+      "url": "https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-07T06:15:48.000Z",
+      "summary": "Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.",
+      "tags": [
+        "bitcoin",
+        "slips",
+        "below"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -3,
+        "mentionScore": 0,
+        "recencyScore": 7,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "d8f124750216e7d6489df0410e4428dd0f441b5d",
+      "score": -2
     }
   ]
 }

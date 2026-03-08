@@ -1,16 +1,16 @@
 {
   "date": "2026-03-08",
-  "generated_at_utc": "2026-03-08T07:29:41.844Z",
-  "ctxMarket": "Attention is on Solana’s strong payment fundamentals and rapid growth in stablecoin activity, even as broader crypto markets face declines. Recent price drops for SOL and other majors are drawing focus to the disconnect between network usage and token performance.",
-  "ctxTalking": "• Solana’s payment network volume and stablecoin market cap reaching new highs\n• Broad market pullback, with SOL and other majors posting notable losses\n• Kraken’s launch of tokenized stock trading on Solana and Ethereum",
-  "ctxMatters": "Solana’s payment growth signals increasing real-world usage, which may influence future ecosystem development. The divergence between bullish fundamentals and bearish price action is raising questions about short-term vs. long-term value. New tokenized asset platforms could expand Solana’s utility beyond crypto-native assets.",
-  "ctxSignal": "Signal: Surging payment volume and stablecoin activity on Solana, alongside new trading infrastructure.\nNoise: Short-term price swings not directly tied to network usage trends.",
-  "ctxGlossary": "Tokenized equities — Traditional stocks represented as tokens on a blockchain\nTotal Payment Volume (TPV) — The total value of payments processed on a network",
+  "generated_at_utc": "2026-03-08T19:21:40.133Z",
+  "ctxMarket": "Attention is on shifting ETF flows and the divergence between retail and institutional activity across major blockchains. Solana’s payment volume and stablecoin activity are drawing scrutiny despite broader market pullbacks.",
+  "ctxTalking": "• ETF products for Bitcoin, Ethereum, Solana, and XRP saw a move from inflows to outflows, highlighting large investor uncertainty\n• Solana is outpacing peers in retail trading and payment volume, while Ethereum maintains stronger institutional liquidity\n• Solana’s fundamentals remain strong, but recent price action reflects a bearish market environment",
+  "ctxMatters": "ETF outflows may influence perceptions of mainstream adoption and institutional sentiment.  \nSolana’s payment and stablecoin growth signals expanding use cases, even as prices lag.  \nThe contrast between retail and institutional focus could shape future network development and liquidity.",
+  "ctxSignal": "Signal: Solana’s year-over-year payment volume surge and stablecoin market cap growth stand out among blockchains.\nNoise: Short-term price volatility following ETF flows and macro moves.",
+  "ctxGlossary": "ETF — Exchange-traded fund, a regulated investment product tracking an asset or index  \nTPV — Total Payment Volume, the sum of all payments processed on a network",
   "readMore": [
     {
-      "title": "Solana – What to expect when bullish fundamentals meet bearish market reality",
+      "title": "What happened to Bitcoin, Ethereum, Solana, and XRP ETFs this week?",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-what-to-expect-when-bullish-fundamentals-meet-bearish-market-reality"
+      "url": "https://ambcrypto.com/what-happened-to-bitcoin-ethereum-solana-and-xrp-etfs-this-week"
     },
     {
       "title": "Bitcoin slips below $68,000 as dollar posts steepest weekly gain in a year",
@@ -18,9 +18,9 @@
       "url": "https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year"
     },
     {
-      "title": "Kraken launches xChange engine to power tokenized stock trading",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/kraken-xstocks-platform-xchange-engine-tokenized-stock-trading"
+      "title": "State of Solana",
+      "source": "Messari",
+      "url": "https://messari.io/article/state-of-solana-payments"
     }
   ]
 }
