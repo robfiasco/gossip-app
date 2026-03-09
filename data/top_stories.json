@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-03-08T19:21:33.520Z",
-    "totalCandidates": 91,
-    "solanaCandidates": 14,
+    "generatedAt": "2026-03-09T07:49:12.789Z",
+    "totalCandidates": 86,
+    "solanaCandidates": 13,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-vs-ethereum-4-4t-traded-rwa-holders-flipped-but-who-wins",
-      "title": "Solana vs Ethereum – $4.4T traded, RWA holders flipped – But who wins?",
-      "url": "https://ambcrypto.com/solana-vs-ethereum-4-4t-traded-rwa-holders-flipped-but-who-wins",
+      "id": "https://ambcrypto.com/solana-transfers-650b-in-stablecoins-liquidity-flows-away-from-ethereum",
+      "title": "Solana transfers $650B in stablecoins – Liquidity flows away from Ethereum",
+      "url": "https://ambcrypto.com/solana-transfers-650b-in-stablecoins-liquidity-flows-away-from-ethereum",
       "source": "AMB Crypto",
-      "publishedAt": "2026-03-08T10:00:20.000Z",
-      "summary": "Solana leads retail trading growth, while Ethereum retains deeper institutional liquidity.",
+      "publishedAt": "2026-03-09T06:00:23.000Z",
+      "summary": "Rising stablecoin flows show digital dollars evolving from trading tools into primary liquidity rails across crypto markets.",
       "tags": [
         "solana",
-        "ethereum",
-        "traded"
+        "transfers",
+        "650b"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,15 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 21,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "71d83d7e34090cedd3eed3e51d4cd61e1243d264",
-      "score": 22
+      "dedupeFingerprint": "24f25c34d6b5be526b5df76c68a9c919c14d2803",
+      "score": 32
     },
     {
       "id": "https://www.coindesk.com/business/2026/03/07/circle-starts-using-usdc-stablecoin-for-internal-treasury-moves-settling-usd68-million",
@@ -66,58 +66,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "136303ad2e41ad760ada06533d87a753fa60eb03",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "https://ambcrypto.com/what-happened-to-bitcoin-ethereum-solana-and-xrp-etfs-this-week",
-      "title": "What happened to Bitcoin, Ethereum, Solana, and XRP ETFs this week?",
-      "url": "https://ambcrypto.com/what-happened-to-bitcoin-ethereum-solana-and-xrp-etfs-this-week",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-08T18:00:56.000Z",
-      "summary": "The sudden shift from inflows to outflows signals growing uncertainty among large investors.",
-      "tags": [
-        "what",
-        "happened",
-        "bitcoin"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5fa73c2524968004faa8d7ceb64b1cf7953d053b",
-      "score": 16
-    },
-    {
-      "id": "https://decrypt.co/360216/vancouver-close-bitcoin-reserve-proposal-legal-review",
-      "title": "Vancouver Moves to Close Bitcoin Reserve Proposal After Legal Review",
-      "url": "https://decrypt.co/360216/vancouver-close-bitcoin-reserve-proposal-legal-review",
+      "id": "https://decrypt.co/360389/treasury-congres-crypto-platforms-freeze-suspicious-funds",
+      "title": "Treasury Urges Congress to Give Crypto Platforms Power to Freeze Suspicious Funds",
+      "url": "https://decrypt.co/360389/treasury-congres-crypto-platforms-freeze-suspicious-funds",
       "source": "Decrypt",
-      "publishedAt": "2026-03-06T03:40:07.000Z",
-      "summary": "Over a year after Vancouver explored becoming a “Bitcoin-friendly city,” staff say municipal law bars holding Bitcoin in city reserves.",
+      "publishedAt": "2026-03-09T03:38:28.000Z",
+      "summary": "The proposal would give exchanges legal cover to temporarily freeze suspicious crypto while investigators move to secure warrants.",
       "tags": [
-        "vancouver",
-        "moves",
-        "close"
+        "treasury",
+        "urges",
+        "congress"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,15 +97,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": -1,
+        "relevanceScore": -3,
         "mentionScore": 0,
-        "recencyScore": 5,
+        "recencyScore": 10,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "226225b4ee2258214f42b05cfef5eca8b3b781d3",
-      "score": 7
+      "dedupeFingerprint": "b66068db38c13d27d95c52f50f9cccfa9b614f39",
+      "score": 10
     },
     {
       "id": "https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year",
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": -3,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "d8f124750216e7d6489df0410e4428dd0f441b5d",
-      "score": -2
+      "score": -3
+    },
+    {
+      "id": "https://www.theblock.co/post/392733/first-us-state-level-stablecoin-bill-passes-in-florida",
+      "title": "First US state-level stablecoin bill passes in Florida",
+      "url": "https://www.theblock.co/post/392733/first-us-state-level-stablecoin-bill-passes-in-florida",
+      "source": "The Block",
+      "publishedAt": "2026-03-06T19:11:40.000Z",
+      "summary": "Senate Bill 314 provides a framework for payment stablecoin issuers in the state, aligning with federal GENIUS Act standards.",
+      "tags": [
+        "first",
+        "state",
+        "level"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 5,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c7558681ecafd28d8a52c1b40540bbce042b016e",
+      "score": 17
     }
   ]
 }
