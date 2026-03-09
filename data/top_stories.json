@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-03-09T07:49:12.789Z",
-    "totalCandidates": 86,
-    "solanaCandidates": 13,
+    "generatedAt": "2026-03-09T19:39:14.312Z",
+    "totalCandidates": 87,
+    "solanaCandidates": 16,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-transfers-650b-in-stablecoins-liquidity-flows-away-from-ethereum",
-      "title": "Solana transfers $650B in stablecoins – Liquidity flows away from Ethereum",
-      "url": "https://ambcrypto.com/solana-transfers-650b-in-stablecoins-liquidity-flows-away-from-ethereum",
+      "id": "https://ambcrypto.com/solana-market-cap-jumps-5b-can-sol-reclaim-100-as-mutuum-finance-v1-protocol-hits-200m-tvl",
+      "title": "Solana Market Cap Jumps $5B, Can SOL Reclaim $100 as Mutuum Finance V1 Protocol Hits $200M TVL?",
+      "url": "https://ambcrypto.com/solana-market-cap-jumps-5b-can-sol-reclaim-100-as-mutuum-finance-v1-protocol-hits-200m-tvl",
       "source": "AMB Crypto",
-      "publishedAt": "2026-03-09T06:00:23.000Z",
-      "summary": "Rising stablecoin flows show digital dollars evolving from trading tools into primary liquidity rails across crypto markets.",
+      "publishedAt": "2026-03-09T17:30:09.000Z",
+      "summary": "After weeks of trading in a narrow range, Solana (SOL) has managed to break free […]",
       "tags": [
         "solana",
-        "transfers",
-        "650b"
+        "market",
+        "jumps"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -38,20 +38,20 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "24f25c34d6b5be526b5df76c68a9c919c14d2803",
+      "dedupeFingerprint": "cbd934e3cd0b129c9ef4b346a9cad394377131ae",
       "score": 32
     },
     {
-      "id": "https://www.coindesk.com/business/2026/03/07/circle-starts-using-usdc-stablecoin-for-internal-treasury-moves-settling-usd68-million",
-      "title": "Circle moves $68 million in just 30 minutes by using its own stablecoin for internal payments",
-      "url": "https://www.coindesk.com/business/2026/03/07/circle-starts-using-usdc-stablecoin-for-internal-treasury-moves-settling-usd68-million",
+      "id": "https://www.coindesk.com/business/2026/03/09/global-insurance-broker-aon-tests-stablecoin-payments-with-coinbase-paxos",
+      "title": "Global insurance broker Aon tests stablecoin payments with Coinbase, Paxos",
+      "url": "https://www.coindesk.com/business/2026/03/09/global-insurance-broker-aon-tests-stablecoin-payments-with-coinbase-paxos",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-07T15:03:26.000Z",
-      "summary": "The stablecoin issuer used its Mint platform for intercompany transfers, replacing bank wires that often take days to settle, CEO Jeremy Allaire said.",
+      "publishedAt": "2026-03-09T15:21:14.000Z",
+      "summary": "The firm used USDC on Ethereum and PayPal USD on Solana for insurance premium payments, testing how stablecoins could reshape settlements.",
       "tags": [
-        "circle",
-        "moves",
-        "million"
+        "global",
+        "insurance",
+        "broker"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,27 +64,93 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "136303ad2e41ad760ada06533d87a753fa60eb03",
-      "score": 19
+      "dedupeFingerprint": "7170a8d3489892e741ad59da3d99b6a741509ca4",
+      "score": 25
     },
     {
-      "id": "https://decrypt.co/360389/treasury-congres-crypto-platforms-freeze-suspicious-funds",
-      "title": "Treasury Urges Congress to Give Crypto Platforms Power to Freeze Suspicious Funds",
-      "url": "https://decrypt.co/360389/treasury-congres-crypto-platforms-freeze-suspicious-funds",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-09T03:38:28.000Z",
-      "summary": "The proposal would give exchanges legal cover to temporarily freeze suspicious crypto while investigators move to secure warrants.",
+      "id": "https://www.theblock.co/post/392860/sonic-labs-taps-frax-infrastructure-native-network-stablecoin",
+      "title": "Sonic Labs taps Frax infrastructure for native network stablecoin",
+      "url": "https://www.theblock.co/post/392860/sonic-labs-taps-frax-infrastructure-native-network-stablecoin",
+      "source": "The Block",
+      "publishedAt": "2026-03-09T14:50:03.000Z",
+      "summary": "Sonic Labs' USSD stablecoin is backed by tokenized Treasuries products from BlackRock, WisdomTree, and Superstate.",
       "tags": [
-        "treasury",
-        "urges",
-        "congress"
+        "sonic",
+        "labs",
+        "taps"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "096facc83fbbe4f83e305ebdbbd6471311f108c2",
+      "score": 22
+    },
+    {
+      "id": "https://cryptoslate.com/are-us-stablecoins-just-cbdcs-in-disguise-look-closely-and-the-differences-start-to-blur",
+      "title": "Are US stablecoins just CBDCs in disguise? Look closely and the differences start to blur",
+      "url": "https://cryptoslate.com/are-us-stablecoins-just-cbdcs-in-disguise-look-closely-and-the-differences-start-to-blur",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-03-09T18:15:14.000Z",
+      "summary": "America may reject the name “CBDC” while still building the conditions for CBDC-like control through private dollar infrastructure. Washington has ruled out a retail Federal Reserve digital dollar in legal form. At the same time, the stablecoin regime now taking shape can normalize freeze, block, re",
+      "tags": [
+        "stablecoins",
+        "just",
+        "cbdcs"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "7a522cc9786ea82cb96bed8c96e5e5c16d6f26d6",
+      "score": 20
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/03/09/u-s-inflation-polkadot-upgrade-solstice-kamino-announcement-crypto-week-ahead",
+      "title": "U.S. inflation, Polkadot upgrade, Solstice-Kamino announcement: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/03/09/u-s-inflation-polkadot-upgrade-solstice-kamino-announcement-crypto-week-ahead",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-09T10:48:40.000Z",
+      "summary": "Your look at what's coming in the week starting March 9.",
+      "tags": [
+        "inflation",
+        "polkadot",
+        "upgrade"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -97,81 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": -3,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "b66068db38c13d27d95c52f50f9cccfa9b614f39",
-      "score": 10
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year",
-      "title": "Bitcoin slips below $68,000 as dollar posts steepest weekly gain in a year",
-      "url": "https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-07T06:15:48.000Z",
-      "summary": "Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.",
-      "tags": [
-        "bitcoin",
-        "slips",
-        "below"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -3,
-        "mentionScore": 0,
-        "recencyScore": 6,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d8f124750216e7d6489df0410e4428dd0f441b5d",
-      "score": -3
-    },
-    {
-      "id": "https://www.theblock.co/post/392733/first-us-state-level-stablecoin-bill-passes-in-florida",
-      "title": "First US state-level stablecoin bill passes in Florida",
-      "url": "https://www.theblock.co/post/392733/first-us-state-level-stablecoin-bill-passes-in-florida",
-      "source": "The Block",
-      "publishedAt": "2026-03-06T19:11:40.000Z",
-      "summary": "Senate Bill 314 provides a framework for payment stablecoin issuers in the state, aligning with federal GENIUS Act standards.",
-      "tags": [
-        "first",
-        "state",
-        "level"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c7558681ecafd28d8a52c1b40540bbce042b016e",
-      "score": 17
+      "dedupeFingerprint": "0e7ec6fbf636c050870c1ff62a9d519e4d51083f",
+      "score": 19
     }
   ]
 }

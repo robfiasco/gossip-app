@@ -1,26 +1,26 @@
 {
   "date": "2026-03-09",
-  "generated_at_utc": "2026-03-09T07:49:25.645Z",
-  "ctxMarket": "Attention is focused on Solana’s surging stablecoin activity, with $650B in stablecoin transfers and a record-high stablecoin market cap. Meanwhile, major crypto assets, including Solana, saw price pullbacks as large investors shifted from ETF inflows to outflows.",
-  "ctxTalking": "• Solana’s stablecoin volumes and payment activity outpacing other blockchains\n• Liquidity moving away from Ethereum toward Solana\n• ETF outflows and price declines across major cryptocurrencies",
-  "ctxMatters": "Solana’s growing role as a primary liquidity rail is reshaping how digital dollars move across crypto markets. The network’s rapid payment volume growth signals increased adoption for payments and settlements. Shifts in ETF flows and price volatility may influence institutional and retail sentiment toward Solana and its ecosystem.",
-  "ctxSignal": "Signal: Solana’s record stablecoin volumes and payment growth highlight real usage trends.\nNoise: Short-term price swings not directly tied to network fundamentals.",
-  "ctxGlossary": "Stablecoin — A cryptocurrency pegged to the value of a fiat currency, often used for payments and trading.\nETF — Exchange-Traded Fund, a financial product tracking the price of an asset or group of assets.",
+  "generated_at_utc": "2026-03-09T19:39:24.460Z",
+  "ctxMarket": "Attention is on Solana’s payment ecosystem, with a surge in stablecoin activity and a notable jump in SOL’s market cap. The network is also seeing renewed interest in ecosystem journalism following recent disruptions.",
+  "ctxTalking": "• Jito Foundation’s acquisition of SolanaFloor after its shutdown due to a treasury breach at Step Finance\n• Solana’s market cap rising by $5B, with Mutuum Finance V1 reaching $200M in TVL\n• Aon’s stablecoin payment test using PayPal USD on Solana",
+  "ctxMatters": "Solana’s payment infrastructure is attracting institutional experiments and significant user growth. The revival of Solana-focused media may improve information flow for the ecosystem. High TVL and stablecoin activity highlight Solana’s expanding role in DeFi and payments.",
+  "ctxSignal": "Signal: Surge in payment volume and institutional stablecoin tests on Solana.\nNoise: Speculation around SOL price targets without clear attribution.",
+  "ctxGlossary": "TVL — Total Value Locked, a measure of assets deposited in DeFi protocols.\nStablecoin — A cryptocurrency pegged to a stable asset, often used for payments and settlements.",
   "readMore": [
     {
-      "title": "Solana transfers $650B in stablecoins – Liquidity flows away from Ethereum",
+      "title": "Jito Foundation acquires SolanaFloor days after platform shutdown",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/jito-foundation-acquires-solanafloor-to-revive-solana-ecosystem-journalism"
+    },
+    {
+      "title": "Solana Market Cap Jumps $5B, Can SOL Reclaim $100 as Mutuum Finance V1 Protocol Hits $200M TVL?",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-transfers-650b-in-stablecoins-liquidity-flows-away-from-ethereum"
+      "url": "https://ambcrypto.com/solana-market-cap-jumps-5b-can-sol-reclaim-100-as-mutuum-finance-v1-protocol-hits-200m-tvl"
     },
     {
-      "title": "Bitcoin slips below $68,000 as dollar posts steepest weekly gain in a year",
+      "title": "Global insurance broker Aon tests stablecoin payments with Coinbase, Paxos",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year"
-    },
-    {
-      "title": "State of Solana",
-      "source": "Messari",
-      "url": "https://messari.io/article/state-of-solana-payments"
+      "url": "https://www.coindesk.com/business/2026/03/09/global-insurance-broker-aon-tests-stablecoin-payments-with-coinbase-paxos"
     }
   ]
 }
