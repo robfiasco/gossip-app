@@ -1,8 +1,26 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-10",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Wall Street funneled $540M into US Solana ETFs in Q4: Bloomberg",
+      "category": "APPS",
+      "source": "Cointelegraph",
+      "date": "2026-03-10",
+      "url": "https://cointelegraph.com/news/financial-institutions-bought-540m-solana-etfs-q4",
+      "whyYouShouldCare": "The influx of $540M into US Solana ETFs indicates growing institutional interest, potentially enhancing SOL's liquidity and market positioning."
+    },
+    {
+      "type": "APPS",
+      "title": "Ether, solana, XRP jump higher as Trump signals Iran war nearing end",
+      "category": "APPS",
+      "source": "CoinDesk",
+      "date": "2026-03-10",
+      "url": "https://www.coindesk.com/markets/2026/03/10/ether-solana-xrp-jump-higher-as-trump-signals-iran-war-nearing-end",
+      "whyYouShouldCare": "The rise in SOL's value alongside Ether and XRP suggests a positive market sentiment that could bolster Solana's ecosystem usage."
+    },
     {
       "type": "MARKET",
       "title": "Global insurance broker Aon tests stablecoin payments with Coinbase, Paxos",
@@ -10,25 +28,7 @@
       "source": "CoinDesk",
       "date": "2026-03-09",
       "url": "https://www.coindesk.com/business/2026/03/09/global-insurance-broker-aon-tests-stablecoin-payments-with-coinbase-paxos",
-      "whyYouShouldCare": "Aon's exploration of stablecoin payments could enhance the legitimacy and adoption of digital currencies in traditional finance, potentially benefiting Solana's ecosystem."
-    },
-    {
-      "type": "MARKET",
-      "title": "Solana Market Cap Jumps $5B, Can SOL Reclaim $100 as Mutuum Finance V1 Protocol Hits $200M TVL?",
-      "category": "MARKET",
-      "source": "AMB Crypto",
-      "date": "2026-03-09",
-      "url": "https://ambcrypto.com/solana-market-cap-jumps-5b-can-sol-reclaim-100-as-mutuum-finance-v1-protocol-hits-200m-tvl",
-      "whyYouShouldCare": "The increase in Solana's market cap and the success of Mutuum Finance may signal growing investor confidence and increased liquidity in the SOL market."
-    },
-    {
-      "type": "APPS",
-      "title": "Jito Foundation acquires SolanaFloor days after platform shutdown",
-      "category": "APPS",
-      "source": "Cointelegraph",
-      "date": "2026-03-09",
-      "url": "https://cointelegraph.com/news/jito-foundation-acquires-solanafloor-to-revive-solana-ecosystem-journalism",
-      "whyYouShouldCare": "The acquisition of SolanaFloor by the Jito Foundation suggests a commitment to strengthening Solana's application ecosystem, which could drive user engagement and platform growth."
+      "whyYouShouldCare": "Aon's testing of stablecoin payments signals increasing adoption of crypto in traditional finance, which may benefit Solana's ecosystem through expanded use cases."
     }
   ]
 }

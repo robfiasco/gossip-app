@@ -1,57 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-03-09T19:39:14.312Z",
-    "totalCandidates": 87,
-    "solanaCandidates": 16,
+    "generatedAt": "2026-03-10T07:39:12.401Z",
+    "totalCandidates": 91,
+    "solanaCandidates": 12,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-market-cap-jumps-5b-can-sol-reclaim-100-as-mutuum-finance-v1-protocol-hits-200m-tvl",
-      "title": "Solana Market Cap Jumps $5B, Can SOL Reclaim $100 as Mutuum Finance V1 Protocol Hits $200M TVL?",
-      "url": "https://ambcrypto.com/solana-market-cap-jumps-5b-can-sol-reclaim-100-as-mutuum-finance-v1-protocol-hits-200m-tvl",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-09T17:30:09.000Z",
-      "summary": "After weeks of trading in a narrow range, Solana (SOL) has managed to break free […]",
+      "id": "https://www.theblock.co/post/392893/coinbase-paxos-usdc-pyusd-stablecoins-pay-aon-insurance-premiums",
+      "title": "Coinbase and Paxos tap USDC, PYUSD stablecoins to pay Aon insurance premiums",
+      "url": "https://www.theblock.co/post/392893/coinbase-paxos-usdc-pyusd-stablecoins-pay-aon-insurance-premiums",
+      "source": "The Block",
+      "publishedAt": "2026-03-09T17:22:52.000Z",
+      "summary": "Financial services firm Aon accepted USDC and PYUSD stablecoins for Coinbase and Paxos's insurance premium payments.",
       "tags": [
-        "solana",
-        "market",
-        "jumps"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 21,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "cbd934e3cd0b129c9ef4b346a9cad394377131ae",
-      "score": 32
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/03/09/global-insurance-broker-aon-tests-stablecoin-payments-with-coinbase-paxos",
-      "title": "Global insurance broker Aon tests stablecoin payments with Coinbase, Paxos",
-      "url": "https://www.coindesk.com/business/2026/03/09/global-insurance-broker-aon-tests-stablecoin-payments-with-coinbase-paxos",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-09T15:21:14.000Z",
-      "summary": "The firm used USDC on Ethereum and PayPal USD on Solana for insurance premium payments, testing how stablecoins could reshape settlements.",
-      "tags": [
-        "global",
-        "insurance",
-        "broker"
+        "coinbase",
+        "paxos",
+        "usdc"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,15 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7170a8d3489892e741ad59da3d99b6a741509ca4",
-      "score": 25
+      "dedupeFingerprint": "e247a0d440be6e0364f87c826d03564501afa278",
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/392860/sonic-labs-taps-frax-infrastructure-native-network-stablecoin",
@@ -99,27 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "096facc83fbbe4f83e305ebdbbd6471311f108c2",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://cryptoslate.com/are-us-stablecoins-just-cbdcs-in-disguise-look-closely-and-the-differences-start-to-blur",
-      "title": "Are US stablecoins just CBDCs in disguise? Look closely and the differences start to blur",
-      "url": "https://cryptoslate.com/are-us-stablecoins-just-cbdcs-in-disguise-look-closely-and-the-differences-start-to-blur",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-03-09T18:15:14.000Z",
-      "summary": "America may reject the name “CBDC” while still building the conditions for CBDC-like control through private dollar infrastructure. Washington has ruled out a retail Federal Reserve digital dollar in legal form. At the same time, the stablecoin regime now taking shape can normalize freeze, block, re",
+      "id": "https://www.coindesk.com/business/2026/03/09/kast-raises-usd80-million-at-usd600-million-valuation-to-expand-stablecoin-payments-platform",
+      "title": "KAST raises $80 million at $600 million  valuation to expand stablecoin payments platform",
+      "url": "https://www.coindesk.com/business/2026/03/09/kast-raises-usd80-million-at-usd600-million-valuation-to-expand-stablecoin-payments-platform",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-09T12:43:42.000Z",
+      "summary": "Funding will support product expansion, licensing and compliance as the company scales a platform for cross-border stablecoin payments.",
       "tags": [
-        "stablecoins",
-        "just",
-        "cbdcs"
+        "kast",
+        "raises",
+        "million"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -132,27 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
+        "recencyScore": 9,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7a522cc9786ea82cb96bed8c96e5e5c16d6f26d6",
-      "score": 20
+      "dedupeFingerprint": "6422cb901a1d86e4aff67bee970cef5952f42052",
+      "score": 21
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/03/09/u-s-inflation-polkadot-upgrade-solstice-kamino-announcement-crypto-week-ahead",
-      "title": "U.S. inflation, Polkadot upgrade, Solstice-Kamino announcement: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/03/09/u-s-inflation-polkadot-upgrade-solstice-kamino-announcement-crypto-week-ahead",
+      "id": "https://www.coindesk.com/markets/2026/03/10/ether-solana-xrp-jump-higher-as-trump-signals-iran-war-nearing-end",
+      "title": "Ether, solana, XRP jump higher as Trump signals Iran war nearing end",
+      "url": "https://www.coindesk.com/markets/2026/03/10/ether-solana-xrp-jump-higher-as-trump-signals-iran-war-nearing-end",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-09T10:48:40.000Z",
-      "summary": "Your look at what's coming in the week starting March 9.",
+      "publishedAt": "2026-03-10T04:42:56.000Z",
+      "summary": "Major altcoins bounced alongside risk assets on Tuesday after the president said U.S. military objectives were \"pretty well complete.\"",
       "tags": [
-        "inflation",
-        "polkadot",
-        "upgrade"
+        "ether",
+        "solana",
+        "jump"
       ],
-      "topicBucket": "general",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -170,8 +137,41 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0e7ec6fbf636c050870c1ff62a9d519e4d51083f",
+      "dedupeFingerprint": "63afd7846366f74c1373e4aa118ade7a8e114a5b",
       "score": 19
+    },
+    {
+      "id": "https://cointelegraph.com/news/financial-institutions-bought-540m-solana-etfs-q4",
+      "title": "Wall Street funneled $540M into US Solana ETFs in Q4: Bloomberg",
+      "url": "https://cointelegraph.com/news/financial-institutions-bought-540m-solana-etfs-q4",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-03-10T05:21:29.000Z",
+      "summary": "Investment advisors were the biggest buyers of the US-based spot Solana ETFs at over $270 million, while hedge fund managers came in next at $186 million.",
+      "tags": [
+        "wall",
+        "street",
+        "funneled"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "140fab59d1ad1ebbd0c13c2bd050291bf65c6d61",
+      "score": 18
     }
   ]
 }
