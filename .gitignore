@@ -39,3 +39,4 @@ test-deploy.js
 *.swp
 *.swo
 .orbitron-font.b64
+.env*.local

@@ -1,6 +1,6 @@
 /**
- * Reads admin:signals_blob_url from Vercel KV, fetches the file from Vercel Blob,
- * and writes it to signals_raw.json in the project root.
+ * Downloads signals_raw.json via the app's /api/admin/download-signals proxy.
+ * The server handles all blob auth internally — CI only needs ADMIN_SECRET.
  * Used by ct-stories.yml before running the CT pipeline.
  * Exits with code 1 on any failure so GH Actions fails clearly.
  */
@@ -11,47 +11,29 @@ import dotenv from "dotenv";
 dotenv.config({ path: ".env.local" });
 dotenv.config();
 
-const KV_REST_API_URL = process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL;
-const KV_REST_API_TOKEN = process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN;
+const ADMIN_SECRET = process.env.ADMIN_SECRET;
+const APP_URL = process.env.VERCEL_URL
+    ? `https://${process.env.VERCEL_URL}`
+    : process.env.APP_URL || "https://gossip-app-rob-fiasco.vercel.app";
 
-if (!KV_REST_API_URL || !KV_REST_API_TOKEN) {
-    console.error("❌  KV_REST_API_URL / KV_REST_API_TOKEN not set.");
+if (!ADMIN_SECRET) {
+    console.error("❌  ADMIN_SECRET not set.");
     process.exit(1);
 }
 
-// Step 1: get the blob URL from KV
-const kvKey = "admin:signals_blob_url";
-console.log(`⬇️  Fetching ${kvKey} from KV...`);
+console.log(`⬇️  Downloading signals via proxy at ${APP_URL}...`);
 
-const kvRes = await fetch(`${KV_REST_API_URL}/get/${encodeURIComponent(kvKey)}`, {
-    headers: { Authorization: `Bearer ${KV_REST_API_TOKEN}` },
-});
+const res = await fetch(
+    `${APP_URL}/api/admin/download-signals?secret=${encodeURIComponent(ADMIN_SECRET)}`
+);
 
-if (!kvRes.ok) {
-    console.error(`❌  KV request failed: ${kvRes.status} ${kvRes.statusText}`);
+if (!res.ok) {
+    const body = await res.text().catch(() => "");
+    console.error(`❌  Download failed: ${res.status} ${res.statusText} — ${body}`);
     process.exit(1);
 }
 
-const kvBody = await kvRes.json();
-const blobUrl = kvBody.result;
-
-if (!blobUrl || typeof blobUrl !== "string") {
-    console.error(`❌  Key "${kvKey}" not found. Upload signals via the admin page first.`);
-    process.exit(1);
-}
-
-// Step 2: fetch the file from Vercel Blob (public blob, no auth needed)
-console.log(`⬇️  Blob URL: ${blobUrl}`);
-console.log(`⬇️  Downloading signals from blob...`);
-
-const blobRes = await fetch(blobUrl);
-
-if (!blobRes.ok) {
-    console.error(`❌  Blob download failed: ${blobRes.status} ${blobRes.statusText}`);
-    process.exit(1);
-}
-
-const content = await blobRes.text();
+const content = await res.text();
 
 // Quick sanity check
 try {

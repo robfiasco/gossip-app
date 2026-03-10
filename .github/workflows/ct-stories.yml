@@ -23,12 +23,10 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Download signals from KV
+      - name: Download signals
         run: node scripts/downloadSignalsFromKv.mjs
         env:
-          KV_REST_API_URL: ${{ secrets.KV_REST_API_URL }}
-          KV_REST_API_TOKEN: ${{ secrets.KV_REST_API_TOKEN }}
-          BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
+          ADMIN_SECRET: ${{ secrets.ADMIN_SECRET }}
 
       - name: Run CT pipeline
         run: npm run run:ctPipeline

@@ -93,7 +93,7 @@ export default function AdminPage() {
         try {
             // Upload directly to Vercel Blob (bypasses API body size limits)
             const blob = await upload(file.name, file, {
-                access: "public",
+                access: "private",
                 handleUploadUrl: `/api/admin/blob-upload?secret=${encodeURIComponent(secret)}`,
                 onUploadProgress: ({ percentage }) => setProgress(percentage),
             });

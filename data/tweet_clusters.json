@@ -1,241 +1,553 @@
 [
   {
-    "clusterId": "cluster_3",
+    "clusterId": "cluster_2",
     "category": "Ecosystem Updates",
     "topKeywords": [
       "solana",
+      "ecosystem",
       "sol",
-      "wallet",
       "update",
       "hackathon"
     ],
-    "tweetCount": 61,
-    "clusterScore": 6325.11675308009,
-    "reason": "Ecosystem Updates cluster linked by [solana, sol, wallet, update, hackathon]",
+    "tweetCount": 56,
+    "clusterScore": 5803.996212247285,
+    "reason": "Ecosystem Updates cluster linked by [solana, ecosystem, sol, update, hackathon]",
     "sampleTweets": [
       {
-        "id": "2029459415016034396",
+        "id": "2030984547312234930",
         "handle": "SolanaSensei",
-        "created_at_iso": "2026-03-05 02:30:04 -05:00",
-        "text": "Quick update on Solana products this week.\n\n> @sns integrates .sol @jup_mobile and jupiter wallet extensions\n> @perena partners with solflare for a $5K prize pool campaign\n> @JupiterExchange Telegram trading bot is live\n> @PreStocks surpasses $10M in tokenized value across 10,000 holders\n> @solflare launches private send in app wallet\n> @MetaDAOProject initiated a liquidation proposal on @ranger_finance",
-        "url": "https://twitter.com/SolanaSensei/status/2029459415016034396",
-        "score": 425
+        "created_at_iso": "2026-03-09 08:30:24 -04:00",
+        "text": "Your guide to anything solana.\n\nBookmark this, you're gonna need it.\n\n> Private Swaps & Send\n- @UmbraPrivacy\n-  @solflare\n- @theprivacycash\n- @HoudiniSwap\n- @Hushprotocol_\n\n> Telegram trading bot\n- @JupiterExchange\n- @TrojanOnSolana\n\n> Win money\n- @SuperteamEarn\n- @SuperteamTalent\n\n>NeoBanks\n- @KASTxyz\n- @xplaceapp\n- @AviciMoney\n- @solflare\n- @JupGlobal\n\n> Automated Yield farming\n- @LinceFinance\n- @uselulo\n- @HubraApp\n\n> Reclaim SOL\n- @solincinerator\n- @claimyoursol\n- @jup_mobile\n\n> Research\n- @nansen_ai\n- @DefiLlama\n- @Blockworks\n- @JupiterExchange\n- @solscanofficial\n- @Orb_Markets\n- @tokenterminal\n- @artemis\n\n> Lifestyle:\n- @NOMADZxyz\n- @bitrefill\n- @SP3NDdotshop\n\n> Revoke wallets:\n- @sol_recovery\n- @FamousFoxFed\n\n> Meteora tools:\n- @lpagent_io\n- @met_engine\n- @FabriqTrade\n\n> Indexes:\n- @useDiversiFi\n\nWhat other projects did I forget?",
+        "url": "https://twitter.com/SolanaSensei/status/2030984547312234930",
+        "score": 590
       },
       {
-        "id": "2029588464275235312",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-05 11:02:52 -05:00",
-        "text": "⚡️Shares of SOL Strategies Inc. ($STKE) surged nearly 21% on Wednesday.\n\nThe rally followed strong growth in the company’s Solana validator operations.\n\n@SolStrategies reported notable expansion across its validator business:\n▫️Validator network expanded to 33,568 wallets in February\n▫️Staking revenue jumped 69% YoY",
-        "url": "https://twitter.com/solana_daily/status/2029588464275235312",
-        "score": 271
-      },
-      {
-        "id": "2029207919376376052",
+        "id": "2030946404529815976",
         "handle": "ivan_nomadz",
-        "created_at_iso": "2026-03-04 09:50:43 -05:00",
-        "text": "Solana Ecosystem Map 2026 for Founders.\n\n@solana remains the strongest ecosystem to build on in crypto.\n\nAs the founder of @NOMADZxyz, I have spent years navigating the ecosystem end to end. From communities and hackathons to grants, accelerators, and fundraising, I have personally gone through each stage.\n\nBased on that experience, here is a clear roadmap of the sources that deserve your attention in 2026.\n\n1. Communities\n\nYour starting point should be people. Surround yourself with founders, builders, and contributors who are already active in the ecosystem.\n\nStart with:\n\n➩ Global @superteam and local Superteams such as @SuperteamAE, @SuperteamDE, @SuperteamPOL, @SuperteamUKR, and others. \n\nThis is also one of the strongest entry points to access experienced builders and early-stage funding through Instagrants (up to $10k grants).\n\n➩ Solana-native communities such as @MonkeDAO, @islanddao, and @MadLads.\n\n2. Hackathons\n\nHackathons allow you to test your product in real conditions, receive feedback, secure early funding, and build long-term relationships.\n\nPrograms worth your attention:\n\n➩ @colosseum, including main (twice a year) and Eternal tracks.\n➩ @solanamobile & @RadiantsDAO, focused on mobile apps for the Solana dApp Store.\n➩ Solana hackathons by @Arcium and @magicblock with multiple additional bounties.\n➩ Local hackathons organized by Superteams.\n\n3. Grants (Non-Dilutive Funding)\n\nAt an early stage, raising large amounts of venture capital is rare. Start with smaller, strategic funding that validates your project and extends your runway.\n\nKey sources:\n\n➩ @SolanaFndn ($40k on average)\n➩ @MetaplexFndn (based on DAO decision)\n➩ @superteam (up to $10k)\n➩ @solanamobile (up to $10k)\n➩ @MonkeFoundry (up to $10k)\n\n4. Accelerators\n\nAccelerators provide structured support in product development, go-to-market strategy, fundraising preparation, and network access.\n\nLeading programs:\n\n➩ @colosseum \n➩ @OrangeDAOxyz \n➩ @incubator led by @solanalabs \n➩ @venture_launch\n➩ @alliance \n\n5. Conferences and IRL Events\n\nPhysical presence accelerates trust and relationship building. Strategic conversations at events often lead to partnerships, funding, and distribution opportunities.\n\nEvents that consistently generate outcomes:\n\n➩ Solana Breakpoint and Accelerate by @SolanaEvents.\n➩ Regional events hosted by Superteams.\n➩ Events organized by ecosystem companies such as @Backpack, @MeteoraAG and @JupiterExchange.\n\n6. Bootcamps\n\nBootcamps provide focused education and deep ecosystem immersion. They strengthen both expertise and relationships within specific verticals.\n\nStrong options include:\n\n➩ @mtndao\n➩ @venture_launch\n➩ @sns Month at the @ns\n\nThis roadmap is based on personal experience. \n\nI have gone through almost all of these programs and understand the practical value they bring to founders.\n\nComment “Founder” and I will send you additional opportunities I am currently tracking inside the Solana ecosystem.",
-        "url": "https://twitter.com/ivan_nomadz/status/2029207919376376052",
-        "score": 260
+        "created_at_iso": "2026-03-09 05:58:50 -04:00",
+        "text": "Weekly Update – @NOMADZxyz | Week 11 [2026] Let's go!\n\n1. TL;DR\n\nQuick wins:\n1. Improved gamification and launched 2nd-level referral for communities (5% USDC + 5% XP per booking)\n2. Shipped release #9 to @solanamobile dApp Store + passed KYB \n3. Nomadz 100 Cohort 1, Week 2: 28 creators, 35+ user-generated posts live\n4. Onboarded @Perenimals community (500+ NFT holders) via Matrica Connect integration\n5. Crossed 16.5K registered users and 19.6K followers on X \n6. Set up the node on @monad testnet + submitted validator application\n\nWhat's next:\n1. Platform: Launch the Earth interface for events, including side events, discount codes, and search improvements\n2. Mobile: Ship release #10 with AI agent integration + referral program\n3. Community campaign with @SolanaSensei + email blast to 16.5K users\n\n2. Highlights\n\nProduct - Platform\n1. Launched 2nd-level referral for communities: earn 5% in USDC and 5 XP from every booking your community drives. \n2. Integrated a new travel partner (Agoda) with more stays and discounts.\n3. Added the first community with Matrica Connect implementation live with @Perena and built a unique quests section. \n4. Added new upcoming events for Q2 2026.\n5. Fixed bugs, improved, and polished the referral dashboard based on early user feedback.\n\nProduct - Mobile\n1. Shipped release #9 of the Solana Mobile dApp store: improved book-nearby flow, added events calendar, improved search.\n2. Release #10 in testing: AI agent integration, new badges + referral program.\n\nGrowth\n1. Nomadz 100 Cohort 1, Week 2 live - 28 creators generated 40+ posts.\n2. Did a launch campaign with Perena and Perenimals. \n3. Partnered with 3 more event organizers for Q2.\n4. Wrote and shipped the February monthly report on X.\n5. Filled out our profile on DeltaV and submitted the Week 10 report.\n6. Interviewed with @pareen and @alexgedevani for @nitrodotacc accelerator - waiting for feedback.\n7. Set up a node on the Monad testnet and submitted the validator application form.\n\n3. Lowlights\n1. We cannot fly out from Dubai to Georgia to host the Solana Snowcamp that we planned due to the war in the Middle East.\n2. Technical issues with verification and the onboarding flow for a new community launch. Identified and resolved quickly - now live.\n\n4. Core Metrics\n1. Total Users: 16,567 (↑ from 16,312 last week)\n2. Active Users (week): 869\n3. New Users (week): 202\n4. DAU: 124 on average \n5. Transactions on Solana (week): 669\n6. 17 new bookings (6 users booked second or third time)\n7. X Followers (@NOMADZxyz): 19,642 (↑ +182)\n8. Community Posts: 41 (↑ from 30 last week)\n\n5. This Week's Focus\n→ Launch Earth interface - conferences, side events, search improvements, discount codes for users \n→ Send monthly email campaign to 16.5K registered users \n→ Run SolanaSensei community campaign \n→ Submit release #10 to Solana dApp Store (AI agent integration, referral, and new badges) \n\n6. Asks\n1. Know event organizers in crypto/Web3 who'd want discounted stays for their attendees?\n2. Looking for travelers willing to test our AI agent on mobile this week - DM me\n3. Looking for content creators to join Cohort 2 of Nomadz 100 - apply or refer someone\n\n7. Shoutouts\nBig thanks to our advisor @TimHaldorsson for the sharp ideas and valuable intros this week. \n@Ayde_Sol_Jedi, thanks for the intro to the Canton team.\nAnd to the 28 Nomadz 100 creators showing up and building in public, you're the Nomadz.",
+        "url": "https://twitter.com/ivan_nomadz/status/2030946404529815976",
+        "score": 359
       },
       {
-        "id": "2029200140284645495",
-        "handle": "FabianoSolana",
-        "created_at_iso": "2026-03-04 09:19:48 -05:00",
-        "text": "You can just build things\n\nThis is the story how @AlexSmirnov built the safest bridge in crypto\n\n> Left his PhD to go full-time crypto in 2016\n\n> At 24, founded a blockchain dev shop that built & patented a crypto custody solution for financial institutions\n\n> 2020: running cross-chain arb across MEV-heavy chains\n\n> CEX halted his withdrawals\n\n> Decided to build non-custodial cross-chain liquidity rails\n\n> Built deBridge MVP at first hackathon & won\n\n> 2021: received a $20K Solana grant & pushed early integration\n\n> Raised $5.5M seed\n\n> Built the first 0-TVL, intent-based bridge\n\n> Expanded to 25+ chains\n\n> 2026: $20B+ bridged, 0 hacks / security incidents\n\n> 4.5% of DBR supply accumulated by DAO with $10M protocol earnings\n\nYou can just build things",
-        "url": "https://twitter.com/FabianoSolana/status/2029200140284645495",
-        "score": 260
-      },
-      {
-        "id": "2029590977300877616",
-        "handle": "jussy_world",
-        "created_at_iso": "2026-03-05 11:12:51 -05:00",
-        "text": "Quick update:\n\nYesterday I moved my SOL from BulkSOL on @ExponentFinance to the jitoSOL vault on @piggybank_fi\n\nThey added 10k JTO incentives for 4 weeks with 2x Oinks boost points\n\nRight now it’s around 22% APY on SOL\n(5.13% base + 11.09% vault incentives + boost)\n\nThe jitoSOL vault filled very quickly, so it might be hard to enter now\n\nBut PiggyBank still has other strategies worth watching\n\nFor example SPYx vaults, they’re increasing the cap from 300 → 500 SPYx with 7% APY\n\nGood opportunity to keep farming yield + points",
-        "url": "https://twitter.com/jussy_world/status/2029590977300877616",
-        "score": 217
-      },
-      {
-        "id": "2029917414297948561",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-06 08:50:00 -05:00",
-        "text": "🚨 @NestCredit is expanding on Solana, powering real-world yield inside @Perena’s Stablebank.\n\nThis integration allows #Solana users to access real-world yield directly through their digital dollar, bringing RWAs closer to on-chain stablecoin usage. https://t.co/U8svfs0xlX",
-        "url": "https://twitter.com/solana_daily/status/2029917414297948561",
+        "id": "2030335188535046364",
+        "handle": "SolanaSensei",
+        "created_at_iso": "2026-03-07 12:30:05 -05:00",
+        "text": "Be a Solana user:\n\n> Trade anything, anytime, anywhere\n> Move funds in seconds with fees that feel nonexistent\n> Earn airdrops just for being active in the ecosystem\n> Access DeFi, RWAs, NFTs, and new apps before others\n> Bridge assets from other chains and put them to work\n> Be part of one of the fastest growing communities\n\nOnce you start using Solana, it’s hard to imagine using anything else.",
+        "url": "https://twitter.com/SolanaSensei/status/2030335188535046364",
         "score": 209
       },
       {
-        "id": "2029564100649554178",
-        "handle": "SolanaSensei",
-        "created_at_iso": "2026-03-05 09:26:03 -05:00",
-        "text": "SOLANA STABLECOINS\n\n&gt; @WesternUnion - USDPT\n&gt; @JupiterExchange - jupUSD\n&gt; @PayPal - PYUSD\n&gt; @solstice - USX\n\nYield bearing Tokens\n- @onrefinance - ONyc\n- @DeFiCarrot - CRT\n- @perena - USD*\n- @reflectmoney - USDC+\n- @hylo_so - hyUSD\n- @humafinance - PST https://t.co/Qv7l0Jtjgn",
-        "url": "https://twitter.com/SolanaSensei/status/2029564100649554178",
-        "score": 162
+        "id": "2030986031537758272",
+        "handle": "vibhu",
+        "created_at_iso": "2026-03-09 08:36:18 -04:00",
+        "text": "RT @solana: BREAKING: @xStocksFi is bringing Nasdaq's tokenized equity markets to Solana DeFi",
+        "url": "https://twitter.com/vibhu/status/2030986031537758272",
+        "score": 202
       },
       {
-        "id": "2029538788414984210",
-        "handle": "0xyunss",
-        "created_at_iso": "2026-03-05 07:45:28 -05:00",
-        "text": "finally, the 1 sol = 1 sol maxi doesn't bother to calculate manually how much profit they've made.\n\nbeen waiting for this feature because some people ask me, why their @MeteoraAG dlmm position is in a loss when sol dumping.\n\nwith this update, you can accurately track your beloved sol pair and keep in track.\n\nwhat next? improving the discover page?",
-        "url": "https://twitter.com/0xyunss/status/2029538788414984210",
-        "score": 161
+        "id": "2030973690570236400",
+        "handle": "therealchaseeb",
+        "created_at_iso": "2026-03-09 07:47:16 -04:00",
+        "text": "Gun to my head I wouldn’t give a glowing review of any proposed solution for ordering on Solana.\n\nWill some work? Probably, but with serious tradeoffs.\n\nThe most important work being done to help the problem, currently, is Anza IBRLing to 200ms slots. This should reduce some of the fuckery (maybe).\n\nThis is not to throw shade, but enough people have shared their personal experience for me to know there is some truth to it. Current perps products on Solana are not great. We need more competitors building from the ground up.\n\nThere are only a few currently, and more than one has chosen to not be fully on-chain (bad).\n\nMy hope is that with each new competitor, improvements can be made from each new learning.\n\nRight now I do favor solutions at the protocol level, but again, what’s been proposed does not feel perfect and we have yet to have a real design to debate. (Hurry hell up already)\n\nAs a general purpose blockchain, Solana will be forced to make tradeoffs because general purpose is why we are competitive in so many areas. It’s just a matter of which tradeoffs were ok with.\n\nEnd tweet",
+        "url": "https://twitter.com/therealchaseeb/status/2030973690570236400",
+        "score": 172
+      },
+      {
+        "id": "2030969676038316086",
+        "handle": "solana",
+        "created_at_iso": "2026-03-09 07:31:19 -04:00",
+        "text": "BREAKING: @xStocksFi is bringing Nasdaq's tokenized equity markets to Solana DeFi",
+        "url": "https://twitter.com/solana/status/2030969676038316086",
+        "score": 166
+      },
+      {
+        "id": "2030707373200076911",
+        "handle": "foreseelol",
+        "created_at_iso": "2026-03-08 14:09:01 -04:00",
+        "text": "RT @0xC00per: 📰 Weekly Update on @solanamobile Ecosystem👇\n\n🌍 Solana Mobile Stack showcased at @MWCHub  in Barcelona #MWC2026 🇪🇸\n\n💥 $SKR lis…",
+        "url": "https://twitter.com/foreseelol/status/2030707373200076911",
+        "score": 165
+      },
+      {
+        "id": "2030626856157007974",
+        "handle": "SolanaSensei",
+        "created_at_iso": "2026-03-08 08:49:04 -04:00",
+        "text": "Solana Payments Ecosystem Map by @MessariCrypto\n\nSolana’s Total Payment Volume (TPV) growth rate significantly outperformed both traditional fintech giants and peer Layer-1 (L1) blockchains as of Feb. 11, 2026:\n\n+755.3% YoY\n\nMessari published their State of Solana: Payments report.\n\nRead full article on their official page.",
+        "url": "https://twitter.com/SolanaSensei/status/2030626856157007974",
+        "score": 162
       }
     ]
   },
   {
-    "clusterId": "cluster_2",
-    "category": "DeFi Yield / LP",
+    "clusterId": "cluster_1",
+    "category": "Perps / Trading",
     "topKeywords": [
-      "meteora",
-      "pool",
-      "yield",
-      "token",
-      "dlmm"
+      "volume",
+      "trading",
+      "solana",
+      "leverage",
+      "agents"
     ],
-    "tweetCount": 31,
-    "clusterScore": 4021.099523139013,
-    "reason": "DeFi Yield / LP cluster linked by [meteora, pool, yield, token, dlmm]",
+    "tweetCount": 16,
+    "clusterScore": 2129.7537552666518,
+    "reason": "Perps / Trading cluster linked by [volume, trading, solana, leverage, agents]",
     "sampleTweets": [
       {
-        "id": "2029565233031970915",
-        "handle": "jussy_world",
-        "created_at_iso": "2026-03-05 09:30:33 -05:00",
-        "text": "You don’t need to farm 50+ projects\n\nHere are the main ones you should focus on:\n\n@Polymarket\nThere are many prediction markets, but none will compare to $POLY\n\nInstead of splitting volume across platforms, just use Polymarket\n\nTeam already confirmed the airdrop\n\n@AbstractChain\nPENGU Airdrop was one of the biggest on Solana\n\nI think the same could happen with Abstract since it’s their biggest marketing play, and not many people farm it properly yet\n\n@bulktrade\nTop-tier perps farm after the Backpack launch, I would focus there for now (currently only testnet)\n\n@xplaceapp\nOnly for Seeker users team confirmed 2.5% of token allocation, still very early, and token planned for Q4 this year\n\n@Gradient_HQ\nOne of the free airdrops that could make you a few thousand dollars\nTeam building for a long time could be something big\n\n@onrefinance\nStill early and one of the best products to earn yield on USDC\nGenerating 10% from insurance deals, already $120M+ AUM\n\n@xeetodai\nSince InfoFi is slowing down, people are using earned Xeets for creator packs. If you have Xeets, use them to open packs and get creator cards.\n\n@piggybank_fi\nNew protocol on Solana with vault strategies and APYs you don’t see elsewhere\n\nCaps fill quickly, so follow them and enable notifications to catch deposits\n\n@Arcium\nNo confirmation of a token yet, but I believe they may reward users of apps built on their privacy layer, umbra is the first app worth using\n\nJust 9 projects, all with big narratives\n\nPerps, Neobanks, AI, Prediction markets, DeFi Yield, Depin, Privacy",
-        "url": "https://twitter.com/jussy_world/status/2029565233031970915",
-        "score": 594
+        "id": "2030674505757274609",
+        "handle": "solana",
+        "created_at_iso": "2026-03-08 11:58:24 -04:00",
+        "text": "Agents got smarter with the identity and payment rails to back it up. Consumer products shipped across trading terminals to privacy tools. Institutions continued expanding onchain with the capital to match. \n\nBig week in the ecosystem:\n\n📰 Headline News\n\n- Solana flipped Ethereum in total RWA holders for the first time per @RWA_xyz\n\n- @Backpack announced onchain IPO share allocations powered by @SuperstateInc\n\n- @solana unveiled Agent Registry via @Quantu_AI for verifiable AI agent identity\n\n- @crossmint partnered with @WesternUnion to launch the USDPT stablecoin\n\n📰 Launches\n\n- @RaenestApp added Solana support for USDT and USDC deposits\n\n- @MetaDAOProject rolled out @futarddotio for community-direct fundraising\n\n- @solflare introduced PAL as a native privacy layer for Private Send\n\n- @perena and Plume’s @NestCredit opened a dedicated Solana RWA vault\n\n- @DeFiCarrot debuted CRT, aggregated yield token with protected leverage looping\n\n- @MeteoraAG released Dynamic Terminal with advanced LP tools\n\n- @sphere_labs shipped Offloader Wallets for programmatic stablecoin-to-fiat conversion\n\n- @BungeeExchange debuted Bungee Incognito on Solana\n\n- StableHacks unveiled stablecoin hackathon with $200K+ in prizes\n\n- @TryNoahAI integrated @dflow smart routing into OpenClaw\n\n- @Quicknode open-sourced its x402 npm package for agentic USDC payments\n\n- @ValeoProtocol introduced Valeo SPL Pay to enable API monetization\n\n- @BlockRunAI went live with a unified API for 30+ AI models\n\n- @KairosTradeX shipped a trading terminal for prediction markets\n\n- @ranger_finance announced Build-A-Bear Hackathon with $1M vault TVL seed funding\n\n- @agentmail empowered AI agents to create email inboxes via @x402\n\n- @8004_scan added Solana support for ERC-8004 agent registration\n\n- @dopplerprotocol architected a native Solana rebuild of its token launch protocol\n\n- @blastgit shipped a platform to tokenize and open-source software projects\n\n- @zauthx402 launched Vector for agentic web app security auditing\n\n- @CyreneAI partnered with @WLTHxyz to bring tokenized pre-IPO access to Solana\n\n📰 Milestones\n\n- @solana in Feb recorded $650B stablecoin volume (2X+ previous ATH) across 9.4M holders\n\n- @Bitwise’s BSOL weekly inflows hit $30M+\n\n- @RaiseNetwork_ surpassed $20M in gift card volume and 156K wallets\n\nIf you enjoyed this week’s newsletter, please share it with an RT.\n\nThis week's cover art by @fakisha08",
+        "url": "https://twitter.com/solana/status/2030674505757274609",
+        "score": 708
       },
       {
-        "id": "2029902080987865129",
+        "id": "2030690557329027199",
+        "handle": "SebMontgomery",
+        "created_at_iso": "2026-03-08 13:02:11 -04:00",
+        "text": "crypto is quiet now, and it will be for a little while.\nwhy?\nbecause AI and agentic flows hit dopamine like 100X larger (unless you are great at perps trading), and crypto isn't\n\nhowever, literally crypto was built for agents. permissionless spending and AI is the greatest partnership\n\nyour actionables:\n1. use AI to build stuff. there are hackathons on with @RadiantsDAO and @solana now (and often)\n2. experiment with AI agentic trading \n3. get better at shorting, and TA\n4. don't leave crypto\n\nleaving now will be massive regret, as we are finally getting proper PMF in crypto, for the masses, and you are the early adopters\n\nbonus: keep using your @solanamobile Seeker as that is where we will see the next PMF hit millions of MAU.\n\nfinally, if you have never coded anything, or maybe you don't have the funds for tokens, then check out @Lovable for the next 12 hours (free)",
+        "url": "https://twitter.com/SebMontgomery/status/2030690557329027199",
+        "score": 383
+      },
+      {
+        "id": "2030248103673291079",
         "handle": "SolanaSensei",
-        "created_at_iso": "2026-03-06 07:49:04 -05:00",
-        "text": "SOLANA WEEKLY DIGEST\n\n> @JupiterExchange card is now live.  A fully integrated onchain card inside Jupiter Mobile.\n\n> @WesternUnion partners with @crossmint to help bring their USDPT stablecoin on @solana to millions of users.\n\n> @ValeoProtocol You can now monetize any API with Solana tokens, Valeo wraps it in a payment gate that accepts any SPL token.\n\n> @NestCredit is expanding on Solana. Powering real-world yield inside @Perena’s stablebank.\n\n> @backpack  launched access to tokenized IPO share allocations, powered by infrastructure partner @SuperstateInc\n\n> @phantom connect SDK plugin is live on the @cursor_ai marketplace.\n\n> @solflare Introducied Privacy Aggregator Layer (PAL), the first wallet with a native built-in privacy layer.\n\n> @Perena launched the @NestCredit Vault - a USDC vault with exposure to real-world assets, private credit, and U.S. T-Bills via @plumenetwork\n\n> @MetaDAOProject launched @futarddotio. New proposals are also live: featuring @ranger_finance & @solomon_labs\n\n> @dopplerprotocol the protocol for launching tokens and markets that matter is coming to solana\n\n> @futarddotio Launched permissionless futarchy launchpad and\na memecoin with $50K raise goal, ends up oversubscribing with over $11M.\n\n> @realmsdaos announced their winners of the DAO Olympics\n@solmanatdao taken the trophy\n\n> @MeteoraAG Introduced their new UI and the Dynamic Terminal is now live on Meteora.\n\nAlso, if you participated in their UI Feedback Bounty, the winners have been announced.",
-        "url": "https://twitter.com/SolanaSensei/status/2029902080987865129",
-        "score": 510
-      },
-      {
-        "id": "2029192428935364947",
-        "handle": "jussy_world",
-        "created_at_iso": "2026-03-04 08:49:10 -05:00",
-        "text": "What did I change in my airdrop farming?\n\n1. Withdrew everything from @Loopscale\n\nAPYs dropped too much, not worth keeping money there\nAlready have 1.4B points that's enough\n\nSplit those funds:\n→ Half to @piggybank_fi - 21% on USDC\n→ Half to @onrefinance - 10%, growing my overall deposit\n\n2. Withdrew from @hylo_so\n\nBecause market is moving, wanted something safer\n\nSplit those funds:\n→ @humafinance - for 3 month lockup, 10% APY\n→ @kamino - Elemental USDC vault 6%\n\n3. SOL still working on @bulktrade via @ExponentFinance\n10% yield + farming 2 protocols at once\n\nBasicly I withdrew from protocols I've farmed too long\n\nMoving into new one, keeping the base yield safe with Kamino, Huma and OnRe\n\nHow are you adjusting your farming in this market?",
-        "url": "https://twitter.com/jussy_world/status/2029192428935364947",
-        "score": 364
-      },
-      {
-        "id": "2029172283793953188",
-        "handle": "0xyunss",
-        "created_at_iso": "2026-03-04 07:29:07 -05:00",
-        "text": "most things i’ve really liked about this new ui update on @meteora or Dynamic Terminal is you can be more profitable with this new ui.\n\nbut how? this new ui prioritizing chart of the pair that you deposited to.\n\nit means :\n\n- you can absolutely monitoring the chart while monitoring your position\n- you get the realtime motion of the price action\n- you can decide quickly when to exit or enter without checking the chart on screneer\n\nfor a degen play this is absolutely helpfull because you doesn’t need to leave the app and gib you the all-in-one access on one page.\n\npool details also very details about advanced metrics really help you to decide is this pool printing good or not. for me, for a quick play i’ll look into this and check\n\n- open positions - to check how much positions opened help you to give confidence\n- fees/active tvl - above 7.5% is really good\n- volatility - to decide how’s the range\n\nbtw, thanks for implementing people feedbacks when this ui roll out on meteora edge page.",
-        "url": "https://twitter.com/0xyunss/status/2029172283793953188",
-        "score": 208
-      },
-      {
-        "id": "2029916421673865726",
-        "handle": "SolanaSensei",
-        "created_at_iso": "2026-03-06 08:46:03 -05:00",
-        "text": "Meteora just published their 2025 Token Holders Report &amp; Investor Relations page!\n\nYou can find all the key protocol stats there. They achieved $148.6M in revenue, bought back 3% of the MET supply and more.\n\nWe fucking love to see it. https://t.co/F9Fh6s128Z",
-        "url": "https://twitter.com/SolanaSensei/status/2029916421673865726",
-        "score": 205
-      },
-      {
-        "id": "2029683426656186435",
-        "handle": "met_lparmy",
-        "created_at_iso": "2026-03-05 17:20:13 -05:00",
-        "text": "RT @MeteoraEco: DYNAMIC TERMINAL IS LIVE.\n\nThis is a BANGER DLMM upgrade from Meteora, shaped by feedback from REAL LPers.\n\nMore POWERFUL t…",
-        "url": "https://twitter.com/met_lparmy/status/2029683426656186435",
-        "score": 167
-      },
-      {
-        "id": "2029492997159592124",
-        "handle": "met_lparmy",
-        "created_at_iso": "2026-03-05 04:43:31 -05:00",
-        "text": "The new Dynamic Terminal has all critical pool &amp; token insights in one view.\n\n- Base fee, bin step, dynamic fee, TVL\n- Liquidity distribution and Advanced Metrics\n- Risk signals + links to popular LP tools\n- TradingView Price Chart + Indicators\n\nNo more jumping across tabs. https://t.co/36OinfmNWT",
-        "url": "https://twitter.com/met_lparmy/status/2029492997159592124",
-        "score": 160
-      },
-      {
-        "id": "2029229585343164797",
-        "handle": "weremeow",
-        "created_at_iso": "2026-03-04 11:16:49 -05:00",
-        "text": "RT @MeteoraAG: The wait is over. Dynamic Terminal is now live on Meteora.\n\nFeaturing a trading-terminal inspired layout, important pool &amp; t…",
-        "url": "https://twitter.com/weremeow/status/2029229585343164797",
+        "created_at_iso": "2026-03-07 06:44:02 -05:00",
+        "text": "Solana has generated over $4T in trading volume over the past 3 years.\n\nIn the middle of last year, we saw roughly $120B–$130B in volume for a few weeks.\n\nAs of today, Solana is generating $12B–$15B weekly. https://t.co/WkYHFFaBgE",
+        "url": "https://twitter.com/SolanaSensei/status/2030248103673291079",
         "score": 156
+      },
+      {
+        "id": "2030894253786980551",
+        "handle": "armaniferrante",
+        "created_at_iso": "2026-03-09 02:31:36 -04:00",
+        "text": "@Backpack Reminder that high leverage trading carries significant risk. You can always adjust your max account leverage limit in the cross margin overview here. Most people should do this. https://t.co/ReIOTiihnx",
+        "url": "https://twitter.com/armaniferrante/status/2030894253786980551",
+        "score": 125
+      },
+      {
+        "id": "2030525363638706627",
+        "handle": "solana",
+        "created_at_iso": "2026-03-08 01:05:46 -05:00",
+        "text": "Crude Oil Futures. Up to 50x leverage on Solana. @FlashTrade",
+        "url": "https://twitter.com/solana/status/2030525363638706627",
+        "score": 106
+      },
+      {
+        "id": "2030403896905253275",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-07 17:03:06 -05:00",
+        "text": "RT @jarxiao: No user will ever care, but building fully on-chain perps on Solana is really technically challenging.\n\nI respect all the team…",
+        "url": "https://twitter.com/trentdotsol/status/2030403896905253275",
+        "score": 105
+      },
+      {
+        "id": "2030894497224446365",
+        "handle": "armaniferrante",
+        "created_at_iso": "2026-03-09 02:32:34 -04:00",
+        "text": "@Backpack If you're going to use high leverage, take advantage of our subaccount system. Create a new one, and use high leverage there where your margin is isolated (but still cross margined within that single subaccount). https://t.co/nXTSaSgZud",
+        "url": "https://twitter.com/armaniferrante/status/2030894497224446365",
+        "score": 62
+      },
+      {
+        "id": "2030815023392608573",
+        "handle": "vibhu",
+        "created_at_iso": "2026-03-08 21:16:46 -04:00",
+        "text": "RT @tokenterminal: Weekly transfer volume for Tether's XAUT0 on @solana surpassed $280 million, up 10x week-over-week.\n\nTokenized gold look…",
+        "url": "https://twitter.com/vibhu/status/2030815023392608573",
+        "score": 58
       }
     ]
   },
   {
     "clusterId": "cluster_4",
-    "category": "AI / Agents",
+    "category": "DeFi Yield / LP",
     "topKeywords": [
-      "agent",
-      "agents",
-      "solana",
-      "wallet",
-      "ecosystem"
+      "jupiter",
+      "yield",
+      "apy",
+      "airdrop",
+      "solana"
     ],
-    "tweetCount": 22,
-    "clusterScore": 3022.898088233718,
-    "reason": "AI / Agents cluster linked by [agent, agents, solana, wallet, ecosystem]",
+    "tweetCount": 10,
+    "clusterScore": 1681.5334347062685,
+    "reason": "DeFi Yield / LP cluster linked by [jupiter, yield, apy, airdrop, solana]",
     "sampleTweets": [
       {
-        "id": "2029340847435927874",
-        "handle": "x402",
-        "created_at_iso": "2026-03-04 18:38:56 -05:00",
-        "text": "RT @sponge_wallet: Agents using Sponge Wallet now have access to Solana swaps powered by @dflow , the cutting edge of trading infrastructur…",
-        "url": "https://twitter.com/x402/status/2029340847435927874",
-        "score": 262
+        "id": "2030272260523843620",
+        "handle": "mango_",
+        "created_at_iso": "2026-03-07 08:20:02 -05:00",
+        "text": "🔴 All latest @JupiterExchange updates 👇\n\n1 | @pudgypenguins x @jup_mobile\nPudgy SBT is available to claim for a limited time. Just do any swap inside the wallet until March 20.\n\n2 | @JupGlobal kick off\nJupiter released Jupiter Card, an in-wallet Visa card for daily spending and beyond.\n\n3 | Comet Trading\nJupiter's new telegram trading bot. Sign-ups are live now.\n\n4 | @jup_portfolio x @solanamobile\nStaked SKR and Seeker rewards are now traceable in the Jupiter Portfolio app.\n\n5 | @jup_lend\nJust hit a new ATH of jupUSD deposits, reaching $72.6M. Lenders are also earning up to 4.94% APY.",
+        "url": "https://twitter.com/mango_/status/2030272260523843620",
+        "score": 312
       },
       {
-        "id": "2029270809806815452",
-        "handle": "x402",
-        "created_at_iso": "2026-03-04 14:00:37 -05:00",
-        "text": "Big win for agents in the @solana x402 ecosystem\n\nClawRouter v0.12.6 is the easy mode for AI micropayments.\n\n✅Phantom compatible\n✅Tool-use auto-tiers\n✅100% open source\n\nIf you aren't routing your LLMs through x402, you're overpaying.",
-        "url": "https://twitter.com/x402/status/2029270809806815452",
+        "id": "2030329124875637010",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-07 12:05:59 -05:00",
+        "text": "Say what you want about Jupiter but\n\nGetting involved in the JUP ecosystem will pay off the most:\n\n- PENGU Airdrop\n\n- HUMA presale opportunity\n\n- DTF WET ICO access\n\n- BLUE Airdrop\n\n- Moonbird SBT\n\n- Jupuary Airdrop\n\n- ASR\n\n- Pudgy SBT 👀 https://t.co/EkDFMHqM1o",
+        "url": "https://twitter.com/FabianoSolana/status/2030329124875637010",
         "score": 261
       },
       {
-        "id": "2029897282196533492",
-        "handle": "x402",
-        "created_at_iso": "2026-03-06 07:30:00 -05:00",
-        "text": "RT @QuicknodeSolana: We just open sourced our x402 npm package! 📦\n\nYour agent can now access 130+ networks using a Solana wallet and @Circl…",
-        "url": "https://twitter.com/x402/status/2029897282196533492",
-        "score": 245
+        "id": "2030972882017477072",
+        "handle": "SolanaSensei",
+        "created_at_iso": "2026-03-09 07:44:03 -04:00",
+        "text": "Jupiter has generated almost $8.5B in spot volume over the past 7 days.\n\nTruly amazing to see them achieving these stats.\n\nWhat would Solana be without Jupiter? https://t.co/fducP2aIt2",
+        "url": "https://twitter.com/SolanaSensei/status/2030972882017477072",
+        "score": 256
       },
       {
-        "id": "2029328334790840822",
-        "handle": "vibhu",
-        "created_at_iso": "2026-03-04 17:49:12 -05:00",
+        "id": "2030690007501938952",
+        "handle": "gumsays",
+        "created_at_iso": "2026-03-08 13:00:00 -04:00",
+        "text": "Kamino is now the BIGGEST Solana protocol by TVL\n\nThey are now at $2.05B\n\nThey did it through:\n→ Focusing on RWA adoption\n→ Enabling institutions to easily come onchain\n→ Consistently high yields on Stablecoins\n→ Innovative yield mechanisms\n→ Maximum focus on Safety https://t.co/nDhUNy3isR",
+        "url": "https://twitter.com/gumsays/status/2030690007501938952",
+        "score": 164
+      },
+      {
+        "id": "2030317523120328911",
+        "handle": "mango_",
+        "created_at_iso": "2026-03-07 11:19:53 -05:00",
+        "text": "As I’m putting my stables to work again, I'm exploring some fresh teams.\n\nHere's what caught my eye on @HubraApp:\n\n→ USDG vault: 12.87% APR\n→ Exposure to both Kamino + Jupiter Lend venues\n→ One vault, two venues, zero hustle for me\n\nBut what stable yields are you chasing rn? https://t.co/sZJswhvtJr",
+        "url": "https://twitter.com/mango_/status/2030317523120328911",
+        "score": 156
+      },
+      {
+        "id": "2030072823918502251",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-06 19:07:32 -05:00",
+        "text": "RT @FabianoSolana: Passive income never looked better...\n\nThis is the best yield farming portfolio right now:\n\n- 25% APY\n- 4 Airdrops\n- div…",
+        "url": "https://twitter.com/FabianoSolana/status/2030072823918502251",
+        "score": 155
+      },
+      {
+        "id": "2029935008442429735",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-06 09:59:55 -05:00",
+        "text": "Passive income never looked better...\n\nThis is the best yield farming portfolio right now:\n\n- 25% APY\n- 4 Airdrops\n- diversified across 6 strategies\n\nMeans:\n\n$10,000 → after 1y → +$2,500\n$100,000 → after 1y → + $25,000 https://t.co/1pJck3s80F",
+        "url": "https://twitter.com/FabianoSolana/status/2029935008442429735",
+        "score": 154
+      },
+      {
+        "id": "2030814736921829509",
+        "handle": "armaniferrante",
+        "created_at_iso": "2026-03-08 21:15:38 -04:00",
+        "text": "Four sources to earn on your idle @Backpack deposits\n\n- Stablecoin issuer yield\n- Lending interest\n- Staking interest\n- Vault yield\n\n 🧱🧱🧱",
+        "url": "https://twitter.com/armaniferrante/status/2030814736921829509",
+        "score": 115
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_3",
+    "category": "Token Launch / Pump",
+    "topKeywords": [
+      "airdrop",
+      "token",
+      "pump",
+      "claim",
+      "scam"
+    ],
+    "tweetCount": 8,
+    "clusterScore": 1268.365341680777,
+    "reason": "Token Launch / Pump cluster linked by [airdrop, token, pump, claim, scam]",
+    "sampleTweets": [
+      {
+        "id": "2030994911844343838",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-09 09:11:35 -04:00",
+        "text": "1 BILLION UNITED STATES DOLLARS\n\nThat’s how much Alon took from the trenches\n\nAlon Cohen built the biggest casino and made most people lose everything\n\n- Born around the 2000s with jewish heritage\n\n- Had a fascination for internet phenomena\n\n- Got into crypto early but roundtripped most with NFTs, honeypots, and other scams\n\n- Met later co-founders Noah Tweedale and Dylan Kerler (previous scammer) in the UK\n\n- Pump Fun domain registered on September 19, 2023\n\n- In January 2024, Alon officially launched Pump Fun\n\n- No marketing budget (cold dmed 3,000+ people)\n\n- Let anyone create a token with zero protection for retail\n\n- Only needed two months to generate $300K daily\n\n- Pump Fun goes viral\n\n- Insiders win big but retail lose\n\n- Launched livestream and promised web2 streamers they would get rich\n\n- Again, crypto retail got burned on streamer coins\n\n- Raised $1.3B in ICO for $PUMP\n\n- Promised biggest airdrop \"soon\"\n\n- Almost one year later and no airdrop\n\n- Trenches died and Alon disappears for months\n\n- Comes back and gets accused of paying Zach to investigate competitors\n\n- Trenches are dead but still generating close to $1M mostly with bundled tokens and scams\n\n- Achieved $1B in revenue",
+        "url": "https://twitter.com/FabianoSolana/status/2030994911844343838",
+        "score": 490
+      },
+      {
+        "id": "2030964572509864160",
+        "handle": "mango_",
+        "created_at_iso": "2026-03-09 07:11:02 -04:00",
+        "text": "The only activities I'm focused on in this bear market 👇\n\nAirdrops / DeFi:\n- @onrefinance\n- @humafinance\n- @project0\n- @Loopscale\n- @hylo_so\n\nPerps:\n- @TrojanOnSolana\n- @FlashTrade\n\nMobile:\n- @solanamobile Seeker\n\nPrivacy:\n- @turbine_cash\n\nStaking:\n- @Tramplin_io\n\nNFTs:\n- @MonkeDAO",
+        "url": "https://twitter.com/mango_/status/2030964572509864160",
+        "score": 239
+      },
+      {
+        "id": "2030001017375379608",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-06 14:22:12 -05:00",
+        "text": "RT @JupiterExchange: Pudgy x Jupiter Mobile SBT token is now live! 🐧\n\nThere are two ways to claim the Jupiter Pudgy Open Edition SBT:\n\n1️⃣…",
+        "url": "https://twitter.com/FabianoSolana/status/2030001017375379608",
+        "score": 154
+      },
+      {
+        "id": "2029931255815348656",
+        "handle": "solana_daily",
+        "created_at_iso": "2026-03-06 09:45:00 -05:00",
+        "text": "Top 10 Trending Tokens on Solana in the Last 24H  🌟\n\n▫️ $XMONEY\n▫️ $WAR \n▫️ $AUTISM\n▫️ #我的刀盾\n▫️ Punch | @Punch_Ganbare\n▫️ Pigeon | @level941\n▫️ maxxing | @_maxxing\n▫️ Lobstar | @LobstarWilde\n▫️ $SHAPE\n▫️ PsyopAnime | @PsyopAnime",
+        "url": "https://twitter.com/solana_daily/status/2029931255815348656",
+        "score": 103
+      },
+      {
+        "id": "2030983970603602407",
+        "handle": "mango_",
+        "created_at_iso": "2026-03-09 08:28:07 -04:00",
+        "text": "RT @mango_: The only activities I'm focused on in this bear market 👇\n\nAirdrops / DeFi:\n- @onrefinance\n- @humafinance\n- @project0\n- @Loopsca…",
+        "url": "https://twitter.com/mango_/status/2030983970603602407",
+        "score": 98
+      },
+      {
+        "id": "2030965861024981243",
+        "handle": "turbine_cash",
+        "created_at_iso": "2026-03-09 07:16:09 -04:00",
+        "text": "RT @mango_: The only activities I'm focused on in this bear market 👇\n\nAirdrops / DeFi:\n- @onrefinance\n- @humafinance\n- @project0\n- @Loopsca…",
+        "url": "https://twitter.com/turbine_cash/status/2030965861024981243",
+        "score": 80
+      },
+      {
+        "id": "2030592121514947068",
+        "handle": "SolanaSensei",
+        "created_at_iso": "2026-03-08 06:31:03 -04:00",
+        "text": "⛩️ GM AND NAMASTE ⛩️\n\nLet’s put the work in my friends.\n\nNo one else is going to pump our bags. https://t.co/FzEqHnxe8T",
+        "url": "https://twitter.com/SolanaSensei/status/2030592121514947068",
+        "score": 54
+      },
+      {
+        "id": "2029931854674207153",
+        "handle": "foreseelol",
+        "created_at_iso": "2026-03-06 09:47:23 -05:00",
+        "text": "5,000 $SKR GIVEAWAY – WINNERS ANNOUNCED!\n\nThe wait is over! Huge congratulations to the 10 lucky winners of our $SKR Giveaway:\n\n@AiFlippa I @App_ChessKing I @filiptheboy I @KensheexX I @R3ALS33K3R\n\n@Xiznft I @LipeSolana I @tojixbt I @monke622 I @WylieWilkinson1\n\nClaim your prize: All winners, please DM us with proof to receive your reward\n\nMissed out?\n\nThe 500,000 $SKR Referral League Season 1 is still live! We’re still looking for the top referrers to grab the biggest slice of the pie\n\nDon't miss your second chance!",
+        "url": "https://twitter.com/foreseelol/status/2029931854674207153",
+        "score": 51
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_7",
+    "category": "DeFi Yield / LP",
+    "topKeywords": [
+      "meteora",
+      "pool",
+      "yield",
+      "leverage",
+      "short"
+    ],
+    "tweetCount": 11,
+    "clusterScore": 962.8297349286768,
+    "reason": "DeFi Yield / LP cluster linked by [meteora, pool, yield, leverage, short]",
+    "sampleTweets": [
+      {
+        "id": "2030292119236260081",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-07 09:38:56 -05:00",
+        "text": "Last week I tried leveraging prediction markets for the first time\n\nBetting on Meteora not getting accused by Zach\n\nI won 3x MORE than normal Polymarket traders on @wormpredict\n\nLeveraging prediction markets could be \"FREE\" money if you follow this:\n\nYour best friends are markets that have limited downside potential in the short term\n\nWhy?\n\nLeveraged prediction markets have a liquidation price that eliminates your prediction once reached\n\nEg. I bet on ARSENAL winning the UCL at 28%\n\nDo I really think they'll win? No clue, but it's free yield...\n\nIf you look at Arsenal's path, you can see that their next two rounds aren't that hard at all\n\nMeanwhile other big teams won't reach the semifinal\n\nThis will push Arsenal's odds to maybe 38% (+10%)\n\nYou might say 10% isn't that high, but with 3x leverage, that's over 30% while having very limited risk\n\nSo my goal isn't to wait until the UCL ends, but rather to take advantage and get \"free\" yield\n\nIf you bet with $1,000, you're winning $300 instead of $100\n\nLow leverage can be your friend if you're doing it the right way",
+        "url": "https://twitter.com/FabianoSolana/status/2030292119236260081",
+        "score": 208
+      },
+      {
+        "id": "2030766542992896288",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-08 18:04:08 -04:00",
+        "text": "Top performing pools on Meteora today, sorted by 24h Fee. https://t.co/l9faCIqn1E",
+        "url": "https://twitter.com/met_lparmy/status/2030766542992896288",
+        "score": 112
+      },
+      {
+        "id": "2030732920298799300",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-08 15:50:32 -04:00",
+        "text": "RT @OnlyLJC: Once you master meteora pools you will never look at memecoins the same again.",
+        "url": "https://twitter.com/met_lparmy/status/2030732920298799300",
+        "score": 111
+      },
+      {
+        "id": "2030660147119271974",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-08 11:01:21 -04:00",
+        "text": "Infinite money glitch?\n\nPrediction markets at 90%+ actually have a \"realistic chance\" of 97%\n\nThat's 7-10% free yield\n\nNow you can:\n\n&gt; Bet on markets before resolution\n&gt; Choose 3x leverage on @wormdotwtf\n&gt; Make 20% free yield",
+        "url": "https://twitter.com/FabianoSolana/status/2030660147119271974",
+        "score": 108
+      },
+      {
+        "id": "2030347395922321439",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-07 13:18:35 -05:00",
+        "text": "Top performing pools on Meteora today, sorted by 24h Fee. https://t.co/mbk2S49Les",
+        "url": "https://twitter.com/met_lparmy/status/2030347395922321439",
+        "score": 105
+      },
+      {
+        "id": "2030724989779874232",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-08 15:19:01 -04:00",
+        "text": "Meteora LP Army Bootcamp #23 - Day 2\n\nhttps://t.co/4j7uVO5oWQ",
+        "url": "https://twitter.com/met_lparmy/status/2030724989779874232",
+        "score": 55
+      },
+      {
+        "id": "2030720547559293279",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-08 15:01:22 -04:00",
+        "text": "Meteora LP Army Bootcamp #23 - Day 2 https://t.co/4j7uVO5WMo",
+        "url": "https://twitter.com/met_lparmy/status/2030720547559293279",
+        "score": 55
+      },
+      {
+        "id": "2030425467686170858",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-07 18:28:49 -05:00",
+        "text": "RT @kotegnfts: slowly but surely grinding on Meteora ☄️\n\nafter the 1:1 call with the mentor, I reviewed my actions and tried to do better.…",
+        "url": "https://twitter.com/met_lparmy/status/2030425467686170858",
+        "score": 53
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_5",
+    "category": "AI / Agents",
+    "topKeywords": [
+      "agent",
+      "solana",
+      "agents",
+      "helius",
+      "trading"
+    ],
+    "tweetCount": 5,
+    "clusterScore": 752.15357254906,
+    "reason": "AI / Agents cluster linked by [agent, solana, agents, helius, trading]",
+    "sampleTweets": [
+      {
+        "id": "2030678582201037099",
+        "handle": "solana",
+        "created_at_iso": "2026-03-08 12:14:36 -04:00",
         "text": "RT @Helius: One-shot anything on Solana\n\nMeet the Helius stack for agents:\n\n- Claude Code Plugin\n- MCP Server with 60+ tools\n- Helius CLI w…",
-        "url": "https://twitter.com/vibhu/status/2029328334790840822",
-        "score": 210
+        "url": "https://twitter.com/solana/status/2030678582201037099",
+        "score": 218
       },
       {
-        "id": "2029566864867860491",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-05 09:37:02 -05:00",
-        "text": "Solana AI Agents Spotlights Last 24H 🔥\n\n🚀Top Gainers:\n@LobstarWilde\n@printfun_\n@synesis_one\n@opus_universe\n$MIA\n\n📊Most traded:\n$PIPPIN\n@LobstarWilde\n@avodotso\n@swarms_corp\n@daydreamsagents\n\n🔥 Trending:\n@moltdotid\n@AgentHustleAI\n@freya_starfall\n@rainmakerdotfun\n@Aetheron402",
-        "url": "https://twitter.com/solana_daily/status/2029566864867860491",
-        "score": 162
+        "id": "2030660223606591927",
+        "handle": "vibhu",
+        "created_at_iso": "2026-03-08 11:01:39 -04:00",
+        "text": "RT @solana: Agents got smarter with the identity and payment rails to back it up. Consumer products shipped across trading terminals to pri…",
+        "url": "https://twitter.com/vibhu/status/2030660223606591927",
+        "score": 163
       },
       {
-        "id": "2029421144093458773",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-04 23:58:00 -05:00",
-        "text": "Which AI Agents on Solana do you think has the most potential in 2026? 👇",
-        "url": "https://twitter.com/solana_daily/status/2029421144093458773",
-        "score": 159
+        "id": "2030589441270788424",
+        "handle": "solana",
+        "created_at_iso": "2026-03-08 06:20:23 -04:00",
+        "text": "RT @solana_devs: Build something awesome this weekend.\n\nAwesome Solana AI is a great resource  for agents, skills, and tools.\n\nhttps://t.co…",
+        "url": "https://twitter.com/solana/status/2030589441270788424",
+        "score": 161
       },
       {
-        "id": "2029288006318960984",
-        "handle": "x402",
-        "created_at_iso": "2026-03-04 15:08:57 -05:00",
-        "text": "RT @sponge_wallet: Sponge Wallet is the easiest way for agents to get an inbox with AgentMail via x402, on @solana and @base without needin…",
-        "url": "https://twitter.com/x402/status/2029288006318960984",
+        "id": "2030381882739671086",
+        "handle": "solana",
+        "created_at_iso": "2026-03-07 15:35:38 -05:00",
+        "text": "RT @phantom: Boring weekend? Ship an AI agent on @Helius\n\nUse Claude Code to build your own Solana dApp (with Phantom Connect) https://t.co…",
+        "url": "https://twitter.com/solana/status/2030381882739671086",
         "score": 157
       },
       {
-        "id": "2029279435212636635",
-        "handle": "x402",
-        "created_at_iso": "2026-03-04 14:34:54 -05:00",
-        "text": "Massive for the @solana AI ecosystem.\n\n@agentmail bringing seamless email integrations to x402 is a game changer for UX.\n\nAgents can now interact with the real world and act on-chain with zero friction. 📧🤖",
-        "url": "https://twitter.com/x402/status/2029279435212636635",
-        "score": 157
+        "id": "2030610590729711986",
+        "handle": "ivan_nomadz",
+        "created_at_iso": "2026-03-08 07:44:26 -04:00",
+        "text": "Shipped 9 releases in 2 months to @solanamobile.\nAlready completing the 10th release with AI agent integration to the app. \nWho is excited to test it?",
+        "url": "https://twitter.com/ivan_nomadz/status/2030610590729711986",
+        "score": 54
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_8",
+    "category": "DeFi Yield / LP",
+    "topKeywords": [
+      "dlmm",
+      "pool",
+      "sol"
+    ],
+    "tweetCount": 3,
+    "clusterScore": 292.7120298751414,
+    "reason": "DeFi Yield / LP cluster linked by [dlmm, pool, sol]",
+    "sampleTweets": [
+      {
+        "id": "2030856825285836930",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-09 00:02:53 -04:00",
+        "text": "RT @Meteora_PH: @meteora_PH DLMM contest!\n\nThink you have the best LP strategy? Prove it.\n\n📅 March 9 – 16\n💰 $200 Prize Pool\n\nHow to join:\n•…",
+        "url": "https://twitter.com/met_lparmy/status/2030856825285836930",
+        "score": 119
+      },
+      {
+        "id": "2030212716535632240",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-07 04:23:25 -05:00",
+        "text": "RT @0xyunss: been a while since i'm breakdown my dlmm position, here's some play that works well this past few days with tight-bid-ask sol…",
+        "url": "https://twitter.com/met_lparmy/status/2030212716535632240",
+        "score": 104
+      },
+      {
+        "id": "2030940057205416258",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-09 05:33:37 -04:00",
+        "text": "RT @razzaer: White House coin at 250k market cap\n\nSpot entry, then 50/50 spot + bid-ask hybrid on the DLMM\n\nThen Bid ask. 100% win rate ove…",
+        "url": "https://twitter.com/met_lparmy/status/2030940057205416258",
+        "score": 70
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_6",
+    "category": "Token Launch / Pump",
+    "topKeywords": [
+      "launch",
+      "solana"
+    ],
+    "tweetCount": 2,
+    "clusterScore": 289.05856183150735,
+    "reason": "Token Launch / Pump cluster linked by [launch, solana]",
+    "sampleTweets": [
+      {
+        "id": "2030989183574303126",
+        "handle": "solana",
+        "created_at_iso": "2026-03-09 08:48:49 -04:00",
+        "text": "RT @EasyA_Kickstart: EasyA Kickstart is now live on @Solana!\n\nLaunch, trade and back the next big idea on Solana.\n\nSay hello to idea coins…",
+        "url": "https://twitter.com/solana/status/2030989183574303126",
+        "score": 214
+      },
+      {
+        "id": "2030956268991500300",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-09 06:38:02 -04:00",
+        "text": "Making history together 🤝\n\nWith your support, we've:\n🚀 Grown every month since launch\n💰 Scaled from 0 to billions in yearly transactions\n🤯 Raised one of the biggest Series A fintech rounds",
+        "url": "https://twitter.com/KASTxyz/status/2030956268991500300",
+        "score": 75
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_10",
+    "category": "Perps / Trading",
+    "topKeywords": [
+      "short",
+      "llm"
+    ],
+    "tweetCount": 2,
+    "clusterScore": 160.18239415070462,
+    "reason": "Perps / Trading cluster linked by [short, llm]",
+    "sampleTweets": [
+      {
+        "id": "2030665917575884875",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-08 11:24:17 -04:00",
+        "text": "RT @karbonbased: Brain rot from doomscrolling \nBrain rot from short form video\nBrain rot LLM psychosis \nBrain rot from slop ingestion \nBrai…",
+        "url": "https://twitter.com/trentdotsol/status/2030665917575884875",
+        "score": 109
+      },
+      {
+        "id": "2030041538667929986",
+        "handle": "trevorjbacon",
+        "created_at_iso": "2026-03-06 17:03:13 -05:00",
+        "text": "RT @Parcl: If it's time to short the housing market, there's only one place to do it. https://t.co/TGKTOFsAJG",
+        "url": "https://twitter.com/trevorjbacon/status/2030041538667929986",
+        "score": 52
       }
     ]
   },
@@ -243,436 +555,107 @@
     "clusterId": "cluster_9",
     "category": "Token Launch / Pump",
     "topKeywords": [
-      "token",
-      "launch",
-      "solana",
-      "tge",
-      "trading"
-    ],
-    "tweetCount": 13,
-    "clusterScore": 1292.668408730828,
-    "reason": "Token Launch / Pump cluster linked by [token, launch, solana, tge, trading]",
-    "sampleTweets": [
-      {
-        "id": "2029809390283616465",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-06 01:40:45 -05:00",
-        "text": "🚨Token launch platform Doppler is expanding to Solana.\n\n@dopplerprotocol is building a native version designed for the SVM’s architecture and programming model.\nThe protocol aims to enable projects to launch tokens on Solana with built-in price discovery and liquidity mechanisms from day one.",
-        "url": "https://twitter.com/solana_daily/status/2029809390283616465",
-        "score": 183
-      },
-      {
-        "id": "2029533109092245814",
-        "handle": "ivan_nomadz",
-        "created_at_iso": "2026-03-05 07:22:54 -05:00",
-        "text": "TGE for @idOS_network is happening in a few hours\n\nCCA sale is closing, and the token will start trading shortly after with listings across Kraken, Okx, Bitget, Kucoin, Gate, and MEXC\n\nCurious to see how market reacts once liquidity opens\n\nWho is following as well?",
-        "url": "https://twitter.com/ivan_nomadz/status/2029533109092245814",
-        "score": 161
-      },
-      {
-        "id": "2029386564032458928",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-04 21:40:35 -05:00",
-        "text": "🚨Western Union to Launch USDPT Stablecoin on Solana\n\nGlobal payments giant @WesternUnion is launching USDPT, a new stablecoin on Solana.\n@Crossmint will power the wallets and payment APIs connected to Western Union’s Digital Asset Network.\n\nThe stablecoin will be redeemable through 360,000 cash locations across 200+ countries, bridging digital assets with real-world cash access.",
-        "url": "https://twitter.com/solana_daily/status/2029386564032458928",
-        "score": 158
-      },
-      {
-        "id": "2028845350736531934",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-03 09:50:00 -05:00",
-        "text": "🚨Pumpfun Expands Mobile App Support Beyond Native Tokens \n\n@Pumpfun's mobile app now supports tokens from other Solana launchpads, along with Wormhole-bridged #Bitcoin and #Ethereum.\nFor the first time, users can trade more than just Pumpfun coins - with added support for $WBTC, $PUMP, $USDC,...",
-        "url": "https://twitter.com/solana_daily/status/2028845350736531934",
-        "score": 154
-      },
-      {
-        "id": "2029497353162617252",
-        "handle": "foreseelol",
-        "created_at_iso": "2026-03-05 05:00:49 -05:00",
-        "text": "Market is back! \n\n.@paradex $DIME TGE goes live today with 25% of supply unlocking for XP holders\n\nWill Paradex FDV be above $___ one day after launch?\n\nPlace your bet on Foresee via @solanamobile https://t.co/HP3Wr1XXgT",
-        "url": "https://twitter.com/foreseelol/status/2029497353162617252",
-        "score": 107
-      },
-      {
-        "id": "2029292198785892623",
-        "handle": "turbine_cash",
-        "created_at_iso": "2026-03-04 15:25:37 -05:00",
-        "text": "Another @MetaDAOProject history was made today:\n\n$FUTARDIO is the first project to successfully raise via @futarddotio\n\nYou can now transfer and receive the FUTARDIO token via Turbine Cash, fully privately and off the radar 👇🟠 https://t.co/NwWk6iloRu",
-        "url": "https://twitter.com/turbine_cash/status/2029292198785892623",
-        "score": 105
-      },
-      {
-        "id": "2029261387105509789",
-        "handle": "SebMontgomery",
-        "created_at_iso": "2026-03-04 13:23:11 -05:00",
-        "text": "you have only ~30 mins to get into the ICO for a $FUTARDIO memecoin\n\nit's on @MetaDAOProject's new permissionless launch platform @futarddotio and it has rug protection\n\nit's a degen move, and not \"official\" but it's the first memecoin with futarchy, so it's kind of cool. https://t.co/paIGfc0mev",
-        "url": "https://twitter.com/SebMontgomery/status/2029261387105509789",
-        "score": 104
-      },
-      {
-        "id": "2029669928803127390",
-        "handle": "x402",
-        "created_at_iso": "2026-03-05 16:26:35 -05:00",
-        "text": "RT @ValeoProtocol: Introducing Valeo SPL Pay.  \n\nMonetize your API and accept ANY @solana token.\n\nhttps://t.co/UJu0C0pNeD https://t.co/jGOM…",
-        "url": "https://twitter.com/x402/status/2029669928803127390",
-        "score": 55
-      }
-    ]
-  },
-  {
-    "clusterId": "cluster_6",
-    "category": "Perps / Trading",
-    "topKeywords": [
-      "trading",
-      "volume",
-      "solana",
-      "token",
-      "long"
-    ],
-    "tweetCount": 9,
-    "clusterScore": 1226.8930431060228,
-    "reason": "Perps / Trading cluster linked by [trading, volume, solana, token, long]",
-    "sampleTweets": [
-      {
-        "id": "2029884960690294867",
-        "handle": "SolanaSensei",
-        "created_at_iso": "2026-03-06 06:41:02 -05:00",
-        "text": "Spot DEX volume of L1 tokens bridged to Solana this week\n\n&gt; Ethereum - $329,101,160\n&gt; Hyperliquid - $58,213,285\n&gt; Zcash - $17,467,668\n&gt; Monad - $529,952\n&gt; Tron - $133,237\n\nKeep the volume coming. Higher. https://t.co/LmYLo02Zid",
-        "url": "https://twitter.com/SolanaSensei/status/2029884960690294867",
-        "score": 225
-      },
-      {
-        "id": "2029671978315997615",
-        "handle": "vibhu",
-        "created_at_iso": "2026-03-05 16:34:43 -05:00",
-        "text": "February on @Solana (WARNING: ANOTHER BANGER):\n\n- Led all networks in REV with $26m, but apps earned $87 million (healthy!)\n- Just under 2 billion transactions, which is 2x all other chains combined\n- ATH stocks and commodities volume (up 50% m/m!)\n- $250m HYPE volume (foreign assets starting to show real volume, up to 4% of onchain trading)\n- 42 million active wallets\n- $100 billion DEX volume\n- $1T in stablecoin transfers (30x Polygon fwiw - not intended as a dunk)\n- 1.5m tokens launched, 100 > $1m",
-        "url": "https://twitter.com/vibhu/status/2029671978315997615",
-        "score": 222
-      },
-      {
-        "id": "2029214030154342430",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-04 10:15:00 -05:00",
-        "text": "Top 10 DEX Aggregators on Solana by 30D Trading Volume 📊\n\n▫️@JupiterExchange | $27.16B\n▫️@okx | $1.60B\n▫️@Titan_Exchange | $1.46B\n▫️@dflow | $1.27B\n▫️@BinanceWallet | $88.76m\n▫️@BitgetWallet | $77.16M\n▫️@RangoExchange | $20.75M\n▫️@opensea | $20.37M\n▫️@lifiprotocol | $5.84M\n▫️@defidotapp | $1.06M",
-        "url": "https://twitter.com/solana_daily/status/2029214030154342430",
-        "score": 156
-      },
-      {
-        "id": "2029771525218267646",
-        "handle": "vibhu",
-        "created_at_iso": "2026-03-05 23:10:17 -05:00",
-        "text": "RT @ramzyyalii: Retail flow is all that matters tbh\n\nLong live retail\n\nLong live Solana",
-        "url": "https://twitter.com/vibhu/status/2029771525218267646",
-        "score": 117
-      },
-      {
-        "id": "2029769467824136627",
-        "handle": "met_lparmy",
-        "created_at_iso": "2026-03-05 23:02:07 -05:00",
-        "text": "RT @Odin_1001: With market volume slowing down and no tokens meeting my filters, I decided to step back for a bit. Ended up taking a trade…",
-        "url": "https://twitter.com/met_lparmy/status/2029769467824136627",
-        "score": 117
-      },
-      {
-        "id": "2029759772271227085",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-05 22:23:35 -05:00",
-        "text": "RT @ramzyyalii: Retail flow is all that matters tbh\n\nLong live retail\n\nLong live Solana",
-        "url": "https://twitter.com/therealchaseeb/status/2029759772271227085",
-        "score": 116
-      },
-      {
-        "id": "2029753943568347411",
-        "handle": "met_lparmy",
-        "created_at_iso": "2026-03-05 22:00:25 -05:00",
-        "text": "RT @razzaer: The new @MeteoraAG UI puts the chart front and centre, no more switching to Axiom or other trading terminals which has been by…",
-        "url": "https://twitter.com/met_lparmy/status/2029753943568347411",
-        "score": 116
-      },
-      {
-        "id": "2029279632114295273",
-        "handle": "jussy_world",
-        "created_at_iso": "2026-03-04 14:35:41 -05:00",
-        "text": "BTC spent a month going nowhere\n\nAnd today it broke out to the upside\n\nTrading above $72k resistance\n\nShort term target: $80k\n\nIs this the move everyone was waiting for, or just another fakeout? https://t.co/UamgLlqzf0",
-        "url": "https://twitter.com/jussy_world/status/2029279632114295273",
-        "score": 105
-      }
-    ]
-  },
-  {
-    "clusterId": "cluster_7",
-    "category": "Wallets",
-    "topKeywords": [
-      "wallet",
-      "solana",
-      "backpack",
-      "solflare",
-      "funds"
-    ],
-    "tweetCount": 12,
-    "clusterScore": 1051.4292578088966,
-    "reason": "Wallets cluster linked by [wallet, solana, backpack, solflare, funds]",
-    "sampleTweets": [
-      {
-        "id": "2028883099271217221",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-03 12:20:00 -05:00",
-        "text": "🚨Solflare Launches Wallet-Native Privacy Layer on Solana \n@solflare introduces PAL (Privacy Aggregator Layer) - a built-in privacy routing system directly inside the wallet 👇\n\n  ▶️Private Send : Optional privacy for transfers, reducing visible on-chain links between sender and receiver.\n  ▶️Seamless Routing : Transactions are automatically routed through integrated privacy partners.\n  ▶️Self-Custodial : Users stay in full control of their funds.\n  ▶️Transparent Fees : Costs shown upfront before confirming.",
-        "url": "https://twitter.com/solana_daily/status/2028883099271217221",
-        "score": 206
-      },
-      {
-        "id": "2029539455732707362",
-        "handle": "FabianoSolana",
-        "created_at_iso": "2026-03-05 07:48:07 -05:00",
-        "text": "The easiest way to lose crypto in 2026?\n\nNot using a hardware wallet\n\nHere are the 8 best options right now for Solana (incl. features, price, etc.):\n\n@KeystoneWallet Pro 3\n- Price: $149\n- Touchscreen: Yes\n- Air-gapped: Yes\n- Seedless: No\n- Key Features: fingerprint sensor, air-gapped, QR signing\n\n@Ledger Stax\n- Price: $399\n- Touchscreen: Yes\n- Air-gapped: No\n- Seedless: No\n- Key Features: E Ink touchscreen, 5,000+ assets\n\n@Trezor Safe 7\n- Price: $249\n- Touchscreen: Yes\n- Air-gapped: No\n- Seedless: No\n- Key Features: quantum-ready, strong physical protection\n\n@RyderWallet One\n- Price: $199\n- Touchscreen: No\n- Air-gapped: No\n- Seedless: Yes\n- Key Features: Stress-free backup & recovery, 60s setup\n\n@unruggable_io A1\n- Price: $69\n- Touchscreen: No\n- Air-gapped: No\n- Seedless: Yes\n- Key Features: Built for Solana only, recovery via trusted devices\n\n@solflare Shield\n- Price: $49\n- Touchscreen: No\n- Air-gapped: No\n- Seedless: No\n- Key Features: No charging, Solflare integrated, perfect for daily use\n\n@SafePal S1 Pro\n- Price: $90\n- Touchscreen: No\n- Air-gapped: Yes\n- Seedless: No\n- Key Features: 200+ chains, camera scanning, self destruction\n\n@Tangem NFC Card\n- Price: $90\n- Touchscreen: No\n- Air-gapped: No\n- Seedless: Yes\n- Key Features: no charging, NFC card, perfect for daily use",
-        "url": "https://twitter.com/FabianoSolana/status/2029539455732707362",
-        "score": 161
-      },
-      {
-        "id": "2029239989901639939",
-        "handle": "jussy_world",
-        "created_at_iso": "2026-03-04 11:58:09 -05:00",
-        "text": "Backpack is adding IPOs on Solana\n\nNot after they go public on exchanges\nBefore it\n\nSo everyone gets access before trading goes live on public exchanges\n\nThe biggest question is whether you actually want this\n\nInterest for onchain Stocks isn't that big yet\n\nBut for Backpack it's different, because the bigger interest from community, the better IPOs they can negotiate access to\n\nSo the community directly decides the quality of deals\n\nWould you use this?",
-        "url": "https://twitter.com/jussy_world/status/2029239989901639939",
-        "score": 156
-      },
-      {
-        "id": "2029639713783525654",
-        "handle": "FabianoSolana",
-        "created_at_iso": "2026-03-05 14:26:31 -05:00",
-        "text": "RT @FabianoSolana: The easiest way to lose crypto in 2026?\n\nNot using a hardware wallet\n\nHere are the 8 best options right now for Solana (…",
-        "url": "https://twitter.com/FabianoSolana/status/2029639713783525654",
-        "score": 110
-      },
-      {
-        "id": "2029586749937291465",
-        "handle": "SolanaSensei",
-        "created_at_iso": "2026-03-05 10:56:03 -05:00",
-        "text": "📰 NEWS: @Backpack has partnered with @SuperstateInc to bring you tokenized IPO share allocations.\n\nYou can now have access to real IPO shares with direct ownership all on backpack.\n\nWaitlist is live. https://t.co/Er4B3d5RZI",
-        "url": "https://twitter.com/SolanaSensei/status/2029586749937291465",
-        "score": 54
-      },
-      {
-        "id": "2029437725477405118",
-        "handle": "x402",
-        "created_at_iso": "2026-03-05 01:03:53 -05:00",
-        "text": "RT @_rishinsharma: Agentic wallets like lobster cash are crypto's early breakout products of 2026. if you were in sf this week, this much i…",
-        "url": "https://twitter.com/x402/status/2029437725477405118",
-        "score": 53
-      },
-      {
-        "id": "2029326017324826886",
-        "handle": "met_engine",
-        "created_at_iso": "2026-03-04 17:40:00 -05:00",
-        "text": "We shipped newfeatures for @HyperliquidX \n\n- follow wallets \n- Smart odds \n\nFree Install: https://t.co/Iyxhv4jIVG https://t.co/CvjybZO8pz",
-        "url": "https://twitter.com/met_engine/status/2029326017324826886",
-        "score": 52
-      },
-      {
-        "id": "2029233080880545821",
-        "handle": "met_engine",
-        "created_at_iso": "2026-03-04 11:30:42 -05:00",
-        "text": "MetEngine Extension is independently audited, fully read-only, and requests zero wallet permissions.\n\nFull audit report: https://t.co/aiIi1gXLtf",
-        "url": "https://twitter.com/met_engine/status/2029233080880545821",
-        "score": 52
-      }
-    ]
-  },
-  {
-    "clusterId": "cluster_1",
-    "category": "Staking / LST",
-    "topKeywords": [
-      "liquid",
-      "staking",
-      "solana",
-      "sol",
-      "sanctum"
+      "meme"
     ],
     "tweetCount": 1,
-    "clusterScore": 694.7027335452528,
-    "reason": "Staking / LST cluster linked by [liquid, staking, solana, sol, sanctum]",
+    "clusterScore": 114.56254927377891,
+    "reason": "Token Launch / Pump cluster linked by [meme]",
     "sampleTweets": [
       {
-        "id": "2029867657659568353",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-06 05:32:17 -05:00",
-        "text": "Liquid Staking Protocols on Solana by Revenue 30D 📊\n\n🔸Binance Staked SOL | @binance\n🔸Sanctum Validator LSTs | @sanctumso\n🔸DoubleZero Staked SOL | @doublezero\n🔸Jito Liquid Staking | @jito_sol\n🔸Jupiter Staked SOL| @JupiterExchange\n🔸Marinade Liquid Staking | @MarinadeFinance\n🔸Bybit Staked SOL | @Bybit_Web3\n🔸JPool | @JPoolSolana\n🔸BlazeStake | @thevaultfinance\n🔸The Vault Liquid Staking | @thevaultfinance",
-        "url": "https://twitter.com/solana_daily/status/2029867657659568353",
-        "score": 695
-      }
-    ]
-  },
-  {
-    "clusterId": "cluster_8",
-    "category": "Hack / Exploit",
-    "topKeywords": [
-      "security",
-      "airdrop",
-      "alert",
-      "pool"
-    ],
-    "tweetCount": 3,
-    "clusterScore": 337.6151379786455,
-    "reason": "Hack / Exploit cluster linked by [security, airdrop, alert, pool]",
-    "sampleTweets": [
-      {
-        "id": "2028882468065972267",
-        "handle": "FabianoSolana",
-        "created_at_iso": "2026-03-03 12:17:29 -05:00",
-        "text": "🚨 Airdrop alert (limited time)\n\nWin $20K for beating this AI and qualify for an airdrop on top\n\nStormrae is building a human participation layer for AI security\n\nBasically they pay people to stress-test AI models through games\n\nTheir first challenge is \"King Arthur:\"\n\nUsers buy credits → send prompts trying to convince the AI to “pull the sword” (break its rules)\n\nThe first person to succeed wins 50% of the pool (currently $20K)\n\nThen it resets\nThe pool keeps growing\n\nWhile trying to break the AI you can:\n\n- Earn Shards (think $STORM airdrop)\n- Earn Echoes (10% of credit purchases from your referrals)\n\nYou’ve got 7 days\n\nfeel free to use my ref: https://t.co/7F7Iw4FUY2",
-        "url": "https://twitter.com/FabianoSolana/status/2028882468065972267",
-        "score": 206
-      },
-      {
-        "id": "2029852747948781754",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 04:33:02 -05:00",
-        "text": "RT @0xcastle_chain: Most security firms today are building skills that scan for vulnerabilities.\n\nIn my opinion, that’s a bit late.\n\nSecuri…",
-        "url": "https://twitter.com/therealchaseeb/status/2029852747948781754",
-        "score": 66
-      },
-      {
-        "id": "2029848425291018736",
-        "handle": "0xharsh1001",
-        "created_at_iso": "2026-03-06 04:15:52 -05:00",
-        "text": "RT @0xcastle_chain: Most security firms today are building skills that scan for vulnerabilities.\n\nIn my opinion, that’s a bit late.\n\nSecuri…",
-        "url": "https://twitter.com/0xharsh1001/status/2029848425291018736",
-        "score": 66
-      }
-    ]
-  },
-  {
-    "clusterId": "cluster_5",
-    "category": "Token Launch / Pump",
-    "topKeywords": [
-      "airdrop",
-      "volume",
-      "jup",
-      "wallet",
-      "sol"
-    ],
-    "tweetCount": 1,
-    "clusterScore": 257.055123684216,
-    "reason": "Token Launch / Pump cluster linked by [airdrop, volume, jup, wallet, sol]",
-    "sampleTweets": [
-      {
-        "id": "2028875102314749966",
-        "handle": "jussy_world",
-        "created_at_iso": "2026-03-03 11:48:13 -05:00",
-        "text": "My current ranks from 50+ Airdrop List\n\n> @Backpack 38.2k points + 1 MadLads\n\n> @hylo_so rank 44 with 515M all time XP\n\n> @solsticefi 140M flares, rank 11 on Xeet\n\n> @Polymarket $150k in volume\n\n> @Kalshi $20k in volume via Jup\n\n> @AbstractChain all badges, $20k in volume\n\n> @xeetdotai 6400 Xeets\n\n> @Titan_Exchange rank 413\n\n> @KASTxyz 160k points, valued at $16k + discord role\n\n> @piggybank_fi rank 29\n\n> @Loopscale over 1.4B points across all wallets\n\n> @onrefinance rank 95 with 40M points across all wallets\n\n> @reflectmoney 85k points\n\n> @xplaceapp 103k XP\n\n> @ExponentFinance maybe $500k all time volume\n\n> @bulktrade 35 SOL staked, around 75 Testnet transactions are done, + discord role\n\n> @Gradient_HQ 300k points\n\n> @dawninternet 8M points\n\n> @ethos_network 39.3k of XP\n\nIs that enough to retire?",
-        "url": "https://twitter.com/jussy_world/status/2028875102314749966",
-        "score": 257
-      }
-    ]
-  },
-  {
-    "clusterId": "cluster_10",
-    "category": "DeFi Yield / LP",
-    "topKeywords": [
-      "lp",
-      "leverage"
-    ],
-    "tweetCount": 1,
-    "clusterScore": 108.06887899938191,
-    "reason": "DeFi Yield / LP cluster linked by [lp, leverage]",
-    "sampleTweets": [
-      {
-        "id": "2029570944155423085",
-        "handle": "FabianoSolana",
-        "created_at_iso": "2026-03-05 09:53:15 -05:00",
-        "text": "More \"FREE\" money:\n\nYesterday Sui launched their own stablecoin USDSUI\n\nThey crazily incentivized the LPs\n\nMeans for stablecoin LPs like USDSUI-USDC you get 40% APR\n\n- No leverage\n- No liquidation risk\n- No IL\n\nYou can do this on Bluefin, Cetus, etc. https://t.co/omedVNeRwP",
-        "url": "https://twitter.com/FabianoSolana/status/2029570944155423085",
-        "score": 108
+        "id": "2030992358959964538",
+        "handle": "Matty_Solana",
+        "created_at_iso": "2026-03-09 09:01:27 -04:00",
+        "text": "While you guys were busy discussing WW3,\n\nJws in crypto made $9m in revenue in the last 7 days.\n\nWho said memes ded https://t.co/RwDbAKcwYy",
+        "url": "https://twitter.com/Matty_Solana/status/2030992358959964538",
+        "score": 115
       }
     ]
   },
   {
     "clusterId": "cluster_13",
-    "category": "Perps / Trading",
+    "category": "Hack / Exploit",
     "topKeywords": [
-      "leverage"
+      "funds"
     ],
     "tweetCount": 2,
-    "clusterScore": 105.65144159116299,
-    "reason": "Perps / Trading cluster linked by [leverage]",
+    "clusterScore": 107.31928446203,
+    "reason": "Hack / Exploit cluster linked by [funds]",
     "sampleTweets": [
       {
-        "id": "2029506858613117090",
-        "handle": "jussy_world",
-        "created_at_iso": "2026-03-05 05:38:36 -05:00",
-        "text": "RT @jussy_world: Bought Yes on ceasefire by March 31\n\nBut instead of Polymarket, used @wormdotwtf with 3x leverage\n\nSame market, same bet…",
-        "url": "https://twitter.com/jussy_world/status/2029506858613117090",
-        "score": 53
+        "id": "2030752837089788235",
+        "handle": "solana",
+        "created_at_iso": "2026-03-08 17:09:40 -04:00",
+        "text": "RT @tokenterminal: ICYMI: RWA market cap on @solana is up by ~10x over the past year.\n\nData includes tokenized funds, stocks, and commoditi…",
+        "url": "https://twitter.com/solana/status/2030752837089788235",
+        "score": 56
       },
       {
-        "id": "2029260990525915271",
-        "handle": "jussy_world",
-        "created_at_iso": "2026-03-04 13:21:36 -05:00",
-        "text": "Bought Yes on ceasefire by March 31\n\nBut instead of Polymarket, used @wormdotwtf with 3x leverage\n\nSame market, same bet\n\n$200 in $1,215 back if I win vs $550 on Polymarket\n\nI use Worm on high-probability markets\n\nLeverage isn't risky if it's 2 - 3x and the odds are high\n\nWhat market would you leverage trade?\n\nFed meeting, BTC price?",
-        "url": "https://twitter.com/jussy_world/status/2029260990525915271",
+        "id": "2030057720443793749",
+        "handle": "solanapayments",
+        "created_at_iso": "2026-03-06 18:07:31 -05:00",
+        "text": "RT @NickyScanz: Sending funds during event planning can be such a pain. Especially with down payments, vendors, etc etc.\n\nUnless you use @s…",
+        "url": "https://twitter.com/solanapayments/status/2030057720443793749",
         "score": 52
       }
     ]
   },
   {
     "clusterId": "cluster_11",
-    "category": "Hack / Exploit",
+    "category": "Infra / MEV",
     "topKeywords": [
-      "funds",
-      "wallet"
+      "rpc"
     ],
     "tweetCount": 1,
-    "clusterScore": 103.99337262098362,
-    "reason": "Hack / Exploit cluster linked by [funds, wallet]",
+    "clusterScore": 74.20495464663858,
+    "reason": "Infra / MEV cluster linked by [rpc]",
     "sampleTweets": [
       {
-        "id": "2029188983868035103",
-        "handle": "turbine_cash",
-        "created_at_iso": "2026-03-04 08:35:28 -05:00",
-        "text": "There’s a lot of “we’re better” noise in the privacy space.\n\nMeanwhile, at Turbine Cash, you get the lowest fees for private transfers.\n\naka more funds actually reach your destination wallet.\n\nTry it today ⤵ https://t.co/cHRKA1mxSo",
-        "url": "https://twitter.com/turbine_cash/status/2029188983868035103",
-        "score": 104
+        "id": "2030953366948593979",
+        "handle": "triton_one",
+        "created_at_iso": "2026-03-09 06:26:30 -04:00",
+        "text": "Wherever builders go, the infrastructure has to follow🤝 \n\nProud to back the first @Solana_zh builder station with premium RPC endpoints for participating teams.",
+        "url": "https://twitter.com/triton_one/status/2030953366948593979",
+        "score": 74
       }
     ]
   },
   {
     "clusterId": "cluster_12",
-    "category": "Perps / Trading",
+    "category": "AI / Agents",
     "topKeywords": [
-      "perps"
+      "llm"
     ],
     "tweetCount": 1,
-    "clusterScore": 64.82718544682093,
-    "reason": "Perps / Trading cluster linked by [perps]",
+    "clusterScore": 56.4039860686264,
+    "reason": "AI / Agents cluster linked by [llm]",
     "sampleTweets": [
       {
-        "id": "2029843371309629451",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 03:55:47 -05:00",
-        "text": "I have been writing an article on the market structure / perps debate since I started researching it month ago. \n\nMy world view used to change 100 times a day with each passing conversation.\n\nIt’s narrowed down and my worldview only shifts a couple times a week now.\n\nThe piece is primarily educational so not everyone has to deal with what I did.\n\nAt one point it was 10,000 words, now down to 4000.\n\nNgl it’s actually been really fun, and hopefully I can get enough information in it without exhausting the reader with too many words.\n\nI’m sure certain elements will be debated or incorrect, but I’m trying to mostly be objective and present information from the people who know best. \n\nOne day I’ll ship 🚢",
-        "url": "https://twitter.com/therealchaseeb/status/2029843371309629451",
-        "score": 65
+        "id": "2030779967282544976",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 18:57:28 -04:00",
+        "text": "RT @mert: perhaps the most incoherent thesis ive seen is that powerful and expressive computers (LLMs) will make obsolete the people who ar…",
+        "url": "https://twitter.com/toly/status/2030779967282544976",
+        "score": 56
       }
     ]
   },
   {
     "clusterId": "cluster_14",
-    "category": "Token Launch / Pump",
+    "category": "Perps / Trading",
     "topKeywords": [
-      "claim"
+      "long"
     ],
     "tweetCount": 1,
-    "clusterScore": 52.17705864343473,
-    "reason": "Token Launch / Pump cluster linked by [claim]",
+    "clusterScore": 54.06853266979182,
+    "reason": "Perps / Trading cluster linked by [long]",
     "sampleTweets": [
       {
-        "id": "2029251636598849732",
-        "handle": "ivan_nomadz",
-        "created_at_iso": "2026-03-04 12:44:26 -05:00",
-        "text": "Love to see that we can get better deals than on booking!\n\nFor this booking at @NOMADZxyz:\n\n• pay 275$ less (20% difference)  \n• 0% fees on @solana in USDC or JupUSD \n• get minimum of 4146 XP\n• claim badges and unlock discounts \n\nIs this real?",
-        "url": "https://twitter.com/ivan_nomadz/status/2029251636598849732",
-        "score": 52
+        "id": "2030644621328388220",
+        "handle": "mango_",
+        "created_at_iso": "2026-03-08 09:59:39 -04:00",
+        "text": "Funny enough, I was in contact with team for a LONG time\n\neven got invited and went to “private” yacht party during Breakpoint…\n\nI smh believed in concept, but after multiple @milianstx tweets and right takes, it all felt apart.\n\nDO NOT be Offgrid.",
+        "url": "https://twitter.com/mango_/status/2030644621328388220",
+        "score": 54
       }
     ]
   },
@@ -685,11 +668,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029907371615515055",
-        "handle": "gumsays",
-        "created_at_iso": "2026-03-06 08:10:05 -05:00",
-        "text": "At what % is the market pricing in a quick resolution of US-Iran war?\n\nI think it is priced in with a high %, making it the perfect reason for the SPY to drop 5%-10%\n\nTrump is a man of markets and he knows stock indexes are still near ATHs. They can prolong this war for more than 1 month before needing to pivot and fix things quickly.\n\nThat would be a lot of damage due to disruptions in the Straight of Hormuz.\n\nThis would be a perfect support test, making dip buyers greedy again.\n\nFWIW I have no idea where this would put Bitcoin since it tends to act completely random at times.",
-        "url": "https://twitter.com/gumsays/status/2029907371615515055",
+        "id": "2030995214609916369",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-09 09:12:47 -04:00",
+        "text": "RT @AaronTeng: Congratulations @raagulanpathy on behalf of @pudgypenguins \n\nHaving worked with you and the @peppercrunch_ team, I’ve seen t…",
+        "url": "https://twitter.com/KASTxyz/status/2030995214609916369",
         "score": 0
       }
     ]
@@ -703,11 +686,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029903820885532773",
-        "handle": "FabianoSolana",
-        "created_at_iso": "2026-03-06 07:55:59 -05:00",
-        "text": "How much money you need to live comfortably in every country:\n\nWhat's the best place to live for a crypto bro? https://t.co/VFVDWhImD6",
-        "url": "https://twitter.com/FabianoSolana/status/2029903820885532773",
+        "id": "2030994052909596725",
+        "handle": "toly",
+        "created_at_iso": "2026-03-09 09:08:10 -04:00",
+        "text": "🦾🦾🦾",
+        "url": "https://twitter.com/toly/status/2030994052909596725",
         "score": 0
       }
     ]
@@ -721,11 +704,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029899305004216824",
-        "handle": "turbine_cash",
-        "created_at_iso": "2026-03-06 07:38:02 -05:00",
-        "text": "Nothing matter...\n\nGo Private. Stay Untraceable 🟠 https://t.co/GSzPWCbfQi",
-        "url": "https://twitter.com/turbine_cash/status/2029899305004216824",
+        "id": "2030992927850393843",
+        "handle": "toly",
+        "created_at_iso": "2026-03-09 09:03:42 -04:00",
+        "text": "RT @PeterMcCormack: Happy 250th birthday to this masterpiece.\n\nRead it and understand why socialists / collectivists are a cancer. https://…",
+        "url": "https://twitter.com/toly/status/2030992927850393843",
         "score": 0
       }
     ]
@@ -739,11 +722,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029890603450761530",
-        "handle": "SebMontgomery",
-        "created_at_iso": "2026-03-06 07:03:28 -05:00",
-        "text": "so much PMF with @futarddotio BUT\n...founders are missing a GTM strategy.\nfor a few weeks prior you should be doing X spaces, X posts, podcasts, have video explainers, articles, doing chats with NFT communities\n\ntell the world what you are doing, and why it will work! https://t.co/oPzLjor6HX",
-        "url": "https://twitter.com/SebMontgomery/status/2029890603450761530",
+        "id": "2030991015335633313",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-09 08:56:06 -04:00",
+        "text": "RT @KevinWSHPod: I’ve been living my life on stablecoins for a year now, since our big WSH US podcast tour in March 2025\n\nGot addicted to K…",
+        "url": "https://twitter.com/KASTxyz/status/2030991015335633313",
         "score": 0
       }
     ]
@@ -757,11 +740,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029887850997481912",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 06:52:31 -05:00",
-        "text": "Happy Friday https://t.co/qPhWLyj6m4",
-        "url": "https://twitter.com/therealchaseeb/status/2029887850997481912",
+        "id": "2030990434005143886",
+        "handle": "Matty_Solana",
+        "created_at_iso": "2026-03-09 08:53:48 -04:00",
+        "text": "RT @WAVEDOTFUN: Track Nostradamuses. 🧙‍♂️\nQuick Predict with 0 fees. \nStack Wave Points.\n\nRide the 🌊 https://t.co/OncHCbtC1f",
+        "url": "https://twitter.com/Matty_Solana/status/2030990434005143886",
         "score": 0
       }
     ]
@@ -775,11 +758,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029881880535871547",
+        "id": "2030989430299717750",
         "handle": "ivan_nomadz",
-        "created_at_iso": "2026-03-06 06:28:48 -05:00",
-        "text": "Excited to integrate Matrica Connect and partner with @MatricaLabs!",
-        "url": "https://twitter.com/ivan_nomadz/status/2029881880535871547",
+        "created_at_iso": "2026-03-09 08:49:48 -04:00",
+        "text": "It was a pleasure to join the @decent_voices podcast.\n\nWe spoke about my story from full time lawyer to the cofounder of the @NOMADZxyz - web3-native travel aggregator.\n\nIt was cool to reflect on my journey and share how @solana supports builders. \n\nCheck out the full episode!",
+        "url": "https://twitter.com/ivan_nomadz/status/2030989430299717750",
         "score": 0
       }
     ]
@@ -793,11 +776,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029875951946125820",
-        "handle": "0xharsh1001",
-        "created_at_iso": "2026-03-06 06:05:14 -05:00",
-        "text": "RT @met_engine: You are losing money on @Polymarket if you don't have our extension installed. \n\nFree Install: https://t.co/Iyxhv4jIVG http…",
-        "url": "https://twitter.com/0xharsh1001/status/2029875951946125820",
+        "id": "2030987185483055515",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-09 08:40:53 -04:00",
+        "text": "RT @raagulanpathy: “To the dreamers”\n\nToday we announce KAST has raised a US$80M Series A, co-led by QED and Left Lane.\n\nWe launched in Jul…",
+        "url": "https://twitter.com/KASTxyz/status/2030987185483055515",
         "score": 0
       }
     ]
@@ -811,11 +794,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029875264294113325",
-        "handle": "met_engine",
-        "created_at_iso": "2026-03-06 06:02:30 -05:00",
-        "text": "You are losing money on @Polymarket if you don't have our extension installed. \n\nFree Install: https://t.co/Iyxhv4jIVG https://t.co/2IdzTRiYLI",
-        "url": "https://twitter.com/met_engine/status/2029875264294113325",
+        "id": "2030985466674044940",
+        "handle": "gumsays",
+        "created_at_iso": "2026-03-09 08:34:03 -04:00",
+        "text": "if you're debating a move to portugal remember:\n\npros:\n- 0% tax on longterm crypto gains (held >365 days)\n- sunniest country in europe\n- ocean is always a few minutes away\n- no missiles flying over you, ever\n- amazing food\n\ncons:\n- very expensive housing and rents\n- expensive groceries, restaurants getting there\n- bad, slow public services\n- horrible bureaucracy for businesses\n\noverall it's a 10/10 if you are financially stable",
+        "url": "https://twitter.com/gumsays/status/2030985466674044940",
         "score": 0
       }
     ]
@@ -829,11 +812,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029873871202177314",
-        "handle": "foreseelol",
-        "created_at_iso": "2026-03-06 05:56:58 -05:00",
-        "text": "After 3 rate cuts in late 2025, Fed hit pause in January, and March looks like another hold\n\nBut with tariff uncertainty still swirling and CPI data dropping right before the meeting, one bad print could flip the script overnight\n\nFed decision in March?\n\nHold or cut? Predict now on Foresee @solanamobile",
-        "url": "https://twitter.com/foreseelol/status/2029873871202177314",
+        "id": "2030969409129656736",
+        "handle": "armaniferrante",
+        "created_at_iso": "2026-03-09 07:30:15 -04:00",
+        "text": "This is exactly what I want to see from any founder I invest into. Go big or go home. Forget the haters. https://t.co/gP3gxJRit7",
+        "url": "https://twitter.com/armaniferrante/status/2030969409129656736",
         "score": 0
       }
     ]
@@ -847,11 +830,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029858773855306136",
-        "handle": "mrjasonchoi",
-        "created_at_iso": "2026-03-06 04:56:59 -05:00",
-        "text": "Send this to people you care about https://t.co/7LUZrx5XsM",
-        "url": "https://twitter.com/mrjasonchoi/status/2029858773855306136",
+        "id": "2030969098662818261",
+        "handle": "SebMontgomery",
+        "created_at_iso": "2026-03-09 07:29:01 -04:00",
+        "text": "you have 255 days until GTA VI\nso lock TF in rn, so you can actually have time to play this.\n36 weeks\n8 months https://t.co/UXGCvC4QEk",
+        "url": "https://twitter.com/SebMontgomery/status/2030969098662818261",
         "score": 0
       }
     ]
@@ -865,11 +848,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029855613891592495",
-        "handle": "weremeow",
-        "created_at_iso": "2026-03-06 04:44:25 -05:00",
-        "text": "RT @kashdhanda: wake up babe, new offramp just dropped. \n\n(oh btw it's entirely free)\n\njust use @JupGlobal to turn USDC into local fiat in…",
-        "url": "https://twitter.com/weremeow/status/2029855613891592495",
+        "id": "2030968433920135234",
+        "handle": "trevorjbacon",
+        "created_at_iso": "2026-03-09 07:26:22 -04:00",
+        "text": "RT @jasonlewris: I've been monitoring the housing situation. \n\n21st Century ROAD to Housing Act dropped a week ago. \n\nOn it's own, it likel…",
+        "url": "https://twitter.com/trevorjbacon/status/2030968433920135234",
         "score": 0
       }
     ]
@@ -883,11 +866,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029855589342363682",
-        "handle": "ivan_nomadz",
-        "created_at_iso": "2026-03-06 04:44:20 -05:00",
-        "text": "Good morning!\n\nCompleted my morning routine and working on @NOMADZxyz\n\n• calls with Product and Growth teams\n• work with Claude Cowork on my website and personal tasks  \n• calls with 2 potential lead investors\n• educational session for founders by @monad\n\nWhat is your plan for today?",
-        "url": "https://twitter.com/ivan_nomadz/status/2029855589342363682",
+        "id": "2030967033823924625",
+        "handle": "therealchaseeb",
+        "created_at_iso": "2026-03-09 07:20:49 -04:00",
+        "text": "RT @trentdotsol: this is why we'll win",
+        "url": "https://twitter.com/therealchaseeb/status/2030967033823924625",
         "score": 0
       }
     ]
@@ -901,11 +884,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029853740887355461",
-        "handle": "Heavymetalcook6",
-        "created_at_iso": "2026-03-06 04:36:59 -05:00",
-        "text": "During last weekend's @met_lparmy  Academy Bootcamp Q and A @photonmagicsol talked about being consistent and taking profit when you can https://t.co/jazuk6Cojj",
-        "url": "https://twitter.com/Heavymetalcook6/status/2029853740887355461",
+        "id": "2030966223039578553",
+        "handle": "turbine_cash",
+        "created_at_iso": "2026-03-09 07:17:35 -04:00",
+        "text": "The government just admitted what builders have shipped for years\n\nOn-chain privacy normalization arc is happening whether they're ready or not \n\nGo Private 🟠",
+        "url": "https://twitter.com/turbine_cash/status/2030966223039578553",
         "score": 0
       }
     ]
@@ -919,11 +902,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029853265572024396",
-        "handle": "Heavymetalcook6",
-        "created_at_iso": "2026-03-06 04:35:06 -05:00",
-        "text": "Hell yeah",
-        "url": "https://twitter.com/Heavymetalcook6/status/2029853265572024396",
+        "id": "2030964812679713061",
+        "handle": "SebMontgomery",
+        "created_at_iso": "2026-03-09 07:11:59 -04:00",
+        "text": "this is awesome news\n\nmy card of choice\nSEBMONTY referral code, and they have a @pudgypenguins card coming soonTM",
+        "url": "https://twitter.com/SebMontgomery/status/2030964812679713061",
         "score": 0
       }
     ]
@@ -937,11 +920,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029853180889055553",
-        "handle": "Heavymetalcook6",
-        "created_at_iso": "2026-03-06 04:34:45 -05:00",
-        "text": "LFG",
-        "url": "https://twitter.com/Heavymetalcook6/status/2029853180889055553",
+        "id": "2030962873485185439",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-09 07:04:17 -04:00",
+        "text": "Crime explains why he goes wide when LPing memecoins.\n\n“By setting a very wide range, you’re not in trouble unless price goes through the bottom...” - @crimexbt\n\nIt protects you from dumps and lets you collect fees from volatility without needing a perfect entry. https://t.co/1SpKgZ3YOj",
+        "url": "https://twitter.com/met_lparmy/status/2030962873485185439",
         "score": 0
       }
     ]
@@ -955,11 +938,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029849751609352231",
-        "handle": "met_lparmy",
-        "created_at_iso": "2026-03-06 04:21:08 -05:00",
-        "text": "Apply here: \nhttps://t.co/D7HkzW7git",
-        "url": "https://twitter.com/met_lparmy/status/2029849751609352231",
+        "id": "2030962799061463049",
+        "handle": "trevorjbacon",
+        "created_at_iso": "2026-03-09 07:03:59 -04:00",
+        "text": "RT @jasonlewris: Atlanta is ground zero for institutional housing investors. \n\nThere are now 4 Atlanta zip codes where investors who own 35…",
+        "url": "https://twitter.com/trevorjbacon/status/2030962799061463049",
         "score": 0
       }
     ]
@@ -973,11 +956,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029849748136407052",
-        "handle": "met_lparmy",
-        "created_at_iso": "2026-03-06 04:21:07 -05:00",
-        "text": "🎓 LP Army University Monthly Coaching\n\nWe’re launching a new monthly coaching program with @crimexbt.\n\nEach month, Crime will personally mentor a small group, helping them progress from beginner concepts to more advanced LP strategies.\n\nSerious about leveling up? Apply below.",
-        "url": "https://twitter.com/met_lparmy/status/2029849748136407052",
+        "id": "2030958048815227165",
+        "handle": "therealchaseeb",
+        "created_at_iso": "2026-03-09 06:45:06 -04:00",
+        "text": "I can agree that fear mongering is at aths and quite overblown...\n\nBut to say.... \n\n\"We live in the safest, most prosperous time in human history\"\n\n....is insanely delusional. Maybe for the already wealthy 1%. Everyone else in the world is getting poorer.",
+        "url": "https://twitter.com/therealchaseeb/status/2030958048815227165",
         "score": 0
       }
     ]
@@ -991,11 +974,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029848467611537472",
-        "handle": "foreseelol",
-        "created_at_iso": "2026-03-06 04:16:02 -05:00",
-        "text": "RT @marinonchain: This is what real $SKR adoption &amp; utility looks like 📱\n\n$SKR is increasingly being integrated across dApps in the @solana…",
-        "url": "https://twitter.com/foreseelol/status/2029848467611537472",
+        "id": "2030956277409677740",
+        "handle": "UmbraPrivacy",
+        "created_at_iso": "2026-03-09 06:38:04 -04:00",
+        "text": "RT @SuperteamIN: LIVESTREAM HAPPENING IN 1 HOUR 🚨\n\nin this week's member interview, @devanshk404 is joined by @typi_cal_, the dev brains be…",
+        "url": "https://twitter.com/UmbraPrivacy/status/2030956277409677740",
         "score": 0
       }
     ]
@@ -1009,11 +992,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029839794180870569",
-        "handle": "mrjasonchoi",
-        "created_at_iso": "2026-03-06 03:41:34 -05:00",
-        "text": "Would be nice to live in precedented times for once, just for a week or so",
-        "url": "https://twitter.com/mrjasonchoi/status/2029839794180870569",
+        "id": "2030956270820180310",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-09 06:38:02 -04:00",
+        "text": "Moving forward ⏩\n\nWith this historic funding round, we're going to:\n\n📶 Elevate your financial experience\n💲 Build the future of finance powered by stablecoins\n🏦 Provide world-class consumer &amp; business offerings\n\nThe real work starts now 🫡\n\nhttps://t.co/VOhOfArPr2",
+        "url": "https://twitter.com/KASTxyz/status/2030956270820180310",
         "score": 0
       }
     ]
@@ -1027,11 +1010,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029836251176616353",
-        "handle": "SebMontgomery",
-        "created_at_iso": "2026-03-06 03:27:29 -05:00",
-        "text": "no PMF\n\n @futarddotio largely fixes this. you build, you find pmf, or you don't last",
-        "url": "https://twitter.com/SebMontgomery/status/2029836251176616353",
+        "id": "2030956265719873586",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-09 06:38:01 -04:00",
+        "text": "Building a stable future for everyone 🌎\n\nWe've raised a historic $80M Series A to give everyone access to stablecoin-powered financial services.\n\nSpecial thanks to @QEDInvestors and @leftlanecap for co-leading the round and to all our members for believing in our mission. https://t.co/MQSvrGOQG6",
+        "url": "https://twitter.com/KASTxyz/status/2030956265719873586",
         "score": 0
       }
     ]
@@ -1045,11 +1028,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029835532226941024",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 03:24:38 -05:00",
-        "text": "14 flamingos is kinda based tho",
-        "url": "https://twitter.com/therealchaseeb/status/2029835532226941024",
+        "id": "2030955270139199986",
+        "handle": "SolanaSensei",
+        "created_at_iso": "2026-03-09 06:34:04 -04:00",
+        "text": "⛩️ GM AND NAMASTE ⛩️\n\nStay curious. Knowledge compounds, just like success\n\nRead more, learn more, and grow my dear friend hehe https://t.co/lid5g5yNR0",
+        "url": "https://twitter.com/SolanaSensei/status/2030955270139199986",
         "score": 0
       }
     ]
@@ -1063,11 +1046,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029830923450200522",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 03:06:19 -05:00",
-        "text": "https://t.co/mxHGlQq0im",
-        "url": "https://twitter.com/therealchaseeb/status/2029830923450200522",
+        "id": "2030950259757625571",
+        "handle": "SebMontgomery",
+        "created_at_iso": "2026-03-09 06:14:09 -04:00",
+        "text": "X is so great\n\nyou can just post things, then elon pays you for the engagement https://t.co/j81AIWwc4S",
+        "url": "https://twitter.com/SebMontgomery/status/2030950259757625571",
         "score": 0
       }
     ]
@@ -1081,11 +1064,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029830348574777684",
-        "handle": "SolanaSensei",
-        "created_at_iso": "2026-03-06 03:04:02 -05:00",
-        "text": "Hug more.\n\nLaugh more.\n\nSmile more.\n\nKiss more.\n\nDance more.\n\nFeel more.\n\nBe more.",
-        "url": "https://twitter.com/SolanaSensei/status/2029830348574777684",
+        "id": "2030934417141858697",
+        "handle": "foreseelol",
+        "created_at_iso": "2026-03-09 05:11:12 -04:00",
+        "text": "RT @Xiznft: . @foreseelol  is the one amazing dapp on @solanamobile \n\nAnd if you are a Prediction Market player this is your app for gamble…",
+        "url": "https://twitter.com/foreseelol/status/2030934417141858697",
         "score": 0
       }
     ]
@@ -1099,11 +1082,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029825644948013539",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 02:45:20 -05:00",
-        "text": "lmao\n\nAmericans will literally use anything but the metric system",
-        "url": "https://twitter.com/therealchaseeb/status/2029825644948013539",
+        "id": "2030917763003277336",
+        "handle": "SebMontgomery",
+        "created_at_iso": "2026-03-09 04:05:01 -04:00",
+        "text": "RT @greg16676935420: Seems like Diddy was ahead of the game with stockpiling all that oil",
+        "url": "https://twitter.com/SebMontgomery/status/2030917763003277336",
         "score": 0
       }
     ]
@@ -1117,11 +1100,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029822745035559349",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 02:33:49 -05:00",
-        "text": "I’m rich! https://t.co/9t55gxriKe",
-        "url": "https://twitter.com/therealchaseeb/status/2029822745035559349",
+        "id": "2030912700914557270",
+        "handle": "ivan_nomadz",
+        "created_at_iso": "2026-03-09 03:44:55 -04:00",
+        "text": "Yesterday I was spotted running on Kite Beach in Dubai.\n\nDouble workout day - because why not.\n\nToday, full recovery mode:\n\n- Chinese warm-up\n- Meditation\n- Breathwork\n- Ice bath\n\nYou work hard, you recover harder. What is your plan? https://t.co/rPc67IRslX",
+        "url": "https://twitter.com/ivan_nomadz/status/2030912700914557270",
         "score": 0
       }
     ]
@@ -1135,11 +1118,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029820415317790892",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 02:24:33 -05:00",
-        "text": "DEX UIs should attempt to maker traders horny imho",
-        "url": "https://twitter.com/therealchaseeb/status/2029820415317790892",
+        "id": "2030901570817441959",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-09 03:00:41 -04:00",
+        "text": ".@crimexbt explains how you can profit even during downward price action:\n\n\"I set up my range up here, it had movement all the way down, I collected enough in fees, I'm still able to get out for profit\" https://t.co/9uGrk5Tdy7",
+        "url": "https://twitter.com/met_lparmy/status/2030901570817441959",
         "score": 0
       }
     ]
@@ -1153,11 +1136,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029817621538033788",
+        "id": "2030899585712058480",
         "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 02:13:27 -05:00",
-        "text": "If i was gonna make a DEX, this is the vibe i'd be going for https://t.co/hTZLcHcKw1",
-        "url": "https://twitter.com/therealchaseeb/status/2029817621538033788",
+        "created_at_iso": "2026-03-09 02:52:48 -04:00",
+        "text": "wow lol",
+        "url": "https://twitter.com/therealchaseeb/status/2030899585712058480",
         "score": 0
       }
     ]
@@ -1171,11 +1154,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029813957322772864",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 01:58:54 -05:00",
-        "text": "RT @UbermenschMind: I thought pride parades were illegal in Dubai??",
-        "url": "https://twitter.com/therealchaseeb/status/2029813957322772864",
+        "id": "2030893674830401962",
+        "handle": "armaniferrante",
+        "created_at_iso": "2026-03-09 02:29:18 -04:00",
+        "text": "75x live 🧱 https://t.co/lygYfNJW31",
+        "url": "https://twitter.com/armaniferrante/status/2030893674830401962",
         "score": 0
       }
     ]
@@ -1189,11 +1172,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029798995443507537",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 00:59:27 -05:00",
-        "text": "retard of the day https://t.co/cSYKsmbNDh",
-        "url": "https://twitter.com/therealchaseeb/status/2029798995443507537",
+        "id": "2030861494242685309",
+        "handle": "solana_daily",
+        "created_at_iso": "2026-03-09 00:21:26 -04:00",
+        "text": "⚡️ RWA market cap on @Solana has surged nearly 10× over the past year, reaching around $1.6B. https://t.co/W2CeGv4nC5",
+        "url": "https://twitter.com/solana_daily/status/2030861494242685309",
         "score": 0
       }
     ]
@@ -1207,11 +1190,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029786227335950445",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-06 00:08:42 -05:00",
-        "text": "RT @tmuxvim: the fuck do you know about haircuts",
-        "url": "https://twitter.com/therealchaseeb/status/2029786227335950445",
+        "id": "2030837219586408571",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 22:44:58 -04:00",
+        "text": "RT @mert: @cottonxbt no central point of failure",
+        "url": "https://twitter.com/toly/status/2030837219586408571",
         "score": 0
       }
     ]
@@ -1225,11 +1208,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029784669869211693",
-        "handle": "inno_ox",
-        "created_at_iso": "2026-03-06 00:02:31 -05:00",
-        "text": "Degods won this round.\n\nMad Lads 42-73 Degods.",
-        "url": "https://twitter.com/inno_ox/status/2029784669869211693",
+        "id": "2030820971347882375",
+        "handle": "armaniferrante",
+        "created_at_iso": "2026-03-08 21:40:25 -04:00",
+        "text": "Sentiment hitting new lows. Toxicity hitting new highs. While the armchair quarterbacks dunk on the timeline, now is the time to check your conviction and ask yourself the question: are you a single cycle drop out or are you a multi cycle builder. You have a choice.",
+        "url": "https://twitter.com/armaniferrante/status/2030820971347882375",
         "score": 0
       }
     ]
@@ -1243,11 +1226,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029760111762362631",
-        "handle": "foreseelol",
-        "created_at_iso": "2026-03-05 22:24:56 -05:00",
-        "text": "预测 &gt; 讨论\n\n如果你真的有观点，\n不如直接在 Foresee 用 $SKR 下个注 👀",
-        "url": "https://twitter.com/foreseelol/status/2029760111762362631",
+        "id": "2030807519724274101",
+        "handle": "armaniferrante",
+        "created_at_iso": "2026-03-08 20:46:57 -04:00",
+        "text": "👀",
+        "url": "https://twitter.com/armaniferrante/status/2030807519724274101",
         "score": 0
       }
     ]
@@ -1261,11 +1244,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029760006636372257",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-05 22:24:31 -05:00",
-        "text": "We need a metadao vote to remove liquidity rn!",
-        "url": "https://twitter.com/therealchaseeb/status/2029760006636372257",
+        "id": "2030797261433639272",
+        "handle": "mango_",
+        "created_at_iso": "2026-03-08 20:06:12 -04:00",
+        "text": "RT @mango_: Tomorrow, we cook again\n\nGN chat. https://t.co/30Z6oFKcuS",
+        "url": "https://twitter.com/mango_/status/2030797261433639272",
         "score": 0
       }
     ]
@@ -1279,11 +1262,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029753899830087699",
-        "handle": "m_it",
-        "created_at_iso": "2026-03-05 22:00:15 -05:00",
-        "text": "RT @CryptoMagellan: That's my quant https://t.co/BUSLnVhhI3",
-        "url": "https://twitter.com/m_it/status/2029753899830087699",
+        "id": "2030792971327791492",
+        "handle": "solana_daily",
+        "created_at_iso": "2026-03-08 19:49:09 -04:00",
+        "text": "$NANA – $260K MCap\n\nCA: BWJ7zJauzatao4FsBnGdVsqdBi3k5NbgSY62noZApump\n\n$NANA, named “Nana the viral beluga,” was launched ~5 hours ago.\n\nThe narrative revolves around a memeified beluga whale, possibly inspired by viral beluga content on the internet.\n\n#DYOR https://t.co/Ss4O2DOtWR",
+        "url": "https://twitter.com/solana_daily/status/2030792971327791492",
         "score": 0
       }
     ]
@@ -1297,11 +1280,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029729247288234141",
-        "handle": "vibhu",
-        "created_at_iso": "2026-03-05 20:22:17 -05:00",
-        "text": "Rasmr's wifi unfortunately was failing today so we will try again soon",
-        "url": "https://twitter.com/vibhu/status/2029729247288234141",
+        "id": "2030791222789554648",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-08 19:42:12 -04:00",
+        "text": "this is why we'll win",
+        "url": "https://twitter.com/trentdotsol/status/2030791222789554648",
         "score": 0
       }
     ]
@@ -1315,11 +1298,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029711347722653743",
-        "handle": "vibhu",
-        "created_at_iso": "2026-03-05 19:11:10 -05:00",
-        "text": "In an hour I will brutally framemog and emasculate this peptide baby @rasmr_eth",
-        "url": "https://twitter.com/vibhu/status/2029711347722653743",
+        "id": "2030767497348280518",
+        "handle": "mango_",
+        "created_at_iso": "2026-03-08 18:07:55 -04:00",
+        "text": "Tomorrow, we cook again\n\nGN chat. https://t.co/30Z6oFKcuS",
+        "url": "https://twitter.com/mango_/status/2030767497348280518",
         "score": 0
       }
     ]
@@ -1333,11 +1316,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029690201694409206",
-        "handle": "met_lparmy",
-        "created_at_iso": "2026-03-05 17:47:08 -05:00",
-        "text": "RT @crimexbt: Thank you guys so much for 2000 Followers!!!! (and a new badge☺️)\n\nI want to thank my good friends @razzaer and @DEFImoneysni…",
-        "url": "https://twitter.com/met_lparmy/status/2029690201694409206",
+        "id": "2030765049229283836",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-08 17:58:12 -04:00",
+        "text": "RT @nonplayablecin: Many people don’t know this but sushi in Taipei is s-tier and you can the best omakase for under $100 https://t.co/BLek…",
+        "url": "https://twitter.com/KASTxyz/status/2030765049229283836",
         "score": 0
       }
     ]
@@ -1351,11 +1334,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029648513689428331",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-05 15:01:29 -05:00",
-        "text": "RT @eoghan: How dare poor people get free medical advice",
-        "url": "https://twitter.com/therealchaseeb/status/2029648513689428331",
+        "id": "2030761216096842066",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 17:42:58 -04:00",
+        "text": "⛴️🛳️🚢",
+        "url": "https://twitter.com/toly/status/2030761216096842066",
         "score": 0
       }
     ]
@@ -1369,11 +1352,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029646595869085880",
-        "handle": "therealchaseeb",
-        "created_at_iso": "2026-03-05 14:53:52 -05:00",
-        "text": "RT @bl8_runner: To kick this off, our first research article will show you how our data was able to uncover a router timing game where a pr…",
-        "url": "https://twitter.com/therealchaseeb/status/2029646595869085880",
+        "id": "2030753775812571290",
+        "handle": "SebMontgomery",
+        "created_at_iso": "2026-03-08 17:13:24 -04:00",
+        "text": "RT @KEMOS4BE: +24 hrs to the countdown\n\ngm\nhttps://t.co/mB9ekM1Tsz",
+        "url": "https://twitter.com/SebMontgomery/status/2030753775812571290",
         "score": 0
       }
     ]
@@ -1387,11 +1370,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029610918003495319",
-        "handle": "x402",
-        "created_at_iso": "2026-03-05 12:32:05 -05:00",
-        "text": "RT @ampersend_ai: ✨x402✨\n\nHTTP 402, \"payment required,\" has been sitting in the spec since 1997. for nearly three decades it did nothing be…",
-        "url": "https://twitter.com/x402/status/2029610918003495319",
+        "id": "2030752030260703399",
+        "handle": "vibhu",
+        "created_at_iso": "2026-03-08 17:06:28 -04:00",
+        "text": "What happens when @nickducoff delivers another 10x this year?\n\n$20 billion incoming ⏳",
+        "url": "https://twitter.com/vibhu/status/2030752030260703399",
         "score": 0
       }
     ]
@@ -1405,11 +1388,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029587541436059712",
-        "handle": "foreseelol",
-        "created_at_iso": "2026-03-05 10:59:12 -05:00",
-        "text": "RT @tissesson: Im not bullish enough on $SKR &amp; $SEE",
-        "url": "https://twitter.com/foreseelol/status/2029587541436059712",
+        "id": "2030718667336667558",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-08 14:53:53 -04:00",
+        "text": "few",
+        "url": "https://twitter.com/trentdotsol/status/2030718667336667558",
         "score": 0
       }
     ]
@@ -1423,11 +1406,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029584047769579976",
-        "handle": "foreseelol",
-        "created_at_iso": "2026-03-05 10:45:19 -05:00",
-        "text": "🚨 $SKR is officially supported on Foresee \n\nYou can use $SKR to take positions, predict outcomes, and master the markets\n\nPredict now w Foresee on Seeker  @solanamobile https://t.co/44kYwLcdOQ",
-        "url": "https://twitter.com/foreseelol/status/2029584047769579976",
+        "id": "2030711969406173443",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-08 14:27:16 -04:00",
+        "text": "Day 2 of the Bootcamp is in 30 minutes🤘\n\nDon't miss out!",
+        "url": "https://twitter.com/met_lparmy/status/2030711969406173443",
         "score": 0
       }
     ]
@@ -1441,11 +1424,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029583380237648054",
-        "handle": "met_engine",
-        "created_at_iso": "2026-03-05 10:42:40 -05:00",
-        "text": "love to see it all the data whilst you are LPing \n\nFree Install: https://t.co/Iyxhv4jIVG https://t.co/723gHaKyU3",
-        "url": "https://twitter.com/met_engine/status/2029583380237648054",
+        "id": "2030711153291354589",
+        "handle": "solanamobile",
+        "created_at_iso": "2026-03-08 14:24:02 -04:00",
+        "text": "Submit here 👇 https://t.co/9HUjxx3EYS",
+        "url": "https://twitter.com/solanamobile/status/2030711153291354589",
         "score": 0
       }
     ]
@@ -1459,11 +1442,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029563189315461583",
-        "handle": "triton_one",
-        "created_at_iso": "2026-03-05 09:22:26 -05:00",
-        "text": "Partnerships like this are why we do what we do 💜",
-        "url": "https://twitter.com/triton_one/status/2029563189315461583",
+        "id": "2030706905581224121",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-08 14:07:09 -04:00",
+        "text": "@toly i'm going to save your baby",
+        "url": "https://twitter.com/trentdotsol/status/2030706905581224121",
         "score": 0
       }
     ]
@@ -1477,11 +1460,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029556879534272524",
-        "handle": "ivan_nomadz",
-        "created_at_iso": "2026-03-05 08:57:22 -05:00",
-        "text": "Interesting concept: Earn BTC with Stablecoins \nWould you be interested?",
-        "url": "https://twitter.com/ivan_nomadz/status/2029556879534272524",
+        "id": "2030706334434484534",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-08 14:04:53 -04:00",
+        "text": "RT @Bonecondor: Happy Sunday https://t.co/GfIqWkxkJz",
+        "url": "https://twitter.com/trentdotsol/status/2030706334434484534",
         "score": 0
       }
     ]
@@ -1495,11 +1478,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029551379120017883",
-        "handle": "ivan_nomadz",
-        "created_at_iso": "2026-03-05 08:35:30 -05:00",
-        "text": "You can travel to all crypto hubs in the thread and pay up to 60% less for hotels with @NOMADZxyz.",
-        "url": "https://twitter.com/ivan_nomadz/status/2029551379120017883",
+        "id": "2030690848208544156",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-08 13:03:21 -04:00",
+        "text": "RT @deanmlittle: none of those words are in the bible",
+        "url": "https://twitter.com/trentdotsol/status/2030690848208544156",
         "score": 0
       }
     ]
@@ -1513,11 +1496,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029539546720051319",
-        "handle": "mrjasonchoi",
-        "created_at_iso": "2026-03-05 07:48:29 -05:00",
-        "text": "If AI makes us more productive but also replaces us at work do we just end up doing nothing but faster",
-        "url": "https://twitter.com/mrjasonchoi/status/2029539546720051319",
+        "id": "2030686691128926344",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-08 12:46:50 -04:00",
+        "text": "stackelberg mcp",
+        "url": "https://twitter.com/trentdotsol/status/2030686691128926344",
         "score": 0
       }
     ]
@@ -1531,11 +1514,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029523089651040715",
-        "handle": "jussy_world",
-        "created_at_iso": "2026-03-05 06:43:05 -05:00",
-        "text": "Every bear cycle follows the same pattern\n\nTop in Q4 post-halving year\n\nFebruary low\n\nMarch bounce\n\nThen bleeds to June\n\nDo you think history repeats this time? https://t.co/cDwUEl6LeN",
-        "url": "https://twitter.com/jussy_world/status/2029523089651040715",
+        "id": "2030681031276118425",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-08 12:24:20 -04:00",
+        "text": "Your friend wants to buy their first coin\n\nYou can recommend only one \n\nWhich would it be? https://t.co/l6p8fVrYEO",
+        "url": "https://twitter.com/FabianoSolana/status/2030681031276118425",
         "score": 0
       }
     ]
@@ -1549,11 +1532,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029519303880675423",
-        "handle": "SolanaSensei",
-        "created_at_iso": "2026-03-05 06:28:03 -05:00",
-        "text": "Free yourself from the idea that money will solve all your problems.\n\nReal fulfillment comes from purpose, true accomplishments, and the people around you. We all have access to these things regardless of our finances.\n\nMoney can help, but it will NEVER replace those things.",
-        "url": "https://twitter.com/SolanaSensei/status/2029519303880675423",
+        "id": "2030677580500676846",
+        "handle": "solanamobile",
+        "created_at_iso": "2026-03-08 12:10:38 -04:00",
+        "text": "RT @toly: 📱📱📱",
+        "url": "https://twitter.com/solanamobile/status/2030677580500676846",
         "score": 0
       }
     ]
@@ -1567,11 +1550,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029519058660454527",
-        "handle": "met_lparmy",
-        "created_at_iso": "2026-03-05 06:27:04 -05:00",
-        "text": "RT @0xMrBeefman: https://t.co/JxIOmzeMjN",
-        "url": "https://twitter.com/met_lparmy/status/2029519058660454527",
+        "id": "2030673377258827862",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 11:53:55 -04:00",
+        "text": "💵💵💵",
+        "url": "https://twitter.com/toly/status/2030673377258827862",
         "score": 0
       }
     ]
@@ -1585,11 +1568,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029506988800168423",
-        "handle": "mrjasonchoi",
-        "created_at_iso": "2026-03-05 05:39:07 -05:00",
-        "text": "Just came home to this in the mail\n\nSome of the lessons - chasing your curiosity, honing your craft - are foundational to how we run @tangent_xyz today\n\nThank you @bgurley for the copy and the years that went into this book. Wish I had this a decade earlier https://t.co/x3qtjYV9Gz",
-        "url": "https://twitter.com/mrjasonchoi/status/2029506988800168423",
+        "id": "2030666266693017738",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-08 11:25:40 -04:00",
+        "text": "this is how we'll win",
+        "url": "https://twitter.com/trentdotsol/status/2030666266693017738",
         "score": 0
       }
     ]
@@ -1603,11 +1586,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029505462622924867",
-        "handle": "SolanaSensei",
-        "created_at_iso": "2026-03-05 05:33:03 -05:00",
-        "text": "⛩️ GM AND NAMASTE ⛩️\n\nSurround yourself with winners, and winning will follow naturally https://t.co/nCHGNisIpF",
-        "url": "https://twitter.com/SolanaSensei/status/2029505462622924867",
+        "id": "2030665632698790064",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-08 11:23:09 -04:00",
+        "text": "periodic reminder that standards committees are a cesspool of laziness and incompetence. the first thing doesn't have to be The Thing. take it back",
+        "url": "https://twitter.com/trentdotsol/status/2030665632698790064",
         "score": 0
       }
     ]
@@ -1621,11 +1604,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029481812179993062",
-        "handle": "mrjasonchoi",
-        "created_at_iso": "2026-03-05 03:59:04 -05:00",
-        "text": "everyone buying mac minis to run openclaw and local models is pretty cypherpunk",
-        "url": "https://twitter.com/mrjasonchoi/status/2029481812179993062",
+        "id": "2030664419496088014",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-08 11:18:20 -04:00",
+        "text": "@wormdotwtf disclaimer #2:\n\nthis strategy isn't meant for sports betting as things could change there much faster than with other events (politics, entertainment, weather, etc,)",
+        "url": "https://twitter.com/FabianoSolana/status/2030664419496088014",
         "score": 0
       }
     ]
@@ -1639,11 +1622,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029470646598619558",
-        "handle": "ivan_nomadz",
-        "created_at_iso": "2026-03-05 03:14:42 -05:00",
-        "text": "Good morning from Dubai!\n\nProductive start of the day:\n\n• Chinese warm up \n• Wim Hoff breathing \n• Workout and interval running \n• Healthy breakfast \n\nTime to work. Big plans for @NOMADZxyz today and evening padel/sauna with friends. \n\nWhat is your plan for today? https://t.co/224lUGSCPL",
-        "url": "https://twitter.com/ivan_nomadz/status/2029470646598619558",
+        "id": "2030660605955428389",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-08 11:03:10 -04:00",
+        "text": "@wormdotwtf disclaimer:\n\n- worm will add more and more markets with deeper liquidity\n\n- this isn't a paid tweet",
+        "url": "https://twitter.com/FabianoSolana/status/2030660605955428389",
         "score": 0
       }
     ]
@@ -1657,11 +1640,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029465373515628965",
-        "handle": "mrjasonchoi",
-        "created_at_iso": "2026-03-05 02:53:45 -05:00",
-        "text": "RT @samrags_: His whole book is just https://t.co/HKqZ3mDWft",
-        "url": "https://twitter.com/mrjasonchoi/status/2029465373515628965",
+        "id": "2030659812347056290",
+        "handle": "foreseelol",
+        "created_at_iso": "2026-03-08 11:00:01 -04:00",
+        "text": "The AI race in March is heating up more than ever\n\nThis month could bring another shake-up at the top. With @OpenAI , @AnthropicAI , @GeminiApp , and @grok  all pushing new releases, the race still wide open\n\nwhich company will own the #1 AI model by the end of March?\n\nBet now on Foresee via @solanamobile",
+        "url": "https://twitter.com/foreseelol/status/2030659812347056290",
         "score": 0
       }
     ]
@@ -1675,11 +1658,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029444905807020375",
-        "handle": "mrjasonchoi",
-        "created_at_iso": "2026-03-05 01:32:25 -05:00",
-        "text": "The only edge for content creators will be humor",
-        "url": "https://twitter.com/mrjasonchoi/status/2029444905807020375",
+        "id": "2030652621283795044",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-08 10:31:27 -04:00",
+        "text": "RT @EvilPanda: Evil Panda Q&amp;A #2\n\nThank you for all the questions.\n@Dosedone @sambelikaan @xPierrotCrypto @Catto_Man_ @AlekssRG @chiwimomo…",
+        "url": "https://twitter.com/met_lparmy/status/2030652621283795044",
         "score": 0
       }
     ]
@@ -1693,11 +1676,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029444805357650088",
-        "handle": "SolanaSensei",
-        "created_at_iso": "2026-03-05 01:32:01 -05:00",
-        "text": "Strength isn’t shown in controlling others.\n\nIt’s shown in mastering your own mind and body.\n\nWhen you learn to tame your thoughts, your reactions, and your impulses,\nthe world loses its power on you.\n\nJust win that battle first, and everything else will become easier to handle.",
-        "url": "https://twitter.com/SolanaSensei/status/2029444805357650088",
+        "id": "2030646492449722484",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 10:07:06 -04:00",
+        "text": "RT @MiltonFriedmanW: A classic Milton Friedman quote 🔥\n\n“A society that puts equality before liberty will get neither. A society that puts…",
+        "url": "https://twitter.com/toly/status/2030646492449722484",
         "score": 0
       }
     ]
@@ -1711,11 +1694,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029396856099238397",
-        "handle": "x402",
-        "created_at_iso": "2026-03-04 22:21:29 -05:00",
-        "text": "RT @crossmint: Packed house learning about powering agentic payments with https://t.co/5iGRosL4dq @solana @colosseum https://t.co/NdXBZQ0qmb",
-        "url": "https://twitter.com/x402/status/2029396856099238397",
+        "id": "2030644713926349058",
+        "handle": "gumsays",
+        "created_at_iso": "2026-03-08 10:00:02 -04:00",
+        "text": "You have the Iran president apologizing to gulf nations and the IRGC says fuck you and continues to attack everyone\n\nThe US/Israel are attacking Iran's Oil facilities and the straight of hormuz activity is dropping hard\n\nStocks are still pricing in a Trump TACO but Iran may not let it happen cause chaos is the most painful scenario for the US",
+        "url": "https://twitter.com/gumsays/status/2030644713926349058",
         "score": 0
       }
     ]
@@ -1729,11 +1712,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029340149172355560",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-04 18:36:09 -05:00",
-        "text": "$EPSTEIN - $338K MCap\n\nCA: EF228ijSZdSampJMvhLUiijJGP5PTH1Z17i71JR5pump\n\nA memecoin themed around Jeffrey Epstein.\n\n$EPSTEIN has made a comeback and has been pumping strongly over the past 24 hours.\n\nThe community currently has 8K+ members.\n\n#DYOR https://t.co/aWhPbvRisL",
-        "url": "https://twitter.com/solana_daily/status/2029340149172355560",
+        "id": "2030641389600395334",
+        "handle": "vibhu",
+        "created_at_iso": "2026-03-08 09:46:49 -04:00",
+        "text": "RT @tokenterminal: Performance brings users.\n\nUsers attract apps.\n\nApps compete to win.\n\nCompetition results in better products.\n\nBetter pr…",
+        "url": "https://twitter.com/vibhu/status/2030641389600395334",
         "score": 0
       }
     ]
@@ -1747,11 +1730,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029332209979503051",
-        "handle": "m_it",
-        "created_at_iso": "2026-03-04 18:04:36 -05:00",
-        "text": "Somos La Familia",
-        "url": "https://twitter.com/m_it/status/2029332209979503051",
+        "id": "2030636775585075390",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 09:28:29 -04:00",
+        "text": ".@grok does Hegel fit better than Lenin",
+        "url": "https://twitter.com/toly/status/2030636775585075390",
         "score": 0
       }
     ]
@@ -1765,11 +1748,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029292534078259268",
-        "handle": "SebMontgomery",
-        "created_at_iso": "2026-03-04 15:26:57 -05:00",
-        "text": "RT @turbine_cash: Another @MetaDAOProject history was made today:\n\n$FUTARDIO is the first project to successfully raise via @futarddotio\n\nY…",
-        "url": "https://twitter.com/SebMontgomery/status/2029292534078259268",
+        "id": "2030635210736550133",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 09:22:16 -04:00",
+        "text": "Discuss https://t.co/lBG8qgHWVY",
+        "url": "https://twitter.com/toly/status/2030635210736550133",
         "score": 0
       }
     ]
@@ -1783,11 +1766,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029288573531197520",
-        "handle": "SebMontgomery",
-        "created_at_iso": "2026-03-04 15:11:12 -05:00",
-        "text": "my size... is not size\n\n$21 haha\n\n$FUTARDIO https://t.co/BUbakoOYAU",
-        "url": "https://twitter.com/SebMontgomery/status/2029288573531197520",
+        "id": "2030635185973170404",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-08 09:22:10 -04:00",
+        "text": "The difference in crypto taxes between these countries is just crazy https://t.co/73WCR8iN0h",
+        "url": "https://twitter.com/FabianoSolana/status/2030635185973170404",
         "score": 0
       }
     ]
@@ -1801,11 +1784,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029282763728449648",
-        "handle": "vibhu",
-        "created_at_iso": "2026-03-04 14:48:07 -05:00",
-        "text": "(no offense intended)",
-        "url": "https://twitter.com/vibhu/status/2029282763728449648",
+        "id": "2030632506609787145",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 09:11:31 -04:00",
+        "text": "🚢🛳️⛴️",
+        "url": "https://twitter.com/toly/status/2030632506609787145",
         "score": 0
       }
     ]
@@ -1819,11 +1802,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029274111260733603",
-        "handle": "ivan_nomadz",
-        "created_at_iso": "2026-03-04 14:13:44 -05:00",
-        "text": "RT @NOMADZxyz: We’re jumping into a Space with @superteam and @Alliance DAO 🎙️⚡️\n\nJoin us!",
-        "url": "https://twitter.com/ivan_nomadz/status/2029274111260733603",
+        "id": "2030628308497342672",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 08:54:50 -04:00",
+        "text": "💵💵💵",
+        "url": "https://twitter.com/toly/status/2030628308497342672",
         "score": 0
       }
     ]
@@ -1837,11 +1820,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029255276096840132",
-        "handle": "FabianoSolana",
-        "created_at_iso": "2026-03-04 12:58:54 -05:00",
-        "text": "RT @FabianoSolana: Mark my words\n\n@solanapayments will change the world https://t.co/xGtUY7WFC9",
-        "url": "https://twitter.com/FabianoSolana/status/2029255276096840132",
+        "id": "2030627717939712495",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 08:52:29 -04:00",
+        "text": "📱📱📱",
+        "url": "https://twitter.com/toly/status/2030627717939712495",
         "score": 0
       }
     ]
@@ -1855,11 +1838,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029233072038920341",
-        "handle": "met_engine",
-        "created_at_iso": "2026-03-04 11:30:40 -05:00",
-        "text": "bunch of new features went live today. \n\n10x your @MeteoraAG setup \n\nFree Install: https://t.co/Iyxhv4jIVG https://t.co/bwFvwnSDgU",
-        "url": "https://twitter.com/met_engine/status/2029233072038920341",
+        "id": "2030622348651397468",
+        "handle": "ivan_nomadz",
+        "created_at_iso": "2026-03-08 08:31:09 -04:00",
+        "text": "Results after we launched on @solana dApp Store from incomplete month 2.\n\n• 1,600 new users \n• 550 new followers \n• 6,900 transactions \n• ~5x revenue and bookings than in December \n• high retention (17% of users booked second, third, fourth or fifth time)\n\nAll organic.",
+        "url": "https://twitter.com/ivan_nomadz/status/2030622348651397468",
         "score": 0
       }
     ]
@@ -1873,11 +1856,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029188986342613029",
-        "handle": "turbine_cash",
-        "created_at_iso": "2026-03-04 08:35:29 -05:00",
-        "text": "Go Private: https://t.co/QS9UfEczG1",
-        "url": "https://twitter.com/turbine_cash/status/2029188986342613029",
+        "id": "2030602348654194945",
+        "handle": "solana",
+        "created_at_iso": "2026-03-08 07:11:41 -04:00",
+        "text": "Read the Stack from @Grayscale \nhttps://t.co/vdKADzsONl",
+        "url": "https://twitter.com/solana/status/2030602348654194945",
         "score": 0
       }
     ]
@@ -1891,11 +1874,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029177337732890848",
-        "handle": "SebMontgomery",
-        "created_at_iso": "2026-03-04 07:49:12 -05:00",
-        "text": "RT @MetaDAOProject: Today, we release @futarddotio. The place for founders who want to go faster.\n\nForget pitching VCs - raise directly fro…",
-        "url": "https://twitter.com/SebMontgomery/status/2029177337732890848",
+        "id": "2030598344733835433",
+        "handle": "armaniferrante",
+        "created_at_iso": "2026-03-08 06:55:46 -04:00",
+        "text": "In the limit, you’re either compliant or censorship resistant.",
+        "url": "https://twitter.com/armaniferrante/status/2030598344733835433",
         "score": 0
       }
     ]
@@ -1909,11 +1892,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029173084335554694",
-        "handle": "met_engine",
-        "created_at_iso": "2026-03-04 07:32:18 -05:00",
-        "text": "the new interface looks great for @MeteoraAG https://t.co/fa3dnFLf9U",
-        "url": "https://twitter.com/met_engine/status/2029173084335554694",
+        "id": "2030593196913545649",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 06:35:19 -04:00",
+        "text": "RT @joshyote: Let’s see what you’re building. Drop a link or demo in the comments below.\n\nIf it’s cool I’ll get you on a podcast or somethi…",
+        "url": "https://twitter.com/toly/status/2030593196913545649",
         "score": 0
       }
     ]
@@ -1927,11 +1910,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029172580410896755",
-        "handle": "0xyunss",
-        "created_at_iso": "2026-03-04 07:30:18 -05:00",
-        "text": "check it out\nhttps://t.co/nvkrRYKDCq",
-        "url": "https://twitter.com/0xyunss/status/2029172580410896755",
+        "id": "2030591030861734375",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 06:26:42 -04:00",
+        "text": "🤯🤯🤯",
+        "url": "https://twitter.com/toly/status/2030591030861734375",
         "score": 0
       }
     ]
@@ -1945,11 +1928,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029170470998692108",
-        "handle": "FabianoSolana",
-        "created_at_iso": "2026-03-04 07:21:55 -05:00",
-        "text": "Mark my words\n\n@solanapayments will change the world https://t.co/xGtUY7WFC9",
-        "url": "https://twitter.com/FabianoSolana/status/2029170470998692108",
+        "id": "2030590102335000949",
+        "handle": "toly",
+        "created_at_iso": "2026-03-08 06:23:01 -04:00",
+        "text": "RT @armaniferrante: I keep seeing terrible advice online for people interested in computer science.\n\nAI is making programming knowledge obs…",
+        "url": "https://twitter.com/toly/status/2030590102335000949",
         "score": 0
       }
     ]
@@ -1963,11 +1946,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029162744185024879",
-        "handle": "0xharsh1001",
-        "created_at_iso": "2026-03-04 06:51:12 -05:00",
-        "text": "RT @neel_ds: My edge looks different with @met_engine extension🤑 https://t.co/cOy8bEA7nB",
-        "url": "https://twitter.com/0xharsh1001/status/2029162744185024879",
+        "id": "2030574552439267780",
+        "handle": "ivan_nomadz",
+        "created_at_iso": "2026-03-08 05:21:14 -04:00",
+        "text": "Good morning!\nStarted the celebrating Women’s Day at the workout station. \nWishing every woman to be loved and cared! https://t.co/DWjIRWUf0B",
+        "url": "https://twitter.com/ivan_nomadz/status/2030574552439267780",
         "score": 0
       }
     ]
@@ -1981,11 +1964,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029160883231068580",
-        "handle": "met_engine",
-        "created_at_iso": "2026-03-04 06:43:49 -05:00",
-        "text": "RT @neel_ds: My edge looks different with @met_engine extension🤑 https://t.co/cOy8bEA7nB",
-        "url": "https://twitter.com/met_engine/status/2029160883231068580",
+        "id": "2030519340030923139",
+        "handle": "armaniferrante",
+        "created_at_iso": "2026-03-08 00:41:50 -05:00",
+        "text": "You should be doing the majority of your coding with AI now, but that doesn't mean you shouldn't understand what's going on under the hood. If you don't, expect to be commoditized and replaceable.",
+        "url": "https://twitter.com/armaniferrante/status/2030519340030923139",
         "score": 0
       }
     ]
@@ -1999,11 +1982,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029157148647698528",
-        "handle": "ivan_nomadz",
-        "created_at_iso": "2026-03-04 06:28:58 -05:00",
-        "text": "Gm!\n\nWork from the coffee place today\n\nNothing can beat my home set up with standing desk, clean air and no distraction \n\nWhere are you working from today? Share some pics. https://t.co/v6XOU31aP8",
-        "url": "https://twitter.com/ivan_nomadz/status/2029157148647698528",
+        "id": "2030518153479180313",
+        "handle": "armaniferrante",
+        "created_at_iso": "2026-03-08 00:37:07 -05:00",
+        "text": "I keep seeing terrible advice online for people interested in computer science.\n\nAI is making programming knowledge obsolete in the same way interpreted languages made compiled languages obsolete, in the same way compilers made assembly obsoletely, and in the same way assembly made knowledge of circuits obsolete.\n\nIt didn't.\n\nThe percentage of people that can go through every layer of the stack will shrink and that knowledge will become more valuable, not less. \n\nWith more tools, your knowledge base should expand not contract. Learn everything you can, while you're in school--and use AI to accelerate that process. Learn how programming languages work. Learn how computers work. Learn how matrix multiplication is optimized. Learn FFTs are implemented. Learn calculus and linear algebra. Learn optimization. Learn how that all applies to training. Learn how to use the AI tools, but also learn how they are built. \n\nThe history of computing is the history of abstraction layers being built one on top of the other, and it's only when you can traverse layers of abstraction can you truly build new things.\n\nLearn more. Build more.",
+        "url": "https://twitter.com/armaniferrante/status/2030518153479180313",
         "score": 0
       }
     ]
@@ -2017,11 +2000,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029143984740696316",
-        "handle": "gumsays",
-        "created_at_iso": "2026-03-04 05:36:40 -05:00",
-        "text": "Why $80K BTC is coming:\n\nBears FAILED to dump below $65K\n\nBulls held their ground in the face of a new war and a crash in Euro/Asian stocks\n\nBTC is outperforming majors, this is a sign of a market reset\n\nWill keep holding my BTC for now https://t.co/4wQ9iqAGhg",
-        "url": "https://twitter.com/gumsays/status/2029143984740696316",
+        "id": "2030516132952871065",
+        "handle": "therealchaseeb",
+        "created_at_iso": "2026-03-08 00:29:05 -05:00",
+        "text": "RT @alessandrod: I don't get what the fuss is all about, petri dishes of human brain cells have been tweeting for more than a decade",
+        "url": "https://twitter.com/therealchaseeb/status/2030516132952871065",
         "score": 0
       }
     ]
@@ -2035,11 +2018,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029140316834676986",
-        "handle": "foreseelol",
-        "created_at_iso": "2026-03-04 05:22:05 -05:00",
-        "text": "What price will ₿itcoin hit in March?\n\n₿itcoin just spiked over $70K today. March could get volatile fast\n\nOn Foresee right now, 25.1% in top crowd call ₿TC finishes March under $65K\n\nBet your prediction NOW on Foresee via @solanamobile, nail it and win big ! https://t.co/Aaq5TiZdmf",
-        "url": "https://twitter.com/foreseelol/status/2029140316834676986",
+        "id": "2030437338006929913",
+        "handle": "solana",
+        "created_at_iso": "2026-03-07 19:15:59 -05:00",
+        "text": "RT @jito_sol: the future is BAM https://t.co/58KRGxildU",
+        "url": "https://twitter.com/solana/status/2030437338006929913",
         "score": 0
       }
     ]
@@ -2053,11 +2036,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029130174432973031",
-        "handle": "mrjasonchoi",
-        "created_at_iso": "2026-03-04 04:41:47 -05:00",
-        "text": "All the time and effort we would have spent hiring is now spent scoping and building agentic co-pilots",
-        "url": "https://twitter.com/mrjasonchoi/status/2029130174432973031",
+        "id": "2030404421776191739",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-07 17:05:11 -05:00",
+        "text": "&gt; no user will ever care\n\nthis is how we win",
+        "url": "https://twitter.com/trentdotsol/status/2030404421776191739",
         "score": 0
       }
     ]
@@ -2071,11 +2054,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029127056756490645",
-        "handle": "triton_one",
-        "created_at_iso": "2026-03-04 04:29:24 -05:00",
-        "text": "It’s Wednesday, which means it’s time for another episode of Pirates Parley 🌊\n\nToday, our @SteveCleanBrook is joined by @0xJunebox from @lifiprotocol. Bring your best questions – we’ll be live at 4pm UTC.",
-        "url": "https://twitter.com/triton_one/status/2029127056756490645",
+        "id": "2030397988049236244",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-07 16:39:37 -05:00",
+        "text": "Billions must huddle and spend 🐧💳 https://t.co/ioABTgYhPa",
+        "url": "https://twitter.com/KASTxyz/status/2030397988049236244",
         "score": 0
       }
     ]
@@ -2089,11 +2072,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029120754311414254",
-        "handle": "mrjasonchoi",
-        "created_at_iso": "2026-03-04 04:04:21 -05:00",
-        "text": "RT @danrobinson: The main point of getting all your normie friends to try Claude Code / Codex isn't so they \"don't fall behind\"—the tools g…",
-        "url": "https://twitter.com/mrjasonchoi/status/2029120754311414254",
+        "id": "2030395210547491173",
+        "handle": "trevorjbacon",
+        "created_at_iso": "2026-03-07 16:28:35 -05:00",
+        "text": "RT @Parcl: telling the group chat you're shorting Miami while they're all buying condos https://t.co/JpIKo0K5Wh",
+        "url": "https://twitter.com/trevorjbacon/status/2030395210547491173",
         "score": 0
       }
     ]
@@ -2107,11 +2090,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2029007418123010326",
-        "handle": "met_engine",
-        "created_at_iso": "2026-03-03 20:34:00 -05:00",
-        "text": "track every Open Interest spike on @HyperliquidX right from the interface \n\nFree Install: https://t.co/Iyxhv4jIVG https://t.co/Cv1AxRJnQH",
-        "url": "https://twitter.com/met_engine/status/2029007418123010326",
+        "id": "2030378075519889577",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-07 15:20:30 -05:00",
+        "text": "tfw it finally compiles but you forgot what you were trying to do in the first place",
+        "url": "https://twitter.com/trentdotsol/status/2030378075519889577",
         "score": 0
       }
     ]
@@ -2125,11 +2108,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2028963056378892765",
-        "handle": "solana_daily",
-        "created_at_iso": "2026-03-03 17:37:43 -05:00",
-        "text": "$JELLYBEAN - $1.3M MCap\n\nCA: 412zDygnwP9DzitnQVgRKUFFTDmrYScFch6P2k39pump\n\n@jellybeanonsol - A pygmy hippo named Jellybean that previously went viral.\n\nThe community currently has 2.7K+ members.\n\n#DYOR",
-        "url": "https://twitter.com/solana_daily/status/2028963056378892765",
+        "id": "2030369023653748788",
+        "handle": "met_lparmy",
+        "created_at_iso": "2026-03-07 14:44:32 -05:00",
+        "text": "RT @ArmstrongOfDefi: Talking about @MeteoraAG with the boys during this session was more interesting than I thought😂\n\nI loved how their eye…",
+        "url": "https://twitter.com/met_lparmy/status/2030369023653748788",
         "score": 0
       }
     ]
@@ -2143,11 +2126,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2028953038074069069",
-        "handle": "gumsays",
-        "created_at_iso": "2026-03-03 16:57:55 -05:00",
-        "text": "It has been nearly impossible for normies to easily use crypto\n\nThis makes it too easy for anyone to start LPing on @solana\n\n- Simulator: See expected PNL, impermanent loss and MORE\n- True PNL: Entry, PNL, uPNL, for each position, or in aggregate\n- History: Accurate, clean summary of your past positions\n\nLast cycle this was so hard to do. You had to remember exactly how much you put in. There was no clear view of the real fees paid.\n\nYou have to make things easier if you want users to come.",
-        "url": "https://twitter.com/gumsays/status/2028953038074069069",
+        "id": "2030365848624378318",
+        "handle": "ivan_nomadz",
+        "created_at_iso": "2026-03-07 14:31:55 -05:00",
+        "text": "RT @NOMADZxyz: Release #9 approved on the @solana dApp Store 🔥\n\nCleaner navigation, events calendar, book-nearby, quests, and badges, all i…",
+        "url": "https://twitter.com/ivan_nomadz/status/2030365848624378318",
         "score": 0
       }
     ]
@@ -2161,11 +2144,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2028953040552591545",
-        "handle": "gumsays",
-        "created_at_iso": "2026-03-03 16:57:55 -05:00",
-        "text": "https://t.co/4hMxocEsIl",
-        "url": "https://twitter.com/gumsays/status/2028953040552591545",
+        "id": "2030344415353454648",
+        "handle": "solanapayments",
+        "created_at_iso": "2026-03-07 13:06:45 -05:00",
+        "text": "RT @thetinyant: Western Union choosing @Solana is a big deal. These are the kinds of decisions that don't get made lightly at companies tha…",
+        "url": "https://twitter.com/solanapayments/status/2030344415353454648",
         "score": 0
       }
     ]
@@ -2179,11 +2162,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2028903413023686995",
-        "handle": "0xyunss",
-        "created_at_iso": "2026-03-03 13:40:43 -05:00",
-        "text": "the first i taught my friend when starting this web3 or crypto related things.\n\nnever use google for searching a protocol.\n\nalways use @X search for a protocol and look for the mutuals or CT who following it.\n\nclick the link on their page and never use google,",
-        "url": "https://twitter.com/0xyunss/status/2028903413023686995",
+        "id": "2030343890520219808",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-07 13:04:40 -05:00",
+        "text": "RT @Charlsfx: Today is a big day for me 🚀\nGot my first like and reply from the @KASTxyz team 💪\n\nFeels great to see the team noticing the co…",
+        "url": "https://twitter.com/KASTxyz/status/2030343890520219808",
         "score": 0
       }
     ]
@@ -2197,11 +2180,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2028883156481249538",
-        "handle": "FabianoSolana",
-        "created_at_iso": "2026-03-03 12:20:13 -05:00",
-        "text": "Disclaimer: This is a paid partnership\n\nI have no f clue why the label doesn't show up\n\nIf I'm not posting tomorrow you know why",
-        "url": "https://twitter.com/FabianoSolana/status/2028883156481249538",
+        "id": "2030341865854157249",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-07 12:56:37 -05:00",
+        "text": "RT @rwp_riti: good vibes going into the weekend\n\nlunch with a friend, split the bill, no awkward \"who pays\" moment, just tapped my @KASTxyz…",
+        "url": "https://twitter.com/KASTxyz/status/2030341865854157249",
         "score": 0
       }
     ]
@@ -2215,11 +2198,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2028872839500120578",
-        "handle": "ivan_nomadz",
-        "created_at_iso": "2026-03-03 11:39:14 -05:00",
-        "text": "The month full of shipping and growing \n\n• AI integration\n• 3 new mobile releases\n• new features \n• more partnerships \n• many IRLs \n\nCheck out the full month by @NOMADZxyz!",
-        "url": "https://twitter.com/ivan_nomadz/status/2028872839500120578",
+        "id": "2030322763643412945",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-07 11:40:43 -05:00",
+        "text": "RT @mer__edith: https://t.co/Ewg9caPuHl",
+        "url": "https://twitter.com/trentdotsol/status/2030322763643412945",
         "score": 0
       }
     ]
@@ -2233,11 +2216,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2028861062037274833",
-        "handle": "0xharsh1001",
-        "created_at_iso": "2026-03-03 10:52:26 -05:00",
-        "text": "Love that @openclaw has consumed my entire circle",
-        "url": "https://twitter.com/0xharsh1001/status/2028861062037274833",
+        "id": "2030321375416820199",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-07 11:35:12 -05:00",
+        "text": "platforms vs products",
+        "url": "https://twitter.com/trentdotsol/status/2030321375416820199",
         "score": 0
       }
     ]
@@ -2251,11 +2234,11 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2028852683575312809",
-        "handle": "0xharsh1001",
-        "created_at_iso": "2026-03-03 10:19:08 -05:00",
-        "text": "RT @met_engine: level up your LPing skills on @MeteoraAG \n\nFree Install: https://t.co/Iyxhv4jb68 https://t.co/KTe6XXpwij",
-        "url": "https://twitter.com/0xharsh1001/status/2028852683575312809",
+        "id": "2030321087373058437",
+        "handle": "SolanaSensei",
+        "created_at_iso": "2026-03-07 11:34:03 -05:00",
+        "text": "What's your favorite AI for everyday use?\n\nBeen hearing a lot of different opinions... https://t.co/eHmvWInAad",
+        "url": "https://twitter.com/SolanaSensei/status/2030321087373058437",
         "score": 0
       }
     ]
@@ -2269,11 +2252,569 @@
     "reason": "General / Uncategorized cluster linked by []",
     "sampleTweets": [
       {
-        "id": "2028847876713992546",
-        "handle": "gumsays",
-        "created_at_iso": "2026-03-03 10:00:02 -05:00",
-        "text": "Hopium of the day: Bitcoin has not closed a single weekly or candle below the 2021 ATH close\n\nIt needs to go below $65.5K to do so.\n\nWith stocks dumping hard, this could be the week BTC shows strength. https://t.co/Qvjzb1HEQF",
-        "url": "https://twitter.com/gumsays/status/2028847876713992546",
+        "id": "2030316066635681840",
+        "handle": "ivan_nomadz",
+        "created_at_iso": "2026-03-07 11:14:06 -05:00",
+        "text": "Great to see builders ship to @solanamobile!",
+        "url": "https://twitter.com/ivan_nomadz/status/2030316066635681840",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_104",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030300186438701431",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-07 10:11:00 -05:00",
+        "text": "RT @SolJakey: I hold 0 money in my bank account because fiat sucks\n\nI hate using exchanges\n\nI legit only use @KASTxyz with apple pay everyw…",
+        "url": "https://twitter.com/KASTxyz/status/2030300186438701431",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_105",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030297420647518560",
+        "handle": "foreseelol",
+        "created_at_iso": "2026-03-07 10:00:00 -05:00",
+        "text": "Trail Blazers vs Rockets, showdown at Toyota Center is heating up!\n\n. @HoustonRockets lead the NBA in offensive rebounding % (35.4%), meaning @trailblazers needs to hold up on the glass to keep this close\n\nWill Houston cover the spread, or does Portland keep it a one-possession game?\n\nPlace your bets now on Foresee via @solanamobile",
+        "url": "https://twitter.com/foreseelol/status/2030297420647518560",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_106",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030278435445317870",
+        "handle": "solana",
+        "created_at_iso": "2026-03-07 08:44:34 -05:00",
+        "text": "https://t.co/zhg5tkFaaS",
+        "url": "https://twitter.com/solana/status/2030278435445317870",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_107",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030268585650815111",
+        "handle": "FabianoSolana",
+        "created_at_iso": "2026-03-07 08:05:26 -05:00",
+        "text": "I read all the comments\n\nThese are the best places to live for crypto bros, considering:\n\n- Taxes\n- Safety\n- Cost of living\n- Visa difficulty https://t.co/FjgWkDw1lw",
+        "url": "https://twitter.com/FabianoSolana/status/2030268585650815111",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_108",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030211631368794157",
+        "handle": "armaniferrante",
+        "created_at_iso": "2026-03-07 04:19:07 -05:00",
+        "text": "As software races to zero, copy paste protocols follow. With the market in the gutter, the chasm between crypto natives and Wall Street grows. It’ll get worse before it gets better. The game has changed. Know what you’re playing. The time to HODL is here.",
+        "url": "https://twitter.com/armaniferrante/status/2030211631368794157",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_109",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030080846640611457",
+        "handle": "vibhu",
+        "created_at_iso": "2026-03-06 19:39:25 -05:00",
+        "text": "RT @winternet: hey team, open to part time or advisory roles in consumer crypto, growth, product lmk ty\n\nhttps://t.co/cJnVMsbOpQ https://t.…",
+        "url": "https://twitter.com/vibhu/status/2030080846640611457",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_110",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030078609914753122",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-06 19:30:32 -05:00",
+        "text": "now the google account takeover scammers are sending me a flood of password reset attempts against other services and doing the double call dnd bypass. they are doing this multiple times per day. why do we still need phones?",
+        "url": "https://twitter.com/trentdotsol/status/2030078609914753122",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_111",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030077858706559354",
+        "handle": "mango_",
+        "created_at_iso": "2026-03-06 19:27:33 -05:00",
+        "text": "RT @turbine_cash: Turbine Cash is now discoverable at the @Soladex_io platform\n\nAccelerating privacy 🟠",
+        "url": "https://twitter.com/mango_/status/2030077858706559354",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_112",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030056853128806607",
+        "handle": "solanapayments",
+        "created_at_iso": "2026-03-06 18:04:05 -05:00",
+        "text": "https://t.co/HOLxXHMYvz",
+        "url": "https://twitter.com/solanapayments/status/2030056853128806607",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_113",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030053689273024991",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-06 17:51:30 -05:00",
+        "text": "Enter for a chance to win a Pengu Black Card:\n\n1️⃣ Join the Pengu Card waitlist \n2️⃣ Sign up to KAST \n3️⃣ Deposit $100\n\nWinners will be chosen at random. https://t.co/Hgnpy3pvzP",
+        "url": "https://twitter.com/KASTxyz/status/2030053689273024991",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_114",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030053684244087014",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-06 17:51:29 -05:00",
+        "text": "What's your favorite Pengu Card? 🐧💳 https://t.co/XUdR1JqTW6",
+        "url": "https://twitter.com/KASTxyz/status/2030053684244087014",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_115",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030052839855149163",
+        "handle": "solanapayments",
+        "created_at_iso": "2026-03-06 17:48:08 -05:00",
+        "text": "Florida just became the first U.S. state to pass a stablecoin framework",
+        "url": "https://twitter.com/solanapayments/status/2030052839855149163",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_116",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030047858708332810",
+        "handle": "solanamobile",
+        "created_at_iso": "2026-03-06 17:28:20 -05:00",
+        "text": "RT @m_it: Spent the week at Mobile World Congress — the biggest mobile hardware show in the world, where OEM deals get made. We went to pit…",
+        "url": "https://twitter.com/solanamobile/status/2030047858708332810",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_117",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030014589509726469",
+        "handle": "trevorjbacon",
+        "created_at_iso": "2026-03-06 15:16:08 -05:00",
+        "text": "RT @Parcl: News moves markets. Now you can trade the impact.",
+        "url": "https://twitter.com/trevorjbacon/status/2030014589509726469",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_118",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030012801578848381",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-06 15:09:02 -05:00",
+        "text": "shut the fuck up and make the users send transactions. all of you. that is all",
+        "url": "https://twitter.com/trentdotsol/status/2030012801578848381",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_119",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030007275696328960",
+        "handle": "SebMontgomery",
+        "created_at_iso": "2026-03-06 14:47:04 -05:00",
+        "text": "good place to trade oil @FlashTrade https://t.co/KWOwmQjE2k",
+        "url": "https://twitter.com/SebMontgomery/status/2030007275696328960",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_120",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2030007001439224117",
+        "handle": "turbine_cash",
+        "created_at_iso": "2026-03-06 14:45:59 -05:00",
+        "text": "Turbine Cash is now discoverable at the @Soladex_io platform\n\nAccelerating privacy 🟠",
+        "url": "https://twitter.com/turbine_cash/status/2030007001439224117",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_121",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029995116375749032",
+        "handle": "ivan_nomadz",
+        "created_at_iso": "2026-03-06 13:58:45 -05:00",
+        "text": "RT @Xiznft: If you are an active @solana user who attends IRL events, your first choice should always be @NOMADZxyz for booking your accomm…",
+        "url": "https://twitter.com/ivan_nomadz/status/2029995116375749032",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_122",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029994461896245623",
+        "handle": "xplaceapp",
+        "created_at_iso": "2026-03-06 13:56:09 -05:00",
+        "text": "RT @MidCurveMortal: THE BEAR MARKET NEOBANK PLAYBOOK:\n\nYou no longer have to sell your alts / memecoins in order to spend them. \n\nYou no lo…",
+        "url": "https://twitter.com/xplaceapp/status/2029994461896245623",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_123",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029981458602082646",
+        "handle": "trentdotsol",
+        "created_at_iso": "2026-03-06 13:04:29 -05:00",
+        "text": "RT @deanmlittle: It would've been even more productive to not publish a hit piece on Humidifi doing the bare minimum in response to SolFi p…",
+        "url": "https://twitter.com/trentdotsol/status/2029981458602082646",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_124",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029976682120056852",
+        "handle": "vibhu",
+        "created_at_iso": "2026-03-06 12:45:30 -05:00",
+        "text": "RT @bl8_runner: I appreciate everyone giving their feedback about my recent post about router timing games\n\nIn an effort to make sure we're…",
+        "url": "https://twitter.com/vibhu/status/2029976682120056852",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_125",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029975123730616693",
+        "handle": "turbine_cash",
+        "created_at_iso": "2026-03-06 12:39:19 -05:00",
+        "text": "RT @turbine_cash: Nothing matter...\n\nGo Private. Stay Untraceable 🟠 https://t.co/GSzPWCbfQi",
+        "url": "https://twitter.com/turbine_cash/status/2029975123730616693",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_126",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029972233310044438",
+        "handle": "mango_",
+        "created_at_iso": "2026-03-06 12:27:50 -05:00",
+        "text": "DAMN, it’s really hard to pick just 1 category, right?\n\nMy picks:\n&gt; @solflare Shield\n&gt; @JupGlobal Card\n&gt; @Titan_Exchange for daily swaps\n&gt; @solanamobile Seeker, ofc ;)\n&gt; @kamino for go-to DeFi\n\n&gt; and @turbine_cash for extra privacy 🤫\n\nWhat are your picks? (be honest) https://t.co/BU87EOjHaQ",
+        "url": "https://twitter.com/mango_/status/2029972233310044438",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_127",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029972121347146235",
+        "handle": "ivan_nomadz",
+        "created_at_iso": "2026-03-06 12:27:23 -05:00",
+        "text": "RT @perena: We’re partnering with @NOMADZxyz to unlock better travel experiences and exclusive access for the Perena community.\n\nStarting w…",
+        "url": "https://twitter.com/ivan_nomadz/status/2029972121347146235",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_128",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029966607167213696",
+        "handle": "solanamobile",
+        "created_at_iso": "2026-03-06 12:05:28 -05:00",
+        "text": "RT @somemobiledev: check out these resources to make sure your submission is polished!\n\ndeadline in 4 days!!",
+        "url": "https://twitter.com/solanamobile/status/2029966607167213696",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_129",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029956897621561575",
+        "handle": "solanapayments",
+        "created_at_iso": "2026-03-06 11:26:53 -05:00",
+        "text": "RT @capitalmarkets: Visa. Worldpay. Western Union. Fiserv. Cash App. Revolut. Brex. Gusto.\n\nAll settling or building stablecoin payments on…",
+        "url": "https://twitter.com/solanapayments/status/2029956897621561575",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_130",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029946530006978942",
+        "handle": "ivan_nomadz",
+        "created_at_iso": "2026-03-06 10:45:41 -05:00",
+        "text": "Happy to announce our partnership with @perena - the first Stablebank on @solana!\n\n@Perenimals can join using Matrica Connect and get:\n\n• 200 XP per community \n• 20% XP boost (more XP when book)\n• complete Perena quest with extra 600 XP\n\nWelcome to @NOMADZxyz!",
+        "url": "https://twitter.com/ivan_nomadz/status/2029946530006978942",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_131",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029940475616973084",
+        "handle": "xplaceapp",
+        "created_at_iso": "2026-03-06 10:21:38 -05:00",
+        "text": "Yes, you’ve read it right. This weekend only, cashback looks like this:\n\nBasic — 1%\nSilver — 2%\nGold — 3%\nPlatinum — 4%",
+        "url": "https://twitter.com/xplaceapp/status/2029940475616973084",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_132",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029937847604482248",
+        "handle": "xplaceapp",
+        "created_at_iso": "2026-03-06 10:11:11 -05:00",
+        "text": "Spring is better shared.\n\nTo celebrate the season, starting now and until the end of March 8, we're doubling cashback on all XPlace cards.\n\nEnjoy the moment — with double USDC on every purchase. https://t.co/l1MRftQNn8",
+        "url": "https://twitter.com/xplaceapp/status/2029937847604482248",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_133",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029936379921043642",
+        "handle": "vibhu",
+        "created_at_iso": "2026-03-06 10:05:22 -05:00",
+        "text": "RT @SolanaEvents: 60 Leg Days until Accelerate USA🇺🇸 https://t.co/bUskJ77iQC",
+        "url": "https://twitter.com/vibhu/status/2029936379921043642",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster_134",
+    "category": "General / Uncategorized",
+    "topKeywords": [],
+    "tweetCount": 1,
+    "clusterScore": 0,
+    "reason": "General / Uncategorized cluster linked by []",
+    "sampleTweets": [
+      {
+        "id": "2029918669665620306",
+        "handle": "KASTxyz",
+        "created_at_iso": "2026-03-06 08:54:59 -05:00",
+        "text": "RT @raagulanpathy: Everyone suddenly has a Neobank thesis &amp; roadmap. I built one 2 years ago till 2040, then updated it all the way to 2050…",
+        "url": "https://twitter.com/KASTxyz/status/2029918669665620306",
         "score": 0
       }
     ]
