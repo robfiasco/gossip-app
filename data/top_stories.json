@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-03-11T07:41:59.840Z",
+    "generatedAt": "2026-03-11T19:39:57.721Z",
     "totalCandidates": 95,
-    "solanaCandidates": 23,
+    "solanaCandidates": 13,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/policy/2026/03/10/senators-try-to-unlock-stalled-crypto-clarity-act-with-compromise-on-stablecoin-yield",
-      "title": "Senators try to unlock stalled crypto Clarity Act with compromise on stablecoin yield",
-      "url": "https://www.coindesk.com/policy/2026/03/10/senators-try-to-unlock-stalled-crypto-clarity-act-with-compromise-on-stablecoin-yield",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-10T19:00:12.000Z",
-      "summary": "As the window narrows to pass a crypto market structure bill this year, lawmakers told bankers at a Washington summit that the final bill won't risk deposits.",
+      "id": "https://ambcrypto.com/memecoins-lose-out-on-solana-dex-amid-reduced-popularity-what-happens-now",
+      "title": "Memecoins lose out on Solana DEX amid reduced popularity – What happens now?",
+      "url": "https://ambcrypto.com/memecoins-lose-out-on-solana-dex-amid-reduced-popularity-what-happens-now",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-11T17:00:18.000Z",
+      "summary": "The popularity of memecoins has plummeted, as evidenced by their dwindling share in the Solana DEX.",
       "tags": [
-        "senators",
-        "unlock",
-        "stalled"
+        "memecoins",
+        "lose",
+        "solana"
       ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,27 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 10,
+        "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7c3319de3ad9766e0b4935e67eda3f292a62190c",
-      "score": 23
+      "dedupeFingerprint": "f37447f28b328188a78a021c65b5dd1bf34fb209",
+      "score": 27
     },
     {
-      "id": "https://www.theblock.co/post/393130/solmate-proposes-stock-split-solana-strategy",
-      "title": "Nasdaq-listed Solmate proposes reverse stock split to build Solana hub in UAE",
-      "url": "https://www.theblock.co/post/393130/solmate-proposes-stock-split-solana-strategy",
+      "id": "https://www.theblock.co/post/393203/good-morning-holdings-dcg-back-seed-pre-rounds-bittensor-infra-general-tensor",
+      "title": "Good Morning Holdings, DCG back oversubscribed seed and pre-seed rounds for Bittensor infra player General Tensor",
+      "url": "https://www.theblock.co/post/393203/good-morning-holdings-dcg-back-seed-pre-rounds-bittensor-infra-general-tensor",
       "source": "The Block",
-      "publishedAt": "2026-03-11T04:12:15.000Z",
-      "summary": "The company also intends to wind down two soccer teams from its sports portfolio to focus on Solana treasury and infrastructure strategy.",
+      "publishedAt": "2026-03-11T16:01:02.000Z",
+      "summary": "General Tensor's seed round was anchored by Good Morning Holdings, led by Lok Lee and backed by Goldman Sachs.",
       "tags": [
-        "nasdaq",
-        "listed",
-        "solmate"
+        "good",
+        "morning",
+        "holdings"
       ],
       "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -71,20 +71,20 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "02a9e4742ddda379c9a412ab439e200c5dbb2ae7",
+      "dedupeFingerprint": "453f9227fca48165857c397d57308c64d712dcbe",
       "score": 22
     },
     {
-      "id": "https://www.theblock.co/post/393082/american-bankers-association-survey-consumers-support-stablecoin-yield-restrictions-financial-risk",
-      "title": "ABA survey finds consumers support stablecoin yield limits tied to banking risk",
-      "url": "https://www.theblock.co/post/393082/american-bankers-association-survey-consumers-support-stablecoin-yield-restrictions-financial-risk",
-      "source": "The Block",
-      "publishedAt": "2026-03-10T18:44:59.000Z",
-      "summary": "Consumers agree by a 6-to-1 margin that stablecoin yield laws “should be cautious and not take any steps that could undermine our existing financial system.\"",
+      "id": "https://decrypt.co/360734/wells-fargo-wfusd-trademark-signaling-use-crypto-stablecoins",
+      "title": "Wells Fargo Applies for WFUSD Trademark, Signaling Use in Crypto and Stablecoins",
+      "url": "https://decrypt.co/360734/wells-fargo-wfusd-trademark-signaling-use-crypto-stablecoins",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-11T18:48:04.000Z",
+      "summary": "Wells Fargo has applied for a trademark for \"WFUSD\" for potential use in service categories that mention crypto and stablecoins.",
       "tags": [
-        "survey",
-        "finds",
-        "consumers"
+        "wells",
+        "fargo",
+        "applies"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -99,27 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "70daddc42e75984e5a7286dc4f1f7dfff28bca45",
+      "dedupeFingerprint": "487fd4aceebb921b05de506a65d9c27af880846f",
       "score": 21
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/03/10/circle-could-rally-60-more-on-stablecoin-adoption-ai-agentic-finance-bernstein-says",
-      "title": "Circle could rally 60% more on stablecoin adoption, AI agentic finance, Bernstein says",
-      "url": "https://www.coindesk.com/markets/2026/03/10/circle-could-rally-60-more-on-stablecoin-adoption-ai-agentic-finance-bernstein-says",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-10T18:32:25.000Z",
-      "summary": "Stablecoins are decoupling from crypto market cycles as they are increasingly used for digital payments, Bernstein analysts said, which bodes well for USDC issuer Circle.",
+      "id": "https://decrypt.co/360710/brera-stock-plunges-growing-solana-pivot-solmate-firm-dumps-soccer-teams",
+      "title": "Brera Stock Plunges Amid Growing Solana Pivot as 'Solmate' Firm Dumps Soccer Teams",
+      "url": "https://decrypt.co/360710/brera-stock-plunges-growing-solana-pivot-solmate-firm-dumps-soccer-teams",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-11T15:14:25.000Z",
+      "summary": "Shares in Solana firm Brera Holdings plunged early Wednesday after the company said it's going nearly all-in on its crypto pivot.",
       "tags": [
-        "circle",
-        "could",
-        "rally"
+        "brera",
+        "stock",
+        "plunges"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -132,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "45f6aec746326fac8aa305140535eaf4cd01c08c",
+      "dedupeFingerprint": "7181afd9cbd853fa8fbb28b6be64b76fc924c4ec",
       "score": 21
     },
     {
-      "id": "https://www.coindesk.com/coindesk-news/2026/03/10/why-banks-are-moving-beyond-single-provider-stablecoin-payment-rails",
-      "title": "Why banks are moving beyond single-provider stablecoin payment rails",
-      "url": "https://www.coindesk.com/coindesk-news/2026/03/10/why-banks-are-moving-beyond-single-provider-stablecoin-payment-rails",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-10T17:01:18.000Z",
-      "summary": "Insitutions experimenting with stablecoins are shifting from single-vendor pilots to multi-provider infrastructure designed for global reach.",
+      "id": "https://ambcrypto.com/how-chainlinks-partnership-with-jupiter-can-positively-impact-link",
+      "title": "How Chainlink’s partnership with Jupiter can positively impact LINK",
+      "url": "https://ambcrypto.com/how-chainlinks-partnership-with-jupiter-can-positively-impact-link",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-11T13:45:32.000Z",
+      "summary": "Chainlink powers Jupiter prediction markets, while price consolidates below EMA with $12 resistance in focus.",
       "tags": [
-        "banks",
-        "moving",
-        "beyond"
+        "chainlink",
+        "partnership",
+        "with"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "1696cae8192c429bd4d12276af4e6de4a38b52f5",
-      "score": 21
+      "dedupeFingerprint": "3b4d71c5dc2d3312465daaa3ac4dea349b33eacc",
+      "score": 19
     }
   ]
 }
