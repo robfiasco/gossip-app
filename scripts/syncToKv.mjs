@@ -20,13 +20,19 @@ const kv = createClient({
     token: KV_REST_API_TOKEN,
 });
 
-const FILES_TO_SYNC = [
+const STORIES_ONLY = process.argv.includes("--stories-only");
+
+const ALL_FILES = [
     { local: "data/signal_board.json", key: "validator:signal_board" },
     { local: "data/briefing.json", key: "validator:briefing" },
-    { local: "public/data/validator_stories.json", key: "validator:stories" }, // generateCtStories writes here
+    { local: "public/data/validator_stories.json", key: "validator:stories" },
     { local: "data/narratives.json", key: "validator:narratives" },
     { local: "data/market_context.json", key: "validator:market_context" },
 ];
+
+const FILES_TO_SYNC = STORIES_ONLY
+    ? ALL_FILES.filter(f => f.key === "validator:stories")
+    : ALL_FILES;
 
 const sync = async () => {
     console.log("🔌 Syncing data to Vercel KV...");

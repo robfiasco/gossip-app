@@ -25,7 +25,7 @@
     "briefing:build": "node scripts/buildBriefing.mjs",
     "briefing:enhance": "node scripts/enhanceBriefingWithAI.mjs",
     "signal:build": "node scripts/buildSignalBoard.mjs",
-    "run:ctPipeline": "npm run tweets:72h && npm run cluster:tweets && npm run stories:candidates && npm run stories:ct",
+    "run:ctPipeline": "npm run tweets:72h && npm run cluster:tweets && npm run stories:candidates && npm run stories:ct && node scripts/syncToKv.mjs --stories-only",
     "daily:run": "node scripts/runDaily.mjs && node scripts/syncToKv.mjs",
     "daily:run:fast": "node scripts/runDaily.mjs --no-stories && node scripts/syncToKv.mjs",
     "dev": "next dev",
