@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-03-10T19:36:55.424Z",
-    "totalCandidates": 96,
-    "solanaCandidates": 25,
+    "generatedAt": "2026-03-11T07:41:59.840Z",
+    "totalCandidates": 95,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,46 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "7c3319de3ad9766e0b4935e67eda3f292a62190c",
-      "score": 24
+      "score": 23
+    },
+    {
+      "id": "https://www.theblock.co/post/393130/solmate-proposes-stock-split-solana-strategy",
+      "title": "Nasdaq-listed Solmate proposes reverse stock split to build Solana hub in UAE",
+      "url": "https://www.theblock.co/post/393130/solmate-proposes-stock-split-solana-strategy",
+      "source": "The Block",
+      "publishedAt": "2026-03-11T04:12:15.000Z",
+      "summary": "The company also intends to wind down two soccer teams from its sports portfolio to focus on Solana treasury and infrastructure strategy.",
+      "tags": [
+        "nasdaq",
+        "listed",
+        "solmate"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "02a9e4742ddda379c9a412ab439e200c5dbb2ae7",
+      "score": 22
     },
     {
       "id": "https://www.theblock.co/post/393082/american-bankers-association-survey-consumers-support-stablecoin-yield-restrictions-financial-risk",
@@ -66,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "70daddc42e75984e5a7286dc4f1f7dfff28bca45",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/markets/2026/03/10/circle-could-rally-60-more-on-stablecoin-adoption-ai-agentic-finance-bernstein-says",
@@ -99,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "45f6aec746326fac8aa305140535eaf4cd01c08c",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/coindesk-news/2026/03/10/why-banks-are-moving-beyond-single-provider-stablecoin-payment-rails",
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "1696cae8192c429bd4d12276af4e6de4a38b52f5",
-      "score": 22
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/03/10/solana-etfs-find-institutional-backing-while-xrp-funds-depend-more-on-retail",
-      "title": "Solana, XRP ETFs take different paths as crypto investors pile in",
-      "url": "https://www.coindesk.com/markets/2026/03/10/solana-etfs-find-institutional-backing-while-xrp-funds-depend-more-on-retail",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-10T15:20:01.000Z",
-      "summary": "Solana funds are seeing more institutional demand, while the XRP products are retail investor favorites, according to a Bloomberg report.",
-      "tags": [
-        "solana",
-        "etfs",
-        "take"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "1790d217857b5bbb039e0b430e39977958880536",
-      "score": 22
+      "score": 21
     }
   ]
 }

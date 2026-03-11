@@ -1,8 +1,26 @@
 {
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "INFRA",
+      "title": "Nasdaq-listed Solmate proposes reverse stock split to build Solana hub in UAE",
+      "category": "INFRA",
+      "source": "The Block",
+      "date": "2026-03-11",
+      "url": "https://www.theblock.co/post/393130/solmate-proposes-stock-split-solana-strategy",
+      "whyYouShouldCare": "A reverse stock split by Solmate could strengthen Solana's infrastructure in the UAE, potentially enhancing its regional influence and liquidity."
+    },
+    {
+      "type": "ECOSYSTEM",
+      "title": "Trump Meme Coin Down 96% From Peak as President's Approval Ratings Sink",
+      "category": "ECOSYSTEM",
+      "source": "Decrypt",
+      "date": "2026-03-10",
+      "url": "https://decrypt.co/360616/trump-meme-coin-down-96-peak-approval-ratings-sink",
+      "whyYouShouldCare": "The significant decline of the Trump Meme Coin reflects the volatility of niche projects, which could impact investor sentiment towards broader ecosystem stability."
+    },
     {
       "type": "APPS",
       "title": "Solana, XRP ETFs take different paths as crypto investors pile in",
@@ -10,25 +28,7 @@
       "source": "CoinDesk",
       "date": "2026-03-10",
       "url": "https://www.coindesk.com/markets/2026/03/10/solana-etfs-find-institutional-backing-while-xrp-funds-depend-more-on-retail",
-      "whyYouShouldCare": "The contrasting paths of Solana and XRP ETFs highlight differing investor confidence levels, which could impact SOL's market positioning and liquidity."
-    },
-    {
-      "type": "APPS",
-      "title": "BONK: Will rising whale interest help the memecoin rise 22%?",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-03-10",
-      "url": "https://ambcrypto.com/bonk-will-rising-whale-interest-help-the-memecoin-rise-22",
-      "whyYouShouldCare": "Increased whale interest in BONK may drive its price up, potentially influencing broader market sentiment and liquidity dynamics within the Solana ecosystem."
-    },
-    {
-      "type": "RISK",
-      "title": "Jito Foundation acquires and revives SolanaFloor following shutdown over $27 million exploit",
-      "category": "RISK",
-      "source": "CoinDesk",
-      "date": "2026-03-10",
-      "url": "https://www.coindesk.com/business/2026/03/10/jito-foundation-acquires-and-revives-solanafloor-following-shutdown-over-usd27-million-exploit",
-      "whyYouShouldCare": "The Jito Foundation's revival of SolanaFloor after a significant exploit underscores ongoing efforts to enhance security and trust in the Solana ecosystem."
+      "whyYouShouldCare": "Diverging paths for Solana and XRP ETFs indicate varying investor confidence, which may influence liquidity and adoption rates within the Solana ecosystem."
     }
   ]
 }

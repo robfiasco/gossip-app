@@ -1,26 +1,26 @@
 {
-  "date": "2026-03-10",
-  "generated_at_utc": "2026-03-10T19:37:04.593Z",
-  "ctxMarket": "Attention is focused on Solana’s institutional inflows and ecosystem developments, despite recent outflows from Solana funds. Payment volume and stablecoin activity on Solana have surged, drawing comparisons to other blockchains.",
-  "ctxTalking": "• Institutional demand for Solana ETFs, with Wall Street and investment advisors leading recent inflows\n• Jito Foundation’s acquisition and revival of SolanaFloor after a major exploit at its parent company\n• Rising whale interest in Solana-based meme coin BONK and speculation about its price movement",
-  "ctxMatters": "Institutional participation in Solana ETFs signals growing mainstream interest, even as short-term fund outflows persist. The SolanaFloor acquisition highlights ongoing efforts to restore ecosystem infrastructure after security incidents. Increased payment and stablecoin activity may reinforce Solana’s position in blockchain payments.",
-  "ctxSignal": "Signal: Institutional ETF inflows and payment volume growth point to sustained ecosystem engagement.\nNoise: Speculation about BONK’s price trajectory lacks concrete backing beyond whale activity.",
-  "ctxGlossary": "ETF — Exchange-traded fund, a tradable investment product tracking an asset or index\nWhale — An entity holding large amounts of a cryptocurrency, capable of influencing markets",
+  "date": "2026-03-11",
+  "generated_at_utc": "2026-03-11T07:42:09.525Z",
+  "ctxMarket": "Attention is on Solana's ecosystem growth and institutional interest, despite broader market contraction. Recent acquisitions and infrastructure moves are drawing focus to network resilience and expansion.",
+  "ctxTalking": "• Nasdaq-listed Solmate is restructuring to build a Solana hub in the UAE, shifting away from sports holdings.\n• Jito Foundation has acquired and revived SolanaFloor after its parent company suffered a major exploit.\n• Institutional demand for Solana ETFs is rising, contrasting with retail-driven interest in XRP funds.",
+  "ctxMatters": "Solana's payment volume and stablecoin activity are reaching record highs, signaling robust network usage. Infrastructure investments and media revivals may strengthen the ecosystem’s credibility and developer engagement. Institutional flows into Solana funds suggest changing investor profiles and potential for deeper capital pools.",
+  "ctxSignal": "Signal: Institutional interest and ecosystem expansion, especially in payments and infrastructure.\nNoise: Price swings in meme coins tied to political figures.",
+  "ctxGlossary": "Reverse stock split — Reducing the number of a company’s shares to increase share price.\nTVL (Total Value Locked) — The total value of assets deposited in a blockchain protocol.\nStablecoin — A cryptocurrency pegged to a stable asset, often the US dollar.",
   "readMore": [
     {
-      "title": "BONK",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/bonk-will-rising-whale-interest-help-the-memecoin-rise-22"
+      "title": "Nasdaq-listed Solmate proposes reverse stock split to build Solana hub in UAE",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/393130/solmate-proposes-stock-split-solana-strategy"
+    },
+    {
+      "title": "Trump Meme Coin Down 96% From Peak as President's Approval Ratings Sink",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/360616/trump-meme-coin-down-96-peak-approval-ratings-sink"
     },
     {
       "title": "Solana, XRP ETFs take different paths as crypto investors pile in",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/03/10/solana-etfs-find-institutional-backing-while-xrp-funds-depend-more-on-retail"
-    },
-    {
-      "title": "Jito Foundation acquires SolanaFloor days after platform shutdown",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/jito-foundation-acquires-solanafloor-to-revive-solana-ecosystem-journalism"
     }
   ]
 }
