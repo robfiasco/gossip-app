@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-03-11T19:39:57.721Z",
+    "generatedAt": "2026-03-12T07:44:34.314Z",
     "totalCandidates": 95,
-    "solanaCandidates": 13,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,46 @@
       "scoreBreakdown": {
         "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "f37447f28b328188a78a021c65b5dd1bf34fb209",
-      "score": 27
+      "score": 26
+    },
+    {
+      "id": "https://www.theblock.co/post/393331/trumps-crypto-advisor-stablecoins-bring-deposit-inflows",
+      "title": "Trump’s crypto advisor says stablecoins will drive global deposits into US banking system",
+      "url": "https://www.theblock.co/post/393331/trumps-crypto-advisor-stablecoins-bring-deposit-inflows",
+      "source": "The Block",
+      "publishedAt": "2026-03-12T03:04:24.000Z",
+      "summary": "Patrick Witt, the White House crypto advisor, said GENIUS-compliant stablecoins will 'actually lead to deposit inflows.'",
+      "tags": [
+        "trump",
+        "crypto",
+        "advisor"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "23747e34283215509776b494b33bde1828218490",
+      "score": 22
     },
     {
       "id": "https://www.theblock.co/post/393203/good-morning-holdings-dcg-back-seed-pre-rounds-bittensor-infra-general-tensor",
@@ -66,60 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "453f9227fca48165857c397d57308c64d712dcbe",
-      "score": 22
-    },
-    {
-      "id": "https://decrypt.co/360734/wells-fargo-wfusd-trademark-signaling-use-crypto-stablecoins",
-      "title": "Wells Fargo Applies for WFUSD Trademark, Signaling Use in Crypto and Stablecoins",
-      "url": "https://decrypt.co/360734/wells-fargo-wfusd-trademark-signaling-use-crypto-stablecoins",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-11T18:48:04.000Z",
-      "summary": "Wells Fargo has applied for a trademark for \"WFUSD\" for potential use in service categories that mention crypto and stablecoins.",
-      "tags": [
-        "wells",
-        "fargo",
-        "applies"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "487fd4aceebb921b05de506a65d9c27af880846f",
       "score": 21
     },
     {
-      "id": "https://decrypt.co/360710/brera-stock-plunges-growing-solana-pivot-solmate-firm-dumps-soccer-teams",
-      "title": "Brera Stock Plunges Amid Growing Solana Pivot as 'Solmate' Firm Dumps Soccer Teams",
-      "url": "https://decrypt.co/360710/brera-stock-plunges-growing-solana-pivot-solmate-firm-dumps-soccer-teams",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-11T15:14:25.000Z",
-      "summary": "Shares in Solana firm Brera Holdings plunged early Wednesday after the company said it's going nearly all-in on its crypto pivot.",
+      "id": "https://www.theblock.co/post/393329/metaplanet-vc-asset-management-subsidiaries",
+      "title": "Metaplanet launches VC and asset management subsidiaries, bets on Japanese stablecoin JPYC",
+      "url": "https://www.theblock.co/post/393329/metaplanet-vc-asset-management-subsidiaries",
+      "source": "The Block",
+      "publishedAt": "2026-03-12T03:01:06.000Z",
+      "summary": "The venture capital arm will deploy 4 billion yen ($25 million) over the next few years to local bitcoin infrastructure firms.",
       "tags": [
-        "brera",
-        "stock",
-        "plunges"
+        "metaplanet",
+        "launches",
+        "asset"
       ],
-      "topicBucket": "general",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -130,48 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 3,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7181afd9cbd853fa8fbb28b6be64b76fc924c4ec",
-      "score": 21
-    },
-    {
-      "id": "https://ambcrypto.com/how-chainlinks-partnership-with-jupiter-can-positively-impact-link",
-      "title": "How Chainlink’s partnership with Jupiter can positively impact LINK",
-      "url": "https://ambcrypto.com/how-chainlinks-partnership-with-jupiter-can-positively-impact-link",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-11T13:45:32.000Z",
-      "summary": "Chainlink powers Jupiter prediction markets, while price consolidates below EMA with $12 resistance in focus.",
-      "tags": [
-        "chainlink",
-        "partnership",
-        "with"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "3b4d71c5dc2d3312465daaa3ac4dea349b33eacc",
+      "dedupeFingerprint": "1a05590a17775d7b01285cd2b349d73f08539e68",
       "score": 19
+    },
+    {
+      "id": "https://decrypt.co/360671/bitcoin-retreats-under-70k-as-iea-weighs-historic-oil-reserve-release",
+      "title": "Bitcoin Retreats Under $70K as IEA Weighs Historic Oil Reserve Release",
+      "url": "https://decrypt.co/360671/bitcoin-retreats-under-70k-as-iea-weighs-historic-oil-reserve-release",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-11T12:00:27.000Z",
+      "summary": "Bitcoin’s drop coincides with an IEA proposal to stabilize energy markets, leaving derivatives traders paying for downside protection.",
+      "tags": [
+        "bitcoin",
+        "retreats",
+        "under"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -3,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "6d32b4f42a10f56abab9ba5c3a3393b77d859e5c",
+      "score": -1
     }
   ]
 }

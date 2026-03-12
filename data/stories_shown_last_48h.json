@@ -1,25 +1,11 @@
 [
   {
-    "id": "bf4a9f5eed361da75597e14251cff09780b9fbb2",
-    "title": "Signal Board Summary 2026-03-11",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-03-11T19:40:06.920Z",
-    "lastSeenAt": "2026-03-11T19:40:06.920Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "7181afd9cbd853fa8fbb28b6be64b76fc924c4ec",
     "title": "Brera Stock Plunges Amid Growing Solana Pivot as 'Solmate' Firm Dumps Soccer Teams",
     "url": "https://decrypt.co/360710/brera-stock-plunges-growing-solana-pivot-solmate-firm-dumps-soccer-teams",
     "source": "Decrypt",
     "firstSeenAt": "2026-03-11T19:39:57.887Z",
-    "lastSeenAt": "2026-03-11T19:39:57.887Z",
+    "lastSeenAt": "2026-03-12T07:44:34.467Z",
     "sectionShown": "briefing",
     "topicTags": [
       "brera",
@@ -30,6 +16,62 @@
       "solana",
       "pivot",
       "solmate"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "f37447f28b328188a78a021c65b5dd1bf34fb209",
+    "title": "Memecoins lose out on Solana DEX amid reduced popularity – What happens now?",
+    "url": "https://ambcrypto.com/memecoins-lose-out-on-solana-dex-amid-reduced-popularity-what-happens-now",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-03-12T07:44:34.467Z",
+    "lastSeenAt": "2026-03-12T07:44:34.467Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "memecoins",
+      "lose",
+      "solana",
+      "amid",
+      "reduced",
+      "popularity",
+      "what",
+      "happens"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "dea9e0d904b5c7fe1d97282900f59a3632f40b63",
+    "title": "Crypto code commits fall 75% as developers move to AI projects",
+    "url": "https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-03-12T07:44:34.466Z",
+    "lastSeenAt": "2026-03-12T07:44:34.466Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "crypto",
+      "code",
+      "commits",
+      "fall",
+      "developers",
+      "move",
+      "projects",
+      "shifting"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "bf4a9f5eed361da75597e14251cff09780b9fbb2",
+    "title": "Signal Board Summary 2026-03-11",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-03-11T19:40:06.920Z",
+    "lastSeenAt": "2026-03-11T19:40:06.920Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -177,69 +219,6 @@
       "help",
       "memecoin",
       "rise"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "7170a8d3489892e741ad59da3d99b6a741509ca4",
-    "title": "Global insurance broker Aon tests stablecoin payments with Coinbase, Paxos",
-    "url": "https://www.coindesk.com/business/2026/03/09/global-insurance-broker-aon-tests-stablecoin-payments-with-coinbase-paxos",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-03-09T19:39:14.489Z",
-    "lastSeenAt": "2026-03-10T07:39:12.567Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "global",
-      "insurance",
-      "broker",
-      "tests",
-      "stablecoin",
-      "payments",
-      "with",
-      "coinbase"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "63afd7846366f74c1373e4aa118ade7a8e114a5b",
-    "title": "Ether, solana, XRP jump higher as Trump signals Iran war nearing end",
-    "url": "https://www.coindesk.com/markets/2026/03/10/ether-solana-xrp-jump-higher-as-trump-signals-iran-war-nearing-end",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-03-10T07:39:12.567Z",
-    "lastSeenAt": "2026-03-10T07:39:12.567Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "ether",
-      "solana",
-      "jump",
-      "higher",
-      "trump",
-      "signals",
-      "iran",
-      "nearing"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "140fab59d1ad1ebbd0c13c2bd050291bf65c6d61",
-    "title": "Wall Street funneled $540M into US Solana ETFs in Q4: Bloomberg",
-    "url": "https://cointelegraph.com/news/financial-institutions-bought-540m-solana-etfs-q4",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-03-10T07:39:12.566Z",
-    "lastSeenAt": "2026-03-10T07:39:12.566Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "wall",
-      "street",
-      "funneled",
-      "540m",
-      "into",
-      "solana",
-      "etfs",
-      "bloomberg"
     ],
     "majorUpdate": false,
     "updateReason": null

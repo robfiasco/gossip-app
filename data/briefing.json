@@ -1,16 +1,25 @@
 {
-  "date": "2026-03-11",
+  "date": "2026-03-12",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "APPS",
-      "title": "How Chainlink’s partnership with Jupiter can positively impact LINK",
-      "category": "APPS",
+      "type": "INFRA",
+      "title": "Crypto code commits fall 75% as developers move to AI projects",
+      "category": "INFRA",
+      "source": "CoinDesk",
+      "date": "2026-03-12",
+      "url": "https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom",
+      "whyYouShouldCare": "A significant drop in crypto code commits signals a potential decline in developer interest in blockchain, which could impact Solana's ecosystem growth and innovation."
+    },
+    {
+      "type": "MARKET",
+      "title": "Memecoins lose out on Solana DEX amid reduced popularity – What happens now?",
+      "category": "MARKET",
       "source": "AMB Crypto",
       "date": "2026-03-11",
-      "url": "https://ambcrypto.com/how-chainlinks-partnership-with-jupiter-can-positively-impact-link",
-      "whyYouShouldCare": "Chainlink's partnership with Jupiter could enhance liquidity and data accessibility for Solana, potentially boosting ecosystem usage and attracting more developers."
+      "url": "https://ambcrypto.com/memecoins-lose-out-on-solana-dex-amid-reduced-popularity-what-happens-now",
+      "whyYouShouldCare": "The waning popularity of memecoins on Solana's DEX may shift liquidity and user engagement towards more established projects, affecting overall market dynamics."
     },
     {
       "type": "APPS",
@@ -19,16 +28,7 @@
       "source": "Decrypt",
       "date": "2026-03-11",
       "url": "https://decrypt.co/360710/brera-stock-plunges-growing-solana-pivot-solmate-firm-dumps-soccer-teams",
-      "whyYouShouldCare": "Brera's stock decline reflects investor concern over its shift towards Solana, indicating potential volatility and uncertainty in the market's perception of Solana-related ventures."
-    },
-    {
-      "type": "APPS",
-      "title": "Brera board approves Solmate pivot, cuts soccer teams to focus on Solana",
-      "category": "APPS",
-      "source": "Cointelegraph",
-      "date": "2026-03-11",
-      "url": "https://cointelegraph.com/news/brera-solmate-pivot-solana-infrastructure-soccer-teams-reverse-stock-split",
-      "whyYouShouldCare": "Brera's decision to pivot towards Solana and cut soccer teams signals a strategic focus that could strengthen Solana's ecosystem and attract new partnerships."
+      "whyYouShouldCare": "Brera's stock decline and its pivot from soccer teams to Solana-related ventures may indicate a strategic shift that could influence investor sentiment and ecosystem partnerships."
     }
   ]
 }

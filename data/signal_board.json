@@ -1,26 +1,26 @@
 {
-  "date": "2026-03-11",
-  "generated_at_utc": "2026-03-11T19:40:06.918Z",
-  "ctxMarket": "Attention is shifting away from memecoins on Solana DEXs as their popularity declines. Meanwhile, Solana’s payments and stablecoin activity are drawing notice for significant year-over-year growth.",
-  "ctxTalking": "• Memecoins losing traction and market share on Solana DEXs\n• Brera Holdings’ sharp pivot from sports to a Solana-focused strategy, including a rebrand to Solmate\n• Surging stablecoin and payment volumes on Solana, with network metrics outperforming broader market trends",
-  "ctxMatters": "Shifting focus from memecoins may signal changing user priorities or maturing ecosystem interests. Brera’s pivot highlights growing institutional bets on Solana’s infrastructure. Record payment and stablecoin activity could attract more builders and capital to the network.",
-  "ctxSignal": "Signal: Declining memecoin activity and rising payment volumes suggest evolving use cases on Solana.\nNoise: Short-term price swings in meme tokens tied to external political events.",
-  "ctxGlossary": "DEX — Decentralized Exchange, where users trade crypto assets without intermediaries\nStablecoin — A cryptocurrency pegged to a stable asset, often used for payments and transfers",
+  "date": "2026-03-12",
+  "generated_at_utc": "2026-03-12T07:44:43.573Z",
+  "ctxMarket": "Attention is focused on a major security incident involving Bonk.fun, with multiple sources reporting a domain hijack and wallet-drainer attack. Developer activity on Solana and other blockchains is also in the spotlight due to a reported shift toward AI projects.",
+  "ctxTalking": "• Bonk.fun’s domain was hijacked, leading to a wallet-draining phishing attack targeting users.\n• Developer code commits across major blockchains, including Solana, have dropped sharply as talent moves to AI.\n• Memecoins are losing traction on Solana DEXs, with notable price declines and reduced trading activity.",
+  "ctxMatters": "Security breaches like the Bonk.fun incident highlight ongoing risks for Solana users interacting with third-party sites. The migration of developers to AI projects could impact the pace of innovation and support for Solana-based platforms. Shifting trends in memecoin popularity may affect liquidity and user engagement on Solana DEXs.",
+  "ctxSignal": "Signal: The Bonk.fun hack and developer migration to AI are confirmed by multiple sources and have direct implications for Solana’s ecosystem.\nNoise: Short-term price swings in individual memecoins without broader context.",
+  "ctxGlossary": "Wallet-drainer — Malicious software or prompt designed to steal funds from users’ crypto wallets.\nDEX — Decentralized exchange, a platform for peer-to-peer crypto trading without intermediaries.",
   "readMore": [
     {
-      "title": "Memecoins lose out on Solana DEX amid reduced popularity – What happens now?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/memecoins-lose-out-on-solana-dex-amid-reduced-popularity-what-happens-now"
-    },
-    {
-      "title": "Brera Stock Plunges Amid Growing Solana Pivot as 'Solmate' Firm Dumps Soccer Teams",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/360710/brera-stock-plunges-growing-solana-pivot-solmate-firm-dumps-soccer-teams"
-    },
-    {
-      "title": "Brera board approves Solmate pivot, cuts soccer teams to focus on Solana",
+      "title": "Bonk.fun warns hackers hijacked domain in wallet-drainer attack",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/brera-solmate-pivot-solana-infrastructure-soccer-teams-reverse-stock-split"
+      "url": "https://cointelegraph.com/news/bonk-fun-domain-hijack-wallet-drainer-solana"
+    },
+    {
+      "title": "Crypto code commits fall 75% as developers move to AI projects",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom"
+    },
+    {
+      "title": "Bonk.fun’s official website hijacked, draining user funds upon interaction",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/393345/bonk-fun-hijacked"
     }
   ]
 }
