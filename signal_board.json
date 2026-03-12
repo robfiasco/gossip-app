@@ -1,26 +1,26 @@
 {
   "date": "2026-03-12",
-  "generated_at_utc": "2026-03-12T07:44:43.573Z",
-  "ctxMarket": "Attention is focused on a major security incident involving Bonk.fun, with multiple sources reporting a domain hijack and wallet-drainer attack. Developer activity on Solana and other blockchains is also in the spotlight due to a reported shift toward AI projects.",
-  "ctxTalking": "• Bonk.fun’s domain was hijacked, leading to a wallet-draining phishing attack targeting users.\n• Developer code commits across major blockchains, including Solana, have dropped sharply as talent moves to AI.\n• Memecoins are losing traction on Solana DEXs, with notable price declines and reduced trading activity.",
-  "ctxMatters": "Security breaches like the Bonk.fun incident highlight ongoing risks for Solana users interacting with third-party sites. The migration of developers to AI projects could impact the pace of innovation and support for Solana-based platforms. Shifting trends in memecoin popularity may affect liquidity and user engagement on Solana DEXs.",
-  "ctxSignal": "Signal: The Bonk.fun hack and developer migration to AI are confirmed by multiple sources and have direct implications for Solana’s ecosystem.\nNoise: Short-term price swings in individual memecoins without broader context.",
-  "ctxGlossary": "Wallet-drainer — Malicious software or prompt designed to steal funds from users’ crypto wallets.\nDEX — Decentralized exchange, a platform for peer-to-peer crypto trading without intermediaries.",
+  "generated_at_utc": "2026-03-12T19:41:12.594Z",
+  "ctxMarket": "Attention is on Solana’s growing on-chain activity, major platform milestones, and security incidents. Cross-chain expansion and identity solutions are also drawing interest.",
+  "ctxTalking": "• Pump.fun surpassing $1B in revenue and signaling cross-chain ambitions\n• Security breach on Bonk.fun’s website leading to wallet-draining phishing attacks\n• Polychain’s $10M investment in VeryAI’s palm-scan identity system on Solana",
+  "ctxMatters": "Pump.fun’s revenue milestone and cross-chain signals highlight Solana’s role in platform growth and interoperability. The Bonk.fun hack underscores ongoing security risks for users and projects. Investment in biometric identity tools suggests a push for better user verification and privacy on Solana.",
+  "ctxSignal": "Signal: Pump.fun’s revenue and cross-chain moves, and Polychain’s backing of on-chain identity tech.\nNoise: Minimal losses reported from the Bonk.fun hack may not reflect broader security concerns.",
+  "ctxGlossary": "Phishing — A scam where attackers trick users into revealing sensitive information or draining wallets.\nOn-chain verification — Confirming user actions or identities directly on the blockchain.",
   "readMore": [
     {
-      "title": "Bonk.fun warns hackers hijacked domain in wallet-drainer attack",
+      "title": "Polychain backs VeryAI’s $10M raise to build palm-scan identity system on Solana",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bonk-fun-domain-hijack-wallet-drainer-solana"
+      "url": "https://cointelegraph.com/news/polychain-backs-veryai-s-10m-raise-to-build-palm-scan-identity-system-on-solana"
     },
     {
-      "title": "Crypto code commits fall 75% as developers move to AI projects",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/03/12/crypto-developer-activity-sinks-to-multi-year-low-as-ai-absorbs-github-s-talent-boom"
+      "title": "FTX estate moves $17M in Solana while network staking activity remains strong",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/ftx-estate-moves-17m-in-solana-while-network-staking-activity-remains-strong"
     },
     {
-      "title": "Bonk.fun’s official website hijacked, draining user funds upon interaction",
+      "title": "Pump.fun becomes Solana’s first $1B revenue platform as Ethereum, Base, BSC and Monad subdomains hint at cross-chain move",
       "source": "The Block",
-      "url": "https://www.theblock.co/post/393345/bonk-fun-hijacked"
+      "url": "https://www.theblock.co/post/393358/pump-fun-becomes-solanas-first-1b-revenue-platform-as-ethereum-base-bsc-and-monad-subdomains-hint-at-cross-chain-move"
     }
   ]
 }
