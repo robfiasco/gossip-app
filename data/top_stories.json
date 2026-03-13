@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-03-13T07:43:17.821Z",
-    "totalCandidates": 96,
-    "solanaCandidates": 21,
+    "generatedAt": "2026-03-13T19:29:56.371Z",
+    "totalCandidates": 98,
+    "solanaCandidates": 18,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://ambcrypto.com/solana-can-sol-reclaim-90-after-17m-whale-accumulation",
+      "title": "Solana: Can SOL reclaim $90 after $17M whale accumulation?",
+      "url": "https://ambcrypto.com/solana-can-sol-reclaim-90-after-17m-whale-accumulation",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-13T11:00:29.000Z",
+      "summary": "Solana whale purchased 200,000 Sol worth $17.17 million, and then staked it.",
+      "tags": [
+        "solana",
+        "reclaim",
+        "after"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "0670b2af779caa0eae734260316e06cbcffd8f2a",
+      "score": 27
+    },
     {
       "id": "https://messari.io/article/in-the-stables-the-rise-of-yield-bearing-stablecoins",
       "title": "In The Stables: The Rise of Yield-Bearing Stablecoins",
@@ -33,25 +66,25 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "382324d40ff86a38374ae4b585c873ab7924a5d5",
-      "score": 23
+      "score": 22
     },
     {
-      "id": "https://www.theblock.co/post/393323/lido-stablecoin-vault",
-      "title": "Lido cleans up Earn offering, rolls outs first stablecoin vault with USDT and USDC",
-      "url": "https://www.theblock.co/post/393323/lido-stablecoin-vault",
-      "source": "The Block",
-      "publishedAt": "2026-03-12T15:00:00.000Z",
-      "summary": "Lido is consolidating its Earn offering into EarnETH and EarnUSD, the latter of which represents its first stablecoin vault.",
+      "id": "https://decrypt.co/361056/billionaire-investor-stanley-druckenmiller-bullish-stablecoin-growth",
+      "title": "Billionaire Investor Stanley Druckenmiller Bullish on Stablecoin Growth",
+      "url": "https://decrypt.co/361056/billionaire-investor-stanley-druckenmiller-bullish-stablecoin-growth",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-13T18:05:45.000Z",
+      "summary": "Former hedge fund manager Stanley Druckenmiller expects stablecoins to take over payments systems in the next 10-15 years.",
       "tags": [
-        "lido",
-        "cleans",
-        "earn"
+        "billionaire",
+        "investor",
+        "stanley"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -66,28 +99,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ad0a091ebc0a02f4fe77d49f9ba7db126ea8b72c",
+      "dedupeFingerprint": "d8815ac8233586f3d7b79234ff8802cd143b1f11",
       "score": 21
     },
     {
-      "id": "https://www.theblock.co/post/393378/grayscale-debuts-avalanche-staking-etf-on-nasdaq-under-ticker-gava",
-      "title": "Grayscale debuts Avalanche staking ETF on Nasdaq under ticker GAVA",
-      "url": "https://www.theblock.co/post/393378/grayscale-debuts-avalanche-staking-etf-on-nasdaq-under-ticker-gava",
+      "id": "https://www.theblock.co/post/393509/metacomp-raises-35-million-alibaba",
+      "title": "Singapore-based MetaComp raises $35 million in funding backed by Alibaba",
+      "url": "https://www.theblock.co/post/393509/metacomp-raises-35-million-alibaba",
       "source": "The Block",
-      "publishedAt": "2026-03-12T12:30:00.000Z",
-      "summary": "Grayscale’s Avalanche Staking ETF (GAVA) has debuted on Nasdaq, offering AVAX exposure and staking rewards.",
+      "publishedAt": "2026-03-13T08:40:17.000Z",
+      "summary": "The Singapore-based company provides services that bridge traditional fiat payment rails and stablecoin settlement infrastructure.",
       "tags": [
-        "grayscale",
-        "debuts",
-        "avalanche"
+        "singapore",
+        "based",
+        "metacomp"
       ],
-      "topicBucket": "market",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -97,27 +130,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "675561ea70aa72ee7899e0c014094b908bac46eb",
-      "score": 21
+      "dedupeFingerprint": "33b43f24165d926abbde62a08530ed8150887056",
+      "score": 17
     },
     {
-      "id": "https://decrypt.co/360954/president-trump-hosting-another-exclusive-event-meme-coin-holders",
-      "title": "President Trump Is Hosting Another Exclusive Event for Meme Coin Holders",
-      "url": "https://decrypt.co/360954/president-trump-hosting-another-exclusive-event-meme-coin-holders",
+      "id": "https://decrypt.co/361063/trump-meme-coin-price-trading-volume-skyrocket-exclusive-event",
+      "title": "Trump Meme Coin Price, Trading Volume Skyrocket as Holders Vie for Exclusive Event Access",
+      "url": "https://decrypt.co/361063/trump-meme-coin-price-trading-volume-skyrocket-exclusive-event",
       "source": "Decrypt",
-      "publishedAt": "2026-03-12T20:49:01.000Z",
-      "summary": "President Trump's Solana meme coin jumped briefly after the team announced a new exclusive event for top holders.",
+      "publishedAt": "2026-03-13T19:04:44.000Z",
+      "summary": "President Donald Trump's meme coin has surged by 35%, with top holders stacking Solana-based tokens to earn access to an exclusive event.",
       "tags": [
-        "president",
         "trump",
-        "hosting"
+        "meme",
+        "coin"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -137,40 +170,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "065471f21fc9f374ab345df592063a94756492cd",
-      "score": 16
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/03/12/circle-s-outperformance-highlights-usdc-s-staying-power-says-bullish-wall-street-analyst",
-      "title": "Circle’s outperformance highlights USDC’s staying power, says bullish Wall Street analyst",
-      "url": "https://www.coindesk.com/markets/2026/03/12/circle-s-outperformance-highlights-usdc-s-staying-power-says-bullish-wall-street-analyst",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-12T15:00:52.000Z",
-      "summary": "William Blair said Circle’s recent rally reflects more than macro factors, pointing to USDC resilience and growing recognition of the firm’s stablecoin infrastructure advantage.",
-      "tags": [
-        "circle",
-        "outperformance",
-        "highlights"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "f0ced32ec8a90b8b9851e93a3fd4f2148503363b",
+      "dedupeFingerprint": "bbb327d5f56dcd53531258aea6b4ff6024a8c142",
       "score": 16
     }
   ]
