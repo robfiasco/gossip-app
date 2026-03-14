@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-03-13T19:29:56.371Z",
+    "generatedAt": "2026-03-14T07:33:33.147Z",
     "totalCandidates": 98,
-    "solanaCandidates": 18,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-can-sol-reclaim-90-after-17m-whale-accumulation",
-      "title": "Solana: Can SOL reclaim $90 after $17M whale accumulation?",
-      "url": "https://ambcrypto.com/solana-can-sol-reclaim-90-after-17m-whale-accumulation",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-13T11:00:29.000Z",
-      "summary": "Solana whale purchased 200,000 Sol worth $17.17 million, and then staked it.",
+      "id": "https://www.theblock.co/post/393588/billionaire-investor-druckenmiller-quicker-cheaper-stablecoins-power-payments-10-15-years",
+      "title": "Billionaire investor Druckenmiller says ‘quicker, cheaper’ stablecoins could power payments in 10-15 years",
+      "url": "https://www.theblock.co/post/393588/billionaire-investor-druckenmiller-quicker-cheaper-stablecoins-power-payments-10-15-years",
+      "source": "The Block",
+      "publishedAt": "2026-03-13T20:03:52.000Z",
+      "summary": "Druckenmiller argued that stablecoins could meaningfully boost financial system productivity by making payments faster and cheaper.",
       "tags": [
-        "solana",
-        "reclaim",
-        "after"
+        "billionaire",
+        "investor",
+        "druckenmiller"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,15 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0670b2af779caa0eae734260316e06cbcffd8f2a",
-      "score": 27
+      "dedupeFingerprint": "e4b70f59391cbf06643531fd8f949a9e48de68df",
+      "score": 22
     },
     {
       "id": "https://messari.io/article/in-the-stables-the-rise-of-yield-bearing-stablecoins",
@@ -66,27 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "382324d40ff86a38374ae4b585c873ab7924a5d5",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://decrypt.co/361056/billionaire-investor-stanley-druckenmiller-bullish-stablecoin-growth",
-      "title": "Billionaire Investor Stanley Druckenmiller Bullish on Stablecoin Growth",
-      "url": "https://decrypt.co/361056/billionaire-investor-stanley-druckenmiller-bullish-stablecoin-growth",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-13T18:05:45.000Z",
-      "summary": "Former hedge fund manager Stanley Druckenmiller expects stablecoins to take over payments systems in the next 10-15 years.",
+      "id": "https://ambcrypto.com/solana-listing-grayscale-etf-and-how-avalanche-avax-is-wooing-institutions",
+      "title": "Solana listing, Grayscale ETF, and how Avalanche [AVAX] is wooing institutions",
+      "url": "https://ambcrypto.com/solana-listing-grayscale-etf-and-how-avalanche-avax-is-wooing-institutions",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-13T23:30:05.000Z",
+      "summary": "How can Solana boost AVAX’s institutional momentum?",
       "tags": [
-        "billionaire",
-        "investor",
-        "stanley"
+        "solana",
+        "listing",
+        "grayscale"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -100,12 +100,45 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 3,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d8815ac8233586f3d7b79234ff8802cd143b1f11",
-      "score": 21
+      "dedupeFingerprint": "1efd64ef2de11abd218a7f45d2069bd42dc439f6",
+      "score": 19
+    },
+    {
+      "id": "https://cointelegraph.com/news/stablecoins-power-global-payments-10-years-stanley-druckenmiller",
+      "title": "Stablecoins could form backbone of global payments in 10 years: Billionaire",
+      "url": "https://cointelegraph.com/news/stablecoins-power-global-payments-10-years-stanley-druckenmiller",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-03-14T01:22:32.000Z",
+      "summary": "Stanley Druckenmiller said stablecoins are more efficient, faster and cheaper than fiat running on traditional banking infrastructure.",
+      "tags": [
+        "stablecoins",
+        "could",
+        "form"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "62a97a4f8646ccff4523a4ed6ac2cf65efccaeb6",
+      "score": 18
     },
     {
       "id": "https://www.theblock.co/post/393509/metacomp-raises-35-million-alibaba",
@@ -132,45 +165,12 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "33b43f24165d926abbde62a08530ed8150887056",
-      "score": 17
-    },
-    {
-      "id": "https://decrypt.co/361063/trump-meme-coin-price-trading-volume-skyrocket-exclusive-event",
-      "title": "Trump Meme Coin Price, Trading Volume Skyrocket as Holders Vie for Exclusive Event Access",
-      "url": "https://decrypt.co/361063/trump-meme-coin-price-trading-volume-skyrocket-exclusive-event",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-13T19:04:44.000Z",
-      "summary": "President Donald Trump's meme coin has surged by 35%, with top holders stacking Solana-based tokens to earn access to an exclusive event.",
-      "tags": [
-        "trump",
-        "meme",
-        "coin"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "bbb327d5f56dcd53531258aea6b4ff6024a8c142",
       "score": 16
     }
   ]
