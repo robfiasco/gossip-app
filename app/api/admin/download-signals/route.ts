@@ -25,16 +25,30 @@ export async function GET(request: NextRequest) {
         return NextResponse.json({ error: "Blob not configured" }, { status: 500 });
     }
 
-    // Use SDK to get a signed download URL — works for private blobs server-side
-    const meta = await head(blobUrl, { token });
-    const res = await fetch(meta.downloadUrl);
+    // Approach 1: head() to get signed downloadUrl
+    try {
+        const meta = await head(blobUrl, { token });
+        const downloadUrl = meta.downloadUrl;
+        console.log(`[download-signals] blobUrl domain: ${new URL(blobUrl).hostname}`);
+        console.log(`[download-signals] downloadUrl same as blobUrl: ${downloadUrl === blobUrl}`);
 
-    if (!res.ok) {
-        return NextResponse.json({ error: `Blob fetch failed: ${res.status}` }, { status: 502 });
+        // Try signed URL first, then fall back to auth header
+        for (const [label, fetchUrl, fetchOpts] of [
+            ["signed-url", downloadUrl, {}],
+            ["bearer-token", blobUrl, { headers: { authorization: `Bearer ${token}` } }],
+        ] as const) {
+            const res = await fetch(fetchUrl, fetchOpts as RequestInit);
+            console.log(`[download-signals] ${label}: ${res.status}`);
+            if (res.ok) {
+                const content = await res.text();
+                return new NextResponse(content, {
+                    headers: { "Content-Type": "application/json" },
+                });
+            }
+        }
+    } catch (e) {
+        console.error("[download-signals] head() failed:", e);
     }
 
-    const content = await res.text();
-    return new NextResponse(content, {
-        headers: { "Content-Type": "application/json" },
-    });
+    return NextResponse.json({ error: "All download attempts failed" }, { status: 502 });
 }
