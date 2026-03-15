@@ -45,7 +45,9 @@ export default function StoryDetail({ story, index, total, onBack, publishDate }
     const keyPlayers = Array.isArray(sections.keyPlayers) ? sections.keyPlayers : [];
     const takeaways = Array.isArray(story?.takeaways) ? story.takeaways : [];
 
-    const fullText = String(story?.content?.story || story?.story || story?.narrative || "").replace(/\[object Object\]/g, "");
+    const fullText = String(story?.content?.story || story?.story || story?.narrative || "")
+        .replace(/\[object Object\]/g, "")
+        .replace(/\\n/g, "\n"); // normalize literal \n from LLM output
 
     const allChartItems = [
         { label: "Total Engagement", value: metrics.engagement },
