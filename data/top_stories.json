@@ -1,93 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-03-16T08:07:09.037Z",
+    "generatedAt": "2026-03-16T19:52:19.645Z",
     "totalCandidates": 83,
-    "solanaCandidates": 13,
+    "solanaCandidates": 10,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://decrypt.co/361074/florida-stablecoin-bill-mirrors-big-brother-tools-ron-desantis-cdbc-ban",
-      "title": "How Florida's Stablecoin Bill Mirrors 'Big Brother' Tools Outlawed Under Ron DeSantis' CDBC Ban",
-      "url": "https://decrypt.co/361074/florida-stablecoin-bill-mirrors-big-brother-tools-ron-desantis-cdbc-ban",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-15T15:27:46.000Z",
-      "summary": "The governor, who opposes CBDCs, appears poised to sign a regulatory framework for stablecoins in Florida.",
-      "tags": [
-        "florida",
-        "stablecoin",
-        "bill"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d5315c46fec3ee2e80c9a32d3dab7191bc77d81c",
-      "score": 20
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/03/14/brazil-industry-giants-representing-850-companies-decry-stablecoin-tax-threat",
-      "title": "Brazil industry giants representing 850 companies decry stablecoin tax threat",
-      "url": "https://www.coindesk.com/business/2026/03/14/brazil-industry-giants-representing-850-companies-decry-stablecoin-tax-threat",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-14T14:58:14.000Z",
-      "summary": "They argue the tax would be illegal, violating Brazil's Constitution and Virtual Assets Law, as stablecoins are not considered fiat currency.",
-      "tags": [
-        "brazil",
-        "industry",
-        "giants"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "57fb3b2ffa4db5903e4640c10871ac7b6583bbfc",
-      "score": 19
-    },
-    {
-      "id": "https://cointelegraph.com/news/wlfi-governance-vote-passes-stake-lock-up-incentives",
-      "title": "WLFI investors nod 6-month token lock-up rule in governance tweak",
-      "url": "https://cointelegraph.com/news/wlfi-governance-vote-passes-stake-lock-up-incentives",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-03-16T04:47:56.000Z",
-      "summary": "WLFI token holders must stake their tokens for at least 180 days to retain voting privileges under the recently passed proposal.",
+      "id": "https://ambcrypto.com/wlfi-governance-overhaul-approved-as-community-vote-passes-with-99-support",
+      "title": "WLFI governance overhaul approved as community vote passes with 99% support",
+      "url": "https://ambcrypto.com/wlfi-governance-overhaul-approved-as-community-vote-passes-with-99-support",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-16T15:38:03.000Z",
+      "summary": "World Liberty Financial’s governance proposal has passed with overwhelming support, clearing quorum and paving the way for staking-based governance.",
       "tags": [
         "wlfi",
-        "investors",
-        "month"
+        "governance",
+        "overhaul"
       ],
       "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -97,60 +31,60 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 19,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "71e0f757ef2ee388c3074371369561df357f29d1",
-      "score": 18
+      "dedupeFingerprint": "3305fb5bf6955cf94efd0a36bb3b46f66564b06c",
+      "score": 30
     },
     {
-      "id": "https://decrypt.co/361197/australia-senate-crypto-framework-latest-regulatory-push",
-      "title": "Australia Senate Panel Backs Crypto Framework in Latest Regulatory Push",
-      "url": "https://decrypt.co/361197/australia-senate-crypto-framework-latest-regulatory-push",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-16T04:57:57.000Z",
-      "summary": "The proposal would bring crypto platforms and custodians under Australia’s financial-services law, requiring operators that hold client tokens to obtain licences and meet new asset-safeguarding standards.",
-      "tags": [
-        "australia",
-        "senate",
-        "panel"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "0178335ea130a0e20d980e029925a40099f49522",
-      "score": 16
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/03/14/ai-developers-may-not-be-keen-on-crypto-but-stablecoins-are-the-secret-to-agentic-finance-crypto-insiders-say",
-      "title": "AI developers may not be keen on crypto, but stablecoins are the secret to agentic finance, crypto insiders say",
-      "url": "https://www.coindesk.com/business/2026/03/14/ai-developers-may-not-be-keen-on-crypto-but-stablecoins-are-the-secret-to-agentic-finance-crypto-insiders-say",
+      "id": "https://www.coindesk.com/tech/2026/03/16/trump-backed-wlfi-passes-proposal-letting-usd5-million-stakers-buy-direct-access-to-team",
+      "title": "Trump-backed WLFI passes proposal letting $5 million stakers buy 'direct access' to team",
+      "url": "https://www.coindesk.com/tech/2026/03/16/trump-backed-wlfi-passes-proposal-letting-usd5-million-stakers-buy-direct-access-to-team",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-14T14:00:00.000Z",
-      "summary": "The brave new world of autonomous, micro-transacting AI agents is where programmable cryptocurrencies will shine, according to stablecoin experts.",
+      "publishedAt": "2026-03-16T09:09:48.000Z",
+      "summary": "The governance vote passed with 99.12% approval from 1,800 voters, with 76% of tokens coming from just 10 wallets.",
       "tags": [
-        "developers",
-        "keen",
-        "crypto"
+        "trump",
+        "backed",
+        "wlfi"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "763ee0240d4b9da597040436d463b6d6177885f3",
+      "score": 25
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/03/16/circle-is-up-100-in-a-month-why-this-boring-stablecoin-is-suddenly-the-hottest-trade-in-crypto",
+      "title": "Circle is up 100% in a month: Why this boring stablecoin stock is suddenly the hottest trade in crypto",
+      "url": "https://www.coindesk.com/markets/2026/03/16/circle-is-up-100-in-a-month-why-this-boring-stablecoin-is-suddenly-the-hottest-trade-in-crypto",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-16T16:15:58.000Z",
+      "summary": "The stablecoin issuer has rallied as analysts point to growing demand for USDC, a higher interest-rate environment and the rapid expansion of tokenized assets.",
+      "tags": [
+        "circle",
+        "month",
+        "this"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -165,12 +99,78 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c8a966ba38c34bdd66dee8cc7210ed81385cfe5c",
+      "dedupeFingerprint": "3e8f3978dd54180abe3c6af6aee5d93df0e320fb",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/solana-flips-90-support-sols-rally-to-100-possible-only-if",
+      "title": "Solana flips $90 support – SOL’s rally to $100 possible ONLY IF…",
+      "url": "https://ambcrypto.com/solana-flips-90-support-sols-rally-to-100-possible-only-if",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-16T11:00:36.000Z",
+      "summary": "Exchange outflows supported the bullish case, with over $300M leaving exchanges in 24 hours.",
+      "tags": [
+        "solana",
+        "flips",
+        "support"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "36110652ae07d66af432b878d9504b05c5828a73",
+      "score": 21
+    },
+    {
+      "id": "https://messari.io/article/state-of-stellar-q4-2025",
+      "title": "State of Stellar Q4 2025",
+      "url": "https://messari.io/article/state-of-stellar-q4-2025",
+      "source": "Messari",
+      "publishedAt": "2026-03-16T13:00:00.000Z",
+      "summary": "The RWA market cap on Stellar (excluding stablecoins) surpassed $1 billion on Jan. 21, and increased 184% in 2025 from $301 million to $855 million. Moreover, the stablecoin market cap on Stellar increased 53% year-over-year from $159 million to $244 million, driven by PayPal’s PYUSD launch on the n",
+      "tags": [
+        "state",
+        "stellar",
+        "2025"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 6,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "7c3a0d1f6045f0dc574c3207b5d639df8fb5bbc0",
       "score": 19
     }
   ]
