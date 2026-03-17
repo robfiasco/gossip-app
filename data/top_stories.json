@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-03-17T07:52:53.259Z",
-    "totalCandidates": 92,
-    "solanaCandidates": 13,
+    "generatedAt": "2026-03-17T19:53:34.729Z",
+    "totalCandidates": 94,
+    "solanaCandidates": 24,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/tech/2026/03/16/trump-backed-wlfi-passes-proposal-letting-usd5-million-stakers-buy-direct-access-to-team",
-      "title": "Trump-backed WLFI passes proposal letting $5 million stakers buy 'direct access' to team",
-      "url": "https://www.coindesk.com/tech/2026/03/16/trump-backed-wlfi-passes-proposal-letting-usd5-million-stakers-buy-direct-access-to-team",
+      "id": "https://www.coindesk.com/policy/2026/03/17/phantom-wins-cftc-no-action-relief-clearing-path-for-crypto-wallet-access-to-regulated-derivatives-markets",
+      "title": "Popular Solana wallet Phantom wins CFTC nod to access regulated derivatives markets",
+      "url": "https://www.coindesk.com/policy/2026/03/17/phantom-wins-cftc-no-action-relief-clearing-path-for-crypto-wallet-access-to-regulated-derivatives-markets",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-16T09:09:48.000Z",
-      "summary": "The governance vote passed with 99.12% approval from 1,800 voters, with 76% of tokens coming from just 10 wallets.",
+      "publishedAt": "2026-03-17T15:06:21.000Z",
+      "summary": "This means Phantom can act as a non-custodial interface connecting users to registered derivatives platforms, removing the need for broker registration under specific conditions.",
       "tags": [
-        "trump",
-        "backed",
-        "wlfi"
+        "popular",
+        "solana",
+        "wallet"
       ],
       "topicBucket": "consumer",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,29 +31,95 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "763ee0240d4b9da597040436d463b6d6177885f3",
+      "dedupeFingerprint": "f3dfbf9f41896f83332b6f0e663b43e4caf2a10a",
+      "score": 27
+    },
+    {
+      "id": "https://ambcrypto.com/solana-records-6-week-inflow-streak-but-this-level-is-key-for-sol",
+      "title": "Solana records 6-week inflow streak, but THIS level is key for SOL",
+      "url": "https://ambcrypto.com/solana-records-6-week-inflow-streak-but-this-level-is-key-for-sol",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-17T17:00:13.000Z",
+      "summary": "Solana sees $9.1M inflows as buyers dominate after a successful breakout from a wedge consolidation pattern.",
+      "tags": [
+        "solana",
+        "records",
+        "week"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "f8dea038eac40f9c85c60ab67bf546c32c5b9f33",
       "score": 24
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/03/16/circle-is-up-100-in-a-month-why-this-boring-stablecoin-is-suddenly-the-hottest-trade-in-crypto",
-      "title": "Circle is up 100% in a month: Why this stablecoin stock is suddenly the hottest trade in crypto",
-      "url": "https://www.coindesk.com/markets/2026/03/16/circle-is-up-100-in-a-month-why-this-boring-stablecoin-is-suddenly-the-hottest-trade-in-crypto",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-16T16:15:58.000Z",
-      "summary": "The stablecoin issuer has rallied as analysts point to growing demand for USDC, a higher interest-rate environment and the rapid expansion of tokenized assets.",
+      "id": "https://www.theblock.co/post/393955/aster-token-privacy-preserving-blockchain-dex-mainnet",
+      "title": "ASTER token rallies as privacy-preserving native blockchain powering DEX mainnets",
+      "url": "https://www.theblock.co/post/393955/aster-token-privacy-preserving-blockchain-dex-mainnet",
+      "source": "The Block",
+      "publishedAt": "2026-03-17T16:21:32.000Z",
+      "summary": "Aster Chain supports 50ms block times, 100,000 TPS, as well as cross-chain deposits between BNB Chain, Arbitrum, Ethereum and Solana.",
       "tags": [
-        "circle",
-        "month",
-        "this"
+        "aster",
+        "token",
+        "rallies"
       ],
       "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2b2105463167f85d536bd77cfc9842fde6b52fd4",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/393929/cftc-wont-pursue-broker-registration-phantom-derivatives-trading",
+      "title": "CFTC won’t pursue broker registration action against Phantom over derivatives trading feature",
+      "url": "https://www.theblock.co/post/393929/cftc-wont-pursue-broker-registration-phantom-derivatives-trading",
+      "source": "The Block",
+      "publishedAt": "2026-03-17T14:46:13.000Z",
+      "summary": "The CFTC considers Phantom’s proposed feature as a passive software interface, with users trading directly through regulated brokers.",
+      "tags": [
+        "cftc",
+        "pursue",
+        "broker"
+      ],
+      "topicBucket": "consumer",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -66,60 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3e8f3978dd54180abe3c6af6aee5d93df0e320fb",
-      "score": 21
+      "dedupeFingerprint": "7416a73001327b5f81c6c2664a193ddbc5d7c9ab",
+      "score": 22
     },
     {
-      "id": "https://messari.io/article/state-of-stellar-q4-2025",
-      "title": "State of Stellar Q4 2025",
-      "url": "https://messari.io/article/state-of-stellar-q4-2025",
-      "source": "Messari",
-      "publishedAt": "2026-03-16T13:00:00.000Z",
-      "summary": "The RWA market cap on Stellar (excluding stablecoins) surpassed $1 billion on Jan. 21, and increased 184% in 2025 from $301 million to $855 million. Moreover, the stablecoin market cap on Stellar increased 53% year-over-year from $159 million to $244 million, driven by PayPal’s PYUSD launch on the n",
-      "tags": [
-        "state",
-        "stellar",
-        "2025"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 6,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "7c3a0d1f6045f0dc574c3207b5d639df8fb5bbc0",
-      "score": 18
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future",
-      "title": "AI-linked crypto tokens surge as Nvidia's Jensen Huang touts agentic future",
-      "url": "https://www.coindesk.com/markets/2026/03/16/ai-linked-crypto-tokens-surge-as-nvidia-s-jensen-huang-touts-agentic-future",
+      "id": "https://www.coindesk.com/markets/2026/03/17/gensler-and-biden-were-just-better-for-crypto-says-tally-ceo-as-dao-governance-platform-shuts-down",
+      "title": "'Gensler and Biden were just better for crypto,' says Tally CEO as DAO governance platform shuts down",
+      "url": "https://www.coindesk.com/markets/2026/03/17/gensler-and-biden-were-just-better-for-crypto-says-tally-ceo-as-dao-governance-platform-shuts-down",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-16T22:20:35.000Z",
-      "summary": "CEO Jensen Huang predicted $1 trillion in chip demand through 2027 and praised OpenClaw and the rapid rise of agentic AI systems.",
+      "publishedAt": "2026-03-17T14:30:00.000Z",
+      "summary": "End of DAOs? Firm behind Uniswap and Arbitrum governance says easing regulation made decentralization optional",
       "tags": [
-        "linked",
-        "crypto",
-        "tokens"
+        "gensler",
+        "biden",
+        "were"
       ],
-      "topicBucket": "general",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -130,48 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5dc487369d057ee18cb9c221ed3c136f29c2ebb2",
-      "score": 17
-    },
-    {
-      "id": "https://cointelegraph.com/news/defi-education-fund-withdraws-sec-lawsuit-crypto-airdrops-shift",
-      "title": "DeFi lobby drops airdrop lawsuit against SEC, citing crypto shift",
-      "url": "https://cointelegraph.com/news/defi-education-fund-withdraws-sec-lawsuit-crypto-airdrops-shift",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-03-17T06:11:50.000Z",
-      "summary": "The voluntary dismissal was filed without prejudice, meaning Beba and the DeFi Education Fund could refile the same case at a later date.",
-      "tags": [
-        "defi",
-        "lobby",
-        "drops"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "790cf92f7a709ba19f3c83cc2203cc202628799e",
-      "score": 15
+      "dedupeFingerprint": "acd03c811eaaa3460bc64be657d6ebbf327fde0c",
+      "score": 22
     }
   ]
 }
