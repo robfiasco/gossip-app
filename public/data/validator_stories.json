@@ -1,178 +1,120 @@
 {
-  "generated_at": "2026-03-16T13:44:05.088Z",
+  "generated_at": "2026-03-17T13:44:22.937Z",
   "global_metrics": {
-    "total_tweets": 60,
-    "total_engagement": 32533,
-    "unique_voices": 22,
-    "top_tweet": 5944
+    "total_tweets": 59,
+    "total_engagement": 31435,
+    "unique_voices": 20,
+    "top_tweet": 4271
   },
   "items": [
     {
-      "id": "story_1773668570078_0",
-      "title": "Solana Turns Six: Growth, Upgrades, and New Security Risks",
+      "id": "story_1773755013869_0",
+      "title": "Solana USDC-to-Cash ATM Use Raises Security Questions",
       "type": "critical",
       "category": "Security / Risk Alert",
-      "author": "@solana",
-      "timestamp": "2026-03-16T13:42:50.078Z",
+      "author": "@jussy_world",
+      "timestamp": "2026-03-17T13:43:33.869Z",
       "metrics": {
-        "tweets": 48,
-        "engagement": 29002,
-        "topTweet": 5944,
-        "voices": 16,
+        "tweets": 49,
+        "engagement": 29337,
+        "topTweet": 4271,
+        "voices": 15,
         "engagementTrend": [
-          11601,
-          15951,
-          19721,
-          23782,
-          29002
+          11735,
+          16135,
+          19949,
+          24056,
+          29337
         ]
       },
       "ctPulse": [
-        {
-          "handle": "@solana",
-          "thought": "Happy 6th birthday Solana fam.\n\nThey said quit. The builders stayed. \nThey said it's dead. The code persisted. \nThey said move on. The network's never been stronger.\n\nJust one more hard quarter. https",
-          "url": "https://twitter.com/solana/status/2033496751806583096"
-        },
         {
           "handle": "@jussy_world",
           "thought": "I landed in Thailand\n\nFirst thing I needed was cash\n\nTook my USDC on @solana, used @AviciMoney\n\nWithdrew from the first ATM I found in 1 minute\n\nDone\n\nUSDC on Solana to cash 💸\n\nThat's the future of f",
           "url": "https://twitter.com/jussy_world/status/2032874254438642173"
         },
         {
-          "handle": "@solana",
-          "thought": "Nasdaq's tokenized equity markets getting a bridge into Solana DeFi. A global insurance broker settling premiums in stablecoins. An AI agent running prediction markets and ordering you dinner from a s",
-          "url": "https://twitter.com/solana/status/2033193291647434821"
-        },
-        {
-          "handle": "@solana",
-          "thought": "Everybody is coming to Solana\n\n- @Pedromiranda, Head of Consumer at @SolanaFndn https://t.co/JakONhM1CB",
-          "url": "https://twitter.com/solana/status/2033123762191905130"
-        },
-        {
-          "handle": "@toly",
+          "handle": "@therealchaseeb",
           "thought": "RT @solana: Happy 6th birthday Solana fam.\n\nThey said quit. The builders stayed. \nThey said it's dead. The code persisted. \nThey said move…",
-          "url": "https://twitter.com/toly/status/2033531448305828034"
+          "url": "https://twitter.com/therealchaseeb/status/2033528642605858876"
+        },
+        {
+          "handle": "@vibhu",
+          "thought": "RT @solana: Happy 6th birthday Solana fam.\n\nThey said quit. The builders stayed. \nThey said it's dead. The code persisted. \nThey said move…",
+          "url": "https://twitter.com/vibhu/status/2033543095271219579"
+        },
+        {
+          "handle": "@solana",
+          "thought": "\"The mature self-custody solution on Solana three years from now looks invisible. Users won't even know they're interacting with crypto.\"\n\n@vidor_solflare on the future of self-custody on Solana. It's",
+          "url": "https://twitter.com/solana/status/2033819894672945412"
+        },
+        {
+          "handle": "@SolSlaycom",
+          "thought": "🎉 2,500 Followers Giveaway ! 🎉\n \n🎁 Prize: 0.25 Solana ( $SOL ) | 1 Winner \n \n🎊 We just reached 2,500 followers on X, and to celebrate we’re giving away 0.25 Solana (#SOL)!\n \nHow to participate:\n1️",
+          "url": "https://twitter.com/SolSlaycom/status/2033241117005656138"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@SolanaSensei",
-          "reason": "Provides technical insights and ecosystem updates.",
-          "role": "Analyst",
-          "engagement": 11761
+          "handle": "@jussy_world",
+          "reason": "Shares first-hand experiences with Solana-based financial tools",
+          "role": "Community",
+          "engagement": 7097
         },
         {
-          "handle": "@jussy_world",
-          "reason": "Shares real-world use cases and protocol fee data.",
-          "role": "Community",
-          "engagement": 5218
+          "handle": "@AviciMoney",
+          "reason": "Enables USDC-to-cash ATM withdrawals on Solana",
+          "role": "Builder",
+          "engagement": 5795
         }
       ],
       "content": {
-        "signal": "Solana’s sixth anniversary highlights rapid ecosystem growth, major protocol upgrades, and new security considerations as usage and integrations surge.",
-        "story": "Solana just marked its sixth birthday, and the network is showing signs of both maturity and rapid expansion. The past week saw a wave of ecosystem milestones, including real-world payments, new protocol upgrades, and record-breaking usage stats. But as Solana cements its place in the crypto landscape, the pace of change brings new risks and open questions for users and builders alike.\n\n### What's Happening\nSolana’s network activity is hitting new highs, with over 518 billion transactions processed and $2.6 trillion in decentralized exchange volume to date. Stablecoin usage is up, and real-world use cases—like instant USDC-to-cash withdrawals in Thailand—are moving from theory to practice. The ecosystem’s top protocols are generating tens of millions in fees, and major integrations with financial heavyweights like Mastercard and Nasdaq are underway.\n\nA major technical upgrade is also on the horizon. The upcoming P-token (SIMD-266) update, set to replace the current SPL Token program, promises to make on-chain operations cheaper and faster by reducing compute requirements. This is expected to lower transaction fees even further, reinforcing Solana’s reputation for speed and cost efficiency.\n\n### Why It Matters\nSolana’s ability to process high transaction volumes at low cost is attracting both users and developers. The network’s growth isn’t just speculative—real products and payments are being used globally. The success of protocols like Jupiter, Pump.fun, and Helium (now boasting millions of users and over 127,000 deployed hotspots) signals that Solana is supporting genuine economic activity, not just hype cycles.\n\nThe network’s integration with traditional finance—tokenized equities, insurance settlements, and stablecoin payments—suggests a strategic push to bridge crypto with mainstream financial infrastructure. If successful, this could position Solana as a core settlement layer for both Web3 and legacy systems. The approval and upcoming deployment of the P-token upgrade also shows that the ecosystem can adapt quickly to technical challenges and user needs.\n\n### The Risk or Debate\nRapid growth and protocol changes come with real risks. As Solana’s transaction volume and user base expand, so does its attack surface. New integrations with financial institutions and the introduction of major upgrades like P-token increase the complexity of the network, potentially exposing new vulnerabilities. The transition to a new token program, while promising lower fees, will require careful monitoring for bugs or security lapses that could impact funds or network stability.\n\nThere’s also debate about whether Solana can maintain its low fees and high throughput as adoption scales further. The network’s history of outages and congestion is fresh in the minds of many users, and each new milestone raises the stakes for reliability and security.\n\n### What To Watch\nThe rollout of the P-token upgrade in April will be a key test for Solana’s ability to deliver on its promises of efficiency and cost savings without sacrificing security. Watch for how quickly major protocols and wallets migrate to the new standard, and whether any issues emerge during the transition.\n\nContinued growth in real-world usage—especially payments, stablecoins, and tokenized assets—will signal whether Solana can move beyond crypto-native circles. At the same time, keep an eye on how the network handles increased load and whether new vulnerabilities are discovered as complexity grows. The next quarter will be critical for proving Solana’s resilience as both a technical platform and a financial backbone.",
+        "signal": "Solana-based USDC can now be converted to cash at ATMs in Thailand within minutes, highlighting new convenience and risk vectors.",
+        "story": "A Solana user recently landed in Thailand and converted USDC to local cash at an ATM within a minute using AviciMoney, demonstrating how crypto rails are merging with traditional finance in real-world settings. This seamless experience marks a milestone for Solana’s vision of invisible, user-friendly crypto infrastructure, where interacting with digital assets feels indistinguishable from legacy banking.\n\n### What's Happening\n\nSolana’s low transaction fees and fast settlement are enabling new use cases, including instant stablecoin-to-cash withdrawals at physical ATMs. AviciMoney, leveraging Solana’s network, allows users to move USDC from their wallets directly to fiat in a matter of minutes. This is not just a technical demonstration; it’s a real-world example of crypto neobanks and payment rails competing to offer the most frictionless user experience.\n\nThe broader Solana ecosystem is seeing rapid development in consumer-facing products. Protocols and neobanks are racing to provide features like zero top-up fees, cashback, and global card support. The network’s low fees—about $0.004 per transaction—make these services economically viable at scale, supporting both high-frequency and micro-transaction use cases.\n\n### Why It Matters\n\nDirect USDC-to-cash conversion at ATMs signals a shift in how digital assets can be used for everyday needs, especially for travelers and unbanked populations. This level of integration with traditional finance is a step toward Solana’s goal of making self-custody and crypto usage invisible to the end user. The ability to access funds globally, without reliance on local banking infrastructure, could reshape remittances and cross-border payments.\n\nThe competitive landscape among Solana-based neobanks is intensifying. Each is offering differentiated features to attract users, from cashback to global acceptance and airdrops. This competition is likely to accelerate innovation and drive broader adoption, as more users experience the practical benefits of blockchain-based finance.\n\n### The Risk or Debate\n\nThe rapid bridge between crypto and fiat introduces new security and compliance risks. Instant access to cash from stablecoins raises questions about anti-money laundering controls, user privacy, and the robustness of backend integrations. If a vulnerability exists in the ATM integration or the neobank’s custody model, user funds could be at risk. There is also uncertainty around regulatory responses as these services scale and attract more attention from authorities.\n\nAnother concern is user education. As crypto rails become more invisible, users may not fully understand the risks associated with custody, transaction finality, or potential service outages. The ease of use could mask underlying complexities, making it harder for users to assess the safety of their funds.\n\n### What To Watch\n\nMonitor how ATM integrations expand geographically and whether more neobanks adopt similar Solana-based solutions. Watch for any reported security incidents or regulatory pushback as cash-out services grow. Pay attention to how Solana projects address compliance and user safety, especially as new APIs and aggregation tools are released. The next phase will likely focus on making these services even more seamless, while balancing transparency and user protection.",
         "takeaways": [
-          "Solana is experiencing record usage, real-world adoption, and major protocol upgrades as it turns six.",
-          "The upcoming P-token upgrade aims to lower transaction fees and improve network efficiency.",
-          "Rapid growth and technical changes introduce new security and reliability risks that require close monitoring."
+          "Solana users can now convert USDC to cash at ATMs in Thailand within minutes.",
+          "Low transaction fees and fast settlement are enabling new consumer financial products on Solana.",
+          "Direct crypto-to-cash access raises new security and compliance risks as adoption grows."
         ]
       },
       "riskLevel": "medium",
       "narrativeStrength": 9.5
     },
     {
-      "id": "story_1773668583670_1",
-      "title": "Solana Neobanks Compete on Fees, Cashback, and Transparency",
-      "type": "alpha",
-      "category": "Airdrop Strategy",
-      "author": "@jussy_world",
-      "timestamp": "2026-03-16T13:43:03.670Z",
-      "metrics": {
-        "tweets": 4,
-        "engagement": 2163,
-        "topTweet": 819,
-        "voices": 3,
-        "engagementTrend": [
-          865,
-          1190,
-          1471,
-          1774,
-          2163
-        ]
-      },
-      "ctPulse": [
-        {
-          "handle": "@jussy_world",
-          "thought": "Crypto neobanks are competing to become and offer THE BEST\n\nSo I compared them:\n\n@JupGlobal\n\n0% top-up fee\nVisa may charge 0.4% - 1%, there no transaction fee or fx fee\nUp to 10% USDC cashback, QR pay",
-          "url": "https://twitter.com/jussy_world/status/2032871247495967029"
-        },
-        {
-          "handle": "@solana",
-          "thought": "RT @jussy_world: I landed in Thailand\n\nFirst thing I needed was cash\n\nTook my USDC on @solana, used @AviciMoney\n\nWithdrew from the first AT…",
-          "url": "https://twitter.com/solana/status/2032911526877704553"
-        },
-        {
-          "handle": "@jussy_world",
-          "thought": "So far, @JupGlobal is the most transparent neobank I’ve used\n\nThey show you exactly what you’re paying and why\n\nNo hidden fees\n\nExample from my last purchase:\n\n• Coffee: $6.81 + Visa FX fee (~0.4–1%) ",
-          "url": "https://twitter.com/jussy_world/status/2033118522902298708"
-        },
-        {
-          "handle": "@solanapayments",
-          "thought": "RT @jussy_world: Crypto neobanks are competing to become and offer THE BEST\n\nSo I compared them:\n\n@JupGlobal\n\n0% top-up fee\nVisa may charge…",
-          "url": "https://twitter.com/solanapayments/status/2033037541465616669"
-        }
-      ],
-      "whoToFollow": [
-        {
-          "handle": "@jussy_world",
-          "reason": "Provides hands-on comparisons and user insights into Solana neobanks.",
-          "role": "Analyst",
-          "engagement": 1219
-        },
-        {
-          "handle": "@JupGlobal",
-          "reason": "Key builder in the Solana neobank space, setting standards for transparency.",
-          "role": "Builder",
-          "engagement": 808
-        }
-      ],
-      "content": {
-        "signal": "Solana-based crypto neobanks are aggressively competing on low fees, transparency, and user rewards to capture global users.",
-        "story": "Solana-native neobanks are ramping up competition, each aiming to deliver the most compelling blend of low fees, transparent pricing, and real-world utility. Recent user comparisons highlight how platforms like Jupiter Global, KAST, and Avici are differentiating themselves in the race to become the go-to crypto banking solution.\n\n### What's Happening\n\nUsers are actively comparing Solana-powered neobanks on core features: top-up fees, transaction costs, cashback, and geographic reach. Jupiter Global stands out for its zero top-up fees and clear, upfront disclosure of all charges. KAST offers similar zero top-up fees, but with slightly higher non-USD transaction fees. Both platforms leverage Visa rails, meaning users may still face standard Visa FX fees, but the neobanks themselves are minimizing or eliminating their own charges.\n\nCashback and rewards are also becoming a key battleground. Jupiter Global advertises up to 10% USDC cashback and QR payment support, while KAST offers cashback, airdrops, and even a physical card. Real-world use cases are emerging, such as travelers withdrawing local cash from ATMs using USDC on Solana, demonstrating practical adoption beyond speculation.\n\n### Why It Matters\n\nThis competition signals a maturing Solana ecosystem, where user experience and cost transparency are now central to product differentiation. By stripping away hidden fees and surfacing all costs, these neobanks are targeting crypto-native users frustrated with legacy banking friction. The focus on rewards and international usability also positions Solana neobanks as viable alternatives for global users, especially those underserved by traditional banks.\n\nFor the broader ecosystem, this trend could drive more stablecoin usage and on-chain activity, as users find it easier and cheaper to move between fiat and crypto. The push for transparency may also set new standards for how crypto financial products disclose fees and handle user funds.\n\n### The Risk or Debate\n\nDespite the advantages, users remain exposed to standard Visa fees and FX charges, which are outside the neobanks' control. There is also a risk that aggressive cashback or airdrop incentives may not be sustainable long-term, especially if user acquisition costs outpace revenue. Regulatory uncertainty around crypto banking, stablecoins, and cross-border payments could also impact service continuity or expansion into new markets.\n\nTransparency claims will be tested as these platforms scale. Any hidden costs or sudden changes in fee structures could erode user trust quickly. Additionally, the reliance on third-party payment rails like Visa introduces dependencies that may limit how much control neobanks have over the total user experience.\n\n### What To Watch\n\nWatch for further product differentiation, especially around rewards, geographic expansion, and integration with local payment systems. User feedback on transparency and actual fee experiences will be critical in shaping reputations. Regulatory developments, particularly in the US and major international markets, could accelerate or constrain growth. Finally, expect other Solana projects to enter the neobank race, raising the bar for user experience and cost competitiveness.",
-        "takeaways": [
-          "Solana neobanks are competing on low fees, transparency, and global usability.",
-          "Jupiter Global and KAST both offer zero top-up fees, but Visa FX fees still apply.",
-          "Cashback, airdrops, and real-world payment options are driving user adoption."
-        ]
-      },
-      "riskLevel": "medium",
-      "narrativeStrength": 5
-    },
-    {
-      "id": "story_1773668645088_2",
-      "title": "Meteora’s AI Agents Drive Surging LP Fee Generation",
+      "id": "story_1773755034512_1",
+      "title": "Solana Projects Double Down on Points and Agent Activity",
       "type": "alpha",
       "category": "AI / Agents",
       "author": "@SolanaSensei",
-      "timestamp": "2026-03-16T13:44:05.088Z",
+      "timestamp": "2026-03-17T13:43:54.512Z",
       "metrics": {
-        "tweets": 8,
-        "engagement": 1368,
-        "topTweet": 567,
-        "voices": 3,
+        "tweets": 9,
+        "engagement": 1514,
+        "topTweet": 438,
+        "voices": 4,
         "engagementTrend": [
-          547,
-          752,
-          930,
-          1122,
-          1368
+          606,
+          833,
+          1030,
+          1241,
+          1514
         ]
       },
       "ctPulse": [
         {
           "handle": "@SolanaSensei",
-          "thought": "Meteora's stats are insane, they generate:\n\n- $41 per sec\n- $2,491 per min\n- $149,473 per hour\n\n90.75% of this goes directly to liquidity providers! https://t.co/pUzSpacypc",
-          "url": "https://twitter.com/SolanaSensei/status/2032797406241452339"
+          "thought": "I just realized almost every new project on solana is running a point system\n\n- xStocks\n- OROgold\n- Reflect money\n- xPlace\n- Lince\n- Kast\n- Pacifica\n- OnRe\n- piggybank\n\nWe still have bunch that's been",
+          "url": "https://twitter.com/SolanaSensei/status/2033611273381019676"
+        },
+        {
+          "handle": "@SolanaSensei",
+          "thought": "RWA's on Kamino have reached $1B in market size with 6 active markets, growing from nearly $0 in just one year!\n\nIncredible performance. https://t.co/du45oLNEMZ",
+          "url": "https://twitter.com/SolanaSensei/status/2033196029601067470"
+        },
+        {
+          "handle": "@SolanaSensei",
+          "thought": "The volume per active address on Meteora has more than tripled since January, rising from ~$800 to $2800!\n\nInteresting fact right there. https://t.co/Qh5VpCNQn7",
+          "url": "https://twitter.com/SolanaSensei/status/2033566494093922465"
         },
         {
           "handle": "@0xyunss",
@@ -180,46 +122,89 @@
           "url": "https://twitter.com/0xyunss/status/2033361357413011776"
         },
         {
-          "handle": "@0xyunss",
-          "thought": "3 hari ini gua sibuk vibecoding agent buat jalan DLMM multihour di @MeteoraAG sendiri.\n\ngua train dia pake data dari lpagent, biar dia bisa baca pola top LP di pool yang dia analisa. \n\nterus gua tamba",
-          "url": "https://twitter.com/0xyunss/status/2032650674614284421"
-        },
-        {
           "handle": "@met_lparmy",
-          "thought": "Top performing pools on Meteora today, sorted by 24h Fee.\n\nDid you print any fees today? https://t.co/3Gaqqrutuh",
-          "url": "https://twitter.com/met_lparmy/status/2032893601013772757"
-        },
-        {
-          "handle": "@met_lparmy",
-          "thought": "Top 3 fee-printing pools LPs are entering on @MeteoraAG in the last 24 hours:\n\n1. SOS-SOL 250/2%: https://t.co/VTCgNty6uC\n2. Rosie-SOL 100/2%: https://t.co/YqRLm1F5Az\n3. MEMECARD-SOL 200/2%: https://t",
-          "url": "https://twitter.com/met_lparmy/status/2033264069797421450"
+          "thought": "Top 3 fee-printing pools LPs are entering on @MeteoraAG in the last 24 hours:\n\n1. INCOME-SOL 100/2%: https://t.co/GSZxZqpvDV\n\n2. SOS-SOL 250/2%: https://t.co/VTCgNty6uC\n\n3. Rosie-SOL 100/2%: https://t",
+          "url": "https://twitter.com/met_lparmy/status/2033649094934122794"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@0xyunss",
-          "reason": "Shares detailed insights and results from building and deploying DLMM agents on Meteora.",
-          "role": "Builder",
-          "engagement": 567
+          "handle": "@SolanaSensei",
+          "reason": "Tracks Solana trends, points systems, and RWA growth.",
+          "role": "Analyst",
+          "engagement": 961
         },
         {
           "handle": "@met_lparmy",
-          "reason": "Tracks top-performing pools and provides verified data on fee generation.",
-          "role": "Analyst",
-          "engagement": 482
+          "reason": "Shares insights on liquidity provision and agent strategies on Meteora.",
+          "role": "Community",
+          "engagement": 276
         }
       ],
       "content": {
-        "signal": "Meteora’s liquidity pools are generating high fees, with AI-driven agent strategies delivering strong results for LPs.",
-        "story": "Meteora’s liquidity pools are seeing a surge in fee generation, with recent stats showing $41 per second, $2,491 per minute, and $149,473 per hour in fees. Over 90% of these fees are being distributed directly to liquidity providers. This growth is being fueled by advanced agent strategies, including AI-powered approaches that adapt and optimize liquidity positions in real time.\\n\\nWhat's Happening\\n\\nBuilders and traders are deploying agent-driven strategies on Meteora, particularly through Dynamic Liquidity Market Making (DLMM). These agents are learning from top-performing LPs, experimenting with different strategies, and adjusting positions based on live data. Examples include classic bid-ask setups, evolving to spot strategies, and adjusting bin ranges to optimize for fee capture and impermanent loss management. Some agents are trained on historical data from successful LPs, allowing them to recognize patterns and act more autonomously.\\n\\nTop-performing pools over the last 24 hours include pairs like SOS-SOL, Rosie-SOL, MEMECARD-SOL, and TRUMP-USDC, with LPs reporting consistent profits and high fee yields. Traders are sharing results from multi-day positions, noting that patience and well-chosen ranges can yield double-digit percentage returns, even after periods of drawdown.\\n\\nWhy It Matters\\n\\nThe rapid adoption of agent-driven strategies on Meteora signals a shift in how liquidity is managed on Solana. By leveraging AI and data-driven frameworks, LPs are able to automate complex decision-making and respond to market changes faster than manual strategies allow. This increases capital efficiency and can attract more liquidity to the platform.\\n\\nHigh fee generation and direct distribution to LPs make Meteora an attractive venue for both experienced and newer participants. The ability for agents to learn from top LPs and adapt strategies in real time could set a new standard for liquidity management across the Solana ecosystem. This also demonstrates the growing sophistication of DeFi tooling, where automation and AI are becoming core components of trading and liquidity provision.\\n\\nThe Risk or Debate\\n\\nWhile agent-driven strategies are delivering strong results, there are risks. Over-optimization or reliance on historical data can expose LPs to changing market conditions that the agent may not anticipate. Impermanent loss remains a factor, and not all strategies will perform equally across different tokens or market environments. There is also a learning curve for users to deploy and monitor these agents effectively.\\n\\nWhat To Watch\\n\\nThe next phase to monitor is whether agent-driven LP strategies continue to outperform manual approaches as market conditions evolve. Watch for further innovation in agent frameworks, new pools attracting significant liquidity, and any shifts in fee distribution or pool performance. Community discussions and shared data on agent results will likely shape best practices and highlight emerging risks or opportunities.",
+        "signal": "A surge of new Solana projects are launching with point systems, while agent-driven liquidity strategies and real-world asset growth are reshaping the ecosystem.",
+        "story": "Solana’s latest wave of projects is converging around a common theme: nearly every new launch is running a points system. From xStocks and OROgold to Reflect Money and Lince, the trend is unmistakable. At the same time, established protocols like Meteora and Kamino are seeing record activity in both liquidity provision and real-world asset (RWA) markets, with agents and automated strategies playing a growing role.\n\n### What's Happening\n\nPoints systems have become the default for new Solana projects. These systems reward users for activity, engagement, or liquidity, often with the expectation of future token allocations or perks. The list of projects using points is growing fast, and even after token generation events (TGEs), some protocols continue to run or evolve their points programs.\n\nMeanwhile, on-chain liquidity platforms like Meteora are seeing a spike in both user sophistication and capital flows. Notably, agent-driven strategies—where bots or automated agents adaptively manage liquidity positions—are gaining traction. Some agents are now learning from top liquidity providers and adjusting strategies in real time, resulting in consistently profitable positions. This is changing how liquidity is provided and how fees are earned.\n\nKamino, another major player, has seen its RWA markets balloon to $1 billion in size within a year, signaling rapid adoption of tokenized real-world assets on Solana. At the same time, volume per active address on Meteora has more than tripled since January, pointing to deeper engagement by users and LPs.\n\n### Why It Matters\n\nThe points meta is more than a marketing tactic—it’s become a core mechanic for user acquisition and retention across Solana. For builders, it offers a way to bootstrap communities and incentivize early activity. For users, points represent a potential claim on future value, driving engagement even before tokens are live.\n\nThe rise of agent-driven liquidity provision is equally significant. As agents become more sophisticated, they can optimize for fee generation and risk management, potentially leveling the playing field between professional and retail LPs. This could make Solana’s liquidity markets more efficient and accessible.\n\nRWA growth on Kamino and increased activity on Meteora suggest that Solana is becoming a serious venue for both DeFi innovation and real-world asset integration. These trends reinforce the chain’s position as a fast-moving, experimental ecosystem where new models are tested at scale.\n\n### The Risk or Debate\n\nThe proliferation of points systems raises questions about sustainability and user expectations. If every project offers points, the novelty—and perceived value—may diminish. There’s also the risk of users farming points across multiple projects without genuine engagement, which could dilute community quality or lead to abrupt sell-offs when rewards are distributed.\n\nAgent-driven strategies introduce new forms of complexity and potential centralization. If a handful of sophisticated agents dominate liquidity provision, smaller LPs may be crowded out or face increased risk. The rapid growth of RWA markets also brings regulatory and operational uncertainties that could impact long-term adoption.\n\n### What To Watch\n\nExpect more projects to launch with points programs, but watch for signs of fatigue or innovation in how these systems are structured. The evolution of agent-based liquidity provision is worth tracking, especially as agents become more autonomous and adaptive. Keep an eye on Kamino’s RWA markets for signs of sustained growth or regulatory pushback, and monitor whether the surge in volume per address on Meteora translates into lasting user engagement.\n\nSolana’s current cycle is defined by experimentation—how these trends play out will shape the next phase of the ecosystem.",
         "takeaways": [
-          "Meteora pools are generating over $149,000 in fees per hour, with most fees going to LPs.",
-          "AI-driven agent strategies are enabling LPs to adapt quickly and optimize returns.",
-          "Top pools and agent frameworks are setting new standards for automated liquidity management on Solana."
+          "Most new Solana projects are launching with points systems to drive engagement.",
+          "Agent-driven liquidity strategies are becoming more advanced and profitable on platforms like Meteora.",
+          "Kamino's real-world asset markets have reached $1B, highlighting rapid growth in this segment."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 5.1
+      "narrativeStrength": 5.3
+    },
+    {
+      "id": "story_1773755062937_2",
+      "title": "Solana Captures Spotlight in Crypto Discourse",
+      "type": "alpha",
+      "category": "Ecosystem Updates",
+      "author": "@solana",
+      "timestamp": "2026-03-17T13:44:22.937Z",
+      "metrics": {
+        "tweets": 1,
+        "engagement": 584,
+        "topTweet": 584,
+        "voices": 1,
+        "engagementTrend": [
+          234,
+          321,
+          397,
+          479,
+          584
+        ]
+      },
+      "ctPulse": [
+        {
+          "handle": "@solana",
+          "thought": "RT @moonpay: SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA SOLANA…",
+          "url": "https://twitter.com/solana/status/2033557228960281059"
+        }
+      ],
+      "whoToFollow": [
+        {
+          "handle": "@solana",
+          "reason": "Official updates and ecosystem signals",
+          "role": "Builder",
+          "engagement": 584
+        },
+        {
+          "handle": "@moonpay",
+          "reason": "Key payments infrastructure with Solana ties",
+          "role": "Community",
+          "engagement": 0
+        }
+      ],
+      "content": {
+        "signal": "Solana is receiving heightened attention across crypto channels, with prominent amplification from key ecosystem players.",
+        "story": "Solana is dominating the conversation on crypto social media, as seen in a widely shared post by MoonPay that was further amplified by Solana’s official account. The repetitive emphasis on 'SOLANA' signals a deliberate push to keep the network at the forefront of community attention. This kind of coordinated messaging is notable, especially when it comes from both a major payments provider and the protocol’s own communication channels.\n\n### What's Happening\nMoonPay’s original post, echoed by Solana, is less about specific news and more about reinforcing Solana’s presence in the broader crypto narrative. The repetition serves as a rallying cry, drawing attention and sparking discussion among users, builders, and observers. This kind of social signal often precedes or accompanies periods of increased engagement, whether in development activity, user growth, or ecosystem partnerships.\n\nThe timing and tone suggest a focus on maintaining momentum and visibility. With no technical updates or product launches mentioned, the message is about brand strength and community energy. Such moves can help sustain interest during quieter periods or set the stage for future announcements.\n\n### Why It Matters\nSustained visibility on social platforms can have a significant impact on ecosystem growth. When major accounts coordinate messaging, it can reinforce confidence among existing users and attract new attention from those outside the immediate community. For Solana, which has experienced rapid expansion and scrutiny, maintaining a strong public presence is a strategic priority.\n\nThe involvement of MoonPay, a well-known payments provider, highlights ongoing relationships between Solana and key infrastructure players. Even without explicit partnership news, the public alignment signals mutual support and potential for future collaboration. This can influence how builders and users perceive the network’s momentum and relevance.\n\n### The Risk or Debate\nThe main risk with this type of messaging is that it can be perceived as noise if not backed by substantive developments. Overuse of hype-driven communication may lead to skepticism or fatigue within the community. Without clear updates or new information, some observers may question whether the attention is warranted or sustainable.\n\nThere is also the possibility that repeated messaging could overshadow more nuanced discussions about technology or ecosystem challenges. Striking a balance between visibility and substance remains an ongoing challenge for any fast-growing protocol.\n\n### What To Watch\nFuture communications from both Solana and MoonPay may provide more concrete updates or announcements. Observers may look for signs of new integrations, partnerships, or product launches that build on this wave of attention. Community response and engagement levels will also indicate whether the messaging is resonating or losing effectiveness.\n\nContinued monitoring of social signals can help identify shifts in sentiment or narrative direction. If this pattern of coordinated messaging continues, it could signal preparation for larger ecosystem moves or campaigns.",
+        "takeaways": [
+          "Solana is receiving amplified attention through coordinated social messaging.",
+          "MoonPay and Solana’s public alignment suggests ongoing ecosystem engagement.",
+          "Sustained visibility efforts may precede further announcements or developments."
+        ]
+      },
+      "riskLevel": "low",
+      "narrativeStrength": 3.9
     }
   ]
 }
