@@ -1,13 +1,79 @@
 {
   "meta": {
-    "generatedAt": "2026-03-18T19:51:47.934Z",
-    "totalCandidates": 96,
-    "solanaCandidates": 19,
+    "generatedAt": "2026-03-19T07:46:10.193Z",
+    "totalCandidates": 98,
+    "solanaCandidates": 15,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://www.coindesk.com/markets/2026/03/19/forget-market-hours-leading-etp-firm-just-opened-24-7-liquidity-for-tokenized-stocks-gold-and-money-market-funds",
+      "title": "Forget market hours: Leading ETP firm just opened 24/7 liquidity for tokenized stocks, gold and money market funds",
+      "url": "https://www.coindesk.com/markets/2026/03/19/forget-market-hours-leading-etp-firm-just-opened-24-7-liquidity-for-tokenized-stocks-gold-and-money-market-funds",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-19T06:27:45.000Z",
+      "summary": "ETP market giant Flow Traders just launched 24/7 over-the-counter (OTC) liquidity service for tokenized assets.",
+      "tags": [
+        "forget",
+        "market",
+        "hours"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c9449278abe80445fe9309990d960c1cdc1a9685",
+      "score": 22
+    },
+    {
+      "id": "https://decrypt.co/361646/openclaw-developers-lured-github-phishing-campaign",
+      "title": "OpenClaw Developers Lured in GitHub Phishing Campaign Targeting Crypto Wallets",
+      "url": "https://decrypt.co/361646/openclaw-developers-lured-github-phishing-campaign",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-19T05:07:25.000Z",
+      "summary": "The phishing campaign lures OpenClaw developers with fake $5,000 token airdrops, then drains wallets through a cloned site with a hidden connection prompt.",
+      "tags": [
+        "openclaw",
+        "developers",
+        "lured"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c0d84dc561b8850e9555472c5455667d66f81872",
+      "score": 21
+    },
     {
       "id": "https://www.theblock.co/post/394169/why-tokenized-assets-are-defis-biggest-unlock",
       "title": "Why tokenized assets are DeFi’s biggest unlock",
@@ -33,46 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9e1feab5ee49fee41b1c820a498fe476d082b8f1",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/aster-chain-mainnet-debuts-can-it-slow-the-dexs-falling-market-share",
-      "title": "Aster Chain mainnet debuts: Can it slow the DEX’s falling market share?",
-      "url": "https://ambcrypto.com/aster-chain-mainnet-debuts-can-it-slow-the-dexs-falling-market-share",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-18T16:00:25.000Z",
-      "summary": "Aster DEX 's perps trading volume market share has dropped from 40% to 20%.",
-      "tags": [
-        "aster",
-        "chain",
-        "mainnet"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "1bbb51d2f8c3be7e56e33c34e60cb73890f01434",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/394164/senate-banking-committee-april-vote-crypto-market-structure-bill-sen-lummis",
@@ -99,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "d113efb8eb4c70ebd4e1c9201d8214e994cd9ca1",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/394146/polymarket-acquires-crypto-startup-brahma-prediction-platform-looks-boost-liquidity-fortune",
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "91bf726c92cf2b5836379ebb56a8dc6198b57f7f",
-      "score": 22
-    },
-    {
-      "id": "https://decrypt.co/361449/phantom-cftc-regulated-derivatives-markets",
-      "title": "CFTC Clears Phantom to Connect Users to Regulated Derivatives Markets",
-      "url": "https://decrypt.co/361449/phantom-cftc-regulated-derivatives-markets",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-17T20:35:27.000Z",
-      "summary": "Under the ruling, the developer of the Phantom self-custody crypto wallet avoids having to register as a broker.",
-      "tags": [
-        "cftc",
-        "clears",
-        "phantom"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "99f0ce81109864e87d3552e2bf6b4fd856160f49",
-      "score": 20
+      "score": 21
     }
   ]
 }
