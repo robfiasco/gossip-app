@@ -1,215 +1,225 @@
 {
-  "generated_at": "2026-03-18T13:43:24.949Z",
+  "generated_at": "2026-03-19T13:46:12.666Z",
   "global_metrics": {
-    "total_tweets": 61,
-    "total_engagement": 18152,
-    "unique_voices": 24,
-    "top_tweet": 1378
+    "total_tweets": 53,
+    "total_engagement": 14593,
+    "unique_voices": 20,
+    "top_tweet": 3436
   },
   "items": [
     {
-      "id": "story_1773841371759_0",
-      "title": "Solana Giveaway Campaigns Raise Security Red Flags",
+      "id": "story_1773927942576_0",
+      "title": "Solana’s Growth Brings New Assets—and New Security Risks",
       "type": "critical",
       "category": "Security / Risk Alert",
-      "author": "@LipeSolana",
-      "timestamp": "2026-03-18T13:42:51.759Z",
+      "author": "@solana_stream",
+      "timestamp": "2026-03-19T13:45:42.576Z",
       "metrics": {
-        "tweets": 47,
-        "engagement": 15177,
-        "topTweet": 1378,
-        "voices": 17,
+        "tweets": 44,
+        "engagement": 13569,
+        "topTweet": 3436,
+        "voices": 14,
         "engagementTrend": [
-          6071,
-          8347,
-          10320,
-          12445,
-          15177
+          5428,
+          7463,
+          9227,
+          11127,
+          13569
         ]
       },
       "ctPulse": [
         {
-          "handle": "@LipeSolana",
-          "thought": "🐼 PANDAS GIVEAWAY 🐼\n\n$100 WORTH OF USDC!!! \n(2 winners get $50 usdc)\n\n- Follow @LipeSolana  \n- Follow @smsonx  \n- Follow @doqo_sol  \n- Follow @TheHoffGuy  \n\n- Like, comment and RT  \n\nRAID, spread an",
-          "url": "https://twitter.com/LipeSolana/status/2033534733083172924"
+          "handle": "@solana_stream",
+          "thought": "RT @solana: Happy 6th birthday Solana fam.\n\nThey said quit. The builders stayed. \nThey said it's dead. The code persisted. \nThey said move…",
+          "url": "https://twitter.com/solana_stream/status/2033755527185047723"
         },
         {
-          "handle": "@SolSlaycom",
-          "thought": "🎉 2,500 Followers Giveaway ! 🎉\n \n🎁 Prize: 0.25 Solana ( $SOL ) | 1 Winner \n \n🎊 We just reached 2,500 followers on X, and to celebrate we’re giving away 0.25 Solana (#SOL)!\n \nHow to participate:\n1️",
-          "url": "https://twitter.com/SolSlaycom/status/2033241117005656138"
+          "handle": "@JupiterExchange",
+          "thought": "$DIME is now LIVE on Jupiter!\n\n$DIME by @Paradex has officially been bridged to @solana\n\nTo celebrate the launch, we are announcing a $50,000 $DIME prize pool for traders on Jupiter, sponsored by Para",
+          "url": "https://twitter.com/JupiterExchange/status/2034276435741864332"
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "Right now, it costs about $0.004 to execute a transaction on Solana. Let me put that into perspective\n\nYou would need to send 2,500 transactions just to spend $10 in fees\n\nThis is absolutely crazy and",
-          "url": "https://twitter.com/SolanaSensei/status/2033551134330372146"
-        },
-        {
-          "handle": "@vibhu",
-          "thought": "First product out of the new @SolanaFndn products team is @tokens\n\nForeign assets on Solana have many variants, e.g. there's no canonical Bitcoin or Gold\n\nTokens aggregates all strains into a single p",
-          "url": "https://twitter.com/vibhu/status/2033592196176257125"
+          "thought": "I’ve decreased my X usage by over 80% in the last month. I post my tweets and vanish.\n\nI spread love, I educate and inform people on the latest Solana news/stats, and then I’m gone without looking bac",
+          "url": "https://twitter.com/SolanaSensei/status/2033962580499407251"
         },
         {
           "handle": "@jussy_world",
-          "thought": "The biggest money printers on Solana right now 👇\n\nTop protocols by fees in the last 30 days:\n\n1. @Pumpfun - $82.8M\n2. @JupiterExchange - $40M\n3. @MeteoraAG - $16M\n4. @jito_sol - $9.86M\n5. @Raydium - ",
-          "url": "https://twitter.com/jussy_world/status/2033177668729078256"
+          "thought": "Not long ago, SOL was trading around $8\n\nFTX collapsed\nAlameda was liquidating\nThe SEC called SOL a security\nRobinhood delisted it\n\nThe network had outages\nCT called it dead\n\nFast forward today:\n\n> 49",
+          "url": "https://twitter.com/jussy_world/status/2033616798705496099"
+        },
+        {
+          "handle": "@SolanaSensei",
+          "thought": "BREAKING: Solana just introduced @tokens!\n\nA token research platform exclusive to Solana tokens, with news, a bunch of markets, and other useful informations.\n\nFilter by popular, staking, stables, tre",
+          "url": "https://twitter.com/SolanaSensei/status/2033810076520353952"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@SolanaSensei",
-          "reason": "Shares timely Solana news and ecosystem insights",
-          "role": "Analyst",
-          "engagement": 5581
-        },
-        {
-          "handle": "@LipeSolana",
-          "reason": "Runs high-engagement Solana community campaigns",
-          "role": "Community",
-          "engagement": 2273
-        }
-      ],
-      "content": {
-        "signal": "A surge in Solana-themed social media giveaways is creating new risks for users as engagement farming blurs lines between community growth and potential scams.",
-        "story": "Intro paragraph\n\nSolana-focused accounts are ramping up giveaway campaigns, offering USDC and SOL prizes in exchange for follows, likes, and sharing. While these promotions can drive engagement and attract new users, they also introduce fresh security and risk concerns for the ecosystem.\n\n### What's Happening\n\nMultiple Solana community accounts are running high-visibility giveaways, promising cash-equivalent prizes to users who complete a series of social media tasks. These include following specific accounts, joining Telegram channels, and interacting with posts. The campaigns are designed to rapidly grow follower counts and spread project awareness.\n\nThis tactic is not new in crypto, but the scale and frequency of recent Solana giveaways stand out. Some require users to join off-platform groups or provide proof of participation, increasing exposure to potential phishing or social engineering attempts. The campaigns coincide with Solana’s rising profile, as the network celebrates milestones and sees record on-chain activity.\n\n### Why It Matters\n\nGiveaways can be an effective way to bootstrap communities and reward early supporters. For Solana, which is seeing surging transaction volumes and new product launches, these campaigns help sustain momentum and visibility. They also reflect the competitive nature of crypto marketing, where rapid audience growth is often prioritized.\n\nHowever, the line between legitimate promotions and engagement farming is thin. As more users flock to participate, the risk of falling for impersonators or malicious actors increases. The requirement to join Telegram channels or interact with unfamiliar accounts can expose users to spam, scams, or phishing attempts. This is especially relevant for newer users drawn in by the promise of easy rewards.\n\n### The Risk or Debate\n\nThe central risk is user security. Not all giveaway campaigns are genuine, and some may be fronts for data harvesting or wallet-draining schemes. Even well-intentioned campaigns can inadvertently train users to engage in risky online behaviors, such as clicking unknown links or sharing personal information. The Solana ecosystem’s rapid growth makes it a prime target for scammers looking to exploit hype and FOMO.\n\nThere is also debate within the community about the long-term value of these campaigns. While they can boost metrics, they may not translate into genuine engagement or sustainable growth. Some argue that aggressive giveaway strategies can dilute community quality or attract opportunistic participants who have little interest in the underlying projects.\n\n### What To Watch\n\nExpect more giveaway campaigns as Solana’s profile continues to rise, especially around major milestones or new product launches. Users should remain vigilant, verifying the legitimacy of promotions and avoiding sharing sensitive information. Watch for increased efforts from reputable projects to educate users about safe participation and to distinguish themselves from copycat or malicious campaigns.\n\nThe broader trend of engagement farming is likely to persist, but the ecosystem’s response—through education, improved security practices, and community moderation—will determine whether these campaigns become a net positive or a persistent risk.",
-        "takeaways": [
-          "Solana-related giveaway campaigns are increasing in frequency and scale.",
-          "These promotions can expose users to phishing, scams, and social engineering risks.",
-          "Community education and vigilance are critical as engagement farming blurs lines between growth and security."
-        ]
-      },
-      "riskLevel": "medium",
-      "narrativeStrength": 9.4
-    },
-    {
-      "id": "story_1773841390261_1",
-      "title": "Solana AI Agents Now Earning Real Yield for Users",
-      "type": "alpha",
-      "category": "AI / Agents",
-      "author": "@0xyunss",
-      "timestamp": "2026-03-18T13:43:10.261Z",
-      "metrics": {
-        "tweets": 12,
-        "engagement": 2573,
-        "topTweet": 712,
-        "voices": 5,
-        "engagementTrend": [
-          1029,
-          1415,
-          1750,
-          2110,
-          2573
-        ]
-      },
-      "ctPulse": [
-        {
-          "handle": "@0xyunss",
-          "thought": "meridian. dlmm-agent demo. agent ai yang hasilin gua duit 5-20$ perhari\n\njadi gua build ini pure buat ngasah atau ngepush gimana skill vibecoding gua dan pemahaman gua tentang ai agent.\n\ndia bisa mang",
-          "url": "https://twitter.com/0xyunss/status/2033942162631758247"
-        },
-        {
-          "handle": "@SolanaSensei",
-          "thought": "I just realized almost every new project on solana is running a point system\n\n- xStocks\n- OROgold\n- Reflect money\n- xPlace\n- Lince\n- Kast\n- Pacifica\n- OnRe\n- piggybank\n\nWe still have bunch that's been",
-          "url": "https://twitter.com/SolanaSensei/status/2033611273381019676"
-        },
-        {
-          "handle": "@SolanaSensei",
-          "thought": "The volume per active address on Meteora has more than tripled since January, rising from ~$800 to $2800!\n\nInteresting fact right there. https://t.co/Qh5VpCNQn7",
-          "url": "https://twitter.com/SolanaSensei/status/2033566494093922465"
-        },
-        {
-          "handle": "@0xyunss",
-          "thought": "agent dlmm gua agak anu banget hari ini. oh ya kalo mau coba bisa dm ya.\n\ndalam satu hari dia udah coba 3 strategi berbeda. mulai dari classic bid-ask, terus evolve sendiri ke spot -30, terus nyoba bi",
-          "url": "https://twitter.com/0xyunss/status/2033361357413011776"
-        },
-        {
-          "handle": "@0xyunss",
-          "thought": "yang paling mindblowing dari agent ini adalah dia ga butuh model yang flagship buat running.\n\ngua pake model murah banget dari @OpenRouter selama gua make kira kira 4 hari cuma abis segini doang, itup",
-          "url": "https://twitter.com/0xyunss/status/2034083113186562462"
-        }
-      ],
-      "whoToFollow": [
-        {
-          "handle": "@0xyunss",
-          "reason": "Builder sharing live AI agent results and insights.",
+          "handle": "@JupiterExchange",
+          "reason": "Key platform for new asset launches and trading on Solana.",
           "role": "Builder",
-          "engagement": 1204
+          "engagement": 4146
         },
         {
-          "handle": "@met_lparmy",
-          "reason": "Curates top-performing pools and LP strategies on Meteora.",
-          "role": "Community",
-          "engagement": 693
+          "handle": "@SolanaSensei",
+          "reason": "Provides timely updates and analysis on Solana ecosystem developments.",
+          "role": "Analyst",
+          "engagement": 3507
         }
       ],
       "content": {
-        "signal": "Solana builders are deploying AI trading agents that autonomously manage liquidity and generate daily profits with minimal capital.",
-        "story": "Solana’s AI and agent ecosystem is quietly leveling up. Builders are now deploying on-chain AI agents that can actively manage liquidity positions, adapt strategies, and generate real daily returns—sometimes as much as $5–20 per day from just 1 SOL in capital. These agents aren’t just theoretical: they’re live, evolving, and learning from top-performing liquidity providers (LPs) in real time.\n\n### What's Happening\nA new wave of AI-powered trading agents is emerging on Solana, with some developers sharing results and open demos. One such agent, built to refine coding and AI skills, autonomously manages positions, scans for profitable pools, checks bundler status, and adapts its strategy based on observed LP behavior. It can switch between classic bid-ask, spot, and more nuanced strategies—sometimes running three different approaches in a single day, all without explicit human instruction.\n\nThe agent leverages affordable AI models, keeping operational costs low. Training and running the bot over several days cost only a fraction of a SOL, yet the daily returns are meaningful relative to the capital deployed. This is not passive income, as the agent still requires periodic retraining and oversight, but it’s a step toward more autonomous, adaptive DeFi participation.\n\n### Why It Matters\nThis signals a new phase for Solana’s DeFi landscape. AI agents that can learn from top LPs and adapt strategies on the fly lower the barrier for users to participate in complex liquidity provision. Instead of manual pool selection and strategy tweaking, users can deposit SOL, train the agent, and let it optimize for volatility and yield.\n\nThe broader context is a surge in point systems and incentive programs across new Solana projects, driving user engagement and experimentation. Meanwhile, platforms like Meteora are seeing a sharp rise in volume per active address, and LP-focused communities are sharing fee-printing pools and strategies openly. The ecosystem is becoming more sophisticated, with both human and AI actors competing and collaborating in real time.\n\n### The Risk or Debate\nThe main risks center on transparency, reliability, and sustainability. While early results are promising, there’s little long-term data on how these agents perform across market cycles or under stress. The use of cheap, non-flagship AI models may limit the agent’s ability to generalize or adapt to black swan events. There’s also the risk of overfitting to recent LP strategies, which could backfire if market conditions shift suddenly.\n\nQuestions remain about the authenticity of reported volumes on some platforms and whether AI-driven strategies could exacerbate volatility or create new attack surfaces. As more users deploy similar agents, edge cases and unintended consequences are likely to emerge.\n\n### What To Watch\nWatch for broader adoption of AI agents in liquidity provision and whether they can consistently outperform manual strategies. Keep an eye on how platforms like Meteora and Pacifica respond to the influx of automated actors and whether point systems evolve to reward or restrict AI-driven participation.\n\nAlso, monitor for transparency improvements—such as open-sourcing agent code or publishing long-term performance data. The next phase will likely see a blend of human and AI strategies, with the most adaptive approaches setting the pace for Solana DeFi.",
+        "signal": "Solana’s rapid ecosystem expansion is attracting new assets and users, but also heightening the need for vigilance around security and risk.",
+        "story": "Solana just marked its sixth anniversary, and the network is seeing a surge in new assets, trading activity, and institutional integrations. Recent launches like $DIME on Jupiter and PayPal’s expansion of PYUSD to Solana highlight the chain’s growing appeal for both crypto-native and mainstream players. At the same time, Solana continues to lead in decentralized exchange (DEX) volume and transaction throughput, reinforcing its position as a high-performance blockchain.\n\n### What's Happening\n\nNew tokens are arriving on Solana at a rapid pace, with $DIME by Paradex now live on Jupiter and accompanied by a $50,000 trading incentive. PayPal’s stablecoin, PYUSD, is now available to users in over 70 countries via Solana, automatically providing millions with Solana addresses. The network is also seeing growth in tokenized stocks and real-world assets, with Solana capturing the largest share of this emerging market segment. Meanwhile, Solana’s infrastructure is evolving, with new platforms like @tokens offering research and analytics tools tailored to Solana assets.\n\n### Why It Matters\n\nSolana’s ability to process over 1,000 transactions per second and generate blocks in under a second is attracting both developers and liquidity. The chain’s resilience—surviving events like FTX’s collapse and regulatory scrutiny—has fueled renewed confidence. With over $17 billion in stablecoins and $1.7 billion in tokenized real-world assets on-chain, Solana is positioning itself as a hub for both DeFi innovation and institutional adoption. The influx of new tokens and products, from DEXs to lending protocols, is expanding the ecosystem’s utility and reach.\n\n### The Risk or Debate\n\nHowever, this rapid expansion brings heightened risks. New tokens, especially those with incentives, can attract speculative trading and potential scams. Users are reminded to exercise caution with fresh assets, as security audits and liquidity depth may lag behind the hype. The integration of stablecoins and tokenized assets at scale also raises questions about regulatory compliance and the robustness of underlying smart contracts. As Solana’s ecosystem grows, so does its attack surface, making security and risk management more critical than ever.\n\n### What To Watch\n\nKeep an eye on how new assets like $DIME perform in terms of liquidity and security. Monitor the stability and adoption of PayPal’s PYUSD integration, especially as it rolls out to millions of users. The launch of research platforms like @tokens could help users make more informed decisions, but also signals a need for better due diligence tools. As Solana continues to dominate DEX volume and attract institutional interest, the next test will be how well the network and its community can manage the risks that come with rapid growth.",
         "takeaways": [
-          "Solana builders are deploying AI agents that autonomously manage liquidity and generate daily returns.",
-          "These agents adapt strategies by learning from top LPs and require minimal capital and low-cost AI models.",
-          "Risks include lack of long-term data, overfitting, and potential market impact as agent adoption grows."
+          "Solana is experiencing rapid ecosystem growth, with new tokens and institutional integrations.",
+          "The arrival of new assets and users increases both opportunity and risk, especially around security.",
+          "Tools for research and due diligence are becoming more important as the ecosystem expands."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 5.9
+      "narrativeStrength": 9.2
     },
     {
-      "id": "story_1773841404949_2",
-      "title": "Aurory Joins Solana Mobile’s Seeker Season Push",
-      "type": "live",
-      "category": "Alpha / Early Access",
-      "author": "@solanagaming",
-      "timestamp": "2026-03-18T13:43:24.949Z",
+      "id": "story_1773927959975_1",
+      "title": "Solana Mobile Pushes Social Quests Ahead of $XP Airdrop",
+      "type": "alpha",
+      "category": "Airdrop Strategy",
+      "author": "@m_it",
+      "timestamp": "2026-03-19T13:45:59.975Z",
       "metrics": {
-        "tweets": 2,
-        "engagement": 402,
-        "topTweet": 276,
-        "voices": 2,
+        "tweets": 5,
+        "engagement": 420,
+        "topTweet": 94,
+        "voices": 4,
         "engagementTrend": [
-          161,
-          221,
-          273,
-          330,
-          402
+          168,
+          231,
+          285,
+          344,
+          420
         ]
       },
       "ctPulse": [
         {
-          "handle": "@solanagaming",
-          "thought": "RT @solanamobile: Seeker Season gets legendary with @AuroryProject 🎮\n\nAmiko Legends is now live with an exclusive chest of goodies for Seek…",
-          "url": "https://twitter.com/solanagaming/status/2033585419762471281"
+          "handle": "@m_it",
+          "thought": "RT @solanamobile: pls follow on Instagram  \n\nhttps://t.co/hY5MxV9Lpn\n\nmy boss just asked me \"how many followers does our Instagram have\" an…",
+          "url": "https://twitter.com/m_it/status/2034445210206314991"
         },
         {
-          "handle": "@LipeSolana",
-          "thought": "last chance to win 1 case for @SOLYD_STORE to protect your @solanamobile.\n\n3 cases, 3 winners.\n\ntomorrow i'll reveal the winners in the original post.\n\nwe will have more news during this week 👀\n\nraid",
-          "url": "https://twitter.com/LipeSolana/status/2033196643248410956"
+          "handle": "@0x_diablo",
+          "thought": "RT @solanamobile: pls follow on Instagram  \n\nhttps://t.co/hY5MxV9Lpn\n\nmy boss just asked me \"how many followers does our Instagram have\" an…",
+          "url": "https://twitter.com/0x_diablo/status/2034411670693376391"
+        },
+        {
+          "handle": "@solana_stream",
+          "thought": "What's your favorite dApps on @solanamobile right now? \n\nIf you're building on Seeker, drop your project below - we'll shoutout/repost the best ones!\n\nKeep Seeking📲 https://t.co/WwbpRmhB61",
+          "url": "https://twitter.com/solana_stream/status/2034598254047076789"
+        },
+        {
+          "handle": "@NOMADZxyz",
+          "thought": "More quests are coming to @solanamobile 🧳\n\nMake sure you’ve completed quests to collect 2700 XP.\n\n• Essentials - 500 XP + 300 XP bonus\n• Team Quests - 1000 XP + 400 XP bonus\n• Social Quests - 400 XP ",
+          "url": "https://twitter.com/NOMADZxyz/status/2033584582252237288"
+        },
+        {
+          "handle": "@0x_diablo",
+          "thought": "RT @xplaceapp: $XP is coming. TGE Q4.\n\nWe’re rolling out confirmed airdrop communities 👇\n\n- @solanamobile\n- @superteam \n- @cherrydotfun \n-…",
+          "url": "https://twitter.com/0x_diablo/status/2034310762470982132"
         }
       ],
       "whoToFollow": [
         {
           "handle": "@solanamobile",
-          "reason": "Official source for device updates and ecosystem campaigns.",
+          "reason": "Central to the quest and airdrop strategy; official updates.",
           "role": "Builder",
-          "engagement": 276
+          "engagement": 156
         },
         {
-          "handle": "@AuroryProject",
-          "reason": "Key partner in Solana gaming and current campaign collaborator.",
-          "role": "Builder",
-          "engagement": 126
+          "handle": "@NOMADZxyz",
+          "reason": "Active in promoting quest participation and XP rewards.",
+          "role": "Community",
+          "engagement": 94
         }
       ],
       "content": {
-        "signal": "Solana Mobile is collaborating with Aurory to launch Amiko Legends, offering exclusive in-game rewards to Seeker Season participants.",
-        "story": "Solana Mobile is stepping up its ecosystem engagement by teaming up with Aurory, a leading Solana-native game, for a special Seeker Season event. The launch of Amiko Legends brings exclusive in-game rewards to users, signaling a push to blend mobile hardware with on-chain gaming experiences. Alongside, community-driven giveaways—like Solyd Store’s case contest—are adding extra incentives for Solana Mobile users to stay active and engaged.\n\n### What's Happening\nAurory’s Amiko Legends is now live as part of Solana Mobile’s Seeker Season, offering a limited-time chest of digital goodies for participants. This marks another step in Solana Mobile’s strategy to integrate top Solana games and apps directly with its Saga device ecosystem. Meanwhile, community members are running their own campaigns—such as Solyd Store’s case giveaway—to further energize the user base and keep attention on the platform.\n\nThe collaboration is designed to reward early adopters and active users, leveraging both official partnerships and grassroots community efforts. These initiatives are creating a feedback loop where hardware adoption and ecosystem participation reinforce each other.\n\n### Why It Matters\nSolana Mobile’s push to partner with high-profile games like Aurory is a clear signal that the project is serious about building a unique value proposition for its device. By offering exclusive in-game content, Solana Mobile is trying to carve out a niche that goes beyond just being another crypto phone. This could help drive both hardware sales and deeper engagement with Solana-native applications.\n\nFor the broader Solana ecosystem, these collaborations demonstrate a maturing approach to user acquisition and retention. Rather than relying solely on speculative incentives, the focus is shifting toward utility and community-driven experiences. This could set a precedent for how other blockchain ecosystems approach mobile integration and user rewards.\n\n### The Risk or Debate\nWhile the momentum is promising, there are still open questions about the long-term sustainability of these campaigns. Exclusive rewards and giveaways can drive short-term engagement, but it remains to be seen whether they translate into lasting user retention or meaningful growth for Solana Mobile. There’s also the risk that the ecosystem becomes too reliant on incentives, rather than organic demand for the hardware and apps.\n\nAnother consideration is the fragmentation of attention. With multiple giveaways and campaigns running in parallel, users may become overwhelmed or disengaged if the value proposition isn’t clear. Ensuring that these efforts are coordinated and genuinely additive will be key to maintaining momentum.\n\n### What To Watch\nWatch for further integrations between Solana Mobile and other top Solana-native games or apps. Announcements of new exclusive content, hardware features, or broader ecosystem partnerships could indicate that this strategy is gaining traction. Also, keep an eye on community sentiment—both around the value of these rewards and the overall experience of using Solana Mobile devices.\n\nFinally, the outcome of ongoing community giveaways and the announcement of new campaigns will provide signals about how engaged the user base remains and whether these tactics are effective in building a sustainable Solana Mobile ecosystem.",
+        "signal": "Solana Mobile is ramping up social engagement and quest activity, signaling potential airdrop eligibility for active participants.",
+        "story": "Solana Mobile is actively encouraging its community to engage with its social channels, notably Instagram, while also highlighting ongoing and upcoming quest opportunities. This push comes as multiple ecosystem voices reference the accumulation of XP (experience points) and hint at confirmed airdrop communities, with Solana Mobile explicitly named among them.\n\n### What's Happening\nSolana Mobile’s official channels and prominent community members are urging users to follow their Instagram and participate in a series of quests. These quests, which award XP for completion, are being promoted as a way to increase engagement and possibly qualify for future rewards. At the same time, there is chatter about $XP, a token with a planned TGE (Token Generation Event) in Q4, and airdrops targeting communities that are most active in these quests and social campaigns.\n\nThe structure of the quests is clear: users can earn XP by completing various tasks, including essentials, team, and social quests, with bonus XP available for deeper participation. Some projects, like Nomadz, are also layering on extra XP incentives for specific cohorts. The message is consistent—stacking XP now may be strategically important for those seeking to maximize potential airdrop allocations.\n\n### Why It Matters\nThis coordinated push highlights how Solana ecosystem projects are leveraging social and gamified engagement as a core part of their airdrop strategy. By tying potential rewards to both on-chain and off-chain actions, Solana Mobile is broadening its reach and incentivizing deeper community involvement. This approach not only drives user growth on social platforms but also helps identify and reward the most committed users ahead of major token events.\n\nFor builders and traders, these signals suggest that active participation—especially in social quests and community challenges—could be a key factor in future airdrop eligibility. The move also reflects a broader trend in the Solana ecosystem, where projects are experimenting with new ways to distribute tokens and build loyalty beyond simple on-chain activity.\n\n### The Risk or Debate\nThe main risk is that the criteria for airdrop eligibility remain opaque. Users may invest significant time in social engagement and quest completion without any guarantee of meaningful rewards. There’s also the potential for sybil attacks or bot-driven activity, which could dilute the impact for genuine participants. Some may question whether social metrics should play such a central role in reward distribution, as it can favor those with more time or social reach rather than true ecosystem contributors.\n\n### What To Watch\nWatch for official announcements from Solana Mobile and related projects clarifying the exact requirements for the $XP airdrop. Track the evolution of quest mechanics and whether new types of engagement are introduced. Also, keep an eye on how the community responds—if participation spikes or if there’s backlash over perceived fairness. Finally, monitor the timeline for the $XP token launch in Q4, as this will be the key moment when the effectiveness of these engagement strategies becomes clear.",
         "takeaways": [
-          "Solana Mobile and Aurory are collaborating to offer exclusive in-game rewards for Seeker Season.",
-          "Community-driven campaigns like Solyd Store’s case giveaway are boosting engagement.",
-          "The long-term impact of these incentive-driven strategies on user retention is still uncertain."
+          "Solana Mobile is incentivizing social and quest participation ahead of a potential $XP airdrop.",
+          "XP accumulation through quests may play a significant role in airdrop eligibility.",
+          "Exact criteria for rewards remain unclear, so users face uncertainty about the value of their efforts."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 4
+      "narrativeStrength": 4.5
+    },
+    {
+      "id": "story_1773927972666_2",
+      "title": "LP Army Drives Activity in Meteora Fee Pools",
+      "type": "live",
+      "category": "Token Launch / Pump",
+      "author": "@0xyunss",
+      "timestamp": "2026-03-19T13:46:12.666Z",
+      "metrics": {
+        "tweets": 4,
+        "engagement": 604,
+        "topTweet": 378,
+        "voices": 2,
+        "engagementTrend": [
+          242,
+          332,
+          411,
+          495,
+          604
+        ]
+      },
+      "ctPulse": [
+        {
+          "handle": "@0xyunss",
+          "thought": "RT @MeteoraAG: The LP Army are not only profit maxis, they are one of the most welcoming communities in crypto.\n\nThe 3 best places to get y…",
+          "url": "https://twitter.com/0xyunss/status/2034031032912253393"
+        },
+        {
+          "handle": "@met_lparmy",
+          "thought": "Top 3 fee-printing pools LPs are entering on @MeteoraAG in the last 24 hours:\n\n1. COLLECTIBLE-SOL 100/3%: https://t.co/OplY2qzqYL\n2. Lobstar-SOL 80/1%: https://t.co/f5vrO3QbPA\n3. DISLIKE-SOL 100/2%: h",
+          "url": "https://twitter.com/met_lparmy/status/2034334923717259476"
+        },
+        {
+          "handle": "@0xyunss",
+          "thought": "i've been running overnight classic bid-ask consistently this month and the results have been clean. let me break down exactly how the strategy works from token selection all the way to exit.\n\nthe who",
+          "url": "https://twitter.com/0xyunss/status/2034224294117450209"
+        },
+        {
+          "handle": "@met_lparmy",
+          "thought": "RT @MeteoraAG: Finding and setting the right price range just got easier than ever.\n\nIntroducing the new and improved price charting.\n\nFind…",
+          "url": "https://twitter.com/met_lparmy/status/2034554543741317231"
+        }
+      ],
+      "whoToFollow": [
+        {
+          "handle": "@MeteoraAG",
+          "reason": "Core platform for the highlighted LP pools and ecosystem updates.",
+          "role": "Builder",
+          "engagement": 457
+        },
+        {
+          "handle": "@met_lparmy",
+          "reason": "Active community hub sharing insights and pool performance.",
+          "role": "Community",
+          "engagement": 147
+        }
+      ],
+      "content": {
+        "signal": "Liquidity providers are actively entering top fee-generating pools on Meteora, highlighting both community strength and evolving strategies.",
+        "story": "Liquidity providers on Solana are zeroing in on Meteora's top-performing pools, with a visible uptick in activity and community engagement. The so-called 'LP Army' is not just focused on maximizing returns—they’re building a reputation for being open and collaborative, drawing in both seasoned and new participants. This movement is centered around three fee-printing pools: COLLECTIBLE-SOL, Lobstar-SOL, and DISLIKE-SOL, which have seen notable inflows over the past 24 hours.\n\n### What's Happening\n\nMeteora’s latest fee-generating pools are attracting significant liquidity, as traders and LPs look for efficient ways to earn yield. The pools highlighted—COLLECTIBLE-SOL, Lobstar-SOL, and DISLIKE-SOL—are seeing increased volume and engagement, suggesting that participants are actively seeking out new opportunities on the platform. Alongside this, Meteora has rolled out improved price charting tools, making it easier for LPs to set and monitor price ranges, which appears to be lowering the barrier to entry for less technical users.\n\nCommunity sentiment is strong, with the LP Army being recognized for both their profit-driven approach and their willingness to welcome newcomers. This blend of financial incentive and social cohesion is helping to drive both liquidity and visibility for Meteora’s pools.\n\n### Why It Matters\n\nThe surge in LP activity signals growing confidence in Meteora’s infrastructure and fee model. As more liquidity flows into these pools, trading becomes more efficient, spreads tighten, and the overall user experience improves. This is particularly important for Solana, where competition among DEXs and liquidity protocols is intense.\n\nThe introduction of better price charting tools is also notable. By making it easier for users to find and set optimal price ranges, Meteora is lowering friction for both new and experienced LPs. This could lead to broader participation and potentially more stable liquidity, which benefits the entire ecosystem.\n\n### The Risk or Debate\n\nDespite the positive momentum, risks remain. Fee-generating pools can attract mercenary capital that leaves as soon as yields drop, potentially leading to sudden liquidity shifts. There’s also the challenge of sustainable returns—if too many LPs pile into the same pools, fees per participant may decrease, making the strategy less attractive over time.\n\nAdditionally, while improved charting tools help, effective LP strategies still require careful token selection and risk management. As highlighted by experienced traders, not every token or pool will deliver consistent results, and newcomers may underestimate the complexity involved.\n\n### What To Watch\n\nKeep an eye on whether the current inflows into Meteora’s top pools are sustained or if they taper off as yields normalize. Watch for further upgrades to the platform’s analytics and user experience, as these could drive even more participation. Finally, monitor how the LP Army community evolves—continued growth and engagement could set a new standard for collaborative liquidity provision on Solana.",
+        "takeaways": [
+          "Meteora's top fee-generating pools are seeing increased LP activity and community engagement.",
+          "Improved price charting tools are making it easier for users to participate and manage risk.",
+          "Sustaining high yields and liquidity will depend on ongoing platform improvements and community dynamics."
+        ]
+      },
+      "riskLevel": "medium",
+      "narrativeStrength": 4.3
     }
   ]
 }
