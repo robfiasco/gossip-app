@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-03-20T07:44:11.410Z",
+    "generatedAt": "2026-03-20T19:36:31.126Z",
     "totalCandidates": 98,
-    "solanaCandidates": 11,
+    "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,94 +33,28 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "37424d251bd3600f6a57a83770fecee058ac67c5",
-      "score": 29
+      "score": 28
     },
     {
-      "id": "https://cointelegraph.com/news/solana-dapps-revenue-falls-to-18-month-low-as-sol-price-risks-80-retest",
-      "title": "Solana DApps revenue falls to 18-month low as SOL price risks $80 retest",
-      "url": "https://cointelegraph.com/news/solana-dapps-revenue-falls-to-18-month-low-as-sol-price-risks-80-retest",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-03-20T02:44:43.000Z",
-      "summary": "Weakening onchain activity and bearish derivatives data suggest that a SOL price recovery will take longer than most investors anticipate.",
+      "id": "https://ambcrypto.com/stablecoin-supply-nears-318b-fresh-inflows-or-just-capital-rotation",
+      "title": "Stablecoin supply nears $318B: Fresh inflows or just capital rotation?",
+      "url": "https://ambcrypto.com/stablecoin-supply-nears-318b-fresh-inflows-or-just-capital-rotation",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-20T19:00:30.000Z",
+      "summary": "Stablecoin liquidity expands across markets, balancing fresh inflows with internal capital rotation.",
       "tags": [
-        "solana",
-        "dapps",
-        "revenue"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "76346bb00eee22907679dab67776945f26f95401",
-      "score": 23
-    },
-    {
-      "id": "https://decrypt.co/361789/solana-treasury-forward-industries-loan-buy-back-shares",
-      "title": "Solana Treasury Forward Industries Uses Loan to Buy Back Shares After 89% Price Dive",
-      "url": "https://decrypt.co/361789/solana-treasury-forward-industries-loan-buy-back-shares",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-19T20:48:29.000Z",
-      "summary": "Solana treasury firm Forward Industries bought back more than 6 million shares for $27.4 million as it seeks to add shareholder value.",
-      "tags": [
-        "solana",
-        "treasury",
-        "forward"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "dbb9ac363fa65a04b7bc44b1f65e6be22210149b",
-      "score": 21
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
-      "title": "OpenClaw developers targeted in GitHub phishing scam offering fake token airdrops",
-      "url": "https://www.coindesk.com/tech/2026/03/19/openclaw-developers-targeted-in-github-phishing-scam-offering-fake-token-airdrops",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-19T15:45:10.000Z",
-      "summary": "Security researchers said attackers are impersonating OpenClaw on GitHub, luring developers with bogus CLAW token giveaways that trick users into connecting their crypto wallets.",
-      "tags": [
-        "openclaw",
-        "developers",
-        "targeted"
+        "stablecoin",
+        "supply",
+        "nears"
       ],
       "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -130,27 +64,60 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e6ca052d16386d6d0ed590f540c3b49b2a532da5",
-      "score": 21
+      "dedupeFingerprint": "b0de8c626abf52eca6336780630c293e189b9156",
+      "score": 22
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/03/19/coinbase-faces-a-multibillion-dollar-threat-from-d-c-but-a-rewards-loophole-could-protect-its-stablecoin-revenue",
-      "title": "Coinbase faces a multibillion-dollar threat from D.C. but a 'rewards' loophole could protect its stablecoin revenue",
-      "url": "https://www.coindesk.com/policy/2026/03/19/coinbase-faces-a-multibillion-dollar-threat-from-d-c-but-a-rewards-loophole-could-protect-its-stablecoin-revenue",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-19T12:00:00.000Z",
-      "summary": "The proposed rules could ban yield on stablecoins like USDC, though analysts say the exchange may adapt.",
+      "id": "https://ambcrypto.com/solana-sees-capital-repositioning-on-chain-is-a-new-cycle-forming",
+      "title": "Solana sees capital repositioning on-chain – Is a new cycle forming?",
+      "url": "https://ambcrypto.com/solana-sees-capital-repositioning-on-chain-is-a-new-cycle-forming",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-20T08:00:21.000Z",
+      "summary": "Solana strengthened as demand absorbed supply and liquidity deepened, setting up potential sustained upside.",
       "tags": [
-        "coinbase",
-        "faces",
-        "multibillion"
+        "solana",
+        "sees",
+        "capital"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c18fee33618776d046c677fb100b1950f7c79ab9",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield",
+      "title": "Crypto Clarity Act may be cleared to move after senators agree on stablecoin yield",
+      "url": "https://www.coindesk.com/policy/2026/03/20/crypto-clarity-act-may-be-cleared-to-move-after-senators-agree-on-stablecoin-yield",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-20T19:27:20.000Z",
+      "summary": "One of the major sticking points on the crypto market structure bill may be resolved, at least enough to move toward a Senate hearing to advance the bill.",
+      "tags": [
+        "crypto",
+        "clarity",
+        "cleared"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9fe626a44206e7d5e8952da0882c41deff63c498",
-      "score": 21
+      "dedupeFingerprint": "58656ef6aebbc21a0dd683d52230efec4cd56f76",
+      "score": 19
+    },
+    {
+      "id": "https://www.theblock.co/post/394531/solana-foundation-president-says-crypto-gaming-is-dead",
+      "title": "Solana Foundation president says crypto gaming is dead",
+      "url": "https://www.theblock.co/post/394531/solana-foundation-president-says-crypto-gaming-is-dead",
+      "source": "The Block",
+      "publishedAt": "2026-03-20T18:41:27.000Z",
+      "summary": "While blockchain gaming has yet to live up to its promise, some companies, and top brands, have not given up.",
+      "tags": [
+        "solana",
+        "foundation",
+        "president"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "34c2e78684de1aed63653806128f30433e7deeee",
+      "score": 19
     }
   ]
 }

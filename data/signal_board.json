@@ -1,26 +1,26 @@
 {
   "date": "2026-03-20",
-  "generated_at_utc": "2026-03-20T07:44:22.030Z",
-  "ctxMarket": "Attention is on declining Solana DApp revenues, now at an 18-month low, and concerns about SOL price stability. Regulatory shifts from the SEC and notable treasury activity are also in focus.",
-  "ctxTalking": "• Solana DApps’ onchain revenue drop and bearish SOL price sentiment\n• Forward Industries’ $27.4M share buyback after an 89% price decline\n• SEC easing KYC requirements for Solana and other major chains",
-  "ctxMatters": "Lower DApp revenues may impact developer incentives and ecosystem growth. Forward Industries’ buyback highlights treasury management responses to market volatility. The SEC’s regulatory clarification could reduce compliance burdens for Solana projects, especially those not focused on privacy.",
-  "ctxSignal": "Signal: Sustained drop in DApp revenue and SEC’s regulatory update directly affect Solana’s ecosystem and compliance landscape.\nNoise: Short-term price speculation around SOL without clear onchain or regulatory catalysts.",
-  "ctxGlossary": "KYC — “Know Your Customer,” identity verification required for regulatory compliance\nDApp — Decentralized application running on a blockchain like Solana",
+  "generated_at_utc": "2026-03-20T19:36:41.216Z",
+  "ctxMarket": "Attention is on Solana’s on-chain capital flows and the sustainability of its DApp ecosystem, as revenue hits an 18-month low. Ongoing discussions highlight both weakened activity and deepening liquidity.",
+  "ctxTalking": "• Solana Foundation’s president declared crypto gaming “dead,” though some brands remain active in the space\n• Capital is repositioning on Solana, with speculation about a new cycle forming\n• Solana DApps revenue has dropped sharply, raising concerns about ecosystem health",
+  "ctxMatters": "Lower DApp revenue and bearish derivatives data could impact developer and user engagement. Liquidity improvements and capital shifts may signal changing priorities or strategies for builders and treasuries. Statements from Solana leadership about gaming may influence project focus and investment.",
+  "ctxSignal": "Signal: Revenue and activity declines on Solana DApps, and notable capital repositioning on-chain.\nNoise: Broad declarations about the end of crypto gaming, as some brands continue to build.",
+  "ctxGlossary": "DApp — Decentralized application built on a blockchain\nOn-chain — Activity or transactions recorded directly on the blockchain",
   "readMore": [
+    {
+      "title": "Solana Foundation president says crypto gaming is dead",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/394531/solana-foundation-president-says-crypto-gaming-is-dead"
+    },
+    {
+      "title": "Solana sees capital repositioning on-chain – Is a new cycle forming?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-sees-capital-repositioning-on-chain-is-a-new-cycle-forming"
+    },
     {
       "title": "Solana DApps revenue falls to 18-month low as SOL price risks $80 retest",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/solana-dapps-revenue-falls-to-18-month-low-as-sol-price-risks-80-retest"
-    },
-    {
-      "title": "Solana Treasury Forward Industries Uses Loan to Buy Back Shares After 89% Price Dive",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/361789/solana-treasury-forward-industries-loan-buy-back-shares"
-    },
-    {
-      "title": "SEC drastically reduces KYC pressure on Bitcoin, XRP, and Solana with revamped crypto rules",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/sec-redrawn-crypto-rules-quietly-eases-kyc-pressure-on-bitcoin-xrp-and-solana"
     }
   ]
 }
