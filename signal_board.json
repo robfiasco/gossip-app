@@ -1,26 +1,26 @@
 {
-  "date": "2026-03-19",
-  "generated_at_utc": "2026-03-19T19:45:26.068Z",
-  "ctxMarket": "Attention is focused on the SEC’s major regulatory shift, which now classifies tokens like Solana as “digital commodities” rather than securities. This has created renewed clarity for builders and institutions, while privacy-focused projects face a narrower regulatory path.",
-  "ctxTalking": "• The SEC’s reclassification of major crypto tokens, including Solana, as digital commodities\n• Strong transaction and user growth on Solana and other chains in Q4 2025\n• Increased institutional interest in onchain treasury management and large crypto treasury purchases",
-  "ctxMatters": "Regulatory clarity from the SEC could reduce compliance uncertainty for Solana projects and users. Solana’s continued lead in transaction volume highlights ongoing ecosystem activity. Institutional adoption of onchain treasury tools signals growing mainstream integration.",
-  "ctxSignal": "Signal: SEC’s new stance on token classification and Solana’s transaction growth\nNoise: Speculation about long-term impacts on privacy coins without direct SEC statements",
-  "ctxGlossary": "Digital commodities — Assets like Solana now classified by the SEC as not being securities\nOnchain treasury — Corporate funds managed directly on blockchain platforms for liquidity and payouts",
+  "date": "2026-03-20",
+  "generated_at_utc": "2026-03-20T07:44:22.030Z",
+  "ctxMarket": "Attention is on declining Solana DApp revenues, now at an 18-month low, and concerns about SOL price stability. Regulatory shifts from the SEC and notable treasury activity are also in focus.",
+  "ctxTalking": "• Solana DApps’ onchain revenue drop and bearish SOL price sentiment\n• Forward Industries’ $27.4M share buyback after an 89% price decline\n• SEC easing KYC requirements for Solana and other major chains",
+  "ctxMatters": "Lower DApp revenues may impact developer incentives and ecosystem growth. Forward Industries’ buyback highlights treasury management responses to market volatility. The SEC’s regulatory clarification could reduce compliance burdens for Solana projects, especially those not focused on privacy.",
+  "ctxSignal": "Signal: Sustained drop in DApp revenue and SEC’s regulatory update directly affect Solana’s ecosystem and compliance landscape.\nNoise: Short-term price speculation around SOL without clear onchain or regulatory catalysts.",
+  "ctxGlossary": "KYC — “Know Your Customer,” identity verification required for regulatory compliance\nDApp — Decentralized application running on a blockchain like Solana",
   "readMore": [
+    {
+      "title": "Solana DApps revenue falls to 18-month low as SOL price risks $80 retest",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/solana-dapps-revenue-falls-to-18-month-low-as-sol-price-risks-80-retest"
+    },
+    {
+      "title": "Solana Treasury Forward Industries Uses Loan to Buy Back Shares After 89% Price Dive",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/361789/solana-treasury-forward-industries-loan-buy-back-shares"
+    },
     {
       "title": "SEC drastically reduces KYC pressure on Bitcoin, XRP, and Solana with revamped crypto rules",
       "source": "CryptoSlate",
       "url": "https://cryptoslate.com/sec-redrawn-crypto-rules-quietly-eases-kyc-pressure-on-bitcoin-xrp-and-solana"
-    },
-    {
-      "title": "State of Rango Q4 2025",
-      "source": "Messari",
-      "url": "https://messari.io/article/state-of-rango-q4-2025"
-    },
-    {
-      "title": "Webinar Recap",
-      "source": "Solana News",
-      "url": "https://solana.com/news/webinar-recap-corporate-treasury-onchain"
     }
   ]
 }
