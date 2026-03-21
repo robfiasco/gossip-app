@@ -1,46 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-03-21T07:31:42.953Z",
+    "generatedAt": "2026-03-21T19:22:09.689Z",
     "totalCandidates": 100,
-    "solanaCandidates": 14,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://ambcrypto.com/solana-stalls-despite-1-8b-rwa-growth-where-is-sols-liquidity-going",
-      "title": "Solana stalls despite $1.8B RWA growth – Where is SOL’s liquidity going?",
-      "url": "https://ambcrypto.com/solana-stalls-despite-1-8b-rwa-growth-where-is-sols-liquidity-going",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-21T04:00:45.000Z",
-      "summary": "Ondo Finance’s move to add 50 tokenized assets on Solana highlights how sidelined capital is being pooled into RWAs, giving a clearer picture of where liquidity is flowing.",
-      "tags": [
-        "solana",
-        "stalls",
-        "despite"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 21,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "baeaa7008745c19773c060c06779316284857898",
-      "score": 32
-    },
     {
       "id": "https://solana.com/news/bits-to-bricks-stablecoins-de-dollarization-alisha-chhangani",
       "title": "Bits to Bricks: Can Stablecoins Prevent De-Dollarization?",
@@ -66,13 +33,46 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "37424d251bd3600f6a57a83770fecee058ac67c5",
-      "score": 27
+      "score": 26
+    },
+    {
+      "id": "https://www.theblock.co/post/394566/grayscale-files-hype-etf-tracking-onchain-perps-dex-hyperliquid",
+      "title": "Grayscale files for HYPE ETF tracking largest onchain perps DEX Hyperliquid",
+      "url": "https://www.theblock.co/post/394566/grayscale-files-hype-etf-tracking-onchain-perps-dex-hyperliquid",
+      "source": "The Block",
+      "publishedAt": "2026-03-20T20:27:27.000Z",
+      "summary": "According to the filing on Friday, the Grayscale HYPE ETF would trade on the Nasdaq under the ticker symbol GHYP if approved.",
+      "tags": [
+        "grayscale",
+        "files",
+        "hype"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "afd2e77f870e52c8df1f95613a2abd4b6443a33a",
+      "score": 23
     },
     {
       "id": "https://decrypt.co/361929/white-house-ai-proposal-override-state-laws-avoid-new-regulator",
@@ -99,61 +99,28 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "6743d4ecb392e5637237e4c667df3efe1cd27f18",
-      "score": 17
-    },
-    {
-      "id": "https://ambcrypto.com/ethereum-vs-solana-no-chain-has-defensible-moat-yet-warns-wintermute-ceo",
-      "title": "Ethereum vs Solana – No chain has defensible ‘moat’ yet, warns Wintermute CEO",
-      "url": "https://ambcrypto.com/ethereum-vs-solana-no-chain-has-defensible-moat-yet-warns-wintermute-ceo",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-21T07:00:01.000Z",
-      "summary": "The three-year-old Hyperliquid currently leads the overall blockchain market in generated revenue.",
-      "tags": [
-        "ethereum",
-        "solana",
-        "chain"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e89e759c2abaaa807119bf7867b97cd803392e1e",
       "score": 16
     },
     {
-      "id": "https://cointelegraph.com/news/grayscale-files-sec-papers-for-hyperliquid-etf-joining-bitwise-21shares",
-      "title": "Grayscale files S-1 for Hyperliquid ETF, joining Bitwise, 21Shares",
-      "url": "https://cointelegraph.com/news/grayscale-files-sec-papers-for-hyperliquid-etf-joining-bitwise-21shares",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-03-21T00:36:00.000Z",
-      "summary": "Unlike Bitwise, Grayscale doesn’t plan to incorporate staking for its Hyperliquid ETF but hasn’t ruled out integrating it in the future.",
+      "id": "https://cryptoslate.com/regulatory-red-tape-ripped-away-from-crypto-wallets-granting-direct-access-to-derivatives",
+      "title": "Regulatory red tape ripped away from crypto wallets, granting direct access to derivatives",
+      "url": "https://cryptoslate.com/regulatory-red-tape-ripped-away-from-crypto-wallets-granting-direct-access-to-derivatives",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-03-21T09:30:59.000Z",
+      "summary": "Crypto wallets used to mean one thing: self-custody. Users held their keys, owned their assets, and stayed off the radar of traditional finance. Phantom's Mar. 17 no-action relief from the CFTC's Market Participants Division rewrites that definition. The letter allows Phantom to serve as the consume",
       "tags": [
-        "grayscale",
-        "files",
-        "hyperliquid"
+        "regulatory",
+        "tape",
+        "ripped"
       ],
-      "topicBucket": "market",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -166,12 +133,45 @@
         "relevanceScore": 3,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "11c966a8cec597dc5144b326459905cdc16459a6",
-      "score": 13
+      "dedupeFingerprint": "1cf3feef7f6164d658d4514e1f4900ae220f2ea4",
+      "score": 15
+    },
+    {
+      "id": "https://cryptoslate.com/sec-to-reduce-wall-street-transparency-as-public-blockchains-are-gaining-an-institutional-foothold",
+      "title": "SEC to reduce Wall Street transparency as public blockchains are gaining an institutional foothold",
+      "url": "https://cryptoslate.com/sec-to-reduce-wall-street-transparency-as-public-blockchains-are-gaining-an-institutional-foothold",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-03-21T09:30:15.000Z",
+      "summary": "A proposal in Washington could alter one of the basic rhythms of US markets: how often public companies have to publish quarterly reports. The SEC is reportedly preparing a proposal that would make quarterly reporting optional, letting companies file financial updates twice a year instead of four ti",
+      "tags": [
+        "reduce",
+        "wall",
+        "street"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "33fed501263093c507fef37ab76fb120abaa9506",
+      "score": 15
     }
   ]
 }
