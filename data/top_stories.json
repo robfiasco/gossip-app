@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-03-21T19:22:09.689Z",
+    "generatedAt": "2026-03-22T07:37:02.527Z",
     "totalCandidates": 100,
-    "solanaCandidates": 17,
+    "solanaCandidates": 12,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "37424d251bd3600f6a57a83770fecee058ac67c5",
-      "score": 26
+      "score": 25
     },
     {
       "id": "https://www.theblock.co/post/394566/grayscale-files-hype-etf-tracking-onchain-perps-dex-hyperliquid",
@@ -66,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "afd2e77f870e52c8df1f95613a2abd4b6443a33a",
-      "score": 23
+      "score": 22
     },
     {
       "id": "https://decrypt.co/361929/white-house-ai-proposal-override-state-laws-avoid-new-regulator",
@@ -99,27 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "6743d4ecb392e5637237e4c667df3efe1cd27f18",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "https://cryptoslate.com/regulatory-red-tape-ripped-away-from-crypto-wallets-granting-direct-access-to-derivatives",
-      "title": "Regulatory red tape ripped away from crypto wallets, granting direct access to derivatives",
-      "url": "https://cryptoslate.com/regulatory-red-tape-ripped-away-from-crypto-wallets-granting-direct-access-to-derivatives",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-03-21T09:30:59.000Z",
-      "summary": "Crypto wallets used to mean one thing: self-custody. Users held their keys, owned their assets, and stayed off the radar of traditional finance. Phantom's Mar. 17 no-action relief from the CFTC's Market Participants Division rewrites that definition. The letter allows Phantom to serve as the consume",
+      "id": "https://decrypt.co/361864/bitcoin-trails-money-supply-growth-as-energy-costs-and-rates-bite",
+      "title": "Bitcoin Trails Money Supply Growth as Energy Costs and Rates Bite",
+      "url": "https://decrypt.co/361864/bitcoin-trails-money-supply-growth-as-energy-costs-and-rates-bite",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-20T01:56:02.000Z",
+      "summary": "Higher fuel costs and restrictive financial conditions are absorbing consumer liquidity, helping explain why expanding global money supply has yet to translate into gains for Bitcoin.",
       "tags": [
-        "regulatory",
-        "tape",
-        "ripped"
+        "bitcoin",
+        "trails",
+        "money"
       ],
-      "topicBucket": "consumer",
+      "topicBucket": "tokenomics",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -130,29 +130,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": -3,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
+        "recencyScore": 6,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "1cf3feef7f6164d658d4514e1f4900ae220f2ea4",
-      "score": 15
+      "dedupeFingerprint": "8d7cc58177b210553c047ba0feee0abda1d04025",
+      "score": -4
     },
     {
-      "id": "https://cryptoslate.com/sec-to-reduce-wall-street-transparency-as-public-blockchains-are-gaining-an-institutional-foothold",
-      "title": "SEC to reduce Wall Street transparency as public blockchains are gaining an institutional foothold",
-      "url": "https://cryptoslate.com/sec-to-reduce-wall-street-transparency-as-public-blockchains-are-gaining-an-institutional-foothold",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-03-21T09:30:15.000Z",
-      "summary": "A proposal in Washington could alter one of the basic rhythms of US markets: how often public companies have to publish quarterly reports. The SEC is reportedly preparing a proposal that would make quarterly reporting optional, letting companies file financial updates twice a year instead of four ti",
+      "id": "https://www.theblock.co/post/394554/lawmakers-breakthrough-agreement-in-principle-stablecoin-yield-sweeping-crypto-bill",
+      "title": "Lawmakers reach breakthrough with ‘agreement in principle’ over stablecoin yield in sweeping crypto bill",
+      "url": "https://www.theblock.co/post/394554/lawmakers-breakthrough-agreement-in-principle-stablecoin-yield-sweeping-crypto-bill",
+      "source": "The Block",
+      "publishedAt": "2026-03-20T20:02:41.000Z",
+      "summary": "Key negotiators in advancing sweeping crypto legislation have reached an \"agreement in principle\" around the treatment of stablecoin yield.",
       "tags": [
-        "reduce",
-        "wall",
-        "street"
+        "lawmakers",
+        "reach",
+        "breakthrough"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
+        "recencyScore": 8,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "33fed501263093c507fef37ab76fb120abaa9506",
-      "score": 15
+      "dedupeFingerprint": "fe9168c6b2397b137dc24bbbb8135042aa913b80",
+      "score": 20
     }
   ]
 }
