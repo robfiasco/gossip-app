@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-03-22T19:23:38.653Z",
-    "totalCandidates": 96,
-    "solanaCandidates": 13,
+    "generatedAt": "2026-03-23T08:01:19.395Z",
+    "totalCandidates": 87,
+    "solanaCandidates": 15,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://solana.com/news/bits-to-bricks-stablecoins-de-dollarization-alisha-chhangani",
-      "title": "Bits to Bricks: Can Stablecoins Prevent De-Dollarization?",
-      "url": "https://solana.com/news/bits-to-bricks-stablecoins-de-dollarization-alisha-chhangani",
-      "source": "Solana News",
-      "publishedAt": "2026-03-20T00:00:00.000Z",
-      "summary": "Atlantic Council's Alisha Chhangani joins Bits to Bricks to discuss stablecoins, dollar dominance, CBDCs, and the future of digital currency.",
+      "id": "https://www.coindesk.com/markets/2026/03/23/south-korea-crypto-liquidity-drops-as-stablecoin-balances-plunge-55-and-stock-buying-rises",
+      "title": "South Korea crypto liquidity tumbles as stablecoin balances plunge 55% and stock buying rises",
+      "url": "https://www.coindesk.com/markets/2026/03/23/south-korea-crypto-liquidity-drops-as-stablecoin-balances-plunge-55-and-stock-buying-rises",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-23T04:23:36.000Z",
+      "summary": "On-chain data shows a sharp drawdown in dollar-linked token holdings since July, with the latest wave triggered by won weakness.",
       "tags": [
-        "bits",
-        "bricks",
-        "stablecoins"
+        "south",
+        "korea",
+        "crypto"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,14 +31,14 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 14,
+        "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 5,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "37424d251bd3600f6a57a83770fecee058ac67c5",
+      "dedupeFingerprint": "c96ae763e496925af70c3597b3a5c5e61a890367",
       "score": 24
     },
     {
@@ -66,58 +66,25 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "afd2e77f870e52c8df1f95613a2abd4b6443a33a",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://decrypt.co/361789/solana-treasury-forward-industries-loan-buy-back-shares",
-      "title": "Solana Treasury Forward Industries Uses Loan to Buy Back Shares After 89% Price Dive",
-      "url": "https://decrypt.co/361789/solana-treasury-forward-industries-loan-buy-back-shares",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-19T20:48:29.000Z",
-      "summary": "Solana treasury firm Forward Industries bought back more than 6 million shares for $27.4 million as it seeks to add shareholder value.",
+      "id": "https://www.coindesk.com/markets/2026/03/23/oil-silver-trading-is-way-more-popular-than-xrp-sol-on-hyperliquid",
+      "title": "Oil, silver trading is way more popular than XRP, solana on Hyperliquid",
+      "url": "https://www.coindesk.com/markets/2026/03/23/oil-silver-trading-is-way-more-popular-than-xrp-sol-on-hyperliquid",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-23T06:23:01.000Z",
+      "summary": "Traders on decentralized exchange Hyperliquid are increasingly favoring perpetual futures tied to commodities.",
       "tags": [
-        "solana",
-        "treasury",
-        "forward"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "dbb9ac363fa65a04b7bc44b1f65e6be22210149b",
-      "score": 16
-    },
-    {
-      "id": "https://decrypt.co/361929/white-house-ai-proposal-override-state-laws-avoid-new-regulator",
-      "title": "White House AI Proposal Seeks to Override State Laws, Avoid New Regulator",
-      "url": "https://decrypt.co/361929/white-house-ai-proposal-override-state-laws-avoid-new-regulator",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-20T17:56:24.000Z",
-      "summary": "The Trump administration's framework outlines a national approach to AI policy, from child safety to data centers.",
-      "tags": [
-        "white",
-        "house",
-        "proposal"
+        "silver",
+        "trading",
+        "more"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -132,27 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 6,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "6743d4ecb392e5637237e4c667df3efe1cd27f18",
-      "score": 14
+      "dedupeFingerprint": "181a48e33d4f24be3dc0fcf95b559de876830108",
+      "score": 19
     },
     {
-      "id": "https://decrypt.co/361864/bitcoin-trails-money-supply-growth-as-energy-costs-and-rates-bite",
-      "title": "Bitcoin Trails Money Supply Growth as Energy Costs and Rates Bite",
-      "url": "https://decrypt.co/361864/bitcoin-trails-money-supply-growth-as-energy-costs-and-rates-bite",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-20T01:56:02.000Z",
-      "summary": "Higher fuel costs and restrictive financial conditions are absorbing consumer liquidity, helping explain why expanding global money supply has yet to translate into gains for Bitcoin.",
+      "id": "https://www.theblock.co/post/394596/the-funding-token-to-equity-shift-crypto",
+      "title": "The Funding: Is a token-to-equity shift emerging in crypto?",
+      "url": "https://www.theblock.co/post/394596/the-funding-token-to-equity-shift-crypto",
+      "source": "The Block",
+      "publishedAt": "2026-03-23T02:18:52.000Z",
+      "summary": "Across Protocol’s recent temp check proposal raises a bigger question about the future of DAOs and tokens in crypto.",
       "tags": [
-        "bitcoin",
-        "trails",
-        "money"
+        "funding",
+        "token",
+        "equity"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": -3,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8d7cc58177b210553c047ba0feee0abda1d04025",
-      "score": -5
+      "dedupeFingerprint": "6397d482a7cb8b816d3ab76853f140c8aaaf76e2",
+      "score": 17
+    },
+    {
+      "id": "https://ambcrypto.com/stablecoin-usage-up-600-is-usdc-taking-the-lead-from-usdt",
+      "title": "Stablecoin usage up 600% – Is USDC taking the lead from USDT?",
+      "url": "https://ambcrypto.com/stablecoin-usage-up-600-is-usdc-taking-the-lead-from-usdt",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-23T06:00:45.000Z",
+      "summary": "Stablecoin growth accelerates as market participation expands.",
+      "tags": [
+        "stablecoin",
+        "usage",
+        "usdc"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "a2eb420307d2a9404738bfaacea02be7c9d333fe",
+      "score": 19
     }
   ]
 }

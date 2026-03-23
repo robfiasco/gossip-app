@@ -1,12 +1,17 @@
 {
-  "date": "2026-03-22",
-  "generated_at_utc": "2026-03-22T19:23:46.841Z",
-  "ctxMarket": "Attention is focused on Solana’s role in onchain corporate treasury solutions and ongoing debates about the viability of crypto gaming. Recent treasury activity and infrastructure growth are also drawing interest.",
-  "ctxTalking": "• Solana Foundation’s president declaring crypto gaming “dead,” despite ongoing brand efforts\n• Forward Industries’ large share buyback following a significant price drop\n• Continued growth in cross-chain transaction activity, with Solana maintaining high usage",
-  "ctxMatters": "Solana’s positioning in corporate treasury highlights its infrastructure for real-world business needs. The gaming sector’s struggles may influence developer focus and funding. Share buybacks by treasury firms can affect perceptions of value and stability for ecosystem participants.",
-  "ctxSignal": "Signal: Institutional adoption of onchain treasury and sustained transaction growth on Solana.\nNoise: Broad claims about the end of crypto gaming, which remain debated and speculative.",
-  "ctxGlossary": "Share buyback — When a company repurchases its own shares from the market, often to boost shareholder value.\nOnchain treasury — Managing company funds directly on a blockchain for liquidity and payouts.",
+  "date": "2026-03-23",
+  "generated_at_utc": "2026-03-23T08:01:29.756Z",
+  "ctxMarket": "Attention is shifting toward commodity trading on decentralized platforms, with oil and silver futures seeing higher activity than Solana or XRP on Hyperliquid. Meanwhile, Solana’s ecosystem is drawing interest for onchain treasury solutions and infrastructure growth.",
+  "ctxTalking": "• Commodities like oil and silver are outpacing crypto assets in trading popularity on Hyperliquid\n• Solana Foundation’s president claims crypto gaming has stalled, but some brands persist\n• Corporate treasury management is increasingly moving onchain, leveraging Solana for global liquidity",
+  "ctxMatters": "Solana’s role in onchain treasury highlights its infrastructure for institutional use. Shifting trading preferences may impact liquidity and attention on Solana-linked assets. The debate over blockchain gaming’s future could influence developer and investor focus within the Solana ecosystem.",
+  "ctxSignal": "Signal: Commodities gaining traction over crypto assets on decentralized exchanges; Solana’s adoption in corporate treasury workflows.\nNoise: Broad claims about the end of crypto gaming, as some brands continue development.",
+  "ctxGlossary": "Perpetual futures — Derivatives contracts without expiry, allowing continuous trading on price movements.\nOnchain treasury — Managing company funds directly on blockchain platforms for efficiency and access.",
   "readMore": [
+    {
+      "title": "Oil, silver trading is way more popular than XRP, solana on Hyperliquid",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/03/23/oil-silver-trading-is-way-more-popular-than-xrp-sol-on-hyperliquid"
+    },
     {
       "title": "Solana Foundation president says crypto gaming is dead",
       "source": "The Block",
@@ -16,11 +21,6 @@
       "title": "Solana Treasury Forward Industries Uses Loan to Buy Back Shares After 89% Price Dive",
       "source": "Decrypt",
       "url": "https://decrypt.co/361789/solana-treasury-forward-industries-loan-buy-back-shares"
-    },
-    {
-      "title": "State of Rango Q4 2025",
-      "source": "Messari",
-      "url": "https://messari.io/article/state-of-rango-q4-2025"
     }
   ]
 }
