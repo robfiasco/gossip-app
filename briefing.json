@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "ECOSYSTEM",
+      "title": "Backpack launches BP token on Solana with 25% airdrop, no insider allocation",
+      "category": "ECOSYSTEM",
+      "source": "CoinDesk",
+      "date": "2026-03-23",
+      "url": "https://www.coindesk.com/business/2026/03/23/backpack-launches-bp-token-on-solana-with-25-airdrop-no-insider-allocation",
+      "whyYouShouldCare": "The launch of the BP token with a significant airdrop and no insider allocation could enhance user engagement and liquidity within the Solana ecosystem."
+    },
+    {
       "type": "APPS",
       "title": "Oil, silver trading is way more popular than XRP, solana on Hyperliquid",
       "category": "APPS",
       "source": "CoinDesk",
       "date": "2026-03-23",
       "url": "https://www.coindesk.com/markets/2026/03/23/oil-silver-trading-is-way-more-popular-than-xrp-sol-on-hyperliquid",
-      "whyYouShouldCare": "The growing popularity of oil and silver trading on Hyperliquid highlights a potential shift in liquidity away from cryptocurrencies like XRP and Solana."
+      "whyYouShouldCare": "Increased trading popularity of oil and silver over XRP and Solana on Hyperliquid highlights a potential shift in user preferences and market dynamics."
     },
     {
       "type": "MARKET",
-      "title": "Resolv stablecoin crashes 70% as attacker extracts $25 million in ETH",
+      "title": "BlackRock CEO Larry Fink sees tokenization making investing with your phone as easy as payments",
       "category": "MARKET",
-      "source": "CoinDesk",
+      "source": "The Block",
       "date": "2026-03-23",
-      "url": "https://www.coindesk.com/markets/2026/03/23/resolv-stablecoin-drops-70-after-usd80-million-exploit-after-attacker-mints-usr",
-      "whyYouShouldCare": "The significant crash of Resolv stablecoin and the $25 million theft could undermine trust in stablecoins, impacting overall market stability and liquidity."
-    },
-    {
-      "type": "MARKET",
-      "title": "Stablecoin usage up 600% – Is USDC taking the lead from USDT?",
-      "category": "MARKET",
-      "source": "AMB Crypto",
-      "date": "2026-03-23",
-      "url": "https://ambcrypto.com/stablecoin-usage-up-600-is-usdc-taking-the-lead-from-usdt",
-      "whyYouShouldCare": "A 600% increase in stablecoin usage, particularly with USDC gaining traction over USDT, signals evolving preferences that could influence Solana's ecosystem and liquidity."
+      "url": "https://www.theblock.co/post/394746/blackrock-larry-fink-tokenization-making-investing-with-phone-easy-as-payments",
+      "whyYouShouldCare": "Larry Fink's insights on tokenization suggest a growing trend towards simplifying investments, which could drive more users to platforms like Solana."
     }
   ]
 }

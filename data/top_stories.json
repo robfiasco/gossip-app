@@ -1,13 +1,112 @@
 {
   "meta": {
-    "generatedAt": "2026-03-23T08:01:19.395Z",
-    "totalCandidates": 87,
-    "solanaCandidates": 15,
+    "generatedAt": "2026-03-23T19:46:47.628Z",
+    "totalCandidates": 88,
+    "solanaCandidates": 13,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://www.coindesk.com/business/2026/03/23/backpack-launches-bp-token-on-solana-with-25-airdrop-no-insider-allocation",
+      "title": "Backpack launches BP token on Solana with 25% airdrop, no insider allocation",
+      "url": "https://www.coindesk.com/business/2026/03/23/backpack-launches-bp-token-on-solana-with-25-airdrop-no-insider-allocation",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-23T13:52:21.000Z",
+      "summary": "The remaining tokens are subject to long-term lockups tied to company milestones and a potential IPO.",
+      "tags": [
+        "backpack",
+        "launches",
+        "token"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 15,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "476377d93e539b03295c2097a1e931eb06706323",
+      "score": 29
+    },
+    {
+      "id": "https://www.theblock.co/post/394739/biotech-stock-novabay-jumps-rebrand-stablecoin-development-corporation",
+      "title": "Biotech stock NovaBay jumps 19% amid pivot, rebrand to Stablecoin Development Corporation",
+      "url": "https://www.theblock.co/post/394739/biotech-stock-novabay-jumps-rebrand-stablecoin-development-corporation",
+      "source": "The Block",
+      "publishedAt": "2026-03-23T19:00:56.000Z",
+      "summary": "NovaBay's strategy centers on staking rewards, tying returns to Sky’s governance parameters and participation levels.",
+      "tags": [
+        "biotech",
+        "stock",
+        "novabay"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3c10960c10d28528a00146b0f4c92913c30cb9b1",
+      "score": 25
+    },
+    {
+      "id": "https://www.theblock.co/post/394715/aave-dao-v4-deployment-request-comment-proposal",
+      "title": "Aave DAO takes step closer V4 deployment with request for comment proposal",
+      "url": "https://www.theblock.co/post/394715/aave-dao-v4-deployment-request-comment-proposal",
+      "source": "The Block",
+      "publishedAt": "2026-03-23T16:46:27.000Z",
+      "summary": "The snapshot vote comes in the wake of significant Aave governance shakeups, including the announced departures of BGD Labs and ACI.",
+      "tags": [
+        "aave",
+        "takes",
+        "step"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "049447594c67eb2d80b7af7bdc854f9f89c969eb",
+      "score": 25
+    },
     {
       "id": "https://www.coindesk.com/markets/2026/03/23/south-korea-crypto-liquidity-drops-as-stablecoin-balances-plunge-55-and-stock-buying-rises",
       "title": "South Korea crypto liquidity tumbles as stablecoin balances plunge 55% and stock buying rises",
@@ -33,126 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "c96ae763e496925af70c3597b3a5c5e61a890367",
-      "score": 24
+      "score": 23
     },
     {
-      "id": "https://www.theblock.co/post/394566/grayscale-files-hype-etf-tracking-onchain-perps-dex-hyperliquid",
-      "title": "Grayscale files for HYPE ETF tracking largest onchain perps DEX Hyperliquid",
-      "url": "https://www.theblock.co/post/394566/grayscale-files-hype-etf-tracking-onchain-perps-dex-hyperliquid",
-      "source": "The Block",
-      "publishedAt": "2026-03-20T20:27:27.000Z",
-      "summary": "According to the filing on Friday, the Grayscale HYPE ETF would trade on the Nasdaq under the ticker symbol GHYP if approved.",
-      "tags": [
-        "grayscale",
-        "files",
-        "hype"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 6,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "afd2e77f870e52c8df1f95613a2abd4b6443a33a",
-      "score": 20
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/03/23/oil-silver-trading-is-way-more-popular-than-xrp-sol-on-hyperliquid",
-      "title": "Oil, silver trading is way more popular than XRP, solana on Hyperliquid",
-      "url": "https://www.coindesk.com/markets/2026/03/23/oil-silver-trading-is-way-more-popular-than-xrp-sol-on-hyperliquid",
+      "id": "https://www.coindesk.com/business/2026/03/23/pharmaceutical-firm-pivots-to-stablecoins-holds-nearly-9-of-sky-s-supply",
+      "title": "Pharmaceutical firm pivots to stablecoins, holds nearly 9% of SKY's supply",
+      "url": "https://www.coindesk.com/business/2026/03/23/pharmaceutical-firm-pivots-to-stablecoins-holds-nearly-9-of-sky-s-supply",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-23T06:23:01.000Z",
-      "summary": "Traders on decentralized exchange Hyperliquid are increasingly favoring perpetual futures tied to commodities.",
+      "publishedAt": "2026-03-23T14:25:29.000Z",
+      "summary": "Nanocap NovaBay Pharmaceuticals changed its name to Stablecoin Development Corporation.",
       "tags": [
-        "silver",
-        "trading",
-        "more"
+        "pharmaceutical",
+        "firm",
+        "pivots"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "181a48e33d4f24be3dc0fcf95b559de876830108",
-      "score": 19
-    },
-    {
-      "id": "https://www.theblock.co/post/394596/the-funding-token-to-equity-shift-crypto",
-      "title": "The Funding: Is a token-to-equity shift emerging in crypto?",
-      "url": "https://www.theblock.co/post/394596/the-funding-token-to-equity-shift-crypto",
-      "source": "The Block",
-      "publishedAt": "2026-03-23T02:18:52.000Z",
-      "summary": "Across Protocol’s recent temp check proposal raises a bigger question about the future of DAOs and tokens in crypto.",
-      "tags": [
-        "funding",
-        "token",
-        "equity"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6397d482a7cb8b816d3ab76853f140c8aaaf76e2",
-      "score": 17
-    },
-    {
-      "id": "https://ambcrypto.com/stablecoin-usage-up-600-is-usdc-taking-the-lead-from-usdt",
-      "title": "Stablecoin usage up 600% – Is USDC taking the lead from USDT?",
-      "url": "https://ambcrypto.com/stablecoin-usage-up-600-is-usdc-taking-the-lead-from-usdt",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-23T06:00:45.000Z",
-      "summary": "Stablecoin growth accelerates as market participation expands.",
-      "tags": [
-        "stablecoin",
-        "usage",
-        "usdc"
-      ],
-      "topicBucket": "defi",
+      "topicBucket": "tokenomics",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -166,12 +166,12 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a2eb420307d2a9404738bfaacea02be7c9d333fe",
-      "score": 19
+      "dedupeFingerprint": "b0b341be2dea06d1acdcfa88b6261cc58aef8a92",
+      "score": 22
     }
   ]
 }
