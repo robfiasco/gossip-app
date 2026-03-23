@@ -1,37 +1,47 @@
 {
-  "generated_at": "2026-03-22T12:15:59.270Z",
+  "generated_at": "2026-03-23T14:34:01.055Z",
   "global_metrics": {
-    "total_tweets": 37,
-    "total_engagement": 10209,
-    "unique_voices": 15,
-    "top_tweet": 1798
+    "total_tweets": 55,
+    "total_engagement": 16907,
+    "unique_voices": 20,
+    "top_tweet": 1927
   },
   "items": [
     {
-      "id": "story_1774181725832_0",
-      "title": "Solana’s Gaming Future in Question Despite Ecosystem Growth",
+      "id": "story_1774276366168_0",
+      "title": "Solana Sees Major Growth as New Assets Launch",
       "type": "critical",
       "category": "Security / Risk Alert",
-      "author": "@SolanaFloor",
-      "timestamp": "2026-03-22T12:15:25.832Z",
+      "author": "@solana",
+      "timestamp": "2026-03-23T14:32:46.168Z",
       "metrics": {
-        "tweets": 27,
-        "engagement": 7342,
-        "topTweet": 1798,
-        "voices": 8,
+        "tweets": 34,
+        "engagement": 10937,
+        "topTweet": 1927,
+        "voices": 12,
         "engagementTrend": [
-          2937,
-          4038,
-          4993,
-          6020,
-          7342
+          4375,
+          6015,
+          7437,
+          8968,
+          10937
         ]
       },
       "ctPulse": [
         {
-          "handle": "@SolanaFloor",
-          "thought": "🚨JUST IN: Solana Foundation President @calilyliu says “gaming on a blockchain is not coming back.” https://t.co/wcnXCYpiOP",
-          "url": "https://twitter.com/SolanaFloor/status/2034983866092679486"
+          "handle": "@solana",
+          "thought": "SOL is officially a digital commodity. While the headlines were catching up to reality, RWA value hit an all-time high, stablecoin supply crossed $17B, and the builder pipeline keeps getting deeper.\n\n",
+          "url": "https://twitter.com/solana/status/2035703041676939747"
+        },
+        {
+          "handle": "@solana",
+          "thought": "BREAKING: $BP, the official @Backpack token, is live on Solana https://t.co/NCTrVCgXYa",
+          "url": "https://twitter.com/solana/status/2036061369796276634"
+        },
+        {
+          "handle": "@tokens",
+          "thought": "287 stocks. 25 ETFs. Gold. Oil. Bitcoin. All live on Solana.\n\nEvery asset behind the headline, live on Solana.\n\nFollow and turn on notifications. https://t.co/LfRhDQb4PC",
+          "url": "https://twitter.com/tokens/status/2035357503429427639"
         },
         {
           "handle": "@SolanaSensei",
@@ -39,182 +49,172 @@
           "url": "https://twitter.com/SolanaSensei/status/2035635856279757131"
         },
         {
-          "handle": "@SolanaSensei",
-          "thought": "I’m thankful to be alive\n\nI’m thankful for Solana\n\nI’m thankful for you reading this\n\nI’m thankful for the opportunities ahead",
-          "url": "https://twitter.com/SolanaSensei/status/2035249806923493551"
-        },
-        {
-          "handle": "@SolanaSensei",
-          "thought": "Solana continues to maintain its lead, surpassing all other chains in weekly DEX volume.\n\n- Volume: $19B+ https://t.co/Sul9cnvRF5",
-          "url": "https://twitter.com/SolanaSensei/status/2035287060073046193"
-        },
-        {
-          "handle": "@SolanaSensei",
-          "thought": "Solana right now:\n\n- 10M active users\n- 500M+ weekly transactions with lowest fees\n- $2B+ in daily spot DEX volume\n- New all-time highs in RWA value and holders\n- One of the highest staking participat",
-          "url": "https://twitter.com/SolanaSensei/status/2035364066110353797"
+          "handle": "@solana",
+          "thought": "Solana Consumer Day. Miami. May 4th.\n\nThe day before Accelerate, the builders shipping consumer apps take center stage.\n\nPresented by @SuperteamUSA https://t.co/gBa4IGshvO",
+          "url": "https://twitter.com/solana/status/2036012403587252314"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@calilyliu",
-          "reason": "Foundation president shaping Solana’s strategic direction",
+          "handle": "@solana",
+          "reason": "Official updates and ecosystem news",
           "role": "Builder",
-          "engagement": 3328
+          "engagement": 4238
         },
         {
           "handle": "@SolanaSensei",
-          "reason": "Provides ecosystem insights and data-driven updates",
+          "reason": "Ecosystem analytics and DeFi insights",
           "role": "Analyst",
-          "engagement": 2251
+          "engagement": 2488
         }
       ],
       "content": {
-        "signal": "Solana Foundation’s president says blockchain gaming is unlikely to return, raising questions about the sector’s direction even as Solana’s ecosystem metrics surge.",
-        "story": "Solana Foundation President Lily Liu has publicly stated that 'gaming on a blockchain is not coming back.' This direct comment stands out against a backdrop of rapid growth and innovation across the Solana ecosystem, where activity and user numbers continue to climb. The statement has sparked debate about the viability of blockchain-based gaming, especially on a chain that has otherwise seen strong adoption in DeFi, tokenized assets, and trading infrastructure.\n\n### What's Happening\nSolana’s network is seeing record activity: over 10 million active users, more than 500 million weekly transactions, and daily decentralized exchange (DEX) volumes exceeding $2 billion. New financial products, like tokenized stocks and leveraged ETFs, are gaining traction, and real-world asset (RWA) DeFi total value locked (TVL) has hit all-time highs. Yet, despite this momentum, the Foundation’s leadership is signaling a retreat from blockchain gaming as a strategic focus.\n\nAt the same time, Solana’s technical advantages—low fees and high throughput—are being leveraged for a broad range of products. Users can trade pre-IPO shares, participate in innovative airdrop farming strategies, and access privacy tools. Several games are live or in development on Solana, but the Foundation’s stance suggests these may remain niche rather than ecosystem-defining.\n\n### Why It Matters\nLiu’s comment is significant because gaming has often been touted as a major use case for blockchains, promising new models for ownership and player-driven economies. Solana’s technical capabilities theoretically make it a strong candidate for hosting high-throughput games. The Foundation’s public skepticism could influence developer priorities and investor sentiment, potentially redirecting resources toward DeFi, tokenization, and infrastructure instead.\n\nMeanwhile, Solana’s ecosystem is thriving in other areas. The chain leads in DEX volume, has robust staking participation, and is attracting both retail and institutional attention with new financial primitives. This diversification may insulate Solana from the risks of overreliance on any single sector, but it also means that gaming—once a high-profile narrative—may not be a growth engine in the near term.\n\n### The Risk or Debate\nThe main risk is that dismissing blockchain gaming could close the door on future innovation, especially if new models or technologies emerge that make on-chain gaming more viable. There’s also debate about whether the Foundation’s stance reflects technical limitations, market realities, or a strategic pivot. For developers and users invested in Solana-based games, this could signal reduced support or funding.\n\nOn the other hand, the ecosystem’s focus on DeFi, tokenized assets, and privacy may yield more immediate and scalable results. Still, if gaming does see a resurgence elsewhere, Solana could miss out on a key growth vertical.\n\n### What To Watch\nWatch for how Solana’s gaming projects respond—whether they double down, pivot, or seek support elsewhere. Monitor whether developer activity shifts further toward DeFi and tokenized assets, and if the Foundation’s position evolves over time. Also, keep an eye on user engagement metrics for Solana-based games and whether any breakthrough titles or technologies challenge the current narrative.",
+        "signal": "Solana is experiencing rapid ecosystem expansion, with new asset launches, record stablecoin flows, and official recognition as a digital commodity.",
+        "story": "Solana is having a breakout moment, marked by a surge in new asset launches and a wave of on-chain activity. The U.S. SEC has formally classified SOL as a digital commodity, putting it in a clearer regulatory category. At the same time, Solana’s stablecoin supply has crossed $17 billion, and real-world asset (RWA) value on the network has hit all-time highs. \n\n### What's Happening\n\nThis week, Solana saw the launch of $BP, the official token for Backpack, and the rollout of tokenized stocks, ETFs, gold, oil, and Bitcoin—all live on Solana. The network’s total spot DEX volume is approaching $2.7 trillion, with meme coins and stablecoin swaps driving much of the activity. Solana’s transaction fees remain significantly lower than Ethereum’s, making it attractive for high-frequency trading and consumer apps. \n\nThe developer ecosystem is also evolving, with the release of the new Anchor v1.0.0 release candidate, which updates the Solana SDK and improves tooling for builders. Meanwhile, consumer-focused events like Solana Consumer Day are highlighting the growing pipeline of apps targeting mainstream users.\n\n### Why It Matters\n\nSolana’s recognition as a digital commodity by the SEC is a regulatory milestone that could encourage more institutional and retail participation. The network’s ability to support tokenized stocks and RWAs positions it as a serious contender for the next wave of on-chain finance. Record stablecoin flows and DeFi TVL growth—especially in RWA protocols—signal that capital is moving onto Solana at scale.\n\nThe combination of low fees, high throughput, and a deepening builder ecosystem is making Solana a hub for both speculative trading and real-world use cases. New DeFi products, yield opportunities, and gaming projects are attracting both developers and users, while the infrastructure is maturing with more audits and open-source releases.\n\n### The Risk or Debate\n\nRapid growth brings risks. The influx of new assets and protocols can increase the attack surface, especially as users chase high yields or experiment with new DeFi products. While some protocols tout multiple audits and open-source code, the speed of innovation may outpace security best practices. The relatively small size of some airdrops, like $BP, may also disappoint users expecting larger rewards, potentially impacting community sentiment.\n\nThere’s also debate around the sustainability of current yields and whether the network can maintain its low fees and high performance as activity scales. Regulatory clarity for SOL is a positive, but the status of other assets and protocols on Solana remains less certain.\n\n### What To Watch\n\nKeep an eye on further regulatory developments and whether other Solana-based assets receive similar clarity. Watch for continued growth in tokenized assets and RWAs, as well as the adoption of new DeFi protocols and consumer apps. The rollout of new developer tools and SDKs may accelerate innovation, but also watch for any security incidents as the ecosystem expands. Finally, monitor stablecoin flows and DEX volumes as indicators of ongoing network health and user demand.",
         "takeaways": [
-          "Solana Foundation leadership is publicly downplaying blockchain gaming as a growth area.",
-          "Solana’s ecosystem is seeing record activity in DeFi, tokenized assets, and trading infrastructure.",
-          "The shift away from gaming could impact developer focus and future innovation on the chain."
+          "SOL is now officially classified as a digital commodity by the SEC.",
+          "Solana’s stablecoin supply and RWA value are at record highs, with growing DeFi and tokenized asset activity.",
+          "Rapid expansion brings both opportunity and increased security risk as new protocols and assets launch."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 7.9
+      "narrativeStrength": 8.8
     },
     {
-      "id": "story_1774181748399_1",
-      "title": "Backpack Launches Multi-Source Yield and Token-Eq Model",
+      "id": "story_1774276397419_1",
+      "title": "Backpack Launches $BP Token on Solana with User-First Model",
       "type": "alpha",
-      "category": "Prediction Markets",
+      "category": "Privacy / ZK Tech",
       "author": "@Backpack",
-      "timestamp": "2026-03-22T12:15:48.399Z",
+      "timestamp": "2026-03-23T14:33:17.419Z",
       "metrics": {
-        "tweets": 7,
-        "engagement": 2163,
-        "topTweet": 961,
-        "voices": 5,
+        "tweets": 18,
+        "engagement": 4518,
+        "topTweet": 700,
+        "voices": 7,
         "engagementTrend": [
-          865,
-          1189,
-          1471,
-          1773,
-          2163
+          1807,
+          2485,
+          3072,
+          3705,
+          4518
         ]
       },
       "ctPulse": [
         {
           "handle": "@Backpack",
-          "thought": "Backpack rewards aren't just about the TGE 🎒\n\nLending, staking, stablecoins, airdrops - multiple sources of yield all in one margin account.\n\nYour rewards summary is live now. Show us yours 👇 https:",
-          "url": "https://twitter.com/Backpack/status/2035597718962204806"
+          "thought": "$BP is live on @solana.\n\nSwap $BP with Backpack Wallet with zero fees. https://t.co/wKMsIIQBrI",
+          "url": "https://twitter.com/Backpack/status/2036060922884567237"
         },
         {
-          "handle": "@armaniferrante",
-          "thought": "If you're interested in learning about what Backpack is doing, why it's doing it, and where we're going--with TGE and beyond--this interview is worth watching.\n\n(Don't worry it's not in Japanese)",
-          "url": "https://twitter.com/armaniferrante/status/2035263821745725658"
+          "handle": "@Backpack",
+          "thought": "Trade $BP now on Backpack Exchange.\n\nWithdrawals open soon. https://t.co/xfah7Hc90d",
+          "url": "https://twitter.com/Backpack/status/2036058789988667723"
         },
         {
-          "handle": "@sol_nxxn",
-          "thought": "Backpack $BP airdrop is a few days away 🪂\n\nFinal calculations (at ~$350M FDV):\n1 Backpack point = ~$0.2\n1 Mad Lad = ~$350\n\nHow much are you getting? Holding or selling? 🤔",
-          "url": "https://twitter.com/sol_nxxn/status/2034649893348708685"
+          "handle": "@SolanaSensei",
+          "thought": "There's a @solana token that has 72% of its circulating supply staked and it starts with an S.\n\nWhat do you think it is? Hint below. https://t.co/LwVK2Mne5S",
+          "url": "https://twitter.com/SolanaSensei/status/2035739794408722571"
         },
         {
-          "handle": "@inno_ox",
-          "thought": "3 days for $BP TGE, \nreminder what is @Backpack and whats coming 👀 🎒 \n\n> Multi-chain wallet (0 fees Swaps/Bridges)\n> Fully regulated exchange, official licenses \n> Auto-Lend your liquidity while tra",
-          "url": "https://twitter.com/inno_ox/status/2035049684213940514"
+          "handle": "@SolanaSensei",
+          "thought": "What's your favorite stock to buy on @solana?\n\nWe have so many rn. It's interesting to hear what y'all think... https://t.co/gS2qbjVjS4",
+          "url": "https://twitter.com/SolanaSensei/status/2036005550870397101"
         },
         {
-          "handle": "@jussy_world",
-          "thought": "🚨 Backpack TGE is in 4 days\n\nHere’s everything you should know:\n\n- ticker: $BP\n- 1B token supply\n\n- zero tokens allocated for exchange listings\n- verification is required to claim\n\n- 25% of supply li",
-          "url": "https://twitter.com/jussy_world/status/2034632378338169291"
+          "handle": "@FabianoSolana",
+          "thought": "- No insiders\n- No VCs\n- No team tokens\n\nJust users\n\nBackpack TGE is tomorrow 🎒\n\nStake or dump? Let's find out:\n\n1️⃣ Tokenomics\n\n- 25% at TGE (24% points + 1% Mad Lads)\n- 37.5% pre-IPO (unlocked by a",
+          "url": "https://twitter.com/FabianoSolana/status/2035704316464681017"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@armaniferrante",
-          "reason": "Founder and CEO of Backpack, sharing strategic updates and vision.",
+          "handle": "@Backpack",
+          "reason": "Official source for $BP updates and platform changes.",
           "role": "Builder",
-          "engagement": 1075
+          "engagement": 1231
         },
         {
-          "handle": "@Backpack",
-          "reason": "Official account for platform announcements and feature launches.",
-          "role": "Community",
-          "engagement": 416
+          "handle": "@FabianoSolana",
+          "reason": "Provides critical analysis and tokenomics breakdowns.",
+          "role": "Analyst",
+          "engagement": 1049
         }
       ],
       "content": {
-        "signal": "Backpack is rolling out a margin account offering yield from lending, staking, stablecoins, and airdrops, with a TGE and equity-linked token model.",
-        "story": "Backpack is moving beyond its upcoming token generation event (TGE) by launching a margin account that aggregates multiple sources of yield—lending, staking, stablecoins, and airdrops—within a single platform. The project is positioning itself as more than just a wallet or exchange, introducing a suite of features that blend DeFi and CeFi elements, including regulated exchange services, trading bots, and zero-fee swaps and bridges. The TGE for Backpack’s $BP token is imminent, with airdrop allocations and a points-based rewards system now live for users to review.\n\n### What's Happening\n\nBackpack’s $BP token will have a 1 billion supply, with 25% unlocked at TGE. Of this, 1% is set aside for Mad Lads NFT holders and 24% for points holders, reflecting user engagement and platform activity. Notably, there are no tokens allocated for exchange listings at launch, and verification is required to claim rewards. The platform is also introducing a token-plus-equity model: users who lock their airdrop for a year receive a share of Backpack’s equity—20% of the company—distributed among participants. Backpack’s roadmap includes regulated exchange operations, on/off-ramps with no fees, and plans to offer real stocks in the future.\n\n### Why It Matters\n\nBackpack’s approach signals a shift in how Solana-based platforms reward and retain users. By combining multiple yield streams and equity incentives, Backpack aims to deepen user engagement and loyalty. The equity component is especially notable, as it blurs the line between token utility and traditional ownership, potentially setting a precedent for other projects seeking to align user and company interests. The platform’s regulatory focus and multi-chain capabilities could appeal to users seeking both compliance and flexibility.\n\nThe absence of exchange listing allocations at TGE suggests a controlled distribution, possibly to reduce speculative volatility and prioritize active community members. The integration of features like auto-lending and trading bots within a regulated environment positions Backpack as a hybrid platform, catering to both retail and more advanced users. The planned addition of real stocks could further differentiate Backpack from typical crypto exchanges.\n\n### The Risk or Debate\n\nThe equity-linked token model introduces regulatory and operational complexity. Users must complete verification to claim rewards, which may limit participation for some. The requirement to lock tokens for a year to access equity could deter those seeking liquidity or immediate returns. The lack of exchange listing allocations may also affect initial liquidity and price discovery for $BP. As with any platform aggregating multiple yield sources, smart contract and custodial risks remain, especially as new features roll out.\n\n### What To Watch\n\nThe $BP TGE and airdrop distribution are key near-term events. User response to the equity staking model will be a critical signal for future adoption. The rollout of regulated exchange features, trading bots, and the introduction of real stocks will test Backpack’s ability to execute on its ambitious roadmap. Monitoring how the platform manages compliance, user verification, and cross-chain operations will provide early indicators of its long-term viability and impact on the Solana ecosystem.",
+        "signal": "$BP, the Backpack ecosystem token, is now live on Solana with trading and staking enabled.",
+        "story": "Backpack has launched its $BP token on Solana, opening trading with zero fees on its wallet and exchange. The rollout includes an airdrop, with initial allocations auto-staked for recipients, and a staking page now live. Withdrawals are set to open shortly after trading begins, and the token is already trading at a fully diluted valuation around $300–400 million in pre-market activity.\n\n### What's Happening\n\n$BP’s launch is notable for its tokenomics: 25% of supply is unlocked at the token generation event, with 37.5% tied to pre-IPO achievements and the remainder locked for a year post-IPO. There are no allocations for insiders, VCs, or the team—only users hold tokens at launch. Mad Lads NFT holders received allocations, and the community controls circulating supply in the early phase. The staking mechanism offers flexible unstaking in the first week, then introduces a seven-day unstaking period.\n\n### Why It Matters\n\nThis launch signals a shift toward user-centric token distributions in the Solana ecosystem. By excluding insiders and VCs from early allocations, Backpack positions $BP as a community-driven asset. The structure aims to reward active users and NFT holders, aligning incentives with platform engagement. The token’s design also hints at future utility, with staking unlocking additional features and potential company ownership implications, a first-of-its-kind experiment in crypto.\n\nThe launch comes as interest in Solana-based tokens grows, with high staking rates and active trading across the ecosystem. $BP’s pre-market valuation and immediate liquidity reflect strong anticipation and set a benchmark for future token launches on Solana.\n\n### The Risk or Debate\n\nQuestions have emerged about distribution fairness, particularly regarding rewards for long-term versus recent Mad Lads holders. Some community members have raised concerns over Backpack’s revenue from Mad Lads royalties compared to the airdrop value allocated to NFT holders. The model’s reliance on user engagement and staking could also introduce volatility or concentration risks if large holders dominate early supply. The post-IPO unlock schedule may impact supply dynamics in the future.\n\n### What To Watch\n\nKey developments to monitor include the opening of withdrawals, the evolution of staking utility, and how the community responds to the token’s distribution model. The impact of post-IPO unlocks and any adjustments to staking incentives will shape $BP’s trajectory. Ongoing debate about fairness and alignment between Backpack, Mad Lads holders, and new users may influence future governance or tokenomics updates.",
         "takeaways": [
-          "Backpack is launching a margin account with multiple yield sources and a TGE for its $BP token.",
-          "Users who lock their airdrop for a year receive a share of Backpack’s equity.",
-          "No tokens are allocated for exchange listings at TGE, and verification is required to claim rewards."
+          "$BP token is live on Solana with trading and staking enabled.",
+          "Initial supply is entirely in user hands; no insiders or VC allocations.",
+          "Distribution fairness and future unlocks are active topics in the community."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 5.5
+      "narrativeStrength": 6.9
     },
     {
-      "id": "story_1774181759270_2",
-      "title": "xPoints Expand Across Solana DeFi Platforms",
+      "id": "story_1774276441055_2",
+      "title": "Seeker Users Drive Major SKR Staking Surge",
       "type": "alpha",
-      "category": "DeFi Innovation",
-      "author": "@SolanaSensei",
-      "timestamp": "2026-03-22T12:15:59.270Z",
+      "category": "Mobile / Seeker",
+      "author": "@solanamobile",
+      "timestamp": "2026-03-23T14:34:01.055Z",
       "metrics": {
         "tweets": 3,
-        "engagement": 704,
-        "topTweet": 283,
-        "voices": 2,
+        "engagement": 1452,
+        "topTweet": 1322,
+        "voices": 1,
         "engagementTrend": [
-          282,
-          387,
-          479,
-          577,
-          704
+          581,
+          799,
+          987,
+          1191,
+          1452
         ]
       },
       "ctPulse": [
         {
-          "handle": "@SolanaSensei",
-          "thought": "If you've been holding xstocks, here's where your x-points are counting across these DeFi platforms\n\n- Orca\n- OnRe\n- Piggybank\n- Kamino\n\nWhich other ones am I missing?\n\nDon't forget, you get x-points ",
-          "url": "https://twitter.com/SolanaSensei/status/2035008574666228000"
+          "handle": "@solanamobile",
+          "thought": "S rules everything around me\n\n4.3B SKR is staked\nthat's 72% of circulating supply\n\nhave a great weekend, Seekers https://t.co/QVlJHrr7M4",
+          "url": "https://twitter.com/solanamobile/status/2035120901360885836"
         },
         {
-          "handle": "@kamino",
-          "thought": "Tokenized equities are scaling onchain with @xStocksFi on Kamino.\n\nSupply and utilize xStocks as collateral to earn xPoints, rewarding participation and expanding onchain capital markets. https://t.co",
-          "url": "https://twitter.com/kamino/status/2035069266702344200"
+          "handle": "@solanamobile",
+          "thought": "h/t to @ledger_top for the data\n\nanyone can stake at https://t.co/IqJcmIV6iW or in Seed Vault Wallet on Seeker to earn more SKR btw",
+          "url": "https://twitter.com/solanamobile/status/2035121673112879444"
         },
         {
-          "handle": "@kamino",
-          "thought": "Kamino will be piloting the integration of Atlas Collateral Management with Anchorage Digital — a secure, compliant, 24/7 solution for institutional credit.\n\nKamino continues to set the standard for i",
-          "url": "https://twitter.com/kamino/status/2034694051061276993"
+          "handle": "@solanamobile",
+          "thought": "RT @magicblock: Ever wondered if Seeker's 150,000+ users actually convert?\n\nColony proved it on its first week of launch: 2,300 new players…",
+          "url": "https://twitter.com/solanamobile/status/2035491319951581357"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@SolanaSensei",
-          "reason": "Shares insights on Solana DeFi integrations and user incentives.",
-          "role": "Analyst",
-          "engagement": 421
+          "handle": "@solanamobile",
+          "reason": "Primary source for Seeker developments and ecosystem updates.",
+          "role": "Builder",
+          "engagement": 1452
         },
         {
-          "handle": "@kamino",
-          "reason": "Leading protocol in integrating xStocks and institutional credit infrastructure.",
-          "role": "Builder",
-          "engagement": 283
+          "handle": "@ledger_top",
+          "reason": "Provides key data and analytics on staking activity.",
+          "role": "Analyst",
+          "engagement": 0
         }
       ],
       "content": {
-        "signal": "xPoints earned via xStocks are now recognized across multiple Solana DeFi protocols, deepening onchain capital market integration.",
-        "story": "Solana's DeFi ecosystem is seeing a notable shift as xPoints—rewards tied to xStocks—are now being counted across several platforms, including Orca, OnRe, Piggybank, and Kamino. This development means that users holding xStocks or participating in related activities like liquidity provision and borrowing/lending can accumulate xPoints that are recognized by more than one protocol. The move signals a growing trend toward interoperability and shared incentives within Solana’s onchain capital markets.\n\n### What's Happening\nxStocks, which represent tokenized equities on Solana, have introduced a points system (xPoints) designed to reward users for holding, providing liquidity, or engaging in borrowing and lending. Multiple DeFi platforms are now acknowledging these xPoints, effectively creating a cross-platform rewards layer. Kamino, in particular, is highlighting the use of xStocks as collateral, allowing users to earn xPoints while expanding their participation in onchain credit markets. Additionally, Kamino is piloting an integration with Atlas Collateral Management and Anchorage Digital, aiming to provide secure, compliant infrastructure for institutional credit on Solana.\n\n### Why It Matters\nThis cross-recognition of xPoints is a step toward a more unified DeFi experience on Solana. By allowing points to count across platforms, protocols are incentivizing deeper user engagement and making it easier for capital to move fluidly within the ecosystem. For users, this means that their activity in one protocol can have tangible benefits elsewhere, potentially increasing the attractiveness of holding xStocks and participating in related DeFi activities. On a broader level, these integrations help Solana’s DeFi stack compete with other chains by offering more sophisticated, interconnected financial products and rewards.\n\nFor builders and institutional players, the pilot between Kamino, Atlas Collateral Management, and Anchorage Digital signals a push for more robust, compliant credit infrastructure. This could help attract larger, more risk-averse participants to Solana’s onchain capital markets, further deepening liquidity and expanding the range of available financial services.\n\n### The Risk or Debate\nWhile cross-platform points systems can drive engagement, they also introduce complexity and potential risks. Users may find it challenging to track where and how their xPoints are counted, especially as more protocols join the ecosystem. There’s also the question of sustainability—if too many platforms offer overlapping rewards, the value of xPoints could become diluted. Additionally, the integration of institutional-grade infrastructure brings compliance and security considerations that may slow down innovation or create friction for some users.\n\n### What To Watch\nKeep an eye on which additional DeFi protocols begin recognizing xPoints and how quickly the rewards system scales. Watch for updates on Kamino’s pilot with Atlas Collateral Management and Anchorage Digital, as successful implementation could set a new standard for institutional participation on Solana. Finally, monitor how protocols manage the balance between user incentives and the long-term sustainability of their rewards programs.",
+        "signal": "Over 72% of SKR's circulating supply is now staked, highlighting deep user engagement in the Seeker ecosystem.",
+        "story": "Solana Mobile’s Seeker platform is seeing a surge in user participation, with 4.3 billion SKR—72% of the circulating supply—now staked. This level of engagement signals that Seeker’s user base is not just large but actively involved in the network’s core activities. The data, sourced from ledger_top, points to a robust commitment from the community.\n\nWhat's Happening\nSeeker, a Solana Mobile initiative, has surpassed 150,000 users. Recent data shows that 4.3 billion SKR tokens are currently staked, representing a significant portion of the token’s available supply. The platform’s integration with Seed Vault Wallet allows users to participate directly, and recent launches like Colony are converting users into active participants, with 2,300 new players in its first week.\n\nWhy It Matters\nHigh staking rates often indicate strong user confidence and a willingness to lock up assets for ecosystem rewards. For Seeker, this level of participation suggests that its user incentives and product design are resonating. The rapid conversion of users into active players on new launches like Colony demonstrates that Seeker is not just attracting sign-ups but fostering real engagement. This momentum could help solidify Seeker’s position as a key player in the Solana ecosystem, potentially attracting more developers and partners.\n\nThe Risk or Debate\nWhile high staking rates can be a positive sign, they may also concentrate influence among a subset of users. If too much supply remains locked, liquidity could be constrained, impacting token utility for new entrants or those seeking flexibility. Additionally, rapid growth in user numbers and engagement could strain platform infrastructure or create challenges in maintaining user experience quality.\n\nWhat To Watch\nUpcoming product launches and feature rollouts on Seeker will be important to monitor, especially those that further incentivize user participation. Tracking how staking rates evolve and whether user engagement remains high as new projects like Colony mature will offer insight into the platform’s staying power. Continued transparency around data and user conversion metrics will be key for assessing long-term sustainability.",
         "takeaways": [
-          "xPoints from xStocks are now recognized across multiple Solana DeFi platforms.",
-          "Kamino is piloting institutional-grade collateral management with Anchorage Digital.",
-          "Cross-platform rewards could drive user engagement but may introduce tracking and sustainability challenges."
+          "4.3 billion SKR, or 72% of supply, is currently staked on Seeker.",
+          "Seeker has over 150,000 users, with strong conversion into active participation.",
+          "New launches like Colony are driving measurable user engagement."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 4.3
+      "narrativeStrength": 4.5
     }
   ]
 }
