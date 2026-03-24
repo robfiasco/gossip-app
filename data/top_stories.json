@@ -1,46 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-03-23T19:46:47.628Z",
-    "totalCandidates": 88,
-    "solanaCandidates": 13,
+    "generatedAt": "2026-03-24T07:53:04.233Z",
+    "totalCandidates": 92,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://www.coindesk.com/business/2026/03/23/backpack-launches-bp-token-on-solana-with-25-airdrop-no-insider-allocation",
-      "title": "Backpack launches BP token on Solana with 25% airdrop, no insider allocation",
-      "url": "https://www.coindesk.com/business/2026/03/23/backpack-launches-bp-token-on-solana-with-25-airdrop-no-insider-allocation",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-23T13:52:21.000Z",
-      "summary": "The remaining tokens are subject to long-term lockups tied to company milestones and a potential IPO.",
-      "tags": [
-        "backpack",
-        "launches",
-        "token"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 15,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "476377d93e539b03295c2097a1e931eb06706323",
-      "score": 29
-    },
     {
       "id": "https://www.theblock.co/post/394739/biotech-stock-novabay-jumps-rebrand-stablecoin-development-corporation",
       "title": "Biotech stock NovaBay jumps 19% amid pivot, rebrand to Stablecoin Development Corporation",
@@ -66,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "3c10960c10d28528a00146b0f4c92913c30cb9b1",
-      "score": 25
+      "score": 24
     },
     {
       "id": "https://www.theblock.co/post/394715/aave-dao-v4-deployment-request-comment-proposal",
@@ -99,24 +66,24 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "049447594c67eb2d80b7af7bdc854f9f89c969eb",
-      "score": 25
+      "score": 24
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/03/23/south-korea-crypto-liquidity-drops-as-stablecoin-balances-plunge-55-and-stock-buying-rises",
-      "title": "South Korea crypto liquidity tumbles as stablecoin balances plunge 55% and stock buying rises",
-      "url": "https://www.coindesk.com/markets/2026/03/23/south-korea-crypto-liquidity-drops-as-stablecoin-balances-plunge-55-and-stock-buying-rises",
+      "id": "https://www.coindesk.com/policy/2026/03/23/stablecoin-yield-in-crypto-clarity-act-won-t-allow-rewards-on-balances-latest-text-says",
+      "title": "Stablecoin yield in crypto Clarity Act won't allow rewards on balances, latest text says",
+      "url": "https://www.coindesk.com/policy/2026/03/23/stablecoin-yield-in-crypto-clarity-act-won-t-allow-rewards-on-balances-latest-text-says",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-23T04:23:36.000Z",
-      "summary": "On-chain data shows a sharp drawdown in dollar-linked token holdings since July, with the latest wave triggered by won weakness.",
+      "publishedAt": "2026-03-23T22:43:06.000Z",
+      "summary": "The crypto industry got a first look at legislative language that won't allow rewards on stablecoin balances, and the approach is seen as restrictive.",
       "tags": [
-        "south",
-        "korea",
+        "stablecoin",
+        "yield",
         "crypto"
       ],
       "topicBucket": "defi",
@@ -130,15 +97,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 10,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c96ae763e496925af70c3597b3a5c5e61a890367",
-      "score": 23
+      "dedupeFingerprint": "dc2e8348e3d0a583ea1c65f23924b96c5157ad4b",
+      "score": 22
     },
     {
       "id": "https://www.coindesk.com/business/2026/03/23/pharmaceutical-firm-pivots-to-stablecoins-holds-nearly-9-of-sky-s-supply",
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b0b341be2dea06d1acdcfa88b6261cc58aef8a92",
-      "score": 22
+      "score": 21
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/03/24/bitcoin-ether-solana-prices-move-higher-as-gulf-allies-inch-toward-joining-iran-war",
+      "title": "Bitcoin, ether, solana prices move higher as Gulf allies inch toward joining Iran war",
+      "url": "https://www.coindesk.com/markets/2026/03/24/bitcoin-ether-solana-prices-move-higher-as-gulf-allies-inch-toward-joining-iran-war",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-24T05:07:19.000Z",
+      "summary": "Crypto recovered on Tuesday morning even as Monday's relief rally unraveled across traditional markets, with oil jumping 4% on reports that Saudi Arabia and the UAE are moving to join the conflict.",
+      "tags": [
+        "bitcoin",
+        "ether",
+        "solana"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ebb67ef955ed2eab08a74917cedffe5a77cd8140",
+      "score": 19
     }
   ]
 }
