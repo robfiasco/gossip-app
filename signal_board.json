@@ -1,21 +1,26 @@
 {
   "date": "2026-03-24",
-  "generated_at_utc": "2026-03-24T07:53:12.821Z",
-  "ctxMarket": "Attention is focused on crypto price resilience as Solana, Bitcoin, and Ether move higher despite traditional markets faltering amid geopolitical tensions in the Gulf. Solana’s ecosystem is also drawing interest due to institutional privacy developments and new token launches.",
-  "ctxTalking": "• Solana Foundation introducing a privacy framework aimed at institutional adoption\n• Backpack launching its BP token on Solana with a notable airdrop and no insider allocation\n• Sustained growth in Solana transaction activity and performance relative to other major assets",
-  "ctxMatters": "Solana’s push for privacy tools may address institutional concerns about data control, potentially broadening its user base. The BP token launch highlights ongoing innovation and community-focused distribution models. Continued transaction growth signals robust network usage, which can impact developer and user engagement.",
-  "ctxSignal": "Signal: Institutional privacy frameworks and transparent token launches on Solana.\nNoise: Short-term price moves tied to external geopolitical events without clear long-term impact.",
-  "ctxGlossary": "Airdrop — Free distribution of tokens to eligible users.\nInsider allocation — Tokens reserved for company insiders or early investors.",
+  "generated_at_utc": "2026-03-24T19:52:58.686Z",
+  "ctxMarket": "Attention is focused on Solana’s new enterprise developer platform, which has attracted Mastercard, Western Union, and Worldpay as early builders. Broader crypto prices, including Solana, moved higher amid geopolitical headlines, but Solana-specific news is centered on institutional adoption.",
+  "ctxTalking": "• Mastercard, Western Union, and Worldpay are building with the new Solana Developer Platform\n• The platform offers unified APIs for enterprises to issue real-world assets (RWAs), support payments, and enable onchain swaps\n• Emphasis on tokenization and stablecoin use cases for financial institutions",
+  "ctxMatters": "Major financial brands are signaling confidence in Solana’s infrastructure for enterprise-grade applications. The new platform lowers technical barriers for institutions, potentially accelerating adoption of Solana for payments, tokenization, and RWAs. This positions Solana as a contender for mainstream financial use cases.",
+  "ctxSignal": "Signal: Institutional players adopting Solana’s developer platform for real-world financial applications.\nNoise: Short-term price moves tied to geopolitical events unrelated to Solana’s ecosystem development.",
+  "ctxGlossary": "RWA — Real-world asset, a tokenized version of a physical or traditional financial asset.\nAPI — Application programming interface, a toolkit for developers to connect software or services.",
   "readMore": [
     {
-      "title": "Bitcoin, ether, solana prices move higher as Gulf allies inch toward joining Iran war",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/03/24/bitcoin-ether-solana-prices-move-higher-as-gulf-allies-inch-toward-joining-iran-war"
+      "title": "Mastercard, Western Union, Worldpay Building With New Solana Enterprise Platform",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/362183/mastercard-western-union-worldpay-building-solana-enterprise-platform"
     },
     {
-      "title": "State of Rango Q4 2025",
-      "source": "Messari",
-      "url": "https://messari.io/article/state-of-rango-q4-2025"
+      "title": "Solana Foundation taps Mastercard, Western Union, Worldpay for institutional developer platform",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/03/24/solana-foundation-taps-mastercard-western-union-worldpay-for-institutional-developer-platform"
+    },
+    {
+      "title": "Solana lands Mastercard, Western Union on new dev platform",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/solana-brings-mastercard-western-union-new-dev-platform"
     }
   ]
 }

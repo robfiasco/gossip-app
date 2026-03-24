@@ -1,57 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-03-24T07:53:04.233Z",
-    "totalCandidates": 92,
-    "solanaCandidates": 17,
+    "generatedAt": "2026-03-24T19:52:45.944Z",
+    "totalCandidates": 99,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/394739/biotech-stock-novabay-jumps-rebrand-stablecoin-development-corporation",
-      "title": "Biotech stock NovaBay jumps 19% amid pivot, rebrand to Stablecoin Development Corporation",
-      "url": "https://www.theblock.co/post/394739/biotech-stock-novabay-jumps-rebrand-stablecoin-development-corporation",
-      "source": "The Block",
-      "publishedAt": "2026-03-23T19:00:56.000Z",
-      "summary": "NovaBay's strategy centers on staking rewards, tying returns to Sky’s governance parameters and participation levels.",
+      "id": "https://solana.com/news/solana-developer-platform",
+      "title": "Solana Foundation Launches Solana Developer Platform",
+      "url": "https://solana.com/news/solana-developer-platform",
+      "source": "Solana News",
+      "publishedAt": "2026-03-24T12:50:00.000Z",
+      "summary": "Solana Foundation launches Solana Developer Platform, a unified API platform for institutions and enterprises building on Solana.",
       "tags": [
-        "biotech",
-        "stock",
-        "novabay"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "3c10960c10d28528a00146b0f4c92913c30cb9b1",
-      "score": 24
-    },
-    {
-      "id": "https://www.theblock.co/post/394715/aave-dao-v4-deployment-request-comment-proposal",
-      "title": "Aave DAO takes step closer V4 deployment with request for comment proposal",
-      "url": "https://www.theblock.co/post/394715/aave-dao-v4-deployment-request-comment-proposal",
-      "source": "The Block",
-      "publishedAt": "2026-03-23T16:46:27.000Z",
-      "summary": "The snapshot vote comes in the wake of significant Aave governance shakeups, including the announced departures of BGD Labs and ACI.",
-      "tags": [
-        "aave",
-        "takes",
-        "step"
+        "solana",
+        "foundation",
+        "launches"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,27 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "049447594c67eb2d80b7af7bdc854f9f89c969eb",
-      "score": 24
+      "dedupeFingerprint": "d77394c46174e59c42abbeedae937787ba8e3035",
+      "score": 29
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/03/23/stablecoin-yield-in-crypto-clarity-act-won-t-allow-rewards-on-balances-latest-text-says",
-      "title": "Stablecoin yield in crypto Clarity Act won't allow rewards on balances, latest text says",
-      "url": "https://www.coindesk.com/policy/2026/03/23/stablecoin-yield-in-crypto-clarity-act-won-t-allow-rewards-on-balances-latest-text-says",
+      "id": "https://www.coindesk.com/markets/2026/03/24/circle-stock-plunges-18-as-a-new-draft-of-the-clarity-act-threatens-stablecoin-rewards",
+      "title": "Circle stock plunges 18% as a new draft of the Clarity Act threatens stablecoin rewards",
+      "url": "https://www.coindesk.com/markets/2026/03/24/circle-stock-plunges-18-as-a-new-draft-of-the-clarity-act-threatens-stablecoin-rewards",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-23T22:43:06.000Z",
-      "summary": "The crypto industry got a first look at legislative language that won't allow rewards on stablecoin balances, and the approach is seen as restrictive.",
+      "publishedAt": "2026-03-24T16:09:27.000Z",
+      "summary": "The latest version of the Clarity Act is pressuring stocks as it would restrict stablecoin rewards.",
       "tags": [
-        "stablecoin",
-        "yield",
-        "crypto"
+        "circle",
+        "stock",
+        "plunges"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -104,22 +71,22 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "dc2e8348e3d0a583ea1c65f23924b96c5157ad4b",
+      "dedupeFingerprint": "ea3e8237889d3347f0190162c214d925573710c2",
       "score": 22
     },
     {
-      "id": "https://www.coindesk.com/business/2026/03/23/pharmaceutical-firm-pivots-to-stablecoins-holds-nearly-9-of-sky-s-supply",
-      "title": "Pharmaceutical firm pivots to stablecoins, holds nearly 9% of SKY's supply",
-      "url": "https://www.coindesk.com/business/2026/03/23/pharmaceutical-firm-pivots-to-stablecoins-holds-nearly-9-of-sky-s-supply",
+      "id": "https://www.coindesk.com/tech/2026/03/24/solana-foundation-taps-mastercard-western-union-worldpay-for-institutional-developer-platform",
+      "title": "Solana Foundation taps Mastercard, Western Union, Worldpay for institutional developer platform",
+      "url": "https://www.coindesk.com/tech/2026/03/24/solana-foundation-taps-mastercard-western-union-worldpay-for-institutional-developer-platform",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-23T14:25:29.000Z",
-      "summary": "Nanocap NovaBay Pharmaceuticals changed its name to Stablecoin Development Corporation.",
+      "publishedAt": "2026-03-24T13:00:00.000Z",
+      "summary": "The platform is a toolkit that lets enterprises create and scale financial applications on Solana without deep crypto infrastructure expertise.",
       "tags": [
-        "pharmaceutical",
-        "firm",
-        "pivots"
+        "solana",
+        "foundation",
+        "taps"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -132,25 +99,58 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b0b341be2dea06d1acdcfa88b6261cc58aef8a92",
-      "score": 21
+      "dedupeFingerprint": "5075e8fe90b519b4005af56add22ec6652da1751",
+      "score": 22
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/03/24/bitcoin-ether-solana-prices-move-higher-as-gulf-allies-inch-toward-joining-iran-war",
-      "title": "Bitcoin, ether, solana prices move higher as Gulf allies inch toward joining Iran war",
-      "url": "https://www.coindesk.com/markets/2026/03/24/bitcoin-ether-solana-prices-move-higher-as-gulf-allies-inch-toward-joining-iran-war",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-24T05:07:19.000Z",
-      "summary": "Crypto recovered on Tuesday morning even as Monday's relief rally unraveled across traditional markets, with oil jumping 4% on reports that Saudi Arabia and the UAE are moving to join the conflict.",
+      "id": "https://www.theblock.co/post/394823/delaware-bills-license-stablecoin-issuers",
+      "title": "Delaware lawmakers introduce bills to license stablecoin issuers, digital asset firms",
+      "url": "https://www.theblock.co/post/394823/delaware-bills-license-stablecoin-issuers",
+      "source": "The Block",
+      "publishedAt": "2026-03-24T09:35:52.000Z",
+      "summary": "Delaware lawmakers filed two bills Monday to license stablecoin issuers and allow state banks to manage digital assets.",
       "tags": [
-        "bitcoin",
-        "ether",
-        "solana"
+        "delaware",
+        "lawmakers",
+        "introduce"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "d5830cbe58f8d56628a01ef8ca4e96fd71089129",
+      "score": 22
+    },
+    {
+      "id": "https://decrypt.co/362183/mastercard-western-union-worldpay-building-solana-enterprise-platform",
+      "title": "Mastercard, Western Union, Worldpay Building With New Solana Enterprise Platform",
+      "url": "https://decrypt.co/362183/mastercard-western-union-worldpay-building-solana-enterprise-platform",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-24T13:55:04.000Z",
+      "summary": "Major financial players are building via the Solana Developer Platform, which is meant to streamline enterprise development on the network.",
+      "tags": [
+        "mastercard",
+        "western",
+        "union"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ebb67ef955ed2eab08a74917cedffe5a77cd8140",
-      "score": 19
+      "dedupeFingerprint": "a08c78fa2ba5d36220100c61f52a8713c8a0a621",
+      "score": 21
     }
   ]
 }
