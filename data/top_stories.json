@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-03-24T19:52:45.944Z",
+    "generatedAt": "2026-03-25T07:51:38.592Z",
     "totalCandidates": 99,
-    "solanaCandidates": 21,
+    "solanaCandidates": 24,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://solana.com/news/solana-developer-platform",
-      "title": "Solana Foundation Launches Solana Developer Platform",
-      "url": "https://solana.com/news/solana-developer-platform",
-      "source": "Solana News",
-      "publishedAt": "2026-03-24T12:50:00.000Z",
-      "summary": "Solana Foundation launches Solana Developer Platform, a unified API platform for institutions and enterprises building on Solana.",
+      "id": "https://ambcrypto.com/solana-eyes-117-but-heres-why-sol-bulls-still-look-fragile",
+      "title": "Solana eyes $117 – But here’s why SOL bulls still look fragile",
+      "url": "https://ambcrypto.com/solana-eyes-117-but-heres-why-sol-bulls-still-look-fragile",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-25T07:00:55.000Z",
+      "summary": "Solana is climbing, but falling. OI keeps this rebound under pressure.",
       "tags": [
         "solana",
-        "foundation",
-        "launches"
+        "eyes",
+        "here"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,19 +31,85 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 14,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 5,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d77394c46174e59c42abbeedae937787ba8e3035",
-      "score": 29
+      "dedupeFingerprint": "2ed84e900dea79581f4d37f6c6f228b948f67998",
+      "score": 24
+    },
+    {
+      "id": "https://decrypt.co/362254/delaware-establish-state-framework-stablecoin-issuers",
+      "title": "Delaware Moves to Establish State Framework for Stablecoin Issuers",
+      "url": "https://decrypt.co/362254/delaware-establish-state-framework-stablecoin-issuers",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-25T02:33:53.000Z",
+      "summary": "The proposal would create a state licensing regime for stablecoin issuers while bolstering Delaware’s position to attract digital asset firms.",
+      "tags": [
+        "delaware",
+        "moves",
+        "establish"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "be3f4c64231a24a7d5bbcba9a0ec42c2bd197f20",
+      "score": 24
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/03/25/ripple-taps-singapore-s-central-bank-sandbox-to-test-stablecoin-powered-trade-finance-with-rlusd",
+      "title": "Ripple taps Singapore's central bank sandbox to test stablecoin-powered trade finance with RLUSD",
+      "url": "https://www.coindesk.com/business/2026/03/25/ripple-taps-singapore-s-central-bank-sandbox-to-test-stablecoin-powered-trade-finance-with-rlusd",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-25T05:13:24.000Z",
+      "summary": "The pilot with supply chain firm Unloq under MAS's BLOOM initiative would trigger cross-border payments automatically when shipment conditions are verified, a use case that connects Ripple's stablecoin ambitions to a concrete commercial application.",
+      "tags": [
+        "ripple",
+        "taps",
+        "singapore"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "54cf16b51e86a363c5ae4f20a2fded2e8429927c",
+      "score": 22
     },
     {
       "id": "https://www.coindesk.com/markets/2026/03/24/circle-stock-plunges-18-as-a-new-draft-of-the-clarity-act-threatens-stablecoin-rewards",
-      "title": "Circle stock plunges 18% as a new draft of the Clarity Act threatens stablecoin rewards",
+      "title": "Circle stock plunges 20% as a new draft of the Clarity Act threatens stablecoin rewards",
       "url": "https://www.coindesk.com/markets/2026/03/24/circle-stock-plunges-18-as-a-new-draft-of-the-clarity-act-threatens-stablecoin-rewards",
       "source": "CoinDesk",
       "publishedAt": "2026-03-24T16:09:27.000Z",
@@ -66,91 +132,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "ea3e8237889d3347f0190162c214d925573710c2",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.coindesk.com/tech/2026/03/24/solana-foundation-taps-mastercard-western-union-worldpay-for-institutional-developer-platform",
-      "title": "Solana Foundation taps Mastercard, Western Union, Worldpay for institutional developer platform",
-      "url": "https://www.coindesk.com/tech/2026/03/24/solana-foundation-taps-mastercard-western-union-worldpay-for-institutional-developer-platform",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-24T13:00:00.000Z",
-      "summary": "The platform is a toolkit that lets enterprises create and scale financial applications on Solana without deep crypto infrastructure expertise.",
+      "id": "https://cryptopotato.com/solanas-builder-debate-what-the-foundation-says-it-offers",
+      "title": "Solana’s Builder Debate: What the Foundation Says It Offers",
+      "url": "https://cryptopotato.com/solanas-builder-debate-what-the-foundation-says-it-offers",
+      "source": "CryptoPotato",
+      "publishedAt": "2026-03-24T22:05:46.000Z",
+      "summary": "The Solana Foundation and its affiliates, such as Monke Foundry, distribute tens of millions in grants each year.",
       "tags": [
         "solana",
-        "foundation",
-        "taps"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5075e8fe90b519b4005af56add22ec6652da1751",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/394823/delaware-bills-license-stablecoin-issuers",
-      "title": "Delaware lawmakers introduce bills to license stablecoin issuers, digital asset firms",
-      "url": "https://www.theblock.co/post/394823/delaware-bills-license-stablecoin-issuers",
-      "source": "The Block",
-      "publishedAt": "2026-03-24T09:35:52.000Z",
-      "summary": "Delaware lawmakers filed two bills Monday to license stablecoin issuers and allow state banks to manage digital assets.",
-      "tags": [
-        "delaware",
-        "lawmakers",
-        "introduce"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d5830cbe58f8d56628a01ef8ca4e96fd71089129",
-      "score": 22
-    },
-    {
-      "id": "https://decrypt.co/362183/mastercard-western-union-worldpay-building-solana-enterprise-platform",
-      "title": "Mastercard, Western Union, Worldpay Building With New Solana Enterprise Platform",
-      "url": "https://decrypt.co/362183/mastercard-western-union-worldpay-building-solana-enterprise-platform",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-24T13:55:04.000Z",
-      "summary": "Major financial players are building via the Solana Developer Platform, which is meant to streamline enterprise development on the network.",
-      "tags": [
-        "mastercard",
-        "western",
-        "union"
+        "builder",
+        "debate"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -166,12 +166,12 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 3,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a08c78fa2ba5d36220100c61f52a8713c8a0a621",
-      "score": 21
+      "dedupeFingerprint": "4403b2e7347cc077d654afef598f619b244be24d",
+      "score": 18
     }
   ]
 }
