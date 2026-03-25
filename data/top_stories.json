@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-03-25T07:51:38.592Z",
-    "totalCandidates": 99,
-    "solanaCandidates": 24,
+    "generatedAt": "2026-03-25T19:44:56.106Z",
+    "totalCandidates": 101,
+    "solanaCandidates": 29,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-eyes-117-but-heres-why-sol-bulls-still-look-fragile",
-      "title": "Solana eyes $117 – But here’s why SOL bulls still look fragile",
-      "url": "https://ambcrypto.com/solana-eyes-117-but-heres-why-sol-bulls-still-look-fragile",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-25T07:00:55.000Z",
-      "summary": "Solana is climbing, but falling. OI keeps this rebound under pressure.",
+      "id": "https://www.theblock.co/post/395109/visa-canton-super-validator-major-step-engaging-blockchain-governance",
+      "title": "Visa takes on Canton Super Validator role, marking major step in engaging with blockchain governance",
+      "url": "https://www.theblock.co/post/395109/visa-canton-super-validator-major-step-engaging-blockchain-governance",
+      "source": "The Block",
+      "publishedAt": "2026-03-25T16:00:00.000Z",
+      "summary": "The firm’s application was approved on March 23, three days after it was submitted, appointing Visa the highest Super Validator weight.",
       "tags": [
-        "solana",
-        "eyes",
-        "here"
+        "visa",
+        "takes",
+        "canton"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -34,12 +34,12 @@
         "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2ed84e900dea79581f4d37f6c6f228b948f67998",
-      "score": 24
+      "dedupeFingerprint": "5b1d861158da4567bf75b17f13fd0bc61d78b9af",
+      "score": 27
     },
     {
       "id": "https://decrypt.co/362254/delaware-establish-state-framework-stablecoin-issuers",
@@ -66,25 +66,91 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "be3f4c64231a24a7d5bbcba9a0ec42c2bd197f20",
-      "score": 24
+      "score": 23
     },
     {
-      "id": "https://www.coindesk.com/business/2026/03/25/ripple-taps-singapore-s-central-bank-sandbox-to-test-stablecoin-powered-trade-finance-with-rlusd",
-      "title": "Ripple taps Singapore's central bank sandbox to test stablecoin-powered trade finance with RLUSD",
-      "url": "https://www.coindesk.com/business/2026/03/25/ripple-taps-singapore-s-central-bank-sandbox-to-test-stablecoin-powered-trade-finance-with-rlusd",
+      "id": "https://www.coindesk.com/business/2026/03/25/solana-bets-on-ai-agents-foundation-says-network-is-becoming-core-infrastructure-for-agentic-internet",
+      "title": "Solana bets on AI agents: Foundation says network is becoming core infrastructure for ‘agentic’ internet",
+      "url": "https://www.coindesk.com/business/2026/03/25/solana-bets-on-ai-agents-foundation-says-network-is-becoming-core-infrastructure-for-agentic-internet",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-25T05:13:24.000Z",
-      "summary": "The pilot with supply chain firm Unloq under MAS's BLOOM initiative would trigger cross-border payments automatically when shipment conditions are verified, a use case that connects Ripple's stablecoin ambitions to a concrete commercial application.",
+      "publishedAt": "2026-03-25T16:36:48.000Z",
+      "summary": "This shift could fundamentally reshape internet business models, Solana Foundation's Vibhu Norby believes.",
       "tags": [
-        "ripple",
-        "taps",
-        "singapore"
+        "solana",
+        "bets",
+        "agents"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "bd672bc4fc1b5f0b0d4a9cc427b41eda021c990e",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/03/25/sky-backed-obex-spreads-usd1-billion-across-credit-energy-and-ai-assets-to-expand-stablecoin-yield",
+      "title": "Sky-backed Obex spreads $1 billion across credit, energy and AI assets to expand stablecoin yield",
+      "url": "https://www.coindesk.com/business/2026/03/25/sky-backed-obex-spreads-usd1-billion-across-credit-energy-and-ai-assets-to-expand-stablecoin-yield",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-25T16:34:35.000Z",
+      "summary": "The stablecoin incubator is targeting tokenized assets tied to AI hardware, energy and housing to move Sky’s ecosystem beyond \"circular\" crypto yields.",
+      "tags": [
+        "backed",
+        "obex",
+        "spreads"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "9c8481b8380b0443878973bc056655225a5fcbfc",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/395038/beyond-dollarization-visa-and-dune-report-finds-non-usd-stablecoins-increasingly-being-used-as-money",
+      "title": "Beyond dollarization? Visa and Dune report finds non-USD stablecoins increasingly being used as money",
+      "url": "https://www.theblock.co/post/395038/beyond-dollarization-visa-and-dune-report-finds-non-usd-stablecoins-increasingly-being-used-as-money",
+      "source": "The Block",
+      "publishedAt": "2026-03-25T13:00:00.000Z",
+      "summary": "The supply of non-USD stablecoins hit $1.1 billion in February, while aggregated transfer volume surged over 1,600%.",
+      "tags": [
+        "beyond",
+        "dollarization",
+        "visa"
       ],
       "topicBucket": "tokenomics",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -104,74 +170,8 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "54cf16b51e86a363c5ae4f20a2fded2e8429927c",
+      "dedupeFingerprint": "3e8a7ac3ebb24b3fdbb491e9652ffb1bf4b6c1f5",
       "score": 22
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/03/24/circle-stock-plunges-18-as-a-new-draft-of-the-clarity-act-threatens-stablecoin-rewards",
-      "title": "Circle stock plunges 20% as a new draft of the Clarity Act threatens stablecoin rewards",
-      "url": "https://www.coindesk.com/markets/2026/03/24/circle-stock-plunges-18-as-a-new-draft-of-the-clarity-act-threatens-stablecoin-rewards",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-24T16:09:27.000Z",
-      "summary": "The latest version of the Clarity Act is pressuring stocks as it would restrict stablecoin rewards.",
-      "tags": [
-        "circle",
-        "stock",
-        "plunges"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ea3e8237889d3347f0190162c214d925573710c2",
-      "score": 21
-    },
-    {
-      "id": "https://cryptopotato.com/solanas-builder-debate-what-the-foundation-says-it-offers",
-      "title": "Solana’s Builder Debate: What the Foundation Says It Offers",
-      "url": "https://cryptopotato.com/solanas-builder-debate-what-the-foundation-says-it-offers",
-      "source": "CryptoPotato",
-      "publishedAt": "2026-03-24T22:05:46.000Z",
-      "summary": "The Solana Foundation and its affiliates, such as Monke Foundry, distribute tens of millions in grants each year.",
-      "tags": [
-        "solana",
-        "builder",
-        "debate"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "4403b2e7347cc077d654afef598f619b244be24d",
-      "score": 18
     }
   ]
 }
