@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-03-25T12:54:16.002Z",
+  "generated_at": "2026-03-26T13:02:09.259Z",
   "global_metrics": {
-    "total_tweets": 72,
-    "total_engagement": 21404,
-    "unique_voices": 23,
-    "top_tweet": 1583
+    "total_tweets": 80,
+    "total_engagement": 19747,
+    "unique_voices": 20,
+    "top_tweet": 1295
   },
   "items": [
     {
-      "id": "story_1774443219981_0",
-      "title": "Solana Adds Machine Payments Protocol for Stablecoin APIs",
+      "id": "story_1774530062173_0",
+      "title": "Solana’s Rapid Expansion Brings New Security and Risk Questions",
       "type": "critical",
       "category": "Security / Risk Alert",
-      "author": "@solana",
-      "timestamp": "2026-03-25T12:53:39.981Z",
+      "author": "@solana_daily",
+      "timestamp": "2026-03-26T13:01:02.173Z",
       "metrics": {
-        "tweets": 63,
-        "engagement": 18213,
-        "topTweet": 1583,
-        "voices": 19,
+        "tweets": 68,
+        "engagement": 16427,
+        "topTweet": 1295,
+        "voices": 15,
         "engagementTrend": [
-          7285,
-          10017,
-          12385,
-          14934,
-          18213
+          6571,
+          9035,
+          11170,
+          13470,
+          16427
         ]
       },
       "ctPulse": [
-        {
-          "handle": "@solana",
-          "thought": "Solana now supports the Machine Payments Protocol @mpp by @stripe and @tempo.\n\nIf you're building an API that needs to accept payments, @solana/mpp SDK handles any stablecoin on Solana (Spl, Token2022",
-          "url": "https://twitter.com/solana/status/2036507994381492326"
-        },
-        {
-          "handle": "@solana",
-          "thought": "One platform that pulls together nodes, wallets, compliance, and ramps across Solana.\n\nSolana is built for enterprises.",
-          "url": "https://twitter.com/solana/status/2036433575977930944"
-        },
         {
           "handle": "@solana_daily",
           "thought": "Highlight Solana Projects in the Past Week 🌟\n\n🔸SOL options are now live on @DeriveXYZ. Traders can hedge positions, speculate on price movements, and execute advanced strategies directly on Solana.\n",
           "url": "https://twitter.com/solana_daily/status/2036093108140826804"
         },
         {
-          "handle": "@moonpay",
-          "thought": "BREAKING: a MoonPay Executive Director just LEAKED their new Headless Apple Pay integration live at the @Solana Accelerate Fintech Series in New York City \n\nwe’ve reached out to MoonPay reps for comme",
-          "url": "https://twitter.com/moonpay/status/2036539540542828758"
+          "handle": "@solana_daily",
+          "thought": "Trending Pools on Solana in the Last 24H 🔥\n\n🔸VNUT/SOL ⭢ $VNUT\n🔸FML/SOL ⭢ @FMLxSOL\n🔸CAPTCHA/SOL ⭢ @CaptchaApp\n🔸LOL/SOL ⭢ @lolonsollol\n🔸APES/SOL ⭢ @apes_ts_sol\n🔸雪山救狐/SOL ⭢ #雪山救狐\n🔸Punch/SOL ⭢ @Pu",
+          "url": "https://twitter.com/solana_daily/status/2036787772342866260"
         },
         {
-          "handle": "@moonpay",
-          "thought": "Congrats to @SolanaFndn on Solana Developer Platform (SDP) launch!\n\nMoonPay is proud to build alongside @Solana as an official ramps infrastructure partner, helping developers add onchain user onboard",
-          "url": "https://twitter.com/moonpay/status/2036432336355565661"
+          "handle": "@SolanaSensei",
+          "thought": "Why would I trade outside of Solana?\n\nI have everything I need here. https://t.co/RWjdQcG7xO",
+          "url": "https://twitter.com/SolanaSensei/status/2036494770101690699"
+        },
+        {
+          "handle": "@SolanaSensei",
+          "thought": "I stand with MadLads.\n\nNFTs haven’t been doing well, but you can’t fud MadLads after everything they’ve done for Solana and its holders. Fud NFTs or Solana as a whole if you want, but don’t fud one of",
+          "url": "https://twitter.com/SolanaSensei/status/2036834976839209405"
+        },
+        {
+          "handle": "@SolanaSensei",
+          "thought": "44% of crypto transactions happen on Solana!\n\nIf this doesn’t make you bullish, idk what else will https://t.co/Dqr2TAn1wT",
+          "url": "https://twitter.com/SolanaSensei/status/2037061502390460789"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@solana",
-          "reason": "Official updates and ecosystem developments",
-          "role": "Builder",
-          "engagement": 4839
+          "handle": "@SolanaSensei",
+          "reason": "Provides real-time insights on Solana trends and user activity.",
+          "role": "Analyst",
+          "engagement": 4511
         },
         {
-          "handle": "@stripe",
-          "reason": "Key partner in Machine Payments Protocol integration",
-          "role": "Builder",
-          "engagement": 3196
+          "handle": "@solana_daily",
+          "reason": "Covers new launches, pools, and project updates in the Solana ecosystem.",
+          "role": "Community",
+          "engagement": 3522
         }
       ],
       "content": {
-        "signal": "Solana now supports the Machine Payments Protocol, enabling API-based stablecoin payments via Stripe and Tempo.",
-        "story": "Solana has integrated the Machine Payments Protocol (MPP), developed in collaboration with Stripe and Tempo, into its ecosystem. This move allows developers to use the @solana/mpp SDK to accept any stablecoin on Solana, including both SPL and Token2022 formats, through API-driven payments. For projects already leveraging MPP, Solana now acts as a direct payment rail, expanding their options for programmable, agentic payments.\n\n### What's Happening\nSolana’s latest integration brings Stripe and Tempo’s MPP into the fold, making it easier for developers to build APIs that accept stablecoin payments natively on Solana. The SDK abstracts away much of the complexity, handling compliance, wallet management, and payment routing. This is part of a broader push to position Solana as a go-to platform for enterprise-grade financial infrastructure, with a focus on automation and machine-to-machine payments.\n\nRecent ecosystem updates reinforce this direction: Solana launched its new Developer Platform, targeting enterprises looking to launch financial products quickly. Partnerships with major payment and financial companies like Mastercard, Worldpay, and Western Union further underline Solana’s ambition to become a core layer for digital payments and tokenized assets.\n\n### Why It Matters\nThe addition of MPP support is a significant step for Solana’s enterprise and developer adoption. By enabling seamless, programmable payments with stablecoins, Solana lowers the barrier for fintechs and businesses to build on-chain financial services. The ability to handle compliance, wallets, and fiat ramps in one stack is attractive for companies seeking to automate payments or launch new products without deep blockchain expertise.\n\nThis move also strengthens Solana’s position in the competitive landscape of blockchain payments. With Stripe’s involvement, there’s potential for broader merchant and developer adoption, especially as stablecoins and tokenization become central to new financial applications. The focus on agentic, API-driven payments aligns with trends toward automation and embedded finance.\n\n### The Risk or Debate\nWhile the integration is technically promising, it introduces new risks. Relying on third-party protocols and SDKs (like MPP) can create dependencies and potential attack surfaces, especially as payment flows become more automated. Compliance and regulatory requirements for stablecoin payments remain a moving target, and any missteps could impact both users and builders.\n\nThere’s also the question of adoption: while Solana is positioning itself as enterprise-ready, it remains to be seen how quickly traditional businesses and fintechs will trust and integrate these new rails. The ecosystem’s rapid pace of innovation can be a double-edged sword, as security and compliance must keep up with new features.\n\n### What To Watch\nKey signals to monitor include the pace of developer adoption of the @solana/mpp SDK, announcements of new enterprise integrations, and any updates from Stripe or Tempo on their roadmap. Watch for regulatory developments around stablecoin payments, as these could affect how MPP and similar protocols are used on Solana. Finally, keep an eye on how Solana’s broader enterprise push—especially partnerships with payment giants—translates into real-world usage and transaction volume.",
+        "signal": "Solana’s ecosystem is growing fast with new products, capital, and users, but this pace introduces fresh risks and security considerations.",
+        "story": "Solana is in the middle of a major growth phase, with new financial products, infrastructure, and user activity ramping up across the ecosystem. From options trading to stablecoin platforms and real-world asset (RWA) tokenization, the network is attracting both builders and institutional attention. But as Solana launches new tools and onboards more users, the risks and attack surfaces are also expanding.\n\n### What's Happening\n\nOver the past week, Solana has seen the launch of options trading via DeriveXYZ, new liquidity and yield products for businesses from HumaFinance, and a surge in trending pools and tokens. Institutional players are moving in: a former Lido and Ethena growth lead has joined the Solana Foundation to lead risk and special situations, aiming to drive billions in new value and expand RWA derivatives. Payment giants like Mastercard and Western Union are now involved in tokenization and payments orchestration on Solana, signaling a push toward mainstream finance.\n\nUser activity is surging. Solana now accounts for nearly half of all crypto transactions, and its RWA sector is growing rapidly, with over 173,000 holders. The network is also making it easier to onboard users from other chains, with platforms like Jupiter enabling seamless cross-chain funding without bridges or centralized exchanges.\n\n### Why It Matters\n\nThis wave of launches and integrations positions Solana as a top contender for both DeFi and traditional finance applications. The presence of major payment players and new developer platforms could accelerate enterprise adoption, while the growth in trading tools and liquidity pools attracts active users and capital. The ecosystem’s ability to support advanced products like options, stablecoins, and RWAs on a single chain is a differentiator.\n\nSolana’s public transaction model and high throughput are drawing both retail and institutional users. The network’s focus on onboarding, developer grants, and hackathons signals a push to grow its builder base and attract new projects. As more value and complexity move on-chain, Solana’s reputation as a fast, low-cost alternative to Ethereum is being reinforced.\n\n### The Risk or Debate\n\nRapid growth brings new risks. The launch of advanced financial products increases the potential for smart contract bugs, market manipulation, or liquidity shocks. As more real-world assets and stablecoins are tokenized, regulatory scrutiny could intensify. Public transaction data on Solana, while transparent, raises privacy concerns for users who may not realize how visible their activity is.\n\nThe influx of new tokens and pools also raises the risk of scams or low-quality projects. With so many new entrants, due diligence becomes harder for users. The push to onboard users from other chains without bridges is innovative, but it’s untested at scale and could introduce new technical risks. Finally, the ecosystem’s reliance on a few large players and platforms could create concentration risks if any one piece fails.\n\n### What To Watch\n\nKeep an eye on how Solana handles security and risk management as its product suite expands. The impact of institutional involvement, especially in RWAs and payments, could reshape the network’s regulatory profile. Watch for new privacy solutions or user education efforts as public transaction data becomes a bigger issue. The outcome of upcoming hackathons and developer grants will signal where the next wave of innovation—and risk—may emerge. Monitoring how new cross-chain onboarding tools perform under load will also be key for assessing systemic risk.",
         "takeaways": [
-          "Solana now supports the Machine Payments Protocol for API-based stablecoin payments.",
-          "The integration aims to simplify compliance, wallet management, and payment routing for developers.",
-          "Risks include new dependencies, regulatory uncertainty, and the challenge of driving enterprise adoption."
+          "Solana is rapidly launching new financial products and attracting institutional players.",
+          "Public transaction data and rapid onboarding create new privacy and technical risks.",
+          "The ecosystem’s growth brings opportunity but also increases the need for robust risk management."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 9.5
+      "narrativeStrength": 9.4
     },
     {
-      "id": "story_1774443241892_1",
-      "title": "Solana AI Agents Drive LP Tool Adoption",
+      "id": "story_1774530103818_1",
+      "title": "Solana Agent Shows Consistent LP Profits, Sparks Builder Interest",
       "type": "alpha",
       "category": "AI / Agents",
       "author": "@0xyunss",
-      "timestamp": "2026-03-25T12:54:01.892Z",
+      "timestamp": "2026-03-26T13:01:43.818Z",
       "metrics": {
-        "tweets": 4,
-        "engagement": 1666,
-        "topTweet": 1190,
+        "tweets": 5,
+        "engagement": 2289,
+        "topTweet": 1217,
         "voices": 2,
         "engagementTrend": [
-          666,
-          916,
-          1133,
-          1366,
-          1666
+          915,
+          1259,
+          1556,
+          1877,
+          2289
         ]
       },
       "ctPulse": [
@@ -112,114 +112,119 @@
           "url": "https://twitter.com/0xyunss/status/2036613033640767876"
         },
         {
-          "handle": "@met_lparmy",
-          "thought": "Top 3 fee-printing pools LPs are entering on @MeteoraAG in the last 24 hours:\n\n1. 7-SOL 100/2%: https://t.co/Vgv8ts2j2O\n2. Optimistic-SOL 100/2%: https://t.co/zaA3jugQGO\n3. 7-SOL 100/1%: https://t.co/",
-          "url": "https://twitter.com/met_lparmy/status/2036164639310942689"
+          "handle": "@0xyunss",
+          "thought": "tiap pagi dlmm agent gua - Meridian kirim gua morning briefing. kemarin dia buka 36 posisi, tutup 36, net PnL +$81.76, fees $127.93, win rate 64%. semua itu dengan cost sekitar 0.5$ buat API key.\n\njam",
+          "url": "https://twitter.com/0xyunss/status/2036977687672349112"
         },
         {
-          "handle": "@met_lparmy",
+          "handle": "@0xyunss",
+          "thought": "together-sol, 42 seconds, $52, 10.66%. not my usual play this month but when volume hits 500k per 5 minutes you don't just sit there.\n\nbonk narrative was strong at the start. that's already a green fl",
+          "url": "https://twitter.com/0xyunss/status/2036756730294436334"
+        },
+        {
+          "handle": "@Heavymetalcook6",
           "thought": "RT @MeteoraAG: Traders can now LP anywhere, anytime with new mobile UI upgrades.\n\nWe’ve enhanced the Dynamic Terminal mobile experience so…",
-          "url": "https://twitter.com/met_lparmy/status/2036358101129982351"
+          "url": "https://twitter.com/Heavymetalcook6/status/2036458820013044001"
         }
       ],
       "whoToFollow": [
         {
           "handle": "@0xyunss",
-          "reason": "Builder of the AI agent and related LP tools",
+          "reason": "Built the Meridian agent and shares practical insights on Solana automation.",
           "role": "Builder",
-          "engagement": 1540
+          "engagement": 2235
         },
         {
-          "handle": "@met_lparmy",
-          "reason": "Shares insights on top-performing LP pools and ecosystem trends",
-          "role": "Analyst",
-          "engagement": 126
+          "handle": "@MeteoraAG",
+          "reason": "Platform powering the LP strategies and enabling mobile trading experiences.",
+          "role": "Builder",
+          "engagement": 54
         }
       ],
       "content": {
-        "signal": "A Solana-based AI agent for liquidity pools is being widely tested, showing strong user interest and real earnings.",
-        "story": "A Solana builder recently opened access to an AI agent that automates liquidity provision, allowing nearly 100 users to test it for free. This agent, which has generated over $189 in 11 days and up to $101 in a single day, is designed to optimize returns from providing liquidity on Meteora. The builder, who started with no coding experience, developed a suite of supporting tools, including transaction parsers and investment dashboards, before launching the agent.\n\nWhat's Happening\nThe AI agent is being distributed to a new cohort of 50 testers after initial positive results. It automates LP strategies on Meteora, a Solana-based liquidity platform, and has demonstrated consistent daily profits with only one losing day in the reported period. The builder’s journey highlights a rapid learning curve and the creation of multiple tools to support LP activities, reflecting a hands-on approach to solving real user problems.\n\nMeteora itself is seeing increased activity, with top-performing pools attracting more liquidity providers. The platform has also rolled out mobile UI upgrades, making it easier for users to interact with pools and manage positions on the go. This aligns with the broader trend of integrating AI and automation into DeFi workflows, lowering barriers for non-technical users.\n\nWhy It Matters\nThe adoption of AI agents in DeFi represents a shift toward more accessible and efficient liquidity management. By automating complex strategies, these tools can help users optimize returns without constant manual intervention. The builder’s story also signals that technical barriers are falling, as individuals with little coding background can now create impactful tools and share them with the community.\n\nMeteora’s growing ecosystem and improved user interfaces suggest that Solana DeFi is becoming more user-friendly and competitive. The influx of new LPs and builders experimenting with AI-driven tools could accelerate innovation and liquidity depth across Solana’s protocols. This momentum may attract both new users and developers, reinforcing Solana’s position in the DeFi landscape.\n\nThe Risk or Debate\nAutomated agents introduce new risks, including potential bugs, strategy failures, or unforeseen market conditions that could lead to losses. Relying on third-party tools also raises questions about transparency and trust, especially when strategies are not fully open-sourced. The rapid onboarding of non-technical users may lead to misunderstandings about how these agents operate or the risks involved in LP activities.\n\nWhat To Watch\nFurther adoption metrics from the current cohort of testers will reveal whether the agent’s performance holds up at scale. Updates from Meteora on pool performance and additional UI improvements could influence user retention and growth. The emergence of similar AI-driven tools across other Solana protocols may signal a broader trend toward automation in DeFi. Ongoing feedback from testers and builders will shape the next generation of LP agents and supporting infrastructure.",
+        "signal": "A Solana-based trading agent, Meridian, is delivering steady returns for users and inspiring new builders to experiment with on-chain automation.",
+        "story": "A Solana trader recently opened access to their automated trading agent, Meridian, for nearly 100 users to test. This agent, which has consistently generated over $20 per day from liquidity provision (LP) strategies on Meteora, has now been made available to an additional 50 users. Over 11 days of live trading, the agent reported $189.70 in profits, with only one losing day and a standout daily gain of $101.95. The trader emphasizes that they started with zero coding experience, gradually building tools like a PnL card generator and investment dashboards before developing this agent.\n\n### What's Happening\n\nMeridian operates by automating LP strategies on Solana’s Meteora platform, handling dozens of positions daily. The agent provides users with detailed morning briefings, including metrics like net PnL, fees, and win rates. For example, one recent session saw 36 positions opened and closed, netting $81.76 after $127.93 in fees, with a 64% win rate. The cost to run the agent is minimal, roughly $0.50 for an API key per day.\n\nThe agent’s performance isn’t just about raw numbers. The creator highlights the importance of “Lessons Learned,” sharing both wins and losses to help others understand the underlying strategies. The agent adapts to market narratives—such as capitalizing on surges in BONK token activity—by monitoring volume and liquidity trends, then executing trades accordingly. This approach has led to multiple 10% gains on specific pools before market saturation set in.\n\n### Why It Matters\n\nThis development signals a growing trend of accessible, automated trading tools within the Solana ecosystem. By lowering the technical barrier, more users are able to experiment with on-chain strategies and potentially generate passive income. The open sharing of tools and learnings is also fostering a collaborative builder culture, as others are inspired to create their own agents and analytics dashboards.\n\nThe integration of mobile-friendly interfaces, like Meteora’s upgraded Dynamic Terminal, further expands access. Traders can now monitor and manage LP positions on the go, increasing engagement and potentially driving more liquidity to Solana DeFi protocols. The rapid feedback loop—where users test, iterate, and share results—accelerates the pace of innovation in this space.\n\n### The Risk or Debate\n\nAutomated agents like Meridian can amplify both gains and losses, especially in volatile or crowded pools. High fees can eat into profits, and strategies that work in one market regime may underperform when conditions change. There’s also the risk of overfitting to recent trends or narratives, which can lead to unexpected drawdowns if market dynamics shift suddenly.\n\nAdditionally, as more users adopt similar agents, profitable opportunities may become less frequent due to increased competition. The reliance on third-party platforms and APIs introduces operational risks, including downtime or changes in fee structures.\n\n### What To Watch\n\nKeep an eye on how many users successfully replicate or improve upon Meridian’s results. Watch for new agent releases, open-source tools, or educational content that further democratize on-chain trading. The evolution of mobile interfaces and analytics dashboards will likely play a key role in onboarding the next wave of DeFi participants.\n\nFinally, monitor how liquidity and trading volumes on Solana platforms like Meteora respond to the influx of automated strategies. If these tools continue to deliver, expect increased attention from both builders and traders seeking an edge.",
         "takeaways": [
-          "A Solana AI agent for liquidity provision is being tested by over 100 users.",
-          "The agent generated over $189 in 11 days, with mostly positive daily returns.",
-          "Meteora is enhancing its platform with mobile UI upgrades and attracting more LPs."
+          "A Solana trading agent is consistently generating daily profits for users through automated LP strategies.",
+          "The agent’s creator started with no coding background, highlighting the accessibility of on-chain building.",
+          "Growing community interest and mobile UI upgrades are accelerating innovation and participation in Solana DeFi."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 4.7
+      "narrativeStrength": 5
     },
     {
-      "id": "story_1774443256001_2",
-      "title": "Backpack $BP Airdrop Spurs Debate Over Loyalty and Value",
-      "type": "alpha",
-      "category": "Airdrop Strategy",
-      "author": "@FabianoSolana",
-      "timestamp": "2026-03-25T12:54:16.001Z",
+      "id": "story_1774530129259_2",
+      "title": "Jupiter Integrates Privacy Transfers via HoudiniSwap",
+      "type": "live",
+      "category": "Alpha / Early Access",
+      "author": "@SolanaSensei",
+      "timestamp": "2026-03-26T13:02:09.259Z",
       "metrics": {
-        "tweets": 5,
-        "engagement": 1525,
-        "topTweet": 561,
-        "voices": 2,
+        "tweets": 7,
+        "engagement": 1031,
+        "topTweet": 420,
+        "voices": 3,
         "engagementTrend": [
-          610,
-          839,
-          1037,
-          1251,
-          1525
+          412,
+          567,
+          701,
+          845,
+          1031
         ]
       },
       "ctPulse": [
         {
-          "handle": "@FabianoSolana",
-          "thought": "I was supporting Mad Lads & Backpack for years but...\n\nThey made 160,000 SOL from Mad Lads royalties\n\nThat's $14.4M at current SOL price\n\nWhile Mad Lads get $3M at TGE (this didn't cost them a thing..",
-          "url": "https://twitter.com/FabianoSolana/status/2036047513409454536"
+          "handle": "@SolanaSensei",
+          "thought": "🚨 Jupiter announced privacy transfers\n\nThe team decided to use @HoudiniSwap as their integration, similar to how Solflare is doing it.\n\nPrivacy meta is cooking! https://t.co/jCzXASfp5v",
+          "url": "https://twitter.com/SolanaSensei/status/2037047658570014941"
         },
         {
-          "handle": "@FabianoSolana",
-          "thought": "- No insiders\n- No VCs\n- No team tokens\n\nJust users\n\nBackpack TGE is tomorrow 🎒\n\nStake or dump? Let's find out:\n\n1️⃣ Tokenomics\n\n- 25% at TGE (24% points + 1% Mad Lads)\n- 37.5% pre-IPO (unlocked by a",
-          "url": "https://twitter.com/FabianoSolana/status/2035704316464681017"
+          "handle": "@weremeow",
+          "thought": "RT @JupiterExchange: You ever sit at a dinner table while everyone talks crypto and just… nod?\n\nThat ends today.\n\nAcademy has 28 structured…",
+          "url": "https://twitter.com/weremeow/status/2036467029180555601"
         },
         {
-          "handle": "@FabianoSolana",
-          "thought": "One of the biggest Airdrops is happening tomorrow\n\n$BP is pre-trading at a $300–400M FDV\n\nThat implies:\n\n- 1 Backpack point ≈ $0.20\n- 1 Mad Lad ≈ $200 -$800 https://t.co/TLpmC4OhjY",
-          "url": "https://twitter.com/FabianoSolana/status/2035750186085994881"
+          "handle": "@weremeow",
+          "thought": "RT @JupiterExchange: Money markets shouldn’t dictate terms, users should.\n \nFixed rates. Fixed terms. Intent-driven. \n\nOfferbook: The first…",
+          "url": "https://twitter.com/weremeow/status/2036225219031887937"
         },
         {
-          "handle": "@SolanaFloor",
-          "thought": "🚨New: @MadLads NFT floor down over 40% after Backpack’s $BP airdrop, with holders showing disappointment over the distribution. https://t.co/9Ucm8ul6nH",
-          "url": "https://twitter.com/SolanaFloor/status/2036485783226347806"
+          "handle": "@weremeow",
+          "thought": "RT @jup_lend: Jupiter Lend shipped 4 updates in just 5 days:\n\n• Every SOL/Stable pair boosted its Max LTV to 80% and Liquidation threshold…",
+          "url": "https://twitter.com/weremeow/status/2037113342893187433"
         },
         {
-          "handle": "@SolanaFloor",
-          "thought": "🚨New: @Backpack's $BP Airdrop Triggers Mixed Community Response\n\n✍️ @ideyquickvex \nhttps://t.co/w6YL1iuzWb",
-          "url": "https://twitter.com/SolanaFloor/status/2036578230338048415"
+          "handle": "@weremeow",
+          "thought": "RT @JupiterExchange: Jupiter is at the @nyse.\n\nTwo exchanges, one mission: bring everything onchain.\n\n@xxjzhu explains how Jupiter Global c…",
+          "url": "https://twitter.com/weremeow/status/2037054395439866010"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@FabianoSolana",
-          "reason": "Provides detailed breakdowns and critical analysis of Backpack's airdrop and tokenomics.",
-          "role": "Analyst",
-          "engagement": 1168
+          "handle": "@JupiterExchange",
+          "reason": "Core team behind the privacy integration and ongoing product updates.",
+          "role": "Builder",
+          "engagement": 534
         },
         {
-          "handle": "@SolanaFloor",
-          "reason": "Tracks real-time Solana NFT and token market movements and community sentiment.",
-          "role": "Analyst",
-          "engagement": 357
+          "handle": "@HoudiniSwap",
+          "reason": "Provider of the privacy technology powering Jupiter's new feature.",
+          "role": "Builder",
+          "engagement": 420
         }
       ],
       "content": {
-        "signal": "Backpack’s $BP token airdrop has triggered mixed reactions, with long-term Mad Lads supporters questioning fairness and value distribution.",
-        "story": "Backpack’s highly anticipated $BP token airdrop is live, but instead of celebration, it’s stirring debate across the Solana ecosystem. Long-time Mad Lads and Backpack supporters are voicing frustration over how rewards were allocated, especially after years of engagement. The airdrop’s structure and the resulting NFT price drop have put the project’s loyalty narrative under the microscope.\n\n### What's Happening\n\nBackpack, the team behind the Mad Lads NFT collection, has launched its $BP token airdrop. The event is notable for its scale—one of the largest on Solana—and for its promise of no insider, VC, or team allocations at launch. Only users are receiving tokens initially. The tokenomics split 25% of supply at TGE (including 1% for Mad Lads), with the rest unlocking through achievements or a post-IPO schedule.\n\nDespite years of community support, some Mad Lads holders are questioning the distribution. Holders who staked since mint received the same allocation as those who joined just months ago, raising concerns about whether loyalty was truly rewarded. Meanwhile, Mad Lads NFTs have dropped over 40% in floor price following the airdrop, signaling disappointment among holders.\n\n### Why It Matters\n\nThis airdrop is a major test for how NFT communities and token launches intersect. Backpack’s approach—excluding insiders and VCs—was designed to empower users, but the execution has left some core supporters feeling sidelined. The fact that Mad Lads generated $14.4M in royalties, while only $3M in tokens were allocated to holders at TGE, has fueled the debate.\n\nThe $BP token is already pre-trading at a $300–400M fully diluted valuation, putting a tangible price on Backpack points and Mad Lads NFTs. This sets a precedent for how value is distributed in future NFT-linked token launches. The community’s reaction could influence how other projects structure their airdrops and reward mechanisms.\n\n### The Risk or Debate\n\nThe main risk is a loss of trust among the most dedicated users. If long-term supporters feel their loyalty isn’t valued, it could weaken the project’s core community. The sharp drop in Mad Lads NFT prices reflects this sentiment. There’s also uncertainty around how the remaining tokens—unlocked through achievements or post-IPO—will be distributed and whether this will address current frustrations or deepen them.\n\nAnother debate centers on fairness: Should airdrops reward longevity, activity, or simply holding? Backpack’s approach has reignited this question, and the answer will shape both user behavior and project reputations across Solana.\n\n### What To Watch\n\nThe next few weeks will reveal whether $BP’s community-first approach can repair trust and stabilize the Mad Lads ecosystem. Watch for updates on achievement-based unlocks and how the team responds to feedback. Price action on both $BP and Mad Lads NFTs will be a key signal of sentiment.\n\nOther Solana projects are likely to study Backpack’s experience closely. Any adjustments to future airdrop strategies—especially around rewarding true loyalty—could set new standards for the ecosystem.",
+        "signal": "Jupiter is rolling out privacy-focused transfers on Solana by integrating HoudiniSwap, signaling a shift toward enhanced transaction confidentiality.",
+        "story": "Jupiter, one of Solana’s most prominent DeFi platforms, has announced the launch of privacy transfers through an integration with HoudiniSwap. This move mirrors recent steps by other Solana projects, such as Solflare, and marks a notable development in the network’s evolving privacy landscape.\n\n### What's Happening\nJupiter is adding privacy transfer capabilities, allowing users to move assets with greater confidentiality. The integration with HoudiniSwap provides a mechanism for obfuscating transaction details, making it harder to trace the flow of funds between wallets. This is a significant technical step for a platform best known for its aggregation and liquidity tools, and it signals a new direction for user experience on Solana.\n\nThe privacy feature is not being introduced in isolation. It comes as part of a broader wave of updates from Jupiter, including lending product improvements and increased engagement with institutional venues like the NYSE. The privacy integration stands out, however, as it addresses a long-standing gap in Solana’s otherwise transparent ecosystem.\n\n### Why It Matters\nPrivacy has been a recurring topic in crypto, but Solana has historically lagged behind chains like Ethereum or privacy-focused networks in this area. By integrating HoudiniSwap, Jupiter is positioning itself at the forefront of the privacy meta on Solana, potentially setting a standard for other DeFi platforms to follow.\n\nFor users, this development means more control over their transaction visibility. It could attract new participants who value confidentiality, especially as regulatory and surveillance pressures increase across the industry. For the ecosystem, it signals that privacy is becoming a competitive feature, not just a niche concern.\n\nStrategically, Jupiter’s move could spur further innovation or integrations as platforms race to offer privacy options without sacrificing speed or composability. It also demonstrates that Solana’s DeFi infrastructure is maturing, with leading projects willing to experiment and ship rapidly.\n\n### The Risk or Debate\nIntroducing privacy features is not without controversy. While many users welcome enhanced confidentiality, privacy tools can draw regulatory scrutiny, especially if they are perceived as enabling illicit activity. There is also the technical risk of bugs or vulnerabilities in the integration, which could expose users or undermine trust in the platform.\n\nSome in the community may debate whether privacy should be opt-in or default, and how it impacts transparency for protocols that rely on open data. The balance between user privacy and compliance remains unresolved, and Jupiter’s approach will likely be watched closely by both advocates and skeptics.\n\n### What To Watch\nThe immediate question is how users respond to Jupiter’s privacy transfers—whether adoption is strong and if it drives increased activity on the platform. Other Solana projects may follow suit, leading to a broader privacy trend across the ecosystem.\n\nIt’s also worth monitoring how regulators and compliance teams react, and whether Jupiter or HoudiniSwap face additional scrutiny. Technically, the robustness of the integration will be tested as usage ramps up. Finally, watch for further updates from Jupiter as they continue to iterate on their product suite and push the boundaries of what’s possible on Solana.",
         "takeaways": [
-          "Backpack’s $BP airdrop allocated tokens only to users, with no insider or VC allocations.",
-          "Long-term Mad Lads supporters are frustrated by equal rewards for recent and early holders.",
-          "Mad Lads NFT prices dropped over 40% after the airdrop, reflecting community disappointment."
+          "Jupiter is integrating privacy transfers via HoudiniSwap, expanding Solana's privacy options.",
+          "This move aligns Jupiter with other Solana projects experimenting with confidential transactions.",
+          "Privacy features could attract new users but may also invite regulatory attention."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 4.8
+      "narrativeStrength": 4.9
     }
   ]
 }
