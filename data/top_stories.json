@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-03-26T08:01:26.140Z",
-    "totalCandidates": 101,
+    "generatedAt": "2026-03-26T19:53:32.996Z",
+    "totalCandidates": 103,
     "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
@@ -9,19 +9,19 @@
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/395109/visa-canton-super-validator-major-step-engaging-blockchain-governance",
-      "title": "Visa takes on Canton Super Validator role, marking major step in engaging with blockchain governance",
-      "url": "https://www.theblock.co/post/395109/visa-canton-super-validator-major-step-engaging-blockchain-governance",
+      "id": "https://www.theblock.co/post/395272/moonwell-governance-attack",
+      "title": "DeFi lender Moonwell faces governance attack as $1,800 vote push threatens $1 million in funds",
+      "url": "https://www.theblock.co/post/395272/moonwell-governance-attack",
       "source": "The Block",
-      "publishedAt": "2026-03-25T16:00:00.000Z",
-      "summary": "The firm’s application was approved on March 23, three days after it was submitted, appointing Visa the highest Super Validator weight.",
+      "publishedAt": "2026-03-26T13:21:59.000Z",
+      "summary": "Moonwell is facing a governance attack after a $1,800 token purchase was used to push a proposal that could drain over $1 million.",
       "tags": [
-        "visa",
-        "takes",
-        "canton"
+        "defi",
+        "lender",
+        "moonwell"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,128 +31,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5b1d861158da4567bf75b17f13fd0bc61d78b9af",
-      "score": 26
+      "dedupeFingerprint": "971f4d79b4c50ec11a2a27fb831c0b8091bdd8b7",
+      "score": 30
     },
     {
-      "id": "https://ambcrypto.com/solana-can-sol-target-110-as-key-metrics-signal-buying-pressure",
-      "title": "Solana: Can SOL target $110 as KEY metrics signal buying pressure?",
-      "url": "https://ambcrypto.com/solana-can-sol-target-110-as-key-metrics-signal-buying-pressure",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-25T22:00:19.000Z",
-      "summary": "Solana gains momentum as enterprise adoption grows and whale buying strengthens across spot and futures markets.",
-      "tags": [
-        "solana",
-        "target",
-        "metrics"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "818434bce68abe8840af90728d0347194eeacf7e",
-      "score": 24
-    },
-    {
-      "id": "https://ambcrypto.com/solana-proposes-constellation-upgrade-to-curb-mev-and-enforce-fair-transaction-ordering",
-      "title": "Solana proposes ‘Constellation’ upgrade to curb MEV and enforce fair transaction ordering",
-      "url": "https://ambcrypto.com/solana-proposes-constellation-upgrade-to-curb-mev-and-enforce-fair-transaction-ordering",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-25T21:47:42.000Z",
-      "summary": "Solana’s Constellation proposal introduces a multi-proposer system aimed at reducing MEV.",
-      "tags": [
-        "solana",
-        "proposes",
-        "constellation"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "3e171269f8fef6b6cc73a550999979be747b2431",
-      "score": 22
-    },
-    {
-      "id": "https://decrypt.co/362254/delaware-establish-state-framework-stablecoin-issuers",
-      "title": "Delaware Moves to Establish State Framework for Stablecoin Issuers",
-      "url": "https://decrypt.co/362254/delaware-establish-state-framework-stablecoin-issuers",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-25T02:33:53.000Z",
-      "summary": "The proposal would create a state licensing regime for stablecoin issuers while bolstering Delaware’s position to attract digital asset firms.",
-      "tags": [
-        "delaware",
-        "moves",
-        "establish"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "be3f4c64231a24a7d5bbcba9a0ec42c2bd197f20",
-      "score": 22
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/03/25/sky-backed-obex-spreads-usd1-billion-across-credit-energy-and-ai-assets-to-expand-stablecoin-yield",
-      "title": "Sky-backed Obex spreads $1 billion across credit, energy and AI assets to expand stablecoin yield",
-      "url": "https://www.coindesk.com/business/2026/03/25/sky-backed-obex-spreads-usd1-billion-across-credit-energy-and-ai-assets-to-expand-stablecoin-yield",
+      "id": "https://www.coindesk.com/coindesk-indices/2026/03/25/crypto-for-advisors-the-evolution-of-stablecoins",
+      "title": "Crypto for Advisors: The evolution of stablecoins",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/03/25/crypto-for-advisors-the-evolution-of-stablecoins",
       "source": "CoinDesk",
-      "publishedAt": "2026-03-25T16:34:35.000Z",
-      "summary": "The stablecoin incubator is targeting tokenized assets tied to AI hardware, energy and housing to move Sky’s ecosystem beyond \"circular\" crypto yields.",
+      "publishedAt": "2026-03-26T15:00:00.000Z",
+      "summary": "From niche trading instrument to global financial infrastructure: How stablecoins are extending the US dollar’s reach and what advisors need to know.",
       "tags": [
-        "backed",
-        "obex",
-        "spreads"
+        "crypto",
+        "advisors",
+        "evolution"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +66,112 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9c8481b8380b0443878973bc056655225a5fcbfc",
-      "score": 21
+      "dedupeFingerprint": "b74ebd6d505e2267e197de5d4cd14d6333199848",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/policy/2026/03/26/stablecoin-rewards-restrictions-can-slow-but-not-stop-circle-s-usdc-says-citigroup",
+      "title": "Stablecoin rewards restrictions can slow but not stop Circle's USDC, says Citigroup",
+      "url": "https://www.coindesk.com/policy/2026/03/26/stablecoin-rewards-restrictions-can-slow-but-not-stop-circle-s-usdc-says-citigroup",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-26T14:02:32.000Z",
+      "summary": "USDC adoption hinges on volume, not circulation, the bank said",
+      "tags": [
+        "stablecoin",
+        "rewards",
+        "restrictions"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "30b3230afcd5cc8406b75cee9a73e4912035a0e5",
+      "score": 19
+    },
+    {
+      "id": "https://decrypt.co/362327/visa-payments-canton-network-super-validator",
+      "title": "Visa Becomes First Major Payments Company to Join Canton Network as Super Validator",
+      "url": "https://decrypt.co/362327/visa-payments-canton-network-super-validator",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-25T17:03:42.000Z",
+      "summary": "Visa will help banks bring stablecoin payments and settlement on-chain while preserving privacy on the institutional blockchain network.",
+      "tags": [
+        "visa",
+        "becomes",
+        "first"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "80929103e72d3272342799fb22914afc82232cf4",
+      "score": 19
+    },
+    {
+      "id": "https://messari.io/article/kelp-introducing-kusd-and-a-unique-commerce-backed-stablecoin-model",
+      "title": "Kelp: Introducing KUSD and a Unique Commerce-Backed Stablecoin Model",
+      "url": "https://messari.io/article/kelp-introducing-kusd-and-a-unique-commerce-backed-stablecoin-model",
+      "source": "Messari",
+      "publishedAt": "2026-03-25T13:30:00.000Z",
+      "summary": "Kelp has emerged as a major player in the restaking ecosystem, with over $1.25 billion in TVL, and is now extending its platform into onchain credit through the launch of KUSD. Unlike traditional DeFi lending or RWA protocols that rely on overcollateralization or tokenize passive financial assets, K",
+      "tags": [
+        "kelp",
+        "introducing",
+        "kusd"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5aa340129696c46a49245ebc241c35a528eb99c5",
+      "score": 19
     }
   ]
 }

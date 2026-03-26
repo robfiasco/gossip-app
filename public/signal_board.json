@@ -1,26 +1,26 @@
 {
   "date": "2026-03-26",
-  "generated_at_utc": "2026-03-26T08:01:35.604Z",
-  "ctxMarket": "Attention is on Solana’s growing enterprise adoption and technical upgrades, with notable interest from large holders in both spot and futures markets. The network’s positioning as infrastructure for AI-driven applications is also drawing discussion.",
-  "ctxTalking": "• Increased whale activity and enterprise adoption are seen as driving momentum for SOL.\n• The proposed ‘Constellation’ upgrade aims to reduce MEV and improve transaction fairness.\n• Solana’s push into AI agent infrastructure and the launch of a unified developer platform are in focus.",
-  "ctxMatters": "Solana’s technical upgrades could address long-standing concerns about fair transaction ordering.  \nInstitutional and enterprise interest may influence network usage and development priorities.  \nThe network’s emphasis on AI and developer tooling signals a bid to expand its role beyond DeFi and NFTs.",
-  "ctxSignal": "Signal: Concrete proposals like Constellation and the developer platform launch show active ecosystem development.  \nNoise: Price speculation tied to whale activity lacks clear fundamentals in the current news.",
-  "ctxGlossary": "MEV — “Miner Extractable Value,” profits from transaction reordering or inclusion by validators.  \nConstellation — Solana’s proposed upgrade for fairer transaction ordering using multiple proposers.",
+  "generated_at_utc": "2026-03-26T19:53:43.240Z",
+  "ctxMarket": "Attention is focused on security concerns following a supply chain attack affecting Python users and on new infrastructure for developers. The Solana Foundation’s latest initiatives are also drawing discussion among builders.",
+  "ctxTalking": "• A compromised AI tool, LiteLLM, was found stealing Solana wallet and validator data during a brief attack window\n• The Solana Foundation’s role and grant distribution to builders is under debate\n• Launch of the Solana Developer Platform, targeting institutional and enterprise development",
+  "ctxMatters": "The LiteLLM incident highlights risks for anyone running developer tools, especially those managing Solana keys or infrastructure. Ongoing debates about the Foundation’s support and the new developer platform signal evolving priorities for Solana’s builder ecosystem. Institutional interest may increase as unified APIs become available.",
+  "ctxSignal": "Signal: Security of developer tools and new Solana infrastructure are shaping builder and enterprise decisions.\nNoise: Speculation about the Foundation’s motives without clear evidence.",
+  "ctxGlossary": "Validator — A participant that helps secure Solana and process transactions.\nAPI — A set of tools for building software and connecting to platforms like Solana.",
   "readMore": [
     {
-      "title": "Solana",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-can-sol-target-110-as-key-metrics-signal-buying-pressure"
-    },
-    {
-      "title": "Solana bets on AI agents",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/03/25/solana-bets-on-ai-agents-foundation-says-network-is-becoming-core-infrastructure-for-agentic-internet"
+      "title": "Hackers sneak crypto wallet-stealing code into a popular AI tool that runs every time",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/hackers-sneak-crypto-wallet-stealing-code-into-a-popular-ai-tool-that-runs-every-time"
     },
     {
       "title": "Solana’s Builder Debate",
       "source": "CryptoPotato",
       "url": "https://cryptopotato.com/solanas-builder-debate-what-the-foundation-says-it-offers"
+    },
+    {
+      "title": "Solana Foundation Launches Solana Developer Platform",
+      "source": "Solana News",
+      "url": "https://solana.com/news/solana-developer-platform"
     }
   ]
 }
