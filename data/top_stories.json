@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-03-25T19:44:56.106Z",
+    "generatedAt": "2026-03-26T08:01:26.140Z",
     "totalCandidates": 101,
-    "solanaCandidates": 29,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,79 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5b1d861158da4567bf75b17f13fd0bc61d78b9af",
-      "score": 27
+      "score": 26
+    },
+    {
+      "id": "https://ambcrypto.com/solana-can-sol-target-110-as-key-metrics-signal-buying-pressure",
+      "title": "Solana: Can SOL target $110 as KEY metrics signal buying pressure?",
+      "url": "https://ambcrypto.com/solana-can-sol-target-110-as-key-metrics-signal-buying-pressure",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-25T22:00:19.000Z",
+      "summary": "Solana gains momentum as enterprise adoption grows and whale buying strengthens across spot and futures markets.",
+      "tags": [
+        "solana",
+        "target",
+        "metrics"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "818434bce68abe8840af90728d0347194eeacf7e",
+      "score": 24
+    },
+    {
+      "id": "https://ambcrypto.com/solana-proposes-constellation-upgrade-to-curb-mev-and-enforce-fair-transaction-ordering",
+      "title": "Solana proposes ‘Constellation’ upgrade to curb MEV and enforce fair transaction ordering",
+      "url": "https://ambcrypto.com/solana-proposes-constellation-upgrade-to-curb-mev-and-enforce-fair-transaction-ordering",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-25T21:47:42.000Z",
+      "summary": "Solana’s Constellation proposal introduces a multi-proposer system aimed at reducing MEV.",
+      "tags": [
+        "solana",
+        "proposes",
+        "constellation"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3e171269f8fef6b6cc73a550999979be747b2431",
+      "score": 22
     },
     {
       "id": "https://decrypt.co/362254/delaware-establish-state-framework-stablecoin-issuers",
@@ -66,45 +132,12 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "be3f4c64231a24a7d5bbcba9a0ec42c2bd197f20",
-      "score": 23
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/03/25/solana-bets-on-ai-agents-foundation-says-network-is-becoming-core-infrastructure-for-agentic-internet",
-      "title": "Solana bets on AI agents: Foundation says network is becoming core infrastructure for ‘agentic’ internet",
-      "url": "https://www.coindesk.com/business/2026/03/25/solana-bets-on-ai-agents-foundation-says-network-is-becoming-core-infrastructure-for-agentic-internet",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-25T16:36:48.000Z",
-      "summary": "This shift could fundamentally reshape internet business models, Solana Foundation's Vibhu Norby believes.",
-      "tags": [
-        "solana",
-        "bets",
-        "agents"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "bd672bc4fc1b5f0b0d4a9cc427b41eda021c990e",
       "score": 22
     },
     {
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9c8481b8380b0443878973bc056655225a5fcbfc",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/395038/beyond-dollarization-visa-and-dune-report-finds-non-usd-stablecoins-increasingly-being-used-as-money",
-      "title": "Beyond dollarization? Visa and Dune report finds non-USD stablecoins increasingly being used as money",
-      "url": "https://www.theblock.co/post/395038/beyond-dollarization-visa-and-dune-report-finds-non-usd-stablecoins-increasingly-being-used-as-money",
-      "source": "The Block",
-      "publishedAt": "2026-03-25T13:00:00.000Z",
-      "summary": "The supply of non-USD stablecoins hit $1.1 billion in February, while aggregated transfer volume surged over 1,600%.",
-      "tags": [
-        "beyond",
-        "dollarization",
-        "visa"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "3e8a7ac3ebb24b3fdbb491e9652ffb1bf4b6c1f5",
-      "score": 22
+      "score": 21
     }
   ]
 }

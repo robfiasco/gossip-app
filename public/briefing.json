@@ -1,8 +1,26 @@
 {
-  "date": "2026-03-25",
+  "date": "2026-03-26",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Solana proposes ‘Constellation’ upgrade to curb MEV and enforce fair transaction ordering",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-03-25",
+      "url": "https://ambcrypto.com/solana-proposes-constellation-upgrade-to-curb-mev-and-enforce-fair-transaction-ordering",
+      "whyYouShouldCare": "The proposed ‘Constellation’ upgrade aims to reduce miner extractable value (MEV), potentially enhancing transaction fairness and user trust in the Solana network."
+    },
+    {
+      "type": "APPS",
+      "title": "Solana: Can SOL target $110 as KEY metrics signal buying pressure?",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-03-25",
+      "url": "https://ambcrypto.com/solana-can-sol-target-110-as-key-metrics-signal-buying-pressure",
+      "whyYouShouldCare": "Key metrics indicating buying pressure could position SOL favorably, suggesting a potential upward trend in its market performance."
+    },
     {
       "type": "INFRA",
       "title": "Solana bets on AI agents: Foundation says network is becoming core infrastructure for ‘agentic’ internet",
@@ -10,25 +28,7 @@
       "source": "CoinDesk",
       "date": "2026-03-25",
       "url": "https://www.coindesk.com/business/2026/03/25/solana-bets-on-ai-agents-foundation-says-network-is-becoming-core-infrastructure-for-agentic-internet",
-      "whyYouShouldCare": "Solana's focus on AI agents positions it as a key player in the evolving internet landscape, potentially enhancing its infrastructure relevance and attracting new developers."
-    },
-    {
-      "type": "ECOSYSTEM",
-      "title": "Solana Foundation Launches Solana Developer Platform",
-      "category": "ECOSYSTEM",
-      "source": "Solana News",
-      "date": "2026-03-24",
-      "url": "https://solana.com/news/solana-developer-platform",
-      "whyYouShouldCare": "The launch of the Solana Developer Platform aims to streamline development, which could boost ecosystem growth and increase overall network usage."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana’s Builder Debate: What the Foundation Says It Offers",
-      "category": "APPS",
-      "source": "CryptoPotato",
-      "date": "2026-03-24",
-      "url": "https://cryptopotato.com/solanas-builder-debate-what-the-foundation-says-it-offers",
-      "whyYouShouldCare": "The Foundation's insights into its offerings highlight its commitment to supporting builders, which may strengthen community engagement and innovation on the Solana network."
+      "whyYouShouldCare": "Solana's focus on AI agents positions the network as a foundational layer for future internet developments, which may drive increased usage and adoption."
     }
   ]
 }

@@ -1,12 +1,17 @@
 {
-  "date": "2026-03-25",
-  "generated_at_utc": "2026-03-25T19:45:04.511Z",
-  "ctxMarket": "Attention is on Solana’s positioning as core infrastructure for AI-driven applications and its new developer platform targeting enterprise adoption. Major financial institutions are engaging with Solana’s tools, while broader industry focus includes scaling and technology pressures across blockchains.",
-  "ctxTalking": "• Solana Foundation’s push to become foundational for “agentic” (AI-powered) internet infrastructure\n• Launch of the Solana Developer Platform, with adoption by Mastercard, Western Union, and Worldpay\n• Ongoing debate about Solana Foundation’s grant distribution and support for builders",
-  "ctxMatters": "Solana’s emphasis on AI and enterprise tools signals a shift toward broader, non-retail use cases. Major financial firms building on Solana may influence network credibility and future integrations. Builder support and grant allocation remain central to ecosystem growth and developer retention.",
-  "ctxSignal": "Signal: Institutional adoption of Solana’s new developer platform and its AI infrastructure narrative.\nNoise: Speculation about internal grant distribution debates without clear outcomes.",
-  "ctxGlossary": "Agentic — Refers to applications or systems powered by autonomous AI agents.\nDeveloper Platform — A suite of tools/APIs for building on Solana, aimed at enterprises.",
+  "date": "2026-03-26",
+  "generated_at_utc": "2026-03-26T08:01:35.604Z",
+  "ctxMarket": "Attention is on Solana’s growing enterprise adoption and technical upgrades, with notable interest from large holders in both spot and futures markets. The network’s positioning as infrastructure for AI-driven applications is also drawing discussion.",
+  "ctxTalking": "• Increased whale activity and enterprise adoption are seen as driving momentum for SOL.\n• The proposed ‘Constellation’ upgrade aims to reduce MEV and improve transaction fairness.\n• Solana’s push into AI agent infrastructure and the launch of a unified developer platform are in focus.",
+  "ctxMatters": "Solana’s technical upgrades could address long-standing concerns about fair transaction ordering.  \nInstitutional and enterprise interest may influence network usage and development priorities.  \nThe network’s emphasis on AI and developer tooling signals a bid to expand its role beyond DeFi and NFTs.",
+  "ctxSignal": "Signal: Concrete proposals like Constellation and the developer platform launch show active ecosystem development.  \nNoise: Price speculation tied to whale activity lacks clear fundamentals in the current news.",
+  "ctxGlossary": "MEV — “Miner Extractable Value,” profits from transaction reordering or inclusion by validators.  \nConstellation — Solana’s proposed upgrade for fairer transaction ordering using multiple proposers.",
   "readMore": [
+    {
+      "title": "Solana",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-can-sol-target-110-as-key-metrics-signal-buying-pressure"
+    },
     {
       "title": "Solana bets on AI agents",
       "source": "CoinDesk",
@@ -16,11 +21,6 @@
       "title": "Solana’s Builder Debate",
       "source": "CryptoPotato",
       "url": "https://cryptopotato.com/solanas-builder-debate-what-the-foundation-says-it-offers"
-    },
-    {
-      "title": "Mastercard, Western Union, Worldpay Building With New Solana Enterprise Platform",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/362183/mastercard-western-union-worldpay-building-solana-enterprise-platform"
     }
   ]
 }
