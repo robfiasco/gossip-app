@@ -1,59 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-03-27T07:59:19.048Z",
-    "totalCandidates": 103,
-    "solanaCandidates": 18,
+    "generatedAt": "2026-03-27T19:40:12.360Z",
+    "totalCandidates": 105,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/395272/moonwell-governance-attack",
-      "title": "DeFi lender Moonwell faces governance attack as $1,800 vote push threatens $1 million in funds",
-      "url": "https://www.theblock.co/post/395272/moonwell-governance-attack",
-      "source": "The Block",
-      "publishedAt": "2026-03-26T13:21:59.000Z",
-      "summary": "Moonwell is facing a governance attack after a $1,800 token purchase was used to push a proposal that could drain over $1 million.",
-      "tags": [
-        "defi",
-        "lender",
-        "moonwell"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "971f4d79b4c50ec11a2a27fb831c0b8091bdd8b7",
-      "score": 29
-    },
-    {
-      "id": "https://ambcrypto.com/will-solana-fall-to-57-next-what-sols-key-metrics-suggest",
-      "title": "Will Solana fall to $57 next? What SOL’s KEY metrics suggest",
-      "url": "https://ambcrypto.com/will-solana-fall-to-57-next-what-sols-key-metrics-suggest",
+      "id": "https://ambcrypto.com/solana-is-78-50-support-at-risk-as-sol-faces-53m-whale-pressure",
+      "title": "Solana: Is $78.50 support in danger as SOL faces $53M whale pressure?",
+      "url": "https://ambcrypto.com/solana-is-78-50-support-at-risk-as-sol-faces-53m-whale-pressure",
       "source": "AMB Crypto",
-      "publishedAt": "2026-03-27T03:00:57.000Z",
-      "summary": "Solana breaches $90 support level, falling to $88, as analysts eyes a drop to $45.",
+      "publishedAt": "2026-03-27T18:00:07.000Z",
+      "summary": "Solana faces rising sell pressure as whale inflows clash with weak demand structure near support",
       "tags": [
-        "will",
         "solana",
-        "fall"
+        "support",
+        "danger"
       ],
-      "topicBucket": "general",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -71,20 +38,53 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c2aec01fc1ded88ae5ec83790dc0c3d9a2ea5235",
+      "dedupeFingerprint": "c69278ee662c0559231ee7f843d6a3b128386643",
       "score": 24
     },
     {
-      "id": "https://www.coindesk.com/coindesk-indices/2026/03/25/crypto-for-advisors-the-evolution-of-stablecoins",
-      "title": "Crypto for Advisors: The evolution of stablecoins",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/03/25/crypto-for-advisors-the-evolution-of-stablecoins",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-26T15:00:00.000Z",
-      "summary": "From niche trading instrument to global financial infrastructure: How stablecoins are extending the US dollar’s reach and what advisors need to know.",
+      "id": "https://www.theblock.co/post/395492/ecb-paper-defi-governance-concentrated-results-affect-regulatory-anchor-points",
+      "title": "ECB paper finds DeFi governance concentrated, warns results could affect ‘regulatory anchor points’",
+      "url": "https://www.theblock.co/post/395492/ecb-paper-defi-governance-concentrated-results-affect-regulatory-anchor-points",
+      "source": "The Block",
+      "publishedAt": "2026-03-27T16:48:57.000Z",
+      "summary": "ECB research finds large percentages of DeFi governance tokens are tied to exchanges and protocol-linked wallets.",
       "tags": [
-        "crypto",
-        "advisors",
-        "evolution"
+        "paper",
+        "finds",
+        "defi"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "72e7b98d47cc84c3f46d646c543543d97788735b",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/opinion/2026/03/27/why-mastercard-paid-double-for-stablecoin-infrastructure-it-could-have-built",
+      "title": "Why Mastercard paid double for stablecoin infrastructure it could have built",
+      "url": "https://www.coindesk.com/opinion/2026/03/27/why-mastercard-paid-double-for-stablecoin-infrastructure-it-could-have-built",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-27T16:30:00.000Z",
+      "summary": "The credit card giant’s pricey payment to buy stablecoin platform, BVNK, says more than any strategy deck or earnings call ever could.",
+      "tags": [
+        "mastercard",
+        "paid",
+        "double"
       ],
       "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -99,25 +99,58 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b74ebd6d505e2267e197de5d4cd14d6333199848",
-      "score": 21
+      "dedupeFingerprint": "ea74f07e97e4c93120929116a64954b1f9d4bcd4",
+      "score": 22
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/03/26/stablecoin-rewards-restrictions-can-slow-but-not-stop-circle-s-usdc-says-citigroup",
-      "title": "Stablecoin rewards restrictions can slow but not stop Circle's USDC, says Citigroup",
-      "url": "https://www.coindesk.com/policy/2026/03/26/stablecoin-rewards-restrictions-can-slow-but-not-stop-circle-s-usdc-says-citigroup",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-26T14:02:32.000Z",
-      "summary": "USDC adoption hinges on volume, not circulation, the bank said",
+      "id": "https://www.theblock.co/post/394892/umbra-opens-privacy-wallet-to-the-public-on-solana-powered-by-arciums-encrypted-execution-engine",
+      "title": "Umbra opens privacy wallet to the public on Solana, powered by Arcium’s encrypted execution engine",
+      "url": "https://www.theblock.co/post/394892/umbra-opens-privacy-wallet-to-the-public-on-solana-powered-by-arciums-encrypted-execution-engine",
+      "source": "The Block",
+      "publishedAt": "2026-03-27T14:05:02.000Z",
+      "summary": "Umbra has opened its private wallet to the public, enabling shielded transfers, encrypted swaps, and compliance tools for Solana users.",
       "tags": [
+        "umbra",
+        "opens",
+        "privacy"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "60e43f8fec269b12b2cf6cdba99e7a46dbd09680",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/ecb-flags-stablecoin-competition-as-digital-euro-push-intensifies",
+      "title": "ECB flags stablecoin competition as digital euro push intensifies",
+      "url": "https://ambcrypto.com/ecb-flags-stablecoin-competition-as-digital-euro-push-intensifies",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-27T16:50:58.000Z",
+      "summary": "The ECB warns banks risk losing ground to stablecoins, positioning the digital euro as a key tool to preserve their role in payments.",
+      "tags": [
+        "flags",
         "stablecoin",
-        "rewards",
-        "restrictions"
+        "competition"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,48 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "30b3230afcd5cc8406b75cee9a73e4912035a0e5",
-      "score": 18
-    },
-    {
-      "id": "https://messari.io/article/kelp-introducing-kusd-and-a-unique-commerce-backed-stablecoin-model",
-      "title": "Kelp: Introducing KUSD and a Unique Commerce-Backed Stablecoin Model",
-      "url": "https://messari.io/article/kelp-introducing-kusd-and-a-unique-commerce-backed-stablecoin-model",
-      "source": "Messari",
-      "publishedAt": "2026-03-25T13:30:00.000Z",
-      "summary": "Kelp has emerged as a major player in the restaking ecosystem, with over $1.25 billion in TVL, and is now extending its platform into onchain credit through the launch of KUSD. Unlike traditional DeFi lending or RWA protocols that rely on overcollateralization or tokenize passive financial assets, K",
-      "tags": [
-        "kelp",
-        "introducing",
-        "kusd"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5aa340129696c46a49245ebc241c35a528eb99c5",
-      "score": 18
+      "dedupeFingerprint": "ce082dcaf3438bdc92b643f7df8781fb2f789a61",
+      "score": 19
     }
   ]
 }

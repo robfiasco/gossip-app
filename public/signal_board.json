@@ -1,21 +1,21 @@
 {
   "date": "2026-03-27",
-  "generated_at_utc": "2026-03-27T07:59:27.348Z",
-  "ctxMarket": "Attention is on Solana’s price action after it fell below the $90 support level, with some analysts discussing the possibility of further declines. Security concerns are also in focus following a wallet-stealing exploit targeting Solana validator material.",
-  "ctxTalking": "• Solana’s breach of key price levels and speculation about further downside\n• A major security incident involving compromised Python packages targeting Solana wallets\n• The launch of the Solana Developer Platform for institutional and enterprise builders",
-  "ctxMatters": "Price volatility and analyst speculation may influence sentiment among Solana holders. The security breach highlights ongoing risks for developers and validators in the ecosystem. The new developer platform signals continued investment in infrastructure, potentially making Solana more accessible for large-scale projects.",
-  "ctxSignal": "Signal: Security incidents and new developer tools directly impact Solana’s ecosystem health and usability.\nNoise: Short-term price predictions without clear catalysts.",
-  "ctxGlossary": "Validator — A participant that helps secure the Solana network and process transactions.\nAPI Platform — A set of tools that lets developers interact with blockchain services more easily.",
+  "generated_at_utc": "2026-03-27T19:40:23.656Z",
+  "ctxMarket": "Attention is on Solana’s $78.50 support level as large whale inflows coincide with weak demand, raising questions about near-term price resilience. Builder activity and privacy tooling are also in focus.",
+  "ctxTalking": "• Whale-driven sell pressure and the stability of Solana’s $78.50 support\n• Public launch of Umbra’s privacy wallet using Arcium’s encrypted execution engine\n• Solana Foundation’s new unified Developer Platform for institutional and enterprise builders",
+  "ctxMatters": "Whale activity near key support levels can impact market sentiment and liquidity. Umbra’s privacy wallet introduces shielded transfers and encrypted swaps, expanding Solana’s privacy features. The Solana Developer Platform aims to streamline development for larger teams and enterprises, potentially accelerating ecosystem growth.",
+  "ctxSignal": "Signal: Major infrastructure launches (Umbra wallet, Developer Platform) and ongoing grant distributions by the Solana Foundation.\nNoise: Speculation around short-term price moves without clear demand signals.",
+  "ctxGlossary": "Whale — An entity or individual controlling large amounts of a cryptocurrency.\nShielded transfer — A transaction type that hides sender, receiver, or amount details.\nSolana Developer Platform — A unified API platform for building on Solana.",
   "readMore": [
     {
-      "title": "Will Solana fall to $57 next? What SOL’s KEY metrics suggest",
+      "title": "Solana",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/will-solana-fall-to-57-next-what-sols-key-metrics-suggest"
+      "url": "https://ambcrypto.com/solana-is-78-50-support-at-risk-as-sol-faces-53m-whale-pressure"
     },
     {
-      "title": "Hackers sneak crypto wallet-stealing code into a popular AI tool that runs every time",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/hackers-sneak-crypto-wallet-stealing-code-into-a-popular-ai-tool-that-runs-every-time"
+      "title": "Umbra opens privacy wallet to the public on Solana, powered by Arcium’s encrypted execution engine",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/394892/umbra-opens-privacy-wallet-to-the-public-on-solana-powered-by-arciums-encrypted-execution-engine"
     },
     {
       "title": "Solana’s Builder Debate",
