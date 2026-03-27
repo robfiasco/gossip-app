@@ -1,12 +1,17 @@
 {
-  "date": "2026-03-26",
-  "generated_at_utc": "2026-03-26T19:53:43.240Z",
-  "ctxMarket": "Attention is focused on security concerns following a supply chain attack affecting Python users and on new infrastructure for developers. The Solana Foundation’s latest initiatives are also drawing discussion among builders.",
-  "ctxTalking": "• A compromised AI tool, LiteLLM, was found stealing Solana wallet and validator data during a brief attack window\n• The Solana Foundation’s role and grant distribution to builders is under debate\n• Launch of the Solana Developer Platform, targeting institutional and enterprise development",
-  "ctxMatters": "The LiteLLM incident highlights risks for anyone running developer tools, especially those managing Solana keys or infrastructure. Ongoing debates about the Foundation’s support and the new developer platform signal evolving priorities for Solana’s builder ecosystem. Institutional interest may increase as unified APIs become available.",
-  "ctxSignal": "Signal: Security of developer tools and new Solana infrastructure are shaping builder and enterprise decisions.\nNoise: Speculation about the Foundation’s motives without clear evidence.",
-  "ctxGlossary": "Validator — A participant that helps secure Solana and process transactions.\nAPI — A set of tools for building software and connecting to platforms like Solana.",
+  "date": "2026-03-27",
+  "generated_at_utc": "2026-03-27T07:59:27.348Z",
+  "ctxMarket": "Attention is on Solana’s price action after it fell below the $90 support level, with some analysts discussing the possibility of further declines. Security concerns are also in focus following a wallet-stealing exploit targeting Solana validator material.",
+  "ctxTalking": "• Solana’s breach of key price levels and speculation about further downside\n• A major security incident involving compromised Python packages targeting Solana wallets\n• The launch of the Solana Developer Platform for institutional and enterprise builders",
+  "ctxMatters": "Price volatility and analyst speculation may influence sentiment among Solana holders. The security breach highlights ongoing risks for developers and validators in the ecosystem. The new developer platform signals continued investment in infrastructure, potentially making Solana more accessible for large-scale projects.",
+  "ctxSignal": "Signal: Security incidents and new developer tools directly impact Solana’s ecosystem health and usability.\nNoise: Short-term price predictions without clear catalysts.",
+  "ctxGlossary": "Validator — A participant that helps secure the Solana network and process transactions.\nAPI Platform — A set of tools that lets developers interact with blockchain services more easily.",
   "readMore": [
+    {
+      "title": "Will Solana fall to $57 next? What SOL’s KEY metrics suggest",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/will-solana-fall-to-57-next-what-sols-key-metrics-suggest"
+    },
     {
       "title": "Hackers sneak crypto wallet-stealing code into a popular AI tool that runs every time",
       "source": "CryptoSlate",
@@ -16,11 +21,6 @@
       "title": "Solana’s Builder Debate",
       "source": "CryptoPotato",
       "url": "https://cryptopotato.com/solanas-builder-debate-what-the-foundation-says-it-offers"
-    },
-    {
-      "title": "Solana Foundation Launches Solana Developer Platform",
-      "source": "Solana News",
-      "url": "https://solana.com/news/solana-developer-platform"
     }
   ]
 }

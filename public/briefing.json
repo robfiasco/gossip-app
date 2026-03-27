@@ -1,8 +1,17 @@
 {
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Will Solana fall to $57 next? What SOL’s KEY metrics suggest",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-03-27",
+      "url": "https://ambcrypto.com/will-solana-fall-to-57-next-what-sols-key-metrics-suggest",
+      "whyYouShouldCare": "SOL's key metrics indicate potential price pressure, which could affect liquidity and investor sentiment in the Solana ecosystem."
+    },
     {
       "type": "RISK",
       "title": "Hackers sneak crypto wallet-stealing code into a popular AI tool that runs every time",
@@ -10,25 +19,16 @@
       "source": "CryptoSlate",
       "date": "2026-03-26",
       "url": "https://cryptoslate.com/hackers-sneak-crypto-wallet-stealing-code-into-a-popular-ai-tool-that-runs-every-time",
-      "whyYouShouldCare": "The integration of wallet-stealing code into widely used tools raises significant security concerns for Solana users and could impact overall ecosystem trust."
+      "whyYouShouldCare": "The introduction of wallet-stealing code in a widely used AI tool raises security concerns that could impact user trust and participation in the Solana network."
     },
     {
       "type": "APPS",
-      "title": "Solana’s Builder Debate: What the Foundation Says It Offers",
+      "title": "Ethereum ICO participant offloads $23 million in ETH: onchain analyst",
       "category": "APPS",
-      "source": "CryptoPotato",
-      "date": "2026-03-24",
-      "url": "https://cryptopotato.com/solanas-builder-debate-what-the-foundation-says-it-offers",
-      "whyYouShouldCare": "Understanding the Solana Foundation's offerings can clarify the platform's strategic direction and influence developer engagement and ecosystem growth."
-    },
-    {
-      "type": "APPS",
-      "title": "Venture Firm Founder Offers Bounty to Help Recover $42 Million in Stolen Bitcoin, Crypto",
-      "category": "APPS",
-      "source": "Decrypt",
-      "date": "2026-03-26",
-      "url": "https://decrypt.co/362482/venture-firm-founder-bounty-help-recover-42-million-stolen-bitcoin-crypto",
-      "whyYouShouldCare": "The recovery efforts for stolen assets highlight ongoing vulnerabilities in crypto security, which could affect investor confidence and liquidity in the Solana ecosystem."
+      "source": "The Block",
+      "date": "2026-03-27",
+      "url": "https://www.theblock.co/post/395419/ethereum-ico-wallet-offloads-23-million-worth-eth",
+      "whyYouShouldCare": "The significant ETH sell-off by an early investor may influence market dynamics, potentially affecting SOL's positioning as investors reassess their portfolios."
     }
   ]
 }

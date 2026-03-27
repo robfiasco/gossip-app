@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-03-26T19:53:32.996Z",
+    "generatedAt": "2026-03-27T07:59:19.048Z",
     "totalCandidates": 103,
-    "solanaCandidates": 21,
+    "solanaCandidates": 18,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,46 @@
       "scoreBreakdown": {
         "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "971f4d79b4c50ec11a2a27fb831c0b8091bdd8b7",
-      "score": 30
+      "score": 29
+    },
+    {
+      "id": "https://ambcrypto.com/will-solana-fall-to-57-next-what-sols-key-metrics-suggest",
+      "title": "Will Solana fall to $57 next? What SOL’s KEY metrics suggest",
+      "url": "https://ambcrypto.com/will-solana-fall-to-57-next-what-sols-key-metrics-suggest",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-27T03:00:57.000Z",
+      "summary": "Solana breaches $90 support level, falling to $88, as analysts eyes a drop to $45.",
+      "tags": [
+        "will",
+        "solana",
+        "fall"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c2aec01fc1ded88ae5ec83790dc0c3d9a2ea5235",
+      "score": 24
     },
     {
       "id": "https://www.coindesk.com/coindesk-indices/2026/03/25/crypto-for-advisors-the-evolution-of-stablecoins",
@@ -66,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b74ebd6d505e2267e197de5d4cd14d6333199848",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/policy/2026/03/26/stablecoin-rewards-restrictions-can-slow-but-not-stop-circle-s-usdc-says-citigroup",
@@ -99,46 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "30b3230afcd5cc8406b75cee9a73e4912035a0e5",
-      "score": 19
-    },
-    {
-      "id": "https://decrypt.co/362327/visa-payments-canton-network-super-validator",
-      "title": "Visa Becomes First Major Payments Company to Join Canton Network as Super Validator",
-      "url": "https://decrypt.co/362327/visa-payments-canton-network-super-validator",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-25T17:03:42.000Z",
-      "summary": "Visa will help banks bring stablecoin payments and settlement on-chain while preserving privacy on the institutional blockchain network.",
-      "tags": [
-        "visa",
-        "becomes",
-        "first"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "80929103e72d3272342799fb22914afc82232cf4",
-      "score": 19
+      "score": 18
     },
     {
       "id": "https://messari.io/article/kelp-introducing-kusd-and-a-unique-commerce-backed-stablecoin-model",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5aa340129696c46a49245ebc241c35a528eb99c5",
-      "score": 19
+      "score": 18
     }
   ]
 }
