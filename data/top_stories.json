@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-03-27T19:40:12.360Z",
+    "generatedAt": "2026-03-28T07:43:29.297Z",
     "totalCandidates": 105,
-    "solanaCandidates": 22,
+    "solanaCandidates": 20,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-is-78-50-support-at-risk-as-sol-faces-53m-whale-pressure",
-      "title": "Solana: Is $78.50 support in danger as SOL faces $53M whale pressure?",
-      "url": "https://ambcrypto.com/solana-is-78-50-support-at-risk-as-sol-faces-53m-whale-pressure",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-27T18:00:07.000Z",
-      "summary": "Solana faces rising sell pressure as whale inflows clash with weak demand structure near support",
+      "id": "https://www.theblock.co/post/395549/what-the-hell-crypto-frustration-boils-over-as-stablecoin-fight-stalls-bill",
+      "title": "‘What the hell?’ — Crypto frustration boils over as stablecoin fight stalls bill",
+      "url": "https://www.theblock.co/post/395549/what-the-hell-crypto-frustration-boils-over-as-stablecoin-fight-stalls-bill",
+      "source": "The Block",
+      "publishedAt": "2026-03-27T21:40:39.000Z",
+      "summary": "Frustrations are continuing to boil over in the crypto industry as it finds itself again at an impasse over the treatment of stablecoins.",
       "tags": [
-        "solana",
-        "support",
-        "danger"
+        "what",
+        "hell",
+        "crypto"
       ],
-      "topicBucket": "market",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,15 +31,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "4a8943ee3bfbb0964e0792f892bc4a958af63194",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/solanas-mid-range-trap-heres-why-sol-traders-should-stay-cautious",
+      "title": "Solana’s mid-range trap – Here’s why SOL traders should stay cautious!",
+      "url": "https://ambcrypto.com/solanas-mid-range-trap-heres-why-sol-traders-should-stay-cautious",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-28T01:00:42.000Z",
+      "summary": "It is unclear if the current sell-off is over, with Bitcoin also at a decision point.",
+      "tags": [
+        "solana",
+        "range",
+        "trap"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c69278ee662c0559231ee7f843d6a3b128386643",
-      "score": 24
+      "dedupeFingerprint": "cefbb501e8767dc54609951a847e9035efcb1a41",
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/395492/ecb-paper-defi-governance-concentrated-results-affect-regulatory-anchor-points",
@@ -66,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "72e7b98d47cc84c3f46d646c543543d97788735b",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/opinion/2026/03/27/why-mastercard-paid-double-for-stablecoin-infrastructure-it-could-have-built",
@@ -99,58 +132,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "ea74f07e97e4c93120929116a64954b1f9d4bcd4",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.theblock.co/post/394892/umbra-opens-privacy-wallet-to-the-public-on-solana-powered-by-arciums-encrypted-execution-engine",
-      "title": "Umbra opens privacy wallet to the public on Solana, powered by Arcium’s encrypted execution engine",
-      "url": "https://www.theblock.co/post/394892/umbra-opens-privacy-wallet-to-the-public-on-solana-powered-by-arciums-encrypted-execution-engine",
-      "source": "The Block",
-      "publishedAt": "2026-03-27T14:05:02.000Z",
-      "summary": "Umbra has opened its private wallet to the public, enabling shielded transfers, encrypted swaps, and compliance tools for Solana users.",
+      "id": "https://cointelegraph.com/news/stablecoins-will-be-cryptos-chatgpt-moment-ripple-garlinghouse",
+      "title": "Stablecoins will be crypto’s ‘ChatGPT moment’ for businesses: Ripple",
+      "url": "https://cointelegraph.com/news/stablecoins-will-be-cryptos-chatgpt-moment-ripple-garlinghouse",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-03-28T03:04:12.000Z",
+      "summary": "Ripple’s Brad Garlinghouse noted that stablecoin trading volume soared to over $33 trillion in 2025, while Bloomberg predicted that stablecoin flows would hit $56.6 trillion by 2030.",
       "tags": [
-        "umbra",
-        "opens",
-        "privacy"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "60e43f8fec269b12b2cf6cdba99e7a46dbd09680",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/ecb-flags-stablecoin-competition-as-digital-euro-push-intensifies",
-      "title": "ECB flags stablecoin competition as digital euro push intensifies",
-      "url": "https://ambcrypto.com/ecb-flags-stablecoin-competition-as-digital-euro-push-intensifies",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-27T16:50:58.000Z",
-      "summary": "The ECB warns banks risk losing ground to stablecoins, positioning the digital euro as a key tool to preserve their role in payments.",
-      "tags": [
-        "flags",
-        "stablecoin",
-        "competition"
+        "stablecoins",
+        "will",
+        "crypto"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -166,12 +166,12 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ce082dcaf3438bdc92b643f7df8781fb2f789a61",
-      "score": 19
+      "dedupeFingerprint": "ba5914ce5b573623f400f4ee864b15f5cb2bbd6f",
+      "score": 18
     }
   ]
 }
