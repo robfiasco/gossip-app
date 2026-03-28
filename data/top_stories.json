@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-03-28T07:43:29.297Z",
-    "totalCandidates": 105,
-    "solanaCandidates": 20,
+    "generatedAt": "2026-03-28T19:28:19.382Z",
+    "totalCandidates": 104,
+    "solanaCandidates": 15,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,45 +33,12 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "4a8943ee3bfbb0964e0792f892bc4a958af63194",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/solanas-mid-range-trap-heres-why-sol-traders-should-stay-cautious",
-      "title": "Solana’s mid-range trap – Here’s why SOL traders should stay cautious!",
-      "url": "https://ambcrypto.com/solanas-mid-range-trap-heres-why-sol-traders-should-stay-cautious",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-28T01:00:42.000Z",
-      "summary": "It is unclear if the current sell-off is over, with Bitcoin also at a decision point.",
-      "tags": [
-        "solana",
-        "range",
-        "trap"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "cefbb501e8767dc54609951a847e9035efcb1a41",
       "score": 21
     },
     {
@@ -99,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "72e7b98d47cc84c3f46d646c543543d97788735b",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://www.coindesk.com/opinion/2026/03/27/why-mastercard-paid-double-for-stablecoin-infrastructure-it-could-have-built",
@@ -132,25 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "ea74f07e97e4c93120929116a64954b1f9d4bcd4",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://cointelegraph.com/news/stablecoins-will-be-cryptos-chatgpt-moment-ripple-garlinghouse",
-      "title": "Stablecoins will be crypto’s ‘ChatGPT moment’ for businesses: Ripple",
-      "url": "https://cointelegraph.com/news/stablecoins-will-be-cryptos-chatgpt-moment-ripple-garlinghouse",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-03-28T03:04:12.000Z",
-      "summary": "Ripple’s Brad Garlinghouse noted that stablecoin trading volume soared to over $33 trillion in 2025, while Bloomberg predicted that stablecoin flows would hit $56.6 trillion by 2030.",
+      "id": "https://cryptoslate.com/crypto-is-winning-the-race-to-own-oil-trading-after-hours-as-wintermute-launches-24-7-trading",
+      "title": "Crypto is winning the race to own oil trading after hours as Wintermute launches 24/7 trading",
+      "url": "https://cryptoslate.com/crypto-is-winning-the-race-to-own-oil-trading-after-hours-as-wintermute-launches-24-7-trading",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-03-28T16:05:42.000Z",
+      "summary": "For decades, the oil market moved on a very familiar and very predictable schedule. The biggest signals came from legacy futures venues; traders knew where the deepest pools of liquidity were and when they'd come alive. But, like almost everything else, oil too hasn't been immune to the modern marke",
       "tags": [
-        "stablecoins",
-        "will",
-        "crypto"
+        "crypto",
+        "winning",
+        "race"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ba5914ce5b573623f400f4ee864b15f5cb2bbd6f",
-      "score": 18
+      "dedupeFingerprint": "d96b0ef717a8dbff748d417aa36ce539c1f6ab2b",
+      "score": 15
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/03/27/anchorage-digital-adds-tron-custody-opens-u-s-institutional-access-to-trx-trading",
+      "title": "Anchorage Digital adds Tron custody, opens U.S. institutional access to TRX trading",
+      "url": "https://www.coindesk.com/business/2026/03/27/anchorage-digital-adds-tron-custody-opens-u-s-institutional-access-to-trx-trading",
+      "source": "CoinDesk",
+      "publishedAt": "2026-03-27T10:07:32.000Z",
+      "summary": "The integration provides institutions with a compliant way to hold TRX and will be expanded to include TRC-20 assets and native TRX staking.",
+      "tags": [
+        "anchorage",
+        "digital",
+        "adds"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2dbf3c6a1ebeb5437f95e83d6a74b0a495b4283d",
+      "score": 15
     }
   ]
 }

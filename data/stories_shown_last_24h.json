@@ -1,25 +1,11 @@
 [
   {
-    "id": "7142876442d3399bb84442d5b3a9892e21bcecda",
-    "title": "Signal Board Summary 2026-03-28",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-03-28T07:43:38.812Z",
-    "lastSeenAt": "2026-03-28T07:43:38.812Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "60e43f8fec269b12b2cf6cdba99e7a46dbd09680",
     "title": "Umbra opens privacy wallet to the public on Solana, powered by Arcium’s encrypted execution engine",
     "url": "https://www.theblock.co/post/394892/umbra-opens-privacy-wallet-to-the-public-on-solana-powered-by-arciums-encrypted-execution-engine",
     "source": "The Block",
     "firstSeenAt": "2026-03-27T19:40:12.524Z",
-    "lastSeenAt": "2026-03-28T07:43:29.463Z",
+    "lastSeenAt": "2026-03-28T19:28:19.542Z",
     "sectionShown": "briefing",
     "topicTags": [
       "umbra",
@@ -30,6 +16,20 @@
       "solana",
       "powered",
       "arcium"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "7142876442d3399bb84442d5b3a9892e21bcecda",
+    "title": "Signal Board Summary 2026-03-28",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-03-28T07:43:38.812Z",
+    "lastSeenAt": "2026-03-28T07:43:38.812Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -72,48 +72,6 @@
       "pressure",
       "rising",
       "sell"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "23a0fa6c4f454dc51ba672b0d597e4773f69acfb",
-    "title": "Hackers sneak crypto wallet-stealing code into a popular AI tool that runs every time",
-    "url": "https://cryptoslate.com/hackers-sneak-crypto-wallet-stealing-code-into-a-popular-ai-tool-that-runs-every-time",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-03-26T19:53:33.158Z",
-    "lastSeenAt": "2026-03-27T07:59:19.198Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "hackers",
-      "sneak",
-      "crypto",
-      "wallet",
-      "stealing",
-      "code",
-      "into",
-      "popular"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "c2aec01fc1ded88ae5ec83790dc0c3d9a2ea5235",
-    "title": "Will Solana fall to $57 next? What SOL’s KEY metrics suggest",
-    "url": "https://ambcrypto.com/will-solana-fall-to-57-next-what-sols-key-metrics-suggest",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-03-27T07:59:19.197Z",
-    "lastSeenAt": "2026-03-27T07:59:19.197Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "will",
-      "solana",
-      "fall",
-      "next",
-      "what",
-      "metrics",
-      "suggest",
-      "breaches"
     ],
     "majorUpdate": false,
     "updateReason": null

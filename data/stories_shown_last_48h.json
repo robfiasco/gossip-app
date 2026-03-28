@@ -1,25 +1,11 @@
 [
   {
-    "id": "7142876442d3399bb84442d5b3a9892e21bcecda",
-    "title": "Signal Board Summary 2026-03-28",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-03-28T07:43:38.812Z",
-    "lastSeenAt": "2026-03-28T07:43:38.812Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "60e43f8fec269b12b2cf6cdba99e7a46dbd09680",
     "title": "Umbra opens privacy wallet to the public on Solana, powered by Arcium’s encrypted execution engine",
     "url": "https://www.theblock.co/post/394892/umbra-opens-privacy-wallet-to-the-public-on-solana-powered-by-arciums-encrypted-execution-engine",
     "source": "The Block",
     "firstSeenAt": "2026-03-27T19:40:12.524Z",
-    "lastSeenAt": "2026-03-28T07:43:29.463Z",
+    "lastSeenAt": "2026-03-28T19:28:19.542Z",
     "sectionShown": "briefing",
     "topicTags": [
       "umbra",
@@ -30,6 +16,20 @@
       "solana",
       "powered",
       "arcium"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "7142876442d3399bb84442d5b3a9892e21bcecda",
+    "title": "Signal Board Summary 2026-03-28",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-03-28T07:43:38.812Z",
+    "lastSeenAt": "2026-03-28T07:43:38.812Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -135,69 +135,6 @@
       "says",
       "offers",
       "affiliates"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "bd672bc4fc1b5f0b0d4a9cc427b41eda021c990e",
-    "title": "Solana bets on AI agents: Foundation says network is becoming core infrastructure for ‘agentic’ internet",
-    "url": "https://www.coindesk.com/business/2026/03/25/solana-bets-on-ai-agents-foundation-says-network-is-becoming-core-infrastructure-for-agentic-internet",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-03-25T19:44:56.269Z",
-    "lastSeenAt": "2026-03-26T08:01:26.306Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "bets",
-      "agents",
-      "foundation",
-      "says",
-      "network",
-      "becoming",
-      "core"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "3e171269f8fef6b6cc73a550999979be747b2431",
-    "title": "Solana proposes ‘Constellation’ upgrade to curb MEV and enforce fair transaction ordering",
-    "url": "https://ambcrypto.com/solana-proposes-constellation-upgrade-to-curb-mev-and-enforce-fair-transaction-ordering",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-03-26T08:01:26.305Z",
-    "lastSeenAt": "2026-03-26T08:01:26.305Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "proposes",
-      "constellation",
-      "upgrade",
-      "curb",
-      "enforce",
-      "fair",
-      "transaction"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "818434bce68abe8840af90728d0347194eeacf7e",
-    "title": "Solana: Can SOL target $110 as KEY metrics signal buying pressure?",
-    "url": "https://ambcrypto.com/solana-can-sol-target-110-as-key-metrics-signal-buying-pressure",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-03-26T08:01:26.305Z",
-    "lastSeenAt": "2026-03-26T08:01:26.305Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "target",
-      "metrics",
-      "signal",
-      "buying",
-      "pressure",
-      "gains",
-      "momentum"
     ],
     "majorUpdate": false,
     "updateReason": null
