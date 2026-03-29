@@ -1,12 +1,17 @@
 {
-  "date": "2026-03-28",
-  "generated_at_utc": "2026-03-28T19:28:27.833Z",
-  "ctxMarket": "Attention is focused on Solana’s evolving developer ecosystem and new privacy solutions, alongside broader industry discussions about preparing for quantum computing risks. No major price or volume shifts are directly attributed in today’s coverage.",
-  "ctxTalking": "• Major blockchains, including Solana, are debating how to address potential quantum computing threats\n• Umbra has launched a privacy wallet on Solana, featuring encrypted transfers and compliance tools\n• The Solana Foundation is highlighting its grant programs and has launched a new unified developer platform",
-  "ctxMatters": "Quantum computing preparations could influence future network security standards and community governance. New privacy tools like Umbra expand Solana’s feature set for users and developers, while the Foundation’s grants and developer platform may attract more institutional and enterprise builders.",
-  "ctxSignal": "Signal: Concrete launches (Umbra wallet, Solana Developer Platform) and ongoing grant distribution show active ecosystem development.\nNoise: Speculation about quantum threats remains high-level, with no immediate technical changes announced.",
-  "ctxGlossary": "Quantum threat — The risk that future quantum computers could break current cryptographic security\nShielded transfers — Transactions that hide sender, receiver, or amount details from public view",
+  "date": "2026-03-29",
+  "generated_at_utc": "2026-03-29T07:52:18.742Z",
+  "ctxMarket": "Attention is focused on Solana’s developer momentum and its positioning relative to Ethereum, with some discussion around potential mispricing between SOL and ETH. The launch of new privacy tools and infrastructure is also drawing interest from both users and builders.",
+  "ctxTalking": "• Solana’s developer activity and its impact on SOL/ETH valuation\n• Ecosystem responses to quantum computing threats, including Solana’s approach\n• The rollout of privacy wallets and new developer platforms on Solana",
+  "ctxMatters": "Increased developer engagement may influence network usage and perceptions of value. Privacy features like Umbra’s wallet expand Solana’s capabilities for users seeking confidentiality and compliance. Ongoing grant distribution and new APIs signal continued institutional and enterprise interest in building on Solana.",
+  "ctxSignal": "Signal: Growth in developer tools and privacy solutions, plus active debate on network security and value.\nNoise: Speculation about SOL/ETH price ratios without clear on-chain or market catalysts.",
+  "ctxGlossary": "Shielded transfers — Transactions where sender, receiver, and amount are hidden from public view.\nUnified API platform — A single interface for developers to access multiple Solana services and tools.",
   "readMore": [
+    {
+      "title": "Solana vs. Ethereum",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-vs-ethereum-assessing-if-sol-eth-could-reclaim-0-50-in-q2"
+    },
     {
       "title": "Here's how bitcoin, Ethereum and other networks are preparing for the looming quantum threat",
       "source": "CoinDesk",
@@ -16,11 +21,6 @@
       "title": "Umbra opens privacy wallet to the public on Solana, powered by Arcium’s encrypted execution engine",
       "source": "The Block",
       "url": "https://www.theblock.co/post/394892/umbra-opens-privacy-wallet-to-the-public-on-solana-powered-by-arciums-encrypted-execution-engine"
-    },
-    {
-      "title": "Solana’s Builder Debate",
-      "source": "CryptoPotato",
-      "url": "https://cryptopotato.com/solanas-builder-debate-what-the-foundation-says-it-offers"
     }
   ]
 }

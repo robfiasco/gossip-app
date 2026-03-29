@@ -1,8 +1,17 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Solana vs. Ethereum: Assessing if SOL/ETH could reclaim 0.05 in Q2",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-03-28",
+      "url": "https://ambcrypto.com/solana-vs-ethereum-assessing-if-sol-eth-could-reclaim-0-50-in-q2",
+      "whyYouShouldCare": "A potential SOL/ETH recovery to 0.05 could enhance Solana's market perception and liquidity, impacting its competitive stance against Ethereum."
+    },
     {
       "type": "APPS",
       "title": "Umbra opens privacy wallet to the public on Solana, powered by Arcium’s encrypted execution engine",
@@ -10,25 +19,16 @@
       "source": "The Block",
       "date": "2026-03-27",
       "url": "https://www.theblock.co/post/394892/umbra-opens-privacy-wallet-to-the-public-on-solana-powered-by-arciums-encrypted-execution-engine",
-      "whyYouShouldCare": "Umbra's privacy wallet enhances user security on Solana, potentially attracting more developers and users to the ecosystem."
+      "whyYouShouldCare": "The launch of Umbra's privacy wallet on Solana could attract users seeking enhanced privacy features, potentially increasing ecosystem engagement and transaction volume."
     },
     {
-      "type": "APPS",
-      "title": "Crypto needs a reset before the next bull run",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-03-28",
-      "url": "https://www.coindesk.com/opinion/2026/03/28/crypto-needs-a-reset-before-the-next-bull-run",
-      "whyYouShouldCare": "A reset in the crypto market could lead to improved conditions for Solana's growth and adoption in the upcoming bull cycle."
-    },
-    {
-      "type": "APPS",
-      "title": "Canada moves to ban crypto donations for election campaigns following UK",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-03-28",
-      "url": "https://www.coindesk.com/policy/2026/03/28/canada-moves-to-ban-crypto-donations-for-election-campaigns-following-uk",
-      "whyYouShouldCare": "Canada's move to ban crypto donations may impact the perception of crypto's legitimacy, influencing Solana's regulatory landscape and user engagement."
+      "type": "MARKET",
+      "title": "Stablecoin market expands, but USDT’s weakness reflects cautious positioning",
+      "category": "MARKET",
+      "source": "AMB Crypto",
+      "date": "2026-03-29",
+      "url": "https://ambcrypto.com/stablecoin-market-expands-but-usdts-weakness-reflects-cautious-positioning",
+      "whyYouShouldCare": "USDT's declining strength amidst stablecoin market growth suggests a cautious sentiment, which could influence liquidity dynamics and trading strategies within the Solana ecosystem."
     }
   ]
 }
