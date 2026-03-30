@@ -1,26 +1,21 @@
 {
   "date": "2026-03-30",
-  "generated_at_utc": "2026-03-30T08:21:21.637Z",
-  "ctxMarket": "Attention is focused on Solana’s expanding ecosystem, with new wallet features, developer tools, and integrations targeting both newcomers and enterprises. Broader crypto discussions also highlight preparations for quantum computing risks across major networks, including Solana.",
-  "ctxTalking": "• OnePay, backed by Walmart, now supports Solana to attract users new to crypto.\n• Umbra’s privacy wallet launches on Solana, offering encrypted transactions and compliance tools.\n• The Solana Foundation is spotlighting its grant programs and new developer platform for institutional builders.",
-  "ctxMatters": "Solana’s inclusion in mainstream apps like OnePay may increase exposure to new user segments. Privacy and compliance features from projects like Umbra could appeal to users and partners with regulatory concerns. The Foundation’s focus on grants and developer tools signals ongoing support for ecosystem growth and institutional adoption.",
-  "ctxSignal": "Signal: Major platforms and wallets are integrating Solana, and new privacy tools are now live for users.\nNoise: Speculation around quantum threats remains broad and not tied to immediate Solana-specific changes.",
-  "ctxGlossary": "Shielded transfers — Private crypto transactions that hide sender, receiver, or amount details.\nUnified API platform — A single interface for developers to access multiple blockchain services.",
+  "generated_at_utc": "2026-03-30T19:54:51.914Z",
+  "ctxMarket": "Attention is focused on Solana’s developer ecosystem, with recent announcements highlighting new resources and ongoing debates about the Foundation’s support for builders. Institutional interest is also in the spotlight due to new infrastructure releases.",
+  "ctxTalking": "• The Solana Foundation’s approach to supporting builders and distributing grants\n• The launch of the Solana Developer Platform aimed at institutions and enterprises",
+  "ctxMatters": "Expanded grant programs and new developer tools may influence where projects choose to build within the Solana ecosystem. Institutional-grade APIs could attract larger players and potentially increase network activity. The Foundation’s strategy is under scrutiny, shaping perceptions among both independent developers and enterprise teams.",
+  "ctxSignal": "Signal: Concrete moves like grant distributions and new platform launches directly impact developer engagement.\nNoise: Speculation about the Foundation’s motives without clear evidence.",
+  "ctxGlossary": "Grant — Funding provided to support development or projects within an ecosystem\nAPI — A set of tools allowing different software systems to communicate and interact",
   "readMore": [
     {
-      "title": "Walmart-backed OnePay adds tokens in push to serve ‘new to crypto’ customers",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/walmart-backed-onepay-adds-a-dozen-new-tokens-in-push-to-serve-new-to-crypto-customers"
+      "title": "Solana’s Builder Debate",
+      "source": "CryptoPotato",
+      "url": "https://cryptopotato.com/solanas-builder-debate-what-the-foundation-says-it-offers"
     },
     {
-      "title": "Here's how bitcoin, Ethereum and other networks are preparing for the looming quantum threat",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/03/28/here-s-how-bitcoin-ethereum-and-other-networks-are-preparing-for-the-looming-quantum-threat"
-    },
-    {
-      "title": "Umbra opens privacy wallet to the public on Solana, powered by Arcium’s encrypted execution engine",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/394892/umbra-opens-privacy-wallet-to-the-public-on-solana-powered-by-arciums-encrypted-execution-engine"
+      "title": "Solana Foundation Launches Solana Developer Platform",
+      "source": "Solana News",
+      "url": "https://solana.com/news/solana-developer-platform"
     }
   ]
 }
