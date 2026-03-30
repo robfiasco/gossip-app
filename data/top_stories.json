@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-03-29T19:30:36.762Z",
-    "totalCandidates": 96,
-    "solanaCandidates": 18,
+    "generatedAt": "2026-03-30T08:21:11.882Z",
+    "totalCandidates": 88,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "cba314e0f21c720d26f3fd45bb3fdb134977d0ce",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/policy/2026/03/29/no-one-is-100-happy-with-the-stablecoin-yield-agreement-state-of-crypto",
@@ -66,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "4d2cb2bfbf66bbb75af608bb29019c4c46c82077",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/tech/2026/03/29/inside-aave-s-governance-battle-as-defi-giant-prepares-for-upgrade",
@@ -99,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "afb83ce9803602fb7c3baa8f3d565c7692f548d3",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/395492/ecb-paper-defi-governance-concentrated-results-affect-regulatory-anchor-points",
@@ -132,28 +132,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 5,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "72e7b98d47cc84c3f46d646c543543d97788735b",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "https://www.coindesk.com/opinion/2026/03/27/why-mastercard-paid-double-for-stablecoin-infrastructure-it-could-have-built",
-      "title": "Why Mastercard paid double for stablecoin infrastructure it could have built",
-      "url": "https://www.coindesk.com/opinion/2026/03/27/why-mastercard-paid-double-for-stablecoin-infrastructure-it-could-have-built",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-27T16:30:00.000Z",
-      "summary": "The credit card giant’s pricey payment to buy stablecoin platform, BVNK, says more than any strategy deck or earnings call ever could.",
+      "id": "https://ambcrypto.com/celestia-breaks-down-sell-pressure-builds-ahead-of-tias-85k-token-unlock",
+      "title": "Celestia breaks down: Sell pressure builds ahead of TIA’s $85K token unlock",
+      "url": "https://ambcrypto.com/celestia-breaks-down-sell-pressure-builds-ahead-of-tias-85k-token-unlock",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-29T21:00:45.000Z",
+      "summary": "TIA is approaching a critical inflection point, with price action suggesting the potential formation of a major low.",
       "tags": [
-        "mastercard",
-        "paid",
-        "double"
+        "celestia",
+        "breaks",
+        "down"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 6,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ea74f07e97e4c93120929116a64954b1f9d4bcd4",
-      "score": 18
+      "dedupeFingerprint": "25f6b115888faa36a515349fe9a3d3bdd075b2e3",
+      "score": 16
     }
   ]
 }
