@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-03-30T19:54:41.963Z",
-    "totalCandidates": 97,
-    "solanaCandidates": 13,
+    "generatedAt": "2026-03-31T08:07:33.222Z",
+    "totalCandidates": 106,
+    "solanaCandidates": 7,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 15,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e7bc9bc737d4849d7b663b170e897ec026da9c42",
-      "score": 29
+      "score": 28
     },
     {
       "id": "https://www.theblock.co/post/395666/midas-raises-50-million-series-a-launches-liquidity-layer-for-tokenized-assets",
@@ -66,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "3a4c2010dd9cd2a604b8f8b610d996155f27c619",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/markets/2026/03/30/lido-dao-proposes-usd20-million-ldo-buyback-to-boost-price-after-95-slide",
@@ -99,25 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 6,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9960ad1b49e5337682b3423c8b090fd5ae6019af",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "https://cointelegraph.com/news/aave-launches-v4-ethereum-after-onchain-vote-split-support",
-      "title": "Aave V4 goes live on Ethereum after governance vote clears rollout",
-      "url": "https://cointelegraph.com/news/aave-launches-v4-ethereum-after-onchain-vote-split-support",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-03-30T13:00:00.000Z",
-      "summary": "The rollout includes Aave Pro for advanced users and integrates Chainlink to provide oracle data for V4 markets.",
+      "id": "https://decrypt.co/362838/new-us-rule-open-8t-retirement-market-crypto",
+      "title": "New US Rule Seeks to Open $8T Retirement Market to Crypto",
+      "url": "https://decrypt.co/362838/new-us-rule-open-8t-retirement-market-crypto",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-31T05:46:15.000Z",
+      "summary": "The safe harbor proposal would allow 401(k) managers to offer crypto-linked funds with stronger legal protections.",
       "tags": [
-        "aave",
-        "goes",
-        "live"
+        "rule",
+        "seeks",
+        "open"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,15 +130,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 4,
+        "relevanceScore": 3,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "64aef07e7c05ad27a2ca22daf9a1c9dc15c9ef50",
-      "score": 14
+      "dedupeFingerprint": "5c06e067a417c7cd29f5ed1fc7a04fb95de3fbab",
+      "score": 16
     },
     {
       "id": "https://www.theblock.co/post/395617/aave-v4-launches-ethereum-mainnet",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": -3,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "674d8fef5f28448324eb8af60d56e1eeb5c70a5a",
-      "score": 1
+      "score": 0
     }
   ]
 }
