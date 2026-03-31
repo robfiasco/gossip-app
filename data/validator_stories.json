@@ -1,115 +1,115 @@
 {
-  "generated_at": "2026-03-30T14:12:26.421Z",
+  "generated_at": "2026-03-31T13:45:10.328Z",
   "global_metrics": {
-    "total_tweets": 49,
-    "total_engagement": 12033,
-    "unique_voices": 21,
-    "top_tweet": 918
+    "total_tweets": 45,
+    "total_engagement": 12638,
+    "unique_voices": 18,
+    "top_tweet": 1348
   },
   "items": [
     {
-      "id": "story_1774879912262_0",
-      "title": "Solana Expands Real-World Asset Access, Raises Security Questions",
+      "id": "story_1774964677128_0",
+      "title": "Solana Enables Instant Global Capital Mobility",
       "type": "critical",
       "category": "Security / Risk Alert",
-      "author": "@vibhu",
-      "timestamp": "2026-03-30T14:11:52.262Z",
+      "author": "@solana",
+      "timestamp": "2026-03-31T13:44:37.128Z",
       "metrics": {
-        "tweets": 32,
-        "engagement": 7656,
-        "topTweet": 645,
-        "voices": 13,
+        "tweets": 38,
+        "engagement": 10168,
+        "topTweet": 1348,
+        "voices": 12,
         "engagementTrend": [
-          3062,
-          4211,
-          5206,
-          6278,
-          7656
+          4067,
+          5592,
+          6914,
+          8338,
+          10168
         ]
       },
       "ctPulse": [
         {
-          "handle": "@vibhu",
-          "thought": "You can buy Tesla on Solana now with @xStocksFi or @OndoFinance, transfer it to a friend, lend it on @kamino, and swap it for Microsoft without ever touching USD or a bank account\n\nNone of these were ",
-          "url": "https://twitter.com/vibhu/status/2037979457084928319"
-        },
-        {
-          "handle": "@solana_daily",
-          "thought": "🚨 Solana Foundation is building Percolator to take on Hyperliquid.\n\nA new perp DEX with a scalable on-chain orderbook, aiming to capture liquidity as competition in derivatives heats up.",
-          "url": "https://twitter.com/solana_daily/status/2037932729736606112"
+          "handle": "@solana",
+          "thought": "No more capital locked across countries. No more waiting days to move funds.\n\n@reapglobal uses stablecoins on Solana to give businesses full control over global treasury, at instant speed. https://t.c",
+          "url": "https://twitter.com/solana/status/2038571261496897577"
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "98% of tokenized equities spot trading volume is generated on Solana!\n\nTotaling almost $1.5B since June 2025, while other chains (Ethereum, BNB, Avalanche...) have done only ~$100M combined.\n\nThe futu",
-          "url": "https://twitter.com/SolanaSensei/status/2037862542270415121"
+          "thought": "Another big week on Solana\n\n&gt; Solana reached 176K RWA holders\n\n&gt; Backpack's token $BP went live\n\n&gt; USD1 supply 5x’ed over 2 months, to $855M\n\n&gt; ONyc’s market size on Kamino surpassed $100M",
+          "url": "https://twitter.com/SolanaSensei/status/2038541800210899381"
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "🚨 BREAKING: The private wallet for transfers, swaps and yield on Solana has ended it's private beta and is now LIVE for everyone.\n\n@UmbraPrivacy app is only available via Apple TestFlight while it aw",
-          "url": "https://twitter.com/SolanaSensei/status/2037847430537097247"
+          "thought": "Anza dropped constellations, a multi-proposer protocol for Solana with 50ms cycles.\n\nMultiple validators compete to include your transaction every 50 milliseconds, so no single one can block or reorde",
+          "url": "https://twitter.com/SolanaSensei/status/2038631854430163109"
         },
         {
           "handle": "@SolanaSensei",
           "thought": "This is crazyyy.\n\nBhutan allows you to get the world’s first token-backed visas on Solana.\n\nJust hold $10K worth of TER (tokenized gold) and get up to 24 months of residency. https://t.co/wV1FmkMw2M",
           "url": "https://twitter.com/SolanaSensei/status/2038217125278703965"
+        },
+        {
+          "handle": "@SolanaSensei",
+          "thought": "Superteam Talent is going on a tour scouting the next generation of Solana builders and their first stop is Zurich, Switzerland.\n\nThis April, 9th will be your chance to explore career paths and connec",
+          "url": "https://twitter.com/SolanaSensei/status/2038512310378246298"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@SolanaSensei",
-          "reason": "Consistent updates on Solana ecosystem developments and trends.",
-          "role": "Analyst",
-          "engagement": 3058
+          "handle": "@solana",
+          "reason": "Official updates and ecosystem developments",
+          "role": "Builder",
+          "engagement": 3939
         },
         {
-          "handle": "@kamino",
-          "reason": "Key platform for lending and yield strategies on tokenized assets.",
-          "role": "Builder",
-          "engagement": 1123
+          "handle": "@SolanaSensei",
+          "reason": "Consistent analysis and key metrics on Solana’s growth",
+          "role": "Analyst",
+          "engagement": 1835
         }
       ],
       "content": {
-        "signal": "Solana now enables direct trading, lending, and transferring of tokenized real-world assets like equities and gold, pushing the boundaries of on-chain finance and introducing new security and regulatory risks.",
-        "story": "Solana’s ecosystem is rapidly evolving, now letting users access tokenized versions of assets like Tesla and Microsoft stock, gold, and even residency visas—all without touching traditional banks. Platforms such as xStocksFi and OndoFinance facilitate these trades, while Kamino enables lending against these assets. The network’s infrastructure is also expanding, with the Solana Foundation building Percolator, a new perpetual DEX aiming to rival Hyperliquid, and privacy tools like UmbraPrivacy moving out of private beta.\n\n### What's Happening\n\nTokenized equities and foreign assets are seeing unprecedented activity on Solana, with almost $1.5B in spot trading volume since June 2025—far outpacing other chains. The ability to transfer, lend, and swap these assets entirely on-chain is a first in financial history. Bhutan’s token-backed visa program, which grants residency for holding $10K in tokenized gold, highlights how real-world utility is being built directly on Solana. Meanwhile, the number of SPL tokens minted remains high, even after a cooldown from the meme coin peak.\n\nThe developer ecosystem is also surging. Solana has overtaken Ethereum in all-time unique developers, and new projects are launching at a rapid pace. Yield strategies are becoming more sophisticated, as seen with large DeFi users leveraging millions in assets through platforms like Kamino. The network is handling significant transaction volume, with stablecoins like USD1 growing fivefold in supply over two months.\n\n### Why It Matters\n\nSolana’s dominance in tokenized equities and RWAs signals a shift in how global finance could operate. The ability to access, transfer, and earn yield on real-world assets without traditional intermediaries opens new possibilities for both users and builders. Lower fees and faster settlement times make Solana an attractive venue for these activities, and the ecosystem’s innovation pace is drawing both talent and liquidity.\n\nThe launch of privacy tools and scalable DEXs points to a maturing infrastructure. As more assets and users move on-chain, the network’s capacity to support complex financial activity is being tested and expanded. The surge in unique developers and new protocols suggests that Solana is becoming a primary hub for next-generation financial products.\n\n### The Risk or Debate\n\nThe rapid growth in tokenized assets and DeFi strategies introduces new risks. Security remains a concern, especially as high-value assets move on-chain and new protocols launch quickly. Regulatory uncertainty around tokenized equities, gold, and residency programs could impact user access or project viability. The use of privacy wallets may also attract scrutiny from regulators and raise compliance questions.\n\nYield strategies involving leveraged positions, as seen with large DeFi users, can amplify losses in volatile markets. The ecosystem’s reliance on new protocols and rapid innovation may expose users to smart contract vulnerabilities or liquidity shocks. The sustainability of meme coins and speculative assets is also in question after the recent cooldown.\n\n### What To Watch\n\nUpcoming developments include the rollout of Percolator and the broader adoption of privacy wallets like UmbraPrivacy. Regulatory responses to tokenized equities and residency programs will be critical. Monitoring the growth of stablecoins and the resilience of DeFi protocols under stress will provide insight into the ecosystem’s maturity. The pace of developer activity and new project launches will signal whether Solana can maintain its lead in on-chain finance.",
+        "signal": "Solana is driving a shift toward instant, borderless capital flows for businesses and users, reducing friction and unlocking new financial use cases.",
+        "story": "Solana is rapidly positioning itself as the go-to blockchain for seamless, cross-border capital movement. Recent developments highlight how stablecoins and tokenized assets on Solana are giving businesses and individuals unprecedented control over their global treasury, eliminating the days-long waits and capital lockups that have defined traditional finance.\n\n### What's Happening\n\nProjects like Reap Global are leveraging Solana’s stablecoin infrastructure to let businesses move funds instantly across countries, bypassing legacy banking delays. The network’s high throughput and low fees have attracted a surge of real-world asset (RWA) activity, with over 176,000 RWA holders and a fivefold increase in USD1 stablecoin supply to $855 million in just two months. Meanwhile, Solana’s decentralized exchanges and tokenized equity platforms are processing record volumes, and new use cases—like token-backed visas in Bhutan—are emerging.\n\nSolana’s technical upgrades are also notable. The introduction of multi-proposer protocols like Anza’s Constellations aims to further decentralize transaction ordering, reducing the risk of censorship and MEV (miner extractable value) exploitation. Network reliability remains strong, with over 650 days of uninterrupted uptime, supporting the ecosystem’s growth and user confidence.\n\n### Why It Matters\n\nThese advances are not just technical milestones—they’re changing how capital moves globally. For businesses, instant stablecoin transfers on Solana mean treasury operations can be managed in real time, without being tied up by cross-border banking friction. For users, the ability to access tokenized stocks, gold, and even residency programs through blockchain-native assets signals a maturing, interconnected financial ecosystem.\n\nSolana’s dominance in key metrics—like unique wallets, transaction throughput, and dApp revenue—shows that its infrastructure is scaling to meet demand. The network is settling the majority of tokenized equity spot volume and capturing a large share of wrapped Bitcoin trading, reinforcing its position as a hub for internet-native capital markets.\n\n### The Risk or Debate\n\nDespite these strengths, risks remain. The rapid growth in token issuance and trading—especially around memecoins—raises questions about sustainability and market maturity. The average holding time for memecoins has dropped sharply, suggesting speculative churn and potential for user losses. While technical upgrades like multi-proposer protocols aim to reduce censorship and MEV, their effectiveness at scale is still being tested.\n\nThere’s also the broader question of regulatory clarity for stablecoins and tokenized assets. As more real-world value flows through Solana, scrutiny from regulators could increase, potentially impacting some use cases or service providers.\n\n### What To Watch\n\nKeep an eye on how businesses adopt stablecoin-based treasury management and whether this translates into sustained onchain volume. Watch for further technical upgrades that could improve censorship resistance and network performance. The evolution of tokenized asset offerings—especially RWAs and token-backed programs like Bhutan’s visa—will be a key signal of mainstream adoption.\n\nFinally, monitor the pace and nature of new token launches. A cooldown in speculative activity could signal a shift toward more sustainable, utility-driven growth in the Solana ecosystem.",
         "takeaways": [
-          "Solana leads in tokenized equity trading volume, surpassing $1.5B since June 2025.",
-          "New protocols enable on-chain access to real-world assets and yield strategies.",
-          "Security, regulatory, and smart contract risks are rising alongside rapid innovation."
+          "Solana is enabling instant, cross-border capital movement for businesses using stablecoins.",
+          "Network reliability and technical upgrades are supporting rapid growth in tokenized assets and RWAs.",
+          "Speculative activity remains high, but regulatory and sustainability risks persist as the ecosystem matures."
         ]
       },
-      "riskLevel": "high",
+      "riskLevel": "medium",
       "narrativeStrength": 8.8
     },
     {
-      "id": "story_1774879927988_1",
-      "title": "Jupiter Turns Spending and Lending Into Real USDC Rewards",
-      "type": "alpha",
-      "category": "Airdrop Strategy",
-      "author": "@JupiterExchange",
-      "timestamp": "2026-03-30T14:12:07.988Z",
+      "id": "story_1774964692282_1",
+      "title": "RainFi Airdrop Signals Jupiter’s Expanding Influence",
+      "type": "live",
+      "category": "Alpha / Early Access",
+      "author": "@FabianoSolana",
+      "timestamp": "2026-03-31T13:44:52.282Z",
       "metrics": {
-        "tweets": 12,
-        "engagement": 3292,
-        "topTweet": 918,
+        "tweets": 5,
+        "engagement": 1983,
+        "topTweet": 599,
         "voices": 4,
         "engagementTrend": [
-          1317,
-          1810,
-          2238,
-          2699,
-          3292
+          793,
+          1091,
+          1348,
+          1626,
+          1983
         ]
       },
       "ctPulse": [
         {
-          "handle": "@JupiterExchange",
-          "thought": "Every coffee. Every grocery run. Every night out. Your everyday spending is now working FOR you.\n\nJupiter Global turns every purchase into real USDC cashback, automatically, every single day.\n\nNo poin",
-          "url": "https://twitter.com/JupiterExchange/status/2037550117020958816"
-        },
-        {
           "handle": "@FabianoSolana",
           "thought": "Airdrop checker for Rainfi went live\n\nI made some good money through lending and was only ranked 300 something\n\nSo $500 is a very nice stimmy\n\nInstead of launching their own token, they just distribut",
           "url": "https://twitter.com/FabianoSolana/status/2038165616297693204"
+        },
+        {
+          "handle": "@SolanaSensei",
+          "thought": "RainFi airdrop just went live!\n\n- Go to their website, check your allocation\n- It will be paid out in JUICED\n\nRainFi was acquired by @JupiterExchange and is now building on Jup Offerbook as part of th",
+          "url": "https://twitter.com/SolanaSensei/status/2038602239305191535"
         },
         {
           "handle": "@jussy_world",
@@ -118,113 +118,98 @@
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "Jupiter Lend reached $1.7B in total supply!\n\nTheir two biggest Vaults:\n\n- USDC = $515M TVL (3.29% APY)\n- JupUSD = $104M TVL (4.5% APY)\n\nWhat’s your favorite way to lend? https://t.co/48Kb13X9bM",
-          "url": "https://twitter.com/SolanaSensei/status/2037908581115384087"
+          "thought": "🚨 REMINDER: @JupiterExchange x @paradex ended and there's only 3 days left to claim your JUPUSD\n\nCheck the rewards section on the @jup_mobile app or visit the official jup website for claims https://",
+          "url": "https://twitter.com/SolanaSensei/status/2038526405068427276"
         },
         {
-          "handle": "@SolanaSensei",
-          "thought": "If you have the Jupiter extension installed, you can now click on tickers that redirect you to swap or send the tokens. https://t.co/NVpqubrhWL",
-          "url": "https://twitter.com/SolanaSensei/status/2037817002652492035"
+          "handle": "@marinonchain",
+          "thought": "Wow, just discovered this myself 🤯\n\nAny ticker - anywhere - like $SKR in this X post is instantly detected by Jupiter Wallet.\n\nTap → chart → done.\n\nGreat Tek. https://t.co/c6YinKddSH",
+          "url": "https://twitter.com/marinonchain/status/2038372886927364314"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@JupiterExchange",
-          "reason": "Core builder driving these product launches and integrations.",
-          "role": "Builder",
-          "engagement": 1270
+          "handle": "@FabianoSolana",
+          "reason": "Shares firsthand insights on RainFi and Solana airdrops.",
+          "role": "Community",
+          "engagement": 871
         },
         {
-          "handle": "@SolanaSensei",
-          "reason": "Active analyst tracking Jupiter's growth and ecosystem developments.",
-          "role": "Analyst",
-          "engagement": 1028
+          "handle": "@JupiterExchange",
+          "reason": "Core builder behind Jupiter and the Offerbook ecosystem.",
+          "role": "Builder",
+          "engagement": 599
         }
       ],
       "content": {
-        "signal": "Jupiter is transforming everyday spending and lending into direct USDC cashback and yield, bypassing traditional points systems and token launches.",
-        "story": "Jupiter is rolling out a new approach to rewards in the Solana ecosystem, letting users earn real USDC cashback on daily purchases and yield on lending—no points, no gimmicks. With the launch of Jupiter Global, every transaction, from coffee to groceries, now contributes to a growing USDC balance. This marks a shift from the usual points-based systems, offering users tangible, liquid rewards instead of locked or speculative incentives.\n\nWhat's Happening\nJupiter Global is now live, automatically rewarding users with USDC cashback for everyday spending. This is paired with Jupiter Lend, which has crossed $1.7 billion in total supply, including over $500 million in USDC and $100 million in JupUSD deposits. Lenders receive JUICED, a token representing their JupUSD deposits, which accrues yield from multiple sources. RainFi, recently acquired by Jupiter, has launched an airdrop distributing JUICED instead of launching a new token, rewarding users who participated in lending activities.\n\nThe platform is also integrating deeper into user workflows, with features like a browser extension that lets users swap or send tokens directly from tickers. Meanwhile, time-limited reward claims—such as the JUPUSD rewards from the Jupiter x Paradex campaign—are driving engagement and urgency.\n\nWhy It Matters\nThis approach challenges the status quo of crypto rewards, where points or native tokens often lose value quickly or fail to deliver meaningful benefits. By offering USDC directly, Jupiter is making rewards more transparent and immediately useful. The rapid growth in lending volume and the adoption of JUICED as a yield-bearing asset highlight increasing user trust and appetite for stable, on-chain returns.\n\nJupiter's decision to acquire and integrate RainFi, and to distribute rewards in JUICED rather than launching another token, signals a more sustainable approach to ecosystem incentives. It also sidesteps the volatility and underperformance seen in many Solana project tokens, as highlighted by recent price declines across several high-revenue protocols.\n\nThe Risk or Debate\nThe main risk is whether this model can sustain long-term user engagement and yield without relying on speculative tokenomics. While USDC rewards are more stable, the underlying yield mechanisms—lending interest, incentives, and protocol fees—must remain robust. There’s also debate over whether projects should launch tokens at all, given the poor performance of many recent launches. Some users may still expect speculative upside that direct USDC rewards do not provide.\n\nThere’s also operational risk: as more users onboard and more capital flows into Jupiter’s products, maintaining security, transparency, and reliable yield sources becomes more challenging. The ecosystem will be watching how Jupiter manages these pressures as it scales.\n\nWhat To Watch\nKeep an eye on user adoption of Jupiter Global’s cashback model and whether it drives sustained transaction volume. Watch for further integrations—such as new browser extension features or additional partnerships—that could deepen user engagement. The performance and stability of JUICED as a yield-bearing asset will be a key indicator of the model’s viability. Finally, monitor whether other Solana projects follow Jupiter’s lead in prioritizing real, liquid rewards over speculative tokens.",
+        "signal": "RainFi’s airdrop is live, distributing JUICED (lended JupUSD) instead of launching a new token, as the project integrates into Jupiter’s Offerbook ecosystem.",
+        "story": "RainFi, a lending protocol recently acquired by Jupiter, has launched its airdrop—delivering rewards in JUICED (lended JupUSD) rather than debuting a new token. Eligible users can now check their allocation directly on RainFi’s website. This move comes as RainFi transitions to building on Jupiter’s Offerbook, signaling tighter integration with Jupiter’s growing suite of DeFi products.\n\n### What's Happening\nRainFi’s airdrop marks a shift in how value is distributed to users. Instead of introducing a standalone token, RainFi is rewarding participants with JUICED, a yield-bearing version of JupUSD, Jupiter’s stablecoin. This approach leverages Jupiter’s existing liquidity and infrastructure, while giving RainFi users immediate, liquid rewards. The airdrop is now live, and users are encouraged to check their allocations and claim through official channels.\n\nThis development follows Jupiter’s acquisition of RainFi, folding the lending protocol into its broader ecosystem. RainFi’s team is now focused on building within Jupiter’s Offerbook, a move that aligns with Jupiter’s strategy of consolidating DeFi primitives under one roof. The integration is already visible, with RainFi’s rewards system now directly tied to Jupiter’s core products.\n\n### Why It Matters\nThe decision to distribute JUICED instead of launching a new token is notable. Many Solana projects have issued tokens that quickly lost value, as highlighted by recent price declines across several high-profile launches. By using JUICED, RainFi sidesteps the risks of launching a new, potentially volatile asset, while still rewarding early users with something liquid and yield-generating.\n\nThis approach also strengthens Jupiter’s position as a central hub in the Solana DeFi landscape. By absorbing RainFi and tying its incentives to JupUSD, Jupiter is deepening network effects and user stickiness. The move could set a precedent for other projects considering how to reward users without diluting value or fragmenting liquidity.\n\n### The Risk or Debate\nWhile distributing JUICED avoids the pitfalls of launching a new token, it also raises questions about long-term incentive alignment. Users may prefer direct exposure to protocol upside, which is typically associated with native tokens. There’s also the risk that rewards in JUICED may not satisfy all segments of the community, especially those seeking speculative gains.\n\nAdditionally, the broader debate around token launches on Solana remains unresolved. Many recent tokens have seen steep price declines post-launch, fueling skepticism about the value of new emissions. RainFi’s approach is a response to this environment, but it’s unclear if it will fully address user expectations or set a new standard for the ecosystem.\n\n### What To Watch\nWatch for how RainFi’s user base responds to JUICED rewards over the coming weeks. Adoption and engagement metrics will signal whether this model resonates. Also, keep an eye on Jupiter’s continued integrations—success with RainFi could encourage more projects to join the Offerbook ecosystem or adopt similar reward structures.\n\nFinally, monitor the performance and utility of JUICED itself. If it proves to be a compelling reward, it could influence how future airdrops and incentive programs are structured across Solana DeFi.",
         "takeaways": [
-          "Jupiter is offering direct USDC cashback for everyday spending and lending, moving away from points and speculative tokens.",
-          "JUICED, earned from lending JupUSD, provides yield from multiple sources and is now being used for airdrop rewards.",
-          "The approach addresses token underperformance but faces questions about long-term sustainability and user expectations."
+          "RainFi’s airdrop is distributing JUICED (lended JupUSD) instead of launching a new token.",
+          "RainFi has been acquired by Jupiter and is now building on the Jupiter Offerbook.",
+          "This model addresses token dilution concerns but may not fully satisfy users seeking direct protocol upside."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 5.9
+      "narrativeStrength": 5.2
     },
     {
-      "id": "story_1774879946421_2",
-      "title": "Solana Ecosystem Sees Surge in DePIN and USDC Activity",
+      "id": "story_1774964710328_2",
+      "title": "Solana Airdrop Season: Q1 Highlights and Next Moves",
       "type": "alpha",
-      "category": "Mobile / Seeker",
-      "author": "@vibhu",
-      "timestamp": "2026-03-30T14:12:26.421Z",
+      "category": "Airdrop Strategy",
+      "author": "@SolanaSensei",
+      "timestamp": "2026-03-31T13:45:10.328Z",
       "metrics": {
-        "tweets": 5,
-        "engagement": 1085,
-        "topTweet": 664,
-        "voices": 4,
+        "tweets": 2,
+        "engagement": 487,
+        "topTweet": 413,
+        "voices": 2,
         "engagementTrend": [
-          434,
-          596,
-          737,
-          889,
-          1085
+          195,
+          268,
+          331,
+          399,
+          487
         ]
       },
       "ctPulse": [
         {
-          "handle": "@vibhu",
-          "thought": "RT @solana: Big week.\n\nLet's get into it: enterprise-grade developer tooling with global payment giants already building, a protocol upgrad…",
-          "url": "https://twitter.com/vibhu/status/2038278198350291045"
+          "handle": "@SolanaSensei",
+          "thought": "First Quarter is rounding up, which of these airdrops cooked for you?\n\n- Seeker\n- Backpack\n- Moonbirds https://t.co/Ecs0aL0dvF",
+          "url": "https://twitter.com/SolanaSensei/status/2038165274046910719"
         },
         {
-          "handle": "@SolanaFloor",
-          "thought": "📽️ Is @solana DePIN having a revival?\n\n📊 $2.4M February revenue\n📱 @helium_mobile $2.2M monthly revenue\n⚡ @XNET_Mobile crossed 100 TB for first time\n🌐 WEF: $3.5T DePIN market cap prediction by 2028",
-          "url": "https://twitter.com/SolanaFloor/status/2037646704351002868"
-        },
-        {
-          "handle": "@SebMontgomery",
-          "thought": "GMET.\n\n@MeteoraAG's @met_lparmy is forming up in a \"Curve\" on our great masterpiece for the @solana ecosystem.\n\n@0xSoju, @realdezen, @0xmiir, @Heavymetalcook6 are already in the pool. Are you?\n\nDrop y",
-          "url": "https://twitter.com/SebMontgomery/status/2037587496754983349"
-        },
-        {
-          "handle": "@therealchaseeb",
-          "thought": "RT @ramzyyalii: @solana founders are incredibly resilient and beyond capable of achieving pmf. I have received countless dms and will try a…",
-          "url": "https://twitter.com/therealchaseeb/status/2038256179286089874"
-        },
-        {
-          "handle": "@SolanaFloor",
-          "thought": "UPDATE: @circle minted another ~250M $USDC on @solana in the last 10 minutes, bringing total mints to ~500M over the past 24 hours. https://t.co/b6zeB4W7Ho",
-          "url": "https://twitter.com/SolanaFloor/status/2037543826693455923"
+          "handle": "@0x_diablo",
+          "thought": "RT @sanctumso: Seeker Season is now live on @solanamobile!\n\nEarn XP, collect badges, climb tiers, and unlock loot only available this seaso…",
+          "url": "https://twitter.com/0x_diablo/status/2038662163837890632"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@solana",
-          "reason": "Official source for protocol and ecosystem updates",
-          "role": "Builder",
-          "engagement": 664
+          "handle": "@SolanaSensei",
+          "reason": "Curates and highlights key Solana airdrop campaigns.",
+          "role": "Community",
+          "engagement": 413
         },
         {
-          "handle": "@SolanaFloor",
-          "reason": "Tracks key metrics and trends in the Solana ecosystem",
-          "role": "Analyst",
-          "engagement": 220
+          "handle": "@sanctumso",
+          "reason": "Builder behind Seeker and its gamified airdrop initiative.",
+          "role": "Builder",
+          "engagement": 74
         }
       ],
       "content": {
-        "signal": "Solana is experiencing a notable uptick in enterprise-grade developer activity, DePIN protocol momentum, and large-scale USDC minting.",
-        "story": "Solana’s ecosystem is showing clear signs of acceleration, with enterprise developer tools gaining traction, major payment players building, and decentralized physical infrastructure (DePIN) projects reporting strong revenue growth. At the same time, stablecoin activity on Solana is spiking, with hundreds of millions in new USDC minted in a single day.\n\n### What's Happening\n\nSeveral signals point to Solana’s growing appeal for both developers and real-world applications. Enterprise-grade tooling is being adopted, and global payment firms are reportedly building on the network. In the DePIN sector, projects like Helium Mobile and XNET Mobile are posting significant revenue numbers—Helium Mobile alone generated $2.2 million in monthly revenue, while XNET Mobile surpassed 100 terabytes of data usage for the first time. The World Economic Forum is projecting a $3.5 trillion DePIN market cap by 2028, and Solana is positioning itself as a key infrastructure layer.\n\nMeanwhile, stablecoin activity is surging. Circle minted approximately $500 million in USDC on Solana in just 24 hours, a scale that signals rising demand for on-chain dollar liquidity. This level of minting is rare and suggests that Solana is becoming a preferred venue for stablecoin flows, possibly due to its low fees and high throughput.\n\n### Why It Matters\n\nThe convergence of enterprise interest, robust DePIN revenue, and stablecoin inflows is a strong indicator of Solana’s maturing ecosystem. Real-world usage—especially in sectors like mobile connectivity and payments—suggests that Solana is moving beyond speculative trading and into practical, revenue-generating applications. For developers, the availability of advanced tooling and the presence of major payment players lower the barrier to building scalable products.\n\nThe scale of USDC minting also matters. High stablecoin inflows can improve liquidity for decentralized finance (DeFi) protocols and make it easier for users and businesses to transact on-chain. This can attract more builders and users, creating a positive feedback loop for the network’s growth.\n\n### The Risk or Debate\n\nDespite the momentum, there are risks. DePIN is still an early and experimental sector, and it’s unclear how sustainable current revenue levels are as competition increases. The surge in USDC minting could be driven by short-term trading or arbitrage rather than long-term adoption. There’s also the broader question of whether enterprise and payment giants will stick with Solana through future network upgrades or volatility.\n\nAnother risk is overreliance on a few high-profile projects. If flagship DePIN or payment integrations stall, sentiment could reverse quickly. The ecosystem’s resilience will depend on continued diversification and real-world traction.\n\n### What To Watch\n\nKeep an eye on further announcements from payment firms and enterprise developers building on Solana. Watch for updates from DePIN projects, especially around user growth and new partnerships. The pace and purpose of future USDC mints will be a key signal—sustained inflows could validate Solana’s role as a stablecoin hub, while a sharp drop-off might suggest more speculative activity.\n\nProtocol upgrades and new developer tooling releases will also be important, as they could either accelerate adoption or introduce new technical challenges. The next few months will reveal whether Solana can convert this momentum into durable, mainstream usage.",
+        "signal": "Solana’s first quarter saw a wave of airdrop campaigns, with projects like Seeker, Backpack, and Moonbirds driving user engagement and ecosystem growth.",
+        "story": "Solana’s first quarter is closing out with a noticeable uptick in airdrop activity. Projects such as Seeker, Backpack, and Moonbirds have rolled out targeted campaigns, aiming to reward early users and incentivize deeper engagement. The launch of Seeker Season on Solana Mobile, with its XP, badges, and tiered loot, highlights how airdrops are evolving beyond simple token drops into gamified experiences.\n\n### What's Happening\nAirdrops have become a core strategy for new and established Solana projects to bootstrap communities and reward participation. Seeker’s new season, now live on Solana Mobile, is an example of this trend, offering users the chance to earn XP, collect badges, and unlock exclusive rewards. Backpack and Moonbirds have also been named as notable airdrop campaigns this quarter, though details on their specific mechanics remain limited in the public conversation.\n\nThese campaigns are designed to attract attention, drive usage, and foster loyalty among Solana’s growing user base. The focus on mobile—especially with Seeker’s integration—signals a push to capture users where they spend most of their time, making participation more accessible and interactive.\n\n### Why It Matters\nAirdrops are no longer just marketing tactics; they’re becoming sophisticated tools for user acquisition and retention. By layering in gamification, projects can encourage ongoing engagement rather than one-off claims. This helps build more durable communities and can surface power users who contribute to project growth.\n\nFor Solana, the momentum around airdrops this quarter underscores the ecosystem’s ability to attract both builders and users, even as competition among chains heats up. The mobile-first approach could be a differentiator, especially if it leads to higher retention and more meaningful on-chain activity. These campaigns also serve as a proving ground for new distribution and engagement models that other projects may adopt.\n\n### The Risk or Debate\nThe main risk is that airdrop campaigns can attract opportunistic users who are only interested in short-term gains, rather than genuine engagement. If rewards are not well-structured, projects may see a spike in activity followed by rapid drop-offs. There’s also the challenge of ensuring fair distribution and avoiding sybil attacks, which can undermine trust in the process.\n\nAnother open question is whether gamified airdrops actually translate into long-term value for projects or simply create noise. Without transparency on how rewards are allocated and what metrics matter, some users may feel left out or confused by the process.\n\n### What To Watch\nKeep an eye on how Seeker’s mobile campaign performs—metrics like retention, repeat engagement, and community feedback will be telling. Watch for more details from Backpack and Moonbirds about their airdrop mechanics and eligibility criteria. It’s also worth tracking whether other Solana projects follow suit with similar gamified or mobile-first airdrop strategies.\n\nAs the quarter wraps up, expect projects to share results and iterate on their approaches. The next wave of airdrops may look different as teams learn what works—and what doesn’t—in driving real, lasting engagement.",
         "takeaways": [
-          "Solana is attracting enterprise developers and payment giants with advanced tooling.",
-          "DePIN projects on Solana are generating millions in monthly revenue and scaling usage.",
-          "USDC minting on Solana has surged, indicating rising demand for stablecoin liquidity."
+          "Solana projects are using airdrops to deepen user engagement, not just distribute tokens.",
+          "Seeker’s mobile-focused campaign introduces gamification with XP, badges, and exclusive loot.",
+          "The effectiveness of these strategies will depend on retention, fairness, and community response."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 4.9
+      "narrativeStrength": 4.1
     }
   ]
 }
