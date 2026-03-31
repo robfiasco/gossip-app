@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-03-31T08:07:33.222Z",
-    "totalCandidates": 106,
-    "solanaCandidates": 7,
+    "generatedAt": "2026-03-31T19:53:46.651Z",
+    "totalCandidates": 113,
+    "solanaCandidates": 20,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/395724/aster-perps-dex-staking-token-emissions-changpeng-zhao",
-      "title": "Aster perps DEX switches to staking-only token emission model, reducing monthly unlocks by 97%",
-      "url": "https://www.theblock.co/post/395724/aster-perps-dex-staking-token-emissions-changpeng-zhao",
-      "source": "The Block",
-      "publishedAt": "2026-03-30T17:13:07.000Z",
-      "summary": "Aster previously released nearly 80 million ASTER per month per its linear schedule, a figure expected to drop by at least 97%.",
+      "id": "https://cointelegraph.com/news/galaxy-solana-staking-galaxyone-retail-expansion",
+      "title": "Galaxy expands retail platform with SOL staking, targeting 6.5% yield",
+      "url": "https://cointelegraph.com/news/galaxy-solana-staking-galaxyone-retail-expansion",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-03-31T16:39:58.000Z",
+      "summary": "GalaxyOne adds Solana staking with variable rewards and zero-fee incentives, extending institutional validator infrastructure to retail users.",
       "tags": [
-        "aster",
-        "perps",
-        "switches"
+        "galaxy",
+        "expands",
+        "retail"
       ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,27 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 15,
+        "relevanceScore": 19,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e7bc9bc737d4849d7b663b170e897ec026da9c42",
-      "score": 28
+      "dedupeFingerprint": "20892bfea086809f2ff00dddd47e92c620488fed",
+      "score": 29
     },
     {
-      "id": "https://www.theblock.co/post/395666/midas-raises-50-million-series-a-launches-liquidity-layer-for-tokenized-assets",
-      "title": "Midas raises $50 million Series A, launches liquidity layer for tokenized assets",
-      "url": "https://www.theblock.co/post/395666/midas-raises-50-million-series-a-launches-liquidity-layer-for-tokenized-assets",
+      "id": "https://www.theblock.co/post/395935/a16z-crypto-leads-10-million-round-in-startup-developing-stablecoins-missing-layer",
+      "title": "A16z crypto leads $10 million round in startup developing stablecoins’ missing layer",
+      "url": "https://www.theblock.co/post/395935/a16z-crypto-leads-10-million-round-in-startup-developing-stablecoins-missing-layer",
       "source": "The Block",
-      "publishedAt": "2026-03-30T13:45:57.000Z",
-      "summary": "Midas raised a $50 million Series A led by RRE and Creandum, and launched a $40 million liquidity facility for tokenized assets.",
+      "publishedAt": "2026-03-31T15:58:50.000Z",
+      "summary": "The Better Money Company said it will work with Paxos, Bridge, MoonPay, MetaMask, and Phantom, among others.",
       "tags": [
-        "midas",
-        "raises",
-        "million"
+        "a16z",
+        "crypto",
+        "leads"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -66,25 +66,58 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3a4c2010dd9cd2a604b8f8b610d996155f27c619",
-      "score": 21
+      "dedupeFingerprint": "266b8e5a9a829850d988192e0c218ed211638bc2",
+      "score": 22
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/03/30/lido-dao-proposes-usd20-million-ldo-buyback-to-boost-price-after-95-slide",
-      "title": "Lido DAO proposes $20 million LDO buyback to boost price after 95% slide",
-      "url": "https://www.coindesk.com/markets/2026/03/30/lido-dao-proposes-usd20-million-ldo-buyback-to-boost-price-after-95-slide",
-      "source": "CoinDesk",
-      "publishedAt": "2026-03-30T13:26:33.000Z",
-      "summary": "A proposed treasury buyback of up to 10,000 stETH for LDO highlights how thin DeFi governance token liquidity has become, forcing the DAO to route through centralized exchanges.",
+      "id": "https://www.theblock.co/post/395873/dubais-vara-imposes-margin-governance-and-disclosure-rules-on-crypto-trading-and-derivatives",
+      "title": "Dubai’s VARA imposes margin, governance, and disclosure rules on crypto trading and derivatives",
+      "url": "https://www.theblock.co/post/395873/dubais-vara-imposes-margin-governance-and-disclosure-rules-on-crypto-trading-and-derivatives",
+      "source": "The Block",
+      "publishedAt": "2026-03-31T10:44:27.000Z",
+      "summary": "Dubai’s VARA issued new rules mandating governance, disclosure and risk controls for VASPs offering crypto derivatives and exchange services.",
       "tags": [
-        "lido",
-        "proposes",
-        "million"
+        "dubai",
+        "vara",
+        "imposes"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "aaf26bb707ad7420103748e05f00f785d8606a6c",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/395867/unstable-velocity-standard-chartered-says-stablecoin-usage-rising-faster-than-expected-as-new-use-cases-emerge",
+      "title": "‘Unstable velocity’: Standard Chartered says stablecoin usage rising faster than expected as new use cases emerge",
+      "url": "https://www.theblock.co/post/395867/unstable-velocity-standard-chartered-says-stablecoin-usage-rising-faster-than-expected-as-new-use-cases-emerge",
+      "source": "The Block",
+      "publishedAt": "2026-03-31T10:14:25.000Z",
+      "summary": "The bank maintained its $2 trillion stablecoin market cap forecast by 2028 amid a sharp increase in turnover from use cases like AI payments.",
+      "tags": [
+        "unstable",
+        "velocity",
+        "standard"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -97,27 +130,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 6,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9960ad1b49e5337682b3423c8b090fd5ae6019af",
-      "score": 19
+      "dedupeFingerprint": "d898c727169fed5713d0db34929c70670b7f47f3",
+      "score": 22
     },
     {
-      "id": "https://decrypt.co/362838/new-us-rule-open-8t-retirement-market-crypto",
-      "title": "New US Rule Seeks to Open $8T Retirement Market to Crypto",
-      "url": "https://decrypt.co/362838/new-us-rule-open-8t-retirement-market-crypto",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-31T05:46:15.000Z",
-      "summary": "The safe harbor proposal would allow 401(k) managers to offer crypto-linked funds with stronger legal protections.",
+      "id": "https://ambcrypto.com/u-s-proposal-to-ease-401k-rules-could-open-door-to-crypto-linked-investments",
+      "title": "U.S. proposal to ease 401(k) rules could open door to crypto-linked investments",
+      "url": "https://ambcrypto.com/u-s-proposal-to-ease-401k-rules-could-open-door-to-crypto-linked-investments",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-03-31T16:41:37.000Z",
+      "summary": "A new U.S. proposal could ease 401(k) rules for alternative assets, potentially paving the way for crypto-linked exposure.",
       "tags": [
-        "rule",
-        "seeks",
-        "open"
+        "proposal",
+        "ease",
+        "rules"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,48 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 3,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5c06e067a417c7cd29f5ed1fc7a04fb95de3fbab",
-      "score": 16
-    },
-    {
-      "id": "https://www.theblock.co/post/395617/aave-v4-launches-ethereum-mainnet",
-      "title": "Aave V4 launches on Ethereum mainnet with ‘hub-and-spoke’ architecture",
-      "url": "https://www.theblock.co/post/395617/aave-v4-launches-ethereum-mainnet",
-      "source": "The Block",
-      "publishedAt": "2026-03-30T13:00:00.000Z",
-      "summary": "Aave V4 features a hub-and-spoke architecture that concentrates liquidity to supply a wider range of markets and use cases with credit lines.",
-      "tags": [
-        "aave",
-        "launches",
-        "ethereum"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -3,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "674d8fef5f28448324eb8af60d56e1eeb5c70a5a",
-      "score": 0
+      "dedupeFingerprint": "beaffe5508e8a0b7ce58f591bcc7152ae2517d45",
+      "score": 19
     }
   ]
 }
