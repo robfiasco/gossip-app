@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-04-01T08:15:07.833Z",
-    "totalCandidates": 115,
-    "solanaCandidates": 18,
+    "generatedAt": "2026-04-01T19:57:22.053Z",
+    "totalCandidates": 114,
+    "solanaCandidates": 29,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support",
-      "title": "Solana DEX volumes drop to 2024 lows: Will SOL hold $80 as support?",
-      "url": "https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-01T01:00:00.000Z",
-      "summary": "Solana’s declining DEX volumes raise the likelihood of a SOL price correction to $75, but the network’s DApp revenue highlights its resilience.",
+      "id": "https://www.theblock.co/post/395985/b2c2-solana-institutional-stablecoin-network-sbi-holdings",
+      "title": "SBI Holdings’ B2C2 designates Solana as primary stablecoin network for institutional clients",
+      "url": "https://www.theblock.co/post/395985/b2c2-solana-institutional-stablecoin-network-sbi-holdings",
+      "source": "The Block",
+      "publishedAt": "2026-04-01T09:00:00.000Z",
+      "summary": "Institutional liquidity provider B2C2 will now route and settle large-scale stablecoin transactions for its institutional clients on Solana.",
       "tags": [
-        "solana",
-        "volumes",
-        "drop"
+        "holdings",
+        "b2c2",
+        "designates"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,29 +31,62 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 24,
+        "relevanceScore": 19,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "42a2d46b6d745b12bed78d85404c147f8344c41c",
-      "score": 34
+      "dedupeFingerprint": "3490f5755e6081958e38e03e22bb4fee05f4eb22",
+      "score": 33
     },
     {
-      "id": "https://decrypt.co/362979/if-you-hold-solana-magic-eden-wallet-time-to-move",
-      "title": "If You Hold Solana on Magic Eden's Wallet, It's Time to Move It or Lose It",
-      "url": "https://decrypt.co/362979/if-you-hold-solana-magic-eden-wallet-time-to-move",
-      "source": "Decrypt",
-      "publishedAt": "2026-03-31T21:06:15.000Z",
-      "summary": "Support for Magic Eden's crypto wallet is ending soon, meaning users will have to export their private keys to avoid losing access to funds.",
+      "id": "https://ambcrypto.com/galaxyone-launches-solana-staking-with-6-5-yield-zero-fees-through-2026",
+      "title": "GalaxyOne launches Solana staking with 6.5% yield, zero fees through 2026",
+      "url": "https://ambcrypto.com/galaxyone-launches-solana-staking-with-6-5-yield-zero-fees-through-2026",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-01T19:00:35.000Z",
+      "summary": "Staking demand for SOL recovered after a 3% dip in Q1.",
       "tags": [
-        "hold",
-        "solana",
-        "magic"
+        "galaxyone",
+        "launches",
+        "solana"
       ],
-      "topicBucket": "consumer",
+      "topicBucket": "defi",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ce396c95f3943810614ca4089dbfd9295c0f4cec",
+      "score": 27
+    },
+    {
+      "id": "https://www.theblock.co/post/396107/solana-trading-platform-drift-exploited-at-least-200-million",
+      "title": "‘Not an April Fools joke’: Major Solana-based trading platform Drift exploited for at least $200 million",
+      "url": "https://www.theblock.co/post/396107/solana-trading-platform-drift-exploited-at-least-200-million",
+      "source": "The Block",
+      "publishedAt": "2026-04-01T18:35:29.000Z",
+      "summary": "The exploit, which started over two hours ago, seems to be targeting multiple Drift vaults, totaling at least $200 million.",
+      "tags": [
+        "april",
+        "fools",
+        "joke"
+      ],
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -67,26 +100,26 @@
         "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 3,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a107205993daa4673c605c83bed3f07ad7e20850",
-      "score": 26
+      "dedupeFingerprint": "cc7bac59d75390e2d7fe750cf7144221be39bde0",
+      "score": 27
     },
     {
-      "id": "https://www.theblock.co/post/395935/a16z-crypto-leads-10-million-round-in-startup-developing-stablecoins-missing-layer",
-      "title": "A16z crypto leads $10 million round in startup developing stablecoins’ missing layer",
-      "url": "https://www.theblock.co/post/395935/a16z-crypto-leads-10-million-round-in-startup-developing-stablecoins-missing-layer",
-      "source": "The Block",
-      "publishedAt": "2026-03-31T15:58:50.000Z",
-      "summary": "The Better Money Company said it will work with Paxos, Bridge, MoonPay, MetaMask, and Phantom, among others.",
+      "id": "https://www.coindesk.com/tech/2026/04/01/solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-deposits",
+      "title": "Solana DeFi platform Drift confirms 'active attack' as $200M+ leaves platform",
+      "url": "https://www.coindesk.com/tech/2026/04/01/solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-deposits",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-01T18:35:27.000Z",
+      "summary": "The platform halted deposits while it investigates suspicious activity and urges users to proceed with caution.",
       "tags": [
-        "a16z",
-        "crypto",
-        "leads"
+        "solana",
+        "defi",
+        "platform"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -97,27 +130,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "266b8e5a9a829850d988192e0c218ed211638bc2",
-      "score": 21
+      "dedupeFingerprint": "815ddf745d5fae0bc46e805b8de703654f6a8a9e",
+      "score": 24
     },
     {
-      "id": "https://www.theblock.co/post/395873/dubais-vara-imposes-margin-governance-and-disclosure-rules-on-crypto-trading-and-derivatives",
-      "title": "Dubai’s VARA imposes margin, governance, and disclosure rules on crypto trading and derivatives",
-      "url": "https://www.theblock.co/post/395873/dubais-vara-imposes-margin-governance-and-disclosure-rules-on-crypto-trading-and-derivatives",
-      "source": "The Block",
-      "publishedAt": "2026-03-31T10:44:27.000Z",
-      "summary": "Dubai’s VARA issued new rules mandating governance, disclosure and risk controls for VASPs offering crypto derivatives and exchange services.",
+      "id": "https://www.coindesk.com/coindesk-indices/2026/04/01/crypto-long-and-short-governance-is-the-real-layer-1",
+      "title": "Crypto Long & Short: Governance is the real Layer 1",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/04/01/crypto-long-and-short-governance-is-the-real-layer-1",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-01T16:09:02.000Z",
+      "summary": "In this week’s Crypto Long & Short Newsletter, Nilmini Rubin writes on the challenge facing crypto and traditional markets to create a hybrid, shared governance structure. Then, Meredith Fitzpatrick covers how financial institutions must fundamentally rethink AML risk as crypto and TradFi converge.",
       "tags": [
-        "dubai",
-        "vara",
-        "imposes"
+        "crypto",
+        "long",
+        "short"
       ],
       "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "aaf26bb707ad7420103748e05f00f785d8606a6c",
-      "score": 21
-    },
-    {
-      "id": "https://ambcrypto.com/u-s-proposal-to-ease-401k-rules-could-open-door-to-crypto-linked-investments",
-      "title": "U.S. proposal to ease 401(k) rules could open door to crypto-linked investments",
-      "url": "https://ambcrypto.com/u-s-proposal-to-ease-401k-rules-could-open-door-to-crypto-linked-investments",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-03-31T16:41:37.000Z",
-      "summary": "A new U.S. proposal could ease 401(k) rules for alternative assets, potentially paving the way for crypto-linked exposure.",
-      "tags": [
-        "proposal",
-        "ease",
-        "rules"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "beaffe5508e8a0b7ce58f591bcc7152ae2517d45",
-      "score": 18
+      "dedupeFingerprint": "6b8c52de072911dee4b2211753a090b1dcbdfb96",
+      "score": 22
     }
   ]
 }

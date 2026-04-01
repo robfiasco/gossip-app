@@ -1,21 +1,26 @@
 {
   "date": "2026-04-01",
-  "generated_at_utc": "2026-04-01T08:15:16.856Z",
-  "ctxMarket": "Attention is on Solana’s decentralized exchange (DEX) activity, which has dropped to its lowest levels this year. Despite this, discussion continues around the network’s DApp revenue and new staking opportunities.",
-  "ctxTalking": "• Solana DEX volumes have reached 2024 lows, raising questions about price support levels.\n• Magic Eden is discontinuing its crypto wallet, requiring users to secure their funds.\n• Galaxy is expanding its retail platform to include Solana staking with variable rewards.",
-  "ctxMatters": "Lower DEX volumes may affect liquidity and sentiment for Solana-based projects. The end of Magic Eden wallet support impacts user access and fund security. Galaxy’s move to offer SOL staking to retail users signals ongoing institutional interest and new participation options.",
-  "ctxSignal": "Signal: Shifts in DEX activity and major wallet changes directly affect user experience and network activity.\nNoise: Short-term price speculation tied to DEX volumes without broader context.",
-  "ctxGlossary": "DEX — Decentralized exchange, a platform for peer-to-peer crypto trading without intermediaries.\nStaking — Locking up tokens to help secure a network and potentially earn rewards.",
+  "generated_at_utc": "2026-04-01T19:57:35.751Z",
+  "ctxMarket": "Attention is centered on the major exploit of Drift Protocol, with estimates of losses ranging from $200M to $285M and operations paused. Institutional focus is also shifting as B2C2 designates Solana as its primary stablecoin network. Solana’s transaction count surpassed 10 billion, highlighting ongoing network activity.",
+  "ctxTalking": "• Drift Protocol’s suspected $200M+ exploit and operational halt\n• B2C2’s move to route institutional stablecoin transactions on Solana\n• GalaxyOne launching zero-fee Solana staking with a 6.5% yield",
+  "ctxMatters": "Drift’s exploit raises concerns about security and trust in Solana DeFi platforms. B2C2’s adoption signals growing institutional confidence in Solana’s infrastructure for stablecoin settlement. High transaction volumes and new staking options suggest continued user and developer engagement despite recent setbacks.",
+  "ctxSignal": "Signal: The Drift Protocol exploit and B2C2’s Solana integration reflect real shifts in risk and institutional adoption.\nNoise: Speculation about short-term sell pressure from Alameda’s Ethereum moves lacks direct evidence for Solana impact.",
+  "ctxGlossary": "Drift Protocol — A Solana-based decentralized trading platform\nB2C2 — An institutional liquidity provider now routing stablecoin settlements on Solana",
   "readMore": [
     {
-      "title": "Solana DEX volumes drop to 2024 lows",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support"
+      "title": "Drift Protocol halts operations after suspected $285m exploit as funds move across wallets",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/drift-protocol-halts-operations-after-suspected-285m-exploit-as-funds-move-across-wallets"
     },
     {
-      "title": "If You Hold Solana on Magic Eden's Wallet, It's Time to Move It or Lose It",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/362979/if-you-hold-solana-magic-eden-wallet-time-to-move"
+      "title": "Drift Protocol warns users to pause deposits amid 'unusual' trading activity",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/drift-protocol-pause-deposit-unusual-activity"
+    },
+    {
+      "title": "‘Not an April Fools joke’",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/396107/solana-trading-platform-drift-exploited-at-least-200-million"
     }
   ]
 }
