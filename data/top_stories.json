@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-03-31T19:53:46.651Z",
-    "totalCandidates": 113,
-    "solanaCandidates": 20,
+    "generatedAt": "2026-04-01T08:15:07.833Z",
+    "totalCandidates": 115,
+    "solanaCandidates": 18,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cointelegraph.com/news/galaxy-solana-staking-galaxyone-retail-expansion",
-      "title": "Galaxy expands retail platform with SOL staking, targeting 6.5% yield",
-      "url": "https://cointelegraph.com/news/galaxy-solana-staking-galaxyone-retail-expansion",
+      "id": "https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support",
+      "title": "Solana DEX volumes drop to 2024 lows: Will SOL hold $80 as support?",
+      "url": "https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support",
       "source": "Cointelegraph",
-      "publishedAt": "2026-03-31T16:39:58.000Z",
-      "summary": "GalaxyOne adds Solana staking with variable rewards and zero-fee incentives, extending institutional validator infrastructure to retail users.",
+      "publishedAt": "2026-04-01T01:00:00.000Z",
+      "summary": "Solana’s declining DEX volumes raise the likelihood of a SOL price correction to $75, but the network’s DApp revenue highlights its resilience.",
       "tags": [
-        "galaxy",
-        "expands",
-        "retail"
+        "solana",
+        "volumes",
+        "drop"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,15 +31,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 19,
+        "relevanceScore": 24,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "20892bfea086809f2ff00dddd47e92c620488fed",
-      "score": 29
+      "dedupeFingerprint": "42a2d46b6d745b12bed78d85404c147f8344c41c",
+      "score": 34
+    },
+    {
+      "id": "https://decrypt.co/362979/if-you-hold-solana-magic-eden-wallet-time-to-move",
+      "title": "If You Hold Solana on Magic Eden's Wallet, It's Time to Move It or Lose It",
+      "url": "https://decrypt.co/362979/if-you-hold-solana-magic-eden-wallet-time-to-move",
+      "source": "Decrypt",
+      "publishedAt": "2026-03-31T21:06:15.000Z",
+      "summary": "Support for Magic Eden's crypto wallet is ending soon, meaning users will have to export their private keys to avoid losing access to funds.",
+      "tags": [
+        "hold",
+        "solana",
+        "magic"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "a107205993daa4673c605c83bed3f07ad7e20850",
+      "score": 26
     },
     {
       "id": "https://www.theblock.co/post/395935/a16z-crypto-leads-10-million-round-in-startup-developing-stablecoins-missing-layer",
@@ -66,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "266b8e5a9a829850d988192e0c218ed211638bc2",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/395873/dubais-vara-imposes-margin-governance-and-disclosure-rules-on-crypto-trading-and-derivatives",
@@ -99,46 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "aaf26bb707ad7420103748e05f00f785d8606a6c",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/395867/unstable-velocity-standard-chartered-says-stablecoin-usage-rising-faster-than-expected-as-new-use-cases-emerge",
-      "title": "‘Unstable velocity’: Standard Chartered says stablecoin usage rising faster than expected as new use cases emerge",
-      "url": "https://www.theblock.co/post/395867/unstable-velocity-standard-chartered-says-stablecoin-usage-rising-faster-than-expected-as-new-use-cases-emerge",
-      "source": "The Block",
-      "publishedAt": "2026-03-31T10:14:25.000Z",
-      "summary": "The bank maintained its $2 trillion stablecoin market cap forecast by 2028 amid a sharp increase in turnover from use cases like AI payments.",
-      "tags": [
-        "unstable",
-        "velocity",
-        "standard"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d898c727169fed5713d0db34929c70670b7f47f3",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://ambcrypto.com/u-s-proposal-to-ease-401k-rules-could-open-door-to-crypto-linked-investments",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "beaffe5508e8a0b7ce58f591bcc7152ae2517d45",
-      "score": 19
+      "score": 18
     }
   ]
 }

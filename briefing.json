@@ -1,8 +1,26 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "MARKET",
+      "title": "Solana DEX volumes drop to 2024 lows: Will SOL hold $80 as support?",
+      "category": "MARKET",
+      "source": "Cointelegraph",
+      "date": "2026-04-01",
+      "url": "https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support",
+      "whyYouShouldCare": "The significant drop in DEX volumes could indicate reduced trading activity on Solana, impacting SOL's price stability and liquidity."
+    },
+    {
+      "type": "APPS",
+      "title": "If You Hold Solana on Magic Eden's Wallet, It's Time to Move It or Lose It",
+      "category": "APPS",
+      "source": "Decrypt",
+      "date": "2026-03-31",
+      "url": "https://decrypt.co/362979/if-you-hold-solana-magic-eden-wallet-time-to-move",
+      "whyYouShouldCare": "Users holding Solana on Magic Eden's wallet face potential asset loss, which may affect overall trust in the Solana ecosystem."
+    },
     {
       "type": "INFRA",
       "title": "Galaxy expands retail platform with SOL staking, targeting 6.5% yield",
@@ -10,25 +28,7 @@
       "source": "Cointelegraph",
       "date": "2026-03-31",
       "url": "https://cointelegraph.com/news/galaxy-solana-staking-galaxyone-retail-expansion",
-      "whyYouShouldCare": "Galaxy's introduction of SOL staking with a 6.5% yield enhances liquidity options and could attract more users to the Solana ecosystem."
-    },
-    {
-      "type": "ECOSYSTEM",
-      "title": "Interactive Brokers launches crypto trading in EEA, including BTC, ETH, SOL and XRP",
-      "category": "ECOSYSTEM",
-      "source": "The Block",
-      "date": "2026-03-31",
-      "url": "https://www.theblock.co/post/395885/interactive-brokers-launches-crypto-trading-in-eea-including-btc-eth-sol-and-xrp",
-      "whyYouShouldCare": "Interactive Brokers' crypto trading expansion into the EEA, including SOL, increases accessibility and could drive higher trading volumes in the Solana market."
-    },
-    {
-      "type": "APPS",
-      "title": "Bitcoin, Crypto Stocks Climb on Reports That Iran's President Is 'Ready to End War'",
-      "category": "APPS",
-      "source": "Decrypt",
-      "date": "2026-03-31",
-      "url": "https://decrypt.co/362913/bitcon-crypto-stocks-climb-reports-iranian-president-end-war",
-      "whyYouShouldCare": "Positive geopolitical developments may boost overall crypto market sentiment, potentially benefiting SOL's price and adoption as investor confidence rises."
+      "whyYouShouldCare": "Galaxy's introduction of SOL staking with a competitive yield could enhance liquidity and attract more users to the Solana network."
     }
   ]
 }
