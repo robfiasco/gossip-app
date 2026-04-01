@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-03-31T13:45:10.328Z",
+  "generated_at": "2026-04-01T13:42:30.129Z",
   "global_metrics": {
-    "total_tweets": 45,
-    "total_engagement": 12638,
+    "total_tweets": 59,
+    "total_engagement": 16428,
     "unique_voices": 18,
-    "top_tweet": 1348
+    "top_tweet": 982
   },
   "items": [
     {
-      "id": "story_1774964677128_0",
-      "title": "Solana Enables Instant Global Capital Mobility",
+      "id": "story_1775050912192_0",
+      "title": "Seeker Season, xPlace, and Solana: Rewards and Risks",
       "type": "critical",
       "category": "Security / Risk Alert",
-      "author": "@solana",
-      "timestamp": "2026-03-31T13:44:37.128Z",
+      "author": "@solanamobile",
+      "timestamp": "2026-04-01T13:41:52.192Z",
       "metrics": {
-        "tweets": 38,
-        "engagement": 10168,
-        "topTweet": 1348,
-        "voices": 12,
+        "tweets": 51,
+        "engagement": 13670,
+        "topTweet": 982,
+        "voices": 14,
         "engagementTrend": [
-          4067,
-          5592,
-          6914,
-          8338,
-          10168
+          5468,
+          7518,
+          9295,
+          11209,
+          13670
         ]
       },
       "ctPulse": [
         {
+          "handle": "@solanamobile",
+          "thought": "Seeker Season keeps cooking with @xplaceapp 💳\n\nSeekers get membership discounts, XP boosts, and more! \n\nPlus a 2.5% allocation in their upcoming airdrop.\n\nAvailable now on the Solana dApp Store. http",
+          "url": "https://twitter.com/solanamobile/status/2038649936342880259"
+        },
+        {
           "handle": "@solana",
-          "thought": "No more capital locked across countries. No more waiting days to move funds.\n\n@reapglobal uses stablecoins on Solana to give businesses full control over global treasury, at instant speed. https://t.c",
-          "url": "https://twitter.com/solana/status/2038571261496897577"
+          "thought": "BREAKING: SBI Holdings' B2C2 designates Solana as its primary network for institutional stablecoin settlement https://t.co/mTOh0V1jj9",
+          "url": "https://twitter.com/solana/status/2039319560688484707"
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "Another big week on Solana\n\n&gt; Solana reached 176K RWA holders\n\n&gt; Backpack's token $BP went live\n\n&gt; USD1 supply 5x’ed over 2 months, to $855M\n\n&gt; ONyc’s market size on Kamino surpassed $100M",
-          "url": "https://twitter.com/SolanaSensei/status/2038541800210899381"
+          "thought": "If we all just surrender to the nft market, let go of expectations around pixelated monkey and 3d panda PNGs, and just treat them for what they are, Solana NFTs will thrive again.\n\nCollect art.\nCollec",
+          "url": "https://twitter.com/SolanaSensei/status/2039013517219778858"
+        },
+        {
+          "handle": "@solana",
+          "thought": "RT @KobeissiLetter: BREAKING: Solana processed a record $650 billion in Stablecoin transactions in February 2026.\n\nAs a result, aggregate S…",
+          "url": "https://twitter.com/solana/status/2039094626410279050"
         },
         {
           "handle": "@SolanaSensei",
           "thought": "Anza dropped constellations, a multi-proposer protocol for Solana with 50ms cycles.\n\nMultiple validators compete to include your transaction every 50 milliseconds, so no single one can block or reorde",
           "url": "https://twitter.com/SolanaSensei/status/2038631854430163109"
-        },
-        {
-          "handle": "@SolanaSensei",
-          "thought": "This is crazyyy.\n\nBhutan allows you to get the world’s first token-backed visas on Solana.\n\nJust hold $10K worth of TER (tokenized gold) and get up to 24 months of residency. https://t.co/wV1FmkMw2M",
-          "url": "https://twitter.com/SolanaSensei/status/2038217125278703965"
-        },
-        {
-          "handle": "@SolanaSensei",
-          "thought": "Superteam Talent is going on a tour scouting the next generation of Solana builders and their first stop is Zurich, Switzerland.\n\nThis April, 9th will be your chance to explore career paths and connec",
-          "url": "https://twitter.com/SolanaSensei/status/2038512310378246298"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@solana",
-          "reason": "Official updates and ecosystem developments",
+          "handle": "@solanamobile",
+          "reason": "Key source for official updates on Seeker Season and Solana dApp Store developments.",
           "role": "Builder",
-          "engagement": 3939
+          "engagement": 4735
         },
         {
           "handle": "@SolanaSensei",
-          "reason": "Consistent analysis and key metrics on Solana’s growth",
+          "reason": "Provides ongoing analysis and context on Solana ecosystem trends and risks.",
           "role": "Analyst",
-          "engagement": 1835
+          "engagement": 1862
         }
       ],
       "content": {
-        "signal": "Solana is driving a shift toward instant, borderless capital flows for businesses and users, reducing friction and unlocking new financial use cases.",
-        "story": "Solana is rapidly positioning itself as the go-to blockchain for seamless, cross-border capital movement. Recent developments highlight how stablecoins and tokenized assets on Solana are giving businesses and individuals unprecedented control over their global treasury, eliminating the days-long waits and capital lockups that have defined traditional finance.\n\n### What's Happening\n\nProjects like Reap Global are leveraging Solana’s stablecoin infrastructure to let businesses move funds instantly across countries, bypassing legacy banking delays. The network’s high throughput and low fees have attracted a surge of real-world asset (RWA) activity, with over 176,000 RWA holders and a fivefold increase in USD1 stablecoin supply to $855 million in just two months. Meanwhile, Solana’s decentralized exchanges and tokenized equity platforms are processing record volumes, and new use cases—like token-backed visas in Bhutan—are emerging.\n\nSolana’s technical upgrades are also notable. The introduction of multi-proposer protocols like Anza’s Constellations aims to further decentralize transaction ordering, reducing the risk of censorship and MEV (miner extractable value) exploitation. Network reliability remains strong, with over 650 days of uninterrupted uptime, supporting the ecosystem’s growth and user confidence.\n\n### Why It Matters\n\nThese advances are not just technical milestones—they’re changing how capital moves globally. For businesses, instant stablecoin transfers on Solana mean treasury operations can be managed in real time, without being tied up by cross-border banking friction. For users, the ability to access tokenized stocks, gold, and even residency programs through blockchain-native assets signals a maturing, interconnected financial ecosystem.\n\nSolana’s dominance in key metrics—like unique wallets, transaction throughput, and dApp revenue—shows that its infrastructure is scaling to meet demand. The network is settling the majority of tokenized equity spot volume and capturing a large share of wrapped Bitcoin trading, reinforcing its position as a hub for internet-native capital markets.\n\n### The Risk or Debate\n\nDespite these strengths, risks remain. The rapid growth in token issuance and trading—especially around memecoins—raises questions about sustainability and market maturity. The average holding time for memecoins has dropped sharply, suggesting speculative churn and potential for user losses. While technical upgrades like multi-proposer protocols aim to reduce censorship and MEV, their effectiveness at scale is still being tested.\n\nThere’s also the broader question of regulatory clarity for stablecoins and tokenized assets. As more real-world value flows through Solana, scrutiny from regulators could increase, potentially impacting some use cases or service providers.\n\n### What To Watch\n\nKeep an eye on how businesses adopt stablecoin-based treasury management and whether this translates into sustained onchain volume. Watch for further technical upgrades that could improve censorship resistance and network performance. The evolution of tokenized asset offerings—especially RWAs and token-backed programs like Bhutan’s visa—will be a key signal of mainstream adoption.\n\nFinally, monitor the pace and nature of new token launches. A cooldown in speculative activity could signal a shift toward more sustainable, utility-driven growth in the Solana ecosystem.",
+        "signal": "Seeker Season’s partnership with xPlace brings new rewards and airdrop incentives, but users should weigh the security and risk implications as Solana’s ecosystem activity accelerates.",
+        "story": "Seeker Season is ramping up engagement on Solana with a new collaboration involving xPlace, offering members discounts, XP boosts, and a 2.5% allocation in an upcoming airdrop. These perks are now live on the Solana dApp Store, targeting users eager for tangible benefits and deeper involvement in the ecosystem.\n\n### What's Happening\nxPlace, a Solana-based platform, is leveraging Seeker Season to attract and reward users through membership incentives and airdrop allocations. This move is part of a broader trend on Solana, where projects are using gamified rewards and airdrops to drive adoption and loyalty. The campaign is highly visible, with strong support from Solana Mobile and prominent ecosystem voices, signaling a coordinated push to onboard and retain active users.\n\nAt the same time, Solana’s overall activity is surging. Stablecoin settlement volumes are hitting record highs, and new protocols are launching to address issues like validator centralization and MEV. This creates a dynamic environment where user engagement programs like Seeker Season have outsized impact, but also where risks can be amplified if incentives are not aligned with long-term security and sustainability.\n\n### Why It Matters\nThe xPlace-Seeker Season partnership is more than just another airdrop—it’s a test case for how Solana projects can use rewards to bootstrap network effects. By offering tangible benefits, these programs can quickly grow user bases and liquidity, which is crucial as Solana competes with other chains for attention and capital. The integration with the Solana dApp Store also streamlines access, making it easier for new users to participate without navigating complex onboarding flows.\n\nHowever, the rapid pace of innovation and the proliferation of incentive programs raise important questions about risk. As more users chase airdrops and XP boosts, the potential for scams, phishing, and contract vulnerabilities increases. The ecosystem’s growth is impressive, but it also means that attackers have more targets and that users may be tempted to take shortcuts on due diligence.\n\n### The Risk or Debate\nThe main risk is that reward-driven engagement can overshadow security best practices. Users may rush to connect wallets or share sensitive information in pursuit of airdrops, exposing themselves to malicious actors or poorly audited contracts. Additionally, the sustainability of these programs is unproven—if rewards dry up or are distributed unfairly, user trust can erode quickly.\n\nThere’s also debate about whether these incentives create lasting value or simply attract mercenary users who leave once the rewards are gone. As Solana’s ecosystem matures, the challenge will be to balance growth with robust risk management and clear communication about potential pitfalls.\n\n### What To Watch\nWatch for how xPlace and Seeker Season handle user onboarding, KYC, and contract security in the coming weeks. The structure and transparency of the airdrop will be a key signal—clear rules and fair distribution can build trust, while ambiguity may invite controversy. Also monitor whether other projects follow suit with similar programs, and whether Solana’s dApp Store steps up vetting and education efforts to protect new users.\n\nAs Solana’s ecosystem continues to expand, the effectiveness and safety of reward-based engagement will be under close scrutiny. The next phase will reveal whether these strategies can deliver sustainable growth without compromising user security.",
         "takeaways": [
-          "Solana is enabling instant, cross-border capital movement for businesses using stablecoins.",
-          "Network reliability and technical upgrades are supporting rapid growth in tokenized assets and RWAs.",
-          "Speculative activity remains high, but regulatory and sustainability risks persist as the ecosystem matures."
+          "Seeker Season and xPlace are offering membership rewards and airdrop incentives on Solana.",
+          "Rapid ecosystem growth brings both opportunity and increased risk of scams or security lapses.",
+          "The sustainability and safety of reward-driven engagement will be tested as more users participate."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 8.8
+      "narrativeStrength": 9.2
     },
     {
-      "id": "story_1774964692282_1",
-      "title": "RainFi Airdrop Signals Jupiter’s Expanding Influence",
-      "type": "live",
-      "category": "Alpha / Early Access",
-      "author": "@FabianoSolana",
-      "timestamp": "2026-03-31T13:44:52.282Z",
+      "id": "story_1775050936067_1",
+      "title": "Jupiter Doubles Referral Rewards, Expands Airdrop Reach",
+      "type": "alpha",
+      "category": "Airdrop Strategy",
+      "author": "@SolanaSensei",
+      "timestamp": "2026-04-01T13:42:16.067Z",
       "metrics": {
-        "tweets": 5,
-        "engagement": 1983,
-        "topTweet": 599,
-        "voices": 4,
+        "tweets": 4,
+        "engagement": 1840,
+        "topTweet": 627,
+        "voices": 2,
         "engagementTrend": [
-          793,
-          1091,
-          1348,
-          1626,
-          1983
+          736,
+          1012,
+          1251,
+          1508,
+          1840
         ]
       },
       "ctPulse": [
         {
-          "handle": "@FabianoSolana",
-          "thought": "Airdrop checker for Rainfi went live\n\nI made some good money through lending and was only ranked 300 something\n\nSo $500 is a very nice stimmy\n\nInstead of launching their own token, they just distribut",
-          "url": "https://twitter.com/FabianoSolana/status/2038165616297693204"
+          "handle": "@SolanaSensei",
+          "thought": "🚨 Jupiter just doubled their referral rewards\n\n- Refer a friend = you get $50 USDC\n- They join = they earn $200 USDC\n\nThis will be live for 7 days...\n\nAfter signing up, your friend has 30 days to rea",
+          "url": "https://twitter.com/SolanaSensei/status/2038984425896325477"
         },
         {
           "handle": "@SolanaSensei",
@@ -112,104 +112,109 @@
           "url": "https://twitter.com/SolanaSensei/status/2038602239305191535"
         },
         {
-          "handle": "@jussy_world",
-          "thought": "*Projects that doing millions in revenue (should have a token)\n\nDo they?\n\nBecause it doesn’t mean the token performs or you get something \n\nYou really don’t get anything: 👇\n\n@Pumpfun - $35M\n> $0.0087",
-          "url": "https://twitter.com/jussy_world/status/2037956446714056914"
-        },
-        {
           "handle": "@SolanaSensei",
           "thought": "🚨 REMINDER: @JupiterExchange x @paradex ended and there's only 3 days left to claim your JUPUSD\n\nCheck the rewards section on the @jup_mobile app or visit the official jup website for claims https://",
           "url": "https://twitter.com/SolanaSensei/status/2038526405068427276"
         },
         {
-          "handle": "@marinonchain",
-          "thought": "Wow, just discovered this myself 🤯\n\nAny ticker - anywhere - like $SKR in this X post is instantly detected by Jupiter Wallet.\n\nTap → chart → done.\n\nGreat Tek. https://t.co/c6YinKddSH",
-          "url": "https://twitter.com/marinonchain/status/2038372886927364314"
+          "handle": "@FabianoSolana",
+          "thought": "game is game\n\nbut phantom makes close to $1M every week from in-wallet swaps\n\n80-90% is routed through Jupiter \n\nmeans phantom makes $800K/month by using free Jupiter API and add some fees \n\nI know Ju",
+          "url": "https://twitter.com/FabianoSolana/status/2039017287366135855"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@FabianoSolana",
-          "reason": "Shares firsthand insights on RainFi and Solana airdrops.",
+          "handle": "@SolanaSensei",
+          "reason": "Consistently shares Solana ecosystem updates and airdrop news.",
           "role": "Community",
-          "engagement": 871
+          "engagement": 1578
         },
         {
-          "handle": "@JupiterExchange",
-          "reason": "Core builder behind Jupiter and the Offerbook ecosystem.",
-          "role": "Builder",
-          "engagement": 599
+          "handle": "@FabianoSolana",
+          "reason": "Provides analysis on Solana DeFi mechanics and platform economics.",
+          "role": "Analyst",
+          "engagement": 262
         }
       ],
       "content": {
-        "signal": "RainFi’s airdrop is live, distributing JUICED (lended JupUSD) instead of launching a new token, as the project integrates into Jupiter’s Offerbook ecosystem.",
-        "story": "RainFi, a lending protocol recently acquired by Jupiter, has launched its airdrop—delivering rewards in JUICED (lended JupUSD) rather than debuting a new token. Eligible users can now check their allocation directly on RainFi’s website. This move comes as RainFi transitions to building on Jupiter’s Offerbook, signaling tighter integration with Jupiter’s growing suite of DeFi products.\n\n### What's Happening\nRainFi’s airdrop marks a shift in how value is distributed to users. Instead of introducing a standalone token, RainFi is rewarding participants with JUICED, a yield-bearing version of JupUSD, Jupiter’s stablecoin. This approach leverages Jupiter’s existing liquidity and infrastructure, while giving RainFi users immediate, liquid rewards. The airdrop is now live, and users are encouraged to check their allocations and claim through official channels.\n\nThis development follows Jupiter’s acquisition of RainFi, folding the lending protocol into its broader ecosystem. RainFi’s team is now focused on building within Jupiter’s Offerbook, a move that aligns with Jupiter’s strategy of consolidating DeFi primitives under one roof. The integration is already visible, with RainFi’s rewards system now directly tied to Jupiter’s core products.\n\n### Why It Matters\nThe decision to distribute JUICED instead of launching a new token is notable. Many Solana projects have issued tokens that quickly lost value, as highlighted by recent price declines across several high-profile launches. By using JUICED, RainFi sidesteps the risks of launching a new, potentially volatile asset, while still rewarding early users with something liquid and yield-generating.\n\nThis approach also strengthens Jupiter’s position as a central hub in the Solana DeFi landscape. By absorbing RainFi and tying its incentives to JupUSD, Jupiter is deepening network effects and user stickiness. The move could set a precedent for other projects considering how to reward users without diluting value or fragmenting liquidity.\n\n### The Risk or Debate\nWhile distributing JUICED avoids the pitfalls of launching a new token, it also raises questions about long-term incentive alignment. Users may prefer direct exposure to protocol upside, which is typically associated with native tokens. There’s also the risk that rewards in JUICED may not satisfy all segments of the community, especially those seeking speculative gains.\n\nAdditionally, the broader debate around token launches on Solana remains unresolved. Many recent tokens have seen steep price declines post-launch, fueling skepticism about the value of new emissions. RainFi’s approach is a response to this environment, but it’s unclear if it will fully address user expectations or set a new standard for the ecosystem.\n\n### What To Watch\nWatch for how RainFi’s user base responds to JUICED rewards over the coming weeks. Adoption and engagement metrics will signal whether this model resonates. Also, keep an eye on Jupiter’s continued integrations—success with RainFi could encourage more projects to join the Offerbook ecosystem or adopt similar reward structures.\n\nFinally, monitor the performance and utility of JUICED itself. If it proves to be a compelling reward, it could influence how future airdrops and incentive programs are structured across Solana DeFi.",
+        "signal": "Jupiter has doubled its referral rewards and integrated RainFi, intensifying airdrop competition in the Solana ecosystem.",
+        "story": "Jupiter is ramping up its user acquisition strategy by doubling its referral rewards for a limited time. For the next seven days, referring a friend yields $50 USDC, while the referred user can earn $200 USDC by meeting specific spending milestones. This move comes as Jupiter finalizes its integration of RainFi, whose airdrop is now live and distributed in JUICED tokens. RainFi, recently acquired by Jupiter, is now building on Jupiter’s Offerbook infrastructure, signaling a consolidation of talent and products under the Jupiter brand.\n\n### What's Happening\nJupiter’s referral campaign is designed to drive both new user signups and actual trading activity. To qualify for rewards, referred users must reach $100 and $1,000 in qualified spending within 30 days of signing up. Simultaneously, RainFi’s airdrop rewards are now available, reflecting the project’s transition into the Jupiter ecosystem. Jupiter is also closing out its JUPUSD rewards program with Paradex, with only three days left for eligible users to claim.\n\n### Why It Matters\nThese moves highlight Jupiter’s aggressive approach to capturing market share and deepening user engagement on Solana. By offering substantial USDC rewards, Jupiter is incentivizing not just signups but active participation, which could translate into higher trading volumes and liquidity. The integration of RainFi and its airdrop further expands Jupiter’s product suite and user base, reinforcing its position as a central player in Solana’s DeFi landscape. The data point that Phantom wallet routes 80-90% of its swap volume through Jupiter, generating significant fee revenue, underscores Jupiter’s growing influence as a liquidity hub.\n\n### The Risk or Debate\nThe sustainability of high referral payouts is uncertain, especially if user acquisition costs outpace the value generated from new activity. There is also debate about the balance of benefits between platforms like Phantom, which monetize Jupiter’s API, and Jupiter itself, which gains volume and market share but may not capture direct fee revenue from these integrations. The rapid rollout of multiple reward programs could also lead to user confusion or fatigue if not managed carefully.\n\n### What To Watch\nKey developments to monitor include the uptake and effectiveness of the doubled referral rewards, the impact of RainFi’s integration on Jupiter’s product offerings, and any adjustments to reward structures after the current campaign ends. The close of the JUPUSD rewards window may also shift user focus to new incentives. Ongoing discussion about the economics of wallet integrations and API usage could influence how Jupiter and partners structure future collaborations.",
         "takeaways": [
-          "RainFi’s airdrop is distributing JUICED (lended JupUSD) instead of launching a new token.",
-          "RainFi has been acquired by Jupiter and is now building on the Jupiter Offerbook.",
-          "This model addresses token dilution concerns but may not fully satisfy users seeking direct protocol upside."
+          "Jupiter has doubled referral rewards to $50 for referrers and $200 for new users for one week.",
+          "RainFi’s airdrop is live following its acquisition and integration into Jupiter’s Offerbook.",
+          "Phantom wallet routes most swap volume through Jupiter, raising questions about fee distribution and platform incentives."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 5.2
+      "narrativeStrength": 4.8
     },
     {
-      "id": "story_1774964710328_2",
-      "title": "Solana Airdrop Season: Q1 Highlights and Next Moves",
+      "id": "story_1775050950129_2",
+      "title": "Raydium Leads Solana DEXs With $700B Spot Volume",
       "type": "alpha",
-      "category": "Airdrop Strategy",
+      "category": "AI / Agents",
       "author": "@SolanaSensei",
-      "timestamp": "2026-03-31T13:45:10.328Z",
+      "timestamp": "2026-04-01T13:42:30.129Z",
       "metrics": {
-        "tweets": 2,
-        "engagement": 487,
-        "topTweet": 413,
+        "tweets": 4,
+        "engagement": 918,
+        "topTweet": 476,
         "voices": 2,
         "engagementTrend": [
-          195,
-          268,
-          331,
-          399,
-          487
+          367,
+          505,
+          624,
+          753,
+          918
         ]
       },
       "ctPulse": [
         {
           "handle": "@SolanaSensei",
-          "thought": "First Quarter is rounding up, which of these airdrops cooked for you?\n\n- Seeker\n- Backpack\n- Moonbirds https://t.co/Ecs0aL0dvF",
-          "url": "https://twitter.com/SolanaSensei/status/2038165274046910719"
+          "thought": "Raydium is dominating DEXs in total spot volume,\n\ngenerating almost $700B in 3 years.\n\n- Orca: $460B\n- Meteora: $280B\n- HumidFi: $235B\n\nEverything adds up to over $2.7 TRILLION!! https://t.co/qDlVao73",
+          "url": "https://twitter.com/SolanaSensei/status/2038893824433602974"
         },
         {
-          "handle": "@0x_diablo",
-          "thought": "RT @sanctumso: Seeker Season is now live on @solanamobile!\n\nEarn XP, collect badges, climb tiers, and unlock loot only available this seaso…",
-          "url": "https://twitter.com/0x_diablo/status/2038662163837890632"
+          "handle": "@0xyunss",
+          "thought": "pertanyaan yang paling sering masuk: \"kalau gua install Meridian dan langsung running, langsung profit?\"\n\njawaban singkatnya: ngga.\n\nframework-nya bisa gua build. tapi edge dari Meridian bukan dari fr",
+          "url": "https://twitter.com/0xyunss/status/2039152265198493776"
+        },
+        {
+          "handle": "@0xyunss",
+          "thought": "trashcan-sol, twice. $145 in 1 minute 8 seconds. $83 in 2 minutes 12 seconds. not my usual play but this volume was too good to ignore.\n\nthe setup: single side sol, 1 bin only. that's it.\n\nbut before ",
+          "url": "https://twitter.com/0xyunss/status/2038608180163621259"
+        },
+        {
+          "handle": "@0xyunss",
+          "thought": "anime-sol, 43.78%. this is the tight bid-ask flip wide strat and it's one of my favorite plays on a strong runner.\n\nthe setup has two phases.\n\nphase 1: tight bid-ask. you need a strong runner with hug",
+          "url": "https://twitter.com/0xyunss/status/2038945881890701491"
         }
       ],
       "whoToFollow": [
         {
           "handle": "@SolanaSensei",
-          "reason": "Curates and highlights key Solana airdrop campaigns.",
-          "role": "Community",
-          "engagement": 413
+          "reason": "Shares data-driven insights on Solana DEX volumes and ecosystem trends.",
+          "role": "Analyst",
+          "engagement": 476
         },
         {
-          "handle": "@sanctumso",
-          "reason": "Builder behind Seeker and its gamified airdrop initiative.",
-          "role": "Builder",
-          "engagement": 74
+          "handle": "@0xyunss",
+          "reason": "Provides practical trading strategies and commentary on agent frameworks like Meridian.",
+          "role": "Trader",
+          "engagement": 443
         }
       ],
       "content": {
-        "signal": "Solana’s first quarter saw a wave of airdrop campaigns, with projects like Seeker, Backpack, and Moonbirds driving user engagement and ecosystem growth.",
-        "story": "Solana’s first quarter is closing out with a noticeable uptick in airdrop activity. Projects such as Seeker, Backpack, and Moonbirds have rolled out targeted campaigns, aiming to reward early users and incentivize deeper engagement. The launch of Seeker Season on Solana Mobile, with its XP, badges, and tiered loot, highlights how airdrops are evolving beyond simple token drops into gamified experiences.\n\n### What's Happening\nAirdrops have become a core strategy for new and established Solana projects to bootstrap communities and reward participation. Seeker’s new season, now live on Solana Mobile, is an example of this trend, offering users the chance to earn XP, collect badges, and unlock exclusive rewards. Backpack and Moonbirds have also been named as notable airdrop campaigns this quarter, though details on their specific mechanics remain limited in the public conversation.\n\nThese campaigns are designed to attract attention, drive usage, and foster loyalty among Solana’s growing user base. The focus on mobile—especially with Seeker’s integration—signals a push to capture users where they spend most of their time, making participation more accessible and interactive.\n\n### Why It Matters\nAirdrops are no longer just marketing tactics; they’re becoming sophisticated tools for user acquisition and retention. By layering in gamification, projects can encourage ongoing engagement rather than one-off claims. This helps build more durable communities and can surface power users who contribute to project growth.\n\nFor Solana, the momentum around airdrops this quarter underscores the ecosystem’s ability to attract both builders and users, even as competition among chains heats up. The mobile-first approach could be a differentiator, especially if it leads to higher retention and more meaningful on-chain activity. These campaigns also serve as a proving ground for new distribution and engagement models that other projects may adopt.\n\n### The Risk or Debate\nThe main risk is that airdrop campaigns can attract opportunistic users who are only interested in short-term gains, rather than genuine engagement. If rewards are not well-structured, projects may see a spike in activity followed by rapid drop-offs. There’s also the challenge of ensuring fair distribution and avoiding sybil attacks, which can undermine trust in the process.\n\nAnother open question is whether gamified airdrops actually translate into long-term value for projects or simply create noise. Without transparency on how rewards are allocated and what metrics matter, some users may feel left out or confused by the process.\n\n### What To Watch\nKeep an eye on how Seeker’s mobile campaign performs—metrics like retention, repeat engagement, and community feedback will be telling. Watch for more details from Backpack and Moonbirds about their airdrop mechanics and eligibility criteria. It’s also worth tracking whether other Solana projects follow suit with similar gamified or mobile-first airdrop strategies.\n\nAs the quarter wraps up, expect projects to share results and iterate on their approaches. The next wave of airdrops may look different as teams learn what works—and what doesn’t—in driving real, lasting engagement.",
+        "signal": "Raydium has emerged as the dominant DEX on Solana, driving nearly $700B in spot trading volume over three years.",
+        "story": "Raydium has established itself as the leading decentralized exchange (DEX) on Solana, generating almost $700 billion in total spot trading volume over the past three years. This figure puts Raydium ahead of other major Solana DEXs like Orca, Meteora, and HumidFi, which together have contributed to a combined ecosystem total exceeding $2.7 trillion in spot volume. The scale of this activity highlights Solana’s growing role as a hub for high-frequency, on-chain trading.\n\n### What's Happening\n\nRaydium’s dominance is clear when comparing its spot volume to peers: Orca has processed $460 billion, Meteora $280 billion, and HumidFi $235 billion. The aggregate volume across these platforms signals both the depth of liquidity and the intensity of trading activity on Solana. At the same time, the ecosystem is seeing a surge in the use of automated trading agents and frameworks, such as Meridian, which aim to help users deploy advanced strategies on DEXs like Raydium. However, as highlighted by experienced traders, these tools are not plug-and-play profit machines—the real advantage comes from the user’s own strategy and understanding of liquidity pools.\n\n### Why It Matters\n\nThe sheer volume handled by Raydium and its competitors underscores Solana’s position as a leading blockchain for decentralized trading. High throughput and low fees have made Solana attractive for both retail and algorithmic traders, fueling innovation in liquidity provision and market-making. The rise of agent frameworks like Meridian reflects a shift toward more sophisticated, user-driven trading strategies, where edge comes from customization and market insight rather than just technology access.\n\nFor builders and traders, this environment creates opportunities to experiment with new liquidity models, such as concentrated liquidity pools and dynamic fee structures. The ecosystem’s rapid growth also draws attention from developers looking to build new tools, and from traders seeking to capitalize on unique Solana-native strategies that may not be viable on other chains due to cost or speed constraints.\n\n### The Risk or Debate\n\nDespite the impressive numbers, there are risks. The complexity of agent frameworks and advanced pool strategies means that inexperienced users may face steep learning curves or unexpected losses. Not every pool or setup is profitable, and success often depends on nuanced factors like pool selection, fee tiers, and timing. Additionally, the concentration of volume on a few platforms could pose systemic risks if a major DEX encounters technical or security issues. There’s also ongoing debate about whether the current wave of agent-driven trading will lead to more sustainable liquidity or simply amplify short-term volatility.\n\n### What To Watch\n\nKey developments to monitor include the evolution of agent frameworks and their adoption by both new and experienced traders. Watch for new liquidity pool designs or fee structures that could shift trading incentives. The continued growth of total spot volume will be a signal of Solana’s staying power as a DEX ecosystem. Finally, keep an eye on how traders adapt their strategies as competition intensifies and as new tools lower the barrier to deploying complex trades.",
         "takeaways": [
-          "Solana projects are using airdrops to deepen user engagement, not just distribute tokens.",
-          "Seeker’s mobile-focused campaign introduces gamification with XP, badges, and exclusive loot.",
-          "The effectiveness of these strategies will depend on retention, fairness, and community response."
+          "Raydium leads Solana DEXs with nearly $700B in spot volume over three years.",
+          "Solana DEX ecosystem has surpassed $2.7 trillion in total spot trading volume.",
+          "Advanced agent frameworks are emerging, but profitability depends on user strategy, not just technology."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 4.1
+      "narrativeStrength": 4.5
     }
   ]
 }
