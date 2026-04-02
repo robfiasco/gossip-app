@@ -1,26 +1,26 @@
 {
   "date": "2026-04-02",
-  "generated_at_utc": "2026-04-02T08:05:28.837Z",
-  "ctxMarket": "Attention is centered on a major exploit of Solana’s Drift Protocol and broader crypto market declines following geopolitical tensions. Solana’s record stablecoin volume is also in focus, but security concerns dominate discussion.",
-  "ctxTalking": "• Drift Protocol suffered an exploit, with over $200 million reportedly stolen and platform operations suspended.\n• Crypto prices, including Solana, dropped after the U.S. president’s address on Iran, reversing a recent rally.\n• Solana set a new monthly record for stablecoin transaction volume, though Ethereum remains the leader in cumulative totals.",
-  "ctxMatters": "Security incidents like the Drift exploit can impact confidence in Solana DeFi platforms and may prompt scrutiny of protocol safeguards. Market volatility tied to geopolitical events highlights crypto’s sensitivity to global developments. Record stablecoin volumes signal ongoing user activity and ecosystem growth despite recent setbacks.",
-  "ctxSignal": "Signal: The Drift Protocol exploit and platform suspension, as well as Solana’s stablecoin volume milestone.\nNoise: Short-term price swings attributed solely to political headlines without deeper protocol implications.",
-  "ctxGlossary": "Exploit — A security breach where attackers drain funds from a protocol.\nStablecoin — A cryptocurrency pegged to a stable asset, often used for trading and payments.",
+  "generated_at_utc": "2026-04-02T19:48:54.784Z",
+  "ctxMarket": "Attention is focused on a major exploit of Drift Protocol on Solana, with security and protocol design under scrutiny. Solana’s price dropped 6.9% alongside broader market declines, but memecoin activity remains high following a viral April Fools’ event.",
+  "ctxTalking": "• The $285 million Drift Protocol exploit and its connection to Solana’s “durable nonces” feature\n• Speculation about North Korean hackers’ involvement in the Drift incident\n• The surge and media buzz around the JONATHAN memecoin after a tortoise death hoax",
+  "ctxMatters": "Security practices on Solana DeFi are being questioned, especially regarding transaction features intended for convenience. Cross-chain tracing challenges are highlighted by the Drift exploit investigation. Memecoin volatility and viral moments continue to drive user engagement and attention.",
+  "ctxSignal": "Signal: The Drift exploit’s use of Solana-native features and its implications for protocol security.\nNoise: Short-term price spikes in memecoins tied to social media pranks.",
+  "ctxGlossary": "Durable Nonces — A Solana transaction feature allowing pre-signed transactions to be executed later.\nMultisig — A security method requiring multiple approvals for protocol actions.",
   "readMore": [
     {
-      "title": "Bitcoin, ether, solana slide further as Trump threatens to hit Iran 'extremely hard'",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/02/bitcoin-ether-solana-slide-further-as-trump-threatens-to-hit-iran-extremely-hard"
-    },
-    {
-      "title": "Solana Sets Monthly Record as Stablecoin Volume Hits $650B",
-      "source": "CryptoPotato",
-      "url": "https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b"
-    },
-    {
-      "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+      "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
       "source": "Decrypt",
-      "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million"
+      "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security"
+    },
+    {
+      "title": "‘Alive and well",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/396264/alive-well-solana-memecoin-193-year-old-tortoise-jonathan-rallies-april-fools-prank"
+    },
+    {
+      "title": "How a Solana feature designed for convenience let attackers drain more than $270 million from Drift",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/02/how-a-solana-feature-designed-for-convenience-let-an-attacker-drain-usd270-million-from-drift"
     }
   ]
 }

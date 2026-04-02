@@ -1,59 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-04-02T08:05:20.228Z",
+    "generatedAt": "2026-04-02T19:48:46.119Z",
     "totalCandidates": 114,
-    "solanaCandidates": 22,
+    "solanaCandidates": 26,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
-      "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
-      "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-01T20:13:38.000Z",
-      "summary": "Solana-based perpetuals DEX Drift Protocol has suffered an exploit impacting more than $200 million in funds.",
+      "id": "https://www.coindesk.com/tech/2026/04/02/how-a-solana-feature-designed-for-convenience-let-an-attacker-drain-usd270-million-from-drift",
+      "title": "How a Solana feature designed for convenience let attackers drain more than $270 million from Drift",
+      "url": "https://www.coindesk.com/tech/2026/04/02/how-a-solana-feature-designed-for-convenience-let-an-attacker-drain-usd270-million-from-drift",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-02T15:08:48.000Z",
+      "summary": "The exploit did not involve a bug in Drift's code. It used \"durable nonces,\" a legitimate Solana transaction feature, to pre-sign administrative transfers weeks before executing them, bypassing the protocol's multisig security in minutes.",
       "tags": [
         "solana",
-        "defi",
-        "exchange"
+        "feature",
+        "designed"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 19,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d40b79d5e0a2d97e35f818f5afbab8bf3aa66db3",
-      "score": 32
-    },
-    {
-      "id": "https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b",
-      "title": "Solana Sets Monthly Record as Stablecoin Volume Hits $650B",
-      "url": "https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b",
-      "source": "CryptoPotato",
-      "publishedAt": "2026-04-01T21:12:28.000Z",
-      "summary": "Despite Solana's record-breaking February, Ethereum still leads in cumulative stablecoin transaction volume at around $52 trillion.",
-      "tags": [
-        "solana",
-        "sets",
-        "monthly"
-      ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -67,24 +34,24 @@
         "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "923a85322f9a119ab24b68e277443afe1834750b",
-      "score": 26
+      "dedupeFingerprint": "2dbe3afcd2784e511790cf37a416f4ec08803170",
+      "score": 30
     },
     {
-      "id": "https://www.theblock.co/post/396107/solana-trading-platform-drift-exploited-at-least-200-million",
-      "title": "‘Not an April Fools joke’: Major Solana-based trading platform Drift exploited for at least $200 million",
-      "url": "https://www.theblock.co/post/396107/solana-trading-platform-drift-exploited-at-least-200-million",
-      "source": "The Block",
-      "publishedAt": "2026-04-01T18:35:29.000Z",
-      "summary": "The exploit, which started over two hours ago, seems to be targeting multiple Drift vaults, totaling at least $200 million.",
+      "id": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
+      "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
+      "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-02T19:04:39.000Z",
+      "summary": "A blockchain security expert compared Drift’s lapse in security to Ethereum network Ronin's $625 million loss in 2022.",
       "tags": [
-        "april",
-        "fools",
-        "joke"
+        "drift",
+        "protocol",
+        "million"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -99,27 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "cc7bac59d75390e2d7fe750cf7144221be39bde0",
+      "dedupeFingerprint": "21e25784ba6086f75eb1295d5fd5b7dca770fac7",
       "score": 26
     },
     {
-      "id": "https://www.coindesk.com/coindesk-indices/2026/04/01/crypto-long-and-short-governance-is-the-real-layer-1",
-      "title": "Crypto Long & Short: Governance is the real Layer 1",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/04/01/crypto-long-and-short-governance-is-the-real-layer-1",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-01T16:09:02.000Z",
-      "summary": "In this week’s Crypto Long & Short Newsletter, Nilmini Rubin writes on the challenge facing crypto and traditional markets to create a hybrid, shared governance structure. Then, Meredith Fitzpatrick covers how financial institutions must fundamentally rethink AML risk as crypto and TradFi converge.",
+      "id": "https://www.theblock.co/post/396152/bitgo-stablecoin-minting-redemption-institutions",
+      "title": "BitGo launches stablecoin minting and redemption for institutions",
+      "url": "https://www.theblock.co/post/396152/bitgo-stablecoin-minting-redemption-institutions",
+      "source": "The Block",
+      "publishedAt": "2026-04-02T11:05:03.000Z",
+      "summary": "The company is hoping to service 'market makers, liquidity providers, banks, exchanges, asset managers, and fintechs.'",
       "tags": [
-        "crypto",
-        "long",
-        "short"
+        "bitgo",
+        "launches",
+        "stablecoin"
       ],
-      "topicBucket": "market",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -132,27 +99,60 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "6b8c52de072911dee4b2211753a090b1dcbdfb96",
+      "dedupeFingerprint": "792c28d50088b32a4cdcf7948c3bb3cb7a564e42",
+      "score": 22
+    },
+    {
+      "id": "https://decrypt.co/363115/coinbase-clo-clarity-act-deal-on-stablecoin-yield-very-close",
+      "title": "Coinbase CLO: Clarity Act Deal on Stablecoin Yield 'Very Close'",
+      "url": "https://decrypt.co/363115/coinbase-clo-clarity-act-deal-on-stablecoin-yield-very-close",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-02T11:26:57.000Z",
+      "summary": "The crypto exchange's top lawyer dismissed banking industry concerns about deposit flight as lawmakers work to finalize stablecoin provisions.",
+      "tags": [
+        "coinbase",
+        "clarity",
+        "deal"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "056ac6c5f1c1e275f4b2b8f0a9a21312b88127a8",
       "score": 21
     },
     {
-      "id": "https://www.theblock.co/post/396063/stablecoin-card-kulipa-seed-round",
-      "title": "Stablecoin card issuing infrastructure platform Kulipa raises $6.2 million seed round",
-      "url": "https://www.theblock.co/post/396063/stablecoin-card-kulipa-seed-round",
-      "source": "The Block",
-      "publishedAt": "2026-04-01T16:00:06.000Z",
-      "summary": "Kulipa helps fintechs and wallets issue white-label stablecoin payment cards without managing card operations themselves.",
+      "id": "https://www.coindesk.com/business/2026/04/02/north-koreans-hackers-likely-behind-the-usd286-million-drift-protocol-exploit-elliptic",
+      "title": "North Koreans hackers likely behind $286 million Drift Protocol exploit: Elliptic",
+      "url": "https://www.coindesk.com/business/2026/04/02/north-koreans-hackers-likely-behind-the-usd286-million-drift-protocol-exploit-elliptic",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-02T14:50:44.000Z",
+      "summary": "The blockchain analytics firm pointed to cross-chain laundering patterns and Solana-specific tracing challenges that mirror prior North Korean state-linked operations.",
       "tags": [
-        "stablecoin",
-        "card",
-        "issuing"
+        "north",
+        "koreans",
+        "hackers"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b55900937d39683437d752457d879334b30f9c95",
-      "score": 21
+      "dedupeFingerprint": "efbf2aaac2a248912c895257955b419a7c53a8bb",
+      "score": 22
     }
   ]
 }

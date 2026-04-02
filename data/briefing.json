@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "MARKET",
-      "title": "Solana Sets Monthly Record as Stablecoin Volume Hits $650B",
-      "category": "MARKET",
-      "source": "CryptoPotato",
-      "date": "2026-04-01",
-      "url": "https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b",
-      "whyYouShouldCare": "The surge in stablecoin volume to $650B indicates increased liquidity and user engagement within the Solana ecosystem, potentially enhancing its market positioning."
-    },
-    {
       "type": "RISK",
-      "title": "‘Not an April Fools joke’: Major Solana-based trading platform Drift exploited for at least $200 million",
-      "category": "RISK",
-      "source": "The Block",
-      "date": "2026-04-01",
-      "url": "https://www.theblock.co/post/396107/solana-trading-platform-drift-exploited-at-least-200-million",
-      "whyYouShouldCare": "The $200 million exploit of Drift highlights significant vulnerabilities in Solana's DeFi landscape, which could impact user trust and overall platform stability."
-    },
-    {
-      "type": "RISK",
-      "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+      "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
       "category": "RISK",
       "source": "Decrypt",
-      "date": "2026-04-01",
-      "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
-      "whyYouShouldCare": "With upwards of $285 million stolen from Drift, the incident raises concerns about security measures in Solana's DeFi projects, affecting investor confidence and ecosystem growth."
+      "date": "2026-04-02",
+      "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
+      "whyYouShouldCare": "The $285 million exploit of Drift Protocol highlights significant vulnerabilities in DeFi security on Solana, impacting investor confidence and ecosystem integrity."
+    },
+    {
+      "type": "RISK",
+      "title": "How a Solana feature designed for convenience let attackers drain more than $270 million from Drift",
+      "category": "RISK",
+      "source": "CoinDesk",
+      "date": "2026-04-02",
+      "url": "https://www.coindesk.com/tech/2026/04/02/how-a-solana-feature-designed-for-convenience-let-an-attacker-drain-usd270-million-from-drift",
+      "whyYouShouldCare": "A feature intended for user convenience inadvertently allowed attackers to siphon over $270 million from Drift, raising concerns about the design of DeFi protocols."
+    },
+    {
+      "type": "RISK",
+      "title": "Drift explains $280M exploit as critics question Circle over USDC freeze",
+      "category": "RISK",
+      "source": "Cointelegraph",
+      "date": "2026-04-02",
+      "url": "https://cointelegraph.com/news/drift-280-million-hack-questions-circle-response",
+      "whyYouShouldCare": "Drift's $280 million exploit has sparked criticism of Circle regarding the USDC freeze, potentially affecting liquidity and trust in stablecoin operations within Solana."
     }
   ]
 }
