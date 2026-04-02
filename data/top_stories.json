@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-04-01T19:57:22.053Z",
+    "generatedAt": "2026-04-02T08:05:20.228Z",
     "totalCandidates": 114,
-    "solanaCandidates": 29,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/395985/b2c2-solana-institutional-stablecoin-network-sbi-holdings",
-      "title": "SBI Holdings’ B2C2 designates Solana as primary stablecoin network for institutional clients",
-      "url": "https://www.theblock.co/post/395985/b2c2-solana-institutional-stablecoin-network-sbi-holdings",
-      "source": "The Block",
-      "publishedAt": "2026-04-01T09:00:00.000Z",
-      "summary": "Institutional liquidity provider B2C2 will now route and settle large-scale stablecoin transactions for its institutional clients on Solana.",
+      "id": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
+      "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+      "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-01T20:13:38.000Z",
+      "summary": "Solana-based perpetuals DEX Drift Protocol has suffered an exploit impacting more than $200 million in funds.",
       "tags": [
-        "holdings",
-        "b2c2",
-        "designates"
+        "solana",
+        "defi",
+        "exchange"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -34,27 +34,27 @@
         "relevanceScore": 19,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3490f5755e6081958e38e03e22bb4fee05f4eb22",
-      "score": 33
+      "dedupeFingerprint": "d40b79d5e0a2d97e35f818f5afbab8bf3aa66db3",
+      "score": 32
     },
     {
-      "id": "https://ambcrypto.com/galaxyone-launches-solana-staking-with-6-5-yield-zero-fees-through-2026",
-      "title": "GalaxyOne launches Solana staking with 6.5% yield, zero fees through 2026",
-      "url": "https://ambcrypto.com/galaxyone-launches-solana-staking-with-6-5-yield-zero-fees-through-2026",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-01T19:00:35.000Z",
-      "summary": "Staking demand for SOL recovered after a 3% dip in Q1.",
+      "id": "https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b",
+      "title": "Solana Sets Monthly Record as Stablecoin Volume Hits $650B",
+      "url": "https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b",
+      "source": "CryptoPotato",
+      "publishedAt": "2026-04-01T21:12:28.000Z",
+      "summary": "Despite Solana's record-breaking February, Ethereum still leads in cumulative stablecoin transaction volume at around $52 trillion.",
       "tags": [
-        "galaxyone",
-        "launches",
-        "solana"
+        "solana",
+        "sets",
+        "monthly"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -67,12 +67,12 @@
         "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ce396c95f3943810614ca4089dbfd9295c0f4cec",
-      "score": 27
+      "dedupeFingerprint": "923a85322f9a119ab24b68e277443afe1834750b",
+      "score": 26
     },
     {
       "id": "https://www.theblock.co/post/396107/solana-trading-platform-drift-exploited-at-least-200-million",
@@ -99,46 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "cc7bac59d75390e2d7fe750cf7144221be39bde0",
-      "score": 27
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/04/01/solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-deposits",
-      "title": "Solana DeFi platform Drift confirms 'active attack' as $200M+ leaves platform",
-      "url": "https://www.coindesk.com/tech/2026/04/01/solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-deposits",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-01T18:35:27.000Z",
-      "summary": "The platform halted deposits while it investigates suspicious activity and urges users to proceed with caution.",
-      "tags": [
-        "solana",
-        "defi",
-        "platform"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "815ddf745d5fae0bc46e805b8de703654f6a8a9e",
-      "score": 24
+      "score": 26
     },
     {
       "id": "https://www.coindesk.com/coindesk-indices/2026/04/01/crypto-long-and-short-governance-is-the-real-layer-1",
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "6b8c52de072911dee4b2211753a090b1dcbdfb96",
-      "score": 22
+      "score": 21
+    },
+    {
+      "id": "https://www.theblock.co/post/396063/stablecoin-card-kulipa-seed-round",
+      "title": "Stablecoin card issuing infrastructure platform Kulipa raises $6.2 million seed round",
+      "url": "https://www.theblock.co/post/396063/stablecoin-card-kulipa-seed-round",
+      "source": "The Block",
+      "publishedAt": "2026-04-01T16:00:06.000Z",
+      "summary": "Kulipa helps fintechs and wallets issue white-label stablecoin payment cards without managing card operations themselves.",
+      "tags": [
+        "stablecoin",
+        "card",
+        "issuing"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b55900937d39683437d752457d879334b30f9c95",
+      "score": 21
     }
   ]
 }

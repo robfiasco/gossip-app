@@ -1,34 +1,34 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
       "type": "MARKET",
-      "title": "SBI Holdings’ B2C2 designates Solana as primary stablecoin network for institutional clients",
+      "title": "Solana Sets Monthly Record as Stablecoin Volume Hits $650B",
       "category": "MARKET",
+      "source": "CryptoPotato",
+      "date": "2026-04-01",
+      "url": "https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b",
+      "whyYouShouldCare": "The surge in stablecoin volume to $650B indicates increased liquidity and user engagement within the Solana ecosystem, potentially enhancing its market positioning."
+    },
+    {
+      "type": "RISK",
+      "title": "‘Not an April Fools joke’: Major Solana-based trading platform Drift exploited for at least $200 million",
+      "category": "RISK",
       "source": "The Block",
       "date": "2026-04-01",
-      "url": "https://www.theblock.co/post/395985/b2c2-solana-institutional-stablecoin-network-sbi-holdings",
-      "whyYouShouldCare": "SBI Holdings' choice of Solana for stablecoin transactions enhances its credibility and could attract more institutional interest, boosting SOL's liquidity."
+      "url": "https://www.theblock.co/post/396107/solana-trading-platform-drift-exploited-at-least-200-million",
+      "whyYouShouldCare": "The $200 million exploit of Drift highlights significant vulnerabilities in Solana's DeFi landscape, which could impact user trust and overall platform stability."
     },
     {
-      "type": "MARKET",
-      "title": "GalaxyOne launches Solana staking with 6.5% yield, zero fees through 2026",
-      "category": "MARKET",
-      "source": "AMB Crypto",
+      "type": "RISK",
+      "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+      "category": "RISK",
+      "source": "Decrypt",
       "date": "2026-04-01",
-      "url": "https://ambcrypto.com/galaxyone-launches-solana-staking-with-6-5-yield-zero-fees-through-2026",
-      "whyYouShouldCare": "GalaxyOne's staking offering with no fees and a competitive yield may increase user engagement and capital inflow into the Solana ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana DeFi platform Drift confirms 'active attack' as $200M+ leaves platform",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-04-01",
-      "url": "https://www.coindesk.com/tech/2026/04/01/solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-deposits",
-      "whyYouShouldCare": "The $200M+ outflow from Drift due to an active attack raises concerns about security, potentially impacting user confidence and overall DeFi activity on Solana."
+      "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
+      "whyYouShouldCare": "With upwards of $285 million stolen from Drift, the incident raises concerns about security measures in Solana's DeFi projects, affecting investor confidence and ecosystem growth."
     }
   ]
 }

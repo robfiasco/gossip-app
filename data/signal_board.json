@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-01",
-  "generated_at_utc": "2026-04-01T19:57:35.751Z",
-  "ctxMarket": "Attention is centered on the major exploit of Drift Protocol, with estimates of losses ranging from $200M to $285M and operations paused. Institutional focus is also shifting as B2C2 designates Solana as its primary stablecoin network. Solana’s transaction count surpassed 10 billion, highlighting ongoing network activity.",
-  "ctxTalking": "• Drift Protocol’s suspected $200M+ exploit and operational halt\n• B2C2’s move to route institutional stablecoin transactions on Solana\n• GalaxyOne launching zero-fee Solana staking with a 6.5% yield",
-  "ctxMatters": "Drift’s exploit raises concerns about security and trust in Solana DeFi platforms. B2C2’s adoption signals growing institutional confidence in Solana’s infrastructure for stablecoin settlement. High transaction volumes and new staking options suggest continued user and developer engagement despite recent setbacks.",
-  "ctxSignal": "Signal: The Drift Protocol exploit and B2C2’s Solana integration reflect real shifts in risk and institutional adoption.\nNoise: Speculation about short-term sell pressure from Alameda’s Ethereum moves lacks direct evidence for Solana impact.",
-  "ctxGlossary": "Drift Protocol — A Solana-based decentralized trading platform\nB2C2 — An institutional liquidity provider now routing stablecoin settlements on Solana",
+  "date": "2026-04-02",
+  "generated_at_utc": "2026-04-02T08:05:28.837Z",
+  "ctxMarket": "Attention is centered on a major exploit of Solana’s Drift Protocol and broader crypto market declines following geopolitical tensions. Solana’s record stablecoin volume is also in focus, but security concerns dominate discussion.",
+  "ctxTalking": "• Drift Protocol suffered an exploit, with over $200 million reportedly stolen and platform operations suspended.\n• Crypto prices, including Solana, dropped after the U.S. president’s address on Iran, reversing a recent rally.\n• Solana set a new monthly record for stablecoin transaction volume, though Ethereum remains the leader in cumulative totals.",
+  "ctxMatters": "Security incidents like the Drift exploit can impact confidence in Solana DeFi platforms and may prompt scrutiny of protocol safeguards. Market volatility tied to geopolitical events highlights crypto’s sensitivity to global developments. Record stablecoin volumes signal ongoing user activity and ecosystem growth despite recent setbacks.",
+  "ctxSignal": "Signal: The Drift Protocol exploit and platform suspension, as well as Solana’s stablecoin volume milestone.\nNoise: Short-term price swings attributed solely to political headlines without deeper protocol implications.",
+  "ctxGlossary": "Exploit — A security breach where attackers drain funds from a protocol.\nStablecoin — A cryptocurrency pegged to a stable asset, often used for trading and payments.",
   "readMore": [
     {
-      "title": "Drift Protocol halts operations after suspected $285m exploit as funds move across wallets",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/drift-protocol-halts-operations-after-suspected-285m-exploit-as-funds-move-across-wallets"
+      "title": "Bitcoin, ether, solana slide further as Trump threatens to hit Iran 'extremely hard'",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/02/bitcoin-ether-solana-slide-further-as-trump-threatens-to-hit-iran-extremely-hard"
     },
     {
-      "title": "Drift Protocol warns users to pause deposits amid 'unusual' trading activity",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/drift-protocol-pause-deposit-unusual-activity"
+      "title": "Solana Sets Monthly Record as Stablecoin Volume Hits $650B",
+      "source": "CryptoPotato",
+      "url": "https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b"
     },
     {
-      "title": "‘Not an April Fools joke’",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/396107/solana-trading-platform-drift-exploited-at-least-200-million"
+      "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million"
     }
   ]
 }
