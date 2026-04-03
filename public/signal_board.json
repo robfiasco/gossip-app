@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-02",
-  "generated_at_utc": "2026-04-02T19:48:54.784Z",
-  "ctxMarket": "Attention is focused on a major exploit of Drift Protocol on Solana, with security and protocol design under scrutiny. Solana’s price dropped 6.9% alongside broader market declines, but memecoin activity remains high following a viral April Fools’ event.",
-  "ctxTalking": "• The $285 million Drift Protocol exploit and its connection to Solana’s “durable nonces” feature\n• Speculation about North Korean hackers’ involvement in the Drift incident\n• The surge and media buzz around the JONATHAN memecoin after a tortoise death hoax",
-  "ctxMatters": "Security practices on Solana DeFi are being questioned, especially regarding transaction features intended for convenience. Cross-chain tracing challenges are highlighted by the Drift exploit investigation. Memecoin volatility and viral moments continue to drive user engagement and attention.",
-  "ctxSignal": "Signal: The Drift exploit’s use of Solana-native features and its implications for protocol security.\nNoise: Short-term price spikes in memecoins tied to social media pranks.",
-  "ctxGlossary": "Durable Nonces — A Solana transaction feature allowing pre-signed transactions to be executed later.\nMultisig — A security method requiring multiple approvals for protocol actions.",
+  "date": "2026-04-03",
+  "generated_at_utc": "2026-04-03T08:01:38.449Z",
+  "ctxMarket": "Attention is focused on Solana’s DeFi security after a major exploit on Drift Protocol, alongside a notable dip in DEX trading volumes. Meanwhile, integrations like Polymarket’s use of Pyth price feeds are drawing interest to Solana’s data infrastructure.",
+  "ctxTalking": "• The $285 million Drift Protocol exploit and its link to Solana’s “durable nonces” feature\n• DEX volumes on Solana hitting a 2024 low, despite new institutional interest from SoFi\n• Polymarket expanding into equities and commodities using Pyth Network price feeds",
+  "ctxMatters": "Security concerns are resurfacing for Solana DeFi after the Drift exploit, with North Korean hackers suspected. Lower DEX volumes may impact liquidity and user engagement. Pyth’s adoption by Polymarket highlights Solana’s growing role in decentralized data for prediction markets.",
+  "ctxSignal": "Signal: The Drift exploit exposes risks in transaction design and protocol governance on Solana.\nNoise: Memecoin price spikes tied to April Fools’ pranks and tortoise rumors.",
+  "ctxGlossary": "Durable Nonces — A Solana feature allowing transactions to be pre-signed and executed later.\nPyth Network — A decentralized oracle providing real-time price data to blockchains.",
   "readMore": [
+    {
+      "title": "SoFi bets on Solana, but DEX volumes hit 2024 low of $55.5 billion!",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/sofi-bets-on-solana-but-dex-volumes-hit-2024-low-of-55-5-billion"
+    },
+    {
+      "title": "Polymarket expands into equities and commodities with Pyth price feeds",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/polymarket-expands-into-equities-and-commodities-with-pyth-price-feeds"
+    },
     {
       "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
       "source": "Decrypt",
       "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security"
-    },
-    {
-      "title": "‘Alive and well",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/396264/alive-well-solana-memecoin-193-year-old-tortoise-jonathan-rallies-april-fools-prank"
-    },
-    {
-      "title": "How a Solana feature designed for convenience let attackers drain more than $270 million from Drift",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/02/how-a-solana-feature-designed-for-convenience-let-an-attacker-drain-usd270-million-from-drift"
     }
   ]
 }

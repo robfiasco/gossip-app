@@ -1,34 +1,34 @@
 {
-  "date": "2026-04-02",
+  "date": "2026-04-03",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
       "type": "RISK",
-      "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
-      "category": "RISK",
-      "source": "Decrypt",
-      "date": "2026-04-02",
-      "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
-      "whyYouShouldCare": "The $285 million exploit of Drift Protocol highlights significant vulnerabilities in DeFi security on Solana, impacting investor confidence and ecosystem integrity."
-    },
-    {
-      "type": "RISK",
-      "title": "How a Solana feature designed for convenience let attackers drain more than $270 million from Drift",
+      "title": "North Koreans hackers likely behind $286 million Drift Protocol exploit: Elliptic",
       "category": "RISK",
       "source": "CoinDesk",
       "date": "2026-04-02",
-      "url": "https://www.coindesk.com/tech/2026/04/02/how-a-solana-feature-designed-for-convenience-let-an-attacker-drain-usd270-million-from-drift",
-      "whyYouShouldCare": "A feature intended for user convenience inadvertently allowed attackers to siphon over $270 million from Drift, raising concerns about the design of DeFi protocols."
+      "url": "https://www.coindesk.com/business/2026/04/02/north-koreans-hackers-likely-behind-the-usd286-million-drift-protocol-exploit-elliptic",
+      "whyYouShouldCare": "The involvement of North Korean hackers in the Drift Protocol exploit raises concerns about security vulnerabilities within the Solana ecosystem."
     },
     {
       "type": "RISK",
-      "title": "Drift explains $280M exploit as critics question Circle over USDC freeze",
+      "title": "Drift says $280M exploit tied to ‘sophisticated’ admin takeover; ZachXBT criticizes Circle over USDC handling",
       "category": "RISK",
-      "source": "Cointelegraph",
+      "source": "The Block",
       "date": "2026-04-02",
-      "url": "https://cointelegraph.com/news/drift-280-million-hack-questions-circle-response",
-      "whyYouShouldCare": "Drift's $280 million exploit has sparked criticism of Circle regarding the USDC freeze, potentially affecting liquidity and trust in stablecoin operations within Solana."
+      "url": "https://www.theblock.co/post/396183/drift-280m-exploit-zachxbt-circle",
+      "whyYouShouldCare": "Drift's $280 million exploit highlights risks associated with administrative controls, potentially affecting user confidence and liquidity in Solana-based platforms."
+    },
+    {
+      "type": "MARKET",
+      "title": "SoFi bets on Solana, but DEX volumes hit 2024 low of $55.5 billion!",
+      "category": "MARKET",
+      "source": "AMB Crypto",
+      "date": "2026-04-03",
+      "url": "https://ambcrypto.com/sofi-bets-on-solana-but-dex-volumes-hit-2024-low-of-55-5-billion",
+      "whyYouShouldCare": "SoFi's investment in Solana contrasts with declining DEX volumes, indicating potential challenges for ecosystem growth and user engagement."
     }
   ]
 }

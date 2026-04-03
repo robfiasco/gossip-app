@@ -1,90 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-04-02T19:48:46.119Z",
+    "generatedAt": "2026-04-03T08:01:28.779Z",
     "totalCandidates": 114,
-    "solanaCandidates": 26,
+    "solanaCandidates": 29,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/tech/2026/04/02/how-a-solana-feature-designed-for-convenience-let-an-attacker-drain-usd270-million-from-drift",
-      "title": "How a Solana feature designed for convenience let attackers drain more than $270 million from Drift",
-      "url": "https://www.coindesk.com/tech/2026/04/02/how-a-solana-feature-designed-for-convenience-let-an-attacker-drain-usd270-million-from-drift",
+      "id": "https://www.coindesk.com/policy/2026/04/02/crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stablecoin-yield-compromise-this-week",
+      "title": "Crypto market structure bill release pushed back as industries view revised stablecoin yield compromise this week",
+      "url": "https://www.coindesk.com/policy/2026/04/02/crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stablecoin-yield-compromise-this-week",
       "source": "CoinDesk",
-      "publishedAt": "2026-04-02T15:08:48.000Z",
-      "summary": "The exploit did not involve a bug in Drift's code. It used \"durable nonces,\" a legitimate Solana transaction feature, to pre-sign administrative transfers weeks before executing them, bypassing the protocol's multisig security in minutes.",
+      "publishedAt": "2026-04-02T22:12:10.000Z",
+      "summary": "Crypto and banking industry representatives are viewing revised stablecoin yield compromise language this week.",
       "tags": [
-        "solana",
-        "feature",
-        "designed"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2dbe3afcd2784e511790cf37a416f4ec08803170",
-      "score": 30
-    },
-    {
-      "id": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
-      "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
-      "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-02T19:04:39.000Z",
-      "summary": "A blockchain security expert compared Drift’s lapse in security to Ethereum network Ronin's $625 million loss in 2022.",
-      "tags": [
-        "drift",
-        "protocol",
-        "million"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "21e25784ba6086f75eb1295d5fd5b7dca770fac7",
-      "score": 26
-    },
-    {
-      "id": "https://www.theblock.co/post/396152/bitgo-stablecoin-minting-redemption-institutions",
-      "title": "BitGo launches stablecoin minting and redemption for institutions",
-      "url": "https://www.theblock.co/post/396152/bitgo-stablecoin-minting-redemption-institutions",
-      "source": "The Block",
-      "publishedAt": "2026-04-02T11:05:03.000Z",
-      "summary": "The company is hoping to service 'market makers, liquidity providers, banks, exchanges, asset managers, and fintechs.'",
-      "tags": [
-        "bitgo",
-        "launches",
-        "stablecoin"
+        "crypto",
+        "market",
+        "structure"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -104,23 +38,23 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "792c28d50088b32a4cdcf7948c3bb3cb7a564e42",
+      "dedupeFingerprint": "9873d04683bafffd201fe7d0b208ea1f51ce52b6",
       "score": 22
     },
     {
-      "id": "https://decrypt.co/363115/coinbase-clo-clarity-act-deal-on-stablecoin-yield-very-close",
-      "title": "Coinbase CLO: Clarity Act Deal on Stablecoin Yield 'Very Close'",
-      "url": "https://decrypt.co/363115/coinbase-clo-clarity-act-deal-on-stablecoin-yield-very-close",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-02T11:26:57.000Z",
-      "summary": "The crypto exchange's top lawyer dismissed banking industry concerns about deposit flight as lawmakers work to finalize stablecoin provisions.",
+      "id": "https://ambcrypto.com/sofi-bets-on-solana-but-dex-volumes-hit-2024-low-of-55-5-billion",
+      "title": "SoFi bets on Solana, but DEX volumes hit 2024 low of $55.5 billion!",
+      "url": "https://ambcrypto.com/sofi-bets-on-solana-but-dex-volumes-hit-2024-low-of-55-5-billion",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-03T06:30:37.000Z",
+      "summary": "This push has come at a hard time for the network.",
       "tags": [
-        "coinbase",
-        "clarity",
-        "deal"
+        "sofi",
+        "bets",
+        "solana"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -130,14 +64,14 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 10,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 3,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "056ac6c5f1c1e275f4b2b8f0a9a21312b88127a8",
+      "dedupeFingerprint": "facff7266a20ad40a02503d953cf884c54dfb44f",
       "score": 21
     },
     {
@@ -165,13 +99,79 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "efbf2aaac2a248912c895257955b419a7c53a8bb",
-      "score": 22
+      "score": 21
+    },
+    {
+      "id": "https://www.theblock.co/post/396200/polymarket-taps-pyth-network-to-resolve-new-us-equity-and-commodity-markets",
+      "title": "Polymarket taps Pyth Network to resolve new US equity and commodity markets",
+      "url": "https://www.theblock.co/post/396200/polymarket-taps-pyth-network-to-resolve-new-us-equity-and-commodity-markets",
+      "source": "The Block",
+      "publishedAt": "2026-04-02T14:00:00.000Z",
+      "summary": "Polymarket has integrated Pyth Network to resolve daily markets on gold, crude, and more than a dozen U.S. equities.",
+      "tags": [
+        "polymarket",
+        "taps",
+        "pyth"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "62f56e22675b42779754ab8e665d5a77c0c3e4d2",
+      "score": 21
+    },
+    {
+      "id": "https://cointelegraph.com/news/stablecoin-supply-315b-q1-usdc-rises-usdt-declines",
+      "title": "Stablecoin supply reaches $315B in Q1 as USDC rises, USDT declines",
+      "url": "https://cointelegraph.com/news/stablecoin-supply-315b-q1-usdc-rises-usdt-declines",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-02T21:29:12.000Z",
+      "summary": "Stablecoins dominated crypto trading in Q1 as investors sought safety, while rising bot usage and declining retail flows pointed to shifting market dynamics, according to CEX.io.",
+      "tags": [
+        "stablecoin",
+        "supply",
+        "reaches"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "9b3a176b99ab4288ab8879def3c261e579f11ad0",
+      "score": 18
     }
   ]
 }
