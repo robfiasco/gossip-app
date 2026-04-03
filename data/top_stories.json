@@ -1,13 +1,79 @@
 {
   "meta": {
-    "generatedAt": "2026-04-03T08:01:28.779Z",
+    "generatedAt": "2026-04-03T19:36:42.794Z",
     "totalCandidates": 114,
-    "solanaCandidates": 29,
+    "solanaCandidates": 28,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://cryptoslate.com/circle-usdc-drift-hack-freeze-controversy",
+      "title": "Circle under fire as $230M in stolen USDC flows unblocked days after freezing legitimate accounts",
+      "url": "https://cryptoslate.com/circle-usdc-drift-hack-freeze-controversy",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-03T17:05:12.000Z",
+      "summary": "Stablecoin issuer Circle is facing mounting scrutiny from blockchain researchers after millions of USD Coin (USDC) were stolen and flowed unimpeded through its proprietary bridge during the $285 million exploit of the Solana-based Drift Protocol. The inaction during the April 1 attack, which is now ",
+      "tags": [
+        "circle",
+        "under",
+        "fire"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 9,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "d2591fa5e69a5a1698b78a4d23d8edf6794f2e48",
+      "score": 21
+    },
+    {
+      "id": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit",
+      "title": "'We Are Ready to Speak': Drift Beckons North Korea-Linked Hackers Following $285M Exploit",
+      "url": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-03T16:34:12.000Z",
+      "summary": "The Solana-based project reached out to wallets holding stolen funds on Ethereum.",
+      "tags": [
+        "ready",
+        "speak",
+        "drift"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b1bcd3cb0e4f4d7938d13388eba40913d599de45",
+      "score": 21
+    },
     {
       "id": "https://www.coindesk.com/policy/2026/04/02/crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stablecoin-yield-compromise-this-week",
       "title": "Crypto market structure bill release pushed back as industries view revised stablecoin yield compromise this week",
@@ -33,78 +99,12 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "9873d04683bafffd201fe7d0b208ea1f51ce52b6",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/sofi-bets-on-solana-but-dex-volumes-hit-2024-low-of-55-5-billion",
-      "title": "SoFi bets on Solana, but DEX volumes hit 2024 low of $55.5 billion!",
-      "url": "https://ambcrypto.com/sofi-bets-on-solana-but-dex-volumes-hit-2024-low-of-55-5-billion",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-03T06:30:37.000Z",
-      "summary": "This push has come at a hard time for the network.",
-      "tags": [
-        "sofi",
-        "bets",
-        "solana"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "facff7266a20ad40a02503d953cf884c54dfb44f",
-      "score": 21
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/04/02/north-koreans-hackers-likely-behind-the-usd286-million-drift-protocol-exploit-elliptic",
-      "title": "North Koreans hackers likely behind $286 million Drift Protocol exploit: Elliptic",
-      "url": "https://www.coindesk.com/business/2026/04/02/north-koreans-hackers-likely-behind-the-usd286-million-drift-protocol-exploit-elliptic",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-02T14:50:44.000Z",
-      "summary": "The blockchain analytics firm pointed to cross-chain laundering patterns and Solana-specific tracing challenges that mirror prior North Korean state-linked operations.",
-      "tags": [
-        "north",
-        "koreans",
-        "hackers"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
         "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "efbf2aaac2a248912c895257955b419a7c53a8bb",
+      "dedupeFingerprint": "9873d04683bafffd201fe7d0b208ea1f51ce52b6",
       "score": 21
     },
     {
@@ -132,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "62f56e22675b42779754ab8e665d5a77c0c3e4d2",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://cointelegraph.com/news/stablecoin-supply-315b-q1-usdc-rises-usdt-declines",
-      "title": "Stablecoin supply reaches $315B in Q1 as USDC rises, USDT declines",
-      "url": "https://cointelegraph.com/news/stablecoin-supply-315b-q1-usdc-rises-usdt-declines",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-02T21:29:12.000Z",
-      "summary": "Stablecoins dominated crypto trading in Q1 as investors sought safety, while rising bot usage and declining retail flows pointed to shifting market dynamics, according to CEX.io.",
+      "id": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc",
+      "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
+      "url": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-03T19:02:51.000Z",
+      "summary": "Prominent blockchain sleuth ZachXBT alleged faster action by Circle could have limited crypto losses, but freezing asset without legal authorization carries legal risks.",
       "tags": [
-        "stablecoin",
-        "supply",
-        "reaches"
+        "circle",
+        "under",
+        "fire"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9b3a176b99ab4288ab8879def3c261e579f11ad0",
-      "score": 18
+      "dedupeFingerprint": "4c91b9d07ece71fc999846795b94d50b3f6f0f40",
+      "score": 19
     }
   ]
 }

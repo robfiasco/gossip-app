@@ -1,26 +1,26 @@
 {
   "date": "2026-04-03",
-  "generated_at_utc": "2026-04-03T08:01:38.449Z",
-  "ctxMarket": "Attention is focused on Solana’s DeFi security after a major exploit on Drift Protocol, alongside a notable dip in DEX trading volumes. Meanwhile, integrations like Polymarket’s use of Pyth price feeds are drawing interest to Solana’s data infrastructure.",
-  "ctxTalking": "• The $285 million Drift Protocol exploit and its link to Solana’s “durable nonces” feature\n• DEX volumes on Solana hitting a 2024 low, despite new institutional interest from SoFi\n• Polymarket expanding into equities and commodities using Pyth Network price feeds",
-  "ctxMatters": "Security concerns are resurfacing for Solana DeFi after the Drift exploit, with North Korean hackers suspected. Lower DEX volumes may impact liquidity and user engagement. Pyth’s adoption by Polymarket highlights Solana’s growing role in decentralized data for prediction markets.",
-  "ctxSignal": "Signal: The Drift exploit exposes risks in transaction design and protocol governance on Solana.\nNoise: Memecoin price spikes tied to April Fools’ pranks and tortoise rumors.",
-  "ctxGlossary": "Durable Nonces — A Solana feature allowing transactions to be pre-signed and executed later.\nPyth Network — A decentralized oracle providing real-time price data to blockchains.",
+  "generated_at_utc": "2026-04-03T19:36:51.602Z",
+  "ctxMarket": "Attention is focused on the $285 million exploit of Solana-based Drift Protocol and the subsequent handling of stolen USDC by Circle. Broader concerns about DeFi security and stablecoin issuer responses are dominating discussions.",
+  "ctxTalking": "• Circle’s delayed response to freezing stolen USDC after the Drift Protocol hack\n• Ongoing scrutiny of DeFi security practices following the large-scale exploit\n• Drift Protocol’s public outreach to wallets linked to the stolen funds",
+  "ctxMatters": "The incident highlights ongoing vulnerabilities in Solana DeFi protocols and the challenges stablecoin issuers face in responding to hacks. Circle’s actions are under review, raising questions about centralized control over stablecoins and legal risks in asset freezes. The situation may influence user trust and future protocol security measures.",
+  "ctxSignal": "Signal: The scale of the Drift exploit and the debate over Circle’s response time are driving real scrutiny of DeFi and stablecoin processes.\nNoise: Comparisons to unrelated past exploits without clear parallels.",
+  "ctxGlossary": "USDC — A widely used U.S. dollar-pegged stablecoin issued by Circle\nExploit — Unauthorized use of a protocol’s vulnerability to steal funds",
   "readMore": [
     {
-      "title": "SoFi bets on Solana, but DEX volumes hit 2024 low of $55.5 billion!",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/sofi-bets-on-solana-but-dex-volumes-hit-2024-low-of-55-5-billion"
+      "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc"
     },
     {
-      "title": "Polymarket expands into equities and commodities with Pyth price feeds",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/polymarket-expands-into-equities-and-commodities-with-pyth-price-feeds"
+      "title": "Circle under fire as $230M in stolen USDC flows unblocked days after freezing legitimate accounts",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/circle-usdc-drift-hack-freeze-controversy"
     },
     {
-      "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
+      "title": "'We Are Ready to Speak'",
       "source": "Decrypt",
-      "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security"
+      "url": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit"
     }
   ]
 }
