@@ -1,47 +1,37 @@
 {
-  "generated_at": "2026-04-02T14:37:10.881Z",
+  "generated_at": "2026-04-03T13:48:55.484Z",
   "global_metrics": {
-    "total_tweets": 81,
-    "total_engagement": 29551,
-    "unique_voices": 23,
-    "top_tweet": 3931
+    "total_tweets": 50,
+    "total_engagement": 16808,
+    "unique_voices": 15,
+    "top_tweet": 1852
   },
   "items": [
     {
-      "id": "story_1775140593052_0",
-      "title": "Solana Faces Security Scrutiny After $285M Drift Exploit",
+      "id": "story_1775224106621_0",
+      "title": "Solana’s User Growth and Institutional Moves Signal Maturity",
       "type": "critical",
       "category": "Security / Risk Alert",
-      "author": "@solana",
-      "timestamp": "2026-04-02T14:36:33.052Z",
+      "author": "@SolanaSensei",
+      "timestamp": "2026-04-03T13:48:26.621Z",
       "metrics": {
-        "tweets": 72,
-        "engagement": 27122,
-        "topTweet": 3931,
-        "voices": 17,
+        "tweets": 44,
+        "engagement": 15092,
+        "topTweet": 1852,
+        "voices": 11,
         "engagementTrend": [
-          10849,
-          14917,
-          18443,
-          22240,
-          27122
+          6037,
+          8300,
+          10262,
+          12375,
+          15092
         ]
       },
       "ctPulse": [
         {
-          "handle": "@solana",
-          "thought": "BREAKING: $SUI from @SuiNetwork is now live on Solana via @Sunrise_DeFi https://t.co/YqIw9WAKuE",
-          "url": "https://twitter.com/solana/status/2039343482326622528"
-        },
-        {
-          "handle": "@solana",
-          "thought": "BREAKING: SBI Holdings' B2C2 designates Solana as its primary network for institutional stablecoin settlement https://t.co/mTOh0V1jj9",
-          "url": "https://twitter.com/solana/status/2039319560688484707"
-        },
-        {
-          "handle": "@solanamobile",
-          "thought": "Seeker Season keeps cooking with @xplaceapp 💳\n\nSeekers get membership discounts, XP boosts, and more! \n\nPlus a 2.5% allocation in their upcoming airdrop.\n\nAvailable now on the Solana dApp Store. http",
-          "url": "https://twitter.com/solanamobile/status/2038649936342880259"
+          "handle": "@SolanaSensei",
+          "thought": "We just hit 250k followers!!!!\n\nI’ve spent over 5 years showing up and creating Solana content to get here.\n\nI tweeted every single day about Solana and life, regardless of how I felt, regardless of t",
+          "url": "https://twitter.com/SolanaSensei/status/2039690276068016459"
         },
         {
           "handle": "@SolanaSensei",
@@ -49,123 +39,65 @@
           "url": "https://twitter.com/SolanaSensei/status/2039644775121633429"
         },
         {
-          "handle": "@solana",
-          "thought": "BREAKING: @SoFi launches Big Business Banking on Solana\n\nA nationally chartered bank with 13.7M members and $50B+ in assets will leverage Solana for enterprise fiat and stablecoin banking https://t.co",
-          "url": "https://twitter.com/solana/status/2039675839428604146"
-        }
-      ],
-      "whoToFollow": [
-        {
-          "handle": "@zachxbt",
-          "reason": "Onchain investigator tracking exploits and bridge flows",
-          "role": "Analyst",
-          "engagement": 7216
-        },
-        {
-          "handle": "@FabianoSolana",
-          "reason": "Highlights protocol security setups and governance risks",
-          "role": "Analyst",
-          "engagement": 6064
-        }
-      ],
-      "content": {
-        "signal": "A major exploit drained $285M from Drift Protocol, exposing governance and bridge risks as Solana expands cross-chain assets like SUI.",
-        "story": "Solana's DeFi ecosystem is under the microscope after a $285 million exploit hit Drift Protocol, one of its largest trading platforms. This incident comes just as new cross-chain integrations, such as SUI assets arriving on Solana via Sunrise DeFi, are being celebrated as signs of growth and interoperability. The timing has prompted renewed scrutiny of security practices across Solana protocols and the broader implications for users and builders.  \n\n### What's Happening\n\nDrift Protocol suffered a massive exploit, with onchain data confirming the attacker bridged nearly all stolen assets from Solana to Ethereum, ultimately holding around 130,000 ETH. Investigations revealed that Drift's multisig setup was only 2-of-5 with no timelock, a configuration that left the protocol vulnerable. Other Solana DeFi protocols have since been checked for similar risks, with varying degrees of multisig security and timelock protections.  \n\nMeanwhile, Solana continues to attract new assets and institutional attention. SUI, the native token of Sui Network, is now live on Solana through Sunrise DeFi, expanding the network's cross-chain capabilities. At the same time, major financial players like SBI Holdings' B2C2 and SoFi are designating Solana as a primary network for stablecoin settlement and enterprise banking, signaling growing confidence in the chain's infrastructure.  \n\n### Why It Matters\n\nThe Drift exploit is a stark reminder that rapid ecosystem growth can outpace security best practices. As Solana integrates more assets and attracts institutional flows, the stakes for robust governance and risk management rise sharply. The exploit also exposed gaps in monitoring and response: USDC issuer Circle was criticized for failing to intervene as millions in bridged funds moved off Solana for hours.  \n\nCross-chain bridges, like those used in the Drift exploit and for onboarding SUI, remain a persistent attack vector. Each new integration increases complexity and potential risk, especially if protocols lack adequate multisig protections or timelocks. The incident has triggered a wave of self-audits among Solana DeFi teams, but it also raises questions about the readiness of the ecosystem for mainstream adoption.  \n\n### The Risk or Debate\n\nThe core debate centers on whether Solana protocols are prioritizing speed and composability over security. The Drift case highlights how insufficient multisig setups and missing timelocks can leave even major platforms exposed. There is also concern about the effectiveness of bridge monitoring and the responsibilities of stablecoin issuers during active exploits.  \n\nWith more protocols and assets coming to Solana, the risk of similar exploits may increase unless governance standards improve. The community is now watching how teams respond—whether by upgrading multisig requirements, adding timelocks, or improving incident response coordination.  \n\n### What To Watch\n\nExpect continued audits and public disclosures from Solana DeFi projects about their multisig and security practices. Watch for updates from Circle and other stablecoin issuers on how they plan to monitor and potentially intervene in suspicious cross-chain activity. The integration of SUI and other assets will test the resilience of Solana's bridge infrastructure. Institutional adoption may hinge on how quickly and transparently the ecosystem addresses these security gaps.",
-        "takeaways": [
-          "Drift Protocol lost $285M due to a weak multisig setup with no timelock.",
-          "Solana is expanding cross-chain assets like SUI and attracting institutional settlement flows.",
-          "Security practices and bridge monitoring are under scrutiny as the ecosystem grows."
-        ]
-      },
-      "riskLevel": "critical",
-      "narrativeStrength": 9.5
-    },
-    {
-      "id": "story_1775140616758_1",
-      "title": "Jupiter Doubles Referral Rewards, Ignites Wallet Fee Debate",
-      "type": "alpha",
-      "category": "Mobile / Seeker",
-      "author": "@SolanaSensei",
-      "timestamp": "2026-04-02T14:36:56.758Z",
-      "metrics": {
-        "tweets": 4,
-        "engagement": 1356,
-        "topTweet": 635,
-        "voices": 4,
-        "engagementTrend": [
-          542,
-          746,
-          922,
-          1112,
-          1356
-        ]
-      },
-      "ctPulse": [
-        {
           "handle": "@SolanaSensei",
-          "thought": "🚨 Jupiter just doubled their referral rewards\n\n- Refer a friend = you get $50 USDC\n- They join = they earn $200 USDC\n\nThis will be live for 7 days...\n\nAfter signing up, your friend has 30 days to rea",
-          "url": "https://twitter.com/SolanaSensei/status/2038984425896325477"
+          "thought": "I received an unexpected call today.\n\nOne of my girlfriend’s besties was filming a vlog with a content creator in Spain, and while they were talking, the guy casually mentioned that he started his spi",
+          "url": "https://twitter.com/SolanaSensei/status/2039744486478360625"
         },
         {
-          "handle": "@jussy_world",
-          "thought": "Wallets are competing for fees\n\nHere’s every walllet starting from 0% to 0.9% fees:👇\n\n(You basicly can pay $100 for $10k swap if you use wrong wallet)\n\n0%\nBackpack\nAvici\nUniswap\n\n0 – 0.5%\nBybit Walle",
-          "url": "https://twitter.com/jussy_world/status/2039375634355658988"
+          "handle": "@solana_daily",
+          "thought": "Trending Solana x402 Tokens in the Last 30 Days 🌟\n\n🔸WURK ⭢ @WURKDOTFUN\n🔸SYRA⭢ @syra_agent\n🔸XONA ⭢ @xona_agent\n🔸AMIKO ⭢ @Hey_Amiko\n🔸ACE ⭢ @acedatacloud\n🔸ZAUTH⭢ @zauthinc\n🔸DREAMS ⭢ @daydreamsage",
+          "url": "https://twitter.com/solana_daily/status/2039366169686339762"
         },
         {
-          "handle": "@FabianoSolana",
-          "thought": "game is game\n\nbut phantom makes close to $1M every week from in-wallet swaps\n\n80-90% is routed through Jupiter \n\nmeans phantom makes $800K/month by using free Jupiter API and add some fees \n\nI know Ju",
-          "url": "https://twitter.com/FabianoSolana/status/2039017287366135855"
-        },
-        {
-          "handle": "@solana",
-          "thought": "RT @JupiterExchange: New in Jupiter Desktop Wallet: \n\nHover over any token ticker on Twitter, Google or Claude and its price chart pops up…",
-          "url": "https://twitter.com/solana/status/2039380053394342218"
+          "handle": "@vibhu",
+          "thought": "Solana surpassed 500 billion total transactions a week ago and nobody noticed\n\nEthereum + Bitcoin + BNB Chain + Tron + Polygon + Base + NEAR + Sui + Arbitrum + Aptos + TON + Avalanche + Optimism: 62.1",
+          "url": "https://twitter.com/vibhu/status/2039821346780180890"
         }
       ],
       "whoToFollow": [
         {
           "handle": "@SolanaSensei",
-          "reason": "Shares timely updates and insights on Solana ecosystem developments.",
+          "reason": "Key community voice driving Solana engagement and sentiment.",
           "role": "Community",
-          "engagement": 635
+          "engagement": 7324
         },
         {
-          "handle": "@FabianoSolana",
-          "reason": "Analyzes wallet economics and value flows within Solana DeFi.",
+          "handle": "@solana_daily",
+          "reason": "Consistent updates on ecosystem trends and new projects.",
           "role": "Analyst",
-          "engagement": 288
+          "engagement": 3021
         }
       ],
       "content": {
-        "signal": "Jupiter has doubled its referral rewards for a limited time, intensifying competition among Solana wallets and spotlighting fee structures and user incentives.",
-        "story": "Jupiter, a leading Solana-based aggregator, has just doubled its referral rewards: users now earn $50 USDC for each successful referral, while new users can claim $200 USDC after meeting specific spending milestones. This promotion is live for seven days, with referred users given 30 days to reach $100 and $1,000 in qualified spending to unlock their bonus. The move comes as competition heats up among Solana wallets, with fee structures under increasing scrutiny.\n\n### What's Happening\nJupiter’s new referral program is a clear push to drive user growth and engagement. The reward structure is straightforward but generous, especially compared to typical crypto referral schemes. At the same time, wallet providers across Solana are competing on swap fees, with some charging as little as 0% and others reaching as high as 2–5% depending on the wallet and route. Jupiter’s own mobile wallet offers dynamic fees, often lower than many competitors.\n\nThis fee competition is not just about user savings—it’s also about who controls the flow of swaps and, by extension, the lucrative fee revenue. For example, Phantom, one of the most popular Solana wallets, reportedly earns close to $1 million per week from in-wallet swaps, with 80–90% of that routed through Jupiter’s backend. This arrangement means Phantom profits by layering fees on top of Jupiter’s free API, raising questions about the long-term incentives for aggregators versus wallet frontends.\n\n### Why It Matters\nJupiter’s aggressive referral campaign signals a strategic effort to capture more direct users and not just serve as invisible infrastructure for other wallets. By incentivizing both referrers and new users, Jupiter is trying to shift user behavior and loyalty from wallet interfaces to its own ecosystem. This could reshape how value accrues in the Solana DeFi stack, especially if users become more fee-conscious.\n\nThe broader context is a race to the bottom on swap fees. Wallets like Backpack and Avici offer 0% fees, while others like Exodus and Atomic Wallet can charge much more. For active traders and new users alike, these differences can add up quickly—potentially costing $100 or more on a $10,000 swap if the wrong wallet is chosen. As users become more aware of these costs, wallet providers may be forced to justify their fees or risk losing market share.\n\n### The Risk or Debate\nThere’s an open question about sustainability. Referral programs with high payouts can attract opportunistic users who game the system, potentially leading to inflated metrics without lasting engagement. Meanwhile, the reliance on backend aggregators like Jupiter raises questions about who ultimately captures value in the ecosystem. Wallets can profit handsomely by adding fees on top of free routing, while aggregators bear the cost of infrastructure and liquidity.\n\nAnother risk is user confusion. With fee structures varying widely and sometimes hidden, less experienced users may end up paying more than necessary. This could erode trust if users feel misled or discover they’ve overpaid compared to other wallets.\n\n### What To Watch\nWatch for changes in user behavior as the referral campaign unfolds—will Jupiter see a meaningful uptick in direct users, or will wallets continue to dominate the user relationship? Also, keep an eye on how wallet providers respond: will they lower fees, improve transparency, or launch their own incentives?\n\nFinally, the debate over value capture between aggregators and wallet frontends is far from settled. As fee competition intensifies, expect more scrutiny on who profits—and how sustainable these business models really are.",
+        "signal": "Solana is seeing rapid user growth, major institutional adoption, and record on-chain activity, but questions remain about long-term resilience and ecosystem risks.",
+        "story": "Solana’s ecosystem is experiencing a surge in both user activity and institutional engagement. The network just surpassed 500 billion total transactions, and community figures like Solana Sensei are celebrating milestones such as reaching 250,000 followers. Meanwhile, major financial players—including a nationally chartered bank with millions of members—are launching business banking and stablecoin operations directly on Solana. These developments point to a maturing ecosystem that is attracting both retail and enterprise attention.\n\n### What's Happening\nSolana’s on-chain activity now dwarfs that of other major blockchains, with over 12 million active users—nearly matching the combined user base of all other Layer 1s. Transaction costs remain extremely low, making the network attractive for both high-frequency trading and everyday use. Recent weeks have seen a wave of new projects and tokens trending within the Solana ecosystem, while large-scale SOL staking activity suggests growing confidence among major holders.\n\nInstitutional adoption is accelerating. SoFi, a major US bank, has chosen Solana for its new business banking platform, leveraging the network for both fiat and stablecoin operations. SBI Holdings’ B2C2 has also designated Solana as its primary network for institutional stablecoin settlement. These moves signal that Solana is being taken seriously by traditional finance, not just crypto-native projects.\n\n### Why It Matters\nThe combination of high throughput, low fees, and a full-stack ecosystem is positioning Solana as a leading smart contract platform. Its ability to attract both retail users and institutional partners demonstrates a level of versatility and scalability that few competitors can match. The influx of new users and projects is driving liquidity and innovation across DeFi, NFTs, and emerging sectors like real-world assets and on-chain stocks.\n\nSolana’s growing cultural presence—evidenced by influential community figures and viral content—helps reinforce user conviction, even through periods of market volatility. The network’s momentum is reflected not just in technical metrics, but in the expanding reach and engagement of its advocates.\n\n### The Risk or Debate\nDespite these strengths, Solana’s rapid growth brings challenges. High user activity and institutional adoption increase the stakes for network reliability and security. Outages or technical failures could have outsized impact given the scale of current operations. There is also ongoing debate about the sustainability of low transaction fees and whether the network can maintain performance under even heavier loads.\n\nThe ecosystem’s reliance on a few high-profile projects and personalities could also pose risks if sentiment shifts or if key players disengage. Finally, as more traditional finance entities build on Solana, regulatory scrutiny is likely to intensify, potentially affecting both infrastructure providers and end users.\n\n### What To Watch\nKey areas to monitor include the continued rollout of institutional products on Solana, especially from large banks and trading firms. Watch for further growth in active users and transaction volumes, as well as any network performance issues that may arise. The evolution of trending tokens and new project launches will indicate whether Solana can sustain its innovation pace. Finally, keep an eye on regulatory developments and how they may shape the ecosystem’s next phase.",
         "takeaways": [
-          "Jupiter doubled its referral rewards, offering $50 to referrers and $200 to new users for a limited time.",
-          "Solana wallets vary widely in swap fees, with some charging 0% and others up to 5%, impacting user costs.",
-          "Wallets like Phantom profit by routing swaps through Jupiter and adding fees, raising questions about value capture."
+          "Solana’s active user base is nearly half of all Layer 1 blockchain users.",
+          "Major institutions like SoFi and SBI Holdings are building on Solana.",
+          "Network reliability and regulatory scrutiny are growing concerns as adoption accelerates."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 4.9
+      "narrativeStrength": 8.8
     },
     {
-      "id": "story_1775140630880_2",
-      "title": "Meteora Hits Record DEX Volume Driven by Agent Activity",
+      "id": "story_1775224123492_1",
+      "title": "Meteora Breaks DEX Volume Record Driven by Agent Activity",
       "type": "alpha",
       "category": "AI / Agents",
       "author": "@SolanaSensei",
-      "timestamp": "2026-04-02T14:37:10.880Z",
+      "timestamp": "2026-04-03T13:48:43.492Z",
       "metrics": {
         "tweets": 5,
-        "engagement": 1073,
-        "topTweet": 390,
-        "voices": 2,
+        "engagement": 1212,
+        "topTweet": 415,
+        "voices": 3,
         "engagementTrend": [
-          429,
-          590,
-          730,
-          880,
-          1073
+          485,
+          666,
+          824,
+          993,
+          1212
         ]
       },
       "ctPulse": [
@@ -190,36 +122,89 @@
           "url": "https://twitter.com/0xyunss/status/2039328873968734241"
         },
         {
-          "handle": "@0xyunss",
-          "thought": "anime-sol, 43.78%. this is the tight bid-ask flip wide strat and it's one of my favorite plays on a strong runner.\n\nthe setup has two phases.\n\nphase 1: tight bid-ask. you need a strong runner with hug",
-          "url": "https://twitter.com/0xyunss/status/2038945881890701491"
+          "handle": "@met_lparmy",
+          "thought": "Tiago shares what's going on on @MeteoraFR  \n\n“The French community is cooking at the moment. Like, we I think we have a huge community now. We've been mainly on the discord. It's called the diggers. ",
+          "url": "https://twitter.com/met_lparmy/status/2039932988037689360"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@SolanaSensei",
-          "reason": "Shares real-time Solana DEX analytics and ecosystem trends.",
-          "role": "Analyst",
-          "engagement": 683
+          "handle": "@0xyunss",
+          "reason": "Shares insights and strategies on agent frameworks and LPing in Meteora.",
+          "role": "Builder",
+          "engagement": 725
         },
         {
-          "handle": "@0xyunss",
-          "reason": "Active builder and educator on agent frameworks and DLMM strategies.",
-          "role": "Builder",
-          "engagement": 390
+          "handle": "@met_lparmy",
+          "reason": "Highlights community dynamics and educational resources for Meteora users.",
+          "role": "Community",
+          "engagement": 415
         }
       ],
       "content": {
-        "signal": "Meteora set a new single-day DEX volume record of $1.7B, fueled by agent-driven trading strategies.",
-        "story": "Meteora, a Solana-based DEX, just posted its highest-ever single-day trading volume, reaching $1.7 billion on Monday. This spike shattered its previous record of $550 million set in January, with most of Q1 averaging well below $300 million daily. The surge is widely attributed to a combination of viral trading narratives and the influence of agent-based strategies, particularly during the 'Memescope Monday' event.\\n\\n### What's Happening\\n\\nThe volume explosion on Meteora was not a random outlier. It was driven by a surge in activity from sophisticated liquidity providers using agent frameworks like Meridian. These agents automate liquidity management and trading strategies, allowing users to capitalize on short-term opportunities in pools with high volume and low total value locked (TVL).\\n\\nTraders reported running multiple strategies on different tokens, leveraging the unique dynamics of Meteora’s DLMM (Dynamic Liquidity Market Maker) pools. The most successful approaches combined tight bid-ask spreads with high-volume, low-fee pools, and were executed by users who deeply understood both the protocol and their own risk preferences.\\n\\n### Why It Matters\\n\\nThis event highlights the growing impact of agent-driven trading in Solana’s DeFi ecosystem. Automated agents are lowering the barrier for sophisticated strategies, but they still require users to understand the underlying mechanics—especially DLMMs—to be consistently profitable. The volume spike suggests that when narratives align and technical setups are favorable, agent activity can dramatically amplify DEX throughput.\\n\\nFor Meteora, this surge showcases its ability to handle high-frequency, high-volume trading without major issues, reinforcing Solana’s reputation for scalable DeFi infrastructure. It also signals a shift: the edge is no longer just in the framework, but in how users customize and steer their agents based on personal strategy and market context.\\n\\n### The Risk or Debate\\n\\nThe main risk is that agent-driven volume can be volatile and narrative-dependent. If users deploy agents without understanding DLMM mechanics, they risk losses—automated tools are only as effective as the strategies behind them. There’s also the potential for sudden liquidity imbalances or fee spikes if too many agents crowd into the same pools or strategies.\\n\\nAnother concern is sustainability. If volume is mostly driven by short-term farming or viral events, it may not translate into long-term growth or healthy liquidity. The learning curve for running agents effectively remains steep, which could limit broader adoption.\\n\\n### What To Watch\\n\\nWatch for continued innovation in agent frameworks and whether more users can bridge the knowledge gap to run them profitably. Sustained high volume on Meteora would suggest a structural shift, while a quick return to lower averages might indicate the spike was event-driven.\\n\\nKeep an eye on how Meteora and similar DEXs adapt their fee structures and pool incentives to manage agent-driven flows. The next test will be whether these tools can deliver consistent results outside of meme-driven surges and viral trading days.",
+        "signal": "Meteora hit a record $1.7B in daily DEX volume, fueled by agent-driven trading and community engagement.",
+        "story": "Meteora, a Solana-based DEX, saw its highest single-day trading volume on Monday, topping $1.7 billion—more than triple its previous record from January. This surge was largely attributed to 'Memescope Monday,' a community-driven event that catalyzed activity well beyond the platform’s typical daily average of under $300 million for Q1.\n\n### What's Happening\nThe spike in volume reflects a convergence of community momentum and sophisticated trading strategies using agents—automated frameworks that execute liquidity and trading logic on behalf of users. Notably, the Meridian agent framework has gained traction among experienced liquidity providers (LPs), enabling them to translate their personal strategies and preferences into programmable actions within Meteora’s Dynamic Liquidity Market Maker (DLMM) pools. This has made agent-driven trading more accessible, but the edge remains with users who deeply understand the underlying mechanics.\n\nCommunity engagement, especially from the French-speaking 'Diggers' Discord, has also played a significant role. These grassroots groups are not only driving volume but also sharing strategies and fostering a collaborative environment for both new and seasoned LPs. The interplay between agent frameworks and active communities is accelerating learning curves and amplifying market activity.\n\n### Why It Matters\nThis record-setting volume signals a maturing ecosystem where advanced tools like agents are no longer reserved for quants or insiders. Instead, frameworks such as Meridian are lowering the barrier for sophisticated liquidity provision, provided users invest time to understand DLMM mechanics. This democratization could lead to more efficient markets and higher participation, especially as community knowledge compounds.\n\nThe event also highlights how narrative-driven trading—like Memescope Monday—can rapidly mobilize liquidity and attention. When combined with low TVL pools and attractive fee structures, these surges create unique opportunities for those who can act quickly and strategically. The feedback loop between community narratives, agent deployment, and platform metrics is becoming a defining feature of Solana’s DeFi landscape.\n\n### The Risk or Debate\nDespite the upside, there are clear risks. Agent frameworks like Meridian are powerful but not plug-and-play profit machines. Users without a strong grasp of DLMM dynamics risk losses, as the real advantage comes from tailoring agents to personal strategies and market conditions. There’s also the potential for volume spikes to be short-lived if driven primarily by events or coordinated trading, rather than sustainable organic growth.\n\nAdditionally, as more users deploy similar strategies, edge may erode and competition for yield could intensify. The rapid influx of new participants, especially those following community narratives without adequate preparation, could lead to missteps or increased volatility in certain pools.\n\n### What To Watch\nKey developments to monitor include whether this volume spike marks a new baseline or a one-off event. Watch for continued innovation in agent frameworks and educational resources that help users master DLMM mechanics. Community dynamics—especially in active Discords—will likely remain a leading indicator for future surges.\n\nAlso, keep an eye on how fee structures and pool compositions evolve in response to these volume shifts. If agent-driven trading continues to scale, expect further experimentation with strategies and possibly new tools that make advanced liquidity provision more accessible without sacrificing nuance.",
         "takeaways": [
-          "Meteora hit a record $1.7B in daily DEX volume, far above previous highs.",
-          "Agent-driven trading strategies, especially using Meridian, played a key role in the surge.",
-          "Sustained success with agents requires deep understanding of DLMM mechanics and pool dynamics."
+          "Meteora set a new daily DEX volume record at $1.7B, driven by agent activity and community events.",
+          "Agent frameworks like Meridian empower experienced LPs but require deep understanding of DLMM mechanics.",
+          "Community engagement, especially via Discord, is amplifying both learning and trading activity on Meteora."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 4.6
+      "narrativeStrength": 4.8
+    },
+    {
+      "id": "story_1775224135484_2",
+      "title": "Interactive Brokers Opens Crypto Trading to Europe",
+      "type": "alpha",
+      "category": "Ecosystem Updates",
+      "author": "@solana_daily",
+      "timestamp": "2026-04-03T13:48:55.484Z",
+      "metrics": {
+        "tweets": 1,
+        "engagement": 504,
+        "topTweet": 504,
+        "voices": 1,
+        "engagementTrend": [
+          202,
+          277,
+          343,
+          413,
+          504
+        ]
+      },
+      "ctPulse": [
+        {
+          "handle": "@solana_daily",
+          "thought": "🚨 Interactive Brokers (@IBKR), one of the world's largest brokers, launches crypto trading for 450M people across Europe, including $SOL. https://t.co/mOvB1kVSxd",
+          "url": "https://twitter.com/solana_daily/status/2038995679130083685"
+        }
+      ],
+      "whoToFollow": [
+        {
+          "handle": "@solana",
+          "reason": "Official source for Solana ecosystem updates.",
+          "role": "Community",
+          "engagement": 504
+        },
+        {
+          "handle": "@IBKR",
+          "reason": "Official account for Interactive Brokers, providing updates on platform features.",
+          "role": "Community",
+          "engagement": 0
+        }
+      ],
+      "content": {
+        "signal": "Interactive Brokers has launched crypto trading, including Solana (SOL), for its European clients.",
+        "story": "Interactive Brokers, a major global brokerage platform, has rolled out crypto trading services for clients across Europe. This move includes support for Solana (SOL), putting the asset alongside other major cryptocurrencies now accessible to a reported 450 million people in the region. The integration marks a significant step for both Interactive Brokers and the broader Solana ecosystem, as it brings digital assets closer to traditional finance users.\n\n### What's Happening\nInteractive Brokers is now offering its European clients the ability to trade cryptocurrencies, with Solana among the supported assets. The platform is known for its reach among retail and institutional investors, and this expansion means a large new audience can access crypto markets through a familiar, regulated interface. The inclusion of SOL is notable, as it signals growing recognition of Solana as a core asset alongside more established cryptocurrencies.\n\nThis rollout is part of a broader trend of traditional financial institutions integrating crypto trading into their platforms. By enabling direct access to digital assets, Interactive Brokers is lowering the barrier for European investors who may have previously hesitated due to unfamiliarity with crypto-native exchanges or concerns about security and regulation.\n\n### Why It Matters\nThe move is a strong signal of mainstream adoption for both crypto broadly and Solana specifically. Interactive Brokers’ client base includes sophisticated investors who may now consider adding SOL to their portfolios. This could drive new liquidity and visibility for Solana, especially among users who have not previously engaged with decentralized finance or crypto-native platforms.\n\nFor the Solana ecosystem, being listed by a major brokerage helps legitimize the asset in the eyes of traditional finance. It also creates a new on-ramp for capital, potentially supporting further ecosystem growth. As more brokers and banks add crypto trading, the lines between traditional and digital assets continue to blur, making it easier for users to diversify across both worlds.\n\n### The Risk or Debate\nWhile the integration is a positive step, there are still open questions. Regulatory scrutiny of crypto remains high in Europe, and future policy changes could impact how these services operate. Additionally, Interactive Brokers’ crypto offering may be limited in terms of features compared to dedicated crypto exchanges—users may not have access to staking, DeFi, or advanced trading tools for SOL.\n\nThere’s also the risk that increased access through traditional brokers could concentrate trading activity in custodial environments, reducing the use of decentralized platforms. This could impact the ethos of self-custody and open finance that underpins much of the crypto movement.\n\n### What To Watch\nThe next phase will be seeing how much adoption this integration drives. Watch for data on trading volumes and user growth related to SOL and other supported assets. It will also be important to monitor any regulatory responses or changes in policy that could affect crypto trading in Europe.\n\nFurther, keep an eye on whether other major brokers follow suit, and if Interactive Brokers expands its crypto offerings to include more assets or features. The success of this rollout could set the tone for how traditional finance and crypto continue to converge.",
+        "takeaways": [
+          "Interactive Brokers has enabled crypto trading for European clients, including Solana.",
+          "This move broadens access to SOL through a regulated, traditional finance platform.",
+          "Potential regulatory changes and limited features compared to crypto-native platforms remain key risks."
+        ]
+      },
+      "riskLevel": "medium",
+      "narrativeStrength": 3.9
     }
   ]
 }
