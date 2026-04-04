@@ -1,24 +1,57 @@
 {
   "meta": {
-    "generatedAt": "2026-04-04T07:47:59.557Z",
+    "generatedAt": "2026-04-04T19:29:05.432Z",
     "totalCandidates": 115,
-    "solanaCandidates": 29,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-is-liquidity-the-real-fomo-signal-for-sol-this-cycle",
-      "title": "Solana – Is ‘liquidity’ the real FOMO signal for SOL this cycle?",
-      "url": "https://ambcrypto.com/solana-is-liquidity-the-real-fomo-signal-for-sol-this-cycle",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-03T21:00:37.000Z",
-      "summary": "From staked SOL to on-chain usage - How growing USDC flows are shaping SOL’s potential rebound!",
+      "id": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
+      "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
+      "url": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-04T12:00:00.000Z",
+      "summary": "While Bitcoin developers scramble to find a solution and Ethereum prepares for 'Q-day,' Solana is trying to get ahead of that scenario.",
       "tags": [
         "solana",
-        "liquidity",
-        "real"
+        "quantum",
+        "threat"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "791ac394208944ae23bd4a771b5a0e95c0494e0b",
+      "score": 22
+    },
+    {
+      "id": "https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b",
+      "title": "Solana Sets Monthly Record as Stablecoin Volume Hits $650B",
+      "url": "https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b",
+      "source": "CryptoPotato",
+      "publishedAt": "2026-04-01T21:12:28.000Z",
+      "summary": "Despite Solana's record-breaking February, Ethereum still leads in cumulative stablecoin transaction volume at around $52 trillion.",
+      "tags": [
+        "solana",
+        "sets",
+        "monthly"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,15 +64,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 18,
+        "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
+        "recencyScore": 5,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5759effef31a29f60e1b78fca5b1a8cc447c14e5",
-      "score": 29
+      "dedupeFingerprint": "923a85322f9a119ab24b68e277443afe1834750b",
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/policy/2026/04/02/crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stablecoin-yield-compromise-this-week",
@@ -66,25 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9873d04683bafffd201fe7d0b208ea1f51ce52b6",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "https://www.theblock.co/post/396200/polymarket-taps-pyth-network-to-resolve-new-us-equity-and-commodity-markets",
-      "title": "Polymarket taps Pyth Network to resolve new US equity and commodity markets",
-      "url": "https://www.theblock.co/post/396200/polymarket-taps-pyth-network-to-resolve-new-us-equity-and-commodity-markets",
+      "id": "https://www.theblock.co/post/396264/alive-well-solana-memecoin-193-year-old-tortoise-jonathan-rallies-april-fools-prank",
+      "title": "‘Alive and well:’ Solana memecoin honoring 193-year-old tortoise Jonathan rallies following April Fools’ prank",
+      "url": "https://www.theblock.co/post/396264/alive-well-solana-memecoin-193-year-old-tortoise-jonathan-rallies-april-fools-prank",
       "source": "The Block",
-      "publishedAt": "2026-04-02T14:00:00.000Z",
-      "summary": "Polymarket has integrated Pyth Network to resolve daily markets on gold, crude, and more than a dozen U.S. equities.",
+      "publishedAt": "2026-04-02T17:21:45.000Z",
+      "summary": "The JONATHAN token, launched eight months ago, hit a high of approximately $0.00038 on April Fools' Day, in a single 1,400% candle.",
       "tags": [
-        "polymarket",
-        "taps",
-        "pyth"
+        "alive",
+        "well",
+        "solana"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -97,63 +130,30 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "62f56e22675b42779754ab8e665d5a77c0c3e4d2",
-      "score": 19
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc",
-      "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
-      "url": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-03T19:02:51.000Z",
-      "summary": "Prominent blockchain sleuth ZachXBT alleged faster action by Circle could have limited crypto losses, but freezing asset without legal authorization carries legal risks.",
-      "tags": [
-        "circle",
-        "under",
-        "fire"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 6,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "4c91b9d07ece71fc999846795b94d50b3f6f0f40",
-      "score": 18
+      "dedupeFingerprint": "04d4e6619af72f931db81d47dc0ad2c59e2d6ec0",
+      "score": 15
     },
     {
-      "id": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message",
-      "title": "Drift sends onchain message to wallets tied to $280M exploit",
-      "url": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-03T10:26:17.000Z",
-      "summary": "Drift Protocol initiated onchain contact with wallets tied to the $280 million exploit as an unknown sender also attempts to pressure the attacker.",
+      "id": "https://decrypt.co/363253/ethereum-foundation-stakes-93m-worth-of-eth-nears-strategic-target",
+      "title": "Ethereum Foundation Stakes $93M Worth of ETH, Nears Strategic Target",
+      "url": "https://decrypt.co/363253/ethereum-foundation-stakes-93m-worth-of-eth-nears-strategic-target",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-03T14:35:31.000Z",
+      "summary": "The deposits bring the Foundation close to its strategic staking target of 70,000 ETH, bolstering Ethereum’s proof-of-stake infrastructure.",
       "tags": [
-        "drift",
-        "sends",
-        "onchain"
+        "ethereum",
+        "foundation",
+        "stakes"
       ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": -3,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c89b04d4ad0dd3859343df0efceb0660f95c3153",
-      "score": 17
+      "dedupeFingerprint": "d23fc2de17a7ebf6b030e3b377465adbda5542a6",
+      "score": -2
     }
   ]
 }
