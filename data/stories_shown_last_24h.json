@@ -1,5 +1,82 @@
 [
   {
+    "id": "fd5e5bf158ffdb1938c660184c0aefee8b035b13",
+    "title": "Signal Board Summary 2026-04-04",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-04-04T07:48:07.279Z",
+    "lastSeenAt": "2026-04-04T07:48:07.279Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "5759effef31a29f60e1b78fca5b1a8cc447c14e5",
+    "title": "Solana – Is ‘liquidity’ the real FOMO signal for SOL this cycle?",
+    "url": "https://ambcrypto.com/solana-is-liquidity-the-real-fomo-signal-for-sol-this-cycle",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-04-04T07:47:59.728Z",
+    "lastSeenAt": "2026-04-04T07:47:59.728Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "liquidity",
+      "real",
+      "fomo",
+      "signal",
+      "this",
+      "cycle",
+      "from"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "4c91b9d07ece71fc999846795b94d50b3f6f0f40",
+    "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
+    "url": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-04-04T07:47:59.728Z",
+    "lastSeenAt": "2026-04-04T07:47:59.728Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "circle",
+      "under",
+      "fire",
+      "after",
+      "million",
+      "drift",
+      "hack",
+      "over"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "c89b04d4ad0dd3859343df0efceb0660f95c3153",
+    "title": "Drift sends onchain message to wallets tied to $280M exploit",
+    "url": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-04-04T07:47:59.726Z",
+    "lastSeenAt": "2026-04-04T07:47:59.726Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "drift",
+      "sends",
+      "onchain",
+      "message",
+      "wallets",
+      "tied",
+      "280m",
+      "exploit"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "82380db0af40e9562c1184a6b2b9ca217370e554",
     "title": "Blockchain sleuth ZachXBT accuses Circle of slow USDC freezes across more than $420 million in ‘illicit funds’",
     "url": "https://www.theblock.co/post/396296/blockchain-sleuth-zachxbt-accuses-circle-slow-usdc-freezes-420-million-illicit-funds",
@@ -121,69 +198,6 @@
       "million",
       "drift",
       "protocol"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "9b11da4b8f06b49477ec83cbbf7a0848be221b82",
-    "title": "Drift explains $280M exploit as critics question Circle over USDC freeze",
-    "url": "https://cointelegraph.com/news/drift-280-million-hack-questions-circle-response",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-04-02T19:48:46.278Z",
-    "lastSeenAt": "2026-04-02T19:48:46.278Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "drift",
-      "explains",
-      "280m",
-      "exploit",
-      "critics",
-      "question",
-      "circle",
-      "over"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "21e25784ba6086f75eb1295d5fd5b7dca770fac7",
-    "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
-    "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-04-02T19:48:46.277Z",
-    "lastSeenAt": "2026-04-02T19:48:46.277Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "drift",
-      "protocol",
-      "million",
-      "exploit",
-      "solana",
-      "raises",
-      "questions",
-      "over"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "2dbe3afcd2784e511790cf37a416f4ec08803170",
-    "title": "How a Solana feature designed for convenience let attackers drain more than $270 million from Drift",
-    "url": "https://www.coindesk.com/tech/2026/04/02/how-a-solana-feature-designed-for-convenience-let-an-attacker-drain-usd270-million-from-drift",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-04-02T19:48:46.277Z",
-    "lastSeenAt": "2026-04-02T19:48:46.277Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "feature",
-      "designed",
-      "convenience",
-      "attackers",
-      "drain",
-      "more",
-      "than"
     ],
     "majorUpdate": false,
     "updateReason": null

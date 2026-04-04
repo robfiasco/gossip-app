@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-04-03T19:36:42.794Z",
-    "totalCandidates": 114,
-    "solanaCandidates": 28,
+    "generatedAt": "2026-04-04T07:47:59.557Z",
+    "totalCandidates": 115,
+    "solanaCandidates": 29,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cryptoslate.com/circle-usdc-drift-hack-freeze-controversy",
-      "title": "Circle under fire as $230M in stolen USDC flows unblocked days after freezing legitimate accounts",
-      "url": "https://cryptoslate.com/circle-usdc-drift-hack-freeze-controversy",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-03T17:05:12.000Z",
-      "summary": "Stablecoin issuer Circle is facing mounting scrutiny from blockchain researchers after millions of USD Coin (USDC) were stolen and flowed unimpeded through its proprietary bridge during the $285 million exploit of the Solana-based Drift Protocol. The inaction during the April 1 attack, which is now ",
+      "id": "https://ambcrypto.com/solana-is-liquidity-the-real-fomo-signal-for-sol-this-cycle",
+      "title": "Solana – Is ‘liquidity’ the real FOMO signal for SOL this cycle?",
+      "url": "https://ambcrypto.com/solana-is-liquidity-the-real-fomo-signal-for-sol-this-cycle",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-03T21:00:37.000Z",
+      "summary": "From staked SOL to on-chain usage - How growing USDC flows are shaping SOL’s potential rebound!",
       "tags": [
-        "circle",
-        "under",
-        "fire"
+        "solana",
+        "liquidity",
+        "real"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,48 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 9,
+        "relevanceScore": 18,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d2591fa5e69a5a1698b78a4d23d8edf6794f2e48",
-      "score": 21
-    },
-    {
-      "id": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit",
-      "title": "'We Are Ready to Speak': Drift Beckons North Korea-Linked Hackers Following $285M Exploit",
-      "url": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-03T16:34:12.000Z",
-      "summary": "The Solana-based project reached out to wallets holding stolen funds on Ethereum.",
-      "tags": [
-        "ready",
-        "speak",
-        "drift"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "b1bcd3cb0e4f4d7938d13388eba40913d599de45",
-      "score": 21
+      "dedupeFingerprint": "5759effef31a29f60e1b78fca5b1a8cc447c14e5",
+      "score": 29
     },
     {
       "id": "https://www.coindesk.com/policy/2026/04/02/crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stablecoin-yield-compromise-this-week",
@@ -99,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9873d04683bafffd201fe7d0b208ea1f51ce52b6",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://www.theblock.co/post/396200/polymarket-taps-pyth-network-to-resolve-new-us-equity-and-commodity-markets",
@@ -132,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "62f56e22675b42779754ab8e665d5a77c0c3e4d2",
-      "score": 20
+      "score": 19
     },
     {
       "id": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc",
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "4c91b9d07ece71fc999846795b94d50b3f6f0f40",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message",
+      "title": "Drift sends onchain message to wallets tied to $280M exploit",
+      "url": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-03T10:26:17.000Z",
+      "summary": "Drift Protocol initiated onchain contact with wallets tied to the $280 million exploit as an unknown sender also attempts to pressure the attacker.",
+      "tags": [
+        "drift",
+        "sends",
+        "onchain"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c89b04d4ad0dd3859343df0efceb0660f95c3153",
+      "score": 17
     }
   ]
 }

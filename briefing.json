@@ -1,34 +1,34 @@
 {
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
       "type": "RISK",
-      "title": "Circle under fire as $230M in stolen USDC flows unblocked days after freezing legitimate accounts",
+      "title": "Drift sends onchain message to wallets tied to $280M exploit",
       "category": "RISK",
-      "source": "CryptoSlate",
+      "source": "Cointelegraph",
       "date": "2026-04-03",
-      "url": "https://cryptoslate.com/circle-usdc-drift-hack-freeze-controversy",
-      "whyYouShouldCare": "The unblocking of stolen USDC raises concerns about security protocols, potentially impacting confidence in Solana's ecosystem and its liquidity."
+      "url": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message",
+      "whyYouShouldCare": "The $280 million exploit raises concerns about security in the Solana ecosystem, potentially impacting user trust and liquidity."
+    },
+    {
+      "type": "MARKET",
+      "title": "Solana – Is ‘liquidity’ the real FOMO signal for SOL this cycle?",
+      "category": "MARKET",
+      "source": "AMB Crypto",
+      "date": "2026-04-03",
+      "url": "https://ambcrypto.com/solana-is-liquidity-the-real-fomo-signal-for-sol-this-cycle",
+      "whyYouShouldCare": "Increased liquidity could signal heightened interest in SOL, influencing market dynamics and ecosystem growth during this cycle."
     },
     {
       "type": "RISK",
-      "title": "'We Are Ready to Speak': Drift Beckons North Korea-Linked Hackers Following $285M Exploit",
+      "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
       "category": "RISK",
-      "source": "Decrypt",
+      "source": "CoinDesk",
       "date": "2026-04-03",
-      "url": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit",
-      "whyYouShouldCare": "Drift's engagement with North Korea-linked hackers highlights ongoing security vulnerabilities, which could affect user trust and participation in Solana-based platforms."
-    },
-    {
-      "type": "RISK",
-      "title": "Blockchain sleuth ZachXBT accuses Circle of slow USDC freezes across more than $420 million in ‘illicit funds’",
-      "category": "RISK",
-      "source": "The Block",
-      "date": "2026-04-03",
-      "url": "https://www.theblock.co/post/396296/blockchain-sleuth-zachxbt-accuses-circle-slow-usdc-freezes-420-million-illicit-funds",
-      "whyYouShouldCare": "ZachXBT's claims about Circle's handling of illicit funds may lead to increased scrutiny on USDC's role in the Solana ecosystem, influencing its overall stability."
+      "url": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc",
+      "whyYouShouldCare": "Circle's delayed response to the Drift hack may affect confidence in USDC's stability, which could ripple through the Solana network."
     }
   ]
 }

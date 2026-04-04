@@ -1,5 +1,82 @@
 [
   {
+    "id": "fd5e5bf158ffdb1938c660184c0aefee8b035b13",
+    "title": "Signal Board Summary 2026-04-04",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-04-04T07:48:07.279Z",
+    "lastSeenAt": "2026-04-04T07:48:07.279Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "5759effef31a29f60e1b78fca5b1a8cc447c14e5",
+    "title": "Solana – Is ‘liquidity’ the real FOMO signal for SOL this cycle?",
+    "url": "https://ambcrypto.com/solana-is-liquidity-the-real-fomo-signal-for-sol-this-cycle",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-04-04T07:47:59.728Z",
+    "lastSeenAt": "2026-04-04T07:47:59.728Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "liquidity",
+      "real",
+      "fomo",
+      "signal",
+      "this",
+      "cycle",
+      "from"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "4c91b9d07ece71fc999846795b94d50b3f6f0f40",
+    "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
+    "url": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-04-04T07:47:59.728Z",
+    "lastSeenAt": "2026-04-04T07:47:59.728Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "circle",
+      "under",
+      "fire",
+      "after",
+      "million",
+      "drift",
+      "hack",
+      "over"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "c89b04d4ad0dd3859343df0efceb0660f95c3153",
+    "title": "Drift sends onchain message to wallets tied to $280M exploit",
+    "url": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-04-04T07:47:59.726Z",
+    "lastSeenAt": "2026-04-04T07:47:59.726Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "drift",
+      "sends",
+      "onchain",
+      "message",
+      "wallets",
+      "tied",
+      "280m",
+      "exploit"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "82380db0af40e9562c1184a6b2b9ca217370e554",
     "title": "Blockchain sleuth ZachXBT accuses Circle of slow USDC freezes across more than $420 million in ‘illicit funds’",
     "url": "https://www.theblock.co/post/396296/blockchain-sleuth-zachxbt-accuses-circle-slow-usdc-freezes-420-million-illicit-funds",
@@ -247,83 +324,6 @@
       "volume",
       "hits",
       "650b"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "c379d5cc3d9e0e5cfe01dec0f95dfa1291603487",
-    "title": "Signal Board Summary 2026-04-01",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-04-01T19:57:35.753Z",
-    "lastSeenAt": "2026-04-01T19:57:35.753Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "3490f5755e6081958e38e03e22bb4fee05f4eb22",
-    "title": "SBI Holdings’ B2C2 designates Solana as primary stablecoin network for institutional clients",
-    "url": "https://www.theblock.co/post/395985/b2c2-solana-institutional-stablecoin-network-sbi-holdings",
-    "source": "The Block",
-    "firstSeenAt": "2026-04-01T19:57:22.215Z",
-    "lastSeenAt": "2026-04-01T19:57:22.215Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "holdings",
-      "b2c2",
-      "designates",
-      "solana",
-      "primary",
-      "stablecoin",
-      "network",
-      "institutional"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "ce396c95f3943810614ca4089dbfd9295c0f4cec",
-    "title": "GalaxyOne launches Solana staking with 6.5% yield, zero fees through 2026",
-    "url": "https://ambcrypto.com/galaxyone-launches-solana-staking-with-6-5-yield-zero-fees-through-2026",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-04-01T19:57:22.215Z",
-    "lastSeenAt": "2026-04-01T19:57:22.215Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "galaxyone",
-      "launches",
-      "solana",
-      "staking",
-      "with",
-      "yield",
-      "zero",
-      "fees"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "815ddf745d5fae0bc46e805b8de703654f6a8a9e",
-    "title": "Solana DeFi platform Drift confirms 'active attack' as $200M+ leaves platform",
-    "url": "https://www.coindesk.com/tech/2026/04/01/solana-defi-platform-drift-investigates-suspicious-activity-tells-users-to-halt-deposits",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-04-01T19:57:22.215Z",
-    "lastSeenAt": "2026-04-01T19:57:22.215Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "defi",
-      "platform",
-      "drift",
-      "confirms",
-      "active",
-      "attack",
-      "200m"
     ],
     "majorUpdate": false,
     "updateReason": null
