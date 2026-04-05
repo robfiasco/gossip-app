@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "APPS",
-      "title": "Altcoins show strength, Solana draws capital – Is it 2023 all over again?",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-04-05",
-      "url": "https://ambcrypto.com/altcoins-show-strength-solana-draws-capital-is-it-2023-all-over-again",
-      "whyYouShouldCare": "Increased capital inflow into Solana suggests a potential resurgence in its ecosystem, which could enhance liquidity and usage metrics."
-    },
-    {
       "type": "RISK",
-      "title": "Circle under fire as $230M in stolen USDC flows unblocked days after freezing legitimate accounts",
-      "category": "RISK",
-      "source": "CryptoSlate",
-      "date": "2026-04-03",
-      "url": "https://cryptoslate.com/circle-usdc-drift-hack-freeze-controversy",
-      "whyYouShouldCare": "The unblocking of stolen USDC raises concerns about security and trust in stablecoins, which may impact Solana's DeFi projects relying on USDC liquidity."
-    },
-    {
-      "type": "RISK",
-      "title": "Blockchain sleuth ZachXBT accuses Circle of slow USDC freezes across more than $420 million in ‘illicit funds’",
+      "title": "Drift links $280 million exploit to six-month social engineering op run by suspected North Korean actors",
       "category": "RISK",
       "source": "The Block",
-      "date": "2026-04-03",
-      "url": "https://www.theblock.co/post/396296/blockchain-sleuth-zachxbt-accuses-circle-slow-usdc-freezes-420-million-illicit-funds",
-      "whyYouShouldCare": "Allegations against Circle regarding slow response to illicit fund freezes could undermine confidence in USDC, affecting its integration within Solana's financial applications."
+      "date": "2026-04-05",
+      "url": "https://www.theblock.co/post/396361/drift-links-280-million-exploit-to-six-month-social-engineering-op-run-by-suspected-north-korean-actors",
+      "whyYouShouldCare": "The $280 million exploit linked to North Korean actors highlights vulnerabilities in DeFi protocols, impacting investor confidence and SOL's ecosystem stability."
+    },
+    {
+      "type": "RISK",
+      "title": "Drift says $270 million exploit was a six-month North Korean intelligence operation",
+      "category": "RISK",
+      "source": "CoinDesk",
+      "date": "2026-04-05",
+      "url": "https://www.coindesk.com/markets/2026/04/05/drift-says-usd270-million-exploit-was-a-six-month-north-korean-intelligence-operation",
+      "whyYouShouldCare": "The revelation of a six-month intelligence operation targeting Drift underscores the need for enhanced security measures within the Solana ecosystem to protect liquidity."
+    },
+    {
+      "type": "RISK",
+      "title": "Drift Protocol $280M exploit took 'months of deliberate preparation'",
+      "category": "RISK",
+      "source": "Cointelegraph",
+      "date": "2026-04-05",
+      "url": "https://cointelegraph.com/news/drift-protocol-exploit-preparation-preliminary-findings",
+      "whyYouShouldCare": "The extensive preparation behind the Drift exploit raises concerns about the sophistication of threats facing DeFi projects on Solana, potentially affecting user engagement."
     }
   ]
 }

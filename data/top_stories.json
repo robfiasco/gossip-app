@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-04-05T07:54:13.074Z",
-    "totalCandidates": 114,
-    "solanaCandidates": 22,
+    "generatedAt": "2026-04-05T19:32:16.042Z",
+    "totalCandidates": 95,
+    "solanaCandidates": 20,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://ambcrypto.com/solanas-90-slowdown-is-quantum-safe-security-killing-sols-speed",
+      "title": "Solana’s 90% slowdown: Is quantum-safe security killing SOL’s speed?",
+      "url": "https://ambcrypto.com/solanas-90-slowdown-is-quantum-safe-security-killing-sols-speed",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-05T16:00:27.000Z",
+      "summary": "Solana’s speed advantage faces a critical test as quantum experiments expose a major security–scalability trade-off.",
+      "tags": [
+        "solana",
+        "slowdown",
+        "quantum"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5deef34ed8049398ac5f7e9943901edaee1b63b2",
+      "score": 24
+    },
     {
       "id": "https://ambcrypto.com/fdic-to-vote-on-bank-stablecoin-rules-ahead-of-genius-act-deadline-details",
       "title": "FDIC to vote on bank stablecoin rules ahead of GENIUS Act deadline – Details",
@@ -33,24 +66,24 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "80e6720a342a2794bff09faf29bb5bb0a319594b",
-      "score": 24
+      "score": 23
     },
     {
-      "id": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
-      "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
-      "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-02T19:04:39.000Z",
-      "summary": "A blockchain security expert compared Drift’s lapse in security to Ethereum network Ronin's $625 million loss in 2022.",
+      "id": "https://www.theblock.co/post/396361/drift-links-280-million-exploit-to-six-month-social-engineering-op-run-by-suspected-north-korean-actors",
+      "title": "Drift links $280 million exploit to six-month social engineering op run by suspected North Korean actors",
+      "url": "https://www.theblock.co/post/396361/drift-links-280-million-exploit-to-six-month-social-engineering-op-run-by-suspected-north-korean-actors",
+      "source": "The Block",
+      "publishedAt": "2026-04-05T16:05:42.000Z",
+      "summary": "With \"medium-high\" confidence, Drift and the SEAL 911 team assess the operation was run by the same North Korean actors behind the Radiant Capital hack.",
       "tags": [
         "drift",
-        "protocol",
+        "links",
         "million"
       ],
       "topicBucket": "general",
@@ -64,27 +97,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "21e25784ba6086f75eb1295d5fd5b7dca770fac7",
-      "score": 21
+      "dedupeFingerprint": "5111bdcbcbcd788e8a67665084844e92463f2b21",
+      "score": 22
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/04/02/crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stablecoin-yield-compromise-this-week",
-      "title": "Crypto market structure bill release pushed back as industries view revised stablecoin yield compromise this week",
-      "url": "https://www.coindesk.com/policy/2026/04/02/crypto-market-structure-bill-release-pushed-back-as-industries-view-revised-stablecoin-yield-compromise-this-week",
+      "id": "https://www.coindesk.com/business/2026/04/02/ant-group-s-blockchain-arm-unveils-platform-for-ai-agents-to-transact-on-crypto-rails",
+      "title": "Ant Group’s blockchain arm unveils platform for AI agents to transact on crypto rails",
+      "url": "https://www.coindesk.com/business/2026/04/02/ant-group-s-blockchain-arm-unveils-platform-for-ai-agents-to-transact-on-crypto-rails",
       "source": "CoinDesk",
-      "publishedAt": "2026-04-02T22:12:10.000Z",
-      "summary": "Crypto and banking industry representatives are viewing revised stablecoin yield compromise language this week.",
+      "publishedAt": "2026-04-05T12:00:00.000Z",
+      "summary": "Anvita includes tokenization services and a platform for agents to coordinate tasks and settle payments in real time using stablecoins.",
       "tags": [
-        "crypto",
-        "market",
-        "structure"
+        "group",
+        "blockchain",
+        "unveils"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -97,48 +130,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9873d04683bafffd201fe7d0b208ea1f51ce52b6",
-      "score": 18
-    },
-    {
-      "id": "https://ambcrypto.com/altcoins-show-strength-solana-draws-capital-is-it-2023-all-over-again",
-      "title": "Altcoins show strength, Solana draws capital – Is it 2023 all over again?",
-      "url": "https://ambcrypto.com/altcoins-show-strength-solana-draws-capital-is-it-2023-all-over-again",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-05T03:00:29.000Z",
-      "summary": "Which crypto could lead the next charge if altcoin season comes up?",
-      "tags": [
-        "altcoins",
-        "show",
-        "strength"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ef92af3ca2696542dc04b4713d202c5771c71dd9",
-      "score": 16
+      "dedupeFingerprint": "031057c8bac0f9f57797aa99054a312555dd0ca3",
+      "score": 17
     },
     {
       "id": "https://ambcrypto.com/195m-edgex-airdrop-under-fire-what-it-means-for-edge-prices",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "a17f34cec61b54c8d4dc8975d563815e4af9bfe9",
-      "score": 16
+      "score": 15
     }
   ]
 }

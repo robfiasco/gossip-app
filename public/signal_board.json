@@ -1,26 +1,26 @@
 {
   "date": "2026-04-05",
-  "generated_at_utc": "2026-04-05T07:54:20.596Z",
-  "ctxMarket": "Attention is focused on Solana after a major exploit and renewed capital inflows, with broader discussions about altcoin strength reminiscent of previous cycles. Security and protocol response are under scrutiny following the Drift Protocol hack.",
-  "ctxTalking": "• Solana’s handling of the $285 million Drift Protocol exploit and Circle’s response to freezing stolen USDC\n• Debate over Solana’s approach to quantum-resistant security versus network speed\n• Renewed speculation about altcoin leadership if another “alt season” emerges",
-  "ctxMatters": "The Drift exploit highlights ongoing challenges for DeFi security and the complexities of stablecoin issuer intervention. Solana’s proactive stance on quantum threats signals long-term planning but introduces tradeoffs. These issues may influence user trust, developer priorities, and capital allocation within the Solana ecosystem.",
-  "ctxSignal": "Signal: The Drift hack’s scale and the debate over Circle’s asset-freezing policies are shaping perceptions of risk and protocol accountability.\nNoise: Comparisons to past cycles without clear evidence of repeat patterns.",
-  "ctxGlossary": "Quantum-resistant — Technology designed to withstand attacks from quantum computers.\nUSDC — A widely used stablecoin issued by Circle, pegged to the US dollar.\nExploit — Unauthorized use of a protocol’s vulnerability to steal funds.",
+  "generated_at_utc": "2026-04-05T19:32:23.886Z",
+  "ctxMarket": "Attention is focused on the $280 million Drift Protocol exploit, reportedly linked to a sophisticated, months-long North Korean operation. There is also ongoing discussion about Solana’s recent speed slowdown as quantum-safe security measures are tested.",
+  "ctxTalking": "• Drift Protocol’s $280M exploit traced to North Korean actors using advanced social engineering\n• Solana’s network slowdown tied to quantum-resistant security upgrades and their impact on scalability\n• Debate over Circle’s response to freezing stolen USDC after the Drift hack",
+  "ctxMatters": "The Drift exploit highlights persistent security challenges for Solana-based protocols and the evolving tactics of threat actors. Solana’s push for quantum-safe security is surfacing trade-offs between speed and safety, which could affect user experience and developer priorities. The response of stablecoin issuers like Circle is drawing scrutiny regarding asset protection and legal boundaries.",
+  "ctxSignal": "Signal: Sophisticated, long-term social engineering is an emerging threat vector for DeFi on Solana.\nNoise: Speculation about a repeat of 2023’s altcoin rally lacks direct evidence in today’s context.",
+  "ctxGlossary": "Quantum-safe security — Cryptographic methods designed to resist attacks from quantum computers\nSocial engineering — Manipulating people to gain confidential information or access systems",
   "readMore": [
     {
-      "title": "Altcoins show strength, Solana draws capital – Is it 2023 all over again?",
+      "title": "Drift links $280 million exploit to six-month social engineering op run by suspected North Korean actors",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/396361/drift-links-280-million-exploit-to-six-month-social-engineering-op-run-by-suspected-north-korean-actors"
+    },
+    {
+      "title": "Solana’s 90% slowdown",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/altcoins-show-strength-solana-draws-capital-is-it-2023-all-over-again"
+      "url": "https://ambcrypto.com/solanas-90-slowdown-is-quantum-safe-security-killing-sols-speed"
     },
     {
-      "title": "Solana's quantum-threat readiness reveals harsh tradeoff",
+      "title": "Drift says $270 million exploit was a six-month North Korean intelligence operation",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed"
-    },
-    {
-      "title": "Circle under fire as $230M in stolen USDC flows unblocked days after freezing legitimate accounts",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/circle-usdc-drift-hack-freeze-controversy"
+      "url": "https://www.coindesk.com/markets/2026/04/05/drift-says-usd270-million-exploit-was-a-six-month-north-korean-intelligence-operation"
     }
   ]
 }
