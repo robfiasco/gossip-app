@@ -1,12 +1,17 @@
 {
-  "date": "2026-04-04",
-  "generated_at_utc": "2026-04-04T19:29:13.676Z",
-  "ctxMarket": "Attention is focused on Solana’s security posture after a major exploit on Drift Protocol and ongoing scrutiny of Circle’s handling of stolen USDC. Discussions are also emerging around Solana’s approach to quantum-resistance, highlighting tradeoffs between security and speed.",
-  "ctxTalking": "• The $285 million Drift Protocol exploit and the subsequent flow of stolen funds through Solana bridges\n• Criticism of Circle for delayed USDC freezes during major hacks, raising concerns about stablecoin issuer responsibilities\n• Solana’s proactive stance on quantum-threat readiness and its implications for network performance",
-  "ctxMatters": "Recent exploits have intensified debate over DeFi security practices on Solana. Circle’s response to hacks is under a microscope, affecting trust in stablecoin infrastructure. Solana’s quantum-readiness efforts signal long-term planning but may impact transaction speed, prompting discussion among developers and users.",
-  "ctxSignal": "Signal: Security vulnerabilities in DeFi protocols and stablecoin management are driving real scrutiny and potential changes.\nNoise: Memecoin price spikes tied to pranks or viral moments do not reflect broader network fundamentals.",
-  "ctxGlossary": "Quantum-threat — The risk that future quantum computers could break current cryptographic protections.\nUSDC — A widely used dollar-pegged stablecoin issued by Circle.",
+  "date": "2026-04-05",
+  "generated_at_utc": "2026-04-05T07:54:20.596Z",
+  "ctxMarket": "Attention is focused on Solana after a major exploit and renewed capital inflows, with broader discussions about altcoin strength reminiscent of previous cycles. Security and protocol response are under scrutiny following the Drift Protocol hack.",
+  "ctxTalking": "• Solana’s handling of the $285 million Drift Protocol exploit and Circle’s response to freezing stolen USDC\n• Debate over Solana’s approach to quantum-resistant security versus network speed\n• Renewed speculation about altcoin leadership if another “alt season” emerges",
+  "ctxMatters": "The Drift exploit highlights ongoing challenges for DeFi security and the complexities of stablecoin issuer intervention. Solana’s proactive stance on quantum threats signals long-term planning but introduces tradeoffs. These issues may influence user trust, developer priorities, and capital allocation within the Solana ecosystem.",
+  "ctxSignal": "Signal: The Drift hack’s scale and the debate over Circle’s asset-freezing policies are shaping perceptions of risk and protocol accountability.\nNoise: Comparisons to past cycles without clear evidence of repeat patterns.",
+  "ctxGlossary": "Quantum-resistant — Technology designed to withstand attacks from quantum computers.\nUSDC — A widely used stablecoin issued by Circle, pegged to the US dollar.\nExploit — Unauthorized use of a protocol’s vulnerability to steal funds.",
   "readMore": [
+    {
+      "title": "Altcoins show strength, Solana draws capital – Is it 2023 all over again?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/altcoins-show-strength-solana-draws-capital-is-it-2023-all-over-again"
+    },
     {
       "title": "Solana's quantum-threat readiness reveals harsh tradeoff",
       "source": "CoinDesk",
@@ -16,11 +21,6 @@
       "title": "Circle under fire as $230M in stolen USDC flows unblocked days after freezing legitimate accounts",
       "source": "CryptoSlate",
       "url": "https://cryptoslate.com/circle-usdc-drift-hack-freeze-controversy"
-    },
-    {
-      "title": "'We Are Ready to Speak'",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit"
     }
   ]
 }

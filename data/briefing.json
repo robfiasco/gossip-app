@@ -1,16 +1,16 @@
 {
-  "date": "2026-04-04",
+  "date": "2026-04-05",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "RISK",
-      "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
-      "category": "RISK",
-      "source": "CoinDesk",
-      "date": "2026-04-04",
-      "url": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
-      "whyYouShouldCare": "Solana's approach to balancing security and speed could impact its network's resilience and attractiveness to developers, influencing overall ecosystem growth."
+      "type": "APPS",
+      "title": "Altcoins show strength, Solana draws capital – Is it 2023 all over again?",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-04-05",
+      "url": "https://ambcrypto.com/altcoins-show-strength-solana-draws-capital-is-it-2023-all-over-again",
+      "whyYouShouldCare": "Increased capital inflow into Solana suggests a potential resurgence in its ecosystem, which could enhance liquidity and usage metrics."
     },
     {
       "type": "RISK",
@@ -19,16 +19,16 @@
       "source": "CryptoSlate",
       "date": "2026-04-03",
       "url": "https://cryptoslate.com/circle-usdc-drift-hack-freeze-controversy",
-      "whyYouShouldCare": "The unblocking of stolen USDC raises concerns about the security of stablecoins on Solana, potentially affecting user trust and liquidity in the ecosystem."
+      "whyYouShouldCare": "The unblocking of stolen USDC raises concerns about security and trust in stablecoins, which may impact Solana's DeFi projects relying on USDC liquidity."
     },
     {
       "type": "RISK",
-      "title": "'We Are Ready to Speak': Drift Beckons North Korea-Linked Hackers Following $285M Exploit",
+      "title": "Blockchain sleuth ZachXBT accuses Circle of slow USDC freezes across more than $420 million in ‘illicit funds’",
       "category": "RISK",
-      "source": "Decrypt",
+      "source": "The Block",
       "date": "2026-04-03",
-      "url": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit",
-      "whyYouShouldCare": "Drift's engagement with hackers highlights ongoing security vulnerabilities in the DeFi space, which could deter users and impact Solana's reputation for safety."
+      "url": "https://www.theblock.co/post/396296/blockchain-sleuth-zachxbt-accuses-circle-slow-usdc-freezes-420-million-illicit-funds",
+      "whyYouShouldCare": "Allegations against Circle regarding slow response to illicit fund freezes could undermine confidence in USDC, affecting its integration within Solana's financial applications."
     }
   ]
 }
