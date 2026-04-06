@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-04-05T19:32:16.042Z",
-    "totalCandidates": 95,
-    "solanaCandidates": 20,
+    "generatedAt": "2026-04-06T08:22:09.615Z",
+    "totalCandidates": 93,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,58 +33,25 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5deef34ed8049398ac5f7e9943901edaee1b63b2",
-      "score": 24
-    },
-    {
-      "id": "https://ambcrypto.com/fdic-to-vote-on-bank-stablecoin-rules-ahead-of-genius-act-deadline-details",
-      "title": "FDIC to vote on bank stablecoin rules ahead of GENIUS Act deadline – Details",
-      "url": "https://ambcrypto.com/fdic-to-vote-on-bank-stablecoin-rules-ahead-of-genius-act-deadline-details",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-04T23:00:28.000Z",
-      "summary": "Regulators have intensified rule-making for GENIUS Act as stablecoin rules take shape.",
-      "tags": [
-        "fdic",
-        "vote",
-        "bank"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
         "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "80e6720a342a2794bff09faf29bb5bb0a319594b",
+      "dedupeFingerprint": "5deef34ed8049398ac5f7e9943901edaee1b63b2",
       "score": 23
     },
     {
-      "id": "https://www.theblock.co/post/396361/drift-links-280-million-exploit-to-six-month-social-engineering-op-run-by-suspected-north-korean-actors",
-      "title": "Drift links $280 million exploit to six-month social engineering op run by suspected North Korean actors",
-      "url": "https://www.theblock.co/post/396361/drift-links-280-million-exploit-to-six-month-social-engineering-op-run-by-suspected-north-korean-actors",
-      "source": "The Block",
-      "publishedAt": "2026-04-05T16:05:42.000Z",
-      "summary": "With \"medium-high\" confidence, Drift and the SEAL 911 team assess the operation was run by the same North Korean actors behind the Radiant Capital hack.",
+      "id": "https://ambcrypto.com/beyond-code-errors-how-drift-protocols-285mln-drain-shifts-defi-security-bar",
+      "title": "‘Beyond code errors’ – How Drift Protocol’s $285mln drain shifts DeFi security bar",
+      "url": "https://ambcrypto.com/beyond-code-errors-how-drift-protocols-285mln-drain-shifts-defi-security-bar",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-06T03:00:58.000Z",
+      "summary": "Drift’s exploit shows control-layer attacks rising, where response speed now defines DeFi security and trust.",
       "tags": [
-        "drift",
-        "links",
-        "million"
+        "beyond",
+        "code",
+        "errors"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -100,12 +67,45 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5111bdcbcbcd788e8a67665084844e92463f2b21",
-      "score": 22
+      "dedupeFingerprint": "5ac4e68790f3350fb3e53116b35bf5f64f1dfa3f",
+      "score": 19
+    },
+    {
+      "id": "https://ambcrypto.com/recap-heres-how-bitcoin-ethereum-solana-and-xrp-etfs-performed-this-week",
+      "title": "Recap: Here’s how Bitcoin, Ethereum, Solana, and XRP ETFs performed this week",
+      "url": "https://ambcrypto.com/recap-heres-how-bitcoin-ethereum-solana-and-xrp-etfs-performed-this-week",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-05T23:00:18.000Z",
+      "summary": "How is the shifting institutional investor sentiment having an impact on the ETF market?",
+      "tags": [
+        "recap",
+        "here",
+        "bitcoin"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e3d54936923e3772e5c8ed513684df3491534390",
+      "score": 16
     },
     {
       "id": "https://www.coindesk.com/business/2026/04/02/ant-group-s-blockchain-arm-unveils-platform-for-ai-agents-to-transact-on-crypto-rails",
@@ -132,28 +132,28 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "031057c8bac0f9f57797aa99054a312555dd0ca3",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "https://ambcrypto.com/195m-edgex-airdrop-under-fire-what-it-means-for-edge-prices",
-      "title": "$195M EdgeX airdrop sparks backlash: What it means for EDGE prices",
-      "url": "https://ambcrypto.com/195m-edgex-airdrop-under-fire-what-it-means-for-edge-prices",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-04T22:00:43.000Z",
-      "summary": "EDGE surged to a new all time high of $1.19, then crashed below $1 to $0.93.",
+      "id": "https://www.theblock.co/post/396353/imf-warns-tokenized-finance-could-amplify-market-crises-urges-central-bank-anchored-settlement",
+      "title": "IMF warns tokenized finance could amplify market crises, urges central bank-anchored settlement",
+      "url": "https://www.theblock.co/post/396353/imf-warns-tokenized-finance-could-amplify-market-crises-urges-central-bank-anchored-settlement",
+      "source": "The Block",
+      "publishedAt": "2026-04-04T20:41:23.000Z",
+      "summary": "The report warns that instant settlement removes the time buffers to intervene during crises, and compared stablecoins to money market funds.",
       "tags": [
-        "195m",
-        "edgex",
-        "airdrop"
+        "warns",
+        "tokenized",
+        "finance"
       ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,14 +163,14 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
+        "recencyScore": 8,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a17f34cec61b54c8d4dc8975d563815e4af9bfe9",
+      "dedupeFingerprint": "6f20cfafb08d6d8e211fc41e1cfbe1a027155fc5",
       "score": 15
     }
   ]

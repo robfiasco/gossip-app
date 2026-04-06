@@ -1,5 +1,82 @@
 [
   {
+    "id": "da6f96386202f582017b333067d44e55c28c0d1f",
+    "title": "Signal Board Summary 2026-04-06",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-04-06T08:22:19.305Z",
+    "lastSeenAt": "2026-04-06T08:22:19.305Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "e3d54936923e3772e5c8ed513684df3491534390",
+    "title": "Recap: Here’s how Bitcoin, Ethereum, Solana, and XRP ETFs performed this week",
+    "url": "https://ambcrypto.com/recap-heres-how-bitcoin-ethereum-solana-and-xrp-etfs-performed-this-week",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-04-06T08:22:09.800Z",
+    "lastSeenAt": "2026-04-06T08:22:09.800Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "recap",
+      "here",
+      "bitcoin",
+      "ethereum",
+      "solana",
+      "etfs",
+      "performed",
+      "this"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "cfa4f0245108a6c2dd773d0df57af4167f6b2ff9",
+    "title": "Crypto attorney says Drift incident may qualify as 'civil negligence'",
+    "url": "https://cointelegraph.com/news/crypto-attorney-says-drift-incident-may-qualify-as-civil-negligence",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-04-06T08:22:09.799Z",
+    "lastSeenAt": "2026-04-06T08:22:09.799Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "crypto",
+      "attorney",
+      "says",
+      "drift",
+      "incident",
+      "qualify",
+      "civil",
+      "negligence"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "5ac4e68790f3350fb3e53116b35bf5f64f1dfa3f",
+    "title": "‘Beyond code errors’ – How Drift Protocol’s $285mln drain shifts DeFi security bar",
+    "url": "https://ambcrypto.com/beyond-code-errors-how-drift-protocols-285mln-drain-shifts-defi-security-bar",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-04-06T08:22:09.798Z",
+    "lastSeenAt": "2026-04-06T08:22:09.798Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "beyond",
+      "code",
+      "errors",
+      "drift",
+      "protocol",
+      "285mln",
+      "drain",
+      "shifts"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "cfea533bc34cc1b00ad682aa644b58132e096dd9",
     "title": "Drift Protocol $280M exploit took 'months of deliberate preparation'",
     "url": "https://cointelegraph.com/news/drift-protocol-exploit-preparation-preliminary-findings",
@@ -163,83 +240,6 @@
       "harsh",
       "tradeoff",
       "security"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "fd5e5bf158ffdb1938c660184c0aefee8b035b13",
-    "title": "Signal Board Summary 2026-04-04",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-04-04T07:48:07.279Z",
-    "lastSeenAt": "2026-04-04T07:48:07.279Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "5759effef31a29f60e1b78fca5b1a8cc447c14e5",
-    "title": "Solana – Is ‘liquidity’ the real FOMO signal for SOL this cycle?",
-    "url": "https://ambcrypto.com/solana-is-liquidity-the-real-fomo-signal-for-sol-this-cycle",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-04-04T07:47:59.728Z",
-    "lastSeenAt": "2026-04-04T07:47:59.728Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "liquidity",
-      "real",
-      "fomo",
-      "signal",
-      "this",
-      "cycle",
-      "from"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "4c91b9d07ece71fc999846795b94d50b3f6f0f40",
-    "title": "Circle under fire after $285 million Drift hack over inaction to freeze stolen USDC",
-    "url": "https://www.coindesk.com/business/2026/04/03/circle-under-fire-after-usd285-million-drift-hack-over-inaction-to-freeze-stolen-usdc",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-04-04T07:47:59.728Z",
-    "lastSeenAt": "2026-04-04T07:47:59.728Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "circle",
-      "under",
-      "fire",
-      "after",
-      "million",
-      "drift",
-      "hack",
-      "over"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "c89b04d4ad0dd3859343df0efceb0660f95c3153",
-    "title": "Drift sends onchain message to wallets tied to $280M exploit",
-    "url": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-04-04T07:47:59.726Z",
-    "lastSeenAt": "2026-04-04T07:47:59.726Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "drift",
-      "sends",
-      "onchain",
-      "message",
-      "wallets",
-      "tied",
-      "280m",
-      "exploit"
     ],
     "majorUpdate": false,
     "updateReason": null
