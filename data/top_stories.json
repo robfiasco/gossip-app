@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-04-06T08:22:09.615Z",
-    "totalCandidates": 93,
-    "solanaCandidates": 17,
+    "generatedAt": "2026-04-06T19:51:50.152Z",
+    "totalCandidates": 99,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solanas-90-slowdown-is-quantum-safe-security-killing-sols-speed",
-      "title": "Solana’s 90% slowdown: Is quantum-safe security killing SOL’s speed?",
-      "url": "https://ambcrypto.com/solanas-90-slowdown-is-quantum-safe-security-killing-sols-speed",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-05T16:00:27.000Z",
-      "summary": "Solana’s speed advantage faces a critical test as quantum experiments expose a major security–scalability trade-off.",
+      "id": "https://solana.com/news/solana-ecosystem-security",
+      "title": "Raising the Bar on Solana Ecosystem Security",
+      "url": "https://solana.com/news/solana-ecosystem-security",
+      "source": "Solana News",
+      "publishedAt": "2026-04-06T10:30:00.000Z",
+      "summary": "Introducing STRIDE and Solana Incident Response Network",
       "tags": [
+        "raising",
         "solana",
-        "slowdown",
-        "quantum"
+        "ecosystem"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,29 +31,62 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3463e1d9f24380894ac8bc9d96b81dc95c6f539c",
+      "score": 29
+    },
+    {
+      "id": "https://ambcrypto.com/solana-transactions-hit-january-2026-lows-will-sol-repeat-its-32-crash",
+      "title": "Solana transactions hit January 2026 lows – Will SOL repeat its 32% crash?",
+      "url": "https://ambcrypto.com/solana-transactions-hit-january-2026-lows-will-sol-repeat-its-32-crash",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-06T16:00:16.000Z",
+      "summary": "Solana price and fundamentals diverge putting investors in doubt on where SOL actually heading.",
+      "tags": [
+        "solana",
+        "transactions",
+        "january"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5deef34ed8049398ac5f7e9943901edaee1b63b2",
-      "score": 23
+      "dedupeFingerprint": "70e6494f92bda5b592b94168a82fe4f6c62e0a30",
+      "score": 27
     },
     {
-      "id": "https://ambcrypto.com/beyond-code-errors-how-drift-protocols-285mln-drain-shifts-defi-security-bar",
-      "title": "‘Beyond code errors’ – How Drift Protocol’s $285mln drain shifts DeFi security bar",
-      "url": "https://ambcrypto.com/beyond-code-errors-how-drift-protocols-285mln-drain-shifts-defi-security-bar",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-06T03:00:58.000Z",
-      "summary": "Drift’s exploit shows control-layer attacks rising, where response speed now defines DeFi security and trust.",
+      "id": "https://www.theblock.co/post/396391/a-deep-dive-into-the-future-of-onchain-liquidity-routing",
+      "title": "A Deep Dive into the Future of Onchain Liquidity Routing",
+      "url": "https://www.theblock.co/post/396391/a-deep-dive-into-the-future-of-onchain-liquidity-routing",
+      "source": "The Block",
+      "publishedAt": "2026-04-06T14:10:58.000Z",
+      "summary": "Below is a summarized version of The Block Research’s A Deep Dive into the Future of Onchain Liquidity Routing report. The full PDF version of this report is accessible here. In a fragmented onchain market, best execution is no longer guaranteed by sticking to a single venue. Liquidity that once liv",
       "tags": [
-        "beyond",
-        "code",
-        "errors"
+        "deep",
+        "dive",
+        "into"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -67,24 +100,24 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5ac4e68790f3350fb3e53116b35bf5f64f1dfa3f",
-      "score": 19
+      "dedupeFingerprint": "0b7458bed62d21098ff6fbbfd45434fa6eb4af8c",
+      "score": 22
     },
     {
-      "id": "https://ambcrypto.com/recap-heres-how-bitcoin-ethereum-solana-and-xrp-etfs-performed-this-week",
-      "title": "Recap: Here’s how Bitcoin, Ethereum, Solana, and XRP ETFs performed this week",
-      "url": "https://ambcrypto.com/recap-heres-how-bitcoin-ethereum-solana-and-xrp-etfs-performed-this-week",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-05T23:00:18.000Z",
-      "summary": "How is the shifting institutional investor sentiment having an impact on the ETF market?",
+      "id": "https://www.theblock.co/post/396458/top-aave-risk-manager-chaos-labs-exits-amid-governance-dispute",
+      "title": "Top Aave risk manager Chaos Labs exits amid governance dispute",
+      "url": "https://www.theblock.co/post/396458/top-aave-risk-manager-chaos-labs-exits-amid-governance-dispute",
+      "source": "The Block",
+      "publishedAt": "2026-04-06T18:09:02.000Z",
+      "summary": "Chaos Labs is the latest major Aave contributor to walk away from the project following the departure of BGD Labs and ACI.",
       "tags": [
-        "recap",
-        "here",
-        "bitcoin"
+        "aave",
+        "risk",
+        "manager"
       ],
       "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -100,57 +133,24 @@
         "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e3d54936923e3772e5c8ed513684df3491534390",
-      "score": 16
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/04/02/ant-group-s-blockchain-arm-unveils-platform-for-ai-agents-to-transact-on-crypto-rails",
-      "title": "Ant Group’s blockchain arm unveils platform for AI agents to transact on crypto rails",
-      "url": "https://www.coindesk.com/business/2026/04/02/ant-group-s-blockchain-arm-unveils-platform-for-ai-agents-to-transact-on-crypto-rails",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-05T12:00:00.000Z",
-      "summary": "Anvita includes tokenization services and a platform for agents to coordinate tasks and settle payments in real time using stablecoins.",
-      "tags": [
-        "group",
-        "blockchain",
-        "unveils"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "031057c8bac0f9f57797aa99054a312555dd0ca3",
-      "score": 16
+      "dedupeFingerprint": "eff2094e1731d3d5672bfe2dd98fc4fdec6a3758",
+      "score": 19
     },
     {
-      "id": "https://www.theblock.co/post/396353/imf-warns-tokenized-finance-could-amplify-market-crises-urges-central-bank-anchored-settlement",
-      "title": "IMF warns tokenized finance could amplify market crises, urges central bank-anchored settlement",
-      "url": "https://www.theblock.co/post/396353/imf-warns-tokenized-finance-could-amplify-market-crises-urges-central-bank-anchored-settlement",
+      "id": "https://www.theblock.co/post/396450/polymarket-unveils-plans-trading-engine-overhaul-native-stablecoin",
+      "title": "Polymarket unveils plans for trading engine overhaul, native stablecoin",
+      "url": "https://www.theblock.co/post/396450/polymarket-unveils-plans-trading-engine-overhaul-native-stablecoin",
       "source": "The Block",
-      "publishedAt": "2026-04-04T20:41:23.000Z",
-      "summary": "The report warns that instant settlement removes the time buffers to intervene during crises, and compared stablecoins to money market funds.",
+      "publishedAt": "2026-04-06T16:40:37.000Z",
+      "summary": "“We're upgrading the entire Polymarket exchange stack over the next 2-3 weeks. New contracts. New order book. New collateral token,” Polymarket said.",
       "tags": [
-        "warns",
-        "tokenized",
-        "finance"
+        "polymarket",
+        "unveils",
+        "plans"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "6f20cfafb08d6d8e211fc41e1cfbe1a027155fc5",
-      "score": 15
+      "dedupeFingerprint": "5be71b2b517c9f8d9bf85eb8b818b15f1fc0ab31",
+      "score": 19
     }
   ]
 }

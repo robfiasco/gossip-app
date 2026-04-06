@@ -1,26 +1,26 @@
 {
   "date": "2026-04-06",
-  "generated_at_utc": "2026-04-06T08:22:19.302Z",
-  "ctxMarket": "Attention is centered on the major exploit of Drift Protocol and its broader implications for DeFi security on Solana. There is also ongoing discussion about Solana’s network slowdown linked to quantum-resistant security upgrades.",
-  "ctxTalking": "• The $280M+ Drift Protocol exploit, attributed to a months-long North Korean social engineering operation\n• Solana’s network experiencing a 90% slowdown as quantum-safe security measures are tested\n• Institutional sentiment reflected in ETF performance for Solana and other major assets",
-  "ctxMatters": "The Drift incident highlights evolving attack strategies targeting DeFi projects, raising concerns about operational security and response protocols. Solana’s quantum security push is revealing significant trade-offs between speed and safety, which could impact user experience and developer priorities. Institutional engagement via ETFs continues to shape perceptions of ecosystem maturity.",
-  "ctxSignal": "Signal: Sophisticated, long-term exploits and quantum security trade-offs are driving real changes in DeFi risk management and network performance.\nNoise: Speculation about the absolute cause of ETF flows without clear attribution.",
-  "ctxGlossary": "Social engineering — Manipulating people into revealing confidential information or access.\nQuantum-safe security — Cryptographic methods designed to resist attacks from quantum computers.",
+  "generated_at_utc": "2026-04-06T19:52:04.656Z",
+  "ctxMarket": "Attention is focused on Solana’s security posture following a major exploit, as well as diverging signals between price action and fundamentals. There is also discussion around the growing adoption of real-world assets (RWA) on Solana and how it compares to Ethereum.",
+  "ctxTalking": "• The $285M Drift Protocol hack, attributed to North Korean actors after months of infiltration\n• Solana’s transaction activity hitting January lows, raising questions about price direction versus fundamentals\n• Rapid growth in Solana RWA holders and its competition with Ethereum’s tokenized gold",
+  "ctxMatters": "Security incidents like the Drift hack highlight ongoing risks for DeFi users and protocols on Solana.  \nDivergence between Solana’s fundamentals and price action is fueling debate about the network’s outlook.  \nRising RWA adoption signals expanding use cases but also intensifies competition with Ethereum.",
+  "ctxSignal": "Signal: The Drift exploit’s sophisticated social engineering and the launch of new Solana security initiatives (STRIDE, Incident Response Network).\nNoise: Speculation about immediate price crashes without clear fundamental triggers.",
+  "ctxGlossary": "RWA — Real-world assets, such as tokenized gold, represented on blockchain platforms  \nDrift Protocol — A Solana-based DeFi trading platform recently targeted in a major exploit",
   "readMore": [
     {
-      "title": "‘Beyond code errors’ – How Drift Protocol’s $285mln drain shifts DeFi security bar",
+      "title": "Altcoin Resilience Signals 'Compelling Entry Points' for Crypto Markets",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/363426/altcoin-resilience-compelling-entry-points-crypto-markets-grayscale"
+    },
+    {
+      "title": "Solana transactions hit January 2026 lows – Will SOL repeat its 32% crash?",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/beyond-code-errors-how-drift-protocols-285mln-drain-shifts-defi-security-bar"
+      "url": "https://ambcrypto.com/solana-transactions-hit-january-2026-lows-will-sol-repeat-its-32-crash"
     },
     {
-      "title": "Crypto attorney says Drift incident may qualify as 'civil negligence'",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-attorney-says-drift-incident-may-qualify-as-civil-negligence"
-    },
-    {
-      "title": "Drift links $280 million exploit to six-month social engineering op run by suspected North Korean actors",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/396361/drift-links-280-million-exploit-to-six-month-social-engineering-op-run-by-suspected-north-korean-actors"
+      "title": "Raising the Bar on Solana Ecosystem Security",
+      "source": "Solana News",
+      "url": "https://solana.com/news/solana-ecosystem-security"
     }
   ]
 }
