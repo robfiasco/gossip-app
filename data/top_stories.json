@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-04-06T19:51:50.152Z",
-    "totalCandidates": 99,
-    "solanaCandidates": 23,
+    "generatedAt": "2026-04-07T08:11:53.760Z",
+    "totalCandidates": 102,
+    "solanaCandidates": 34,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://solana.com/news/solana-ecosystem-security",
-      "title": "Raising the Bar on Solana Ecosystem Security",
-      "url": "https://solana.com/news/solana-ecosystem-security",
+      "id": "https://solana.com/news/solana-ecosystem-roundup-march-2026",
+      "title": "Solana Ecosystem Roundup: March 2026",
+      "url": "https://solana.com/news/solana-ecosystem-roundup-march-2026",
       "source": "Solana News",
-      "publishedAt": "2026-04-06T10:30:00.000Z",
-      "summary": "Introducing STRIDE and Solana Incident Response Network",
+      "publishedAt": "2026-04-05T19:03:00.000Z",
+      "summary": "March brought a dense run of developments across regulation, real-world assets, enterprise infrastructure, payments, consumer apps, and protocol design. SOL received a clearer regulatory designation in the U.S., RWA activity on Solana reached new highs across holders, value, and lending. Enterprise ",
       "tags": [
-        "raising",
         "solana",
-        "ecosystem"
+        "ecosystem",
+        "roundup"
       ],
-      "topicBucket": "general",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,29 +31,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 14,
+        "relevanceScore": 17,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 7,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3463e1d9f24380894ac8bc9d96b81dc95c6f539c",
+      "dedupeFingerprint": "e1e728da06a0994eaeec882ca4c2d93da6a49420",
       "score": 29
     },
     {
-      "id": "https://ambcrypto.com/solana-transactions-hit-january-2026-lows-will-sol-repeat-its-32-crash",
-      "title": "Solana transactions hit January 2026 lows – Will SOL repeat its 32% crash?",
-      "url": "https://ambcrypto.com/solana-transactions-hit-january-2026-lows-will-sol-repeat-its-32-crash",
+      "id": "https://ambcrypto.com/all-about-solanas-liquidity-situation-after-recent-exploits-where-is-the-capital-going",
+      "title": "All about Solana’s liquidity situation after recent exploits – Where is the capital going?",
+      "url": "https://ambcrypto.com/all-about-solanas-liquidity-situation-after-recent-exploits-where-is-the-capital-going",
       "source": "AMB Crypto",
-      "publishedAt": "2026-04-06T16:00:16.000Z",
-      "summary": "Solana price and fundamentals diverge putting investors in doubt on where SOL actually heading.",
+      "publishedAt": "2026-04-07T07:00:45.000Z",
+      "summary": "Market stress has had an impact on all networks, including Solana.",
       "tags": [
+        "about",
         "solana",
-        "transactions",
-        "january"
+        "liquidity"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -64,29 +64,62 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "70e6494f92bda5b592b94168a82fe4f6c62e0a30",
-      "score": 27
+      "dedupeFingerprint": "bd78fa6e4c9b8984a40a6e230d0f5962552ac6af",
+      "score": 24
     },
     {
-      "id": "https://www.theblock.co/post/396391/a-deep-dive-into-the-future-of-onchain-liquidity-routing",
-      "title": "A Deep Dive into the Future of Onchain Liquidity Routing",
-      "url": "https://www.theblock.co/post/396391/a-deep-dive-into-the-future-of-onchain-liquidity-routing",
-      "source": "The Block",
-      "publishedAt": "2026-04-06T14:10:58.000Z",
-      "summary": "Below is a summarized version of The Block Research’s A Deep Dive into the Future of Onchain Liquidity Routing report. The full PDF version of this report is accessible here. In a fragmented onchain market, best execution is no longer guaranteed by sticking to a single venue. Liquidity that once liv",
+      "id": "https://ambcrypto.com/crypto-saw-capital-exit-in-q1-can-10b-stablecoin-surge-drive-q2-rebound",
+      "title": "Crypto saw capital exit in Q1 – Can $10B stablecoin surge drive Q2 rebound?",
+      "url": "https://ambcrypto.com/crypto-saw-capital-exit-in-q1-can-10b-stablecoin-surge-drive-q2-rebound",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-07T05:00:46.000Z",
+      "summary": "As stablecoin flows hit Ethereum, Solana, and other top networks, investors are left asking if this could reverse Q1’s bearish trend.",
       "tags": [
-        "deep",
-        "dive",
-        "into"
+        "crypto",
+        "capital",
+        "exit"
       ],
       "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "6379e39fa67e69759da90d6a93a4fe7b051c172e",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/396479/phantom-reports-service-outage",
+      "title": "Phantom reports temporary service outage affecting in-app balances",
+      "url": "https://www.theblock.co/post/396479/phantom-reports-service-outage",
+      "source": "The Block",
+      "publishedAt": "2026-04-07T01:58:55.000Z",
+      "summary": "Phantom is currently experiencing a service outage affecting token prices and balances, but said user funds are safe.",
+      "tags": [
+        "phantom",
+        "reports",
+        "temporary"
+      ],
+      "topicBucket": "consumer",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -104,22 +137,22 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0b7458bed62d21098ff6fbbfd45434fa6eb4af8c",
+      "dedupeFingerprint": "4a9afcd5909fdd4e3a8b0d4e9d15a4fa809d233d",
       "score": 22
     },
     {
-      "id": "https://www.theblock.co/post/396458/top-aave-risk-manager-chaos-labs-exits-amid-governance-dispute",
-      "title": "Top Aave risk manager Chaos Labs exits amid governance dispute",
-      "url": "https://www.theblock.co/post/396458/top-aave-risk-manager-chaos-labs-exits-amid-governance-dispute",
-      "source": "The Block",
-      "publishedAt": "2026-04-06T18:09:02.000Z",
-      "summary": "Chaos Labs is the latest major Aave contributor to walk away from the project following the departure of BGD Labs and ACI.",
+      "id": "https://www.coindesk.com/markets/2026/04/07/bitcoin-ether-solana-hold-steady-as-trump-sets-tuesday-night-deadline-for-iran-deal",
+      "title": "Bitcoin, ether, solana hold steady as Trump sets Tuesday night deadline for Iran deal",
+      "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-ether-solana-hold-steady-as-trump-sets-tuesday-night-deadline-for-iran-deal",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-07T04:30:53.000Z",
+      "summary": "Oil jumped above $112 on threats to destroy Iranian infrastructure if no agreement is reached by midnight, while crypto markets gave back Monday's ceasefire rally gains.",
       "tags": [
-        "aave",
-        "risk",
-        "manager"
+        "bitcoin",
+        "ether",
+        "solana"
       ],
-      "topicBucket": "market",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -137,40 +170,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "eff2094e1731d3d5672bfe2dd98fc4fdec6a3758",
-      "score": 19
-    },
-    {
-      "id": "https://www.theblock.co/post/396450/polymarket-unveils-plans-trading-engine-overhaul-native-stablecoin",
-      "title": "Polymarket unveils plans for trading engine overhaul, native stablecoin",
-      "url": "https://www.theblock.co/post/396450/polymarket-unveils-plans-trading-engine-overhaul-native-stablecoin",
-      "source": "The Block",
-      "publishedAt": "2026-04-06T16:40:37.000Z",
-      "summary": "“We're upgrading the entire Polymarket exchange stack over the next 2-3 weeks. New contracts. New order book. New collateral token,” Polymarket said.",
-      "tags": [
-        "polymarket",
-        "unveils",
-        "plans"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5be71b2b517c9f8d9bf85eb8b818b15f1fc0ab31",
+      "dedupeFingerprint": "5da524bdf105722ebd3fdab9237ec8eaa407f39c",
       "score": 19
     }
   ]

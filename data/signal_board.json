@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-06",
-  "generated_at_utc": "2026-04-06T19:52:04.656Z",
-  "ctxMarket": "Attention is focused on Solana’s security posture following a major exploit, as well as diverging signals between price action and fundamentals. There is also discussion around the growing adoption of real-world assets (RWA) on Solana and how it compares to Ethereum.",
-  "ctxTalking": "• The $285M Drift Protocol hack, attributed to North Korean actors after months of infiltration\n• Solana’s transaction activity hitting January lows, raising questions about price direction versus fundamentals\n• Rapid growth in Solana RWA holders and its competition with Ethereum’s tokenized gold",
-  "ctxMatters": "Security incidents like the Drift hack highlight ongoing risks for DeFi users and protocols on Solana.  \nDivergence between Solana’s fundamentals and price action is fueling debate about the network’s outlook.  \nRising RWA adoption signals expanding use cases but also intensifies competition with Ethereum.",
-  "ctxSignal": "Signal: The Drift exploit’s sophisticated social engineering and the launch of new Solana security initiatives (STRIDE, Incident Response Network).\nNoise: Speculation about immediate price crashes without clear fundamental triggers.",
-  "ctxGlossary": "RWA — Real-world assets, such as tokenized gold, represented on blockchain platforms  \nDrift Protocol — A Solana-based DeFi trading platform recently targeted in a major exploit",
+  "date": "2026-04-07",
+  "generated_at_utc": "2026-04-07T08:12:07.252Z",
+  "ctxMarket": "Attention is focused on Solana’s liquidity and security after recent exploits and capital outflows across crypto networks. Stablecoin inflows and the launch of new security initiatives are drawing particular interest.",
+  "ctxTalking": "• Solana Foundation’s STRIDE program and real-time incident response efforts to address ongoing DeFi security concerns\n• Liquidity shifts and capital exits following recent exploits, with speculation about stablecoin inflows reversing bearish trends\n• The Drift Protocol incident and its implications for security standards in the Solana ecosystem",
+  "ctxMatters": "Security incidents have highlighted the need for robust protections in Solana’s DeFi landscape. The STRIDE initiative signals a coordinated response to these challenges. Liquidity movements and stablecoin flows are being closely watched as potential indicators of market sentiment and network health.",
+  "ctxSignal": "Signal: Launch of STRIDE and real-time security response network; increased scrutiny on DeFi security after high-profile incidents.\nNoise: Speculation about stablecoin surges immediately reversing broader market trends.",
+  "ctxGlossary": "STRIDE — Solana Foundation’s new security initiative for ecosystem-wide protection\nStablecoin — A cryptocurrency pegged to a stable asset, often used for liquidity and transfers",
   "readMore": [
     {
-      "title": "Altcoin Resilience Signals 'Compelling Entry Points' for Crypto Markets",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/363426/altcoin-resilience-compelling-entry-points-crypto-markets-grayscale"
-    },
-    {
-      "title": "Solana transactions hit January 2026 lows – Will SOL repeat its 32% crash?",
+      "title": "All about Solana’s liquidity situation after recent exploits – Where is the capital going?",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-transactions-hit-january-2026-lows-will-sol-repeat-its-32-crash"
+      "url": "https://ambcrypto.com/all-about-solanas-liquidity-situation-after-recent-exploits-where-is-the-capital-going"
     },
     {
-      "title": "Raising the Bar on Solana Ecosystem Security",
-      "source": "Solana News",
-      "url": "https://solana.com/news/solana-ecosystem-security"
+      "title": "Solana Foundation launches STRIDE program to fortify ecosystem security",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/396493/solana-foundation-stride"
+    },
+    {
+      "title": "Bitcoin, ether, solana hold steady as Trump sets Tuesday night deadline for Iran deal",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-ether-solana-hold-steady-as-trump-sets-tuesday-night-deadline-for-iran-deal"
     }
   ]
 }
