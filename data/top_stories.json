@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-04-07T08:11:53.760Z",
-    "totalCandidates": 102,
-    "solanaCandidates": 34,
+    "generatedAt": "2026-04-07T19:56:01.841Z",
+    "totalCandidates": 112,
+    "solanaCandidates": 31,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://solana.com/news/solana-ecosystem-roundup-march-2026",
-      "title": "Solana Ecosystem Roundup: March 2026",
-      "url": "https://solana.com/news/solana-ecosystem-roundup-march-2026",
-      "source": "Solana News",
-      "publishedAt": "2026-04-05T19:03:00.000Z",
-      "summary": "March brought a dense run of developments across regulation, real-world assets, enterprise infrastructure, payments, consumer apps, and protocol design. SOL received a clearer regulatory designation in the U.S., RWA activity on Solana reached new highs across holders, value, and lending. Enterprise ",
+      "id": "https://decrypt.co/363521/solana-foundation-help-secure-defi-protocols-285-million-drift-hack",
+      "title": "Solana Foundation to Help Secure DeFi Protocols Following $285 Million Drift Hack",
+      "url": "https://decrypt.co/363521/solana-foundation-help-secure-defi-protocols-285-million-drift-hack",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-07T18:11:18.000Z",
+      "summary": "The Solana Foundation will offer tiered security services to DeFi protocols, marking a shift toward institutionalized protection following the Drift exploit.",
       "tags": [
         "solana",
-        "ecosystem",
-        "roundup"
+        "foundation",
+        "help"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,15 +31,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 17,
+        "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 5,
+        "recencyScore": 10,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e1e728da06a0994eaeec882ca4c2d93da6a49420",
+      "dedupeFingerprint": "cbc13205293db992157b9a06cc7eb1366d098c81",
       "score": 29
+    },
+    {
+      "id": "https://ambcrypto.com/solana-rolls-out-stride-a-defi-wide-security-push-after-285-mln-drift-breach",
+      "title": "Solana rolls out ‘STRIDE,’ a DeFi-wide security push after $285 mln Drift breach",
+      "url": "https://ambcrypto.com/solana-rolls-out-stride-a-defi-wide-security-push-after-285-mln-drift-breach",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-07T09:15:30.000Z",
+      "summary": "Despite the Drift incident, there were no reported panic exits from the Solana DeFi network.",
+      "tags": [
+        "solana",
+        "rolls",
+        "stride"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e0dd565e3c2e5ea86870d72a4738dbc55f86150d",
+      "score": 27
     },
     {
       "id": "https://ambcrypto.com/all-about-solanas-liquidity-situation-after-recent-exploits-where-is-the-capital-going",
@@ -66,60 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "bd78fa6e4c9b8984a40a6e230d0f5962552ac6af",
-      "score": 24
+      "score": 23
     },
     {
-      "id": "https://ambcrypto.com/crypto-saw-capital-exit-in-q1-can-10b-stablecoin-surge-drive-q2-rebound",
-      "title": "Crypto saw capital exit in Q1 – Can $10B stablecoin surge drive Q2 rebound?",
-      "url": "https://ambcrypto.com/crypto-saw-capital-exit-in-q1-can-10b-stablecoin-surge-drive-q2-rebound",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-07T05:00:46.000Z",
-      "summary": "As stablecoin flows hit Ethereum, Solana, and other top networks, investors are left asking if this could reverse Q1’s bearish trend.",
+      "id": "https://www.theblock.co/post/396569/solana-stabble-lps-withdraw-funds-identifying-former-north-korean-employee",
+      "title": "Solana-based Stabble tells LPs to withdraw funds after identifying former North Korean employee",
+      "url": "https://www.theblock.co/post/396569/solana-stabble-lps-withdraw-funds-identifying-former-north-korean-employee",
+      "source": "The Block",
+      "publishedAt": "2026-04-07T18:17:59.000Z",
+      "summary": "Worried about a former employee with alleged ties to North Korea, Stabble told liquidity providers to withdraw funds.",
       "tags": [
-        "crypto",
-        "capital",
-        "exit"
+        "solana",
+        "based",
+        "stabble"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6379e39fa67e69759da90d6a93a4fe7b051c172e",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/396479/phantom-reports-service-outage",
-      "title": "Phantom reports temporary service outage affecting in-app balances",
-      "url": "https://www.theblock.co/post/396479/phantom-reports-service-outage",
-      "source": "The Block",
-      "publishedAt": "2026-04-07T01:58:55.000Z",
-      "summary": "Phantom is currently experiencing a service outage affecting token prices and balances, but said user funds are safe.",
-      "tags": [
-        "phantom",
-        "reports",
-        "temporary"
-      ],
-      "topicBucket": "consumer",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -137,7 +137,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "4a9afcd5909fdd4e3a8b0d4e9d15a4fa809d233d",
+      "dedupeFingerprint": "ed0144e29a04e5746b002f10833ea46f34634af9",
       "score": 22
     },
     {
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5da524bdf105722ebd3fdab9237ec8eaa407f39c",
-      "score": 19
+      "score": 18
     }
   ]
 }

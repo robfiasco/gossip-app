@@ -1,26 +1,26 @@
 {
   "date": "2026-04-07",
-  "generated_at_utc": "2026-04-07T08:12:07.252Z",
-  "ctxMarket": "Attention is focused on Solana’s liquidity and security after recent exploits and capital outflows across crypto networks. Stablecoin inflows and the launch of new security initiatives are drawing particular interest.",
-  "ctxTalking": "• Solana Foundation’s STRIDE program and real-time incident response efforts to address ongoing DeFi security concerns\n• Liquidity shifts and capital exits following recent exploits, with speculation about stablecoin inflows reversing bearish trends\n• The Drift Protocol incident and its implications for security standards in the Solana ecosystem",
-  "ctxMatters": "Security incidents have highlighted the need for robust protections in Solana’s DeFi landscape. The STRIDE initiative signals a coordinated response to these challenges. Liquidity movements and stablecoin flows are being closely watched as potential indicators of market sentiment and network health.",
-  "ctxSignal": "Signal: Launch of STRIDE and real-time security response network; increased scrutiny on DeFi security after high-profile incidents.\nNoise: Speculation about stablecoin surges immediately reversing broader market trends.",
-  "ctxGlossary": "STRIDE — Solana Foundation’s new security initiative for ecosystem-wide protection\nStablecoin — A cryptocurrency pegged to a stable asset, often used for liquidity and transfers",
+  "generated_at_utc": "2026-04-07T19:56:12.039Z",
+  "ctxMarket": "Attention is focused on security across Solana DeFi after the $285 million Drift exploit. Despite recent breaches, there have been no widespread liquidity exits from Solana protocols.",
+  "ctxTalking": "• Solana Foundation’s new STRIDE security program and 24/7 threat monitoring for major DeFi protocols\n• Stabble’s request for liquidity providers to withdraw funds after discovering a former employee’s North Korea ties\n• Ongoing discussion about non-technical vulnerabilities, including espionage and insider threats",
+  "ctxMatters": "Solana’s security overhaul signals a shift toward institutionalized protection, aiming to restore confidence after major exploits. Protocols with significant deposits may see increased scrutiny and external security support. The industry conversation is expanding beyond code to include human and organizational risks.",
+  "ctxSignal": "Signal: Solana Foundation’s STRIDE program and direct response to recent exploits; increased focus on insider and espionage risks.\nNoise: Speculation about panic exits, which has not materialized according to current reports.",
+  "ctxGlossary": "STRIDE — Solana Foundation’s new ecosystem-wide security initiative\nLiquidity Provider (LP) — An entity supplying assets to a DeFi protocol’s pool for trading or lending",
   "readMore": [
     {
-      "title": "All about Solana’s liquidity situation after recent exploits – Where is the capital going?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/all-about-solanas-liquidity-situation-after-recent-exploits-where-is-the-capital-going"
-    },
-    {
-      "title": "Solana Foundation launches STRIDE program to fortify ecosystem security",
+      "title": "Solana-based Stabble tells LPs to withdraw funds after identifying former North Korean employee",
       "source": "The Block",
-      "url": "https://www.theblock.co/post/396493/solana-foundation-stride"
+      "url": "https://www.theblock.co/post/396569/solana-stabble-lps-withdraw-funds-identifying-former-north-korean-employee"
     },
     {
-      "title": "Bitcoin, ether, solana hold steady as Trump sets Tuesday night deadline for Iran deal",
+      "title": "Solana Foundation to Help Secure DeFi Protocols Following $285 Million Drift Hack",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/363521/solana-foundation-help-secure-defi-protocols-285-million-drift-hack"
+    },
+    {
+      "title": "‘Don’t waste time with crypto'",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-ether-solana-hold-steady-as-trump-sets-tuesday-night-deadline-for-iran-deal"
+      "url": "https://www.coindesk.com/tech/2026/04/07/don-t-waste-time-with-crypto-here-is-what-solana-foundation-s-cryptic-message-really-means"
     }
   ]
 }
