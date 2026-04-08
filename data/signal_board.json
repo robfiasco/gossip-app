@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-07",
-  "generated_at_utc": "2026-04-07T19:56:12.039Z",
-  "ctxMarket": "Attention is focused on security across Solana DeFi after the $285 million Drift exploit. Despite recent breaches, there have been no widespread liquidity exits from Solana protocols.",
-  "ctxTalking": "• Solana Foundation’s new STRIDE security program and 24/7 threat monitoring for major DeFi protocols\n• Stabble’s request for liquidity providers to withdraw funds after discovering a former employee’s North Korea ties\n• Ongoing discussion about non-technical vulnerabilities, including espionage and insider threats",
-  "ctxMatters": "Solana’s security overhaul signals a shift toward institutionalized protection, aiming to restore confidence after major exploits. Protocols with significant deposits may see increased scrutiny and external security support. The industry conversation is expanding beyond code to include human and organizational risks.",
-  "ctxSignal": "Signal: Solana Foundation’s STRIDE program and direct response to recent exploits; increased focus on insider and espionage risks.\nNoise: Speculation about panic exits, which has not materialized according to current reports.",
-  "ctxGlossary": "STRIDE — Solana Foundation’s new ecosystem-wide security initiative\nLiquidity Provider (LP) — An entity supplying assets to a DeFi protocol’s pool for trading or lending",
+  "date": "2026-04-08",
+  "generated_at_utc": "2026-04-08T08:12:31.024Z",
+  "ctxMarket": "Attention is focused on security across Solana’s DeFi ecosystem following recent high-profile exploits and revelations about insider threats. Discussions are also emerging around Solana’s positioning as a network for “agentic payments.”",
+  "ctxTalking": "• Solana Foundation’s launch of new security initiatives after the $285 million Drift hack\n• Stabble DEX urging liquidity providers to withdraw funds due to alleged North Korean infiltration\n• Debate over whether DeFi risks are technical or stem from broader human and organizational vulnerabilities",
+  "ctxMatters": "Recent exploits and insider threats are prompting a shift toward institutionalized security and continuous monitoring on Solana. The Foundation’s STRIDE program signals a move to protect protocols with significant deposits. These developments may influence how users and builders assess trust and risk in Solana-based DeFi.",
+  "ctxSignal": "Signal: Concrete steps by the Solana Foundation to provide ecosystem-wide security services and 24/7 threat monitoring.\nNoise: Speculation about the broader meaning of cryptic Foundation messaging without clear details.",
+  "ctxGlossary": "STRIDE — Solana Foundation’s new security initiative for DeFi protocols\nAgentic payments — Payments enabled by autonomous agents or smart contracts",
   "readMore": [
+    {
+      "title": "Is DeFi Development Corp’s Solana bet finally paying off?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/is-defi-development-corps-solana-bet-finally-paying-off"
+    },
+    {
+      "title": "Solana Exchange Stabble Warns Users to Pull Liquidity After North Korean Hacker Scare",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/363579/solana-exchange-stabble-warns-users-north-korean-hacker-scare"
+    },
     {
       "title": "Solana-based Stabble tells LPs to withdraw funds after identifying former North Korean employee",
       "source": "The Block",
       "url": "https://www.theblock.co/post/396569/solana-stabble-lps-withdraw-funds-identifying-former-north-korean-employee"
-    },
-    {
-      "title": "Solana Foundation to Help Secure DeFi Protocols Following $285 Million Drift Hack",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/363521/solana-foundation-help-secure-defi-protocols-285-million-drift-hack"
-    },
-    {
-      "title": "‘Don’t waste time with crypto'",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/07/don-t-waste-time-with-crypto-here-is-what-solana-foundation-s-cryptic-message-really-means"
     }
   ]
 }

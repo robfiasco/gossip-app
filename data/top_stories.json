@@ -1,90 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-04-07T19:56:01.841Z",
-    "totalCandidates": 112,
-    "solanaCandidates": 31,
+    "generatedAt": "2026-04-08T08:12:21.432Z",
+    "totalCandidates": 114,
+    "solanaCandidates": 29,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://decrypt.co/363521/solana-foundation-help-secure-defi-protocols-285-million-drift-hack",
-      "title": "Solana Foundation to Help Secure DeFi Protocols Following $285 Million Drift Hack",
-      "url": "https://decrypt.co/363521/solana-foundation-help-secure-defi-protocols-285-million-drift-hack",
+      "id": "https://decrypt.co/363579/solana-exchange-stabble-warns-users-north-korean-hacker-scare",
+      "title": "Solana Exchange Stabble Warns Users to Pull Liquidity After North Korean Hacker Scare",
+      "url": "https://decrypt.co/363579/solana-exchange-stabble-warns-users-north-korean-hacker-scare",
       "source": "Decrypt",
-      "publishedAt": "2026-04-07T18:11:18.000Z",
-      "summary": "The Solana Foundation will offer tiered security services to DeFi protocols, marking a shift toward institutionalized protection following the Drift exploit.",
+      "publishedAt": "2026-04-07T21:20:34.000Z",
+      "summary": "A decentralized exchange on Solana urged its users to exit after a former executive was alleged to be a North Korean hacker.",
       "tags": [
         "solana",
-        "foundation",
-        "help"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "cbc13205293db992157b9a06cc7eb1366d098c81",
-      "score": 29
-    },
-    {
-      "id": "https://ambcrypto.com/solana-rolls-out-stride-a-defi-wide-security-push-after-285-mln-drift-breach",
-      "title": "Solana rolls out ‘STRIDE,’ a DeFi-wide security push after $285 mln Drift breach",
-      "url": "https://ambcrypto.com/solana-rolls-out-stride-a-defi-wide-security-push-after-285-mln-drift-breach",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-07T09:15:30.000Z",
-      "summary": "Despite the Drift incident, there were no reported panic exits from the Solana DeFi network.",
-      "tags": [
-        "solana",
-        "rolls",
-        "stride"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e0dd565e3c2e5ea86870d72a4738dbc55f86150d",
-      "score": 27
-    },
-    {
-      "id": "https://ambcrypto.com/all-about-solanas-liquidity-situation-after-recent-exploits-where-is-the-capital-going",
-      "title": "All about Solana’s liquidity situation after recent exploits – Where is the capital going?",
-      "url": "https://ambcrypto.com/all-about-solanas-liquidity-situation-after-recent-exploits-where-is-the-capital-going",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-07T07:00:45.000Z",
-      "summary": "Market stress has had an impact on all networks, including Solana.",
-      "tags": [
-        "about",
-        "solana",
-        "liquidity"
+        "exchange",
+        "stabble"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -99,27 +33,126 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
+        "recencyScore": 10,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "bd78fa6e4c9b8984a40a6e230d0f5962552ac6af",
+      "dedupeFingerprint": "06989776957c352600f30e6dae4baaf3a2d5f9cc",
+      "score": 26
+    },
+    {
+      "id": "https://decrypt.co/363570/fdic-proposed-rules-stablecoin-issuers-genius-act",
+      "title": "FDIC Reveals Proposed Rules for Stablecoin Issuers Under GENIUS Act",
+      "url": "https://decrypt.co/363570/fdic-proposed-rules-stablecoin-issuers-genius-act",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-07T20:25:03.000Z",
+      "summary": "The FDIC’s proposal establishes federal oversight standards for stablecoin issuers while explicitly excluding tokens from deposit insurance protections.",
+      "tags": [
+        "fdic",
+        "reveals",
+        "proposed"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "060ab503d0a883db4e019a59b2949565d7ec174b",
+      "score": 24
+    },
+    {
+      "id": "https://www.coindesk.com/tech/2026/04/07/solana-foundation-unveils-security-overhaul-days-after-usd270-million-drift-exploit",
+      "title": "Solana Foundation unveils security overhaul days after $270 million Drift exploit",
+      "url": "https://www.coindesk.com/tech/2026/04/07/solana-foundation-unveils-security-overhaul-days-after-usd270-million-drift-exploit",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-07T10:52:03.000Z",
+      "summary": "The program includes 24/7 threat monitoring for protocols with more than $10 million in deposits and a dedicated incident response network of security firms.",
+      "tags": [
+        "solana",
+        "foundation",
+        "unveils"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "de485f476b91190632e46657c2f6d2e45a373a08",
       "score": 23
     },
     {
-      "id": "https://www.theblock.co/post/396569/solana-stabble-lps-withdraw-funds-identifying-former-north-korean-employee",
-      "title": "Solana-based Stabble tells LPs to withdraw funds after identifying former North Korean employee",
-      "url": "https://www.theblock.co/post/396569/solana-stabble-lps-withdraw-funds-identifying-former-north-korean-employee",
-      "source": "The Block",
-      "publishedAt": "2026-04-07T18:17:59.000Z",
-      "summary": "Worried about a former employee with alleged ties to North Korea, Stabble told liquidity providers to withdraw funds.",
+      "id": "https://cryptoslate.com/cardano-bitcoin-liquidity-3-billion-defi-goal-2030",
+      "title": "Cardano targets Bitcoin liquidity with $80 million fund to meet $3 billion DeFi goal by 2030",
+      "url": "https://cryptoslate.com/cardano-bitcoin-liquidity-3-billion-defi-goal-2030",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-08T08:05:07.000Z",
+      "summary": "The Cardano community has officially approved the first tranche of the Orion Fund, a venture-style initiative designed to bridge Bitcoin liquidity into its decentralized finance (DeFi) ecosystem. The governance vote unlocks 50 million ADA from the network's treasury, marking a pivotal shift in how C",
       "tags": [
-        "solana",
-        "based",
-        "stabble"
+        "cardano",
+        "targets",
+        "bitcoin"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2211d2437971f40bd77d0302d8565280abcc8b66",
+      "score": 20
+    },
+    {
+      "id": "https://ambcrypto.com/is-defi-development-corps-solana-bet-finally-paying-off",
+      "title": "Is DeFi Development Corp’s Solana bet finally paying off?",
+      "url": "https://ambcrypto.com/is-defi-development-corps-solana-bet-finally-paying-off",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-08T05:00:49.000Z",
+      "summary": "How is Solana's resilience in times of uncertainty shaping firms despite a slow March?",
+      "tags": [
+        "defi",
+        "development",
+        "corp"
+      ],
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -133,45 +166,12 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ed0144e29a04e5746b002f10833ea46f34634af9",
-      "score": 22
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/04/07/bitcoin-ether-solana-hold-steady-as-trump-sets-tuesday-night-deadline-for-iran-deal",
-      "title": "Bitcoin, ether, solana hold steady as Trump sets Tuesday night deadline for Iran deal",
-      "url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-ether-solana-hold-steady-as-trump-sets-tuesday-night-deadline-for-iran-deal",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-07T04:30:53.000Z",
-      "summary": "Oil jumped above $112 on threats to destroy Iranian infrastructure if no agreement is reached by midnight, while crypto markets gave back Monday's ceasefire rally gains.",
-      "tags": [
-        "bitcoin",
-        "ether",
-        "solana"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5da524bdf105722ebd3fdab9237ec8eaa407f39c",
-      "score": 18
+      "dedupeFingerprint": "91ada54e597bdcb3a82b87868abe0695deec8d12",
+      "score": 19
     }
   ]
 }
