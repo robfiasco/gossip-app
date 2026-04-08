@@ -1,26 +1,26 @@
 {
   "date": "2026-04-08",
-  "generated_at_utc": "2026-04-08T08:12:31.024Z",
-  "ctxMarket": "Attention is focused on security across Solana’s DeFi ecosystem following recent high-profile exploits and revelations about insider threats. Discussions are also emerging around Solana’s positioning as a network for “agentic payments.”",
-  "ctxTalking": "• Solana Foundation’s launch of new security initiatives after the $285 million Drift hack\n• Stabble DEX urging liquidity providers to withdraw funds due to alleged North Korean infiltration\n• Debate over whether DeFi risks are technical or stem from broader human and organizational vulnerabilities",
-  "ctxMatters": "Recent exploits and insider threats are prompting a shift toward institutionalized security and continuous monitoring on Solana. The Foundation’s STRIDE program signals a move to protect protocols with significant deposits. These developments may influence how users and builders assess trust and risk in Solana-based DeFi.",
-  "ctxSignal": "Signal: Concrete steps by the Solana Foundation to provide ecosystem-wide security services and 24/7 threat monitoring.\nNoise: Speculation about the broader meaning of cryptic Foundation messaging without clear details.",
-  "ctxGlossary": "STRIDE — Solana Foundation’s new security initiative for DeFi protocols\nAgentic payments — Payments enabled by autonomous agents or smart contracts",
+  "generated_at_utc": "2026-04-08T19:57:57.301Z",
+  "ctxMarket": "Attention is focused on security risks in the Solana ecosystem following the $285M Drift hack and related warnings from DeFi protocols. Regulatory clarity and strong stablecoin volume continue to highlight Solana’s growing role in payments and real-world assets.",
+  "ctxTalking": "• Security concerns after the Drift exploit and allegations of North Korean hacker involvement in Solana protocols\n• Solana Foundation’s new initiatives to improve DeFi security, including tiered services and incident response networks\n• Surge in meme coin activity tied to viral events, such as the Moo Deng coin",
+  "ctxMatters": "Security incidents are prompting both user caution and institutional responses, potentially raising the bar for protocol safety. Regulatory clarity and high transaction volumes may attract more enterprise and real-world asset activity. Meme coins continue to show how viral trends can impact Solana’s on-chain activity.",
+  "ctxSignal": "Signal: Institutional moves to secure DeFi and regulatory developments for Solana.\nNoise: Short-term meme coin price spikes linked to viral news.",
+  "ctxGlossary": "Drift hack — A major $285M exploit affecting a Solana-based DeFi protocol.\nSTRIDE — A new Solana initiative for ecosystem security and incident response.",
   "readMore": [
     {
-      "title": "Is DeFi Development Corp’s Solana bet finally paying off?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/is-defi-development-corps-solana-bet-finally-paying-off"
+      "title": "The Protocol",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/08/the-protocol-bernstein-says-quantum-threat-to-bitcoin-is-real-but-manageable"
     },
     {
-      "title": "Solana Exchange Stabble Warns Users to Pull Liquidity After North Korean Hacker Scare",
+      "title": "Moo Deng Meme Coin Rises After Man Fined for Entering Viral Pygmy Hippo's Den",
       "source": "Decrypt",
-      "url": "https://decrypt.co/363579/solana-exchange-stabble-warns-users-north-korean-hacker-scare"
+      "url": "https://decrypt.co/363645/moo-deng-meme-coin-rises-man-fined-entering-pygmy-hippo-den"
     },
     {
-      "title": "Solana-based Stabble tells LPs to withdraw funds after identifying former North Korean employee",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/396569/solana-stabble-lps-withdraw-funds-identifying-former-north-korean-employee"
+      "title": "After the $285M Drift hack, new Solana scare shows crypto’s next security risk may already be inside",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/drift-hack-stabble-crypto-insider-risk"
     }
   ]
 }
