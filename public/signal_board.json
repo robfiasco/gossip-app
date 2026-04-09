@@ -1,12 +1,17 @@
 {
-  "date": "2026-04-08",
-  "generated_at_utc": "2026-04-08T19:57:57.301Z",
-  "ctxMarket": "Attention is focused on security risks in the Solana ecosystem following the $285M Drift hack and related warnings from DeFi protocols. Regulatory clarity and strong stablecoin volume continue to highlight Solana’s growing role in payments and real-world assets.",
-  "ctxTalking": "• Security concerns after the Drift exploit and allegations of North Korean hacker involvement in Solana protocols\n• Solana Foundation’s new initiatives to improve DeFi security, including tiered services and incident response networks\n• Surge in meme coin activity tied to viral events, such as the Moo Deng coin",
-  "ctxMatters": "Security incidents are prompting both user caution and institutional responses, potentially raising the bar for protocol safety. Regulatory clarity and high transaction volumes may attract more enterprise and real-world asset activity. Meme coins continue to show how viral trends can impact Solana’s on-chain activity.",
-  "ctxSignal": "Signal: Institutional moves to secure DeFi and regulatory developments for Solana.\nNoise: Short-term meme coin price spikes linked to viral news.",
-  "ctxGlossary": "Drift hack — A major $285M exploit affecting a Solana-based DeFi protocol.\nSTRIDE — A new Solana initiative for ecosystem security and incident response.",
+  "date": "2026-04-09",
+  "generated_at_utc": "2026-04-09T08:19:39.606Z",
+  "ctxMarket": "Attention is focused on Solana ecosystem security after the $285M Drift hack and related warnings from protocols like Stabble. Meme coins such as dogwifhat and Moo Deng are also drawing interest due to recent price moves and viral events.",
+  "ctxTalking": "• Security concerns highlighted by the Drift exploit and Stabble’s response\n• Solana Foundation’s new efforts to secure DeFi protocols\n• Surge in meme coin activity, with dogwifhat and Moo Deng seeing notable gains",
+  "ctxMatters": "Security incidents are prompting protocols and the Solana Foundation to introduce new protective measures. These developments may influence user trust and protocol adoption. Meme coin volatility continues to attract attention, reflecting shifting user engagement within the ecosystem.",
+  "ctxSignal": "Signal: Institutional moves to improve protocol security and coordinated incident response.\nNoise: Meme coin price spikes tied to viral news events.",
+  "ctxGlossary": "Drift hack — A major exploit of the Drift protocol resulting in significant losses.\nStabble — A Solana-based decentralized exchange recently affected by security concerns.\ndogwifhat — A Solana meme coin experiencing recent price volatility.",
   "readMore": [
+    {
+      "title": "dogwifhat climbs 12% – Holding onto $0.20 will unlock WIF’s next move",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/dogwifhat-climbs-12-holding-onto-0-20-will-unlock-wifs-next-move"
+    },
     {
       "title": "The Protocol",
       "source": "CoinDesk",
@@ -16,11 +21,6 @@
       "title": "Moo Deng Meme Coin Rises After Man Fined for Entering Viral Pygmy Hippo's Den",
       "source": "Decrypt",
       "url": "https://decrypt.co/363645/moo-deng-meme-coin-rises-man-fined-entering-pygmy-hippo-den"
-    },
-    {
-      "title": "After the $285M Drift hack, new Solana scare shows crypto’s next security risk may already be inside",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/drift-hack-stabble-crypto-insider-risk"
     }
   ]
 }
