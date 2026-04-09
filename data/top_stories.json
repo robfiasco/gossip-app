@@ -1,123 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-04-09T08:19:30.457Z",
-    "totalCandidates": 113,
-    "solanaCandidates": 27,
+    "generatedAt": "2026-04-09T20:01:50.513Z",
+    "totalCandidates": 114,
+    "solanaCandidates": 15,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-hits-record-167m-holders-in-april-will-sol-price-follow",
-      "title": "Solana hits record 167M holders in April – Will SOL price follow?",
-      "url": "https://ambcrypto.com/solana-hits-record-167m-holders-in-april-will-sol-price-follow",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-08T23:00:10.000Z",
-      "summary": "SOL has seen over $18 billion in capital outflows since last October with no relief in sight as of early April, 2026",
-      "tags": [
-        "solana",
-        "hits",
-        "record"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "1eff5cbba0467621c8f7586e380ee648811bd048",
-      "score": 24
-    },
-    {
-      "id": "https://solana.com/news/solana-ecosystem-security",
-      "title": "Raising the Bar on Solana Ecosystem Security",
-      "url": "https://solana.com/news/solana-ecosystem-security",
-      "source": "Solana News",
-      "publishedAt": "2026-04-06T19:30:00.000Z",
-      "summary": "Introducing STRIDE and Solana Incident Response Network",
-      "tags": [
-        "raising",
-        "solana",
-        "ecosystem"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 14,
-        "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 5,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "3463e1d9f24380894ac8bc9d96b81dc95c6f539c",
-      "score": 24
-    },
-    {
-      "id": "https://decrypt.co/363570/fdic-proposed-rules-stablecoin-issuers-genius-act",
-      "title": "FDIC Reveals Proposed Rules for Stablecoin Issuers Under GENIUS Act",
-      "url": "https://decrypt.co/363570/fdic-proposed-rules-stablecoin-issuers-genius-act",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-07T20:25:03.000Z",
-      "summary": "The FDIC’s proposal establishes federal oversight standards for stablecoin issuers while explicitly excluding tokens from deposit insurance protections.",
-      "tags": [
-        "fdic",
-        "reveals",
-        "proposed"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "060ab503d0a883db4e019a59b2949565d7ec174b",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/396778/polygon-labs-seeking-raise-up-to-100-million-stablecoin-payments-business-report",
-      "title": "Polygon Labs seeking to raise up to $100 million for stablecoin payments business: report",
-      "url": "https://www.theblock.co/post/396778/polygon-labs-seeking-raise-up-to-100-million-stablecoin-payments-business-report",
+      "id": "https://www.theblock.co/post/396891/td-cowen-white-house-stablecoin-report-crypto-bill-update",
+      "title": "TD Cowen says White House stablecoin report unlikely to change hurdles for crypto bill, sees even tougher path ahead",
+      "url": "https://www.theblock.co/post/396891/td-cowen-white-house-stablecoin-report-crypto-bill-update",
       "source": "The Block",
-      "publishedAt": "2026-04-08T19:51:19.000Z",
-      "summary": "The crypto firm aims to sell \"between $50 million and $100 million in equity\" in the new stablecoin payments business.",
+      "publishedAt": "2026-04-09T16:06:45.000Z",
+      "summary": "TD Cowen said the path for the crypto bill could become even tougher following the recent White House report on stablecoins.",
       "tags": [
-        "polygon",
-        "labs",
-        "seeking"
+        "cowen",
+        "says",
+        "white"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -132,28 +33,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8df9d5c4e0b254fc4e68da00c5c6e1ed6633e948",
-      "score": 21
+      "dedupeFingerprint": "d9c38168414faf39409398a1a73fb1d12fdb9bfa",
+      "score": 22
     },
     {
-      "id": "https://ambcrypto.com/rain-faces-critical-test-as-294-mln-unlock-looms-can-0-0075-hold",
-      "title": "RAIN faces critical test as $294 mln unlock looms – Can $0.0075 hold?",
-      "url": "https://ambcrypto.com/rain-faces-critical-test-as-294-mln-unlock-looms-can-0-0075-hold",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-09T07:00:52.000Z",
-      "summary": "RAIN’s bounce follows a sharp decline, yet rising supply and fading volume keep the outlook uncertain.",
+      "id": "https://www.theblock.co/post/396866/stablecoin-fx-nears-institutional-grade-parity-with-bank-rails-in-latam-and-east-africa-report",
+      "title": "Stablecoin FX nears ‘institutional-grade’ parity with bank rails in LATAM and East Africa: report",
+      "url": "https://www.theblock.co/post/396866/stablecoin-fx-nears-institutional-grade-parity-with-bank-rails-in-latam-and-east-africa-report",
+      "source": "The Block",
+      "publishedAt": "2026-04-09T14:14:50.000Z",
+      "summary": "Borderless data shows stablecoin FX is nearing parity with traditional banking rails across key markets like LATAM and East Africa.",
       "tags": [
-        "rain",
-        "faces",
-        "critical"
+        "stablecoin",
+        "nears",
+        "institutional"
       ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +64,114 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "55bd82bd861a74768b8d7f6ff15b9df37a3a3d85",
+      "score": 22
+    },
+    {
+      "id": "https://cointelegraph.com/news/pyth-network-looks-to-disrupt-data-hegemony-with-new-marketplace",
+      "title": "Pyth Network looks to disrupt data hegemony with new marketplace",
+      "url": "https://cointelegraph.com/news/pyth-network-looks-to-disrupt-data-hegemony-with-new-marketplace",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-09T19:32:57.000Z",
+      "summary": "With market pricing data currently monopolized by a few players, Pyth seeks to democratize access with a pay-on-demand model beginning with seven big-name providers.",
+      "tags": [
+        "pyth",
+        "network",
+        "looks"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "d952988a892575da072d390beae75f1bd6b96f1a",
+      "score": 18
+    },
+    {
+      "id": "https://ambcrypto.com/bitcoin-holds-70k-why-phantom-leverage-raises-risk-of-a-btc-reversal",
+      "title": "Bitcoin holds $70K: Why ‘phantom leverage’ raises risk of a BTC reversal",
+      "url": "https://ambcrypto.com/bitcoin-holds-70k-why-phantom-leverage-raises-risk-of-a-btc-reversal",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-09T13:00:00.000Z",
+      "summary": "The Bitcoin futures sentiment showed growth over the past three days and was transitioning towards active risk appetite recovery.",
+      "tags": [
+        "bitcoin",
+        "holds",
+        "phantom"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -1,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "340eae6e659a80ba5409c52be660a041f8d9cc95",
-      "score": 16
+      "dedupeFingerprint": "1051730e761713a75ffab949af6c0e6d17010592",
+      "score": 10
+    },
+    {
+      "id": "https://ambcrypto.com/stablecoins-could-reach-1-5-quadrillion-by-2035-heres-how",
+      "title": "Stablecoins could reach $1.5 quadrillion by 2035 – Here’s how",
+      "url": "https://ambcrypto.com/stablecoins-could-reach-1-5-quadrillion-by-2035-heres-how",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-09T19:00:29.000Z",
+      "summary": "Stablecoin Adjusted Volume rose 133% from 2023 to hit $28 trillion in 2025 with monthly volume reaching $7.2 trillion.",
+      "tags": [
+        "stablecoins",
+        "could",
+        "reach"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "de942d95963ce7936c7de396d64c6275e9146f73",
+      "score": 19
     }
   ]
 }
