@@ -1,13 +1,79 @@
 {
   "meta": {
-    "generatedAt": "2026-04-09T20:01:50.513Z",
-    "totalCandidates": 114,
-    "solanaCandidates": 15,
+    "generatedAt": "2026-04-10T08:20:42.103Z",
+    "totalCandidates": 112,
+    "solanaCandidates": 18,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://ambcrypto.com/solana-price-consolidates-in-key-range-could-sol-fall-under-50",
+      "title": "Solana price consolidates in KEY range: Could SOL fall under $50?",
+      "url": "https://ambcrypto.com/solana-price-consolidates-in-key-range-could-sol-fall-under-50",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-10T01:00:46.000Z",
+      "summary": "SOL traders could be mistaken in thinking that the current consolidation will end well for the bulls.",
+      "tags": [
+        "solana",
+        "price",
+        "consolidates"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "6f527886566be8a7b839301b99b2dcb7422ff59b",
+      "score": 24
+    },
+    {
+      "id": "https://cointelegraph.com/news/circle-stock-downgrade-drift-exploit-impact",
+      "title": "Circle stock sinks 10% amid analyst downgrade, Drift Protocol probe",
+      "url": "https://cointelegraph.com/news/circle-stock-downgrade-drift-exploit-impact",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-09T21:06:16.000Z",
+      "summary": "The stablecoin issuer faces pressure after a stock downgrade and Drift Protocol exploit fallout, raising concerns over USDC exposure, crypto regulation and market risk.",
+      "tags": [
+        "circle",
+        "stock",
+        "sinks"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c26ed89641d9243de220d86d21eb5f4da597f1cf",
+      "score": 21
+    },
     {
       "id": "https://www.theblock.co/post/396891/td-cowen-white-house-stablecoin-report-crypto-bill-update",
       "title": "TD Cowen says White House stablecoin report unlikely to change hurdles for crypto bill, sees even tougher path ahead",
@@ -33,91 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "d9c38168414faf39409398a1a73fb1d12fdb9bfa",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.theblock.co/post/396866/stablecoin-fx-nears-institutional-grade-parity-with-bank-rails-in-latam-and-east-africa-report",
-      "title": "Stablecoin FX nears ‘institutional-grade’ parity with bank rails in LATAM and East Africa: report",
-      "url": "https://www.theblock.co/post/396866/stablecoin-fx-nears-institutional-grade-parity-with-bank-rails-in-latam-and-east-africa-report",
-      "source": "The Block",
-      "publishedAt": "2026-04-09T14:14:50.000Z",
-      "summary": "Borderless data shows stablecoin FX is nearing parity with traditional banking rails across key markets like LATAM and East Africa.",
-      "tags": [
-        "stablecoin",
-        "nears",
-        "institutional"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "55bd82bd861a74768b8d7f6ff15b9df37a3a3d85",
-      "score": 22
-    },
-    {
-      "id": "https://cointelegraph.com/news/pyth-network-looks-to-disrupt-data-hegemony-with-new-marketplace",
-      "title": "Pyth Network looks to disrupt data hegemony with new marketplace",
-      "url": "https://cointelegraph.com/news/pyth-network-looks-to-disrupt-data-hegemony-with-new-marketplace",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-09T19:32:57.000Z",
-      "summary": "With market pricing data currently monopolized by a few players, Pyth seeks to democratize access with a pay-on-demand model beginning with seven big-name providers.",
-      "tags": [
-        "pyth",
-        "network",
-        "looks"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d952988a892575da072d390beae75f1bd6b96f1a",
-      "score": 18
-    },
-    {
-      "id": "https://ambcrypto.com/bitcoin-holds-70k-why-phantom-leverage-raises-risk-of-a-btc-reversal",
-      "title": "Bitcoin holds $70K: Why ‘phantom leverage’ raises risk of a BTC reversal",
-      "url": "https://ambcrypto.com/bitcoin-holds-70k-why-phantom-leverage-raises-risk-of-a-btc-reversal",
+      "id": "https://ambcrypto.com/sec-opens-proceedings-on-proposal-to-list-options-for-grayscale-crypto-etf",
+      "title": "SEC opens proceedings on proposal to list options for Grayscale Crypto ETF",
+      "url": "https://ambcrypto.com/sec-opens-proceedings-on-proposal-to-list-options-for-grayscale-crypto-etf",
       "source": "AMB Crypto",
-      "publishedAt": "2026-04-09T13:00:00.000Z",
-      "summary": "The Bitcoin futures sentiment showed growth over the past three days and was transitioning towards active risk appetite recovery.",
+      "publishedAt": "2026-04-09T22:47:47.000Z",
+      "summary": "The SEC is reviewing a proposal to list options on a multi-asset crypto ETF, seeking more input as it weighs risks tied to crypto derivatives.",
       "tags": [
-        "bitcoin",
-        "holds",
-        "phantom"
+        "opens",
+        "proceedings",
+        "proposal"
       ],
       "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,29 +130,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": -1,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "1051730e761713a75ffab949af6c0e6d17010592",
-      "score": 10
+      "dedupeFingerprint": "ce770299fe595338434658239dcb35c9905542bf",
+      "score": 19
     },
     {
-      "id": "https://ambcrypto.com/stablecoins-could-reach-1-5-quadrillion-by-2035-heres-how",
-      "title": "Stablecoins could reach $1.5 quadrillion by 2035 – Here’s how",
-      "url": "https://ambcrypto.com/stablecoins-could-reach-1-5-quadrillion-by-2035-heres-how",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-09T19:00:29.000Z",
-      "summary": "Stablecoin Adjusted Volume rose 133% from 2023 to hit $28 trillion in 2025 with monthly volume reaching $7.2 trillion.",
+      "id": "https://www.theblock.co/post/396967/world-liberty-rebuts-dolomite-criticism",
+      "title": "World Liberty defends borrowing position on Dolomite, dismisses liquidation concerns as ‘FUD’",
+      "url": "https://www.theblock.co/post/396967/world-liberty-rebuts-dolomite-criticism",
+      "source": "The Block",
+      "publishedAt": "2026-04-10T06:18:30.000Z",
+      "summary": "The project said it did supply WLFI as collateral and borrowed stablecoins, but it is 'nowhere near liquidation.'",
       "tags": [
-        "stablecoins",
-        "could",
-        "reach"
+        "world",
+        "liberty",
+        "defends"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "tokenomics",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "de942d95963ce7936c7de396d64c6275e9146f73",
-      "score": 19
+      "dedupeFingerprint": "fbe3b941e9cbaa58e610eca0a45eddfd081685b3",
+      "score": 17
     }
   ]
 }
