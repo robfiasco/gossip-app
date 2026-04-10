@@ -1,21 +1,16 @@
 {
   "date": "2026-04-10",
-  "generated_at_utc": "2026-04-10T08:20:51.630Z",
-  "ctxMarket": "Attention is on SOL’s price consolidation, with some questioning whether the current range will hold. Regulatory clarity and security developments in the Solana ecosystem are also drawing focus.",
-  "ctxTalking": "• SOL’s price stability and speculation about a potential drop below $50\n• Circle’s stock decline and concerns over USDC exposure after the Drift Protocol exploit\n• Pyth Network’s new marketplace aiming to broaden access to market data",
-  "ctxMatters": "SOL’s price range is being closely watched, as shifts could impact sentiment across the ecosystem. Regulatory clarity and security initiatives may affect how institutions and developers engage with Solana. Stablecoin and data infrastructure developments influence both user confidence and the utility of Solana-based applications.",
-  "ctxSignal": "Signal: Security upgrades and regulatory clarity are material changes for ecosystem resilience and adoption.\nNoise: Short-term price speculation without clear catalysts.",
-  "ctxGlossary": "USDC — A major stablecoin issued by Circle, widely used on Solana.\nPyth Network — A decentralized oracle network providing real-time market data.\nDrift Protocol — A Solana-based DeFi platform recently affected by an exploit.",
+  "generated_at_utc": "2026-04-10T19:42:14.035Z",
+  "ctxMarket": "Attention is on competition between Solana and TON, especially as TON announces major speed and fee improvements. Security and regulatory clarity remain in focus following recent exploits and evolving U.S. policy.",
+  "ctxTalking": "• TON’s blockchain upgrade and its potential to attract activity from Solana\n• Circle’s USDC freeze policy and calls for faster legal frameworks after the Drift exploit\n• New security initiatives in the Solana ecosystem, including STRIDE and the Incident Response Network",
+  "ctxMatters": "Solana faces renewed competition from TON’s technical upgrades and fee reductions. Security practices and incident response are under scrutiny, with new frameworks being introduced. Regulatory clarity in the U.S. is shaping how Solana projects approach compliance and real-world asset integration.",
+  "ctxSignal": "Signal: TON’s speed and fee improvements, and Solana’s ecosystem security upgrades.\nNoise: Speculation about immediate user migration between chains without supporting data.",
+  "ctxGlossary": "USDC — A U.S. dollar-pegged stablecoin issued by Circle.\nSTRIDE — A new security initiative for the Solana ecosystem.",
   "readMore": [
     {
-      "title": "Solana price consolidates in KEY range",
+      "title": "‘Make TON great again’ – Block rate rises 6x, blockchain speed is now 10x",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-price-consolidates-in-key-range-could-sol-fall-under-50"
-    },
-    {
-      "title": "Circle stock sinks 10% amid analyst downgrade, Drift Protocol probe",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/circle-stock-downgrade-drift-exploit-impact"
+      "url": "https://ambcrypto.com/telegrams-durov-says-ton-is-now-10x-faster-make-ton-great-again"
     },
     {
       "title": "Raising the Bar on Solana Ecosystem Security",

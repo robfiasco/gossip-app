@@ -1,24 +1,156 @@
 {
   "meta": {
-    "generatedAt": "2026-04-10T08:20:42.103Z",
+    "generatedAt": "2026-04-10T19:42:02.352Z",
     "totalCandidates": 112,
-    "solanaCandidates": 18,
+    "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-price-consolidates-in-key-range-could-sol-fall-under-50",
-      "title": "Solana price consolidates in KEY range: Could SOL fall under $50?",
-      "url": "https://ambcrypto.com/solana-price-consolidates-in-key-range-could-sol-fall-under-50",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-10T01:00:46.000Z",
-      "summary": "SOL traders could be mistaken in thinking that the current consolidation will end well for the bulls.",
+      "id": "https://cointelegraph.com/news/world-liberty-wlfi-unlock-vote-early-holder-backlash",
+      "title": "World Liberty signals phased WLFI unlock vote after early holder backlash",
+      "url": "https://cointelegraph.com/news/world-liberty-wlfi-unlock-vote-early-holder-backlash",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-10T11:19:28.000Z",
+      "summary": "World Liberty said its WLFI unlock proposal will go through community input before a formal vote, outlining a phased vesting plan rather than a full token release.",
       "tags": [
-        "solana",
-        "price",
-        "consolidates"
+        "world",
+        "liberty",
+        "signals"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 19,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "8cffa0b14910984b2d8edf508fa4968e30f8bc42",
+      "score": 29
+    },
+    {
+      "id": "https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan",
+      "title": "Trump-Linked WLFI Erases $427 Million From Market Cap on DeFi Loan, Token Unlock Proposal",
+      "url": "https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-10T15:39:07.000Z",
+      "summary": "Onlookers expressed concerns that Dolomite’s protocol could be stuck with bad debt if World Liberty’s loans were unwound.",
+      "tags": [
+        "trump",
+        "linked",
+        "wlfi"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "7ebf6a28a188a50241468533006fd2f2a0ddd58d",
+      "score": 23
+    },
+    {
+      "id": "https://www.coindesk.com/policy/2026/03/24/hong-kong-awards-first-stablecoin-licenses-to-hsbc-standard-chartered-led-group",
+      "title": "HSBC and Standard Chartered-led group land Hong Kong’s first stablecoin licenses",
+      "url": "https://www.coindesk.com/policy/2026/03/24/hong-kong-awards-first-stablecoin-licenses-to-hsbc-standard-chartered-led-group",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-10T09:19:49.000Z",
+      "summary": "The approvals by the Hong Kong Monetary Authority, the territory's central bank, mark the first batch under the Stablecoins Ordinance, which took effect in August 2025.",
+      "tags": [
+        "hsbc",
+        "standard",
+        "chartered"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "95354b438b6858def5fd14354adc7d3048e3c9bf",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/396990/hsbc-and-anchorpoint-financial-gain-first-hong-kong-stablecoin-issuer-licenses",
+      "title": "HSBC and Anchorpoint Financial gain first Hong Kong stablecoin issuer licenses",
+      "url": "https://www.theblock.co/post/396990/hsbc-and-anchorpoint-financial-gain-first-hong-kong-stablecoin-issuer-licenses",
+      "source": "The Block",
+      "publishedAt": "2026-04-10T10:28:09.000Z",
+      "summary": "Anchorpoint Financial is a joint venture between Standard Chartered, Animoca Brands, and Hong Kong Telecommunications.",
+      "tags": [
+        "hsbc",
+        "anchorpoint",
+        "financial"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "f14685ac8569a24098c55fe8d7c37b17b836abcd",
+      "score": 19
+    },
+    {
+      "id": "https://ambcrypto.com/circle-defends-usdc-freeze-policy-after-drift-exploit-calls-for-faster-legal-frameworks",
+      "title": "Circle defends USDC freeze policy after Drift exploit, calls for faster legal frameworks",
+      "url": "https://ambcrypto.com/circle-defends-usdc-freeze-policy-after-drift-exploit-calls-for-faster-legal-frameworks",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-10T15:03:15.000Z",
+      "summary": "Circle has defended its USDC freeze policy, arguing that legal constraints — not inaction — limit how quickly it can respond.",
+      "tags": [
+        "circle",
+        "defends",
+        "usdc"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,147 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "6f527886566be8a7b839301b99b2dcb7422ff59b",
-      "score": 24
-    },
-    {
-      "id": "https://cointelegraph.com/news/circle-stock-downgrade-drift-exploit-impact",
-      "title": "Circle stock sinks 10% amid analyst downgrade, Drift Protocol probe",
-      "url": "https://cointelegraph.com/news/circle-stock-downgrade-drift-exploit-impact",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-09T21:06:16.000Z",
-      "summary": "The stablecoin issuer faces pressure after a stock downgrade and Drift Protocol exploit fallout, raising concerns over USDC exposure, crypto regulation and market risk.",
-      "tags": [
-        "circle",
-        "stock",
-        "sinks"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c26ed89641d9243de220d86d21eb5f4da597f1cf",
-      "score": 21
-    },
-    {
-      "id": "https://www.theblock.co/post/396891/td-cowen-white-house-stablecoin-report-crypto-bill-update",
-      "title": "TD Cowen says White House stablecoin report unlikely to change hurdles for crypto bill, sees even tougher path ahead",
-      "url": "https://www.theblock.co/post/396891/td-cowen-white-house-stablecoin-report-crypto-bill-update",
-      "source": "The Block",
-      "publishedAt": "2026-04-09T16:06:45.000Z",
-      "summary": "TD Cowen said the path for the crypto bill could become even tougher following the recent White House report on stablecoins.",
-      "tags": [
-        "cowen",
-        "says",
-        "white"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d9c38168414faf39409398a1a73fb1d12fdb9bfa",
-      "score": 21
-    },
-    {
-      "id": "https://ambcrypto.com/sec-opens-proceedings-on-proposal-to-list-options-for-grayscale-crypto-etf",
-      "title": "SEC opens proceedings on proposal to list options for Grayscale Crypto ETF",
-      "url": "https://ambcrypto.com/sec-opens-proceedings-on-proposal-to-list-options-for-grayscale-crypto-etf",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-09T22:47:47.000Z",
-      "summary": "The SEC is reviewing a proposal to list options on a multi-asset crypto ETF, seeking more input as it weighs risks tied to crypto derivatives.",
-      "tags": [
-        "opens",
-        "proceedings",
-        "proposal"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ce770299fe595338434658239dcb35c9905542bf",
-      "score": 19
-    },
-    {
-      "id": "https://www.theblock.co/post/396967/world-liberty-rebuts-dolomite-criticism",
-      "title": "World Liberty defends borrowing position on Dolomite, dismisses liquidation concerns as ‘FUD’",
-      "url": "https://www.theblock.co/post/396967/world-liberty-rebuts-dolomite-criticism",
-      "source": "The Block",
-      "publishedAt": "2026-04-10T06:18:30.000Z",
-      "summary": "The project said it did supply WLFI as collateral and borrowed stablecoins, but it is 'nowhere near liquidation.'",
-      "tags": [
-        "world",
-        "liberty",
-        "defends"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "fbe3b941e9cbaa58e610eca0a45eddfd081685b3",
-      "score": 17
+      "dedupeFingerprint": "5b4422e9db50c38a253ee3d278b5a6f227c9f5a6",
+      "score": 16
     }
   ]
 }
