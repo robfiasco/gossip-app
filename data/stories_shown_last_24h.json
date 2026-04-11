@@ -1,11 +1,25 @@
 [
   {
+    "id": "3adf7597426462b2c39585efe0685be6636d28c8",
+    "title": "Signal Board Summary 2026-04-11",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-04-11T07:48:32.031Z",
+    "lastSeenAt": "2026-04-11T07:48:32.031Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "7f13eb741b5d833b5b6272d78aef2090c6e87dc1",
     "title": "ETH, SOL, DOGE slide as Bitcoin fails to break $73,000 for the third time since the ceasefire",
     "url": "https://www.coindesk.com/markets/2026/04/10/eth-sol-doge-slide-as-bitcoin-fails-to-break-usd73-000-for-the-third-time-since-the-ceasefire",
     "source": "CoinDesk",
     "firstSeenAt": "2026-04-10T08:20:42.253Z",
-    "lastSeenAt": "2026-04-10T19:42:02.528Z",
+    "lastSeenAt": "2026-04-11T07:48:24.630Z",
     "sectionShown": "briefing",
     "topicTags": [
       "doge",
@@ -100,27 +114,6 @@
       "downgrade",
       "drift",
       "protocol"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "d952988a892575da072d390beae75f1bd6b96f1a",
-    "title": "Pyth Network looks to disrupt data hegemony with new marketplace",
-    "url": "https://cointelegraph.com/news/pyth-network-looks-to-disrupt-data-hegemony-with-new-marketplace",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-04-09T20:01:50.680Z",
-    "lastSeenAt": "2026-04-09T20:01:50.680Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "pyth",
-      "network",
-      "looks",
-      "disrupt",
-      "data",
-      "hegemony",
-      "with",
-      "marketplace"
     ],
     "majorUpdate": false,
     "updateReason": null

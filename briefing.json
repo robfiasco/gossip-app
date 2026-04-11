@@ -1,26 +1,8 @@
 {
-  "date": "2026-04-10",
+  "date": "2026-04-11",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
-    {
-      "type": "RISK",
-      "title": "Circle defends USDC freeze policy after Drift exploit, calls for faster legal frameworks",
-      "category": "RISK",
-      "source": "AMB Crypto",
-      "date": "2026-04-10",
-      "url": "https://ambcrypto.com/circle-defends-usdc-freeze-policy-after-drift-exploit-calls-for-faster-legal-frameworks",
-      "whyYouShouldCare": "Circle's stance on USDC freezes highlights the need for clearer legal frameworks, which could impact liquidity and trust in stablecoins like USDC within the Solana ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "‘Make TON great again’ – Block rate rises 6x, blockchain speed is now 10x",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-04-10",
-      "url": "https://ambcrypto.com/telegrams-durov-says-ton-is-now-10x-faster-make-ton-great-again",
-      "whyYouShouldCare": "The significant increase in Block rate and speed for TON may draw attention away from Solana, potentially affecting its competitive positioning in the blockchain space."
-    },
     {
       "type": "APPS",
       "title": "ETH, SOL, DOGE slide as Bitcoin fails to break $73,000 for the third time since the ceasefire",
@@ -28,7 +10,25 @@
       "source": "CoinDesk",
       "date": "2026-04-10",
       "url": "https://www.coindesk.com/markets/2026/04/10/eth-sol-doge-slide-as-bitcoin-fails-to-break-usd73-000-for-the-third-time-since-the-ceasefire",
-      "whyYouShouldCare": "The decline in ETH, SOL, and DOGE as Bitcoin struggles to maintain momentum indicates broader market pressure, which could influence Solana's liquidity and investor sentiment."
+      "whyYouShouldCare": "The inability of Bitcoin to surpass $73,000 has led to a decline in SOL and other altcoins, affecting overall market sentiment and liquidity."
+    },
+    {
+      "type": "APPS",
+      "title": "Global Crypto Price Swings Raise New Questions for Everyday Investors",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-04-11",
+      "url": "https://ambcrypto.com/global-crypto-price-swings-raise-new-questions-for-everyday-investors",
+      "whyYouShouldCare": "Increased price volatility in crypto markets raises concerns for everyday investors, potentially impacting participation and liquidity in the Solana ecosystem."
+    },
+    {
+      "type": "APPS",
+      "title": "CFTC unveils innovation task force members in crypto clarity push",
+      "category": "APPS",
+      "source": "Cointelegraph",
+      "date": "2026-04-11",
+      "url": "https://cointelegraph.com/news/cftc-unveils-members-of-innovation-task-force",
+      "whyYouShouldCare": "The CFTC's formation of an innovation task force signals a push for regulatory clarity, which could enhance institutional confidence and usage in the Solana network."
     }
   ]
 }
