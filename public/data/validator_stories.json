@@ -1,120 +1,115 @@
 {
-  "generated_at": "2026-04-09T15:26:36.172Z",
+  "generated_at": "2026-04-11T15:42:19.165Z",
   "global_metrics": {
-    "total_tweets": 66,
-    "total_engagement": 13556,
-    "unique_voices": 27,
-    "top_tweet": 1092
+    "total_tweets": 35,
+    "total_engagement": 7785,
+    "unique_voices": 18,
+    "top_tweet": 707
   },
   "items": [
     {
-      "id": "story_1775748366591_0",
-      "title": "Solana Ups Security Focus as Developer Bootcamp Launches",
+      "id": "story_1775922117798_0",
+      "title": "Solana Ecosystem Surges: Growth, Security, and New Frontiers",
       "type": "critical",
       "category": "Security / Risk Alert",
-      "author": "@solana_devs",
-      "timestamp": "2026-04-09T15:26:06.591Z",
+      "author": "@SolanaSensei",
+      "timestamp": "2026-04-11T15:41:57.798Z",
       "metrics": {
-        "tweets": 39,
-        "engagement": 7518,
-        "topTweet": 574,
-        "voices": 15,
+        "tweets": 27,
+        "engagement": 6034,
+        "topTweet": 707,
+        "voices": 11,
         "engagementTrend": [
-          3007,
-          4135,
-          5112,
-          6164,
-          7518
+          2414,
+          3319,
+          4103,
+          4948,
+          6034
         ]
       },
       "ctPulse": [
         {
-          "handle": "@solana_devs",
-          "thought": "It's time to build... on Solana\n\nThe new Solana Developer Bootcamp includes 12 projects + bonus lessons:\n\n- Local Installation\n- Hello World\n- AI Best Practices\n- On-Chain Voting\n- Escrow Application\n",
-          "url": "https://twitter.com/solana_devs/status/2041532096670249070"
+          "handle": "@SolanaSensei",
+          "thought": "If you're on Solana, congrats, you're already ahead of 98% of people.\nMost haven’t even explored it yet, let alone used it.",
+          "url": "https://twitter.com/SolanaSensei/status/2042565780257284300"
+        },
+        {
+          "handle": "@vibhu",
+          "thought": "RT @solana: BREAKING: SpaceX is coming to Solana\n\npreSPAX, powered by @joinrepublic, launches April 18 on @Bitget IPO Prime https://t.co/ev…",
+          "url": "https://twitter.com/vibhu/status/2042586145532289529"
+        },
+        {
+          "handle": "@inno_ox",
+          "thought": "What happened last week on @solanamobile ?\n\n> Milestone : dApp Store crossed 750+ apps. Seeker is quickly becoming the default mobile Web3 hub 🏆 \n> @sanctumso is live, earn XP by staking SOL ☁️\n> @se",
+          "url": "https://twitter.com/inno_ox/status/2042254360139256063"
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "Solana is currently the third-biggest chain in RWA value\n\nWith almost $2B in distributed asset value\n\nThe growth has been crazy over the last year https://t.co/cngTOcCWMk",
-          "url": "https://twitter.com/SolanaSensei/status/2041836465571901654"
+          "thought": "WEEKLY SOLANA DIGEST\n\n- @solana strengthens DeFi Security with: STRIDE. A comprehensive security program for all Solana DeFi. Includes hands-on evaluations and a  public repository of findings.\n\n- @co",
+          "url": "https://twitter.com/SolanaSensei/status/2042532580545950045"
         },
         {
-          "handle": "@SolanaSensei",
-          "thought": "If you like listening to crypto podcasts\n\nHere are some underrated ones:\n\n- @KevinWSHPod\n- @ownershipfm\n- @SolBrothersPod (\"When Shift Happens\")\n- @mango_ (\"Exploring Solana\")\n\nGo check them out!!\n\nGo",
-          "url": "https://twitter.com/SolanaSensei/status/2041775809598517634"
-        },
-        {
-          "handle": "@ramzyyalii",
-          "thought": "RT @solana: It's here. Solana Developer Bootcamp 2026\n\nThere's never been a better time to build on Solana https://t.co/mgAf24MHoV",
-          "url": "https://twitter.com/ramzyyalii/status/2041587896910569618"
-        },
-        {
-          "handle": "@ramzyyalii",
-          "thought": "RT @SolanaFndn: Solana was built for security. As the ecosystem scales, so does our investment in the tools, standards, and support.\n\nToday…",
-          "url": "https://twitter.com/ramzyyalii/status/2041246569060516269"
+          "handle": "@therealchaseeb",
+          "thought": "Bullish on Solana. Bullish on Solana Founders. Bullish on proving people wrong 6 years in a row.",
+          "url": "https://twitter.com/therealchaseeb/status/2042477195508228297"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@solana_devs",
-          "reason": "Leads developer education and shares updates on Solana's technical resources.",
-          "role": "Builder",
-          "engagement": 2650
+          "handle": "@SolanaSensei",
+          "reason": "Provides timely updates and analysis on Solana ecosystem developments.",
+          "role": "Analyst",
+          "engagement": 2609
         },
         {
-          "handle": "@SolanaSensei",
-          "reason": "Provides ecosystem insights, institutional updates, and RWA trends.",
-          "role": "Analyst",
-          "engagement": 1479
+          "handle": "@solana_devs",
+          "reason": "Shares technical and builder-focused news, including grants and hackathons.",
+          "role": "Builder",
+          "engagement": 936
         }
       ],
       "content": {
-        "signal": "Solana is ramping up security and developer education as its ecosystem expands, aiming to address trust and risk at scale.",
-        "story": "Solana is making a concerted push to strengthen its ecosystem’s security and developer capabilities. The launch of the new Solana Developer Bootcamp, which includes 12 projects and bonus lessons, signals a clear intent: equip builders with practical skills and security awareness as Solana’s footprint grows. This comes as the network cements its position as a top chain for real-world assets (RWA), with nearly $2 billion in distributed asset value and a surge in institutional and DeFi activity.\n\n### What's Happening\nA comprehensive developer bootcamp is now live, covering everything from local installation and on-chain voting to private transfers and a security checklist. The curriculum is designed to address both technical proficiency and best practices, including AI integration and production readiness. At the same time, Solana’s ecosystem is seeing rapid growth in asset value, institutional adoption, and transaction volume. Notably, new security initiatives—like STRIDE and SIRN—are emerging, promising hands-on operational security reviews and public reporting.\n\nSolana’s recent institutional updates include enterprise integrations and record-breaking ETF inflows, reflecting growing confidence from larger players. The network’s daily transaction counts remain high, and new token standards are set to reduce transaction fees, potentially making the chain even more attractive for high-volume applications.\n\n### Why It Matters\nSecurity is foundational for DeFi and broader blockchain adoption. As Solana’s asset value and user base expand, so does the potential attack surface. The bootcamp’s inclusion of a security checklist and production readiness lessons highlights a proactive approach to risk mitigation. This is reinforced by ecosystem-wide efforts—such as public opsec reviews and new security standards—aimed at building trust and transparency.\n\nThe influx of institutional capital and the launch of new products signal that Solana is being taken seriously beyond retail speculation. Integrations with enterprise banking and brokerage platforms, as well as the growth of RWAs, suggest Solana is positioning itself as a credible infrastructure layer for both crypto-native and traditional finance use cases. This makes robust security practices not just a technical concern, but a strategic imperative.\n\n### The Risk or Debate\nDespite these advances, the pace of ecosystem growth introduces new risks. More assets and users mean higher stakes for potential exploits. While the bootcamp and security initiatives are steps in the right direction, the effectiveness of these measures will depend on ongoing vigilance and community engagement. There is also debate about whether educational resources and checklists can keep up with the evolving sophistication of attacks, especially as Solana’s DeFi sector continues to attract attention.\n\nAnother consideration is whether the focus on rapid onboarding and new product launches could inadvertently lead to shortcuts in security practices. The challenge will be balancing innovation with caution, ensuring that new builders are not just productive, but also security-conscious.\n\n### What To Watch\nKeep an eye on the adoption rate and feedback for the new developer bootcamp, especially the impact of its security modules. Watch for public reports from the STRIDE and SIRN security initiatives, as these will offer insight into the real-world effectiveness of Solana’s risk management efforts. Institutional adoption trends and the rollout of new token standards could further stress-test the network’s resilience. Finally, monitor for any high-profile security incidents or successful audits, as these will shape perceptions of Solana’s maturity and trustworthiness.",
+        "signal": "Solana is rapidly expanding its ecosystem with new products, security initiatives, and mainstream integrations, but risks remain as adoption accelerates.",
+        "story": "Solana is moving fast. The network just hit over 524 billion transactions, with costs staying fractions of a cent. Builders and users are flocking to the ecosystem, and major launches—like a SpaceX-linked pre-IPO token—are drawing new attention. If you’re already on Solana, you’re ahead of the curve: most haven’t even explored it yet.\n\n### What's Happening\nSolana’s ecosystem is seeing a wave of activity. The Solana dApp Store now hosts over 750 apps, with Seeker emerging as a go-to mobile Web3 hub. A new security program, STRIDE, aims to raise the bar for DeFi safety by providing hands-on evaluations and a public repository of findings. Meanwhile, the Colosseum Frontier Hackathon is underway, backed by $2.5 million in venture funding, and Alchemy is offering up to $25,000 in credits per team to accelerate development.\n\nOn the product side, Solana is hosting a diverse range of assets—from meme coins to tokenized real-world assets like Nasdaq stocks and gold. New launches are pushing boundaries: the preSPAX token, tied to SpaceX and launching on Bitget, is being positioned as a pre-IPO stock. Fair launch experiments, like the browser-based mini-game for the My Pet Hooligan token, are testing new ways to distribute tokens directly to the community.\n\n### Why It Matters\nThis surge in activity signals Solana’s growing relevance as both a technical platform and a cultural force. High throughput and low fees are enabling new types of applications and trading experiences that aren’t practical elsewhere. The ecosystem is attracting not just crypto-native builders but also mainstream projects and investors, as seen with the SpaceX tie-in and the growth of real-world asset protocols like OnRe.\n\nSecurity is a key focus. With STRIDE, Solana is trying to get ahead of the risks that come with rapid DeFi growth. Public audits and hands-on evaluations could help build trust and reduce the frequency of costly exploits. At the same time, incentives from Alchemy and others are making it easier for new teams to build, potentially accelerating innovation but also increasing the need for robust risk management.\n\n### The Risk or Debate\nRapid growth comes with trade-offs. The pace of new launches and experiments—especially around fair launches and tokenized assets—raises questions about sustainability and user protection. Not every new product will be well-audited or safe, and the influx of new users could test the limits of both technical infrastructure and community norms.\n\nThere’s also the risk that hype-driven launches could overshadow more sustainable projects. While Solana’s low fees and high throughput are advantages, they can also attract speculative activity and copycat projects. Security initiatives like STRIDE are a step forward, but it remains to be seen how effective they’ll be as the ecosystem scales.\n\n### What To Watch\nKeep an eye on the rollout of preSPAX and other tokenized real-world assets—these could set precedents for how traditional finance and crypto interact on Solana. The impact of STRIDE on DeFi security will be important to track, especially if public audits become a standard. Watch for continued growth in the dApp Store and the outcomes of the Colosseum Hackathon, which could surface the next wave of breakout projects. Finally, monitor how the community navigates the balance between rapid innovation and responsible risk management as Solana’s user base expands.",
         "takeaways": [
-          "Solana has launched a developer bootcamp with a strong focus on security best practices.",
-          "The ecosystem is experiencing rapid growth in asset value, institutional adoption, and transaction activity.",
-          "New security initiatives and public reviews aim to address the risks that come with scale."
+          "Solana is experiencing rapid ecosystem growth, with major new products and security initiatives.",
+          "Security is a focus, with STRIDE aiming to make DeFi safer through public audits and evaluations.",
+          "Mainstream integrations like SpaceX-linked tokens and real-world assets are pushing Solana into new territory."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 9.1
+      "narrativeStrength": 8.2
     },
     {
-      "id": "story_1775748382407_1",
-      "title": "Jupiter Academy Launches $10K Creator Fund",
-      "type": "live",
-      "category": "Product Launch / Live",
-      "author": "@JUPCommunity",
-      "timestamp": "2026-04-09T15:26:22.407Z",
+      "id": "story_1775922130406_1",
+      "title": "Jupiter Mobile Hits $890M in Monthly Volume",
+      "type": "alpha",
+      "category": "Mobile / Seeker",
+      "author": "@SolanaSensei",
+      "timestamp": "2026-04-11T15:42:10.406Z",
       "metrics": {
-        "tweets": 20,
-        "engagement": 3949,
-        "topTweet": 1092,
-        "voices": 8,
+        "tweets": 5,
+        "engagement": 1309,
+        "topTweet": 502,
+        "voices": 4,
         "engagementTrend": [
-          1580,
-          2172,
-          2685,
-          3238,
-          3949
+          523,
+          720,
+          890,
+          1073,
+          1309
         ]
       },
       "ctPulse": [
         {
-          "handle": "@JUPCommunity",
-          "thought": "🎓 Jupiter Academy just dropped a $10K fund for content creators.\n\nIf you'd like to create content for Jupiter Academy this is your chance!\n\nApply, build, get rewarded. https://t.co/cpQe1SfYbP",
-          "url": "https://twitter.com/JUPCommunity/status/2042203469474365843"
-        },
-        {
-          "handle": "@0xyunss",
-          "thought": "3 minggu lalu gua build DLMM agent yang hasilin gua 20-100$ sehari. standalone agent loop, jalan sendiri tanpa perlu gua pegang.\n\nseminggu lalu gua opensource-in.\n\n270k views. 240 github star. 195 for",
-          "url": "https://twitter.com/0xyunss/status/2041703002923528478"
+          "handle": "@SolanaSensei",
+          "thought": "Jupiter Mobile generated $890M in volume last month!!\n\nIt is actually insane how fast they grew this wallet.\n\nJust use Jupiter I guess. https://t.co/5jIlt3FgUM",
+          "url": "https://twitter.com/SolanaSensei/status/2042286690883289319"
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "BREAKING 🚨 @JupiterExchange ASR Rewards for Q1 2026 are now live with 50M JUP going out to eligible stakers!\n\nClaim on @jup_mobile or official site. https://t.co/ImidA9wcaA",
-          "url": "https://twitter.com/SolanaSensei/status/2042154560052150631"
+          "thought": "Jupiter generated $1.4T in DEX aggregator volume!!\n\nHolding over 90% market share besides OKX, DFlow, and Titan.\n\nWill Jupiter stay Nr. 1 forever? https://t.co/V0d7suabB4",
+          "url": "https://twitter.com/SolanaSensei/status/2042863228758429910"
         },
         {
           "handle": "@sol_nxxn",
@@ -122,109 +117,104 @@
           "url": "https://twitter.com/sol_nxxn/status/2042013228683968809"
         },
         {
-          "handle": "@weremeow",
-          "thought": "RT @JupiterExchange: Token verification just became an API call.\n\nIntroducing: The Express Verification API by @jup_VRFD \n\nLaunchpads, DEXe…",
-          "url": "https://twitter.com/weremeow/status/2041630357527912802"
+          "handle": "@FabianoSolana",
+          "thought": "Jupiter ASR (Jan–Mar 2026) is out:\n\n- JUP on Jan 1: $0.19\n- JUP on Mar 31: $0.15\n\n- APY in JUP: 22%\n- APY in USD: -48% annual return (-16% in 3 months)\n\nIt might not look that great but still better t",
+          "url": "https://twitter.com/FabianoSolana/status/2041920589720412244"
+        },
+        {
+          "handle": "@Heavymetalcook6",
+          "thought": "Set your clock, stay up late, wake up early, quit your job, whatever - just don't miss the next episode of HeavyMetalCrime\n\nSUNDAY 5PM UTC (1PM ET)\n\nSpecial guest - @ALLEYCATNY from @JupiterExchange  ",
+          "url": "https://twitter.com/Heavymetalcook6/status/2042090011349135590"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@JUPCommunity",
-          "reason": "Official source for Jupiter Academy and community initiatives.",
-          "role": "Community",
-          "engagement": 1228
+          "handle": "@JupiterExchange",
+          "reason": "Official source for updates, features, and governance",
+          "role": "Builder",
+          "engagement": 816
         },
         {
-          "handle": "@JupiterExchange",
-          "reason": "Core protocol account for product and reward updates.",
-          "role": "Builder",
-          "engagement": 826
+          "handle": "@SolanaSensei",
+          "reason": "Tracks Solana ecosystem metrics and trends",
+          "role": "Analyst",
+          "engagement": 243
         }
       ],
       "content": {
-        "signal": "Jupiter Academy has introduced a $10,000 fund to incentivize content creators, signaling a push for community-driven education in the Solana ecosystem.",
-        "story": "Jupiter Academy, the educational arm of Jupiter Exchange, has launched a $10,000 fund aimed at rewarding content creators who contribute educational material to its platform. This move is part of a broader effort to deepen user engagement and expand the reach of Jupiter’s ecosystem through community-generated resources. The fund is open for applications, inviting anyone interested in building educational content around Jupiter’s products and Solana DeFi.\n\n### What's Happening\nJupiter’s team is actively encouraging creators to produce guides, tutorials, and other educational content by offering direct financial incentives. This comes as Jupiter continues to roll out new features and rewards, including the recent distribution of 50 million JUP tokens to eligible stakers and the launch of a native rewards hub on its mobile app. The Academy fund is positioned as a way to both recognize existing contributors and attract new voices to the platform.\n\nThe initiative follows a period of rapid development and user activity within Jupiter’s ecosystem. Notably, open-source projects built on Jupiter’s APIs have seen significant traction, with one developer reporting substantial usage and swap volume generated by their automated agent. These developments underscore the growing influence of community-led projects and the importance of accessible educational materials.\n\n### Why It Matters\nBy funding content creation, Jupiter is betting on education as a growth lever for its platform and the broader Solana DeFi landscape. High-quality, community-driven resources can help onboard new users, demystify complex features, and foster loyalty among existing participants. This is especially relevant as Jupiter faces increasing competition from other protocols, with Kamino recently overtaking Jupiter in total value locked on Solana.\n\nThe fund also signals a shift in how DeFi protocols approach community engagement. Rather than relying solely on protocol incentives or token rewards, Jupiter is investing directly in the knowledge layer—potentially setting a precedent for other projects. The move could help address gaps in user understanding, especially as the ecosystem rolls out more advanced tools like API-based token verification and automated trading agents.\n\n### The Risk or Debate\nThere are questions about the long-term impact of such creator funds. While financial incentives can boost short-term participation, sustaining quality and relevance in educational content may require ongoing oversight and curation. There’s also the risk that rewards attract opportunistic content rather than genuinely helpful resources.\n\nAdditionally, Jupiter’s recent decisions—such as suspending cashback and referral rewards in certain regions due to irregular activity—highlight the operational challenges of scaling incentive programs. The effectiveness of the Academy fund will depend on how well Jupiter can balance openness with quality control.\n\n### What To Watch\nKey developments to monitor include the volume and quality of content produced through the Academy fund, and whether this leads to measurable increases in user activity or retention. It will also be important to watch how Jupiter adapts its incentive structures in response to community feedback and shifting competitive dynamics within Solana DeFi.\n\nAs Jupiter continues to innovate—rolling out new APIs, rewards, and educational initiatives—the interplay between protocol development and community engagement will remain a central theme. The success of the Academy fund could influence how other DeFi projects invest in their own user education efforts.",
+        "signal": "Jupiter Mobile processed $890 million in trading volume last month, highlighting rapid adoption and dominance in Solana's DEX aggregator space.",
+        "story": "Jupiter Mobile has quickly become a major player in the Solana ecosystem, generating $890 million in trading volume last month alone. This surge reflects not just strong user interest in mobile-first DeFi, but also Jupiter’s broader dominance: the platform now claims over 90% of Solana’s DEX aggregator market share, outpacing competitors like OKX, DFlow, and Titan by a wide margin.\n\n### What's Happening\nJupiter’s mobile wallet has seen explosive growth, with users increasingly turning to mobile interfaces for on-chain trading. The $890 million in monthly volume is a clear signal that Solana users are comfortable executing significant trades from their phones. Meanwhile, Jupiter’s overall DEX aggregator has processed $1.4 trillion in lifetime volume, cementing its position as the go-to route for liquidity on Solana.\n\nThe project’s ecosystem incentives—such as token rewards and staking—have kept users engaged. While some holders express frustration over recent $JUP price declines, others acknowledge that Jupiter has consistently rewarded active participants, even as broader market conditions remain challenging.\n\n### Why It Matters\nJupiter’s rapid mobile growth is a strong signal for the future of DeFi on Solana. Mobile-first experiences are no longer a novelty; they’re becoming the standard for users who want fast, accessible trading. Jupiter’s dominance also means that most Solana DEX volume now flows through a single aggregator, shaping liquidity and user experience across the chain.\n\nFor token holders, the story is more nuanced. Despite a 22% APY in $JUP rewards, the actual USD returns have been negative over the last quarter, reflecting token price declines. Still, compared to other major assets like SOL and ETH, Jupiter’s rewards system has offered some relative stability for engaged users.\n\n### The Risk or Debate\nJupiter’s dominance raises questions about centralization of liquidity and the sustainability of its rewards model. Heavy reliance on one aggregator could become a vulnerability if technical issues or governance disputes arise. Additionally, while staking rewards are attractive in token terms, negative USD returns may test user patience if price trends don’t reverse.\n\nThere’s also debate around whether Jupiter can maintain its lead. As new competitors and features emerge, users may seek alternatives—especially if incentives or user experience falter. The project’s ability to balance growth, rewards, and governance will be closely watched.\n\n### What To Watch\nKeep an eye on upcoming governance decisions and any changes to Jupiter’s rewards structure. The team’s participation in community events and podcasts suggests ongoing efforts to engage users and address concerns. Watch for updates from Jupiter’s leadership, as well as any signs of shifting market share among Solana DEX aggregators. The next few months will reveal whether Jupiter can sustain its momentum—or if challengers will start to chip away at its dominance.",
         "takeaways": [
-          "Jupiter Academy is offering $10,000 to incentivize educational content creation.",
-          "The initiative aims to deepen community engagement and improve user onboarding.",
-          "Sustaining content quality and managing incentives remain key challenges."
+          "Jupiter Mobile generated $890 million in trading volume last month, signaling rapid user adoption.",
+          "Jupiter controls over 90% of Solana's DEX aggregator market share, with $1.4 trillion in total volume.",
+          "Despite high APY in $JUP rewards, recent USD returns have been negative, reflecting broader market trends."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 7.1
+      "narrativeStrength": 5
     },
     {
-      "id": "story_1775748396171_2",
-      "title": "Solana Wallet Fees: Hidden Costs Shape Airdrop Strategies",
+      "id": "story_1775922139165_2",
+      "title": "Meteora Rolls Out Portfolio View for LPs",
       "type": "alpha",
-      "category": "Airdrop Strategy",
-      "author": "@jussy_world",
-      "timestamp": "2026-04-09T15:26:36.171Z",
+      "category": "DeFi Innovation",
+      "author": "@SolanaSensei",
+      "timestamp": "2026-04-11T15:42:19.165Z",
       "metrics": {
-        "tweets": 7,
-        "engagement": 2089,
-        "topTweet": 789,
-        "voices": 4,
+        "tweets": 3,
+        "engagement": 442,
+        "topTweet": 297,
+        "voices": 3,
         "engagementTrend": [
-          835,
-          1149,
-          1420,
-          1713,
-          2089
+          177,
+          243,
+          300,
+          362,
+          442
         ]
       },
       "ctPulse": [
         {
-          "handle": "@jussy_world",
-          "thought": "You’re losing money every time you swap using wrong wallet\n\nSame $10k swap: 👇\n\n@Backpack (0%)\n$10k → $0\n$50k → $0\n$100k → $0\n\n@jup_mobile (~0.02%)\n$10k → $2\n$50k → $10\n$100k → $20\n\n@phantom (0.85%)\n$",
-          "url": "https://twitter.com/jussy_world/status/2041206419501047866"
+          "handle": "@SolanaSensei",
+          "thought": "Meteora just introduced their new Portfolio view\n\nYou can now see all the necessary info around your LP journey\n\nLooking really sexy. What are we thinking? https://t.co/bnyRsym8NG",
+          "url": "https://twitter.com/SolanaSensei/status/2042270829959155861"
         },
         {
-          "handle": "@Backpack",
-          "thought": "We're thrilled to welcome Nathan Smith as Backpack's Chief Operating Officer.\n\nNathan has been instrumental in building and scaling our exchange and wallet from the ground up. Before Backpack, he led ",
-          "url": "https://twitter.com/Backpack/status/2041902323157401774"
+          "handle": "@met_lparmy",
+          "thought": ".@SuperHighDeFi  shares @MeteoraAG update overview\n\n“We've been doing a lot of these type of feedback loops with you guys because you guys are core users the LP Army, and I think that's a big part of ",
+          "url": "https://twitter.com/met_lparmy/status/2042896760956240033"
         },
         {
-          "handle": "@Backpack",
-          "thought": "Your gold should be earning.\n\nPAXG Yield Boost: trade on Backpack to unlock up to 30% APY on your PAXG.  The more you trade, the more you earn.\n\nCollateral stays active. Yield stacks.\n\nOpt in and read",
-          "url": "https://twitter.com/Backpack/status/2042031121659986343"
-        },
-        {
-          "handle": "@sol_nxxn",
-          "thought": "It’s been 2 weeks since Backpack $BP launch and airdrop 🎒\n\n&gt; $BP down 50%, stabilized at $0.15\n&gt; Mad Lads dipped to all time low ~$700\n\nWas it a failure launch, expectations mismatch or just th",
-          "url": "https://twitter.com/sol_nxxn/status/2041471016187125942"
-        },
-        {
-          "handle": "@jussy_world",
-          "thought": "RT @jussy_world: You’re losing money every time you swap using wrong wallet\n\nSame $10k swap: 👇\n\n@Backpack (0%)\n$10k → $0\n$50k → $0\n$100k →…",
-          "url": "https://twitter.com/jussy_world/status/2041393040083112218"
+          "handle": "@Heavymetalcook6",
+          "thought": "WUT you have not yet taken LP Academy to learn how to be a Liquidity Provider on @MeteoraAG ?\n\n1) Why the heck not?\n2) It's free so what have you got to lose?\n3) It's better than ever\n\nLevel up today ",
+          "url": "https://twitter.com/Heavymetalcook6/status/2042002773370151346"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@jussy_world",
-          "reason": "Highlighted wallet fee disparities and their impact.",
-          "role": "Analyst",
-          "engagement": 923
+          "handle": "@MeteoraAG",
+          "reason": "Official account for updates and product changes",
+          "role": "Builder",
+          "engagement": 297
         },
         {
-          "handle": "@Backpack",
-          "reason": "Driving zero-fee strategy and new incentives in the Solana wallet space.",
-          "role": "Builder",
-          "engagement": 852
+          "handle": "@SolanaSensei",
+          "reason": "Provides ecosystem insights and highlights new features",
+          "role": "Community",
+          "engagement": 79
         }
       ],
       "content": {
-        "signal": "Wallet choice on Solana can quietly drain or preserve value during swaps, with major fee differences impacting both users and airdrop hunters.",
-        "story": "Wallet fees on Solana are not created equal, and the differences are starting to matter more than ever—especially for users chasing airdrops or optimizing every swap. Recent data circulating on Crypto Twitter breaks down just how much you lose (or save) depending on which wallet you use to swap tokens. The numbers are stark: Backpack charges zero swap fees, while Phantom and MetaMask take nearly 0.85% per transaction. Even small percentages add up fast, especially for active traders or those moving larger amounts.\n\n### What's Happening\n\nA clear fee hierarchy is emerging among Solana wallets. Backpack is positioning itself as the zero-fee option, with $0 taken from a $10k swap, while Phantom and MetaMask charge $85 and $87.50 respectively on the same amount. Jupiter Mobile sits in the middle, charging a negligible $2 on $10k. These fees are before any DEX fees, gas, or slippage—purely the wallet's cut. This fee structure is now front and center as users look for ways to maximize airdrop eligibility and trading efficiency.\n\nBackpack is also making moves beyond just fee competition. The team recently brought on Nathan Smith, a veteran with experience at Coinbase and Solana integrations, as COO. They’re rolling out new features like PAXG Yield Boost, offering up to 30% APY for trading gold-backed tokens on their platform. The message is clear: Backpack wants to be the default wallet for active Solana users, especially those optimizing for airdrops and yield.\n\n### Why It Matters\n\nFor airdrop hunters and active traders, wallet fees can quietly erode profits or eligibility. Many airdrop campaigns track trading volume or wallet activity, so losing 0.85% per swap can be the difference between qualifying for a tier or missing out. As users become more fee-sensitive, wallets that minimize or eliminate fees are gaining ground. This is especially true in a market where token prices are volatile and every basis point counts.\n\nThe broader implication is that wallet choice is no longer just about UX or brand—it's a financial decision. As Backpack and others compete on fees and incentives, users are likely to become more sophisticated in how they route trades and manage wallets. This could reshape which wallets dominate Solana and influence how future airdrops are structured.\n\n### The Risk or Debate\n\nThere’s a debate brewing about how sustainable zero-fee models are for wallets like Backpack. While attractive for users, these models may rely on alternative revenue streams or aggressive growth strategies that could shift over time. Users should also be aware that wallet fees are only part of the cost; DEX fees, gas, and slippage still apply. Additionally, recent price drops in Backpack’s $BP token and Mad Lads NFTs raise questions about whether incentives alone can drive long-term adoption.\n\n### What To Watch\n\nKeep an eye on how other wallets respond—will Phantom or MetaMask adjust their fee structures, or double down on other features? Watch for new airdrop campaigns that may reward fee-efficient activity, and for further product rollouts from Backpack as they try to lock in their user base. The hiring of experienced operators like Nathan Smith signals more ambitious moves ahead. Ultimately, expect wallet competition on Solana to get fiercer, with users benefiting from lower costs and more tailored incentives.",
+        "signal": "Meteora has launched a new Portfolio view aimed at simplifying and improving the experience for liquidity providers on Solana.",
+        "story": "Meteora, a DeFi protocol on Solana, has introduced a Portfolio view designed to streamline how liquidity providers (LPs) track and manage their positions. The update is the result of ongoing feedback loops with core users, reflecting a focus on making the LP journey more transparent and user-friendly. The new interface consolidates key information, allowing users to see their positions and performance in one place.\n\n### What's Happening\nMeteora's Portfolio view is a direct response to feedback from its active LP community. The update aims to lower the barrier for new LPs and provide existing users with better tools to monitor their activity. By aggregating essential data, the platform wants to make it easier for users to understand their exposure and returns without navigating multiple dashboards or tools.\n\nThe rollout is accompanied by educational efforts, such as the LP Academy, which offers free resources for users to learn about liquidity provision on Meteora. This dual approach—product improvement and user education—signals Meteora's intent to grow its user base and deepen engagement among existing LPs.\n\n### Why It Matters\nFor DeFi protocols, user experience is a key differentiator, especially as competition on Solana heats up. By focusing on usability and transparency, Meteora is positioning itself as a protocol that listens to its community and iterates quickly. Simplifying the LP experience could attract more users who are curious about DeFi but hesitant due to complexity.\n\nBetter portfolio management tools can also help users make more informed decisions, potentially leading to healthier liquidity pools and a more robust ecosystem. If successful, this approach could set a new standard for how DeFi protocols engage with and support their LPs on Solana.\n\n### The Risk or Debate\nWhile the new Portfolio view is a step forward, there are open questions about how much it will move the needle for user growth or retention. Some users may still find DeFi intimidating, even with improved interfaces and educational content. There is also the ongoing risk of smart contract vulnerabilities or unforeseen UX issues that could impact trust.\n\nAnother consideration is whether these changes will be enough to differentiate Meteora from other protocols offering similar features. The DeFi landscape on Solana is evolving rapidly, and user expectations are rising alongside it.\n\n### What To Watch\nThe next phase will be seeing how the community responds to the Portfolio view in practice. Metrics like user growth, retention, and feedback will be telling. It’s also worth watching whether other Solana DeFi protocols follow suit with similar user-focused updates.\n\nContinued engagement between Meteora and its LP community will be important. If the feedback loop remains strong, further improvements could be on the horizon, potentially shaping best practices for the broader ecosystem.",
         "takeaways": [
-          "Backpack wallet currently charges zero swap fees, while Phantom and MetaMask take nearly 0.85%.",
-          "Wallet choice directly impacts airdrop eligibility and trading profitability on Solana.",
-          "Backpack is aggressively expanding features and leadership to capture active users."
+          "Meteora launched a Portfolio view to help LPs track and manage their positions.",
+          "The update is driven by user feedback and paired with educational resources.",
+          "User experience improvements may set a new standard for DeFi protocols on Solana."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 5.3
+      "narrativeStrength": 4.3
     }
   ]
 }
