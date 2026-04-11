@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-11T07:48:24.461Z",
+    "generatedAt": "2026-04-11T19:33:25.682Z",
     "totalCandidates": 112,
     "solanaCandidates": 16,
     "selected": 5,
@@ -8,6 +8,39 @@
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://www.coindesk.com/business/2026/04/11/iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play",
+      "title": "Iran war oil-price shock revives inflation trade and a new stablecoin play",
+      "url": "https://www.coindesk.com/business/2026/04/11/iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-11T16:00:00.000Z",
+      "summary": "As oil shocks revive investor anxiety, stablecoins solved payments, but not purchasing power, says Michael Ashton, who's USDi token aims to fix that.",
+      "tags": [
+        "iran",
+        "price",
+        "shock"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "1ea7b25f4d6a84e7402962952f37d9919109ec90",
+      "score": 22
+    },
     {
       "id": "https://www.theblock.co/post/397092/crypto-bill-negotiations-critical-week-lawmakers-return-resolve-stablecoin-rewards",
       "title": "Crypto bill negotiations enter critical week as lawmakers return amid pressure to resolve stablecoin rewards",
@@ -33,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5ac5e1e5ad66dcbc2a2d90dbbb7c637fd38b7209",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan",
@@ -66,28 +99,28 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "7ebf6a28a188a50241468533006fd2f2a0ddd58d",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/03/24/hong-kong-awards-first-stablecoin-licenses-to-hsbc-standard-chartered-led-group",
-      "title": "HSBC and Standard Chartered-led group land Hong Kong’s first stablecoin licenses",
-      "url": "https://www.coindesk.com/policy/2026/03/24/hong-kong-awards-first-stablecoin-licenses-to-hsbc-standard-chartered-led-group",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-10T09:19:49.000Z",
-      "summary": "The approvals by the Hong Kong Monetary Authority, the territory's central bank, mark the first batch under the Stablecoins Ordinance, which took effect in August 2025.",
+      "id": "https://www.theblock.co/post/397117/bitwise-files-second-amendment-to-hyperliquid-etf-adds-wintermute-and-flowdesk-as-trading-counterparties",
+      "title": "Bitwise files second amendment to Hyperliquid ETF, adds Wintermute and Flowdesk as trading counterparties",
+      "url": "https://www.theblock.co/post/397117/bitwise-files-second-amendment-to-hyperliquid-etf-adds-wintermute-and-flowdesk-as-trading-counterparties",
+      "source": "The Block",
+      "publishedAt": "2026-04-11T18:05:06.000Z",
+      "summary": "The filing comes a day after Bitwise Europe listed a physically-backed Hyperliquid staking ETP on Deutsche Börse Xetra.",
       "tags": [
-        "hsbc",
-        "standard",
-        "chartered"
+        "bitwise",
+        "files",
+        "second"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "market",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -97,15 +130,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "95354b438b6858def5fd14354adc7d3048e3c9bf",
-      "score": 21
+      "dedupeFingerprint": "afec10d21eb5e0cbbe440d1b412a4105529e5b4d",
+      "score": 17
     },
     {
       "id": "https://www.theblock.co/post/397069/world-decreasing-wld-token-unlock-rate-by-over-40-starting-in-july",
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "12a2f693bbb7c03b828d29ba35f6c762310898a8",
-      "score": 18
-    },
-    {
-      "id": "https://www.theblock.co/post/396948/galaxy-stock-rallies-11-after-annual-report-shows-core-business-profitable-despite-241-million-net-loss",
-      "title": "Galaxy stock rallies 11% after annual report shows core business profitable despite $241 million net loss",
-      "url": "https://www.theblock.co/post/396948/galaxy-stock-rallies-11-after-annual-report-shows-core-business-profitable-despite-241-million-net-loss",
-      "source": "The Block",
-      "publishedAt": "2026-04-09T20:46:28.000Z",
-      "summary": "Galaxy's Digital Assets segment, housing its trading, lending, asset management, and staking services, generated a $505 million profit.",
-      "tags": [
-        "galaxy",
-        "stock",
-        "rallies"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
         "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5e61abb870c1a3fef6bb5b58cb55bbda3f06c4e2",
-      "score": 15
+      "dedupeFingerprint": "12a2f693bbb7c03b828d29ba35f6c762310898a8",
+      "score": 17
     }
   ]
 }
