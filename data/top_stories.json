@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-04-11T19:33:25.682Z",
+    "generatedAt": "2026-04-12T08:02:11.420Z",
     "totalCandidates": 112,
-    "solanaCandidates": 16,
+    "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "1ea7b25f4d6a84e7402962952f37d9919109ec90",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/397092/crypto-bill-negotiations-critical-week-lawmakers-return-resolve-stablecoin-rewards",
@@ -66,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5ac5e1e5ad66dcbc2a2d90dbbb7c637fd38b7209",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan",
@@ -99,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "7ebf6a28a188a50241468533006fd2f2a0ddd58d",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://www.theblock.co/post/397117/bitwise-files-second-amendment-to-hyperliquid-etf-adds-wintermute-and-flowdesk-as-trading-counterparties",
@@ -132,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "afec10d21eb5e0cbbe440d1b412a4105529e5b4d",
-      "score": 17
+      "score": 16
     },
     {
       "id": "https://www.theblock.co/post/397069/world-decreasing-wld-token-unlock-rate-by-over-40-starting-in-july",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "12a2f693bbb7c03b828d29ba35f6c762310898a8",
-      "score": 17
+      "score": 16
     }
   ]
 }
