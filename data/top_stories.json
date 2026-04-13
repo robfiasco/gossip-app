@@ -1,13 +1,79 @@
 {
   "meta": {
-    "generatedAt": "2026-04-12T19:37:49.160Z",
-    "totalCandidates": 105,
-    "solanaCandidates": 15,
+    "generatedAt": "2026-04-13T09:00:21.398Z",
+    "totalCandidates": 99,
+    "solanaCandidates": 16,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://www.coindesk.com/markets/2026/04/13/alameda-moves-usd16-million-in-solana-s-sol-token-for-possible-creditor-distribution",
+      "title": "Alameda moves $16 million in Solana's SOL token for possible creditor distribution",
+      "url": "https://www.coindesk.com/markets/2026/04/13/alameda-moves-usd16-million-in-solana-s-sol-token-for-possible-creditor-distribution",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-13T06:58:56.000Z",
+      "summary": "Alameda unstakes $16 million worth of Solana's SOL token, according to Arkham.",
+      "tags": [
+        "alameda",
+        "moves",
+        "million"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "78b7a2f5f604f62f034300b8f8f44b258f00eab1",
+      "score": 30
+    },
+    {
+      "id": "https://www.coindesk.com/tech/2026/04/13/aave-passes-landmark-vote-ending-months-long-fight-over-who-controls-protocol-revenue",
+      "title": "Aave passes landmark vote ending months-long fight over protocol revenue control",
+      "url": "https://www.coindesk.com/tech/2026/04/13/aave-passes-landmark-vote-ending-months-long-fight-over-who-controls-protocol-revenue",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-13T06:46:20.000Z",
+      "summary": "The proposal directs 100% of application and product revenue back to AAVE token holders, resolving a governance dispute that began when swap fees were quietly redirected away from the DAO treasury in late 2025.",
+      "tags": [
+        "aave",
+        "passes",
+        "landmark"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "d9c676b03b8df3eea9b741e9c55ccd8aeba0507b",
+      "score": 25
+    },
     {
       "id": "https://www.coindesk.com/business/2026/04/12/commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-stablecoins",
       "title": "Commodity traders are getting debanked due to Iran war, pushing them to rely on stablecoins",
@@ -33,28 +99,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "57acb917d7c4a07b23f66e0a57b52a00e48d3efa",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.coindesk.com/business/2026/04/11/iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play",
-      "title": "Iran war oil-price shock revives inflation trade and a new stablecoin play",
-      "url": "https://www.coindesk.com/business/2026/04/11/iran-war-oil-price-shock-revives-inflation-trade-and-a-new-stablecoin-play",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-11T16:00:00.000Z",
-      "summary": "As oil shocks revive investor anxiety, stablecoins solved payments, but not purchasing power, says Michael Ashton, who's USDi token aims to fix that.",
+      "id": "https://ambcrypto.com/pump-fun-unlocks-18m-in-tokens-can-bulls-absorb-pumps-supply",
+      "title": "Pump.fun unlocks $18M in tokens: Can bulls absorb PUMP’s supply?",
+      "url": "https://ambcrypto.com/pump-fun-unlocks-18m-in-tokens-can-bulls-absorb-pumps-supply",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-13T03:30:55.000Z",
+      "summary": "PUMP set for major token unlock, but market reaction signals buying interest.",
       "tags": [
-        "iran",
-        "price",
-        "shock"
+        "pump",
+        "unlocks",
+        "tokens"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -66,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "1ea7b25f4d6a84e7402962952f37d9919109ec90",
-      "score": 20
+      "dedupeFingerprint": "23b2b4fbab0a90cfc5b8af49ae232c015f4a3bac",
+      "score": 19
     },
     {
       "id": "https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan",
@@ -99,79 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 5,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "7ebf6a28a188a50241468533006fd2f2a0ddd58d",
-      "score": 19
-    },
-    {
-      "id": "https://www.coindesk.com/opinion/2026/04/10/defi-s-shakeout-is-a-stress-test-not-a-death-sentence",
-      "title": "DeFi’s shakeout is a stress test, not a death sentence",
-      "url": "https://www.coindesk.com/opinion/2026/04/10/defi-s-shakeout-is-a-stress-test-not-a-death-sentence",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-12T17:30:00.000Z",
-      "summary": "Novozhenov argues that despite lingering governance, security and regulatory hurdles that have shuttered several protocols, DeFi remains resilient.",
-      "tags": [
-        "defi",
-        "shakeout",
-        "stress"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d29a61bd906034142da9c2fe21ad59059b7a5ee7",
-      "score": 17
-    },
-    {
-      "id": "https://ambcrypto.com/weekly-recap-of-bitcoin-ethereum-solana-and-xrp-etf-performance",
-      "title": "Weekly recap of Bitcoin, Ethereum, Solana, and XRP ETF performance",
-      "url": "https://ambcrypto.com/weekly-recap-of-bitcoin-ethereum-solana-and-xrp-etf-performance",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-12T11:00:07.000Z",
-      "summary": "Top crypto ETFs saw mixed flows as prices surged across the week.",
-      "tags": [
-        "weekly",
-        "recap",
-        "bitcoin"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6b59de38997c1eeb967fd039aa2112aeb035cf60",
-      "score": 16
+      "score": 18
     }
   ]
 }

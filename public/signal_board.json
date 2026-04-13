@@ -1,16 +1,21 @@
 {
-  "date": "2026-04-12",
-  "generated_at_utc": "2026-04-12T19:37:56.184Z",
-  "ctxMarket": "Attention is on ETF performance for major cryptocurrencies, including Solana, following a week of price surges and mixed fund flows. Security developments within the Solana ecosystem are also drawing focus.",
-  "ctxTalking": "• Mixed flows in top crypto ETFs as prices moved higher\n• New security initiatives: STRIDE and the Solana Incident Response Network",
-  "ctxMatters": "ETF flows can reflect institutional sentiment toward Solana and other major cryptocurrencies. Enhanced security measures like STRIDE and the Incident Response Network may impact user confidence and ecosystem resilience. Both themes highlight ongoing efforts to strengthen Solana's market position and technical reliability.",
-  "ctxSignal": "Signal: Increased attention to ETF flows and new security frameworks in the Solana ecosystem.\nNoise: Short-term price movements not clearly tied to underlying developments.",
-  "ctxGlossary": "ETF — Exchange-traded fund, a type of investment fund traded on stock exchanges.\nSTRIDE — A new security initiative within the Solana ecosystem.",
+  "date": "2026-04-13",
+  "generated_at_utc": "2026-04-13T09:00:32.865Z",
+  "ctxMarket": "Attention is on large token movements and upcoming unlocks within the Solana ecosystem. ETF performance across major blockchains, including Solana, is also under review following a week of price surges.",
+  "ctxTalking": "• Alameda unstaking and moving $16 million in SOL, possibly for creditor distribution\n• Pump.fun’s $18 million token unlock and market interest in absorbing new supply\n• Security upgrades in the Solana ecosystem with STRIDE and the Incident Response Network",
+  "ctxMatters": "Large token movements by entities like Alameda can impact liquidity and sentiment. Token unlocks, such as those from Pump.fun, test market demand and absorption capacity. Security initiatives signal ongoing efforts to strengthen trust and resilience in the Solana network.",
+  "ctxSignal": "Signal: Major SOL movements and token unlocks are drawing real-time market attention. Security upgrades are being implemented at the protocol level.\nNoise: Speculation on immediate price impact from ETF flows without clear supporting data.",
+  "ctxGlossary": "Token Unlock — The scheduled release of previously locked tokens into circulation.\nIncident Response Network — A coordinated system for addressing security threats in the Solana ecosystem.",
   "readMore": [
     {
-      "title": "Weekly recap of Bitcoin, Ethereum, Solana, and XRP ETF performance",
+      "title": "Alameda moves $16 million in Solana's SOL token for possible creditor distribution",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/13/alameda-moves-usd16-million-in-solana-s-sol-token-for-possible-creditor-distribution"
+    },
+    {
+      "title": "Pump.fun unlocks $18M in tokens",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/weekly-recap-of-bitcoin-ethereum-solana-and-xrp-etf-performance"
+      "url": "https://ambcrypto.com/pump-fun-unlocks-18m-in-tokens-can-bulls-absorb-pumps-supply"
     },
     {
       "title": "Raising the Bar on Solana Ecosystem Security",

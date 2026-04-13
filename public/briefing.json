@@ -1,8 +1,26 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "ECOSYSTEM",
+      "title": "Pump.fun unlocks $18M in tokens: Can bulls absorb PUMP’s supply?",
+      "category": "ECOSYSTEM",
+      "source": "AMB Crypto",
+      "date": "2026-04-13",
+      "url": "https://ambcrypto.com/pump-fun-unlocks-18m-in-tokens-can-bulls-absorb-pumps-supply",
+      "whyYouShouldCare": "The release of $18 million in PUMP tokens could impact market dynamics, testing the ability of bulls to absorb increased supply without significant price pressure."
+    },
+    {
+      "type": "APPS",
+      "title": "Alameda moves $16 million in Solana's SOL token for possible creditor distribution",
+      "category": "APPS",
+      "source": "CoinDesk",
+      "date": "2026-04-13",
+      "url": "https://www.coindesk.com/markets/2026/04/13/alameda-moves-usd16-million-in-solana-s-sol-token-for-possible-creditor-distribution",
+      "whyYouShouldCare": "Alameda's transfer of $16 million in SOL tokens suggests potential liquidity shifts, which may influence market sentiment and creditor relations within the Solana ecosystem."
+    },
     {
       "type": "APPS",
       "title": "Weekly recap of Bitcoin, Ethereum, Solana, and XRP ETF performance",
@@ -10,25 +28,7 @@
       "source": "AMB Crypto",
       "date": "2026-04-12",
       "url": "https://ambcrypto.com/weekly-recap-of-bitcoin-ethereum-solana-and-xrp-etf-performance",
-      "whyYouShouldCare": "The performance of Bitcoin, Ethereum, Solana, and XRP ETFs can influence investor sentiment and liquidity across the crypto market, impacting SOL's positioning."
-    },
-    {
-      "type": "APPS",
-      "title": "Justin Sun calls out WLFI, platform threatens lawsuit in response",
-      "category": "APPS",
-      "source": "Cointelegraph",
-      "date": "2026-04-12",
-      "url": "https://cointelegraph.com/news/justin-sun-wlfi-platform-lawsuit",
-      "whyYouShouldCare": "Justin Sun's dispute with WLFI highlights potential legal risks in the crypto space, which could affect investor confidence in platforms associated with Solana."
-    },
-    {
-      "type": "APPS",
-      "title": "Over 80% of Bitcoin ETF assets hit Coinbase custody choke point with $74B at risk",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-04-12",
-      "url": "https://cryptoslate.com/over-80-of-bitcoin-etf-assets-hit-coinbase-custody-choke-point-with-74b-at-risk",
-      "whyYouShouldCare": "With over $74B in Bitcoin ETF assets at risk due to custody issues, this could lead to liquidity challenges that may ripple through the broader crypto ecosystem, including Solana."
+      "whyYouShouldCare": "Tracking ETF performance for major cryptocurrencies, including Solana, offers insights into institutional interest and market trends that could affect SOL's positioning."
     }
   ]
 }
