@@ -1,26 +1,21 @@
 {
   "date": "2026-04-13",
-  "generated_at_utc": "2026-04-13T09:00:32.865Z",
-  "ctxMarket": "Attention is on large token movements and upcoming unlocks within the Solana ecosystem. ETF performance across major blockchains, including Solana, is also under review following a week of price surges.",
-  "ctxTalking": "• Alameda unstaking and moving $16 million in SOL, possibly for creditor distribution\n• Pump.fun’s $18 million token unlock and market interest in absorbing new supply\n• Security upgrades in the Solana ecosystem with STRIDE and the Incident Response Network",
-  "ctxMatters": "Large token movements by entities like Alameda can impact liquidity and sentiment. Token unlocks, such as those from Pump.fun, test market demand and absorption capacity. Security initiatives signal ongoing efforts to strengthen trust and resilience in the Solana network.",
-  "ctxSignal": "Signal: Major SOL movements and token unlocks are drawing real-time market attention. Security upgrades are being implemented at the protocol level.\nNoise: Speculation on immediate price impact from ETF flows without clear supporting data.",
-  "ctxGlossary": "Token Unlock — The scheduled release of previously locked tokens into circulation.\nIncident Response Network — A coordinated system for addressing security threats in the Solana ecosystem.",
+  "generated_at_utc": "2026-04-13T20:04:35.820Z",
+  "ctxMarket": "Attention is focused on institutional adoption and regulatory responses within the Solana ecosystem. Recent developments highlight both compliance efforts and ethical debates around stablecoin management.",
+  "ctxTalking": "• Jito and KODA’s partnership to enable regulated institutional staking of JitoSOL in South Korea\n• Circle CEO’s public explanation for not freezing USDC linked to the Drift exploit, referencing legal and ethical considerations",
+  "ctxMatters": "Institutional staking solutions may increase Solana’s appeal to regulated entities, especially in markets with evolving crypto rules. The Circle incident underscores ongoing challenges around stablecoin issuer responsibilities during protocol exploits, which could influence future risk management and trust in Solana-based DeFi.",
+  "ctxSignal": "Signal: Institutional infrastructure and compliance are becoming central to Solana’s growth narrative.\nNoise: Speculation around Circle’s motives without direct statements from the company.",
+  "ctxGlossary": "JitoSOL — A liquid staking token on Solana, allowing users to earn staking rewards while retaining liquidity.\nUSDC — A major US dollar-pegged stablecoin used widely across blockchains, including Solana.",
   "readMore": [
     {
-      "title": "Alameda moves $16 million in Solana's SOL token for possible creditor distribution",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/13/alameda-moves-usd16-million-in-solana-s-sol-token-for-possible-creditor-distribution"
+      "title": "Jito, KODA team up on institutional staking in South Korea",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/jito-koda-team-up-on-institutional-staking-in-south-korea"
     },
     {
-      "title": "Pump.fun unlocks $18M in tokens",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/pump-fun-unlocks-18m-in-tokens-can-bulls-absorb-pumps-supply"
-    },
-    {
-      "title": "Raising the Bar on Solana Ecosystem Security",
-      "source": "Solana News",
-      "url": "https://solana.com/news/solana-ecosystem-security"
+      "title": "Circle CEO Allaire defends decision not to freeze USDC in Drift exploit, citing ‘moral quandary’",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/397180/circle-ceo-allaire-defends-decision-not-to-freeze-usdc-in-drift-exploit-citing-moral-quandary"
     }
   ]
 }

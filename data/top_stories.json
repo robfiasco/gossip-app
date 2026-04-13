@@ -1,57 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-04-13T09:00:21.398Z",
+    "generatedAt": "2026-04-13T20:04:24.865Z",
     "totalCandidates": 99,
-    "solanaCandidates": 16,
+    "solanaCandidates": 13,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/markets/2026/04/13/alameda-moves-usd16-million-in-solana-s-sol-token-for-possible-creditor-distribution",
-      "title": "Alameda moves $16 million in Solana's SOL token for possible creditor distribution",
-      "url": "https://www.coindesk.com/markets/2026/04/13/alameda-moves-usd16-million-in-solana-s-sol-token-for-possible-creditor-distribution",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-13T06:58:56.000Z",
-      "summary": "Alameda unstakes $16 million worth of Solana's SOL token, according to Arkham.",
-      "tags": [
-        "alameda",
-        "moves",
-        "million"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "78b7a2f5f604f62f034300b8f8f44b258f00eab1",
-      "score": 30
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/04/13/aave-passes-landmark-vote-ending-months-long-fight-over-who-controls-protocol-revenue",
-      "title": "Aave passes landmark vote ending months-long fight over protocol revenue control",
-      "url": "https://www.coindesk.com/tech/2026/04/13/aave-passes-landmark-vote-ending-months-long-fight-over-who-controls-protocol-revenue",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-13T06:46:20.000Z",
-      "summary": "The proposal directs 100% of application and product revenue back to AAVE token holders, resolving a governance dispute that began when swap fees were quietly redirected away from the DAO treasury in late 2025.",
+      "id": "https://www.theblock.co/post/397138/aave-dao-approves-25-million-aave-labs-funding-grant-in-binding-aave-will-win-vote",
+      "title": "Aave DAO approves $25 million Aave Labs funding grant in binding ‘Aave Will Win’ vote",
+      "url": "https://www.theblock.co/post/397138/aave-dao-approves-25-million-aave-labs-funding-grant-in-binding-aave-will-win-vote",
+      "source": "The Block",
+      "publishedAt": "2026-04-12T22:12:47.000Z",
+      "summary": "The Aave Chan Initiative cast the largest dissenting vote on the proposal, in line with founder Marc Zeller's prior opposition to Aave's actions.",
       "tags": [
         "aave",
-        "passes",
-        "landmark"
+        "approves",
+        "million"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -66,25 +33,58 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d9c676b03b8df3eea9b741e9c55ccd8aeba0507b",
-      "score": 25
+      "dedupeFingerprint": "bb35b0a4cb795a5af58bce6006e9db7221dd74e0",
+      "score": 24
     },
     {
-      "id": "https://www.coindesk.com/business/2026/04/12/commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-stablecoins",
-      "title": "Commodity traders are getting debanked due to Iran war, pushing them to rely on stablecoins",
-      "url": "https://www.coindesk.com/business/2026/04/12/commodity-traders-are-getting-debanked-due-to-iran-war-pushing-them-to-rely-on-stablecoins",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-12T12:00:00.000Z",
-      "summary": "As banks retreat from trade finance amid Iran-linked risk fears, non-bank lenders and traders are increasingly turning to stablecoins for settlement, according to Haycen’s Luke Sully.",
+      "id": "https://cointelegraph.com/news/jito-koda-team-up-on-institutional-staking-in-south-korea",
+      "title": "Jito, KODA team up on institutional staking in South Korea",
+      "url": "https://cointelegraph.com/news/jito-koda-team-up-on-institutional-staking-in-south-korea",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-13T17:26:28.000Z",
+      "summary": "The collaboration aims to bring regulated custody and staking for JitoSOL to South Korea as institutions prepare for new crypto rules.",
       "tags": [
-        "commodity",
-        "traders",
-        "getting"
+        "jito",
+        "koda",
+        "team"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "baa24f983922e9cc0ca4098166d5c4bb2390c23b",
+      "score": 23
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/04/13/clearbank-secures-mica-approval-targets-circle-euro-dollar-stablecoins-for-institutional-clients",
+      "title": "ClearBank secures MiCA approval, targets Circle euro, dollar stablecoins for institutional clients",
+      "url": "https://www.coindesk.com/business/2026/04/13/clearbank-secures-mica-approval-targets-circle-euro-dollar-stablecoins-for-institutional-clients",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-13T14:02:03.000Z",
+      "summary": "The U.K.- and EU-regulated credit institution gains crypto-asset service provider status and said it will connect clients to regulated stablecoin rails over Circle Mint",
+      "tags": [
+        "clearbank",
+        "secures",
+        "mica"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -99,28 +99,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "57acb917d7c4a07b23f66e0a57b52a00e48d3efa",
-      "score": 21
+      "dedupeFingerprint": "6fcc1f77146688528d74a1aca5bafa5b8eb84d97",
+      "score": 22
     },
     {
-      "id": "https://ambcrypto.com/pump-fun-unlocks-18m-in-tokens-can-bulls-absorb-pumps-supply",
-      "title": "Pump.fun unlocks $18M in tokens: Can bulls absorb PUMP’s supply?",
-      "url": "https://ambcrypto.com/pump-fun-unlocks-18m-in-tokens-can-bulls-absorb-pumps-supply",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-13T03:30:55.000Z",
-      "summary": "PUMP set for major token unlock, but market reaction signals buying interest.",
+      "id": "https://www.coindesk.com/markets/2026/04/13/wlfi-mints-usd25-million-in-fresh-usd1-and-burns-usd3-million-days-after-repayment-claim",
+      "title": "World Liberty Financial executes a massive $22 million stablecoin shuffle amid its borrowing controversy",
+      "url": "https://www.coindesk.com/markets/2026/04/13/wlfi-mints-usd25-million-in-fresh-usd1-and-burns-usd3-million-days-after-repayment-claim",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-13T12:30:00.000Z",
+      "summary": "The mint and a simultaneous $3 million burn come days after the venture said it had repaid $25 million of the borrowing position that left depositors unable to withdraw from a DeFi lending pool.",
       "tags": [
-        "pump",
-        "unlocks",
-        "tokens"
+        "world",
+        "liberty",
+        "financial"
       ],
       "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -133,27 +133,27 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "23b2b4fbab0a90cfc5b8af49ae232c015f4a3bac",
-      "score": 19
+      "dedupeFingerprint": "e9b09df328335882ef1f923cc98a3093955f75f3",
+      "score": 22
     },
     {
-      "id": "https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan",
-      "title": "Trump-Linked WLFI Erases $427 Million From Market Cap on DeFi Loan, Token Unlock Proposal",
-      "url": "https://decrypt.co/363928/trump-linked-wlfi-erases-427-million-token-unlock-proposal-defi-loan",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-10T15:39:07.000Z",
-      "summary": "Onlookers expressed concerns that Dolomite’s protocol could be stuck with bad debt if World Liberty’s loans were unwound.",
+      "id": "https://www.theblock.co/post/397180/circle-ceo-allaire-defends-decision-not-to-freeze-usdc-in-drift-exploit-citing-moral-quandary",
+      "title": "Circle CEO Allaire defends decision not to freeze USDC in Drift exploit, citing ‘moral quandary’",
+      "url": "https://www.theblock.co/post/397180/circle-ceo-allaire-defends-decision-not-to-freeze-usdc-in-drift-exploit-citing-moral-quandary",
+      "source": "The Block",
+      "publishedAt": "2026-04-13T10:29:24.000Z",
+      "summary": "Circle CEO Jeremy Allaire emphasized that the stablecoin issuer has a \"very clear performance obligation\" to act under the law.",
       "tags": [
-        "trump",
-        "linked",
-        "wlfi"
+        "circle",
+        "allaire",
+        "defends"
       ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 10,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7ebf6a28a188a50241468533006fd2f2a0ddd58d",
-      "score": 18
+      "dedupeFingerprint": "81a49330afc104718cac71ef4f2c7173c0b36736",
+      "score": 22
     }
   ]
 }
