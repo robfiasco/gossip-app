@@ -1,21 +1,26 @@
 {
-  "date": "2026-04-13",
-  "generated_at_utc": "2026-04-13T20:04:35.820Z",
-  "ctxMarket": "Attention is focused on institutional adoption and regulatory responses within the Solana ecosystem. Recent developments highlight both compliance efforts and ethical debates around stablecoin management.",
-  "ctxTalking": "• Jito and KODA’s partnership to enable regulated institutional staking of JitoSOL in South Korea\n• Circle CEO’s public explanation for not freezing USDC linked to the Drift exploit, referencing legal and ethical considerations",
-  "ctxMatters": "Institutional staking solutions may increase Solana’s appeal to regulated entities, especially in markets with evolving crypto rules. The Circle incident underscores ongoing challenges around stablecoin issuer responsibilities during protocol exploits, which could influence future risk management and trust in Solana-based DeFi.",
-  "ctxSignal": "Signal: Institutional infrastructure and compliance are becoming central to Solana’s growth narrative.\nNoise: Speculation around Circle’s motives without direct statements from the company.",
-  "ctxGlossary": "JitoSOL — A liquid staking token on Solana, allowing users to earn staking rewards while retaining liquidity.\nUSDC — A major US dollar-pegged stablecoin used widely across blockchains, including Solana.",
+  "date": "2026-04-14",
+  "generated_at_utc": "2026-04-14T08:25:25.992Z",
+  "ctxMarket": "Attention is on Solana’s transaction milestones and ecosystem activity, with record pre-listing volumes drawing scrutiny. Institutional moves and regulatory debates are also shaping sentiment.",
+  "ctxTalking": "• Solana’s 25.3 billion transaction milestone and questions about SOL’s valuation\n• Y Combinator’s first all-stablecoin funding round settled in USDC on Solana\n• Jito’s price action and institutional staking partnership in South Korea",
+  "ctxMatters": "Sustained high transaction volume highlights Solana’s ongoing usage and network throughput. Major venture funding in USDC on Solana signals growing institutional trust in its infrastructure. Regulatory and custody developments, especially in South Korea, may influence how institutions engage with Solana-based assets.",
+  "ctxSignal": "Signal: Institutional adoption and regulatory focus on Solana’s stablecoin and staking infrastructure.\nNoise: Speculation around short-term price moves for Jito (JTO) without broader context.",
+  "ctxGlossary": "USDC — A widely used U.S. dollar-pegged stablecoin.\nJitoSOL — A liquid staking token on Solana, allowing holders to earn staking rewards while maintaining liquidity.",
   "readMore": [
+    {
+      "title": "Solana",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-25-3-billion-transactions-later-is-sol-still-undervalued"
+    },
+    {
+      "title": "Y Combinator settles first all-stablecoin funding in USDC on Solana",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/397304/y-combinator-first-all-stablecoin-funding-usdc-solana"
+    },
     {
       "title": "Jito, KODA team up on institutional staking in South Korea",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/jito-koda-team-up-on-institutional-staking-in-south-korea"
-    },
-    {
-      "title": "Circle CEO Allaire defends decision not to freeze USDC in Drift exploit, citing ‘moral quandary’",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/397180/circle-ceo-allaire-defends-decision-not-to-freeze-usdc-in-drift-exploit-citing-moral-quandary"
     }
   ]
 }

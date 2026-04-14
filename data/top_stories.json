@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-04-13T20:04:24.865Z",
-    "totalCandidates": 99,
-    "solanaCandidates": 13,
+    "generatedAt": "2026-04-14T08:25:14.939Z",
+    "totalCandidates": 105,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/397138/aave-dao-approves-25-million-aave-labs-funding-grant-in-binding-aave-will-win-vote",
-      "title": "Aave DAO approves $25 million Aave Labs funding grant in binding ‘Aave Will Win’ vote",
-      "url": "https://www.theblock.co/post/397138/aave-dao-approves-25-million-aave-labs-funding-grant-in-binding-aave-will-win-vote",
+      "id": "https://www.theblock.co/post/397304/y-combinator-first-all-stablecoin-funding-usdc-solana",
+      "title": "Y Combinator settles first all-stablecoin funding in USDC on Solana",
+      "url": "https://www.theblock.co/post/397304/y-combinator-first-all-stablecoin-funding-usdc-solana",
       "source": "The Block",
-      "publishedAt": "2026-04-12T22:12:47.000Z",
-      "summary": "The Aave Chan Initiative cast the largest dissenting vote on the proposal, in line with founder Marc Zeller's prior opposition to Aave's actions.",
+      "publishedAt": "2026-04-14T03:56:31.000Z",
+      "summary": "The accelerator settled $500,000 in USDC funding on Solana for Totalis, marking its first all-stablecoin investment.",
       "tags": [
-        "aave",
-        "approves",
-        "million"
+        "combinator",
+        "settles",
+        "first"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,60 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "bb35b0a4cb795a5af58bce6006e9db7221dd74e0",
-      "score": 24
+      "dedupeFingerprint": "bbf662cd3aa78b3a6a3f8e76a036ef7af5acc277",
+      "score": 30
     },
     {
-      "id": "https://cointelegraph.com/news/jito-koda-team-up-on-institutional-staking-in-south-korea",
-      "title": "Jito, KODA team up on institutional staking in South Korea",
-      "url": "https://cointelegraph.com/news/jito-koda-team-up-on-institutional-staking-in-south-korea",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-13T17:26:28.000Z",
-      "summary": "The collaboration aims to bring regulated custody and staking for JitoSOL to South Korea as institutions prepare for new crypto rules.",
+      "id": "https://www.theblock.co/post/397314/thom-tillis-draft-stablecoin-yield",
+      "title": "Sen. Tillis aims to release draft resolving Clarity Act’s stablecoin yield dispute this week: report",
+      "url": "https://www.theblock.co/post/397314/thom-tillis-draft-stablecoin-yield",
+      "source": "The Block",
+      "publishedAt": "2026-04-14T06:17:51.000Z",
+      "summary": "Banks have been strongly pushing back against allowing crypto firms to pay rewards on idle stablecoin balances.",
       "tags": [
-        "jito",
-        "koda",
-        "team"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "baa24f983922e9cc0ca4098166d5c4bb2390c23b",
-      "score": 23
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/04/13/clearbank-secures-mica-approval-targets-circle-euro-dollar-stablecoins-for-institutional-clients",
-      "title": "ClearBank secures MiCA approval, targets Circle euro, dollar stablecoins for institutional clients",
-      "url": "https://www.coindesk.com/business/2026/04/13/clearbank-secures-mica-approval-targets-circle-euro-dollar-stablecoins-for-institutional-clients",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-13T14:02:03.000Z",
-      "summary": "The U.K.- and EU-regulated credit institution gains crypto-asset service provider status and said it will connect clients to regulated stablecoin rails over Circle Mint",
-      "tags": [
-        "clearbank",
-        "secures",
-        "mica"
+        "tillis",
+        "aims",
+        "release"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -104,8 +71,74 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "6fcc1f77146688528d74a1aca5bafa5b8eb84d97",
+      "dedupeFingerprint": "d9559b0ac1679d08583ddf32f052042160db34c6",
       "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/scroll-proposes-governance-overhaul-dissolving-security-council-amid-decentralization-concerns",
+      "title": "Scroll proposes governance overhaul, dissolving security council amid decentralization concerns",
+      "url": "https://ambcrypto.com/scroll-proposes-governance-overhaul-dissolving-security-council-amid-decentralization-concerns",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-13T21:20:40.000Z",
+      "summary": "Scroll's governance overhaul proposal includes dissolving its Security Council and moving control to a multisig.",
+      "tags": [
+        "scroll",
+        "proposes",
+        "governance"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "be663bcd9700b2dafe20b033e81a3d62174d79bf",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/solana-25-3-billion-transactions-later-is-sol-still-undervalued",
+      "title": "Solana: 25.3 billion transactions later, is SOL still undervalued?",
+      "url": "https://ambcrypto.com/solana-25-3-billion-transactions-later-is-sol-still-undervalued",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-14T06:30:26.000Z",
+      "summary": "A record pre-listing volume is also putting the ecosystem in focus.",
+      "tags": [
+        "solana",
+        "billion",
+        "transactions"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c7c97149389ba8fbd28b036cd2abf1d21b49dc77",
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/markets/2026/04/13/wlfi-mints-usd25-million-in-fresh-usd1-and-burns-usd3-million-days-after-repayment-claim",
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e9b09df328335882ef1f923cc98a3093955f75f3",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/397180/circle-ceo-allaire-defends-decision-not-to-freeze-usdc-in-drift-exploit-citing-moral-quandary",
-      "title": "Circle CEO Allaire defends decision not to freeze USDC in Drift exploit, citing ‘moral quandary’",
-      "url": "https://www.theblock.co/post/397180/circle-ceo-allaire-defends-decision-not-to-freeze-usdc-in-drift-exploit-citing-moral-quandary",
-      "source": "The Block",
-      "publishedAt": "2026-04-13T10:29:24.000Z",
-      "summary": "Circle CEO Jeremy Allaire emphasized that the stablecoin issuer has a \"very clear performance obligation\" to act under the law.",
-      "tags": [
-        "circle",
-        "allaire",
-        "defends"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "81a49330afc104718cac71ef4f2c7173c0b36736",
-      "score": 22
+      "score": 21
     }
   ]
 }

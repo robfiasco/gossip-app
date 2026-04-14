@@ -1,34 +1,34 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "RISK",
-      "title": "Circle CEO Allaire defends decision not to freeze USDC in Drift exploit, citing ‘moral quandary’",
-      "category": "RISK",
+      "type": "MARKET",
+      "title": "Y Combinator settles first all-stablecoin funding in USDC on Solana",
+      "category": "MARKET",
       "source": "The Block",
-      "date": "2026-04-13",
-      "url": "https://www.theblock.co/post/397180/circle-ceo-allaire-defends-decision-not-to-freeze-usdc-in-drift-exploit-citing-moral-quandary",
-      "whyYouShouldCare": "Circle's decision not to freeze USDC during the Drift exploit highlights the complexities of liquidity management and trust in stablecoins within the Solana ecosystem."
+      "date": "2026-04-14",
+      "url": "https://www.theblock.co/post/397304/y-combinator-first-all-stablecoin-funding-usdc-solana",
+      "whyYouShouldCare": "Y Combinator's all-stablecoin funding in USDC on Solana signals growing institutional interest, potentially enhancing liquidity and usage within the Solana ecosystem."
+    },
+    {
+      "type": "ECOSYSTEM",
+      "title": "Solana: 25.3 billion transactions later, is SOL still undervalued?",
+      "category": "ECOSYSTEM",
+      "source": "AMB Crypto",
+      "date": "2026-04-14",
+      "url": "https://ambcrypto.com/solana-25-3-billion-transactions-later-is-sol-still-undervalued",
+      "whyYouShouldCare": "With 25.3 billion transactions recorded, the question of SOL's valuation highlights the network's robust activity and its implications for future price dynamics."
     },
     {
       "type": "APPS",
-      "title": "Jito, KODA team up on institutional staking in South Korea",
+      "title": "Jito [JTO] jumps 17% as whales step in – Breakout next?",
       "category": "APPS",
-      "source": "Cointelegraph",
-      "date": "2026-04-13",
-      "url": "https://cointelegraph.com/news/jito-koda-team-up-on-institutional-staking-in-south-korea",
-      "whyYouShouldCare": "The partnership between Jito and KODA for institutional staking in South Korea could enhance Solana's appeal to larger investors, boosting network usage and liquidity."
-    },
-    {
-      "type": "MARKET",
-      "title": "The Fed is building competition for XRP’s core payments use case into the FedNow banking system",
-      "category": "MARKET",
-      "source": "CryptoSlate",
-      "date": "2026-04-13",
-      "url": "https://cryptoslate.com/the-fed-is-building-competition-for-xrps-core-payments-pitch-into-the-fednow-banking-system",
-      "whyYouShouldCare": "The Fed's development of a competing payment system to XRP may impact Solana's positioning in the payments sector, influencing its adoption and utility."
+      "source": "AMB Crypto",
+      "date": "2026-04-14",
+      "url": "https://ambcrypto.com/jito-jto-jumps-17-as-whales-step-in-breakout-next",
+      "whyYouShouldCare": "Jito's 17% price jump indicates increased whale activity, which could lead to further momentum and interest in Solana-based applications."
     }
   ]
 }
