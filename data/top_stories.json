@@ -1,24 +1,57 @@
 {
   "meta": {
-    "generatedAt": "2026-04-14T08:25:14.939Z",
-    "totalCandidates": 105,
-    "solanaCandidates": 17,
+    "generatedAt": "2026-04-14T20:04:00.877Z",
+    "totalCandidates": 112,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/397304/y-combinator-first-all-stablecoin-funding-usdc-solana",
-      "title": "Y Combinator settles first all-stablecoin funding in USDC on Solana",
-      "url": "https://www.theblock.co/post/397304/y-combinator-first-all-stablecoin-funding-usdc-solana",
+      "id": "https://www.theblock.co/post/397388/fake-ledger-app-apple-app-store-crypto-theft-bitcoin-tron-solana-zachxbt",
+      "title": "Fake Ledger app on Apple App Store linked to $9.5M crypto theft across Bitcoin, Tron, Solana: ZachXBT",
+      "url": "https://www.theblock.co/post/397388/fake-ledger-app-apple-app-store-crypto-theft-bitcoin-tron-solana-zachxbt",
       "source": "The Block",
-      "publishedAt": "2026-04-14T03:56:31.000Z",
-      "summary": "The accelerator settled $500,000 in USDC funding on Solana for Totalis, marking its first all-stablecoin investment.",
+      "publishedAt": "2026-04-14T14:05:01.000Z",
+      "summary": "A fake Ledger app on Apple's App Store drained $9.5M from more than 50 victims across Bitcoin, Tron and Solana, ZachXBT said.",
       "tags": [
-        "combinator",
-        "settles",
-        "first"
+        "fake",
+        "ledger",
+        "apple"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "6a147324a498f93dbb54db856947a7cbf00a5623",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/04/14/jpmorgan-cfo-warns-stablecoins-risk-becoming-regulatory-arbitrage-play",
+      "title": "JPMorgan CFO warns stablecoins risk becoming ‘regulatory arbitrage’ play",
+      "url": "https://www.coindesk.com/business/2026/04/14/jpmorgan-cfo-warns-stablecoins-risk-becoming-regulatory-arbitrage-play",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-14T13:50:09.000Z",
+      "summary": "During the bank's earnings call on Tuesday, JPMorgan CFO Jeremy Barnum warned that stablecoins could become a tool for regulatory arbitrage unless they are held to the same strict oversight and consumer protection standards as traditional bank deposits.",
+      "tags": [
+        "jpmorgan",
+        "warns",
+        "stablecoins"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,15 +64,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "bbf662cd3aa78b3a6a3f8e76a036ef7af5acc277",
-      "score": 30
+      "dedupeFingerprint": "c9901e0b33c23da6156334bfd75faa530ea78af1",
+      "score": 22
+    },
+    {
+      "id": "https://cointelegraph.com/news/visa-launches-validator-node-on-tempo-network-deepening-push-into-stablecoin-infrastructure",
+      "title": "Visa deepens blockchain push with Tempo validator node launch",
+      "url": "https://cointelegraph.com/news/visa-launches-validator-node-on-tempo-network-deepening-push-into-stablecoin-infrastructure",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-14T17:08:21.000Z",
+      "summary": "The payments giant is operating a validator node on the Tempo blockchain, taking a direct role in transaction validation as it expands infrastructure for stablecoin settlement.",
+      "tags": [
+        "visa",
+        "deepens",
+        "blockchain"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "8ab1324bf824eb0668fa8fa0973872ee324dd3a0",
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/397314/thom-tillis-draft-stablecoin-yield",
@@ -66,93 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "d9559b0ac1679d08583ddf32f052042160db34c6",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/scroll-proposes-governance-overhaul-dissolving-security-council-amid-decentralization-concerns",
-      "title": "Scroll proposes governance overhaul, dissolving security council amid decentralization concerns",
-      "url": "https://ambcrypto.com/scroll-proposes-governance-overhaul-dissolving-security-council-amid-decentralization-concerns",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-13T21:20:40.000Z",
-      "summary": "Scroll's governance overhaul proposal includes dissolving its Security Council and moving control to a multisig.",
-      "tags": [
-        "scroll",
-        "proposes",
-        "governance"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "be663bcd9700b2dafe20b033e81a3d62174d79bf",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/solana-25-3-billion-transactions-later-is-sol-still-undervalued",
-      "title": "Solana: 25.3 billion transactions later, is SOL still undervalued?",
-      "url": "https://ambcrypto.com/solana-25-3-billion-transactions-later-is-sol-still-undervalued",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-14T06:30:26.000Z",
-      "summary": "A record pre-listing volume is also putting the ecosystem in focus.",
-      "tags": [
-        "solana",
-        "billion",
-        "transactions"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c7c97149389ba8fbd28b036cd2abf1d21b49dc77",
       "score": 21
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/04/13/wlfi-mints-usd25-million-in-fresh-usd1-and-burns-usd3-million-days-after-repayment-claim",
-      "title": "World Liberty Financial executes a massive $22 million stablecoin shuffle amid its borrowing controversy",
-      "url": "https://www.coindesk.com/markets/2026/04/13/wlfi-mints-usd25-million-in-fresh-usd1-and-burns-usd3-million-days-after-repayment-claim",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-13T12:30:00.000Z",
-      "summary": "The mint and a simultaneous $3 million burn come days after the venture said it had repaid $25 million of the borrowing position that left depositors unable to withdraw from a DeFi lending pool.",
+      "id": "https://ambcrypto.com/solana-flips-ethereum-in-rwa-lending-as-institutional-flows-rise-in-q1",
+      "title": "Solana flips Ethereum in RWA lending as institutional flows rise in Q1",
+      "url": "https://ambcrypto.com/solana-flips-ethereum-in-rwa-lending-as-institutional-flows-rise-in-q1",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-14T19:57:50.000Z",
+      "summary": "Solana overtook Ethereum in RWA lending and drew fresh institutional inflows in Q1, signaling that its growth is moving beyond trading into broader financial use cases.",
       "tags": [
-        "world",
-        "liberty",
-        "financial"
+        "solana",
+        "flips",
+        "ethereum"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e9b09df328335882ef1f923cc98a3093955f75f3",
-      "score": 21
+      "dedupeFingerprint": "34c86bb11cdb5501f9a4eec6ec312ff7315e7667",
+      "score": 19
     }
   ]
 }

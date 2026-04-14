@@ -1,26 +1,26 @@
 {
   "date": "2026-04-14",
-  "generated_at_utc": "2026-04-14T08:25:25.992Z",
-  "ctxMarket": "Attention is on Solana’s transaction milestones and ecosystem activity, with record pre-listing volumes drawing scrutiny. Institutional moves and regulatory debates are also shaping sentiment.",
-  "ctxTalking": "• Solana’s 25.3 billion transaction milestone and questions about SOL’s valuation\n• Y Combinator’s first all-stablecoin funding round settled in USDC on Solana\n• Jito’s price action and institutional staking partnership in South Korea",
-  "ctxMatters": "Sustained high transaction volume highlights Solana’s ongoing usage and network throughput. Major venture funding in USDC on Solana signals growing institutional trust in its infrastructure. Regulatory and custody developments, especially in South Korea, may influence how institutions engage with Solana-based assets.",
-  "ctxSignal": "Signal: Institutional adoption and regulatory focus on Solana’s stablecoin and staking infrastructure.\nNoise: Speculation around short-term price moves for Jito (JTO) without broader context.",
-  "ctxGlossary": "USDC — A widely used U.S. dollar-pegged stablecoin.\nJitoSOL — A liquid staking token on Solana, allowing holders to earn staking rewards while maintaining liquidity.",
+  "generated_at_utc": "2026-04-14T20:04:13.507Z",
+  "ctxMarket": "Solana is drawing attention for surpassing Ethereum in real-world asset (RWA) lending and attracting increased institutional inflows in Q1. Broader financial use cases and security concerns are in focus, alongside ongoing product launches in the DeFi space.",
+  "ctxTalking": "• Solana overtaking Ethereum in RWA lending and seeing more institutional participation\n• A fake Ledger app on Apple’s App Store linked to multi-chain crypto theft, including Solana assets\n• Speculation around X’s teased crypto product and potential Solana connections",
+  "ctxMatters": "Solana’s growth in RWA lending signals expanding adoption beyond trading, potentially increasing its relevance for institutional players. Security incidents like the fake Ledger app highlight ongoing risks for asset holders. New DeFi products and speculation about major platform integrations could influence Solana’s ecosystem development.",
+  "ctxSignal": "Signal: Solana’s lead in RWA lending and rising institutional flows point to tangible ecosystem shifts.\nNoise: Speculation around X’s crypto product remains unconfirmed and lacks concrete details.",
+  "ctxGlossary": "RWA lending — Lending involving real-world assets, such as property or loans, on blockchain platforms\nDeFi — Decentralized finance; financial services using blockchain technology without intermediaries",
   "readMore": [
     {
-      "title": "Solana",
+      "title": "Solana flips Ethereum in RWA lending as institutional flows rise in Q1",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-25-3-billion-transactions-later-is-sol-still-undervalued"
+      "url": "https://ambcrypto.com/solana-flips-ethereum-in-rwa-lending-as-institutional-flows-rise-in-q1"
     },
     {
-      "title": "Y Combinator settles first all-stablecoin funding in USDC on Solana",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/397304/y-combinator-first-all-stablecoin-funding-usdc-solana"
-    },
-    {
-      "title": "Jito, KODA team up on institutional staking in South Korea",
+      "title": "Figure and Hastra widen DeFi credit offering with auto loan launch",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/jito-koda-team-up-on-institutional-staking-in-south-korea"
+      "url": "https://cointelegraph.com/news/figure-hastra-expand-tokenized-credit-auto-loans"
+    },
+    {
+      "title": "Fake Ledger app on Apple App Store linked to $9.5M crypto theft across Bitcoin, Tron, Solana",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/397388/fake-ledger-app-apple-app-store-crypto-theft-bitcoin-tron-solana-zachxbt"
     }
   ]
 }
