@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-04-14T20:04:00.877Z",
+    "generatedAt": "2026-04-15T08:27:10.002Z",
     "totalCandidates": 112,
-    "solanaCandidates": 22,
+    "solanaCandidates": 26,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/397388/fake-ledger-app-apple-app-store-crypto-theft-bitcoin-tron-solana-zachxbt",
-      "title": "Fake Ledger app on Apple App Store linked to $9.5M crypto theft across Bitcoin, Tron, Solana: ZachXBT",
-      "url": "https://www.theblock.co/post/397388/fake-ledger-app-apple-app-store-crypto-theft-bitcoin-tron-solana-zachxbt",
-      "source": "The Block",
-      "publishedAt": "2026-04-14T14:05:01.000Z",
-      "summary": "A fake Ledger app on Apple's App Store drained $9.5M from more than 50 victims across Bitcoin, Tron and Solana, ZachXBT said.",
+      "id": "https://ambcrypto.com/how-lighter-dex-targets-rwa-liquidity-gap-with-250k-weekly-incentives",
+      "title": "How Lighter DEX targets RWA liquidity gap with $250K weekly incentives",
+      "url": "https://ambcrypto.com/how-lighter-dex-targets-rwa-liquidity-gap-with-250k-weekly-incentives",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-15T07:00:00.000Z",
+      "summary": "Hyperliquid had 100% more liquidity for its non-crypto assets than Lighter.",
       "tags": [
-        "fake",
-        "ledger",
-        "apple"
+        "lighter",
+        "targets",
+        "liquidity"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,63 +31,30 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "6a147324a498f93dbb54db856947a7cbf00a5623",
-      "score": 22
+      "dedupeFingerprint": "2fe91606ba29eda14e0141cd0a86c965a42e05c7",
+      "score": 24
     },
     {
-      "id": "https://www.coindesk.com/business/2026/04/14/jpmorgan-cfo-warns-stablecoins-risk-becoming-regulatory-arbitrage-play",
-      "title": "JPMorgan CFO warns stablecoins risk becoming ‘regulatory arbitrage’ play",
-      "url": "https://www.coindesk.com/business/2026/04/14/jpmorgan-cfo-warns-stablecoins-risk-becoming-regulatory-arbitrage-play",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-14T13:50:09.000Z",
-      "summary": "During the bank's earnings call on Tuesday, JPMorgan CFO Jeremy Barnum warned that stablecoins could become a tool for regulatory arbitrage unless they are held to the same strict oversight and consumer protection standards as traditional bank deposits.",
+      "id": "https://cointelegraph.com/news/crypto-banks-continue-senate-bill-spat-with-new-proposal-concerns-report",
+      "title": "Crypto, banks continue Senate bill spat with new proposal concerns: Report",
+      "url": "https://cointelegraph.com/news/crypto-banks-continue-senate-bill-spat-with-new-proposal-concerns-report",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-15T03:33:24.000Z",
+      "summary": "Senator Thom Tillis will publicly share an agreement to end a crypto and banking clash over stablecoin yields, but both sides are resisting the proposal, Politico reports.",
       "tags": [
-        "jpmorgan",
-        "warns",
-        "stablecoins"
+        "crypto",
+        "banks",
+        "continue"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c9901e0b33c23da6156334bfd75faa530ea78af1",
-      "score": 22
-    },
-    {
-      "id": "https://cointelegraph.com/news/visa-launches-validator-node-on-tempo-network-deepening-push-into-stablecoin-infrastructure",
-      "title": "Visa deepens blockchain push with Tempo validator node launch",
-      "url": "https://cointelegraph.com/news/visa-launches-validator-node-on-tempo-network-deepening-push-into-stablecoin-infrastructure",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-14T17:08:21.000Z",
-      "summary": "The payments giant is operating a validator node on the Tempo blockchain, taking a direct role in transaction validation as it expands infrastructure for stablecoin settlement.",
-      "tags": [
-        "visa",
-        "deepens",
-        "blockchain"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -104,23 +71,23 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8ab1324bf824eb0668fa8fa0973872ee324dd3a0",
+      "dedupeFingerprint": "6fb6f4601ffeafcb569a40efb6f9a7c565b628d5",
       "score": 21
     },
     {
-      "id": "https://www.theblock.co/post/397314/thom-tillis-draft-stablecoin-yield",
-      "title": "Sen. Tillis aims to release draft resolving Clarity Act’s stablecoin yield dispute this week: report",
-      "url": "https://www.theblock.co/post/397314/thom-tillis-draft-stablecoin-yield",
+      "id": "https://www.theblock.co/post/397457/etherfi-3-billion-eth-validator-liquidity-ethgas-three-years",
+      "title": "Ether.fi commits $3 billion in ETH as ‘validator liquidity’ to ETHGas over three years",
+      "url": "https://www.theblock.co/post/397457/etherfi-3-billion-eth-validator-liquidity-ethgas-three-years",
       "source": "The Block",
-      "publishedAt": "2026-04-14T06:17:51.000Z",
-      "summary": "Banks have been strongly pushing back against allowing crypto firms to pay rewards on idle stablecoin balances.",
+      "publishedAt": "2026-04-15T00:00:02.000Z",
+      "summary": "ETHGas is a marketplace for Ethereum blockspace futures that allows blockspace to be bought and sold in advance for guaranteed execution.",
       "tags": [
-        "tillis",
-        "aims",
-        "release"
+        "ether",
+        "commits",
+        "billion"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -130,29 +97,62 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 4,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d9559b0ac1679d08583ddf32f052042160db34c6",
-      "score": 21
+      "dedupeFingerprint": "5a66305dcad6192e84cfae6e1e68877b8e050e27",
+      "score": 18
     },
     {
-      "id": "https://ambcrypto.com/solana-flips-ethereum-in-rwa-lending-as-institutional-flows-rise-in-q1",
-      "title": "Solana flips Ethereum in RWA lending as institutional flows rise in Q1",
-      "url": "https://ambcrypto.com/solana-flips-ethereum-in-rwa-lending-as-institutional-flows-rise-in-q1",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-14T19:57:50.000Z",
-      "summary": "Solana overtook Ethereum in RWA lending and drew fresh institutional inflows in Q1, signaling that its growth is moving beyond trading into broader financial use cases.",
+      "id": "https://decrypt.co/364369/visa-backs-stripes-tempo-payments-network-anchor-validator",
+      "title": "Visa Joins Stripe's Tempo Payments Network as 'Anchor' Validator",
+      "url": "https://decrypt.co/364369/visa-backs-stripes-tempo-payments-network-anchor-validator",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-14T20:26:14.000Z",
+      "summary": "Visa joins Stripe and Zodia Custody by Standard Chartered as the first external validators for the Stripe-backed Tempo blockchain.",
       "tags": [
-        "solana",
-        "flips",
-        "ethereum"
+        "visa",
+        "joins",
+        "stripe"
       ],
-      "topicBucket": "market",
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "6e72d5a99b8fdccc36498b018a778d5290d08272",
+      "score": 17
+    },
+    {
+      "id": "https://decrypt.co/364211/what-is-hermes-open-source-ai-agent-openclaw-competitor",
+      "title": "What Is Hermes? The Self-Improving AI Agent Coming for OpenClaw",
+      "url": "https://decrypt.co/364211/what-is-hermes-open-source-ai-agent-openclaw-competitor",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-14T16:01:02.000Z",
+      "summary": "Nous Research's open-source AI agent is the first with a built-in learning loop—it creates skills from experience, gets better the more you use it, and runs on terminal.",
+      "tags": [
+        "what",
+        "hermes",
+        "self"
+      ],
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
+        "recencyScore": 9,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "34c86bb11cdb5501f9a4eec6ec312ff7315e7667",
-      "score": 19
+      "dedupeFingerprint": "97e469174abd7a7a602be2d3fedaeb62d0092d40",
+      "score": 17
     }
   ]
 }
