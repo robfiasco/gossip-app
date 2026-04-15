@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "APPS",
+      "title": "Solana’s usage booms as price stays range-bound: How soon can SOL catch up?",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-04-15",
+      "url": "https://ambcrypto.com/solanas-usage-booms-as-price-stays-range-bound-how-soon-can-sol-catch-up",
+      "whyYouShouldCare": "Increased usage on Solana indicates growing adoption, which could enhance SOL's liquidity and market positioning despite its current price stagnation."
+    },
+    {
+      "type": "INFRA",
+      "title": "Why this ex-Solana exec is using a Wall Street trick to level the playing field in DeFi",
+      "category": "INFRA",
+      "source": "CoinDesk",
+      "date": "2026-04-15",
+      "url": "https://www.coindesk.com/tech/2026/04/15/why-this-ex-solana-exec-is-using-a-wall-street-trick-to-level-the-playing-field-in-defi",
+      "whyYouShouldCare": "The former Solana executive's approach may introduce innovative strategies in DeFi, potentially boosting Solana's ecosystem competitiveness and attracting new users."
+    },
+    {
       "type": "RISK",
       "title": "North Korean hackers used AI-enabled social engineering in Zerion attack",
       "category": "RISK",
       "source": "Cointelegraph",
       "date": "2026-04-15",
       "url": "https://cointelegraph.com/news/north-korean-hackers-use-ai-enabled-social-engineering-latest-attack",
-      "whyYouShouldCare": "The use of AI in cyberattacks highlights vulnerabilities in the crypto ecosystem, potentially impacting user confidence and security measures across platforms including Solana."
-    },
-    {
-      "type": "APPS",
-      "title": "SOL, ADA, DOGE pull back, bitcoin holds above $74,000 as Asia recoups Iran war losses",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-04-15",
-      "url": "https://www.coindesk.com/markets/2026/04/15/sol-ada-doge-pullback-bitcoin-holds-above-usd74-000-as-asia-recoups-iran-war-losses",
-      "whyYouShouldCare": "The price movements of SOL, ADA, and DOGE against Bitcoin's stability indicate shifting investor sentiment, which could affect liquidity and trading strategies in the Solana ecosystem."
-    },
-    {
-      "type": "ECOSYSTEM",
-      "title": "Figure and Hastra widen DeFi credit offering with auto loan launch",
-      "category": "ECOSYSTEM",
-      "source": "Cointelegraph",
-      "date": "2026-04-14",
-      "url": "https://cointelegraph.com/news/figure-hastra-expand-tokenized-credit-auto-loans",
-      "whyYouShouldCare": "The expansion of DeFi credit offerings through auto loans enhances the utility of blockchain platforms, potentially increasing user engagement and transaction volume within the Solana ecosystem."
+      "whyYouShouldCare": "The Zerion attack highlights vulnerabilities in the crypto space, which could impact user trust and security perceptions within the Solana ecosystem."
     }
   ]
 }

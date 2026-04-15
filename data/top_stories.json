@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-04-15T08:27:10.002Z",
+    "generatedAt": "2026-04-15T20:01:45.515Z",
     "totalCandidates": 112,
-    "solanaCandidates": 26,
+    "solanaCandidates": 29,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/how-lighter-dex-targets-rwa-liquidity-gap-with-250k-weekly-incentives",
-      "title": "How Lighter DEX targets RWA liquidity gap with $250K weekly incentives",
-      "url": "https://ambcrypto.com/how-lighter-dex-targets-rwa-liquidity-gap-with-250k-weekly-incentives",
+      "id": "https://ambcrypto.com/solanas-usage-booms-as-price-stays-range-bound-how-soon-can-sol-catch-up",
+      "title": "Solana’s usage booms as price stays range-bound: How soon can SOL catch up?",
+      "url": "https://ambcrypto.com/solanas-usage-booms-as-price-stays-range-bound-how-soon-can-sol-catch-up",
       "source": "AMB Crypto",
-      "publishedAt": "2026-04-15T07:00:00.000Z",
-      "summary": "Hyperliquid had 100% more liquidity for its non-crypto assets than Lighter.",
+      "publishedAt": "2026-04-15T16:00:53.000Z",
+      "summary": "Solana sees strong activity, yet price lags, leaving the market waiting for conviction.",
       "tags": [
-        "lighter",
-        "targets",
-        "liquidity"
+        "solana",
+        "usage",
+        "booms"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -38,20 +38,86 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2fe91606ba29eda14e0141cd0a86c965a42e05c7",
+      "dedupeFingerprint": "9e0a024b5237544d8b71c3282ffe624841290a24",
       "score": 24
     },
     {
-      "id": "https://cointelegraph.com/news/crypto-banks-continue-senate-bill-spat-with-new-proposal-concerns-report",
-      "title": "Crypto, banks continue Senate bill spat with new proposal concerns: Report",
-      "url": "https://cointelegraph.com/news/crypto-banks-continue-senate-bill-spat-with-new-proposal-concerns-report",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-15T03:33:24.000Z",
-      "summary": "Senator Thom Tillis will publicly share an agreement to end a crypto and banking clash over stablecoin yields, but both sides are resisting the proposal, Politico reports.",
+      "id": "https://ambcrypto.com/wlfi-proposes-4-5-billion-token-burn-as-governance-concerns-and-user-backlash-grow",
+      "title": "WLFI proposes 4.5 billion token burn as governance concerns and user backlash grow",
+      "url": "https://ambcrypto.com/wlfi-proposes-4-5-billion-token-burn-as-governance-concerns-and-user-backlash-grow",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-15T14:36:05.000Z",
+      "summary": "WLFI's proposed token burn and vesting reset arrives amid disputes, borrowing concerns, and growing community criticism.",
       "tags": [
-        "crypto",
-        "banks",
-        "continue"
+        "wlfi",
+        "proposes",
+        "billion"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "469416ace0de5489afe6ea545c3184d587ac8cb9",
+      "score": 24
+    },
+    {
+      "id": "https://cointelegraph.com/news/wlfi-unlock-proposal-62b-tokens-vesting-burn",
+      "title": "WLFI proposes unlock plan for 62 billion tokens with long lockups and burns",
+      "url": "https://cointelegraph.com/news/wlfi-unlock-proposal-62b-tokens-vesting-burn",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-15T13:49:15.000Z",
+      "summary": "The new proposal outlines multi-year lockups and opt-in token burn, as the Trump-linked DeFi platform responds to pressure over delayed liquidity access.",
+      "tags": [
+        "wlfi",
+        "proposes",
+        "unlock"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 14,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "af8be7175e0bdd67f1fe0abcf6f8472f7a3c5c86",
+      "score": 24
+    },
+    {
+      "id": "https://www.theblock.co/post/397490/societe-generale-adds-stablecoin-metamask",
+      "title": "Societe Generale unit adds MiCA-compliant stablecoin to MetaMask",
+      "url": "https://www.theblock.co/post/397490/societe-generale-adds-stablecoin-metamask",
+      "source": "The Block",
+      "publishedAt": "2026-04-15T08:35:02.000Z",
+      "summary": "Societe Generale's digital asset unit added its MiCA compliant USD stablecoin to MetaMask for fiat on- and off-ramps and trading.",
+      "tags": [
+        "societe",
+        "generale",
+        "unit"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,95 +130,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6fb6f4601ffeafcb569a40efb6f9a7c565b628d5",
-      "score": 21
-    },
-    {
-      "id": "https://www.theblock.co/post/397457/etherfi-3-billion-eth-validator-liquidity-ethgas-three-years",
-      "title": "Ether.fi commits $3 billion in ETH as ‘validator liquidity’ to ETHGas over three years",
-      "url": "https://www.theblock.co/post/397457/etherfi-3-billion-eth-validator-liquidity-ethgas-three-years",
-      "source": "The Block",
-      "publishedAt": "2026-04-15T00:00:02.000Z",
-      "summary": "ETHGas is a marketplace for Ethereum blockspace futures that allows blockspace to be bought and sold in advance for guaranteed execution.",
-      "tags": [
-        "ether",
-        "commits",
-        "billion"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 4,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5a66305dcad6192e84cfae6e1e68877b8e050e27",
-      "score": 18
+      "dedupeFingerprint": "f313f20480245418165dced67587eaa0be772ee0",
+      "score": 22
     },
     {
-      "id": "https://decrypt.co/364369/visa-backs-stripes-tempo-payments-network-anchor-validator",
-      "title": "Visa Joins Stripe's Tempo Payments Network as 'Anchor' Validator",
-      "url": "https://decrypt.co/364369/visa-backs-stripes-tempo-payments-network-anchor-validator",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-14T20:26:14.000Z",
-      "summary": "Visa joins Stripe and Zodia Custody by Standard Chartered as the first external validators for the Stripe-backed Tempo blockchain.",
+      "id": "https://cryptoslate.com/white-house-study-exposes-weak-case-for-stablecoin-yield-ban-raising-the-stakes-for-clarity-in-the-senate",
+      "title": "White House exposes stablecoin yield ban wouldn’t help banks, raising the stakes for CLARITY in the Senate",
+      "url": "https://cryptoslate.com/white-house-study-exposes-weak-case-for-stablecoin-yield-ban-raising-the-stakes-for-clarity-in-the-senate",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-15T12:10:51.000Z",
+      "summary": "White House study sharpens CLARITY’s core fight as Senate execution remains the real test A recent White House economic study has changed the focus of Washington’s debate over the CLARITY Act. The report addresses the main issue slowing the bill in the Senate: whether limiting stablecoin yields actu",
       "tags": [
-        "visa",
-        "joins",
-        "stripe"
+        "white",
+        "house",
+        "exposes"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6e72d5a99b8fdccc36498b018a778d5290d08272",
-      "score": 17
-    },
-    {
-      "id": "https://decrypt.co/364211/what-is-hermes-open-source-ai-agent-openclaw-competitor",
-      "title": "What Is Hermes? The Self-Improving AI Agent Coming for OpenClaw",
-      "url": "https://decrypt.co/364211/what-is-hermes-open-source-ai-agent-openclaw-competitor",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-14T16:01:02.000Z",
-      "summary": "Nous Research's open-source AI agent is the first with a built-in learning loop—it creates skills from experience, gets better the more you use it, and runs on terminal.",
-      "tags": [
-        "what",
-        "hermes",
-        "self"
-      ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "97e469174abd7a7a602be2d3fedaeb62d0092d40",
-      "score": 17
+      "dedupeFingerprint": "28255c0b1da4191c344310ab5f6b34689b29fb3e",
+      "score": 20
     }
   ]
 }
