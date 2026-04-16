@@ -1,220 +1,195 @@
 {
-  "generated_at": "2026-04-11T15:42:19.165Z",
+  "generated_at": "2026-04-16T14:19:29.735Z",
   "global_metrics": {
-    "total_tweets": 35,
-    "total_engagement": 7785,
-    "unique_voices": 18,
-    "top_tweet": 707
+    "total_tweets": 43,
+    "total_engagement": 7837,
+    "unique_voices": 15,
+    "top_tweet": 784
   },
   "items": [
     {
-      "id": "story_1775922117798_0",
-      "title": "Solana Ecosystem Surges: Growth, Security, and New Frontiers",
+      "id": "story_1776349129686_0",
+      "title": "Solana Rebuilds Core Read Layer Amid Record Network Growth",
       "type": "critical",
       "category": "Security / Risk Alert",
-      "author": "@SolanaSensei",
-      "timestamp": "2026-04-11T15:41:57.798Z",
+      "author": "@triton_one",
+      "timestamp": "2026-04-16T14:18:49.686Z",
       "metrics": {
-        "tweets": 27,
-        "engagement": 6034,
-        "topTweet": 707,
-        "voices": 11,
+        "tweets": 40,
+        "engagement": 7226,
+        "topTweet": 784,
+        "voices": 13,
         "engagementTrend": [
-          2414,
-          3319,
-          4103,
-          4948,
-          6034
+          2890,
+          3974,
+          4914,
+          5925,
+          7226
         ]
       },
       "ctPulse": [
         {
-          "handle": "@SolanaSensei",
-          "thought": "If you're on Solana, congrats, you're already ahead of 98% of people.\nMost haven’t even explored it yet, let alone used it.",
-          "url": "https://twitter.com/SolanaSensei/status/2042565780257284300"
-        },
-        {
-          "handle": "@vibhu",
-          "thought": "RT @solana: BREAKING: SpaceX is coming to Solana\n\npreSPAX, powered by @joinrepublic, launches April 18 on @Bitget IPO Prime https://t.co/ev…",
-          "url": "https://twitter.com/vibhu/status/2042586145532289529"
-        },
-        {
-          "handle": "@inno_ox",
-          "thought": "What happened last week on @solanamobile ?\n\n> Milestone : dApp Store crossed 750+ apps. Seeker is quickly becoming the default mobile Web3 hub 🏆 \n> @sanctumso is live, earn XP by staking SOL ☁️\n> @se",
-          "url": "https://twitter.com/inno_ox/status/2042254360139256063"
+          "handle": "@triton_one",
+          "thought": "BREAKING: We're partnering with @SolanaFndn to rebuild Solana's read layer from the ground up.\n\n@anza_xyz and @jump_firedancer have done incredible work scaling execution and networking, but the read ",
+          "url": "https://twitter.com/triton_one/status/2044038713349722326"
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "WEEKLY SOLANA DIGEST\n\n- @solana strengthens DeFi Security with: STRIDE. A comprehensive security program for all Solana DeFi. Includes hands-on evaluations and a  public repository of findings.\n\n- @co",
-          "url": "https://twitter.com/SolanaSensei/status/2042532580545950045"
+          "thought": "BREAKING 🚨 Solana powered Cashtags are coming to @X. This is HUGE!!! https://t.co/XY9yYhB9FU",
+          "url": "https://twitter.com/SolanaSensei/status/2044340626809078034"
         },
         {
-          "handle": "@therealchaseeb",
-          "thought": "Bullish on Solana. Bullish on Solana Founders. Bullish on proving people wrong 6 years in a row.",
-          "url": "https://twitter.com/therealchaseeb/status/2042477195508228297"
+          "handle": "@SolanaSensei",
+          "thought": "According to CryptoRank, Solana dominates Q1 2026 with 25.3B transactions, the highest by far.\n\nWhile others count in millions or low billions, Solana does more than all other top chains combined. htt",
+          "url": "https://twitter.com/SolanaSensei/status/2044333422454435990"
+        },
+        {
+          "handle": "@SolanaSensei",
+          "thought": "Solana DEX volume Q1 2026:\n\n41% global market share ($284.5B)\n\nMore than Ethereum + all its L2s. Combined.\n\nDuring a down quarter.\n\nPay close attention. https://t.co/r9vCy9A0RI",
+          "url": "https://twitter.com/SolanaSensei/status/2044457737363595742"
+        },
+        {
+          "handle": "@SolanaSensei",
+          "thought": "Proof of Solana OG. Receipts from 2021:\n\nBack in 2021, I was sharing Excel sheets on Twitter with floor prices from nft collections.\n\nI was living in Bali and had become an nft whale across all the fi",
+          "url": "https://twitter.com/SolanaSensei/status/2044393368189644858"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@SolanaSensei",
-          "reason": "Provides timely updates and analysis on Solana ecosystem developments.",
-          "role": "Analyst",
-          "engagement": 2609
+          "handle": "@triton_one",
+          "reason": "Leading the read layer overhaul for Solana.",
+          "role": "Builder",
+          "engagement": 3104
         },
         {
-          "handle": "@solana_devs",
-          "reason": "Shares technical and builder-focused news, including grants and hackathons.",
+          "handle": "@SolanaFndn",
+          "reason": "Core steward of Solana’s ecosystem and infrastructure.",
           "role": "Builder",
-          "engagement": 936
+          "engagement": 1162
         }
       ],
       "content": {
-        "signal": "Solana is rapidly expanding its ecosystem with new products, security initiatives, and mainstream integrations, but risks remain as adoption accelerates.",
-        "story": "Solana is moving fast. The network just hit over 524 billion transactions, with costs staying fractions of a cent. Builders and users are flocking to the ecosystem, and major launches—like a SpaceX-linked pre-IPO token—are drawing new attention. If you’re already on Solana, you’re ahead of the curve: most haven’t even explored it yet.\n\n### What's Happening\nSolana’s ecosystem is seeing a wave of activity. The Solana dApp Store now hosts over 750 apps, with Seeker emerging as a go-to mobile Web3 hub. A new security program, STRIDE, aims to raise the bar for DeFi safety by providing hands-on evaluations and a public repository of findings. Meanwhile, the Colosseum Frontier Hackathon is underway, backed by $2.5 million in venture funding, and Alchemy is offering up to $25,000 in credits per team to accelerate development.\n\nOn the product side, Solana is hosting a diverse range of assets—from meme coins to tokenized real-world assets like Nasdaq stocks and gold. New launches are pushing boundaries: the preSPAX token, tied to SpaceX and launching on Bitget, is being positioned as a pre-IPO stock. Fair launch experiments, like the browser-based mini-game for the My Pet Hooligan token, are testing new ways to distribute tokens directly to the community.\n\n### Why It Matters\nThis surge in activity signals Solana’s growing relevance as both a technical platform and a cultural force. High throughput and low fees are enabling new types of applications and trading experiences that aren’t practical elsewhere. The ecosystem is attracting not just crypto-native builders but also mainstream projects and investors, as seen with the SpaceX tie-in and the growth of real-world asset protocols like OnRe.\n\nSecurity is a key focus. With STRIDE, Solana is trying to get ahead of the risks that come with rapid DeFi growth. Public audits and hands-on evaluations could help build trust and reduce the frequency of costly exploits. At the same time, incentives from Alchemy and others are making it easier for new teams to build, potentially accelerating innovation but also increasing the need for robust risk management.\n\n### The Risk or Debate\nRapid growth comes with trade-offs. The pace of new launches and experiments—especially around fair launches and tokenized assets—raises questions about sustainability and user protection. Not every new product will be well-audited or safe, and the influx of new users could test the limits of both technical infrastructure and community norms.\n\nThere’s also the risk that hype-driven launches could overshadow more sustainable projects. While Solana’s low fees and high throughput are advantages, they can also attract speculative activity and copycat projects. Security initiatives like STRIDE are a step forward, but it remains to be seen how effective they’ll be as the ecosystem scales.\n\n### What To Watch\nKeep an eye on the rollout of preSPAX and other tokenized real-world assets—these could set precedents for how traditional finance and crypto interact on Solana. The impact of STRIDE on DeFi security will be important to track, especially if public audits become a standard. Watch for continued growth in the dApp Store and the outcomes of the Colosseum Hackathon, which could surface the next wave of breakout projects. Finally, monitor how the community navigates the balance between rapid innovation and responsible risk management as Solana’s user base expands.",
+        "signal": "Solana is partnering with Triton One to overhaul its foundational read layer as the network hits new transaction and volume highs.",
+        "story": "Solana is entering a critical new phase of infrastructure development. Triton One has announced a partnership with the Solana Foundation to completely rebuild Solana’s read layer, a core component that has remained largely untouched since the network’s launch. This move comes as Solana’s transaction counts, DEX volume, and stablecoin activity reach unprecedented levels, putting new pressure on the network’s underlying architecture.\n\n### What's Happening\n\nWhile Solana’s execution and networking layers have seen significant upgrades—thanks to initiatives like Firedancer and Anza—the read layer has lagged behind. Originally built as an extension of the validator, it was never designed to handle the scale Solana now faces. With over 25 billion transactions in Q1 2026, and DEX volumes surpassing $284 billion in a single quarter, the old architecture is showing its age.\n\nThe partnership with Triton One aims to address this by redesigning how data is accessed and served to users and applications. This is not just a technical refresh; it’s a foundational shift that will impact everything from wallet performance to analytics and dApp reliability. The overhaul is expected to roll out by 2026, aligning with Solana’s rapid ecosystem expansion.\n\n### Why It Matters\n\nSolana’s growth is not just a story of more users or higher prices—it’s about real, on-chain activity. The network now processes more transactions than all other top chains combined, and its DEX market share has climbed to 41%, outpacing Ethereum and all L2s together. Stablecoin supply on Solana has ballooned from under $2 billion in 2024 to over $14 billion in 2026, with major banks like Lead Bank and Cross River now settling USDC directly on-chain.\n\nThis surge in usage is driving demand for more robust infrastructure. As tokenized assets, lending protocols, and new financial primitives proliferate, the need for fast, reliable data access becomes critical. The read layer upgrade is a strategic move to ensure Solana can support not just today’s scale, but the next wave of adoption—including new features like encrypted dApps and integration with mainstream platforms like X (formerly Twitter).\n\n### The Risk or Debate\n\nOverhauling a core part of the network is not without risk. Any major architectural change introduces the potential for new bugs, outages, or unforeseen performance issues. The transition period could be especially sensitive, as Solana is now a key settlement layer for banks, stablecoins, and tokenized assets. If the new read layer fails to deliver, it could undermine confidence in the network’s reliability.\n\nThere’s also debate about whether Solana’s rapid scaling can continue without hitting new bottlenecks elsewhere. While the read layer is being addressed, other components may need similar attention as usage patterns evolve. The ecosystem’s reliance on a small number of core teams for critical upgrades is another point of discussion.\n\n### What To Watch\n\nThe rollout of the new read layer will be a major milestone for Solana. Watch for technical updates from Triton One and the Solana Foundation on migration plans, testing phases, and performance benchmarks. Adoption by major dApps and wallets will be a key signal of success.\n\nKeep an eye on how the upgrade impacts user experience, especially during periods of high network activity. Also, monitor whether other chains respond with similar infrastructure investments as Solana sets a new standard for throughput and usability.",
         "takeaways": [
-          "Solana is experiencing rapid ecosystem growth, with major new products and security initiatives.",
-          "Security is a focus, with STRIDE aiming to make DeFi safer through public audits and evaluations.",
-          "Mainstream integrations like SpaceX-linked tokens and real-world assets are pushing Solana into new territory."
+          "Solana is partnering with Triton One to rebuild its core read layer for better scalability.",
+          "Network activity and on-chain volume are at all-time highs, stressing current infrastructure.",
+          "The upgrade is critical but carries risks around stability and transition management."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 8.2
+      "narrativeStrength": 8.8
     },
     {
-      "id": "story_1775922130406_1",
-      "title": "Jupiter Mobile Hits $890M in Monthly Volume",
+      "id": "story_1776349158655_1",
+      "title": "Jupiter Unveils $200K+ Mystery Airdrop and New TGC Rewards",
       "type": "alpha",
-      "category": "Mobile / Seeker",
+      "category": "Airdrop Strategy",
       "author": "@SolanaSensei",
-      "timestamp": "2026-04-11T15:42:10.406Z",
+      "timestamp": "2026-04-16T14:19:18.655Z",
       "metrics": {
-        "tweets": 5,
-        "engagement": 1309,
-        "topTweet": 502,
-        "voices": 4,
+        "tweets": 2,
+        "engagement": 363,
+        "topTweet": 261,
+        "voices": 1,
         "engagementTrend": [
-          523,
-          720,
-          890,
-          1073,
-          1309
+          145,
+          199,
+          247,
+          297,
+          363
         ]
       },
       "ctPulse": [
         {
           "handle": "@SolanaSensei",
-          "thought": "Jupiter Mobile generated $890M in volume last month!!\n\nIt is actually insane how fast they grew this wallet.\n\nJust use Jupiter I guess. https://t.co/5jIlt3FgUM",
-          "url": "https://twitter.com/SolanaSensei/status/2042286690883289319"
+          "thought": "🚨 AIRDROP: Over $200K in Mystery rewards can now be claimed by eligible @JupiterExchange users.\n\n- Import your wallet to Jupiter Mobile or Extension\n- Go to Rewards Hub.\n- Check if you're eligible fo",
+          "url": "https://twitter.com/SolanaSensei/status/2044688015117971534"
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "Jupiter generated $1.4T in DEX aggregator volume!!\n\nHolding over 90% market share besides OKX, DFlow, and Titan.\n\nWill Jupiter stay Nr. 1 forever? https://t.co/V0d7suabB4",
-          "url": "https://twitter.com/SolanaSensei/status/2042863228758429910"
-        },
-        {
-          "handle": "@sol_nxxn",
-          "thought": "Yes, I’m down bad on all $JUP I haven’t sold\n\nBut to be honest, part of these tokens came from staking rewards and participating in the ecosystem.\n\nOf course, it would’ve been more profitable to just ",
-          "url": "https://twitter.com/sol_nxxn/status/2042013228683968809"
-        },
-        {
-          "handle": "@FabianoSolana",
-          "thought": "Jupiter ASR (Jan–Mar 2026) is out:\n\n- JUP on Jan 1: $0.19\n- JUP on Mar 31: $0.15\n\n- APY in JUP: 22%\n- APY in USD: -48% annual return (-16% in 3 months)\n\nIt might not look that great but still better t",
-          "url": "https://twitter.com/FabianoSolana/status/2041920589720412244"
-        },
-        {
-          "handle": "@Heavymetalcook6",
-          "thought": "Set your clock, stay up late, wake up early, quit your job, whatever - just don't miss the next episode of HeavyMetalCrime\n\nSUNDAY 5PM UTC (1PM ET)\n\nSpecial guest - @ALLEYCATNY from @JupiterExchange  ",
-          "url": "https://twitter.com/Heavymetalcook6/status/2042090011349135590"
+          "thought": "Jupiter just launched another TGC\n\nThis time it’s running for 2 weeks with $50K in rewards.\n\n- Trade PreStocks in Ultra Mode\n- $2K volume = 1 card\n\nCards can range from $1 to $10,000.\n\nThe rewards kee",
+          "url": "https://twitter.com/SolanaSensei/status/2044776846164967488"
         }
       ],
       "whoToFollow": [
+        {
+          "handle": "@SolanaSensei",
+          "reason": "Provides timely updates and analysis on Solana ecosystem campaigns.",
+          "role": "Analyst",
+          "engagement": 363
+        },
         {
           "handle": "@JupiterExchange",
-          "reason": "Official source for updates, features, and governance",
+          "reason": "Official source for campaign details and platform updates.",
           "role": "Builder",
-          "engagement": 816
-        },
-        {
-          "handle": "@SolanaSensei",
-          "reason": "Tracks Solana ecosystem metrics and trends",
-          "role": "Analyst",
-          "engagement": 243
+          "engagement": 0
         }
       ],
       "content": {
-        "signal": "Jupiter Mobile processed $890 million in trading volume last month, highlighting rapid adoption and dominance in Solana's DEX aggregator space.",
-        "story": "Jupiter Mobile has quickly become a major player in the Solana ecosystem, generating $890 million in trading volume last month alone. This surge reflects not just strong user interest in mobile-first DeFi, but also Jupiter’s broader dominance: the platform now claims over 90% of Solana’s DEX aggregator market share, outpacing competitors like OKX, DFlow, and Titan by a wide margin.\n\n### What's Happening\nJupiter’s mobile wallet has seen explosive growth, with users increasingly turning to mobile interfaces for on-chain trading. The $890 million in monthly volume is a clear signal that Solana users are comfortable executing significant trades from their phones. Meanwhile, Jupiter’s overall DEX aggregator has processed $1.4 trillion in lifetime volume, cementing its position as the go-to route for liquidity on Solana.\n\nThe project’s ecosystem incentives—such as token rewards and staking—have kept users engaged. While some holders express frustration over recent $JUP price declines, others acknowledge that Jupiter has consistently rewarded active participants, even as broader market conditions remain challenging.\n\n### Why It Matters\nJupiter’s rapid mobile growth is a strong signal for the future of DeFi on Solana. Mobile-first experiences are no longer a novelty; they’re becoming the standard for users who want fast, accessible trading. Jupiter’s dominance also means that most Solana DEX volume now flows through a single aggregator, shaping liquidity and user experience across the chain.\n\nFor token holders, the story is more nuanced. Despite a 22% APY in $JUP rewards, the actual USD returns have been negative over the last quarter, reflecting token price declines. Still, compared to other major assets like SOL and ETH, Jupiter’s rewards system has offered some relative stability for engaged users.\n\n### The Risk or Debate\nJupiter’s dominance raises questions about centralization of liquidity and the sustainability of its rewards model. Heavy reliance on one aggregator could become a vulnerability if technical issues or governance disputes arise. Additionally, while staking rewards are attractive in token terms, negative USD returns may test user patience if price trends don’t reverse.\n\nThere’s also debate around whether Jupiter can maintain its lead. As new competitors and features emerge, users may seek alternatives—especially if incentives or user experience falter. The project’s ability to balance growth, rewards, and governance will be closely watched.\n\n### What To Watch\nKeep an eye on upcoming governance decisions and any changes to Jupiter’s rewards structure. The team’s participation in community events and podcasts suggests ongoing efforts to engage users and address concerns. Watch for updates from Jupiter’s leadership, as well as any signs of shifting market share among Solana DEX aggregators. The next few months will reveal whether Jupiter can sustain its momentum—or if challengers will start to chip away at its dominance.",
+        "signal": "JupiterExchange users can now claim over $200K in mystery rewards, with additional $50K in TGC incentives live for active traders.",
+        "story": "JupiterExchange has launched a new phase of user rewards, distributing over $200,000 in mystery airdrops to eligible users. The claim window is limited to 31 days, requiring users to check eligibility through the Jupiter Mobile app or browser extension. In parallel, Jupiter has rolled out another Trading Game Campaign (TGC), offering $50,000 in rewards over a two-week period for those trading PreStocks in Ultra Mode.\n\n### What's Happening\n\nEligible JupiterExchange users can access the Rewards Hub to determine if they qualify for a share of the $200K+ mystery airdrop. The process involves importing a wallet into Jupiter's mobile or extension platform and checking for available rewards. Separately, the new TGC incentivizes trading activity: for every $2,000 in PreStocks volume in Ultra Mode, users receive a reward card, with card values ranging from $1 up to $10,000. Both initiatives are time-bound, with the airdrop claim window set at 31 days and the TGC running for two weeks.\n\n### Why It Matters\n\nJupiter's ongoing reward campaigns signal an aggressive push to deepen user engagement and liquidity on Solana. The scale of the airdrop and the gamified trading incentives reflect a broader trend of exchanges using direct rewards to retain active users and attract new participants. These campaigns may also help Jupiter differentiate itself in a crowded Solana ecosystem, where user loyalty and sustained activity are critical for protocol growth.\n\nThe mystery element of the airdrop and the randomized card values in the TGC introduce an element of unpredictability, which can boost participation and social sharing. By requiring wallet imports and active trading, Jupiter is also likely gathering valuable user data and reinforcing its mobile and extension platforms as primary access points.\n\n### The Risk or Debate\n\nShort claim windows and gamified reward structures can create pressure for users to act quickly, potentially leading to rushed decisions or missed opportunities. The randomized nature of rewards may also generate disappointment among users who receive lower-value cards or miss out on eligibility. Additionally, frequent reward campaigns could dilute the perceived value of future incentives or raise questions about long-term sustainability.\n\n### What To Watch\n\nThe immediate focus is on how many users claim the airdrop and participate in the TGC. Uptake rates and social sentiment will offer early signals about campaign effectiveness. It is also worth monitoring whether Jupiter introduces further reward rounds, adjusts eligibility criteria, or expands the range of incentivized trading products. User feedback on the claim process and reward distribution may influence future campaign design.",
         "takeaways": [
-          "Jupiter Mobile generated $890 million in trading volume last month, signaling rapid user adoption.",
-          "Jupiter controls over 90% of Solana's DEX aggregator market share, with $1.4 trillion in total volume.",
-          "Despite high APY in $JUP rewards, recent USD returns have been negative, reflecting broader market trends."
+          "JupiterExchange is distributing over $200K in mystery airdrop rewards to eligible users.",
+          "A new two-week Trading Game Campaign offers $50K in rewards for PreStocks trading.",
+          "Both campaigns are time-limited, emphasizing quick participation and engagement."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 5
+      "narrativeStrength": 3.8
     },
     {
-      "id": "story_1775922139165_2",
-      "title": "Meteora Rolls Out Portfolio View for LPs",
+      "id": "story_1776349169735_2",
+      "title": "Raydium’s 2/3 Multisig Raises Security Questions",
       "type": "alpha",
-      "category": "DeFi Innovation",
-      "author": "@SolanaSensei",
-      "timestamp": "2026-04-11T15:42:19.165Z",
+      "category": "Ecosystem Updates",
+      "author": "@FabianoSolana",
+      "timestamp": "2026-04-16T14:19:29.735Z",
       "metrics": {
-        "tweets": 3,
-        "engagement": 442,
-        "topTweet": 297,
-        "voices": 3,
+        "tweets": 1,
+        "engagement": 248,
+        "topTweet": 248,
+        "voices": 1,
         "engagementTrend": [
-          177,
-          243,
-          300,
-          362,
-          442
+          99,
+          136,
+          169,
+          203,
+          248
         ]
       },
       "ctPulse": [
         {
-          "handle": "@SolanaSensei",
-          "thought": "Meteora just introduced their new Portfolio view\n\nYou can now see all the necessary info around your LP journey\n\nLooking really sexy. What are we thinking? https://t.co/bnyRsym8NG",
-          "url": "https://twitter.com/SolanaSensei/status/2042270829959155861"
-        },
-        {
-          "handle": "@met_lparmy",
-          "thought": ".@SuperHighDeFi  shares @MeteoraAG update overview\n\n“We've been doing a lot of these type of feedback loops with you guys because you guys are core users the LP Army, and I think that's a big part of ",
-          "url": "https://twitter.com/met_lparmy/status/2042896760956240033"
-        },
-        {
-          "handle": "@Heavymetalcook6",
-          "thought": "WUT you have not yet taken LP Academy to learn how to be a Liquidity Provider on @MeteoraAG ?\n\n1) Why the heck not?\n2) It's free so what have you got to lose?\n3) It's better than ever\n\nLevel up today ",
-          "url": "https://twitter.com/Heavymetalcook6/status/2042002773370151346"
+          "handle": "@FabianoSolana",
+          "thought": "Not trying to FUD but why does Raydium run a 2/3 multisig with such high TVL?\n\ncheck https://t.co/OOuOgisd01 by @Trader_CSK for details\n\ncc: @ben_ungvari @0xINFRA https://t.co/gf3tgvIwMB",
+          "url": "https://twitter.com/FabianoSolana/status/2043711348379648503"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@MeteoraAG",
-          "reason": "Official account for updates and product changes",
-          "role": "Builder",
-          "engagement": 297
+          "handle": "@FabianoSolana",
+          "reason": "Flagged the multisig issue and drives discussion on Solana security.",
+          "role": "Community",
+          "engagement": 248
         },
         {
-          "handle": "@SolanaSensei",
-          "reason": "Provides ecosystem insights and highlights new features",
-          "role": "Community",
-          "engagement": 79
+          "handle": "@Trader_CSK",
+          "reason": "Provides on-chain data and analysis relevant to Raydium’s setup.",
+          "role": "Analyst",
+          "engagement": 0
         }
       ],
       "content": {
-        "signal": "Meteora has launched a new Portfolio view aimed at simplifying and improving the experience for liquidity providers on Solana.",
-        "story": "Meteora, a DeFi protocol on Solana, has introduced a Portfolio view designed to streamline how liquidity providers (LPs) track and manage their positions. The update is the result of ongoing feedback loops with core users, reflecting a focus on making the LP journey more transparent and user-friendly. The new interface consolidates key information, allowing users to see their positions and performance in one place.\n\n### What's Happening\nMeteora's Portfolio view is a direct response to feedback from its active LP community. The update aims to lower the barrier for new LPs and provide existing users with better tools to monitor their activity. By aggregating essential data, the platform wants to make it easier for users to understand their exposure and returns without navigating multiple dashboards or tools.\n\nThe rollout is accompanied by educational efforts, such as the LP Academy, which offers free resources for users to learn about liquidity provision on Meteora. This dual approach—product improvement and user education—signals Meteora's intent to grow its user base and deepen engagement among existing LPs.\n\n### Why It Matters\nFor DeFi protocols, user experience is a key differentiator, especially as competition on Solana heats up. By focusing on usability and transparency, Meteora is positioning itself as a protocol that listens to its community and iterates quickly. Simplifying the LP experience could attract more users who are curious about DeFi but hesitant due to complexity.\n\nBetter portfolio management tools can also help users make more informed decisions, potentially leading to healthier liquidity pools and a more robust ecosystem. If successful, this approach could set a new standard for how DeFi protocols engage with and support their LPs on Solana.\n\n### The Risk or Debate\nWhile the new Portfolio view is a step forward, there are open questions about how much it will move the needle for user growth or retention. Some users may still find DeFi intimidating, even with improved interfaces and educational content. There is also the ongoing risk of smart contract vulnerabilities or unforeseen UX issues that could impact trust.\n\nAnother consideration is whether these changes will be enough to differentiate Meteora from other protocols offering similar features. The DeFi landscape on Solana is evolving rapidly, and user expectations are rising alongside it.\n\n### What To Watch\nThe next phase will be seeing how the community responds to the Portfolio view in practice. Metrics like user growth, retention, and feedback will be telling. It’s also worth watching whether other Solana DeFi protocols follow suit with similar user-focused updates.\n\nContinued engagement between Meteora and its LP community will be important. If the feedback loop remains strong, further improvements could be on the horizon, potentially shaping best practices for the broader ecosystem.",
+        "signal": "Raydium, a major Solana DEX, manages large TVL with a 2/3 multisig, prompting renewed scrutiny over protocol security.",
+        "story": "A fresh wave of attention is hitting Raydium, one of Solana’s leading decentralized exchanges, after users highlighted its use of a 2/3 multisig to control protocol assets. With significant total value locked (TVL) on the platform, questions are surfacing about whether this security setup is robust enough for such a critical DeFi infrastructure.\n\n### What's Happening\n\nRaydium’s core contracts and treasury are reportedly governed by a 2/3 multisig wallet. This means that any two out of three designated signers can approve and execute transactions affecting protocol funds or upgrades. The issue was flagged publicly, sparking debate about whether this level of multisig security is appropriate for a platform of Raydium’s scale.\n\nThe discussion is not new in DeFi, but it’s gaining traction as Raydium’s TVL grows and as more users rely on its liquidity. References to on-chain data and dashboards, such as those shared by community members, are fueling the conversation and drawing in analysts and builders from across the Solana ecosystem.\n\n### Why It Matters\n\nMultisig wallets are a standard security measure in DeFi, but the number of signers and the threshold for approvals are critical details. A 2/3 setup can be efficient for operations, but it also means that a compromise of just two signers could put all protocol funds at risk. For a platform with high TVL, this risk profile stands out.\n\nThe debate reflects a broader tension in DeFi between operational agility and security. As protocols mature and attract more capital, the community expects stronger, more decentralized controls. How Raydium and similar projects address these concerns will influence user trust and the broader perception of Solana DeFi’s resilience.\n\n### The Risk or Debate\n\nThe core risk is that a 2/3 multisig may not provide enough protection against internal collusion or targeted attacks. With only three signers, the compromise or malicious action of two individuals could have catastrophic consequences. This setup also raises questions about transparency—users may not know who the signers are or how they are selected.\n\nSome argue that higher thresholds or more distributed multisig setups (such as 4/7 or larger councils) are warranted for protocols with substantial TVL. Others point out that increasing the number of signers can slow down governance and response times, which can be a trade-off in fast-moving markets.\n\n### What To Watch\n\nCommunity pressure could prompt Raydium to review and potentially upgrade its multisig structure. Look for official statements or proposals from the Raydium team addressing these concerns. The broader Solana DeFi ecosystem may also see renewed discussions about best practices for protocol security and governance.\n\nAny moves toward more decentralized or transparent multisig setups could set new standards for other projects. Users and analysts will be watching closely for changes in Raydium’s security model, as well as for any incidents that might validate or challenge the current debate.",
         "takeaways": [
-          "Meteora launched a Portfolio view to help LPs track and manage their positions.",
-          "The update is driven by user feedback and paired with educational resources.",
-          "User experience improvements may set a new standard for DeFi protocols on Solana."
+          "Raydium controls protocol assets with a 2/3 multisig wallet.",
+          "Concerns are rising about whether this setup is secure enough for high TVL.",
+          "The debate highlights ongoing trade-offs between security and operational efficiency in DeFi."
         ]
       },
-      "riskLevel": "medium",
-      "narrativeStrength": 4.3
+      "riskLevel": "high",
+      "narrativeStrength": 3.6
     }
   ]
 }
