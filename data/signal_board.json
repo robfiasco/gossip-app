@@ -1,26 +1,26 @@
 {
   "date": "2026-04-16",
-  "generated_at_utc": "2026-04-16T08:26:22.080Z",
-  "ctxMarket": "Attention is focused on Solana’s growing on-chain activity, even as SOL’s price remains in a tight range. Political involvement by Solana-backed groups is drawing headlines, alongside broader crypto policy developments.",
-  "ctxTalking": "• Solana Institute and Multicoin Capital are funding a super PAC targeting the Ohio Senate race.\n• Solana’s network usage is rising, but price momentum has not followed.\n• The potential next Fed Chair reportedly holds Solana in his crypto portfolio.",
-  "ctxMatters": "Political advocacy by Solana-affiliated groups signals deeper engagement with U.S. regulation and policymaking.  \nSustained network activity without price movement may shape perceptions of Solana’s utility and future growth.  \nHigh-profile holders, like a Fed Chair candidate, could influence mainstream visibility and regulatory tone.",
-  "ctxSignal": "Signal: Solana-backed funding in U.S. elections and increased network usage highlight real-world and on-chain traction.\nNoise: Speculation about immediate price “catch up” lacks clear supporting evidence.",
-  "ctxGlossary": "Super PAC — a political action committee that can raise and spend unlimited funds to influence elections  \nOn-chain activity — transactions and usage recorded directly on a blockchain",
+  "generated_at_utc": "2026-04-16T19:58:59.723Z",
+  "ctxMarket": "Attention is focused on Drift Protocol’s major recovery effort after its recent exploit, with Tether stepping in to provide significant backing. There is also interest in new trading infrastructure and political activity linked to Solana.",
+  "ctxTalking": "• Drift Protocol is relaunching with up to $148 million in support from Tether, moving away from Circle’s USDC after a large exploit.\n• DoubleZero is introducing high-speed, real-time Solana data feeds for traders.\n• A Solana Institute-backed super PAC is spending $8 million in the Ohio Senate race.",
+  "ctxMatters": "Drift’s pivot to USDT and Tether’s support highlight shifting stablecoin preferences and risk management after DeFi exploits. Faster blockchain data from DoubleZero could impact trading strategies and liquidity on Solana. Political spending by Solana-linked groups signals growing crypto influence in U.S. elections.",
+  "ctxSignal": "Signal: Tether’s direct role in DeFi recovery and the move away from USDC; new trading tech for Solana.\nNoise: Speculation about Circle’s response to the exploit without clear outcomes.",
+  "ctxGlossary": "Perpetuals DEX — a decentralized exchange for perpetual futures contracts.\nSuper PAC — a political action committee that can raise and spend unlimited funds to influence elections.",
   "readMore": [
     {
-      "title": "Solana Institute-backed super PAC pours $8 million against Sherrod Brown in Ohio race",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/397681/super-pac-8-million-sherrod-brown"
+      "title": "Drift Taps Tether for $148 Million Recovery Plan, Ditches Circle's USDC Following DeFi Exploit",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/364589/drift-tether-148-million-recovery-plan-ditches-circle-usdc"
     },
     {
-      "title": "Solana Policy Institute-backed PAC spends millions to jam Sherrod Brown's Senate run",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/04/15/solana-policy-institute-backed-pac-spends-millions-to-jam-sherrod-brown-s-senate-run"
-    },
-    {
-      "title": "Solana’s usage booms as price stays range-bound",
+      "title": "Tether backs Drift recovery with $127.5M as platform shifts from USDC to USDT",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solanas-usage-booms-as-price-stays-range-bound-how-soon-can-sol-catch-up"
+      "url": "https://ambcrypto.com/tether-backs-drift-recovery-with-127-5m-as-platform-shifts-from-usdc-to-usdt"
+    },
+    {
+      "title": "Tether announces $150M recovery program for Drift Protocol",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/tether-150m-recovery-drift-protocol"
     }
   ]
 }

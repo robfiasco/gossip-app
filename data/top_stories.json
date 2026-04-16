@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-04-16T08:26:14.291Z",
+    "generatedAt": "2026-04-16T19:58:50.409Z",
     "totalCandidates": 114,
-    "solanaCandidates": 25,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,28 +33,28 @@
       "scoreBreakdown": {
         "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "2cf2fca0c4fa2503d5fb31f0c41a42348b637f42",
-      "score": 30
+      "score": 29
     },
     {
-      "id": "https://www.coindesk.com/business/2026/04/15/justin-sun-blasts-trump-linked-wlfi-s-absurd-governance-vote-escalating-feud",
-      "title": "Justin Sun blasts Trump-linked WLFI's 'absurd' governance vote, escalating feud",
-      "url": "https://www.coindesk.com/business/2026/04/15/justin-sun-blasts-trump-linked-wlfi-s-absurd-governance-vote-escalating-feud",
+      "id": "https://www.coindesk.com/business/2026/04/16/drift-gets-usd148-million-funding-from-tether-and-partners-as-it-replaces-circle-stablecoin-with-usdt-after-massive-exploit",
+      "title": "Drift gets $148 million funding from Tether and partners as it replaces Circle stablecoin with USDT after massive exploit",
+      "url": "https://www.coindesk.com/business/2026/04/16/drift-gets-usd148-million-funding-from-tether-and-partners-as-it-replaces-circle-stablecoin-with-usdt-after-massive-exploit",
       "source": "CoinDesk",
-      "publishedAt": "2026-04-15T22:17:09.000Z",
-      "summary": "The Tron founder claimed that dissenters would face token lockups and exclusion from voting, while the project said the proposal aims to align all participants for the long-run.",
+      "publishedAt": "2026-04-16T13:00:00.000Z",
+      "summary": "The money will be used by Drift to recover user funds after more than $270 million in clients assets were exploited this month, and will relaunch the protocol as a USDT-based perpetuals DEX on Solana.",
       "tags": [
-        "justin",
-        "blasts",
-        "trump"
+        "drift",
+        "gets",
+        "million"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -71,88 +71,55 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a624fe6670eb26da64cb089689250864fc1ad5f5",
+      "dedupeFingerprint": "b020a8638d0e17a03b06c54d82c51b0a699d9cf1",
       "score": 27
     },
     {
-      "id": "https://www.theblock.co/post/397597/trump-backed-world-liberty-proposes-vesting-overhaul-for-62-3-billion-tokens-would-burn-up-to-10-of-insider-allocation",
-      "title": "Trump-backed World Liberty proposes vesting overhaul for 62.3 billion tokens, would burn up to 10% of insider allocation",
-      "url": "https://www.theblock.co/post/397597/trump-backed-world-liberty-proposes-vesting-overhaul-for-62-3-billion-tokens-would-burn-up-to-10-of-insider-allocation",
-      "source": "The Block",
-      "publishedAt": "2026-04-15T14:25:48.000Z",
-      "summary": "WLFI proposes moving 62.3B locked tokens to fixed vesting schedules, requiring insiders to burn 10% of their allocation.",
+      "id": "https://cointelegraph.com/news/allunity-mica-regulated-euro-stablecoin-eurau-defi",
+      "title": "AllUnity takes MiCA-regulated euro stablecoin EURAU further into DeFi",
+      "url": "https://cointelegraph.com/news/allunity-mica-regulated-euro-stablecoin-eurau-defi",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-16T12:47:29.000Z",
+      "summary": "AllUnity says it is expanding EURAU stablecoin liquidity pools across major DEXs such as Uniswap and Raydium, with trading pairs against USDT and USDT0.",
       "tags": [
-        "trump",
-        "backed",
-        "world"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "f5ac368a01222fc00496871c7d7cae304d6444a1",
-      "score": 21
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/04/15/trump-backed-world-liberty-financial-proposes-unlocking-62-billion-tokens",
-      "title": "Trump-backed WLFI moves to unlock 62 billion tokens after $75 million loan controversy",
-      "url": "https://www.coindesk.com/markets/2026/04/15/trump-backed-world-liberty-financial-proposes-unlocking-62-billion-tokens",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-15T12:36:49.000Z",
-      "summary": "The project would burn 4.5 billion tokens while beginning to vest 40.7 billion tokens for founders and the team, restructuring locks that were originally set to be indefinite.",
-      "tags": [
-        "trump",
-        "backed",
-        "wlfi"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "508e70da202d574965c87525d04b0026235c3f87",
-      "score": 21
-    },
-    {
-      "id": "https://www.theblock.co/post/397654/tether-stablecoin-development-corporation-134-million-private-placement-acquire-sky-tokens",
-      "title": "Tether backs Stablecoin Development Corporation’s $134 million private placement used to acquire SKY tokens",
-      "url": "https://www.theblock.co/post/397654/tether-stablecoin-development-corporation-134-million-private-placement-acquire-sky-tokens",
-      "source": "The Block",
-      "publishedAt": "2026-04-15T20:44:33.000Z",
-      "summary": "The Stablecoin Development Corporation is a publicly-traded holding company with an approximately 2.15 billion SKY token treasury.",
-      "tags": [
-        "tether",
-        "backs",
-        "stablecoin"
+        "allunity",
+        "takes",
+        "mica"
       ],
       "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 14,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "8874ec21ec0c69ca52952010c94ceb511f63fa33",
+      "score": 24
+    },
+    {
+      "id": "https://www.coindesk.com/tech/2026/04/16/wall-street-trading-tech-is-coming-to-crypto-as-doublezero-rolls-out-high-speed-data-for-solana",
+      "title": "Wall Street trading-tech is coming to crypto as DoubleZero rolls out high-speed data for Solana",
+      "url": "https://www.coindesk.com/tech/2026/04/16/wall-street-trading-tech-is-coming-to-crypto-as-doublezero-rolls-out-high-speed-data-for-solana",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-16T13:00:00.000Z",
+      "summary": "The project, called DoubleZero Edge, offers a real-time feed of raw data from the Solana blockchain, giving traders faster access to information that can influence prices.",
+      "tags": [
+        "wall",
+        "street",
+        "trading"
+      ],
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 2,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5d822e28eba8eba4d7a250e9faff00bd55a81115",
-      "score": 16
+      "dedupeFingerprint": "0103bfb0c19f82893ab559d43de84b63f6aa8c4a",
+      "score": 22
+    },
+    {
+      "id": "https://cryptoslate.com/on-schedule-and-above-target-jsts-third-buyback-and-burn-breaches-21-million",
+      "title": "On Schedule and Above Target: JST’s Third Buyback and Burn Breaches $21 Million",
+      "url": "https://cryptoslate.com/on-schedule-and-above-target-jsts-third-buyback-and-burn-breaches-21-million",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-16T19:30:41.000Z",
+      "summary": "According to the latest official update, the third large-scale buyback and burn of JST has been completed. In this round, 271,337,579 JST tokens, worth an estimated $21.3 million, were burned, representing 2.74% of the total supply. Every dollar deployed in this round originated directly from the or",
+      "tags": [
+        "schedule",
+        "above",
+        "target"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "18334fe18ebd69ab49c04946afb3a299f840da9c",
+      "score": 20
     }
   ]
 }
