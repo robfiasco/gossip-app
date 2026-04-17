@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-04-17T08:25:40.932Z",
+    "generatedAt": "2026-04-17T19:57:59.648Z",
     "totalCandidates": 114,
-    "solanaCandidates": 24,
+    "solanaCandidates": 30,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cointelegraph.com/news/circle-faces-class-action-lawsuit-after-drift-protocol-hack",
-      "title": "Stablecoin issuer Circle faces lawsuit over $280M Drift Protocol hack",
-      "url": "https://cointelegraph.com/news/circle-faces-class-action-lawsuit-after-drift-protocol-hack",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-17T01:35:22.000Z",
-      "summary": "Circle was accused of aiding and abetting the conversion of the stolen funds and negligence after it did not freeze funds stolen from the Drift Protocol in April.",
+      "id": "https://cryptoslate.com/tether-uses-127m-drift-rescue-to-challenge-circles-grip-on-solana-payments",
+      "title": "Tether uses $127M Drift rescue to challenge Circle’s grip on Solana payments",
+      "url": "https://cryptoslate.com/tether-uses-127m-drift-rescue-to-challenge-circles-grip-on-solana-payments",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-17T11:30:41.000Z",
+      "summary": "USDT stablecoin issuer Tether has stepped in to anchor a massive recovery plan for Drift Protocol, the Solana-based decentralized exchange (DEX) that was crippled by a $286 million exploit earlier this month. However, the rescue package includes a potent commercial string that could challenge Circle",
       "tags": [
-        "stablecoin",
-        "issuer",
-        "circle"
+        "tether",
+        "uses",
+        "127m"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,62 +31,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 22,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2c5f55b6ba9226d18e5bbbf5758bbf7faccc72d1",
-      "score": 23
+      "dedupeFingerprint": "ba2a1918df5d1908b6d11062ede7d201a2f75dbf",
+      "score": 34
     },
     {
-      "id": "https://www.theblock.co/post/397838/clarity-act-stablecoin-yield-delayed",
-      "title": "Clarity Act’s stablecoin yield language pushed back; ban on idle balances still intact",
-      "url": "https://www.theblock.co/post/397838/clarity-act-stablecoin-yield-delayed",
-      "source": "The Block",
-      "publishedAt": "2026-04-17T03:26:15.000Z",
-      "summary": "A source told The Block that the latest text reflects previous language that bans rewards on idle stablecoin holdings.",
-      "tags": [
-        "clarity",
-        "stablecoin",
-        "yield"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "fa9f2c8369a41d414094994b0f62e343721ff54e",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/solana-network-activity-explodes-past-1-1t-in-q1-but-sol-is-yet-to-catch-up",
-      "title": "Solana network activity explodes past $1.1T in Q1, but SOL is yet to catch up",
-      "url": "https://ambcrypto.com/solana-network-activity-explodes-past-1-1t-in-q1-but-sol-is-yet-to-catch-up",
+      "id": "https://ambcrypto.com/solanas-breakout-is-tied-to-post-hack-sentiment-and-liquidity-shift-details",
+      "title": "Solana’s breakout is tied to post-hack sentiment and liquidity shift: Details",
+      "url": "https://ambcrypto.com/solanas-breakout-is-tied-to-post-hack-sentiment-and-liquidity-shift-details",
       "source": "AMB Crypto",
-      "publishedAt": "2026-04-17T06:00:52.000Z",
-      "summary": "Whale-sized on-chain flows are rising too.",
+      "publishedAt": "2026-04-17T12:30:06.000Z",
+      "summary": "Tether’s intervention in the Drift recovery has placed USDC’s long-standing dominance on Solana under market scrutiny.",
       "tags": [
         "solana",
-        "network",
-        "activity"
+        "breakout",
+        "tied"
       ],
-      "topicBucket": "market",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -97,27 +64,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 10,
+        "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "f3344153d7349d6c05f9004bfca1d6819d27dd1a",
-      "score": 21
+      "dedupeFingerprint": "d901031d5e0e178fb6fb11942f32a7851cddc4b0",
+      "score": 27
     },
     {
-      "id": "https://www.coindesk.com/tech/2026/04/16/wall-street-trading-tech-is-coming-to-crypto-as-doublezero-rolls-out-high-speed-data-for-solana",
-      "title": "Wall Street trading-tech is coming to crypto as DoubleZero rolls out high-speed data for Solana",
-      "url": "https://www.coindesk.com/tech/2026/04/16/wall-street-trading-tech-is-coming-to-crypto-as-doublezero-rolls-out-high-speed-data-for-solana",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-16T13:00:00.000Z",
-      "summary": "The project, called DoubleZero Edge, offers a real-time feed of raw data from the Solana blockchain, giving traders faster access to information that can influence prices.",
+      "id": "https://www.theblock.co/post/397951/wrapped-xrp-launches-solana-enabling-defi-access-token-holders",
+      "title": "Wrapped XRP launches on Solana, enabling broader DeFi access for token holders",
+      "url": "https://www.theblock.co/post/397951/wrapped-xrp-launches-solana-enabling-defi-access-token-holders",
+      "source": "The Block",
+      "publishedAt": "2026-04-17T18:52:57.000Z",
+      "summary": "The move follows Hex Trust saying in December wXRP would become available on Solana, Optimism, Ethereum, and HyperEVM.",
       "tags": [
-        "wall",
-        "street",
-        "trading"
+        "wrapped",
+        "launches",
+        "solana"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -132,25 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0103bfb0c19f82893ab559d43de84b63f6aa8c4a",
-      "score": 21
+      "dedupeFingerprint": "0512dd89e715970431a71e2c7b338ae5e5ccfd70",
+      "score": 22
     },
     {
-      "id": "https://ambcrypto.com/just-defies-market-logic-as-20-mln-burn-fails-to-halt-25-drop-bears-dominate",
-      "title": "JUST defies market logic as $20 mln burn fails to halt 25% drop – Bears dominate",
-      "url": "https://ambcrypto.com/just-defies-market-logic-as-20-mln-burn-fails-to-halt-25-drop-bears-dominate",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-17T05:30:26.000Z",
-      "summary": "JST defies market expectations despite $20M burn as price drops 25%.",
+      "id": "https://www.theblock.co/post/397902/french-minister-urges-banks-to-expand-euro-stablecoins-tokenized-deposits-report",
+      "title": "French minister urges banks to expand euro stablecoins, tokenized deposits: report",
+      "url": "https://www.theblock.co/post/397902/french-minister-urges-banks-to-expand-euro-stablecoins-tokenized-deposits-report",
+      "source": "The Block",
+      "publishedAt": "2026-04-17T15:18:43.000Z",
+      "summary": "French minister urges European banks to expand euro stablecoins and tokenized deposits as dollar-pegged supply tops $300 billion.",
       "tags": [
-        "just",
-        "defies",
-        "market"
+        "french",
+        "minister",
+        "urges"
       ],
       "topicBucket": "tokenomics",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -166,12 +133,45 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "69a8b7aaa40bd44a8681cacfb19fff7bda17b474",
-      "score": 19
+      "dedupeFingerprint": "164daeb53566639402c99592fc7850ba04e8ca37",
+      "score": 22
+    },
+    {
+      "id": "https://cryptoslate.com/clarity-act-deadlock-fails-to-stop-stablecoins-smashing-past-320b-and-yield-bearing-tokens-surge-past-market",
+      "title": "Clarity Act deadlock fails to stop Stablecoins smashing $320B and yield-bearing tokens surging",
+      "url": "https://cryptoslate.com/clarity-act-deadlock-fails-to-stop-stablecoins-smashing-past-320b-and-yield-bearing-tokens-surge-past-market",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-17T13:11:38.000Z",
+      "summary": "Stablecoin supply climbed to a record $320 billion this week, extending the continued surge in dollar-linked digital assets. This comes as one of the biggest questions hanging over the sector remains unresolved in Washington: whether the income generated by the reserves backing those tokens should s",
+      "tags": [
+        "clarity",
+        "deadlock",
+        "fails"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "38f8f1d2cb32b59c07ce6e04e6f6fed443c6ea61",
+      "score": 20
     }
   ]
 }
