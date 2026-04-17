@@ -1,60 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-04-16T19:58:50.409Z",
+    "generatedAt": "2026-04-17T08:25:40.932Z",
     "totalCandidates": 114,
-    "solanaCandidates": 23,
+    "solanaCandidates": 24,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/397675/world-liberty-financial-new-proposal-criticism-justin-sun",
-      "title": "‘Absurd governance scam’: World Liberty Financial’s new proposal prompts harsh criticism from Justin Sun and other holders",
-      "url": "https://www.theblock.co/post/397675/world-liberty-financial-new-proposal-criticism-justin-sun",
-      "source": "The Block",
-      "publishedAt": "2026-04-16T03:19:37.000Z",
-      "summary": "Tron Founder Justin Sun issued harsh criticism of the new proposal, calling it one of the 'most absurd governance scams.'",
+      "id": "https://cointelegraph.com/news/circle-faces-class-action-lawsuit-after-drift-protocol-hack",
+      "title": "Stablecoin issuer Circle faces lawsuit over $280M Drift Protocol hack",
+      "url": "https://cointelegraph.com/news/circle-faces-class-action-lawsuit-after-drift-protocol-hack",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-17T01:35:22.000Z",
+      "summary": "Circle was accused of aiding and abetting the conversion of the stolen funds and negligence after it did not freeze funds stolen from the Drift Protocol in April.",
       "tags": [
-        "absurd",
-        "governance",
-        "scam"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2cf2fca0c4fa2503d5fb31f0c41a42348b637f42",
-      "score": 29
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/04/16/drift-gets-usd148-million-funding-from-tether-and-partners-as-it-replaces-circle-stablecoin-with-usdt-after-massive-exploit",
-      "title": "Drift gets $148 million funding from Tether and partners as it replaces Circle stablecoin with USDT after massive exploit",
-      "url": "https://www.coindesk.com/business/2026/04/16/drift-gets-usd148-million-funding-from-tether-and-partners-as-it-replaces-circle-stablecoin-with-usdt-after-massive-exploit",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-16T13:00:00.000Z",
-      "summary": "The money will be used by Drift to recover user funds after more than $270 million in clients assets were exploited this month, and will relaunch the protocol as a USDT-based perpetuals DEX on Solana.",
-      "tags": [
-        "drift",
-        "gets",
-        "million"
+        "stablecoin",
+        "issuer",
+        "circle"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -67,27 +34,27 @@
         "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b020a8638d0e17a03b06c54d82c51b0a699d9cf1",
-      "score": 27
+      "dedupeFingerprint": "2c5f55b6ba9226d18e5bbbf5758bbf7faccc72d1",
+      "score": 23
     },
     {
-      "id": "https://cointelegraph.com/news/allunity-mica-regulated-euro-stablecoin-eurau-defi",
-      "title": "AllUnity takes MiCA-regulated euro stablecoin EURAU further into DeFi",
-      "url": "https://cointelegraph.com/news/allunity-mica-regulated-euro-stablecoin-eurau-defi",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-16T12:47:29.000Z",
-      "summary": "AllUnity says it is expanding EURAU stablecoin liquidity pools across major DEXs such as Uniswap and Raydium, with trading pairs against USDT and USDT0.",
+      "id": "https://www.theblock.co/post/397838/clarity-act-stablecoin-yield-delayed",
+      "title": "Clarity Act’s stablecoin yield language pushed back; ban on idle balances still intact",
+      "url": "https://www.theblock.co/post/397838/clarity-act-stablecoin-yield-delayed",
+      "source": "The Block",
+      "publishedAt": "2026-04-17T03:26:15.000Z",
+      "summary": "A source told The Block that the latest text reflects previous language that bans rewards on idle stablecoin holdings.",
       "tags": [
-        "allunity",
-        "takes",
-        "mica"
+        "clarity",
+        "stablecoin",
+        "yield"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -97,15 +64,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 14,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8874ec21ec0c69ca52952010c94ceb511f63fa33",
-      "score": 24
+      "dedupeFingerprint": "fa9f2c8369a41d414094994b0f62e343721ff54e",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/solana-network-activity-explodes-past-1-1t-in-q1-but-sol-is-yet-to-catch-up",
+      "title": "Solana network activity explodes past $1.1T in Q1, but SOL is yet to catch up",
+      "url": "https://ambcrypto.com/solana-network-activity-explodes-past-1-1t-in-q1-but-sol-is-yet-to-catch-up",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-17T06:00:52.000Z",
+      "summary": "Whale-sized on-chain flows are rising too.",
+      "tags": [
+        "solana",
+        "network",
+        "activity"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "f3344153d7349d6c05f9004bfca1d6819d27dd1a",
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/tech/2026/04/16/wall-street-trading-tech-is-coming-to-crypto-as-doublezero-rolls-out-high-speed-data-for-solana",
@@ -132,25 +132,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "0103bfb0c19f82893ab559d43de84b63f6aa8c4a",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://cryptoslate.com/on-schedule-and-above-target-jsts-third-buyback-and-burn-breaches-21-million",
-      "title": "On Schedule and Above Target: JST’s Third Buyback and Burn Breaches $21 Million",
-      "url": "https://cryptoslate.com/on-schedule-and-above-target-jsts-third-buyback-and-burn-breaches-21-million",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-16T19:30:41.000Z",
-      "summary": "According to the latest official update, the third large-scale buyback and burn of JST has been completed. In this round, 271,337,579 JST tokens, worth an estimated $21.3 million, were burned, representing 2.74% of the total supply. Every dollar deployed in this round originated directly from the or",
+      "id": "https://ambcrypto.com/just-defies-market-logic-as-20-mln-burn-fails-to-halt-25-drop-bears-dominate",
+      "title": "JUST defies market logic as $20 mln burn fails to halt 25% drop – Bears dominate",
+      "url": "https://ambcrypto.com/just-defies-market-logic-as-20-mln-burn-fails-to-halt-25-drop-bears-dominate",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-17T05:30:26.000Z",
+      "summary": "JST defies market expectations despite $20M burn as price drops 25%.",
       "tags": [
-        "schedule",
-        "above",
-        "target"
+        "just",
+        "defies",
+        "market"
       ],
       "topicBucket": "tokenomics",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -166,12 +166,12 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "18334fe18ebd69ab49c04946afb3a299f840da9c",
-      "score": 20
+      "dedupeFingerprint": "69a8b7aaa40bd44a8681cacfb19fff7bda17b474",
+      "score": 19
     }
   ]
 }

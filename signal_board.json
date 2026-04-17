@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-16",
-  "generated_at_utc": "2026-04-16T19:58:59.723Z",
-  "ctxMarket": "Attention is focused on Drift Protocol’s major recovery effort after its recent exploit, with Tether stepping in to provide significant backing. There is also interest in new trading infrastructure and political activity linked to Solana.",
-  "ctxTalking": "• Drift Protocol is relaunching with up to $148 million in support from Tether, moving away from Circle’s USDC after a large exploit.\n• DoubleZero is introducing high-speed, real-time Solana data feeds for traders.\n• A Solana Institute-backed super PAC is spending $8 million in the Ohio Senate race.",
-  "ctxMatters": "Drift’s pivot to USDT and Tether’s support highlight shifting stablecoin preferences and risk management after DeFi exploits. Faster blockchain data from DoubleZero could impact trading strategies and liquidity on Solana. Political spending by Solana-linked groups signals growing crypto influence in U.S. elections.",
-  "ctxSignal": "Signal: Tether’s direct role in DeFi recovery and the move away from USDC; new trading tech for Solana.\nNoise: Speculation about Circle’s response to the exploit without clear outcomes.",
-  "ctxGlossary": "Perpetuals DEX — a decentralized exchange for perpetual futures contracts.\nSuper PAC — a political action committee that can raise and spend unlimited funds to influence elections.",
+  "date": "2026-04-17",
+  "generated_at_utc": "2026-04-17T08:25:51.273Z",
+  "ctxMarket": "Attention is focused on surging Solana network activity, with Q1 volumes exceeding $1.1 trillion, while price action has not matched on-chain growth. Security incidents and stablecoin management are also in the spotlight following high-profile protocol exploits.",
+  "ctxTalking": "• Solana’s network usage and whale on-chain flows have reached record highs\n• Multiple DeFi hacks, including Drift Protocol, have triggered lawsuits and stablecoin pivots\n• Wall Street-grade trading data is being introduced for Solana via DoubleZero Edge",
+  "ctxMatters": "Rising network activity signals growing adoption and use cases on Solana, but security challenges remain prominent. The fallout from the Drift hack is reshaping stablecoin preferences and legal expectations for issuers. Enhanced trading infrastructure could attract more sophisticated participants to the Solana ecosystem.",
+  "ctxSignal": "Signal: Record Solana network activity and the shift from USDC to USDT in major protocols after exploits.\nNoise: Speculation about immediate SOL price movements not directly tied to on-chain fundamentals.",
+  "ctxGlossary": "Drift Protocol — A DeFi platform on Solana recently exploited for $280 million.\nUSDC/USDT — Competing stablecoins used for transactions and reserves in DeFi.\nDoubleZero Edge — A new high-speed data service delivering real-time Solana blockchain information.",
   "readMore": [
     {
-      "title": "Drift Taps Tether for $148 Million Recovery Plan, Ditches Circle's USDC Following DeFi Exploit",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/364589/drift-tether-148-million-recovery-plan-ditches-circle-usdc"
-    },
-    {
-      "title": "Tether backs Drift recovery with $127.5M as platform shifts from USDC to USDT",
+      "title": "Solana network activity explodes past $1.1T in Q1, but SOL is yet to catch up",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/tether-backs-drift-recovery-with-127-5m-as-platform-shifts-from-usdc-to-usdt"
+      "url": "https://ambcrypto.com/solana-network-activity-explodes-past-1-1t-in-q1-but-sol-is-yet-to-catch-up"
     },
     {
-      "title": "Tether announces $150M recovery program for Drift Protocol",
+      "title": "At least a dozen crypto entities attacked since Drift Protocol hack",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/tether-150m-recovery-drift-protocol"
+      "url": "https://cointelegraph.com/news/12-crypto-protocol-entities-attacked-since-drift-exploit"
+    },
+    {
+      "title": "Circle hit with class action lawsuit over alleged inaction in $280 million Drift exploit",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/397840/circle-class-action-lawsuit-drift-exploit"
     }
   ]
 }

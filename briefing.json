@@ -1,34 +1,34 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
       "type": "RISK",
-      "title": "Drift gets $148 million funding from Tether and partners as it replaces Circle stablecoin with USDT after massive exploit",
+      "title": "Stablecoin issuer Circle faces lawsuit over $280M Drift Protocol hack",
       "category": "RISK",
-      "source": "CoinDesk",
-      "date": "2026-04-16",
-      "url": "https://www.coindesk.com/business/2026/04/16/drift-gets-usd148-million-funding-from-tether-and-partners-as-it-replaces-circle-stablecoin-with-usdt-after-massive-exploit",
-      "whyYouShouldCare": "Drift's shift to USDT and significant funding indicates a strategic pivot that could enhance liquidity and stability within the Solana ecosystem."
+      "source": "Cointelegraph",
+      "date": "2026-04-17",
+      "url": "https://cointelegraph.com/news/circle-faces-class-action-lawsuit-after-drift-protocol-hack",
+      "whyYouShouldCare": "Circle's legal challenges could impact its operational stability, potentially affecting liquidity and trust in stablecoins used within the Solana ecosystem."
     },
     {
       "type": "RISK",
-      "title": "Drift Taps Tether for $148 Million Recovery Plan, Ditches Circle's USDC Following DeFi Exploit",
+      "title": "Circle hit with class action lawsuit over alleged inaction in $280 million Drift exploit",
       "category": "RISK",
-      "source": "Decrypt",
-      "date": "2026-04-16",
-      "url": "https://decrypt.co/364589/drift-tether-148-million-recovery-plan-ditches-circle-usdc",
-      "whyYouShouldCare": "The transition from USDC to USDT reflects Drift's response to recent vulnerabilities, potentially impacting user confidence and liquidity dynamics in Solana's DeFi space."
+      "source": "The Block",
+      "date": "2026-04-17",
+      "url": "https://www.theblock.co/post/397840/circle-class-action-lawsuit-drift-exploit",
+      "whyYouShouldCare": "The class action lawsuit against Circle highlights risks in the stablecoin market, which could influence investor confidence and usage of SOL."
     },
     {
-      "type": "RISK",
-      "title": "Tether backs Drift recovery with $127.5M as platform shifts from USDC to USDT",
-      "category": "RISK",
+      "type": "APPS",
+      "title": "Solana network activity explodes past $1.1T in Q1, but SOL is yet to catch up",
+      "category": "APPS",
       "source": "AMB Crypto",
-      "date": "2026-04-16",
-      "url": "https://ambcrypto.com/tether-backs-drift-recovery-with-127-5m-as-platform-shifts-from-usdc-to-usdt",
-      "whyYouShouldCare": "Tether's substantial backing for Drift underscores the importance of stablecoin stability in DeFi, which could influence overall market confidence in Solana projects."
+      "date": "2026-04-17",
+      "url": "https://ambcrypto.com/solana-network-activity-explodes-past-1-1t-in-q1-but-sol-is-yet-to-catch-up",
+      "whyYouShouldCare": "Despite significant network activity growth on Solana, SOL's price performance indicates a disconnect, suggesting potential liquidity or market perception issues."
     }
   ]
 }
