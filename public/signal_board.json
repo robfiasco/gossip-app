@@ -1,12 +1,17 @@
 {
   "date": "2026-04-18",
-  "generated_at_utc": "2026-04-18T07:59:05.217Z",
-  "ctxMarket": "Attention is focused on the launch of wrapped XRP (wXRP) on Solana, which is driving discussion about DeFi utility and cross-chain liquidity. The aftermath of the Drift Protocol exploit and related legal actions involving Circle and Tether are also prominent.",
-  "ctxTalking": "• Wrapped XRP is now live on Solana, expanding XRP’s DeFi use and cross-chain presence.\n• Tether’s $127M rescue of Drift Protocol is seen as a move to challenge Circle’s dominance in Solana payments.\n• Circle faces a class action lawsuit over its response to the Drift Protocol hack.",
-  "ctxMatters": "The addition of wXRP to Solana’s DeFi ecosystem increases asset diversity and liquidity options for users. Tether’s intervention in Drift Protocol signals competition in stablecoin infrastructure on Solana. Legal scrutiny of Circle may influence how centralized stablecoin issuers respond to future exploits.",
-  "ctxSignal": "Signal: wXRP’s launch on Solana and the competitive dynamics between Tether and Circle in the ecosystem.\nNoise: Speculation about price movements not directly tied to these developments.",
-  "ctxGlossary": "wXRP — A wrapped version of XRP that can be used on non-native blockchains like Solana.\nDrift Protocol — A Solana-based decentralized exchange recently affected by a major exploit.",
+  "generated_at_utc": "2026-04-18T19:39:36.281Z",
+  "ctxMarket": "Attention is focused on the launch of wrapped XRP (wXRP) on Solana, which is expanding DeFi access for Ripple-linked assets. There is also discussion around a class action lawsuit against Circle related to the Drift Protocol hack and USDC handling.",
+  "ctxTalking": "• Wrapped XRP is now live on Solana, allowing XRP holders to use DeFi platforms like Jupiter, Phantom, and Meteora.\n• Over $1.2 million in wXRP has already been minted on Solana, signaling early adoption.\n• Circle faces a lawsuit over its response to the Drift Protocol hack and alleged failure to freeze stolen USDC.",
+  "ctxMatters": "Solana’s integration with wXRP opens new DeFi opportunities for XRP holders without requiring asset sales. Early wXRP minting volume suggests real user interest. The Circle lawsuit highlights ongoing concerns about stablecoin issuer responsibilities during protocol exploits.",
+  "ctxSignal": "Signal: The operational launch and initial uptake of wXRP on Solana, and legal scrutiny of stablecoin issuers in DeFi incidents.\nNoise: Price moves attributed to news, unless directly supported by volume or on-chain data.",
+  "ctxGlossary": "Wrapped XRP (wXRP) — A Solana-based token representing XRP, enabling use in Solana DeFi.\nDrift Protocol — A Solana-based trading platform recently targeted in a major hack.",
   "readMore": [
+    {
+      "title": "Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/18/wrapped-xrp-goes-live-on-solana-broadening-defi-access-for-ripple-linked-token"
+    },
     {
       "title": "You Can Now Use XRP on Solana—Here's How",
       "source": "Decrypt",
@@ -16,11 +21,6 @@
       "title": "XRP Gets Major Adoption Boost From Solana as Price Gains Momentum",
       "source": "CryptoPotato",
       "url": "https://cryptopotato.com/xrp-gets-major-adoption-boost-from-solana-as-price-gains-momentum"
-    },
-    {
-      "title": "Wrapped XRP launches on Solana, enabling broader DeFi access for token holders",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/397951/wrapped-xrp-launches-solana-enabling-defi-access-token-holders"
     }
   ]
 }

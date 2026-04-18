@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-04-18T07:58:58.023Z",
+    "generatedAt": "2026-04-18T19:39:28.646Z",
     "totalCandidates": 114,
-    "solanaCandidates": 28,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://decrypt.co/364792/you-can-now-use-xrp-solana-how",
-      "title": "You Can Now Use XRP on Solana—Here's How",
-      "url": "https://decrypt.co/364792/you-can-now-use-xrp-solana-how",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-17T20:40:39.000Z",
-      "summary": "More than $1.2 million worth of wrapped XRP tokens (wXRP) have been minted on Solana as the Ripple-linked asset gains greater DeFi utility.",
+      "id": "https://www.coindesk.com/markets/2026/04/18/wrapped-xrp-goes-live-on-solana-broadening-defi-access-for-ripple-linked-token",
+      "title": "Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token",
+      "url": "https://www.coindesk.com/markets/2026/04/18/wrapped-xrp-goes-live-on-solana-broadening-defi-access-for-ripple-linked-token",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-18T13:00:00.000Z",
+      "summary": "Wrapped XRP on Solana lets XRP holders access Jupiter, Phantom, and Meteora without selling the asset, the latest step in Hex Trust's multi-chain wXRP rollout first announced in December.",
       "tags": [
-        "solana",
-        "here",
-        "more"
+        "wrapped",
+        "goes",
+        "live"
       ],
-      "topicBucket": "general",
+      "topicBucket": "consumer",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,27 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 17,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 3,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9b870e9b984c12d65422c23848d4694f1baf3f18",
-      "score": 21
+      "dedupeFingerprint": "00981008ff3952fa5026b09831946cdbe983f63d",
+      "score": 31
     },
     {
-      "id": "https://ambcrypto.com/wrapped-xrp-goes-live-on-solana-expanding-cross-chain-defi-access",
-      "title": "Wrapped XRP goes live on Solana, expanding cross-chain DeFi access",
-      "url": "https://ambcrypto.com/wrapped-xrp-goes-live-on-solana-expanding-cross-chain-defi-access",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-17T18:47:26.000Z",
-      "summary": "XRP enters Solana's DeFi ecosystem through wXRP, expanding cross-chain liquidity and utility.",
+      "id": "https://cointelegraph.com/news/stablecoins-behave-fx-markets-liquidity-splits-eco-ceo",
+      "title": "Stablecoins behave like FX markets as liquidity splits: Eco CEO",
+      "url": "https://cointelegraph.com/news/stablecoins-behave-fx-markets-liquidity-splits-eco-ceo",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-18T12:00:00.000Z",
+      "summary": "Stablecoins promise seamless dollar movement, but fragmented liquidity is turning large transfers into complex execution problems, says Eco CEO Ryne Saxe.",
       "tags": [
-        "wrapped",
-        "goes",
-        "live"
+        "stablecoins",
+        "behave",
+        "like"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,15 +64,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
+        "recencyScore": 10,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a3c53d50cd8164d36f598d6e249c699a02ba4f01",
-      "score": 21
+      "dedupeFingerprint": "a8510d22c459467ed729657c426f2eb20012e35e",
+      "score": 26
     },
     {
       "id": "https://www.coindesk.com/opinion/2026/04/17/don-t-get-ai-agents-and-stablecoin-transfers-enroll-in-coindesk-university",
@@ -99,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "7f0f236a6ae62db501144f252eda4755a33b990a",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://www.theblock.co/post/397902/french-minister-urges-banks-to-expand-euro-stablecoins-tokenized-deposits-report",
@@ -132,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "164daeb53566639402c99592fc7850ba04e8ca37",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://cryptoslate.com/clarity-act-deadlock-fails-to-stop-stablecoins-smashing-past-320b-and-yield-bearing-tokens-surge-past-market",
-      "title": "Clarity Act deadlock fails to stop Stablecoins smashing $320B and yield-bearing tokens surging",
-      "url": "https://cryptoslate.com/clarity-act-deadlock-fails-to-stop-stablecoins-smashing-past-320b-and-yield-bearing-tokens-surge-past-market",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-17T13:11:38.000Z",
-      "summary": "Stablecoin supply climbed to a record $320 billion this week, extending the continued surge in dollar-linked digital assets. This comes as one of the biggest questions hanging over the sector remains unresolved in Washington: whether the income generated by the reserves backing those tokens should s",
+      "id": "https://www.theblock.co/post/397889/polish-pm-says-crypto-firm-tied-to-russian-mafia-and-secret-service-backed-political-rivals",
+      "title": "Polish PM says crypto firm tied to Russian mafia and secret service backed political rivals",
+      "url": "https://www.theblock.co/post/397889/polish-pm-says-crypto-firm-tied-to-russian-mafia-and-secret-service-backed-political-rivals",
+      "source": "The Block",
+      "publishedAt": "2026-04-17T14:01:48.000Z",
+      "summary": "The comments came during a parliamentary vote to overrule the Polish president's vetoing of crypto legislation.",
       "tags": [
-        "clarity",
-        "deadlock",
-        "fails"
+        "polish",
+        "says",
+        "crypto"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 2,
+        "recencyScore": 8,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "38f8f1d2cb32b59c07ce6e04e6f6fed443c6ea61",
-      "score": 19
+      "dedupeFingerprint": "96c26148b55c7145bd7ca5aaf49c1e03d15c66b8",
+      "score": 15
     }
   ]
 }

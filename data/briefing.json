@@ -5,30 +5,30 @@
   "items": [
     {
       "type": "APPS",
+      "title": "Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token",
+      "category": "APPS",
+      "source": "CoinDesk",
+      "date": "2026-04-18",
+      "url": "https://www.coindesk.com/markets/2026/04/18/wrapped-xrp-goes-live-on-solana-broadening-defi-access-for-ripple-linked-token",
+      "whyYouShouldCare": "The launch of Wrapped XRP on Solana enhances liquidity options and expands DeFi participation, potentially attracting new users and projects to the ecosystem."
+    },
+    {
+      "type": "APPS",
       "title": "You Can Now Use XRP on Solana—Here's How",
       "category": "APPS",
       "source": "Decrypt",
       "date": "2026-04-17",
       "url": "https://decrypt.co/364792/you-can-now-use-xrp-solana-how",
-      "whyYouShouldCare": "The integration of XRP on Solana enhances liquidity options, potentially attracting more users and increasing transaction volume within the Solana ecosystem."
+      "whyYouShouldCare": "The integration of XRP on Solana facilitates cross-chain functionality, increasing the utility of both networks and potentially boosting transaction volumes."
     },
     {
-      "type": "MARKET",
-      "title": "Wrapped XRP goes live on Solana, expanding cross-chain DeFi access",
-      "category": "MARKET",
-      "source": "AMB Crypto",
+      "type": "RISK",
+      "title": "Circle Hit With Class Action Lawsuit Over $285M Drift Protocol Hack",
+      "category": "RISK",
+      "source": "Decrypt",
       "date": "2026-04-17",
-      "url": "https://ambcrypto.com/wrapped-xrp-goes-live-on-solana-expanding-cross-chain-defi-access",
-      "whyYouShouldCare": "Wrapped XRP's launch on Solana broadens DeFi access, enabling users to leverage XRP in various decentralized applications, which could boost overall ecosystem engagement."
-    },
-    {
-      "type": "APPS",
-      "title": "XRP Gets Major Adoption Boost From Solana as Price Gains Momentum",
-      "category": "APPS",
-      "source": "CryptoPotato",
-      "date": "2026-04-17",
-      "url": "https://cryptopotato.com/xrp-gets-major-adoption-boost-from-solana-as-price-gains-momentum",
-      "whyYouShouldCare": "XRP's adoption on Solana may drive price momentum, signaling increased interest and participation in both assets, which could positively impact SOL's market positioning."
+      "url": "https://decrypt.co/364710/circle-hit-with-class-action-lawsuit-over-285m-drift-protocol-hack",
+      "whyYouShouldCare": "The lawsuit against Circle over the Drift Protocol hack raises concerns about security practices in DeFi, which could impact user trust and participation in Solana's ecosystem."
     }
   ]
 }
