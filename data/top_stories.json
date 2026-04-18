@@ -1,90 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-04-17T19:57:59.648Z",
+    "generatedAt": "2026-04-18T07:58:58.023Z",
     "totalCandidates": 114,
-    "solanaCandidates": 30,
+    "solanaCandidates": 28,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cryptoslate.com/tether-uses-127m-drift-rescue-to-challenge-circles-grip-on-solana-payments",
-      "title": "Tether uses $127M Drift rescue to challenge Circle’s grip on Solana payments",
-      "url": "https://cryptoslate.com/tether-uses-127m-drift-rescue-to-challenge-circles-grip-on-solana-payments",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-17T11:30:41.000Z",
-      "summary": "USDT stablecoin issuer Tether has stepped in to anchor a massive recovery plan for Drift Protocol, the Solana-based decentralized exchange (DEX) that was crippled by a $286 million exploit earlier this month. However, the rescue package includes a potent commercial string that could challenge Circle",
-      "tags": [
-        "tether",
-        "uses",
-        "127m"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 22,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ba2a1918df5d1908b6d11062ede7d201a2f75dbf",
-      "score": 34
-    },
-    {
-      "id": "https://ambcrypto.com/solanas-breakout-is-tied-to-post-hack-sentiment-and-liquidity-shift-details",
-      "title": "Solana’s breakout is tied to post-hack sentiment and liquidity shift: Details",
-      "url": "https://ambcrypto.com/solanas-breakout-is-tied-to-post-hack-sentiment-and-liquidity-shift-details",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-17T12:30:06.000Z",
-      "summary": "Tether’s intervention in the Drift recovery has placed USDC’s long-standing dominance on Solana under market scrutiny.",
+      "id": "https://decrypt.co/364792/you-can-now-use-xrp-solana-how",
+      "title": "You Can Now Use XRP on Solana—Here's How",
+      "url": "https://decrypt.co/364792/you-can-now-use-xrp-solana-how",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-17T20:40:39.000Z",
+      "summary": "More than $1.2 million worth of wrapped XRP tokens (wXRP) have been minted on Solana as the Ripple-linked asset gains greater DeFi utility.",
       "tags": [
         "solana",
-        "breakout",
-        "tied"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d901031d5e0e178fb6fb11942f32a7851cddc4b0",
-      "score": 27
-    },
-    {
-      "id": "https://www.theblock.co/post/397951/wrapped-xrp-launches-solana-enabling-defi-access-token-holders",
-      "title": "Wrapped XRP launches on Solana, enabling broader DeFi access for token holders",
-      "url": "https://www.theblock.co/post/397951/wrapped-xrp-launches-solana-enabling-defi-access-token-holders",
-      "source": "The Block",
-      "publishedAt": "2026-04-17T18:52:57.000Z",
-      "summary": "The move follows Hex Trust saying in December wXRP would become available on Solana, Optimism, Ethereum, and HyperEVM.",
-      "tags": [
-        "wrapped",
-        "launches",
-        "solana"
+        "here",
+        "more"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -100,12 +34,78 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "9b870e9b984c12d65422c23848d4694f1baf3f18",
+      "score": 21
+    },
+    {
+      "id": "https://ambcrypto.com/wrapped-xrp-goes-live-on-solana-expanding-cross-chain-defi-access",
+      "title": "Wrapped XRP goes live on Solana, expanding cross-chain DeFi access",
+      "url": "https://ambcrypto.com/wrapped-xrp-goes-live-on-solana-expanding-cross-chain-defi-access",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-17T18:47:26.000Z",
+      "summary": "XRP enters Solana's DeFi ecosystem through wXRP, expanding cross-chain liquidity and utility.",
+      "tags": [
+        "wrapped",
+        "goes",
+        "live"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "a3c53d50cd8164d36f598d6e249c699a02ba4f01",
+      "score": 21
+    },
+    {
+      "id": "https://www.coindesk.com/opinion/2026/04/17/don-t-get-ai-agents-and-stablecoin-transfers-enroll-in-coindesk-university",
+      "title": "Don’t get AI agents and stablecoin transfers? Enroll in CoinDesk University",
+      "url": "https://www.coindesk.com/opinion/2026/04/17/don-t-get-ai-agents-and-stablecoin-transfers-enroll-in-coindesk-university",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-17T15:29:03.000Z",
+      "summary": "CoinDesk University’s School of Stablecoin and Agentic Commerce will give you the tools to move beyond understanding to action.",
+      "tags": [
+        "agents",
+        "stablecoin",
+        "transfers"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0512dd89e715970431a71e2c7b338ae5e5ccfd70",
-      "score": 22
+      "dedupeFingerprint": "7f0f236a6ae62db501144f252eda4755a33b990a",
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/397902/french-minister-urges-banks-to-expand-euro-stablecoins-tokenized-deposits-report",
@@ -132,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "164daeb53566639402c99592fc7850ba04e8ca37",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://cryptoslate.com/clarity-act-deadlock-fails-to-stop-stablecoins-smashing-past-320b-and-yield-bearing-tokens-surge-past-market",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "38f8f1d2cb32b59c07ce6e04e6f6fed443c6ea61",
-      "score": 20
+      "score": 19
     }
   ]
 }

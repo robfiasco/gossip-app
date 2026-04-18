@@ -1,12 +1,17 @@
 {
-  "date": "2026-04-17",
-  "generated_at_utc": "2026-04-17T19:58:11.164Z",
-  "ctxMarket": "Attention is on Solana’s DeFi ecosystem as wrapped XRP (wXRP) launches, expanding cross-chain liquidity. Meanwhile, the aftermath of the Drift Protocol hack has triggered shifts in stablecoin dynamics and scrutiny of security practices.",
-  "ctxTalking": "• Wrapped XRP is now live on Solana, opening new DeFi opportunities and cross-chain access.\n• Tether’s $127M rescue of Drift Protocol is seen as a challenge to Circle’s dominance in Solana payments.\n• Multiple hacks beyond Drift, including Rhea Finance and Grinex, have heightened concerns about platform security.",
-  "ctxMatters": "Solana users now have access to XRP liquidity and DeFi tools, potentially increasing ecosystem activity. The stablecoin landscape on Solana is in flux, with Tether gaining ground after the Drift incident. Ongoing security breaches may influence user trust and developer priorities.",
-  "ctxSignal": "Signal: The launch of wXRP on Solana and Tether’s intervention in the Drift recovery are reshaping liquidity and payment flows.\nNoise: Price rebounds not clearly linked to these events.",
-  "ctxGlossary": "wXRP — Wrapped XRP, a tokenized version of XRP usable on other blockchains like Solana.\nDrift Protocol — A Solana-based decentralized exchange recently affected by a major hack.",
+  "date": "2026-04-18",
+  "generated_at_utc": "2026-04-18T07:59:05.217Z",
+  "ctxMarket": "Attention is focused on the launch of wrapped XRP (wXRP) on Solana, which is driving discussion about DeFi utility and cross-chain liquidity. The aftermath of the Drift Protocol exploit and related legal actions involving Circle and Tether are also prominent.",
+  "ctxTalking": "• Wrapped XRP is now live on Solana, expanding XRP’s DeFi use and cross-chain presence.\n• Tether’s $127M rescue of Drift Protocol is seen as a move to challenge Circle’s dominance in Solana payments.\n• Circle faces a class action lawsuit over its response to the Drift Protocol hack.",
+  "ctxMatters": "The addition of wXRP to Solana’s DeFi ecosystem increases asset diversity and liquidity options for users. Tether’s intervention in Drift Protocol signals competition in stablecoin infrastructure on Solana. Legal scrutiny of Circle may influence how centralized stablecoin issuers respond to future exploits.",
+  "ctxSignal": "Signal: wXRP’s launch on Solana and the competitive dynamics between Tether and Circle in the ecosystem.\nNoise: Speculation about price movements not directly tied to these developments.",
+  "ctxGlossary": "wXRP — A wrapped version of XRP that can be used on non-native blockchains like Solana.\nDrift Protocol — A Solana-based decentralized exchange recently affected by a major exploit.",
   "readMore": [
+    {
+      "title": "You Can Now Use XRP on Solana—Here's How",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/364792/you-can-now-use-xrp-solana-how"
+    },
     {
       "title": "XRP Gets Major Adoption Boost From Solana as Price Gains Momentum",
       "source": "CryptoPotato",
@@ -16,11 +21,6 @@
       "title": "Wrapped XRP launches on Solana, enabling broader DeFi access for token holders",
       "source": "The Block",
       "url": "https://www.theblock.co/post/397951/wrapped-xrp-launches-solana-enabling-defi-access-token-holders"
-    },
-    {
-      "title": "Wrapped XRP goes live on Solana, expanding cross-chain DeFi access",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/wrapped-xrp-goes-live-on-solana-expanding-cross-chain-defi-access"
     }
   ]
 }
