@@ -1,12 +1,17 @@
 {
   "date": "2026-04-19",
-  "generated_at_utc": "2026-04-19T08:05:48.302Z",
-  "ctxMarket": "Attention is focused on Solana’s integration with wrapped XRP, expanding DeFi options for Ripple-linked assets. There is also increased discussion around Solana futures, with open interest up 20% this week.",
-  "ctxTalking": "• Wrapped XRP’s launch on Solana, enabling XRP holders to access Solana-based DeFi platforms\n• Rising Solana futures open interest and speculation about SOL’s price trajectory\n• Legal scrutiny of Circle following the Drift Protocol hack and alleged USDC handling lapses",
-  "ctxMatters": "Solana’s support for wrapped XRP broadens its DeFi ecosystem and could attract new liquidity. Increased futures activity reflects heightened trader engagement. The Circle lawsuit highlights ongoing concerns about stablecoin protocols and platform security.",
-  "ctxSignal": "Signal: Wrapped XRP’s live deployment on Solana and rising futures open interest point to active ecosystem developments.\nNoise: Price speculation around SOL reaching $100 lacks direct confirmation from underlying fundamentals.",
-  "ctxGlossary": "Wrapped XRP (wXRP) — A tokenized version of XRP usable on Solana and other blockchains\nOpen Interest — The total value of outstanding futures contracts not yet settled",
+  "generated_at_utc": "2026-04-19T19:39:55.037Z",
+  "ctxMarket": "Attention is on ETF performance and DeFi integrations, with optimism in the ETF market as Bitcoin, Ethereum, Solana, and XRP funds all saw price gains over 3% this week. Solana’s futures open interest rose 20%, reflecting increased speculative activity.",
+  "ctxTalking": "• ETF market optimism as major crypto funds, including Solana, post strong weekly gains\n• Wrapped XRP launching on Solana, expanding DeFi access for XRP holders\n• Legal scrutiny on Circle after a class action lawsuit tied to the Drift Protocol hack",
+  "ctxMatters": "ETF momentum may influence institutional and retail engagement with Solana-linked products.  \nWrapped XRP’s arrival on Solana broadens DeFi participation and interoperability for both ecosystems.  \nLegal developments around Circle highlight ongoing risks in DeFi infrastructure and stablecoin management.",
+  "ctxSignal": "Signal: Growing DeFi utility for Solana with wrapped XRP and increased futures interest.  \nNoise: Speculation about SOL price targets without clear supporting fundamentals.",
+  "ctxGlossary": "Wrapped XRP (wXRP) — A version of XRP tokenized for use on other blockchains like Solana.  \nOpen Interest — The total value of outstanding derivative contracts, such as futures, that have not been settled.",
   "readMore": [
+    {
+      "title": "Weekly ETF recap",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/weekly-etf-recap-how-bitcoin-ethereum-solana-xrp-funds-stacked-up"
+    },
     {
       "title": "Solana futures open interest rose by 20% this week",
       "source": "Cointelegraph",
@@ -16,11 +21,6 @@
       "title": "Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/04/18/wrapped-xrp-goes-live-on-solana-broadening-defi-access-for-ripple-linked-token"
-    },
-    {
-      "title": "You Can Now Use XRP on Solana—Here's How",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/364792/you-can-now-use-xrp-solana-how"
     }
   ]
 }

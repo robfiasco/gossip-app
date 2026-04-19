@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-04-19T08:05:40.831Z",
-    "totalCandidates": 115,
-    "solanaCandidates": 22,
+    "generatedAt": "2026-04-19T19:39:47.085Z",
+    "totalCandidates": 114,
+    "solanaCandidates": 24,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cointelegraph.com/news/stablecoins-behave-fx-markets-liquidity-splits-eco-ceo",
-      "title": "Stablecoins behave like FX markets as liquidity splits: Eco CEO",
-      "url": "https://cointelegraph.com/news/stablecoins-behave-fx-markets-liquidity-splits-eco-ceo",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-18T12:00:00.000Z",
-      "summary": "Stablecoins promise seamless dollar movement, but fragmented liquidity is turning large transfers into complex execution problems, says Eco CEO Ryne Saxe.",
+      "id": "https://www.coindesk.com/business/2026/04/19/stablecoins-can-help-businesses-turn-costs-into-revenue-paxos-labs-cofounder-says",
+      "title": "Stablecoins can help businesses turn costs into revenue, Paxos Labs cofounder says",
+      "url": "https://www.coindesk.com/business/2026/04/19/stablecoins-can-help-businesses-turn-costs-into-revenue-paxos-labs-cofounder-says",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-19T16:00:00.000Z",
+      "summary": "Firms using stablecoins can reshape margins by cutting costs, unlock credit and earn yield, but not every company needs to issue a token, Paxos Labs' Chunda McCain said.",
       "tags": [
         "stablecoins",
-        "behave",
-        "like"
+        "help",
+        "businesses"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,14 +31,14 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a8510d22c459467ed729657c426f2eb20012e35e",
+      "dedupeFingerprint": "32e76dd3cd23532761c5dd4dde312fe9feb71dc5",
       "score": 25
     },
     {
@@ -66,27 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "296188a3bc63a4f2ad5f13d3438686fafe75e2d2",
-      "score": 23
+      "score": 22
     },
     {
-      "id": "https://cointelegraph.com/news/solana-futures-open-interest-rose-by-20-this-week-is-100-sol-next",
-      "title": "Solana futures open interest rose by 20% this week: Is $100 SOL next?",
-      "url": "https://cointelegraph.com/news/solana-futures-open-interest-rose-by-20-this-week-is-100-sol-next",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-18T20:40:06.000Z",
-      "summary": "SOL’s steady recovery alongside the wider crypto market has traders debating whether $100 could be the next stop for the altcoin.",
+      "id": "https://cryptoslate.com/white-house-tells-greedy-banks-to-move-on-from-clarity-act-stablecoin-yield-fight",
+      "title": "White House tells “greedy” banks to “move on” from CLARITY Act stablecoin yield fight",
+      "url": "https://cryptoslate.com/white-house-tells-greedy-banks-to-move-on-from-clarity-act-stablecoin-yield-fight",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-19T10:20:18.000Z",
+      "summary": "A White House digital assets official has slammed the traditional banking sector's continued opposition to the proposed stablecoin yield compromise in the CLARITY Act. On April 17, Patrick Witt, the executive director of the White House Presidential Advisory Committee on Digital Assets, accused the ",
       "tags": [
-        "solana",
-        "futures",
-        "open"
+        "white",
+        "house",
+        "tells"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -97,30 +97,30 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e0a53c1e87c94cd319715d6b93f2004803baadf8",
-      "score": 23
+      "dedupeFingerprint": "5539213b7784baf28b8df589ceae80d0c260cd96",
+      "score": 20
     },
     {
-      "id": "https://ambcrypto.com/aerodrome-eyes-0-60-can-a-new-launch-push-aero-higher",
-      "title": "Aerodrome eyes $0.60: Can a new launch push AERO higher?",
-      "url": "https://ambcrypto.com/aerodrome-eyes-0-60-can-a-new-launch-push-aero-higher",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-18T23:00:35.000Z",
-      "summary": "How AERO's revenue, TVL and price action may be affected by cross-chain DEX launch and token unlock.",
+      "id": "https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic",
+      "title": "Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic",
+      "url": "https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-19T19:12:20.000Z",
+      "summary": "After attackers drained $291 million in crypto from Kelp DAO-linked infrastructure, DeFi users struggled on Aave to withdraw funds.",
       "tags": [
-        "aerodrome",
-        "eyes",
-        "launch"
+        "kelp",
+        "exploit",
+        "sparks"
       ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -130,15 +130,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 9,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "f01fcfe1b763a5cd9da9a1985fcd7a7ac7872f69",
-      "score": 20
+      "dedupeFingerprint": "eb570b01a4554b11de4edf618486efe9976969c1",
+      "score": 18
     },
     {
       "id": "https://www.theblock.co/post/397902/french-minister-urges-banks-to-expand-euro-stablecoins-tokenized-deposits-report",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "164daeb53566639402c99592fc7850ba04e8ca37",
-      "score": 19
+      "score": 18
     }
   ]
 }
