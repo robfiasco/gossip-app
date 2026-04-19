@@ -1,46 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-04-18T19:39:28.646Z",
-    "totalCandidates": 114,
-    "solanaCandidates": 21,
+    "generatedAt": "2026-04-19T08:05:40.831Z",
+    "totalCandidates": 115,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://www.coindesk.com/markets/2026/04/18/wrapped-xrp-goes-live-on-solana-broadening-defi-access-for-ripple-linked-token",
-      "title": "Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token",
-      "url": "https://www.coindesk.com/markets/2026/04/18/wrapped-xrp-goes-live-on-solana-broadening-defi-access-for-ripple-linked-token",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-18T13:00:00.000Z",
-      "summary": "Wrapped XRP on Solana lets XRP holders access Jupiter, Phantom, and Meteora without selling the asset, the latest step in Hex Trust's multi-chain wXRP rollout first announced in December.",
-      "tags": [
-        "wrapped",
-        "goes",
-        "live"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 17,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "00981008ff3952fa5026b09831946cdbe983f63d",
-      "score": 31
-    },
     {
       "id": "https://cointelegraph.com/news/stablecoins-behave-fx-markets-liquidity-splits-eco-ceo",
       "title": "Stablecoins behave like FX markets as liquidity splits: Eco CEO",
@@ -66,25 +33,25 @@
       "scoreBreakdown": {
         "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "a8510d22c459467ed729657c426f2eb20012e35e",
-      "score": 26
+      "score": 25
     },
     {
-      "id": "https://www.coindesk.com/opinion/2026/04/17/don-t-get-ai-agents-and-stablecoin-transfers-enroll-in-coindesk-university",
-      "title": "Don’t get AI agents and stablecoin transfers? Enroll in CoinDesk University",
-      "url": "https://www.coindesk.com/opinion/2026/04/17/don-t-get-ai-agents-and-stablecoin-transfers-enroll-in-coindesk-university",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-17T15:29:03.000Z",
-      "summary": "CoinDesk University’s School of Stablecoin and Agentic Commerce will give you the tools to move beyond understanding to action.",
+      "id": "https://cryptoslate.com/congress-is-making-stablecoins-easier-to-use-while-bitcoin-still-waits-for-clarity",
+      "title": "Congress on verge of making regulated dollar stablecoins act almost like digital cash",
+      "url": "https://cryptoslate.com/congress-is-making-stablecoins-easier-to-use-while-bitcoin-still-waits-for-clarity",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-18T21:25:22.000Z",
+      "summary": "Washington isn't trying to solve every crypto policy fight at once, but it appears to be carving out a workable path for one specific category of digital asset: the regulated, dollar-pegged stablecoin. The GENIUS Act established the first federal regulatory framework for payment stablecoins, and a b",
       "tags": [
-        "agents",
-        "stablecoin",
-        "transfers"
+        "congress",
+        "verge",
+        "making"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -97,14 +64,80 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7f0f236a6ae62db501144f252eda4755a33b990a",
+      "dedupeFingerprint": "296188a3bc63a4f2ad5f13d3438686fafe75e2d2",
+      "score": 23
+    },
+    {
+      "id": "https://cointelegraph.com/news/solana-futures-open-interest-rose-by-20-this-week-is-100-sol-next",
+      "title": "Solana futures open interest rose by 20% this week: Is $100 SOL next?",
+      "url": "https://cointelegraph.com/news/solana-futures-open-interest-rose-by-20-this-week-is-100-sol-next",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-18T20:40:06.000Z",
+      "summary": "SOL’s steady recovery alongside the wider crypto market has traders debating whether $100 could be the next stop for the altcoin.",
+      "tags": [
+        "solana",
+        "futures",
+        "open"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e0a53c1e87c94cd319715d6b93f2004803baadf8",
+      "score": 23
+    },
+    {
+      "id": "https://ambcrypto.com/aerodrome-eyes-0-60-can-a-new-launch-push-aero-higher",
+      "title": "Aerodrome eyes $0.60: Can a new launch push AERO higher?",
+      "url": "https://ambcrypto.com/aerodrome-eyes-0-60-can-a-new-launch-push-aero-higher",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-18T23:00:35.000Z",
+      "summary": "How AERO's revenue, TVL and price action may be affected by cross-chain DEX launch and token unlock.",
+      "tags": [
+        "aerodrome",
+        "eyes",
+        "launch"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 9,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "f01fcfe1b763a5cd9da9a1985fcd7a7ac7872f69",
       "score": 20
     },
     {
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "164daeb53566639402c99592fc7850ba04e8ca37",
-      "score": 20
-    },
-    {
-      "id": "https://www.theblock.co/post/397889/polish-pm-says-crypto-firm-tied-to-russian-mafia-and-secret-service-backed-political-rivals",
-      "title": "Polish PM says crypto firm tied to Russian mafia and secret service backed political rivals",
-      "url": "https://www.theblock.co/post/397889/polish-pm-says-crypto-firm-tied-to-russian-mafia-and-secret-service-backed-political-rivals",
-      "source": "The Block",
-      "publishedAt": "2026-04-17T14:01:48.000Z",
-      "summary": "The comments came during a parliamentary vote to overrule the Polish president's vetoing of crypto legislation.",
-      "tags": [
-        "polish",
-        "says",
-        "crypto"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "96c26148b55c7145bd7ca5aaf49c1e03d15c66b8",
-      "score": 15
+      "score": 19
     }
   ]
 }

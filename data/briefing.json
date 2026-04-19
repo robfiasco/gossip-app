@@ -1,25 +1,16 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
       "type": "APPS",
-      "title": "Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token",
+      "title": "Solana futures open interest rose by 20% this week: Is $100 SOL next?",
       "category": "APPS",
-      "source": "CoinDesk",
+      "source": "Cointelegraph",
       "date": "2026-04-18",
-      "url": "https://www.coindesk.com/markets/2026/04/18/wrapped-xrp-goes-live-on-solana-broadening-defi-access-for-ripple-linked-token",
-      "whyYouShouldCare": "The launch of Wrapped XRP on Solana enhances liquidity options and expands DeFi participation, potentially attracting new users and projects to the ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "You Can Now Use XRP on Solana—Here's How",
-      "category": "APPS",
-      "source": "Decrypt",
-      "date": "2026-04-17",
-      "url": "https://decrypt.co/364792/you-can-now-use-xrp-solana-how",
-      "whyYouShouldCare": "The integration of XRP on Solana facilitates cross-chain functionality, increasing the utility of both networks and potentially boosting transaction volumes."
+      "url": "https://cointelegraph.com/news/solana-futures-open-interest-rose-by-20-this-week-is-100-sol-next",
+      "whyYouShouldCare": "The 20% increase in Solana futures open interest indicates growing market confidence, potentially impacting SOL's price trajectory and liquidity."
     },
     {
       "type": "RISK",
@@ -28,7 +19,16 @@
       "source": "Decrypt",
       "date": "2026-04-17",
       "url": "https://decrypt.co/364710/circle-hit-with-class-action-lawsuit-over-285m-drift-protocol-hack",
-      "whyYouShouldCare": "The lawsuit against Circle over the Drift Protocol hack raises concerns about security practices in DeFi, which could impact user trust and participation in Solana's ecosystem."
+      "whyYouShouldCare": "The class action lawsuit against Circle over the Drift Protocol hack could affect investor sentiment and regulatory scrutiny within the broader crypto ecosystem."
+    },
+    {
+      "type": "APPS",
+      "title": "Wrapped XRP goes live on Solana, broadening DeFi access for Ripple-linked token",
+      "category": "APPS",
+      "source": "CoinDesk",
+      "date": "2026-04-18",
+      "url": "https://www.coindesk.com/markets/2026/04/18/wrapped-xrp-goes-live-on-solana-broadening-defi-access-for-ripple-linked-token",
+      "whyYouShouldCare": "The launch of Wrapped XRP on Solana enhances DeFi opportunities, potentially increasing user engagement and liquidity within the Solana ecosystem."
     }
   ]
 }
