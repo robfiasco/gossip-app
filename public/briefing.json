@@ -4,13 +4,22 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "RISK",
+      "title": "Six years after “DeFi Summer” is the sun already setting on the decentralized finance revolution?",
+      "category": "RISK",
+      "source": "CryptoSlate",
+      "date": "2026-04-20",
+      "url": "https://cryptoslate.com/six-years-after-defi-summer-is-the-sun-already-setting-on-the-decentralized-finance-revolution",
+      "whyYouShouldCare": "The potential decline of DeFi could impact Solana's ecosystem, as reduced interest may limit liquidity and innovation in decentralized applications."
+    },
+    {
       "type": "APPS",
       "title": "Bitcoin, ether, solana slide, oil jumps on renewed U.S.-Iran war risks",
       "category": "APPS",
       "source": "CoinDesk",
       "date": "2026-04-20",
       "url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-ether-solana-slide-oil-jumps-on-renewed-u-s-iran-war-risks",
-      "whyYouShouldCare": "The decline in Bitcoin, Ether, and Solana prices reflects broader market volatility, which could impact SOL's liquidity and investor confidence."
+      "whyYouShouldCare": "Geopolitical tensions affecting oil prices can create volatility in crypto markets, including Solana, which may influence investor sentiment and liquidity."
     },
     {
       "type": "MARKET",
@@ -19,16 +28,7 @@
       "source": "CryptoPotato",
       "date": "2026-04-19",
       "url": "https://cryptopotato.com/solana-dominates-q1-but-cracks-appear-as-ethereum-gains-ground",
-      "whyYouShouldCare": "Solana's strong performance in Q1 is now challenged by Ethereum's resurgence, indicating potential shifts in ecosystem usage and competitive positioning."
-    },
-    {
-      "type": "APPS",
-      "title": "Weekly ETF recap: How Bitcoin, Ethereum, Solana & XRP funds stacked up?",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-04-19",
-      "url": "https://ambcrypto.com/weekly-etf-recap-how-bitcoin-ethereum-solana-xrp-funds-stacked-up",
-      "whyYouShouldCare": "Analyzing ETF flows for Bitcoin, Ethereum, Solana, and XRP provides insights into institutional interest, which is crucial for SOL's market dynamics and liquidity."
+      "whyYouShouldCare": "Solana's strong Q1 performance is at risk as Ethereum's resurgence could shift developer and user focus, impacting Solana's market positioning and ecosystem growth."
     }
   ]
 }
