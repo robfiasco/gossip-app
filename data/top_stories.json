@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-04-20T19:58:44.119Z",
-    "totalCandidates": 109,
-    "solanaCandidates": 17,
+    "generatedAt": "2026-04-21T08:52:00.470Z",
+    "totalCandidates": 110,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://www.theblock.co/post/398223/bank-of-korea-new-chief-cbdc-deposit-tokens",
+      "title": "Bank of Korea’s new chief vows to push CBDC, deposit tokens; leaves out stablecoins",
+      "url": "https://www.theblock.co/post/398223/bank-of-korea-new-chief-cbdc-deposit-tokens",
+      "source": "The Block",
+      "publishedAt": "2026-04-21T06:53:22.000Z",
+      "summary": "BOK Governor Shin Hyun-song previously took a negative stance on stablecoins during his tenure at the BIS.",
+      "tags": [
+        "bank",
+        "korea",
+        "chief"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "d75f753dfc5162b65082755de3cec22a65a322df",
+      "score": 22
+    },
     {
       "id": "https://www.theblock.co/post/398072/bis-says-stablecoins-act-more-like-etfs-than-money-warns-of-fragmentation-without-global-rules-report",
       "title": "BIS says stablecoins act more like ETFs than money, warns of fragmentation without global rules: report",
@@ -33,27 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "28149dc5eaced751a537722d1fb7ba37bb6e7565",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/04/20/a-usd300m-borrowing-spike-on-aave-signals-liquidity-crunch-after-exploit",
-      "title": "A $300 million borrowing spike on Aave signals liquidity crunch after KelpDAO exploit",
-      "url": "https://www.coindesk.com/markets/2026/04/20/a-usd300m-borrowing-spike-on-aave-signals-liquidity-crunch-after-exploit",
+      "id": "https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit",
+      "title": "North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit",
+      "url": "https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit",
       "source": "CoinDesk",
-      "publishedAt": "2026-04-20T09:27:53.000Z",
-      "summary": "The aftershocks of the Saturday's KelpDAO hack are spreading through stablecoin markets in ways that were not immediately obvious.",
+      "publishedAt": "2026-04-20T21:17:17.000Z",
+      "summary": "More than $500 million was siphoned across the Drift and Kelp exploits in just over two weeks. What once looked like isolated breaches now resembles a sustained campaign, likely driven by the financial needs of a sanctioned state.",
       "tags": [
-        "million",
-        "borrowing",
-        "spike"
+        "north",
+        "korea",
+        "crypto"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -64,15 +97,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b52419e01a7d9e3d3332b918f15832a8f7ef2b05",
-      "score": 22
+      "dedupeFingerprint": "15c2d2a8193838fbdebfa118df8165944353a761",
+      "score": 17
+    },
+    {
+      "id": "https://ambcrypto.com/why-ai-agents-may-be-pushing-solana-and-ethereum-into-separate-roles",
+      "title": "Why AI agents may be pushing Solana and Ethereum into separate roles",
+      "url": "https://ambcrypto.com/why-ai-agents-may-be-pushing-solana-and-ethereum-into-separate-roles",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-21T06:00:29.000Z",
+      "summary": "AI agents now handle a significant and growing on-chain activity, accelerating crypto’s shift toward continuous, rule-based markets.",
+      "tags": [
+        "agents",
+        "pushing",
+        "solana"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "0750d054f7475c71ec7b1c5cc40ce291e7c06273",
+      "score": 16
     },
     {
       "id": "https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic",
@@ -99,79 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "eb570b01a4554b11de4edf618486efe9976969c1",
-      "score": 16
-    },
-    {
-      "id": "https://cryptoslate.com/six-years-after-defi-summer-is-the-sun-already-setting-on-the-decentralized-finance-revolution",
-      "title": "Six years after “DeFi Summer” is the sun already setting on the decentralized finance revolution?",
-      "url": "https://cryptoslate.com/six-years-after-defi-summer-is-the-sun-already-setting-on-the-decentralized-finance-revolution",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-20T13:45:54.000Z",
-      "summary": "KelpDAO's $292 million rsETH exploit landed at the wrong moment for DeFi. Roughly $10 billion left the sector over the weekend, after confidence had already been shaken by Drift Protocol's April 1 breach and Venus's March post-mortem. That combination makes DeFi's problem harder to ignore. While ope",
-      "tags": [
-        "years",
-        "after",
-        "defi"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "9705c40b756020d1a5f8cd7830295928a75d28c6",
       "score": 15
-    },
-    {
-      "id": "https://cointelegraph.com/news/tether-takes-8-2-stake-in-antalpha-backing-bitcoin-mining-finance-platform",
-      "title": "Tether takes 8.2% stake in Bitcoin mining finance platform Antalpha",
-      "url": "https://cointelegraph.com/news/tether-takes-8-2-stake-in-antalpha-backing-bitcoin-mining-finance-platform",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-20T18:10:31.000Z",
-      "summary": "The purchase comes as the stablecoin issuer expands its investments across crypto infrastructure and financial services, including in Kaio, also announced today.",
-      "tags": [
-        "tether",
-        "takes",
-        "stake"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "cf42aa710d59b84e8b4a09f4d88657054f105c28",
-      "score": -3
     }
   ]
 }
