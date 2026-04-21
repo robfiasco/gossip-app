@@ -1,26 +1,26 @@
 {
   "date": "2026-04-21",
-  "generated_at_utc": "2026-04-21T08:52:07.846Z",
-  "ctxMarket": "Attention is focused on real-world asset tokenization and security risks in DeFi, with notable institutional moves and major exploits shaping sentiment. Solana’s Q1 dominance is being challenged by Ethereum’s recent gains, especially in the DEX space.",
-  "ctxTalking": "• OCBC’s launch of a tokenized gold fund on both Ethereum and Solana\n• A surge in DeFi exploits, including large-scale attacks on Drift and Kelp\n• Shifting roles for Solana and Ethereum as AI agents drive new on-chain activity",
-  "ctxMatters": "Tokenized real-world assets on public blockchains have surpassed $29 billion, signaling growing institutional interest. Security breaches have triggered significant outflows from DeFi, raising concerns about protocol resilience. The evolving use of AI agents may influence how Solana and Ethereum are positioned for future applications.",
-  "ctxSignal": "Signal: Institutional adoption and security incidents are directly impacting user confidence and ecosystem growth.\nNoise: Short-term price rebounds tied to announcements without clear long-term effects.",
-  "ctxGlossary": "Tokenized asset — A real-world asset represented digitally on a blockchain\nAI agent — Automated software executing tasks or trades on-chain\nDEX — Decentralized exchange for peer-to-peer crypto trading",
+  "generated_at_utc": "2026-04-21T20:01:30.904Z",
+  "ctxMarket": "Attention is on Solana’s ongoing throughput and its role in tokenized assets, with several new integrations and product launches. Competitive dynamics with Ethereum are also in focus, especially around DEX activity and real-world asset tokenization.",
+  "ctxTalking": "• P2P.org’s new Solana transaction sender for teams needing precise slot timing\n• Ramp’s $0 conversion rollout for USDT on Solana and other chains\n• Tokenized gold fund launch and pre-IPO token access on Solana",
+  "ctxMatters": "Solana’s infrastructure is being tailored for high-frequency trading and institutional use cases. Major fintechs and banks are expanding support for Solana-based assets, signaling growing mainstream integration. Competition with Ethereum is intensifying, particularly in decentralized exchanges and asset tokenization.",
+  "ctxSignal": "Signal: Institutional and fintech adoption of Solana for tokenized assets and payments is accelerating.\nNoise: Short-term price moves linked to announcements without clear long-term impact.",
+  "ctxGlossary": "Slot — A discrete time window in Solana when transactions can be processed.\nTokenized asset — A real-world asset represented as a digital token on a blockchain.",
   "readMore": [
     {
-      "title": "Singapore’s OCBC launches tokenized gold fund on Ethereum and Solana",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ocbc-tokenized-gold-fund-ethereum-solana"
+      "title": "How P2P.org Built a Solana Transaction Sender for Teams That Cannot Afford to Miss a Slot",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solana-transaction-sender-landing-syncro-sender-p2p-org"
     },
     {
-      "title": "Why AI agents may be pushing Solana and Ethereum into separate roles",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/why-ai-agents-may-be-pushing-solana-and-ethereum-into-separate-roles"
+      "title": "Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product suite",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/398354/peter-thiel-backed-unicorn-ramp-rolls-out-0-conversions-between-usdt-and-dollars-across-product-suite"
     },
     {
-      "title": "North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit",
+      "title": "Bitget exchange brings pre-IPO tokens to masses starting with SpaceX on Solana",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit"
+      "url": "https://www.coindesk.com/business/2026/04/21/bitget-exchange-brings-pre-ipo-tokens-to-masses-starting-with-spacex-on-solana"
     }
   ]
 }

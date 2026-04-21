@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-04-21T08:52:00.470Z",
-    "totalCandidates": 110,
+    "generatedAt": "2026-04-21T20:01:22.218Z",
+    "totalCandidates": 114,
     "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
@@ -9,16 +9,49 @@
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/398223/bank-of-korea-new-chief-cbdc-deposit-tokens",
-      "title": "Bank of Korea’s new chief vows to push CBDC, deposit tokens; leaves out stablecoins",
-      "url": "https://www.theblock.co/post/398223/bank-of-korea-new-chief-cbdc-deposit-tokens",
-      "source": "The Block",
-      "publishedAt": "2026-04-21T06:53:22.000Z",
-      "summary": "BOK Governor Shin Hyun-song previously took a negative stance on stablecoins during his tenure at the BIS.",
+      "id": "https://www.coindesk.com/business/2026/04/21/bitget-exchange-brings-pre-ipo-tokens-to-masses-starting-with-spacex-on-solana",
+      "title": "Bitget exchange brings pre-IPO tokens to masses starting with SpaceX on Solana",
+      "url": "https://www.coindesk.com/business/2026/04/21/bitget-exchange-brings-pre-ipo-tokens-to-masses-starting-with-spacex-on-solana",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-21T15:25:32.000Z",
+      "summary": "The crypto exchange opens IPO Prime access with Republic to offer Solana-based tokens tied to private firms ahead of public listings.",
       "tags": [
-        "bank",
-        "korea",
-        "chief"
+        "bitget",
+        "exchange",
+        "brings"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "956d192f4efd0ccad17882c9f5e593266603e307",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain",
+      "title": "DoorDash is bringing stablecoin payments to masses with Stripe-backed blockchain",
+      "url": "https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-21T14:18:51.000Z",
+      "summary": "The delivery service is working with the Stripe-led blockchain firm Tempo to bring stablecoin payouts to its global marketplace, replacing fragmented regional rails.",
+      "tags": [
+        "doordash",
+        "bringing",
+        "stablecoin"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -38,20 +71,20 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d75f753dfc5162b65082755de3cec22a65a322df",
+      "dedupeFingerprint": "a9d50dd58e0f9ba854ef379f4272b4dd779bd70c",
       "score": 22
     },
     {
-      "id": "https://www.theblock.co/post/398072/bis-says-stablecoins-act-more-like-etfs-than-money-warns-of-fragmentation-without-global-rules-report",
-      "title": "BIS says stablecoins act more like ETFs than money, warns of fragmentation without global rules: report",
-      "url": "https://www.theblock.co/post/398072/bis-says-stablecoins-act-more-like-etfs-than-money-warns-of-fragmentation-without-global-rules-report",
+      "id": "https://www.theblock.co/post/398270/doordash-to-offer-stablecoin-payouts-with-tempo-in-push-toward-everyday-crypto-payments",
+      "title": "DoorDash to offer stablecoin payouts with Tempo in push toward everyday crypto payments",
+      "url": "https://www.theblock.co/post/398270/doordash-to-offer-stablecoin-payouts-with-tempo-in-push-toward-everyday-crypto-payments",
       "source": "The Block",
-      "publishedAt": "2026-04-20T12:28:11.000Z",
-      "summary": "The BIS warned stablecoins resemble ETFs, not money, and called for global rules to prevent fragmentation across the $300 billion market.",
+      "publishedAt": "2026-04-21T13:55:33.000Z",
+      "summary": "Stripe, Coastal Bank and ARQ are also deploying stablecoin payment flows on Tempo's network alongside DoorDash.",
       "tags": [
-        "says",
-        "stablecoins",
-        "more"
+        "doordash",
+        "offer",
+        "stablecoin"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -66,25 +99,58 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "28149dc5eaced751a537722d1fb7ba37bb6e7565",
-      "score": 21
+      "dedupeFingerprint": "e7eea1f0da1c7edfde16307f71e555cf19b0b9cd",
+      "score": 22
     },
     {
-      "id": "https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit",
-      "title": "North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit",
-      "url": "https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-20T21:17:17.000Z",
-      "summary": "More than $500 million was siphoned across the Drift and Kelp exploits in just over two weeks. What once looked like isolated breaches now resembles a sustained campaign, likely driven by the financial needs of a sanctioned state.",
+      "id": "https://cryptoslate.com/solana-transaction-sender-landing-syncro-sender-p2p-org",
+      "title": "How P2P.org Built a Solana Transaction Sender for Teams That Cannot Afford to Miss a Slot",
+      "url": "https://cryptoslate.com/solana-transaction-sender-landing-syncro-sender-p2p-org",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-21T19:30:27.000Z",
+      "summary": "Solana processes over 162 million transactions daily at slot times averaging 390 milliseconds. For most users, that speed is more than sufficient. For trading firms, arbitrage bots, and liquidation engines, it is barely enough margin to work with. The difference between landing a transaction in slot",
       "tags": [
-        "north",
-        "korea",
-        "crypto"
+        "built",
+        "solana",
+        "transaction"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "975e6c2aa1381660196e82933d30e478e4dbe9a6",
+      "score": 20
+    },
+    {
+      "id": "https://www.theblock.co/post/398354/peter-thiel-backed-unicorn-ramp-rolls-out-0-conversions-between-usdt-and-dollars-across-product-suite",
+      "title": "Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product suite",
+      "url": "https://www.theblock.co/post/398354/peter-thiel-backed-unicorn-ramp-rolls-out-0-conversions-between-usdt-and-dollars-across-product-suite",
+      "source": "The Block",
+      "publishedAt": "2026-04-21T18:50:54.000Z",
+      "summary": "The fintech provider has rolled out support for Ethereum, Solana and Plasma-issued USDT tokens across its entire product suite.",
+      "tags": [
+        "peter",
+        "thiel",
+        "backed"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -104,74 +170,8 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "15c2d2a8193838fbdebfa118df8165944353a761",
+      "dedupeFingerprint": "f561ee572b1b88c2cf65e9a0352bef3a33993ee0",
       "score": 17
-    },
-    {
-      "id": "https://ambcrypto.com/why-ai-agents-may-be-pushing-solana-and-ethereum-into-separate-roles",
-      "title": "Why AI agents may be pushing Solana and Ethereum into separate roles",
-      "url": "https://ambcrypto.com/why-ai-agents-may-be-pushing-solana-and-ethereum-into-separate-roles",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-21T06:00:29.000Z",
-      "summary": "AI agents now handle a significant and growing on-chain activity, accelerating crypto’s shift toward continuous, rule-based markets.",
-      "tags": [
-        "agents",
-        "pushing",
-        "solana"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "0750d054f7475c71ec7b1c5cc40ce291e7c06273",
-      "score": 16
-    },
-    {
-      "id": "https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic",
-      "title": "Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic",
-      "url": "https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-19T19:12:20.000Z",
-      "summary": "After attackers drained $291 million in crypto from Kelp DAO-linked infrastructure, DeFi users struggled on Aave to withdraw funds.",
-      "tags": [
-        "kelp",
-        "exploit",
-        "sparks"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "eb570b01a4554b11de4edf618486efe9976969c1",
-      "score": 15
     }
   ]
 }
