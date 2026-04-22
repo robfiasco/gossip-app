@@ -1,27 +1,60 @@
 {
   "meta": {
-    "generatedAt": "2026-04-22T08:28:47.442Z",
-    "totalCandidates": 114,
-    "solanaCandidates": 22,
+    "generatedAt": "2026-04-22T20:03:30.007Z",
+    "totalCandidates": 113,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-outpaces-ethereum-with-25-3b-transactions-will-sol-eth-finally-react",
-      "title": "Solana outpaces Ethereum with 25.3B transactions – Will SOL/ETH finally react?",
-      "url": "https://ambcrypto.com/solana-outpaces-ethereum-with-25-3b-transactions-will-sol-eth-finally-react",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-22T02:00:51.000Z",
-      "summary": "Developer-led on-chain expansion strengthens the case for a structural SOL/ETH breakout narrative.",
+      "id": "https://solana.com/news/case-study-noah",
+      "title": "Noah x Jupiter x Solana: Powering Sovereign Payroll",
+      "url": "https://solana.com/news/case-study-noah",
+      "source": "Solana News",
+      "publishedAt": "2026-04-22T12:00:00.000Z",
+      "summary": "Learn how Noah and Jupiter brought virtual USD/EUR accounts, instant off-ramps, and seamless fiat-to-stablecoin settlement to 50M+ Solana users",
       "tags": [
-        "solana",
-        "outpaces",
-        "ethereum"
+        "noah",
+        "jupiter",
+        "solana"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 25,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2a70ee0c9298b17d0405c03ca852bec375c58391",
+      "score": 40
+    },
+    {
+      "id": "https://ambcrypto.com/toobit-dex-lists-pre-ipo-assets-for-24-7-stablecoin-settled-trading",
+      "title": "Toobit DEX+ Lists Pre-IPO Assets for 24/7 Stablecoin-Settled Trading",
+      "url": "https://ambcrypto.com/toobit-dex-lists-pre-ipo-assets-for-24-7-stablecoin-settled-trading",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-22T14:15:16.000Z",
+      "summary": "Toobit, the award-winning global cryptocurrency exchange, today lists Pre-IPO assets on its on-chain trading interface, Toobit DEX+. This integration provides traders with a 24/7 path to gain price exposure to top-tier private companies including SpaceX, OpenAI, and Anthropic, settled entirely in st",
+      "tags": [
+        "toobit",
+        "lists",
+        "assets"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -38,23 +71,56 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7e2624e992331ba968ceec29af973bcbc4d3d55b",
+      "dedupeFingerprint": "01513fafe0fa600b466ec85a2d161274d3706549",
       "score": 24
     },
     {
-      "id": "https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk",
-      "title": "Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks",
-      "url": "https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-21T21:54:18.000Z",
-      "summary": "Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.",
+      "id": "https://www.theblock.co/post/398501/kalshi-taps-pyth-commodities-hub-gold-oil-lithium-markets",
+      "title": "Kalshi taps Pyth for new ‘Commodities Hub,’ offering gold, oil and lithium markets",
+      "url": "https://www.theblock.co/post/398501/kalshi-taps-pyth-commodities-hub-gold-oil-lithium-markets",
+      "source": "The Block",
+      "publishedAt": "2026-04-22T16:41:50.000Z",
+      "summary": "Pyth aggregates price feeds from over 125 institutions, including exchanges and market makers, to provide 24/7 pricing data.",
       "tags": [
-        "coinbase",
-        "flags",
-        "proof"
+        "kalshi",
+        "taps",
+        "pyth"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "669d2b326c3b02e3042cb15af4cfa122cfb591fb",
+      "score": 22
+    },
+    {
+      "id": "https://decrypt.co/365127/gsr-actively-managed-bitcoin-ethereum-solana-etf-nasdaq",
+      "title": "GSR Launches Actively Managed Bitcoin, Ethereum and Solana Basket ETF on Nasdaq",
+      "url": "https://decrypt.co/365127/gsr-actively-managed-bitcoin-ethereum-solana-etf-nasdaq",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-22T15:47:59.000Z",
+      "summary": "Crypto market maker GSR has launched an actively managed ETF on the Nasdaq that includes Bitcoin, Ethereum, and Solana.",
+      "tags": [
+        "launches",
+        "actively",
+        "managed"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -71,88 +137,22 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "464fd545a3ee4329ec3165de32b1495f9b6b5e96",
+      "dedupeFingerprint": "de13fc4083ee5eaf1d66b8c72e87fc8c31e2c136",
       "score": 21
     },
     {
-      "id": "https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain",
-      "title": "DoorDash is bringing stablecoin payments to masses with Stripe-backed blockchain",
-      "url": "https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-21T14:18:51.000Z",
-      "summary": "The delivery service is working with the Stripe-led blockchain firm Tempo to bring stablecoin payouts to its global marketplace, replacing fragmented regional rails.",
-      "tags": [
-        "doordash",
-        "bringing",
-        "stablecoin"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "a9d50dd58e0f9ba854ef379f4272b4dd779bd70c",
-      "score": 21
-    },
-    {
-      "id": "https://www.theblock.co/post/398270/doordash-to-offer-stablecoin-payouts-with-tempo-in-push-toward-everyday-crypto-payments",
-      "title": "DoorDash to offer stablecoin payouts with Tempo in push toward everyday crypto payments",
-      "url": "https://www.theblock.co/post/398270/doordash-to-offer-stablecoin-payouts-with-tempo-in-push-toward-everyday-crypto-payments",
+      "id": "https://www.theblock.co/post/398443/gsr-crypto-etf-actively-managed-multi-asset-core3-bitcoin-ethereum-solana",
+      "title": "GSR enters crypto ETF field with actively managed multi-asset fund tracking Bitcoin, Ethereum and Solana",
+      "url": "https://www.theblock.co/post/398443/gsr-crypto-etf-actively-managed-multi-asset-core3-bitcoin-ethereum-solana",
       "source": "The Block",
-      "publishedAt": "2026-04-21T13:55:33.000Z",
-      "summary": "Stripe, Coastal Bank and ARQ are also deploying stablecoin payment flows on Tempo's network alongside DoorDash.",
+      "publishedAt": "2026-04-22T13:00:00.000Z",
+      "summary": "Core3 marks GSR's first crypto ETF offering amid a period of expansion for the major market maker and the wider crypto fund sector.",
       "tags": [
-        "doordash",
-        "offer",
-        "stablecoin"
+        "enters",
+        "crypto",
+        "field"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e7eea1f0da1c7edfde16307f71e555cf19b0b9cd",
-      "score": 21
-    },
-    {
-      "id": "https://www.theblock.co/post/398397/justin-sun-sues-world-liberty-financial",
-      "title": "Justin Sun sues World Liberty Financial over WLFI token freeze, governance exclusion",
-      "url": "https://www.theblock.co/post/398397/justin-sun-sues-world-liberty-financial",
-      "source": "The Block",
-      "publishedAt": "2026-04-22T04:45:15.000Z",
-      "summary": "Sun said the WLFI team refused to unfreeze his tokens, leaving him with no choice but to turn to the courts.",
-      "tags": [
-        "justin",
-        "sues",
-        "world"
-      ],
-      "topicBucket": "general",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -170,7 +170,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "fe79d61965b5a3c21071f7efbf9f39ee78b623ac",
+      "dedupeFingerprint": "16f98fb48ba50503b029ab01cc2e1faacdc24e55",
       "score": 19
     }
   ]
