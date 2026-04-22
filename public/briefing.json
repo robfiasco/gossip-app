@@ -1,16 +1,25 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "ECOSYSTEM",
-      "title": "Bitget exchange brings pre-IPO tokens to masses starting with SpaceX on Solana",
-      "category": "ECOSYSTEM",
-      "source": "CoinDesk",
+      "type": "APPS",
+      "title": "Solana outpaces Ethereum with 25.3B transactions – Will SOL/ETH finally react?",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-04-22",
+      "url": "https://ambcrypto.com/solana-outpaces-ethereum-with-25-3b-transactions-will-sol-eth-finally-react",
+      "whyYouShouldCare": "Solana's transaction volume significantly surpassing Ethereum could enhance its competitive positioning and attract more liquidity to the SOL ecosystem."
+    },
+    {
+      "type": "INFRA",
+      "title": "Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks",
+      "category": "INFRA",
+      "source": "Decrypt",
       "date": "2026-04-21",
-      "url": "https://www.coindesk.com/business/2026/04/21/bitget-exchange-brings-pre-ipo-tokens-to-masses-starting-with-spacex-on-solana",
-      "whyYouShouldCare": "The introduction of pre-IPO tokens like SpaceX on Solana through Bitget could enhance liquidity and attract new users to the ecosystem."
+      "url": "https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk",
+      "whyYouShouldCare": "Coinbase's warning about quantum risks for proof-of-stake chains like Solana highlights potential vulnerabilities that could impact investor confidence and ecosystem stability."
     },
     {
       "type": "APPS",
@@ -19,16 +28,7 @@
       "source": "The Block",
       "date": "2026-04-21",
       "url": "https://www.theblock.co/post/398354/peter-thiel-backed-unicorn-ramp-rolls-out-0-conversions-between-usdt-and-dollars-across-product-suite",
-      "whyYouShouldCare": "Ramp's $0 conversions between USDT and dollars may increase transaction volume and user engagement within Solana's decentralized finance applications."
-    },
-    {
-      "type": "APPS",
-      "title": "How P2P.org Built a Solana Transaction Sender for Teams That Cannot Afford to Miss a Slot",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-04-21",
-      "url": "https://cryptoslate.com/solana-transaction-sender-landing-syncro-sender-p2p-org",
-      "whyYouShouldCare": "P2P.org's Solana transaction sender addresses critical timing needs for teams, potentially improving operational efficiency and user retention in the ecosystem."
+      "whyYouShouldCare": "Ramp's introduction of zero-cost conversions between USDT and dollars may increase the usability of stablecoins within the Solana ecosystem, driving more transactions and liquidity."
     }
   ]
 }

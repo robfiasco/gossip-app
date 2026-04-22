@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-21",
-  "generated_at_utc": "2026-04-21T20:01:30.904Z",
-  "ctxMarket": "Attention is on Solana’s ongoing throughput and its role in tokenized assets, with several new integrations and product launches. Competitive dynamics with Ethereum are also in focus, especially around DEX activity and real-world asset tokenization.",
-  "ctxTalking": "• P2P.org’s new Solana transaction sender for teams needing precise slot timing\n• Ramp’s $0 conversion rollout for USDT on Solana and other chains\n• Tokenized gold fund launch and pre-IPO token access on Solana",
-  "ctxMatters": "Solana’s infrastructure is being tailored for high-frequency trading and institutional use cases. Major fintechs and banks are expanding support for Solana-based assets, signaling growing mainstream integration. Competition with Ethereum is intensifying, particularly in decentralized exchanges and asset tokenization.",
-  "ctxSignal": "Signal: Institutional and fintech adoption of Solana for tokenized assets and payments is accelerating.\nNoise: Short-term price moves linked to announcements without clear long-term impact.",
-  "ctxGlossary": "Slot — A discrete time window in Solana when transactions can be processed.\nTokenized asset — A real-world asset represented as a digital token on a blockchain.",
+  "date": "2026-04-22",
+  "generated_at_utc": "2026-04-22T08:28:58.178Z",
+  "ctxMarket": "Attention is on Solana's transaction volume, which has surpassed Ethereum with 25.3 billion transactions. Discussions also highlight both chains’ exposure to potential quantum computing risks and the rollout of new Solana-based financial products.",
+  "ctxTalking": "• Solana’s transaction throughput outpacing Ethereum and fueling speculation about a SOL/ETH breakout\n• Security concerns as Coinbase flags proof-of-stake chains like Solana and Ethereum as vulnerable to future quantum computing\n• New Solana-based offerings, including pre-IPO tokens and $0 USDT conversions, expanding access to traditional and crypto assets",
+  "ctxMatters": "High transaction volumes reinforce Solana’s position as a high-performance chain, attracting developers and financial products.  \nQuantum risk discussions could influence future protocol upgrades and user trust.  \nExpanding fiat and asset onramps on Solana may drive broader adoption and new use cases.",
+  "ctxSignal": "Signal: Solana’s transaction growth and new product integrations signal ongoing ecosystem expansion.  \nNoise: Short-term price moves tied to announcements without clear long-term impact.",
+  "ctxGlossary": "Slot — The smallest unit of time in Solana’s consensus, used to schedule transactions  \nPre-IPO token — A token representing shares in a private company before it goes public  \nQuantum risk — The potential for quantum computers to break current cryptographic protections",
   "readMore": [
+    {
+      "title": "Solana outpaces Ethereum with 25.3B transactions – Will SOL/ETH finally react?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-outpaces-ethereum-with-25-3b-transactions-will-sol-eth-finally-react"
+    },
+    {
+      "title": "Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk"
+    },
     {
       "title": "How P2P.org Built a Solana Transaction Sender for Teams That Cannot Afford to Miss a Slot",
       "source": "CryptoSlate",
       "url": "https://cryptoslate.com/solana-transaction-sender-landing-syncro-sender-p2p-org"
-    },
-    {
-      "title": "Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product suite",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/398354/peter-thiel-backed-unicorn-ramp-rolls-out-0-conversions-between-usdt-and-dollars-across-product-suite"
-    },
-    {
-      "title": "Bitget exchange brings pre-IPO tokens to masses starting with SpaceX on Solana",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/04/21/bitget-exchange-brings-pre-ipo-tokens-to-masses-starting-with-spacex-on-solana"
     }
   ]
 }

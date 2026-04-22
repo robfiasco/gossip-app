@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-21T20:01:22.218Z",
+    "generatedAt": "2026-04-22T08:28:47.442Z",
     "totalCandidates": 114,
     "solanaCandidates": 22,
     "selected": 5,
@@ -9,19 +9,52 @@
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/business/2026/04/21/bitget-exchange-brings-pre-ipo-tokens-to-masses-starting-with-spacex-on-solana",
-      "title": "Bitget exchange brings pre-IPO tokens to masses starting with SpaceX on Solana",
-      "url": "https://www.coindesk.com/business/2026/04/21/bitget-exchange-brings-pre-ipo-tokens-to-masses-starting-with-spacex-on-solana",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-21T15:25:32.000Z",
-      "summary": "The crypto exchange opens IPO Prime access with Republic to offer Solana-based tokens tied to private firms ahead of public listings.",
+      "id": "https://ambcrypto.com/solana-outpaces-ethereum-with-25-3b-transactions-will-sol-eth-finally-react",
+      "title": "Solana outpaces Ethereum with 25.3B transactions – Will SOL/ETH finally react?",
+      "url": "https://ambcrypto.com/solana-outpaces-ethereum-with-25-3b-transactions-will-sol-eth-finally-react",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-22T02:00:51.000Z",
+      "summary": "Developer-led on-chain expansion strengthens the case for a structural SOL/ETH breakout narrative.",
       "tags": [
-        "bitget",
-        "exchange",
-        "brings"
+        "solana",
+        "outpaces",
+        "ethereum"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "7e2624e992331ba968ceec29af973bcbc4d3d55b",
+      "score": 24
+    },
+    {
+      "id": "https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk",
+      "title": "Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks",
+      "url": "https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-21T21:54:18.000Z",
+      "summary": "Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.",
+      "tags": [
+        "coinbase",
+        "flags",
+        "proof"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -34,12 +67,12 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "956d192f4efd0ccad17882c9f5e593266603e307",
-      "score": 22
+      "dedupeFingerprint": "464fd545a3ee4329ec3165de32b1495f9b6b5e96",
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain",
@@ -66,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "a9d50dd58e0f9ba854ef379f4272b4dd779bd70c",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/398270/doordash-to-offer-stablecoin-payouts-with-tempo-in-push-toward-everyday-crypto-payments",
@@ -99,58 +132,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e7eea1f0da1c7edfde16307f71e555cf19b0b9cd",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://cryptoslate.com/solana-transaction-sender-landing-syncro-sender-p2p-org",
-      "title": "How P2P.org Built a Solana Transaction Sender for Teams That Cannot Afford to Miss a Slot",
-      "url": "https://cryptoslate.com/solana-transaction-sender-landing-syncro-sender-p2p-org",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-21T19:30:27.000Z",
-      "summary": "Solana processes over 162 million transactions daily at slot times averaging 390 milliseconds. For most users, that speed is more than sufficient. For trading firms, arbitrage bots, and liquidation engines, it is barely enough margin to work with. The difference between landing a transaction in slot",
-      "tags": [
-        "built",
-        "solana",
-        "transaction"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "975e6c2aa1381660196e82933d30e478e4dbe9a6",
-      "score": 20
-    },
-    {
-      "id": "https://www.theblock.co/post/398354/peter-thiel-backed-unicorn-ramp-rolls-out-0-conversions-between-usdt-and-dollars-across-product-suite",
-      "title": "Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product suite",
-      "url": "https://www.theblock.co/post/398354/peter-thiel-backed-unicorn-ramp-rolls-out-0-conversions-between-usdt-and-dollars-across-product-suite",
+      "id": "https://www.theblock.co/post/398397/justin-sun-sues-world-liberty-financial",
+      "title": "Justin Sun sues World Liberty Financial over WLFI token freeze, governance exclusion",
+      "url": "https://www.theblock.co/post/398397/justin-sun-sues-world-liberty-financial",
       "source": "The Block",
-      "publishedAt": "2026-04-21T18:50:54.000Z",
-      "summary": "The fintech provider has rolled out support for Ethereum, Solana and Plasma-issued USDT tokens across its entire product suite.",
+      "publishedAt": "2026-04-22T04:45:15.000Z",
+      "summary": "Sun said the WLFI team refused to unfreeze his tokens, leaving him with no choice but to turn to the courts.",
       "tags": [
-        "peter",
-        "thiel",
-        "backed"
+        "justin",
+        "sues",
+        "world"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "f561ee572b1b88c2cf65e9a0352bef3a33993ee0",
-      "score": 17
+      "dedupeFingerprint": "fe79d61965b5a3c21071f7efbf9f39ee78b623ac",
+      "score": 19
     }
   ]
 }
