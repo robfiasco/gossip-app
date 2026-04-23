@@ -1,24 +1,57 @@
 {
   "meta": {
-    "generatedAt": "2026-04-23T08:51:35.329Z",
-    "totalCandidates": 113,
-    "solanaCandidates": 22,
+    "generatedAt": "2026-04-23T20:05:09.873Z",
+    "totalCandidates": 114,
+    "solanaCandidates": 25,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/398515/inside-plasma-with-zaheer-the-future-of-stablecoins",
-      "title": "Inside Plasma with Zaheer: The Future of Stablecoins",
-      "url": "https://www.theblock.co/post/398515/inside-plasma-with-zaheer-the-future-of-stablecoins",
-      "source": "The Block",
-      "publishedAt": "2026-04-22T19:23:53.000Z",
-      "summary": "Zaheer explains why stablecoins, better UX, and focused execution are key to crypto’s next phase of adoption.",
+      "id": "https://ambcrypto.com/circle-economist-outlines-aave-proposal-as-usdc-liquidity-dries-up-after-defi-exploit",
+      "title": "Circle economist outlines Aave proposal as USDC liquidity dries up after DeFi exploit",
+      "url": "https://ambcrypto.com/circle-economist-outlines-aave-proposal-as-usdc-liquidity-dries-up-after-defi-exploit",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-23T15:17:34.000Z",
+      "summary": "Aave's USDC market faces liquidity strain, as a proposal suggests higher rates to attract capital and ease withdrawals.",
       "tags": [
-        "inside",
-        "plasma",
-        "with"
+        "circle",
+        "economist",
+        "outlines"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3f2857d3049bc26f029c771fa9a39d5c8d6a1e69",
+      "score": 27
+    },
+    {
+      "id": "https://decrypt.co/365353/circle-economist-50-rate-ceiling-snap-aave-usdc-liquidity-crisis",
+      "title": "Circle Economist Proposes 50% Rate Ceiling to Snap Aave's USDC Liquidity Crisis",
+      "url": "https://decrypt.co/365353/circle-economist-50-rate-ceiling-snap-aave-usdc-liquidity-crisis",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-23T19:58:13.000Z",
+      "summary": "Some users pushed back via Aave’s governance forum, fearing the changes would fuel liquidations on the lending protocol.",
+      "tags": [
+        "circle",
+        "economist",
+        "proposes"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -33,25 +66,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c9dd68e24ed80c308ea4b7be1e7a663225e43139",
+      "dedupeFingerprint": "0b60fe3679662be2816eefa76b15a047fae4f678",
       "score": 21
     },
     {
-      "id": "https://www.theblock.co/post/398501/kalshi-taps-pyth-commodities-hub-gold-oil-lithium-markets",
-      "title": "Kalshi taps Pyth for new ‘Commodities Hub,’ offering gold, oil and lithium markets",
-      "url": "https://www.theblock.co/post/398501/kalshi-taps-pyth-commodities-hub-gold-oil-lithium-markets",
-      "source": "The Block",
-      "publishedAt": "2026-04-22T16:41:50.000Z",
-      "summary": "Pyth aggregates price feeds from over 125 institutions, including exchanges and market makers, to provide 24/7 pricing data.",
+      "id": "https://decrypt.co/365292/founder-solana-token-launchpad-believe-arrested",
+      "title": "Founder of Solana Token Launchpad Believe Arrested on Assault, Strangulation Charges",
+      "url": "https://decrypt.co/365292/founder-solana-token-launchpad-believe-arrested",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-23T15:44:59.000Z",
+      "summary": "Benjamin Pasternak faces criminal charges following an investor class action lawsuit and accusations of breaching an OTC token deal.",
       "tags": [
-        "kalshi",
-        "taps",
-        "pyth"
+        "founder",
+        "solana",
+        "token"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,29 +97,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "669d2b326c3b02e3042cb15af4cfa122cfb591fb",
-      "score": 21
+      "dedupeFingerprint": "82ab3fb32397739d4dcfee6cd9076246eb20a9ae",
+      "score": 18
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/04/22/banks-seek-to-slow-down-implementation-of-crypto-s-genius-act-on-stablecoin-oversight",
-      "title": "Banks seek to slow down implementation of crypto's GENIUS Act on stablecoin oversight",
-      "url": "https://www.coindesk.com/policy/2026/04/22/banks-seek-to-slow-down-implementation-of-crypto-s-genius-act-on-stablecoin-oversight",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-22T16:23:10.000Z",
-      "summary": "U.S. banking groups argued that a number of federal agencies are moving quickly on stablecoin regulations, making it hard to understand how rules will interact.",
+      "id": "https://decrypt.co/365264/google-takes-aim-nvidia-new-tensor-chips-power-ai-boom",
+      "title": "Google Takes Aim at Nvidia With New Tensor Chips to Power AI Boom",
+      "url": "https://decrypt.co/365264/google-takes-aim-nvidia-new-tensor-chips-power-ai-boom",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-23T13:41:03.000Z",
+      "summary": "Google’s new processors target massive model training and the emerging AI agent economy, offering distinct builds for both needs.",
       "tags": [
-        "banks",
-        "seek",
-        "slow"
+        "google",
+        "takes",
+        "nvidia"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -97,27 +130,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ca85611529d555d5d5640b285675c9b657d1b721",
-      "score": 21
+      "dedupeFingerprint": "06ec4f42e86812a04bb478a132e2fca19d59645e",
+      "score": 18
     },
     {
-      "id": "https://www.theblock.co/post/398443/gsr-crypto-etf-actively-managed-multi-asset-core3-bitcoin-ethereum-solana",
-      "title": "GSR enters crypto ETF field with actively managed multi-asset fund tracking Bitcoin, Ethereum and Solana",
-      "url": "https://www.theblock.co/post/398443/gsr-crypto-etf-actively-managed-multi-asset-core3-bitcoin-ethereum-solana",
-      "source": "The Block",
-      "publishedAt": "2026-04-22T13:00:00.000Z",
-      "summary": "Core3 marks GSR's first crypto ETF offering amid a period of expansion for the major market maker and the wider crypto fund sector.",
+      "id": "https://ambcrypto.com/gsr-launches-beso-etf-with-bitcoin-ethereum-solana-exposure-details",
+      "title": "GSR launches BESO ETF with Bitcoin, Ethereum, Solana exposure – Details",
+      "url": "https://ambcrypto.com/gsr-launches-beso-etf-with-bitcoin-ethereum-solana-exposure-details",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-23T10:00:41.000Z",
+      "summary": "Will the GSR Crypto Core3 ETF launch add additional pressure to Spot ETFs?",
       "tags": [
-        "enters",
-        "crypto",
-        "field"
+        "launches",
+        "beso",
+        "with"
       ],
       "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "16f98fb48ba50503b029ab01cc2e1faacdc24e55",
-      "score": 18
-    },
-    {
-      "id": "https://decrypt.co/365141/justin-sun-alleges-trump-world-liberty-threatened-burn-wlfi-tokens",
-      "title": "Justin Sun Alleges Trump's World Liberty Threatened to Burn His WLFI Tokens",
-      "url": "https://decrypt.co/365141/justin-sun-alleges-trump-world-liberty-threatened-burn-wlfi-tokens",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-22T17:56:20.000Z",
-      "summary": "An investment in President Trump's meme coin allegedly upset members of World Liberty Financial’s team, the lawsuit claims.",
-      "tags": [
-        "justin",
-        "alleges",
-        "trump"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "047579cb421eae30d89e5ff3bfe064807a3af704",
-      "score": 17
+      "dedupeFingerprint": "3035b2303402e11575645dcc05959a7c016fe3fc",
+      "score": 16
     }
   ]
 }
