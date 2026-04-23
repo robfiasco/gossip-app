@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-22",
-  "generated_at_utc": "2026-04-22T20:03:39.094Z",
-  "ctxMarket": "Attention is focused on institutional moves into Solana, with GSR launching an ETF on Nasdaq that includes SOL alongside BTC and ETH. Infrastructure developments and security discussions are also in the spotlight.",
-  "ctxTalking": "• GSR’s new ETF featuring Solana, Bitcoin, and Ethereum on Nasdaq\n• Pyth Network’s role in powering Kalshi’s expanded commodities prediction markets\n• Ongoing concerns about quantum computing risks for proof-of-stake chains like Solana",
-  "ctxMatters": "Institutional products like GSR’s ETF may increase visibility and legitimacy for Solana among traditional investors. Pyth’s integration with Kalshi highlights Solana’s growing role in decentralized finance infrastructure. Security discussions around quantum risks signal ongoing scrutiny of blockchain resilience.",
-  "ctxSignal": "Signal: Major market makers and data providers are building on or around Solana, reflecting deeper ecosystem integration.\nNoise: Speculation about quantum threats remains largely theoretical at this stage.",
-  "ctxGlossary": "ETF — Exchange-traded fund, a regulated investment vehicle tracking a basket of assets\nProof-of-Stake — A blockchain consensus mechanism used by Solana and Ethereum\nPyth Network — A decentralized oracle providing real-time price data to blockchain applications",
+  "date": "2026-04-23",
+  "generated_at_utc": "2026-04-23T08:51:44.435Z",
+  "ctxMarket": "Attention is focused on GSR’s launch of an ETF tracking Bitcoin, Ethereum, and Solana, marking a notable move into mainstream asset management. Price action shows Bitcoin and Solana retreating from recent highs, with profit-taking cited as a factor.",
+  "ctxTalking": "• GSR’s new actively managed ETF for BTC, ETH, and SOL on Nasdaq\n• Volatility in major tokens as traders take profits after recent highs\n• Noah and Jupiter’s collaboration to streamline fiat-to-stablecoin payroll on Solana",
+  "ctxMatters": "GSR’s ETF signals growing institutional interest and easier access to Solana for traditional investors. Increased volatility may affect short-term sentiment, especially with reduced retail participation. New on-chain payroll solutions could broaden Solana’s utility for global users.",
+  "ctxSignal": "Signal: Institutional products like GSR’s ETF and new payroll integrations highlight Solana’s expanding ecosystem.\nNoise: Short-term price swings driven by profit-taking lack deeper context for long-term trends.",
+  "ctxGlossary": "ETF — Exchange-traded fund, a tradable investment product tracking a basket of assets\nStaking yields — Earnings from participating in network validation on proof-of-stake blockchains",
   "readMore": [
     {
-      "title": "Pyth Network to determine outcomes in Kalshi’s commodities expansion",
+      "title": "Market maker GSR launches first ETF tracking Bitcoin, Ether and Solana",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-pyth-commodities-market-pricing-data"
+      "url": "https://cointelegraph.com/news/crypto-market-maker-gsr-launched-multi-asset-etf"
     },
     {
-      "title": "Kalshi taps Pyth for new ‘Commodities Hub,’ offering gold, oil and lithium markets",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/398501/kalshi-taps-pyth-commodities-hub-gold-oil-lithium-markets"
+      "title": "Bitcoin loses grip near $80,000 as ETH, SOL, DOGE fade on profit-taking",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/23/bitcoin-loses-grip-near-usd80-000-as-eth-sol-doge-fade-on-profit-taking"
     },
     {
-      "title": "GSR Launches Actively Managed Bitcoin, Ethereum and Solana Basket ETF on Nasdaq",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/365127/gsr-actively-managed-bitcoin-ethereum-solana-etf-nasdaq"
+      "title": "Meteora [MET] jumps 30% with 3000% volume spike – Can it hold?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/meteora-met-jumps-30-with-3000-volume-spike-can-it-hold"
     }
   ]
 }

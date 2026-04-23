@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-04-22T20:03:30.007Z",
+    "generatedAt": "2026-04-23T08:51:35.329Z",
     "totalCandidates": 113,
-    "solanaCandidates": 23,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://solana.com/news/case-study-noah",
-      "title": "Noah x Jupiter x Solana: Powering Sovereign Payroll",
-      "url": "https://solana.com/news/case-study-noah",
-      "source": "Solana News",
-      "publishedAt": "2026-04-22T12:00:00.000Z",
-      "summary": "Learn how Noah and Jupiter brought virtual USD/EUR accounts, instant off-ramps, and seamless fiat-to-stablecoin settlement to 50M+ Solana users",
+      "id": "https://www.theblock.co/post/398515/inside-plasma-with-zaheer-the-future-of-stablecoins",
+      "title": "Inside Plasma with Zaheer: The Future of Stablecoins",
+      "url": "https://www.theblock.co/post/398515/inside-plasma-with-zaheer-the-future-of-stablecoins",
+      "source": "The Block",
+      "publishedAt": "2026-04-22T19:23:53.000Z",
+      "summary": "Zaheer explains why stablecoins, better UX, and focused execution are key to crypto’s next phase of adoption.",
       "tags": [
-        "noah",
-        "jupiter",
-        "solana"
+        "inside",
+        "plasma",
+        "with"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,48 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 25,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 5,
+        "recencyScore": 9,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2a70ee0c9298b17d0405c03ca852bec375c58391",
-      "score": 40
-    },
-    {
-      "id": "https://ambcrypto.com/toobit-dex-lists-pre-ipo-assets-for-24-7-stablecoin-settled-trading",
-      "title": "Toobit DEX+ Lists Pre-IPO Assets for 24/7 Stablecoin-Settled Trading",
-      "url": "https://ambcrypto.com/toobit-dex-lists-pre-ipo-assets-for-24-7-stablecoin-settled-trading",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-22T14:15:16.000Z",
-      "summary": "Toobit, the award-winning global cryptocurrency exchange, today lists Pre-IPO assets on its on-chain trading interface, Toobit DEX+. This integration provides traders with a 24/7 path to gain price exposure to top-tier private companies including SpaceX, OpenAI, and Anthropic, settled entirely in st",
-      "tags": [
-        "toobit",
-        "lists",
-        "assets"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "01513fafe0fa600b466ec85a2d161274d3706549",
-      "score": 24
+      "dedupeFingerprint": "c9dd68e24ed80c308ea4b7be1e7a663225e43139",
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/398501/kalshi-taps-pyth-commodities-hub-gold-oil-lithium-markets",
@@ -99,27 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "669d2b326c3b02e3042cb15af4cfa122cfb591fb",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://decrypt.co/365127/gsr-actively-managed-bitcoin-ethereum-solana-etf-nasdaq",
-      "title": "GSR Launches Actively Managed Bitcoin, Ethereum and Solana Basket ETF on Nasdaq",
-      "url": "https://decrypt.co/365127/gsr-actively-managed-bitcoin-ethereum-solana-etf-nasdaq",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-22T15:47:59.000Z",
-      "summary": "Crypto market maker GSR has launched an actively managed ETF on the Nasdaq that includes Bitcoin, Ethereum, and Solana.",
+      "id": "https://www.coindesk.com/policy/2026/04/22/banks-seek-to-slow-down-implementation-of-crypto-s-genius-act-on-stablecoin-oversight",
+      "title": "Banks seek to slow down implementation of crypto's GENIUS Act on stablecoin oversight",
+      "url": "https://www.coindesk.com/policy/2026/04/22/banks-seek-to-slow-down-implementation-of-crypto-s-genius-act-on-stablecoin-oversight",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-22T16:23:10.000Z",
+      "summary": "U.S. banking groups argued that a number of federal agencies are moving quickly on stablecoin regulations, making it hard to understand how rules will interact.",
       "tags": [
-        "launches",
-        "actively",
-        "managed"
+        "banks",
+        "seek",
+        "slow"
       ],
-      "topicBucket": "market",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -132,12 +99,12 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
+        "recencyScore": 9,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "de13fc4083ee5eaf1d66b8c72e87fc8c31e2c136",
+      "dedupeFingerprint": "ca85611529d555d5d5640b285675c9b657d1b721",
       "score": 21
     },
     {
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "16f98fb48ba50503b029ab01cc2e1faacdc24e55",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "https://decrypt.co/365141/justin-sun-alleges-trump-world-liberty-threatened-burn-wlfi-tokens",
+      "title": "Justin Sun Alleges Trump's World Liberty Threatened to Burn His WLFI Tokens",
+      "url": "https://decrypt.co/365141/justin-sun-alleges-trump-world-liberty-threatened-burn-wlfi-tokens",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-22T17:56:20.000Z",
+      "summary": "An investment in President Trump's meme coin allegedly upset members of World Liberty Financial’s team, the lawsuit claims.",
+      "tags": [
+        "justin",
+        "alleges",
+        "trump"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "047579cb421eae30d89e5ff3bfe064807a3af704",
+      "score": 17
     }
   ]
 }
