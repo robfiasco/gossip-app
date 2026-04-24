@@ -1,24 +1,57 @@
 {
   "meta": {
-    "generatedAt": "2026-04-23T20:05:09.873Z",
-    "totalCandidates": 114,
-    "solanaCandidates": 25,
+    "generatedAt": "2026-04-24T08:58:56.178Z",
+    "totalCandidates": 115,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/circle-economist-outlines-aave-proposal-as-usdc-liquidity-dries-up-after-defi-exploit",
-      "title": "Circle economist outlines Aave proposal as USDC liquidity dries up after DeFi exploit",
-      "url": "https://ambcrypto.com/circle-economist-outlines-aave-proposal-as-usdc-liquidity-dries-up-after-defi-exploit",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-23T15:17:34.000Z",
-      "summary": "Aave's USDC market faces liquidity strain, as a proposal suggests higher rates to attract capital and ease withdrawals.",
+      "id": "https://cointelegraph.com/news/anchorage-digital-brings-automated-solana-staking-to-institutional-clients",
+      "title": "Anchorage Digital adds Marinade-powered staking strategies for Solana clients",
+      "url": "https://cointelegraph.com/news/anchorage-digital-brings-automated-solana-staking-to-institutional-clients",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-23T20:27:36.000Z",
+      "summary": "The integration with Marinade Finance lets clients earn yield via validator selection strategies while retaining custody and control within a single platform.",
       "tags": [
-        "circle",
-        "economist",
-        "outlines"
+        "anchorage",
+        "digital",
+        "adds"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 21,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "f598137c0dac7d227eb96bbd51583d232c005232",
+      "score": 30
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/04/24/morgan-stanley-is-positioning-itself-as-the-reserve-manager-for-the-stablecoin-industry",
+      "title": "Morgan Stanley is positioning itself as the reserve manager for the stablecoin industry",
+      "url": "https://www.coindesk.com/markets/2026/04/24/morgan-stanley-is-positioning-itself-as-the-reserve-manager-for-the-stablecoin-industry",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-24T06:39:39.000Z",
+      "summary": "The Wall Street giant has announced a fund build specifically for stablecoin issuers. Here is what it does and means for the market.",
+      "tags": [
+        "morgan",
+        "stanley",
+        "positioning"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,15 +64,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3f2857d3049bc26f029c771fa9a39d5c8d6a1e69",
-      "score": 27
+      "dedupeFingerprint": "b8e35f4e356e9bed1c9cdece8c280713c4236399",
+      "score": 22
     },
     {
       "id": "https://decrypt.co/365353/circle-economist-50-rate-ceiling-snap-aave-usdc-liquidity-crisis",
@@ -66,46 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "0b60fe3679662be2816eefa76b15a047fae4f678",
-      "score": 21
-    },
-    {
-      "id": "https://decrypt.co/365292/founder-solana-token-launchpad-believe-arrested",
-      "title": "Founder of Solana Token Launchpad Believe Arrested on Assault, Strangulation Charges",
-      "url": "https://decrypt.co/365292/founder-solana-token-launchpad-believe-arrested",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-23T15:44:59.000Z",
-      "summary": "Benjamin Pasternak faces criminal charges following an investor class action lawsuit and accusations of breaching an OTC token deal.",
-      "tags": [
-        "founder",
-        "solana",
-        "token"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "82ab3fb32397739d4dcfee6cd9076246eb20a9ae",
-      "score": 18
+      "score": 20
     },
     {
       "id": "https://decrypt.co/365264/google-takes-aim-nvidia-new-tensor-chips-power-ai-boom",
@@ -132,28 +132,28 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "06ec4f42e86812a04bb478a132e2fca19d59645e",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "https://ambcrypto.com/gsr-launches-beso-etf-with-bitcoin-ethereum-solana-exposure-details",
-      "title": "GSR launches BESO ETF with Bitcoin, Ethereum, Solana exposure – Details",
-      "url": "https://ambcrypto.com/gsr-launches-beso-etf-with-bitcoin-ethereum-solana-exposure-details",
+      "id": "https://ambcrypto.com/toncoin-volume-drops-18-will-49m-unlock-trigger-ton-sell-off",
+      "title": "Toncoin volume drops 18% – Will $49M unlock trigger TON sell-off?",
+      "url": "https://ambcrypto.com/toncoin-volume-drops-18-will-49m-unlock-trigger-ton-sell-off",
       "source": "AMB Crypto",
-      "publishedAt": "2026-04-23T10:00:41.000Z",
-      "summary": "Will the GSR Crypto Core3 ETF launch add additional pressure to Spot ETFs?",
+      "publishedAt": "2026-04-24T03:00:15.000Z",
+      "summary": "TON faces heavy supply pressure as 2026 low comes into view.",
       "tags": [
-        "launches",
-        "beso",
-        "with"
+        "toncoin",
+        "volume",
+        "drops"
       ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -170,7 +170,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3035b2303402e11575645dcc05959a7c016fe3fc",
+      "dedupeFingerprint": "616856ae66f1417063f0b5dd7504fe7b42e38a96",
       "score": 16
     }
   ]

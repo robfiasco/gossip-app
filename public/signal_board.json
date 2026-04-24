@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-23",
-  "generated_at_utc": "2026-04-23T20:05:19.276Z",
-  "ctxMarket": "Attention is focused on the launch of GSR’s new ETF, which includes Solana alongside Bitcoin and Ethereum. Headlines also highlight legal trouble for a Solana token launchpad founder and shifting momentum between Solana and Ethereum in the DEX sector.",
-  "ctxTalking": "• GSR’s Crypto Core3 ETF debut, offering exposure to Solana, Bitcoin, and Ethereum\n• Legal charges against the founder of Solana launchpad Believe, following investor lawsuits\n• Solana’s Q1 dominance facing renewed competition from Ethereum",
-  "ctxMatters": "ETF inclusion signals growing institutional interest in Solana. Legal issues involving a launchpad founder may impact trust in Solana-based projects. Shifts in DEX activity and competition with Ethereum could influence developer and user engagement on Solana.",
-  "ctxSignal": "Signal: Institutional products like the GSR ETF and evolving DEX competition are shaping Solana’s ecosystem. \nNoise: Short-term price moves tied to profit-taking lack clear long-term context.",
-  "ctxGlossary": "ETF — Exchange-traded fund, a product tracking a basket of assets tradable on stock exchanges\nDEX — Decentralized exchange, a platform for peer-to-peer crypto trading without intermediaries",
+  "date": "2026-04-24",
+  "generated_at_utc": "2026-04-24T08:59:04.215Z",
+  "ctxMarket": "Attention is focused on new integrations and partnerships within the Solana ecosystem, as well as ongoing competition with Ethereum in the DEX space. Headlines also highlight legal developments involving a Solana token launchpad founder.",
+  "ctxTalking": "• Anchorage Digital now offers Marinade-powered staking strategies for Solana clients\n• Legal issues for the founder of a Solana token launchpad following investor lawsuits\n• Noah and Jupiter enable large-scale fiat-to-stablecoin payroll on Solana",
+  "ctxMatters": "Expanded staking options through Anchorage Digital and Marinade may appeal to institutional users seeking more control and yield strategies. Legal troubles for a launchpad founder could impact trust in certain Solana-based projects. The Noah/Jupiter integration demonstrates ongoing efforts to scale real-world financial services on Solana.",
+  "ctxSignal": "Signal: Institutional staking integrations and large-scale payroll solutions reflect continued infrastructure growth on Solana.\nNoise: Short-term price moves tied to partnership announcements without clear long-term impact.",
+  "ctxGlossary": "Validator — A network participant responsible for confirming transactions and securing the blockchain\nOTC (Over-the-Counter) — Direct trading of assets between parties, outside of public exchanges",
   "readMore": [
+    {
+      "title": "Anchorage Digital adds Marinade-powered staking strategies for Solana clients",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/anchorage-digital-brings-automated-solana-staking-to-institutional-clients"
+    },
     {
       "title": "Founder of Solana Token Launchpad Believe Arrested on Assault, Strangulation Charges",
       "source": "Decrypt",
       "url": "https://decrypt.co/365292/founder-solana-token-launchpad-believe-arrested"
     },
     {
-      "title": "GSR launches BESO ETF with Bitcoin, Ethereum, Solana exposure – Details",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/gsr-launches-beso-etf-with-bitcoin-ethereum-solana-exposure-details"
-    },
-    {
-      "title": "Market maker GSR launches first ETF tracking Bitcoin, Ether and Solana",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-market-maker-gsr-launched-multi-asset-etf"
+      "title": "Noah x Jupiter x Solana",
+      "source": "Solana News",
+      "url": "https://solana.com/news/case-study-noah"
     }
   ]
 }
