@@ -1,195 +1,230 @@
 {
-  "generated_at": "2026-04-16T14:19:29.735Z",
+  "generated_at": "2026-04-24T14:08:39.711Z",
   "global_metrics": {
-    "total_tweets": 43,
-    "total_engagement": 7837,
-    "unique_voices": 15,
-    "top_tweet": 784
+    "total_tweets": 47,
+    "total_engagement": 10966,
+    "unique_voices": 19,
+    "top_tweet": 2087
   },
   "items": [
     {
-      "id": "story_1776349129686_0",
-      "title": "Solana Rebuilds Core Read Layer Amid Record Network Growth",
+      "id": "story_1777039688967_0",
+      "title": "Solana Ecosystem Accelerates: Builders, Institutions, and New Risks",
       "type": "critical",
       "category": "Security / Risk Alert",
-      "author": "@triton_one",
-      "timestamp": "2026-04-16T14:18:49.686Z",
+      "author": "@incubator",
+      "timestamp": "2026-04-24T14:08:08.967Z",
       "metrics": {
-        "tweets": 40,
-        "engagement": 7226,
-        "topTweet": 784,
-        "voices": 13,
+        "tweets": 33,
+        "engagement": 6381,
+        "topTweet": 753,
+        "voices": 12,
         "engagementTrend": [
-          2890,
-          3974,
-          4914,
-          5925,
-          7226
+          2552,
+          3510,
+          4339,
+          5232,
+          6381
         ]
       },
       "ctPulse": [
         {
-          "handle": "@triton_one",
-          "thought": "BREAKING: We're partnering with @SolanaFndn to rebuild Solana's read layer from the ground up.\n\n@anza_xyz and @jump_firedancer have done incredible work scaling execution and networking, but the read ",
-          "url": "https://twitter.com/triton_one/status/2044038713349722326"
+          "handle": "@incubator",
+          "thought": "1/ Grow your company alongside the Solana Labs team!\n\nApplications for Cohort 5 of the Solana Incubator are now open — join us in NYC for 3 months starting September 2026.\n\n📅 Deadline: June 5.\n✅ Roll",
+          "url": "https://twitter.com/incubator/status/2046973323620577341"
+        },
+        {
+          "handle": "@solanamobile",
+          "thought": "Solana Mobile is heading to Miami this May 🌴\n\nCatch us at Solana Accelerate, Ship Week, and Consensus 2026\n\nJoin us for the EasyA hackathon and hands-on dev workshops IRL\n\nHere's where to find us 🧵 ",
+          "url": "https://twitter.com/solanamobile/status/2047384738965631366"
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "BREAKING 🚨 Solana powered Cashtags are coming to @X. This is HUGE!!! https://t.co/XY9yYhB9FU",
-          "url": "https://twitter.com/SolanaSensei/status/2044340626809078034"
+          "thought": "We’re so spoiled on Solana we don’t even realize it sometimes.\n\n&gt; Life-changing airdrops\n&gt; Life-changing grants/rewards\n&gt; Ultra-low fees\n&gt; Instant transactions\n&gt; Constant innovation\n&gt",
+          "url": "https://twitter.com/SolanaSensei/status/2047269006990889196"
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "According to CryptoRank, Solana dominates Q1 2026 with 25.3B transactions, the highest by far.\n\nWhile others count in millions or low billions, Solana does more than all other top chains combined. htt",
-          "url": "https://twitter.com/SolanaSensei/status/2044333422454435990"
+          "thought": "Be Solana\n\n- Allow everyone to buy everything they want\n- Make sure every transaction is fast\n- Give them free money (airdrops)\n- Constantly innovate to improve user experience\n- Make transactions cos",
+          "url": "https://twitter.com/SolanaSensei/status/2047605728844923336"
         },
         {
-          "handle": "@SolanaSensei",
-          "thought": "Solana DEX volume Q1 2026:\n\n41% global market share ($284.5B)\n\nMore than Ethereum + all its L2s. Combined.\n\nDuring a down quarter.\n\nPay close attention. https://t.co/r9vCy9A0RI",
-          "url": "https://twitter.com/SolanaSensei/status/2044457737363595742"
-        },
-        {
-          "handle": "@SolanaSensei",
-          "thought": "Proof of Solana OG. Receipts from 2021:\n\nBack in 2021, I was sharing Excel sheets on Twitter with floor prices from nft collections.\n\nI was living in Bali and had become an nft whale across all the fi",
-          "url": "https://twitter.com/SolanaSensei/status/2044393368189644858"
+          "handle": "@solana_daily",
+          "thought": "Top Performing Solana AI Agents in the Last 7 Days 📈\n\n▫️RAIN - @rainmakerdotfun\n▫️BREW - @homebrewrobots\n▫️PAYAI - @PayAINetwork\n▫️ACE - @acedatacloud\n▫️SWARMS - @swarms_corp\n▫️OPUS - @opus_universe\n",
+          "url": "https://twitter.com/solana_daily/status/2046978456567861248"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@triton_one",
-          "reason": "Leading the read layer overhaul for Solana.",
+          "handle": "@incubator",
+          "reason": "Leads the Solana Labs Incubator, central to new builder onboarding.",
           "role": "Builder",
-          "engagement": 3104
+          "engagement": 1753
         },
         {
-          "handle": "@SolanaFndn",
-          "reason": "Core steward of Solana’s ecosystem and infrastructure.",
-          "role": "Builder",
-          "engagement": 1162
+          "handle": "@nickducoff",
+          "reason": "Shares insights on institutional adoption and RWA growth on Solana.",
+          "role": "Analyst",
+          "engagement": 1109
         }
       ],
       "content": {
-        "signal": "Solana is partnering with Triton One to overhaul its foundational read layer as the network hits new transaction and volume highs.",
-        "story": "Solana is entering a critical new phase of infrastructure development. Triton One has announced a partnership with the Solana Foundation to completely rebuild Solana’s read layer, a core component that has remained largely untouched since the network’s launch. This move comes as Solana’s transaction counts, DEX volume, and stablecoin activity reach unprecedented levels, putting new pressure on the network’s underlying architecture.\n\n### What's Happening\n\nWhile Solana’s execution and networking layers have seen significant upgrades—thanks to initiatives like Firedancer and Anza—the read layer has lagged behind. Originally built as an extension of the validator, it was never designed to handle the scale Solana now faces. With over 25 billion transactions in Q1 2026, and DEX volumes surpassing $284 billion in a single quarter, the old architecture is showing its age.\n\nThe partnership with Triton One aims to address this by redesigning how data is accessed and served to users and applications. This is not just a technical refresh; it’s a foundational shift that will impact everything from wallet performance to analytics and dApp reliability. The overhaul is expected to roll out by 2026, aligning with Solana’s rapid ecosystem expansion.\n\n### Why It Matters\n\nSolana’s growth is not just a story of more users or higher prices—it’s about real, on-chain activity. The network now processes more transactions than all other top chains combined, and its DEX market share has climbed to 41%, outpacing Ethereum and all L2s together. Stablecoin supply on Solana has ballooned from under $2 billion in 2024 to over $14 billion in 2026, with major banks like Lead Bank and Cross River now settling USDC directly on-chain.\n\nThis surge in usage is driving demand for more robust infrastructure. As tokenized assets, lending protocols, and new financial primitives proliferate, the need for fast, reliable data access becomes critical. The read layer upgrade is a strategic move to ensure Solana can support not just today’s scale, but the next wave of adoption—including new features like encrypted dApps and integration with mainstream platforms like X (formerly Twitter).\n\n### The Risk or Debate\n\nOverhauling a core part of the network is not without risk. Any major architectural change introduces the potential for new bugs, outages, or unforeseen performance issues. The transition period could be especially sensitive, as Solana is now a key settlement layer for banks, stablecoins, and tokenized assets. If the new read layer fails to deliver, it could undermine confidence in the network’s reliability.\n\nThere’s also debate about whether Solana’s rapid scaling can continue without hitting new bottlenecks elsewhere. While the read layer is being addressed, other components may need similar attention as usage patterns evolve. The ecosystem’s reliance on a small number of core teams for critical upgrades is another point of discussion.\n\n### What To Watch\n\nThe rollout of the new read layer will be a major milestone for Solana. Watch for technical updates from Triton One and the Solana Foundation on migration plans, testing phases, and performance benchmarks. Adoption by major dApps and wallets will be a key signal of success.\n\nKeep an eye on how the upgrade impacts user experience, especially during periods of high network activity. Also, monitor whether other chains respond with similar infrastructure investments as Solana sets a new standard for throughput and usability.",
+        "signal": "Solana’s ecosystem is rapidly expanding, attracting builders and institutional capital, but new growth brings fresh risks and operational challenges.",
+        "story": "Solana is entering a new phase of ecosystem growth, marked by a surge in builder activity, institutional adoption, and a wave of new products and protocols. The opening of applications for Solana Labs’ Incubator Cohort 5, alongside a packed calendar of hackathons and developer events, signals a strong push to onboard and support the next generation of projects. At the same time, real-world asset (RWA) tokenization on Solana has ballooned from $170 million to $2 billion in just a year, with major funds and institutions now treating the chain as a serious venue for on-chain finance.\n\n### What's Happening\n\nThe Solana Labs Incubator is now accepting applications for its fifth cohort, offering selected teams a three-month program in New York City. This move comes as Solana Mobile and other ecosystem players ramp up in-person events, hackathons, and workshops, aiming to deepen developer engagement and accelerate product launches. Meanwhile, the chain is seeing strong traction in both consumer and institutional segments: AI agents, DeFi protocols, and collectibles are all shipping at a rapid pace, while institutional flows into RWAs are at all-time highs.\n\nThe ecosystem’s growth is also visible in new launches and updates. Projects like Arcium are preparing token generation events after raising millions, and DeFi protocols are rolling out permissionless features that lower barriers for liquidity and innovation. Community-driven initiatives, such as Superteam’s local builder support and on-chain collectibles buybacks, reinforce the sense of momentum and experimentation across the network.\n\n### Why It Matters\n\nSolana’s ability to attract both grassroots builders and institutional capital is shifting its reputation from a retail-focused chain to a credible platform for serious financial products. The surge in RWA activity is particularly notable, as it reflects growing trust in Solana’s reliability, speed, and cost-effectiveness. This is further supported by the ecosystem’s large active wallet base and deep stablecoin liquidity, which are prerequisites for scaling on-chain finance.\n\nFor builders, the combination of incubator programs, hackathons, and rapid protocol innovation creates a fertile environment for launching and iterating on new ideas. The permissionless nature of recent DeFi upgrades means that teams can move faster and experiment without waiting for approvals, potentially accelerating the pace of innovation. For users, this translates to more products, better experiences, and new ways to participate in the ecosystem.\n\n### The Risk or Debate\n\nHowever, rapid growth brings new risks. The influx of new projects, especially in DeFi and AI, raises the potential for security lapses, operational failures, or outright scams. Permissionless launches can be a double-edged sword: while they lower barriers, they also make it easier for unvetted or malicious actors to deploy risky products. The sheer volume of new tokens, apps, and financial primitives may outpace the community’s ability to vet and secure them.\n\nInstitutional adoption of RWAs also introduces regulatory and compliance questions, especially as the scale of on-chain assets grows. There’s an ongoing debate about whether Solana’s infrastructure and governance are ready for the scrutiny and demands that come with managing billions in tokenized assets. As the ecosystem matures, the stakes for operational resilience and user protection are rising.\n\n### What To Watch\n\nKey developments to monitor include the selection and progress of the next Incubator cohort, the rollout of new DeFi primitives, and the continued influx of institutional capital into RWAs. Security incidents, rug pulls, or major protocol failures could quickly undermine trust if not addressed proactively. Regulatory signals—especially around tokenized assets—will be crucial as Solana’s institutional profile grows. Finally, the effectiveness of community-driven support and builder programs will shape whether this growth phase leads to sustainable innovation or exposes new vulnerabilities.",
         "takeaways": [
-          "Solana is partnering with Triton One to rebuild its core read layer for better scalability.",
-          "Network activity and on-chain volume are at all-time highs, stressing current infrastructure.",
-          "The upgrade is critical but carries risks around stability and transition management."
+          "Solana is seeing rapid growth in both builder activity and institutional adoption, especially in tokenized real-world assets.",
+          "Permissionless DeFi innovation is accelerating, but also introduces new risks around security and project quality.",
+          "The ecosystem’s shift toward institutional finance brings regulatory and operational challenges that will require close attention."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 8.8
+      "narrativeStrength": 8.6
     },
     {
-      "id": "story_1776349158655_1",
-      "title": "Jupiter Unveils $200K+ Mystery Airdrop and New TGC Rewards",
+      "id": "story_1777039698514_1",
+      "title": "Seeker Season 1 Wraps: 89.7% SKR Claimed, Next Steps Set",
       "type": "alpha",
       "category": "Airdrop Strategy",
-      "author": "@SolanaSensei",
-      "timestamp": "2026-04-16T14:19:18.655Z",
+      "author": "@solanamobile",
+      "timestamp": "2026-04-24T14:08:18.514Z",
       "metrics": {
-        "tweets": 2,
-        "engagement": 363,
-        "topTweet": 261,
-        "voices": 1,
+        "tweets": 7,
+        "engagement": 3898,
+        "topTweet": 2087,
+        "voices": 4,
         "engagementTrend": [
-          145,
-          199,
-          247,
-          297,
-          363
+          1559,
+          2144,
+          2651,
+          3196,
+          3898
         ]
       },
       "ctPulse": [
         {
-          "handle": "@SolanaSensei",
-          "thought": "🚨 AIRDROP: Over $200K in Mystery rewards can now be claimed by eligible @JupiterExchange users.\n\n- Import your wallet to Jupiter Mobile or Extension\n- Go to Rewards Hub.\n- Check if you're eligible fo",
-          "url": "https://twitter.com/SolanaSensei/status/2044688015117971534"
+          "handle": "@solanamobile",
+          "thought": "That's a wrap on Seeker Season 1 SKR claims.\n\nYou claimed 89.7% of the airdrop. \n200M SKR is going back to the future airdrops pool.\n70% of circulating SKR is staked.\n90,405 of you are holding.\n\nThank",
+          "url": "https://twitter.com/solanamobile/status/2047020054404071756"
         },
         {
-          "handle": "@SolanaSensei",
-          "thought": "Jupiter just launched another TGC\n\nThis time it’s running for 2 weeks with $50K in rewards.\n\n- Trade PreStocks in Ultra Mode\n- $2K volume = 1 card\n\nCards can range from $1 to $10,000.\n\nThe rewards kee",
-          "url": "https://twitter.com/SolanaSensei/status/2044776846164967488"
+          "handle": "@0x_diablo",
+          "thought": "RT @solanamobile: That's a wrap on Seeker Season 1 SKR claims.\n\nYou claimed 89.7% of the airdrop. \n200M SKR is going back to the future air…",
+          "url": "https://twitter.com/0x_diablo/status/2047020408331735353"
+        },
+        {
+          "handle": "@solana_stream",
+          "thought": "Just use $SKR for your apps.\n\n$SKR is becoming the shared incentive layer across @solanamobile -  powering rewards, cashback, boosts & loyalty alongside native tokens.\n\nHere are some dApps with real $",
+          "url": "https://twitter.com/solana_stream/status/2047337095707136462"
+        },
+        {
+          "handle": "@solanamobile",
+          "thought": "Seeker Season is heating up 🔥⚽️\n\nSeekers get a pint of Guinness at Solana Stadium, and are invited on a pilgrimage to @AlfretonTownFC during Breakpoint 2026.\n\nThe arena is integrating Seekers as poin",
+          "url": "https://twitter.com/solanamobile/status/2046671173904454044"
+        },
+        {
+          "handle": "@solanamobile",
+          "thought": "RT @alphafcxyz: AlphaFC is giving away 10 Seeker phones in partnership with @solanamobile \n\nMake a post about AlphaFC, tag @alphafcxyz and…",
+          "url": "https://twitter.com/solanamobile/status/2046710453825614322"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@SolanaSensei",
-          "reason": "Provides timely updates and analysis on Solana ecosystem campaigns.",
-          "role": "Analyst",
-          "engagement": 363
+          "handle": "@solanamobile",
+          "reason": "Leads the Seeker initiative and SKR ecosystem development.",
+          "role": "Builder",
+          "engagement": 2721
         },
         {
-          "handle": "@JupiterExchange",
-          "reason": "Official source for campaign details and platform updates.",
-          "role": "Builder",
-          "engagement": 0
+          "handle": "@solana_stream",
+          "reason": "Covers SKR integrations and ecosystem updates.",
+          "role": "Analyst",
+          "engagement": 606
         }
       ],
       "content": {
-        "signal": "JupiterExchange users can now claim over $200K in mystery rewards, with additional $50K in TGC incentives live for active traders.",
-        "story": "JupiterExchange has launched a new phase of user rewards, distributing over $200,000 in mystery airdrops to eligible users. The claim window is limited to 31 days, requiring users to check eligibility through the Jupiter Mobile app or browser extension. In parallel, Jupiter has rolled out another Trading Game Campaign (TGC), offering $50,000 in rewards over a two-week period for those trading PreStocks in Ultra Mode.\n\n### What's Happening\n\nEligible JupiterExchange users can access the Rewards Hub to determine if they qualify for a share of the $200K+ mystery airdrop. The process involves importing a wallet into Jupiter's mobile or extension platform and checking for available rewards. Separately, the new TGC incentivizes trading activity: for every $2,000 in PreStocks volume in Ultra Mode, users receive a reward card, with card values ranging from $1 up to $10,000. Both initiatives are time-bound, with the airdrop claim window set at 31 days and the TGC running for two weeks.\n\n### Why It Matters\n\nJupiter's ongoing reward campaigns signal an aggressive push to deepen user engagement and liquidity on Solana. The scale of the airdrop and the gamified trading incentives reflect a broader trend of exchanges using direct rewards to retain active users and attract new participants. These campaigns may also help Jupiter differentiate itself in a crowded Solana ecosystem, where user loyalty and sustained activity are critical for protocol growth.\n\nThe mystery element of the airdrop and the randomized card values in the TGC introduce an element of unpredictability, which can boost participation and social sharing. By requiring wallet imports and active trading, Jupiter is also likely gathering valuable user data and reinforcing its mobile and extension platforms as primary access points.\n\n### The Risk or Debate\n\nShort claim windows and gamified reward structures can create pressure for users to act quickly, potentially leading to rushed decisions or missed opportunities. The randomized nature of rewards may also generate disappointment among users who receive lower-value cards or miss out on eligibility. Additionally, frequent reward campaigns could dilute the perceived value of future incentives or raise questions about long-term sustainability.\n\n### What To Watch\n\nThe immediate focus is on how many users claim the airdrop and participate in the TGC. Uptake rates and social sentiment will offer early signals about campaign effectiveness. It is also worth monitoring whether Jupiter introduces further reward rounds, adjusts eligibility criteria, or expands the range of incentivized trading products. User feedback on the claim process and reward distribution may influence future campaign design.",
+        "signal": "Seeker Season 1 airdrop has concluded with nearly 90% of SKR claimed, setting up future airdrops and expanding SKR’s utility across Solana Mobile.",
+        "story": "Seeker Season 1 has officially wrapped, with 89.7% of the SKR airdrop claimed by participants. Out of the total allocation, 200 million unclaimed SKR will be redirected to future airdrop pools, ensuring continued engagement and incentives for both current and new users. Over 90,000 holders now possess SKR, and 70% of circulating tokens are currently locked up, signaling strong early commitment from the community.\n\n### What's Happening\nSolana Mobile’s Seeker initiative is moving into its next phase after a high participation rate in its inaugural SKR airdrop. The majority of eligible users have claimed their tokens, and the remaining SKR will be used to fuel upcoming airdrop rounds. SKR is being positioned as a shared incentive layer across Solana Mobile, powering rewards, cashback, boosts, and loyalty programs within the ecosystem. Several decentralized apps have already integrated SKR natively, embedding it into their core mechanics and offering tangible benefits to Seeker users.\n\nThe Seeker ecosystem is also expanding into real-world experiences. Holders are being offered perks like drinks at Solana Stadium and invitations to events, with plans to integrate Seekers as point-of-sale devices at venues. The Dapp Store continues to grow, with new apps like Xona Agent launching, further increasing the utility and reach of SKR.\n\n### Why It Matters\nThe high claim rate and staking percentage suggest that Seeker Season 1 has successfully captured user attention and fostered early loyalty. Redirecting unclaimed SKR to future airdrops keeps the incentive structure dynamic, potentially attracting new participants and maintaining engagement over time. By embedding SKR into both digital and physical experiences, Solana Mobile is experimenting with a hybrid approach to ecosystem growth that could set a precedent for other projects.\n\nSKR’s integration into multiple dApps and real-world venues hints at a broader strategy: making SKR a foundational rewards and utility token within the Solana Mobile ecosystem. This could drive deeper user retention and create a network effect as more apps and venues adopt SKR for rewards and payments. The ongoing expansion of the Dapp Store and partnerships with projects like AlphaFC further reinforce this trajectory.\n\n### The Risk or Debate\nWhile early metrics are strong, the long-term sustainability of SKR’s utility remains to be proven. If future airdrops or integrations fail to deliver meaningful value, user engagement could taper off. There is also the risk that SKR’s use as a shared incentive layer may dilute its perceived value if not managed carefully across diverse applications. Additionally, real-world integrations, such as using Seekers as point-of-sale devices, introduce operational and adoption challenges that could slow momentum.\n\n### What To Watch\nThe next phase will hinge on how effectively Solana Mobile deploys the 200 million SKR reserved for future airdrops. Watch for announcements on new dApp integrations, real-world partnerships, and updates to the rewards structure. The adoption rate of SKR in both digital and physical settings will be a key indicator of the token’s staying power. Continued growth in the Dapp Store and further community engagement initiatives will signal whether SKR can maintain its current momentum.",
         "takeaways": [
-          "JupiterExchange is distributing over $200K in mystery airdrop rewards to eligible users.",
-          "A new two-week Trading Game Campaign offers $50K in rewards for PreStocks trading.",
-          "Both campaigns are time-limited, emphasizing quick participation and engagement."
+          "89.7% of Seeker Season 1 SKR airdrop was claimed, with 200M SKR reserved for future drops.",
+          "70% of circulating SKR is locked up, and over 90,000 users are holding the token.",
+          "SKR is being integrated into both digital dApps and real-world experiences, expanding its utility."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 3.8
+      "narrativeStrength": 5.6
     },
     {
-      "id": "story_1776349169735_2",
-      "title": "Raydium’s 2/3 Multisig Raises Security Questions",
-      "type": "alpha",
-      "category": "Ecosystem Updates",
-      "author": "@FabianoSolana",
-      "timestamp": "2026-04-16T14:19:29.735Z",
+      "id": "story_1777039719711_2",
+      "title": "XONA and SKR Expand Solana Mobile Utility",
+      "type": "live",
+      "category": "Alpha / Early Access",
+      "author": "@solanamobile",
+      "timestamp": "2026-04-24T14:08:39.711Z",
       "metrics": {
-        "tweets": 1,
-        "engagement": 248,
-        "topTweet": 248,
-        "voices": 1,
+        "tweets": 7,
+        "engagement": 687,
+        "topTweet": 130,
+        "voices": 3,
         "engagementTrend": [
-          99,
-          136,
-          169,
-          203,
-          248
+          275,
+          378,
+          467,
+          563,
+          687
         ]
       },
       "ctPulse": [
         {
-          "handle": "@FabianoSolana",
-          "thought": "Not trying to FUD but why does Raydium run a 2/3 multisig with such high TVL?\n\ncheck https://t.co/OOuOgisd01 by @Trader_CSK for details\n\ncc: @ben_ungvari @0xINFRA https://t.co/gf3tgvIwMB",
-          "url": "https://twitter.com/FabianoSolana/status/2043711348379648503"
+          "handle": "@solanamobile",
+          "thought": "RT @xona_agent: We’re excited to share that XONA is now available on @solanamobile   \n\nWhat started on web is now in your pocket. \n\nDownloa…",
+          "url": "https://twitter.com/solanamobile/status/2047374053208457585"
+        },
+        {
+          "handle": "@solanamobile",
+          "thought": "RT @solana_stream: Just use $SKR for your apps.\n\n$SKR is becoming the shared incentive layer across @solanamobile -  powering rewards, cash…",
+          "url": "https://twitter.com/solanamobile/status/2047357611469873314"
+        },
+        {
+          "handle": "@toly",
+          "thought": "RT @solana_stream: Just use $SKR for your apps.\n\n$SKR is becoming the shared incentive layer across @solanamobile -  powering rewards, cash…",
+          "url": "https://twitter.com/toly/status/2047615171619889276"
+        },
+        {
+          "handle": "@0x_diablo",
+          "thought": "RT @solana_stream: Just use $SKR for your apps.\n\n$SKR is becoming the shared incentive layer across @solanamobile -  powering rewards, cash…",
+          "url": "https://twitter.com/0x_diablo/status/2047339751028490579"
+        },
+        {
+          "handle": "@toly",
+          "thought": "Spend the skr tokens on sama tokens to build an app for @solanamobile to earn more skr. https://t.co/8iirSKxk4t",
+          "url": "https://twitter.com/toly/status/2047670883284914199"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@FabianoSolana",
-          "reason": "Flagged the multisig issue and drives discussion on Solana security.",
-          "role": "Community",
-          "engagement": 248
+          "handle": "@xona_agent",
+          "reason": "Leads XONA's development and mobile integration",
+          "role": "Builder",
+          "engagement": 314
         },
         {
-          "handle": "@Trader_CSK",
-          "reason": "Provides on-chain data and analysis relevant to Raydium’s setup.",
-          "role": "Analyst",
-          "engagement": 0
+          "handle": "@solanamobile",
+          "reason": "Drives Solana Mobile platform and ecosystem updates",
+          "role": "Builder",
+          "engagement": 189
         }
       ],
       "content": {
-        "signal": "Raydium, a major Solana DEX, manages large TVL with a 2/3 multisig, prompting renewed scrutiny over protocol security.",
-        "story": "A fresh wave of attention is hitting Raydium, one of Solana’s leading decentralized exchanges, after users highlighted its use of a 2/3 multisig to control protocol assets. With significant total value locked (TVL) on the platform, questions are surfacing about whether this security setup is robust enough for such a critical DeFi infrastructure.\n\n### What's Happening\n\nRaydium’s core contracts and treasury are reportedly governed by a 2/3 multisig wallet. This means that any two out of three designated signers can approve and execute transactions affecting protocol funds or upgrades. The issue was flagged publicly, sparking debate about whether this level of multisig security is appropriate for a platform of Raydium’s scale.\n\nThe discussion is not new in DeFi, but it’s gaining traction as Raydium’s TVL grows and as more users rely on its liquidity. References to on-chain data and dashboards, such as those shared by community members, are fueling the conversation and drawing in analysts and builders from across the Solana ecosystem.\n\n### Why It Matters\n\nMultisig wallets are a standard security measure in DeFi, but the number of signers and the threshold for approvals are critical details. A 2/3 setup can be efficient for operations, but it also means that a compromise of just two signers could put all protocol funds at risk. For a platform with high TVL, this risk profile stands out.\n\nThe debate reflects a broader tension in DeFi between operational agility and security. As protocols mature and attract more capital, the community expects stronger, more decentralized controls. How Raydium and similar projects address these concerns will influence user trust and the broader perception of Solana DeFi’s resilience.\n\n### The Risk or Debate\n\nThe core risk is that a 2/3 multisig may not provide enough protection against internal collusion or targeted attacks. With only three signers, the compromise or malicious action of two individuals could have catastrophic consequences. This setup also raises questions about transparency—users may not know who the signers are or how they are selected.\n\nSome argue that higher thresholds or more distributed multisig setups (such as 4/7 or larger councils) are warranted for protocols with substantial TVL. Others point out that increasing the number of signers can slow down governance and response times, which can be a trade-off in fast-moving markets.\n\n### What To Watch\n\nCommunity pressure could prompt Raydium to review and potentially upgrade its multisig structure. Look for official statements or proposals from the Raydium team addressing these concerns. The broader Solana DeFi ecosystem may also see renewed discussions about best practices for protocol security and governance.\n\nAny moves toward more decentralized or transparent multisig setups could set new standards for other projects. Users and analysts will be watching closely for changes in Raydium’s security model, as well as for any incidents that might validate or challenge the current debate.",
+        "signal": "XONA is now available on Solana Mobile, with SKR tokens powering new app incentives and payments.",
+        "story": "XONA, previously a web-based application, has launched on Solana Mobile, signaling a shift toward more native app experiences within the Solana ecosystem. Alongside this, the SKR token is emerging as a unified incentive and payment layer for Solana Mobile apps, supporting rewards and facilitating transactions. Users can now spend SKR or USDC directly through Solana Mobile to purchase items from platforms like eBay, broadening the practical use of Solana-based assets.\n\n### What's Happening\nXONA’s move from web to mobile brings its functionality directly into users’ pockets, reflecting a broader trend of decentralized apps seeking closer integration with hardware. SKR tokens are being positioned as the backbone for app incentives, rewards, and payments across Solana Mobile, with developers encouraged to leverage SKR to engage users. The ability to use SKR and USDC for real-world purchases, such as eBay listings, demonstrates a tangible bridge between crypto assets and everyday commerce.\n\n### Why It Matters\nThis development highlights Solana Mobile’s push to become more than just a hardware device—it’s aiming to be a platform where apps, tokens, and commerce intersect. The adoption of SKR as a shared incentive layer could streamline user engagement and create a more cohesive ecosystem for both developers and users. Integrating payment options like SKR and USDC for mainstream marketplaces expands the utility of Solana-native assets, potentially attracting a broader user base and encouraging further app development.\n\n### The Risk or Debate\nThe reliance on SKR as a central incentive and payment mechanism introduces questions about token stability, user adoption, and long-term sustainability. If SKR fails to gain traction among developers or users, the incentive model could struggle. There is also uncertainty around the regulatory landscape for crypto payments in consumer commerce, which could impact the growth of these integrations.\n\n### What To Watch\nUpcoming developments to monitor include the rate of adoption for SKR-powered apps on Solana Mobile and feedback from both users and developers. The effectiveness of SKR and USDC payments for real-world purchases, especially through large platforms like eBay, will be a key indicator of success. Further integrations or partnerships that expand the use cases for SKR within and beyond Solana Mobile could signal the next phase of ecosystem growth.",
         "takeaways": [
-          "Raydium controls protocol assets with a 2/3 multisig wallet.",
-          "Concerns are rising about whether this setup is secure enough for high TVL.",
-          "The debate highlights ongoing trade-offs between security and operational efficiency in DeFi."
+          "XONA is now accessible via Solana Mobile, moving from web to native mobile.",
+          "SKR tokens are being used as a shared incentive and payment layer for Solana Mobile apps.",
+          "Users can spend SKR or USDC to buy items from eBay directly through Solana Mobile."
         ]
       },
-      "riskLevel": "high",
-      "narrativeStrength": 3.6
+      "riskLevel": "medium",
+      "narrativeStrength": 4.7
     }
   ]
 }
