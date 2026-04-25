@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-04-24T19:51:13.974Z",
+    "generatedAt": "2026-04-25T08:04:13.597Z",
     "totalCandidates": 115,
-    "solanaCandidates": 19,
+    "solanaCandidates": 15,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cointelegraph.com/markets/solana-confirms-bullish-signal-last-sparked-100-sol-price-gains",
-      "title": "Solana confirms a bullish signal, which last sparked 100% SOL price gains",
-      "url": "https://cointelegraph.com/markets/solana-confirms-bullish-signal-last-sparked-100-sol-price-gains",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-24T16:22:59.000Z",
-      "summary": "A bullish signal from Solana’s MACD indicator hinted at a potential rally, though resistance at $90 could delay the recovery.",
+      "id": "https://solana.com/news/inside-tokens-xyz",
+      "title": "One Page Per Asset: Inside Tokens.xyz",
+      "url": "https://solana.com/news/inside-tokens-xyz",
+      "source": "Solana News",
+      "publishedAt": "2026-04-23T23:17:00.000Z",
+      "summary": "Tokens.xyz makes multiple onchain representations of the same underlying asset on Solana findable from a single page.",
       "tags": [
-        "solana",
-        "confirms",
-        "bullish"
+        "page",
+        "asset",
+        "inside"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,47 +31,14 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 9,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "34543e0d63300708cf28ded4ea66c34038f90b72",
-      "score": 23
-    },
-    {
-      "id": "https://ambcrypto.com/american-conference-institute-excited-to-announce-the-2nd-forum-on-payment-stablecoins-law-licensing-compliance",
-      "title": "American Conference Institute excited to announce the 2nd Forum on Payment Stablecoins: Law, Licensing & Compliance",
-      "url": "https://ambcrypto.com/american-conference-institute-excited-to-announce-the-2nd-forum-on-payment-stablecoins-law-licensing-compliance",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-24T13:45:16.000Z",
-      "summary": "GENIUS is now law. Regulators, banks, and partners expect your stablecoin program to be rock-solid on licensing, reserves, and AML. In July 2025, the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act became the first major U.S. crypto law, creating a federal framework fo",
-      "tags": [
-        "american",
-        "conference",
-        "institute"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "4c9e6445b4955e356eee3dc66630d4882fc6b1cc",
+      "dedupeFingerprint": "94ee09067e8cb70515e775759d75c5c19db37d7c",
       "score": 22
     },
     {
@@ -99,27 +66,60 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "58f6b74f8334ce1a9eb0da67d3c1d6b5e800344d",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://ambcrypto.com/seeker-rallies-35-78-amid-heavy-short-bias-whats-next-for-skr",
-      "title": "Seeker rallies 35.78% amid heavy short bias: What’s next for SKR?",
-      "url": "https://ambcrypto.com/seeker-rallies-35-78-amid-heavy-short-bias-whats-next-for-skr",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-24T18:00:15.000Z",
-      "summary": "SKR rally strengthened as volume surged while rising shorts increased squeeze potential.",
+      "id": "https://decrypt.co/365443/morgan-stanley-blackrock-competition-money-market-fund-stablecoin-issuers",
+      "title": "Morgan Stanley Targets BlackRock With Money Market Fund for Stablecoin Issuers",
+      "url": "https://decrypt.co/365443/morgan-stanley-blackrock-competition-money-market-fund-stablecoin-issuers",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-24T16:20:16.000Z",
+      "summary": "Morgan Stanley debuted a money market fund intended for stablecoin issuers, billing the product as a way for companies to manage reserves.",
       "tags": [
-        "seeker",
-        "rallies",
-        "amid"
+        "morgan",
+        "stanley",
+        "targets"
       ],
-      "topicBucket": "consumer",
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "7a6962b469f55078650ba86fbd31e0091ee3aa16",
+      "score": 20
+    },
+    {
+      "id": "https://ambcrypto.com/solanas-next-move-may-already-be-in-motion-big-money-is-piling-in",
+      "title": "Solana’s next move may already be in motion – Big money is piling in!",
+      "url": "https://ambcrypto.com/solanas-next-move-may-already-be-in-motion-big-money-is-piling-in",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-25T07:30:36.000Z",
+      "summary": "$35M weekly inflows and whale-heavy Futures further prove the point.",
+      "tags": [
+        "solana",
+        "next",
+        "move"
+      ],
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -137,7 +137,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "30e4534c5bd108e9d70e3cf2536e45c3b44a34cf",
+      "dedupeFingerprint": "7887cc6a22eaccb45688bd39dd8be332a61910cb",
       "score": 16
     },
     {
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "ff19992f0cdc824110a18ac726efe908b508b0a1",
-      "score": 15
+      "score": 14
     }
   ]
 }
