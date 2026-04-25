@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-04-25T08:04:13.597Z",
-    "totalCandidates": 115,
+    "generatedAt": "2026-04-25T19:42:03.034Z",
+    "totalCandidates": 114,
     "solanaCandidates": 15,
     "selected": 5,
     "tweetPool": 0,
@@ -9,16 +9,82 @@
   },
   "items": [
     {
-      "id": "https://solana.com/news/inside-tokens-xyz",
-      "title": "One Page Per Asset: Inside Tokens.xyz",
-      "url": "https://solana.com/news/inside-tokens-xyz",
-      "source": "Solana News",
-      "publishedAt": "2026-04-23T23:17:00.000Z",
-      "summary": "Tokens.xyz makes multiple onchain representations of the same underlying asset on Solana findable from a single page.",
+      "id": "https://cryptoslate.com/the-worlds-central-banks-are-now-treating-stablecoins-like-a-real-monetary-threat",
+      "title": "The world’s central banks are now treating stablecoins like a real multi-trillion dollar monetary threat",
+      "url": "https://cryptoslate.com/the-worlds-central-banks-are-now-treating-stablecoins-like-a-real-monetary-threat",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-25T15:20:31.000Z",
+      "summary": "The world's central banks stopped arguing about whether stablecoins are risky long ago. Their main concern now is about who will control them and how. On April 20, BIS General Manager Pablo Hernandez de Cos called for global cooperation on stablecoins, describing it as “critically important.” The Ba",
       "tags": [
-        "page",
-        "asset",
-        "inside"
+        "world",
+        "central",
+        "banks"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3b7e0b86a97a86992cb9194481ce14c4403a0bdd",
+      "score": 20
+    },
+    {
+      "id": "https://cryptoslate.com/trillions-of-dollars-in-crypto-liquidity-is-concentrating-inside-the-venues-us-regulators-fear-most",
+      "title": "Trillions of dollars in crypto liquidity is concentrating inside the venues US regulators fear most",
+      "url": "https://cryptoslate.com/trillions-of-dollars-in-crypto-liquidity-is-concentrating-inside-the-venues-us-regulators-fear-most",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-25T13:03:52.000Z",
+      "summary": "Crypto market liquidity is increasingly hyper-concentrating within a handful of massive trading venues, creating a market structure that global central bank researchers warn is evolving into a heavily leveraged “shadow crypto financial system.” Data from CryptoQuant shows that Binance, the world’s l",
+      "tags": [
+        "trillions",
+        "dollars",
+        "crypto"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "249ea1e0ac2807c0ad8810e196756a54dd1f335a",
+      "score": 20
+    },
+    {
+      "id": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+      "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
+      "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-25T10:00:00.000Z",
+      "summary": "Can a network without formal governance coordinate the biggest cryptographic migration in its history?",
+      "tags": [
+        "clock",
+        "ticking",
+        "bitcoin"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,15 +97,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 9,
+        "relevanceScore": -3,
         "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 5,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "94ee09067e8cb70515e775759d75c5c19db37d7c",
-      "score": 22
+      "dedupeFingerprint": "6d78ca3a503d63f104b28351ae007f20c9c59c58",
+      "score": 1
+    },
+    {
+      "id": "https://ambcrypto.com/zondacrypto-ceo-flees-to-israel-as-4-5k-btc-goes-missing-board-responds",
+      "title": "Zondacrypto CEO flees to Israel as 4.5K BTC goes missing – Board responds",
+      "url": "https://ambcrypto.com/zondacrypto-ceo-flees-to-israel-as-4-5k-btc-goes-missing-board-responds",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-25T07:15:40.000Z",
+      "summary": "The Zondacrypto saga has escalated from a governance failure into a political issue.",
+      "tags": [
+        "zondacrypto",
+        "flees",
+        "israel"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 0,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c0efe201fcf85070197758b19cf0011113353e65",
+      "score": 0
     },
     {
       "id": "https://www.theblock.co/post/398784/morgan-stanley-launches-stablecoin-reserves-fund-aligned-with-genius-act-requirements",
@@ -66,112 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "58f6b74f8334ce1a9eb0da67d3c1d6b5e800344d",
-      "score": 21
-    },
-    {
-      "id": "https://decrypt.co/365443/morgan-stanley-blackrock-competition-money-market-fund-stablecoin-issuers",
-      "title": "Morgan Stanley Targets BlackRock With Money Market Fund for Stablecoin Issuers",
-      "url": "https://decrypt.co/365443/morgan-stanley-blackrock-competition-money-market-fund-stablecoin-issuers",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-24T16:20:16.000Z",
-      "summary": "Morgan Stanley debuted a money market fund intended for stablecoin issuers, billing the product as a way for companies to manage reserves.",
-      "tags": [
-        "morgan",
-        "stanley",
-        "targets"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "7a6962b469f55078650ba86fbd31e0091ee3aa16",
       "score": 20
-    },
-    {
-      "id": "https://ambcrypto.com/solanas-next-move-may-already-be-in-motion-big-money-is-piling-in",
-      "title": "Solana’s next move may already be in motion – Big money is piling in!",
-      "url": "https://ambcrypto.com/solanas-next-move-may-already-be-in-motion-big-money-is-piling-in",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-25T07:30:36.000Z",
-      "summary": "$35M weekly inflows and whale-heavy Futures further prove the point.",
-      "tags": [
-        "solana",
-        "next",
-        "move"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "7887cc6a22eaccb45688bd39dd8be332a61910cb",
-      "score": 16
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/04/22/inside-the-usd71-million-freeze-on-arbitrum-that-has-the-crypto-world-questioning-what-decentralization-really-means",
-      "title": "Inside the $71 million freeze on Arbitrum that has the crypto world questioning what decentralization really means",
-      "url": "https://www.coindesk.com/tech/2026/04/22/inside-the-usd71-million-freeze-on-arbitrum-that-has-the-crypto-world-questioning-what-decentralization-really-means",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-23T18:35:32.000Z",
-      "summary": "The emergency response prevented stolen funds from moving, but sparked debate over governance, control and the limits of decentralization on Layer 2s.",
-      "tags": [
-        "inside",
-        "million",
-        "freeze"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ff19992f0cdc824110a18ac726efe908b508b0a1",
-      "score": 14
     }
   ]
 }
