@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-04-26T08:14:50.092Z",
-    "totalCandidates": 114,
-    "solanaCandidates": 13,
+    "generatedAt": "2026-04-26T19:44:03.858Z",
+    "totalCandidates": 111,
+    "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://cryptoslate.com/doordash-is-turning-stablecoins-into-its-core-labor-infrastructure-across-40-countries",
+      "title": "DoorDash is turning stablecoins into its core labor infrastructure across 40+ countries",
+      "url": "https://cryptoslate.com/doordash-is-turning-stablecoins-into-its-core-labor-infrastructure-across-40-countries",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-26T13:15:36.000Z",
+      "summary": "DoorDash is working with Stripe-backed Tempo to bring stablecoin-powered payouts into its marketplace. The company operates across more than 40 countries, and the money inside that marketplace moves in several directions at once, with customers paying at checkout, merchants waiting for settlement, a",
+      "tags": [
+        "doordash",
+        "turning",
+        "stablecoins"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ccc38f0b6f100caa6477810806b2d46cdc0e6946",
+      "score": 20
+    },
     {
       "id": "https://cryptoslate.com/the-worlds-central-banks-are-now-treating-stablecoins-like-a-real-monetary-threat",
       "title": "The world’s central banks are now treating stablecoins like a real multi-trillion dollar monetary threat",
@@ -33,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "3b7e0b86a97a86992cb9194481ce14c4403a0bdd",
-      "score": 19
+      "score": 18
     },
     {
       "id": "https://cryptoslate.com/trillions-of-dollars-in-crypto-liquidity-is-concentrating-inside-the-venues-us-regulators-fear-most",
@@ -66,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "249ea1e0ac2807c0ad8810e196756a54dd1f335a",
-      "score": 19
+      "score": 18
     },
     {
       "id": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
@@ -99,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": -3,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "6d78ca3a503d63f104b28351ae007f20c9c59c58",
-      "score": 0
+      "score": -1
     },
     {
-      "id": "https://ambcrypto.com/ethereum-foundations-latest-10k-eth-sale-is-this-the-most-strategic-long-term-setup-for-ethereum",
-      "title": "Ethereum Foundation’s latest 10K ETH sale – Is this the most strategic ‘long-term’ setup for Ethereum?",
-      "url": "https://ambcrypto.com/ethereum-foundations-latest-10k-eth-sale-is-this-the-most-strategic-long-term-setup-for-ethereum",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-26T04:00:22.000Z",
-      "summary": "OTC flow between development funding and institutional staking signals a structural shift in Ethereum supply dynamics.",
+      "id": "https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone",
+      "title": "Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-26T11:55:32.000Z",
+      "summary": "The Ethereum Foundation unstaked over 17,000 ETH worth $40M shortly after approaching its 70,000 ETH staking target.",
       "tags": [
         "ethereum",
         "foundation",
-        "latest"
+        "unstakes"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "general",
       "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -133,45 +166,12 @@
         "relevanceScore": -3,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "4e24b5390bda2fb3d372b97fb699a42065dec648",
-      "score": -2
-    },
-    {
-      "id": "https://www.theblock.co/post/398784/morgan-stanley-launches-stablecoin-reserves-fund-aligned-with-genius-act-requirements",
-      "title": "Morgan Stanley launches stablecoin reserves fund aligned with GENIUS Act requirements",
-      "url": "https://www.theblock.co/post/398784/morgan-stanley-launches-stablecoin-reserves-fund-aligned-with-genius-act-requirements",
-      "source": "The Block",
-      "publishedAt": "2026-04-24T12:24:54.000Z",
-      "summary": "Morgan Stanley launched a government money market fund for stablecoin issuers to hold reserves in line with GENIUS Act requirements.",
-      "tags": [
-        "morgan",
-        "stanley",
-        "launches"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "58f6b74f8334ce1a9eb0da67d3c1d6b5e800344d",
-      "score": 19
+      "dedupeFingerprint": "b5833881454e7c038618aaaba36ddc03156abd14",
+      "score": -3
     }
   ]
 }
