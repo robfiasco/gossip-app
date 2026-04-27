@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-04-26T19:44:03.858Z",
-    "totalCandidates": 111,
+    "generatedAt": "2026-04-27T09:16:48.407Z",
+    "totalCandidates": 104,
     "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
@@ -9,16 +9,16 @@
   },
   "items": [
     {
-      "id": "https://cryptoslate.com/doordash-is-turning-stablecoins-into-its-core-labor-infrastructure-across-40-countries",
-      "title": "DoorDash is turning stablecoins into its core labor infrastructure across 40+ countries",
-      "url": "https://cryptoslate.com/doordash-is-turning-stablecoins-into-its-core-labor-infrastructure-across-40-countries",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-26T13:15:36.000Z",
-      "summary": "DoorDash is working with Stripe-backed Tempo to bring stablecoin-powered payouts into its marketplace. The company operates across more than 40 countries, and the money inside that marketplace moves in several directions at once, with customers paying at checkout, merchants waiting for settlement, a",
+      "id": "https://www.theblock.co/post/398905/western-union-stablecoin-next-month",
+      "title": "Western Union to launch stablecoin next month, with ‘Stable Card’ planned for global consumers",
+      "url": "https://www.theblock.co/post/398905/western-union-stablecoin-next-month",
+      "source": "The Block",
+      "publishedAt": "2026-04-27T03:29:58.000Z",
+      "summary": "WU is also launching a network connecting digital wallets to its existing retail infrastructure, and a stablecoin card for payments.",
       "tags": [
-        "doordash",
-        "turning",
-        "stablecoins"
+        "western",
+        "union",
+        "launch"
       ],
       "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -34,26 +34,92 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "9554f4b25e0e3997d32fe9a18f3069f34e91c92e",
+      "score": 22
+    },
+    {
+      "id": "https://cryptoslate.com/doordash-is-turning-stablecoins-into-its-core-labor-infrastructure-across-40-countries",
+      "title": "Major global food delivery service builds stablecoins into core infrastructure across 40+ countries",
+      "url": "https://cryptoslate.com/doordash-is-turning-stablecoins-into-its-core-labor-infrastructure-across-40-countries",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-26T13:25:36.000Z",
+      "summary": "DoorDash is working with Stripe-backed Tempo to bring stablecoin-powered payouts into its marketplace. The company operates across more than 40 countries, and the money inside that marketplace moves in several directions at once, with customers paying at checkout, merchants waiting for settlement, a",
+      "tags": [
+        "major",
+        "global",
+        "food"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "ccc38f0b6f100caa6477810806b2d46cdc0e6946",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "https://cryptoslate.com/the-worlds-central-banks-are-now-treating-stablecoins-like-a-real-monetary-threat",
-      "title": "The world’s central banks are now treating stablecoins like a real multi-trillion dollar monetary threat",
-      "url": "https://cryptoslate.com/the-worlds-central-banks-are-now-treating-stablecoins-like-a-real-monetary-threat",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-25T15:20:31.000Z",
-      "summary": "The world's central banks stopped arguing about whether stablecoins are risky long ago. Their main concern now is about who will control them and how. On April 20, BIS General Manager Pablo Hernandez de Cos called for global cooperation on stablecoins, describing it as “critically important.” The Ba",
+      "id": "https://ambcrypto.com/hyperliquid-perps-volume-hits-10-month-low-caution-ahead-for-hype",
+      "title": "Hyperliquid perps volume hits 10-month low: Caution ahead for HYPE?",
+      "url": "https://ambcrypto.com/hyperliquid-perps-volume-hits-10-month-low-caution-ahead-for-hype",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-27T07:00:54.000Z",
+      "summary": "Hyperliquid’s $3.8 billion volume decline drives market slowdown, yet rising Open Interest signals cautious trader engagement.",
       "tags": [
-        "world",
-        "central",
-        "banks"
+        "hyperliquid",
+        "perps",
+        "volume"
       ],
       "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b245f45b30d35fb4a0c40f0d967692ccbc66be59",
+      "score": 16
+    },
+    {
+      "id": "https://ambcrypto.com/etfs-weekly-recap-how-did-bitcoin-ethereum-solana-and-xrp-do-this-week",
+      "title": "ETFs weekly recap – How did Bitcoin, Ethereum, Solana and XRP do this week?",
+      "url": "https://ambcrypto.com/etfs-weekly-recap-how-did-bitcoin-ethereum-solana-and-xrp-do-this-week",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-27T02:00:54.000Z",
+      "summary": "What were the weekly flow trends of various ETFs?",
+      "tags": [
+        "etfs",
+        "weekly",
+        "recap"
+      ],
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -64,63 +130,30 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 2,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3b7e0b86a97a86992cb9194481ce14c4403a0bdd",
-      "score": 18
+      "dedupeFingerprint": "f7b21c77ab0f3bff31b3cd8a22dc2636b0c1014d",
+      "score": 16
     },
     {
-      "id": "https://cryptoslate.com/trillions-of-dollars-in-crypto-liquidity-is-concentrating-inside-the-venues-us-regulators-fear-most",
-      "title": "Trillions of dollars in crypto liquidity is concentrating inside the venues US regulators fear most",
-      "url": "https://cryptoslate.com/trillions-of-dollars-in-crypto-liquidity-is-concentrating-inside-the-venues-us-regulators-fear-most",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-25T13:03:52.000Z",
-      "summary": "Crypto market liquidity is increasingly hyper-concentrating within a handful of massive trading venues, creating a market structure that global central bank researchers warn is evolving into a heavily leveraged “shadow crypto financial system.” Data from CryptoQuant shows that Binance, the world’s l",
-      "tags": [
-        "trillions",
-        "dollars",
-        "crypto"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "249ea1e0ac2807c0ad8810e196756a54dd1f335a",
-      "score": 18
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
-      "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
-      "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+      "id": "https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus",
+      "title": "Why DeFi isn't dead despite massive exploits and $13 billion investor exodus",
+      "url": "https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus",
       "source": "CoinDesk",
-      "publishedAt": "2026-04-25T10:00:00.000Z",
-      "summary": "Can a network without formal governance coordinate the biggest cryptographic migration in its history?",
+      "publishedAt": "2026-04-26T16:00:00.000Z",
+      "summary": "A $292 million exploit and $13 billion TVL drop looks catastrophic on the surface, but the data tells a different story.",
       "tags": [
-        "clock",
-        "ticking",
-        "bitcoin"
+        "defi",
+        "dead",
+        "despite"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -130,48 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": -3,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "6d78ca3a503d63f104b28351ae007f20c9c59c58",
-      "score": -1
-    },
-    {
-      "id": "https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone",
-      "title": "Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-26T11:55:32.000Z",
-      "summary": "The Ethereum Foundation unstaked over 17,000 ETH worth $40M shortly after approaching its 70,000 ETH staking target.",
-      "tags": [
-        "ethereum",
-        "foundation",
-        "unstakes"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "b5833881454e7c038618aaaba36ddc03156abd14",
-      "score": -3
+      "dedupeFingerprint": "813e14505c4f9c0091baa4e96e6b911a2592c282",
+      "score": 16
     }
   ]
 }
