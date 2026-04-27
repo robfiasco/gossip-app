@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-04-27T09:16:48.407Z",
-    "totalCandidates": 104,
-    "solanaCandidates": 14,
+    "generatedAt": "2026-04-27T20:06:53.504Z",
+    "totalCandidates": 107,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/398905/western-union-stablecoin-next-month",
-      "title": "Western Union to launch stablecoin next month, with ‘Stable Card’ planned for global consumers",
-      "url": "https://www.theblock.co/post/398905/western-union-stablecoin-next-month",
-      "source": "The Block",
-      "publishedAt": "2026-04-27T03:29:58.000Z",
-      "summary": "WU is also launching a network connecting digital wallets to its existing retail infrastructure, and a stablecoin card for payments.",
+      "id": "https://solana.com/news/quantum-readiness",
+      "title": "Solana’s Quantum Readiness",
+      "url": "https://solana.com/news/quantum-readiness",
+      "source": "Solana News",
+      "publishedAt": "2026-04-27T13:50:00.000Z",
+      "summary": "Where Solana’s quantum readiness stands and the path forward, with independent research from Firedancer and Anza",
       "tags": [
-        "western",
-        "union",
-        "launch"
+        "solana",
+        "quantum",
+        "readiness"
       ],
       "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,29 +31,62 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 17,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e6f542af1e637d38981de329a90012d8f4c5b9f2",
+      "score": 32
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk",
+      "title": "Pudgy Penguins rally coincides with token unlock as analyst flags exit liquidity risk",
+      "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-27T12:11:23.000Z",
+      "summary": "DNTV Research's Bradley Park says bullish ecosystem news gave large holders the liquidity they needed to sell into a recent PENGU unlock.",
+      "tags": [
+        "pudgy",
+        "penguins",
+        "rally"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9554f4b25e0e3997d32fe9a18f3069f34e91c92e",
-      "score": 22
+      "dedupeFingerprint": "fe2141d8be9d0ae8d9b35c739601d3e282ddf01f",
+      "score": 30
     },
     {
-      "id": "https://cryptoslate.com/doordash-is-turning-stablecoins-into-its-core-labor-infrastructure-across-40-countries",
-      "title": "Major global food delivery service builds stablecoins into core infrastructure across 40+ countries",
-      "url": "https://cryptoslate.com/doordash-is-turning-stablecoins-into-its-core-labor-infrastructure-across-40-countries",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-26T13:25:36.000Z",
-      "summary": "DoorDash is working with Stripe-backed Tempo to bring stablecoin-powered payouts into its marketplace. The company operates across more than 40 countries, and the money inside that marketplace moves in several directions at once, with customers paying at checkout, merchants waiting for settlement, a",
+      "id": "https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month",
+      "title": "Western Union to Launch Solana-Based Stablecoin Plus ‘Stable Card’ Next Month",
+      "url": "https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-27T10:02:52.000Z",
+      "summary": "The USDPT stablecoin launching next month will serve as an alternative to SWIFT for agent settlements rather than consumer transactions.",
       "tags": [
-        "major",
-        "global",
-        "food"
+        "western",
+        "union",
+        "launch"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -64,60 +97,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ccc38f0b6f100caa6477810806b2d46cdc0e6946",
-      "score": 19
-    },
-    {
-      "id": "https://ambcrypto.com/hyperliquid-perps-volume-hits-10-month-low-caution-ahead-for-hype",
-      "title": "Hyperliquid perps volume hits 10-month low: Caution ahead for HYPE?",
-      "url": "https://ambcrypto.com/hyperliquid-perps-volume-hits-10-month-low-caution-ahead-for-hype",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-27T07:00:54.000Z",
-      "summary": "Hyperliquid’s $3.8 billion volume decline drives market slowdown, yet rising Open Interest signals cautious trader engagement.",
-      "tags": [
-        "hyperliquid",
-        "perps",
-        "volume"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b245f45b30d35fb4a0c40f0d967692ccbc66be59",
-      "score": 16
+      "dedupeFingerprint": "c9df9a33e76feff5d5a2cd54df609d934ee7a9e8",
+      "score": 26
     },
     {
-      "id": "https://ambcrypto.com/etfs-weekly-recap-how-did-bitcoin-ethereum-solana-and-xrp-do-this-week",
-      "title": "ETFs weekly recap – How did Bitcoin, Ethereum, Solana and XRP do this week?",
-      "url": "https://ambcrypto.com/etfs-weekly-recap-how-did-bitcoin-ethereum-solana-and-xrp-do-this-week",
+      "id": "https://ambcrypto.com/solana-whale-dumps-26-1m-in-sol-is-78-50-about-to-break",
+      "title": "Solana whale dumps $26.1M in SOL – Is $78.50 about to break?",
+      "url": "https://ambcrypto.com/solana-whale-dumps-26-1m-in-sol-is-78-50-about-to-break",
       "source": "AMB Crypto",
-      "publishedAt": "2026-04-27T02:00:54.000Z",
-      "summary": "What were the weekly flow trends of various ETFs?",
+      "publishedAt": "2026-04-27T17:00:39.000Z",
+      "summary": "Rising inflows and whale activity keep Solana locked within a defined range structure.",
       "tags": [
-        "etfs",
-        "weekly",
-        "recap"
+        "solana",
+        "whale",
+        "dumps"
       ],
       "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,30 +130,30 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "f7b21c77ab0f3bff31b3cd8a22dc2636b0c1014d",
-      "score": 16
+      "dedupeFingerprint": "a8bc75202c0a8d731c567ed516ea504000bdd431",
+      "score": 24
     },
     {
-      "id": "https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus",
-      "title": "Why DeFi isn't dead despite massive exploits and $13 billion investor exodus",
-      "url": "https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-26T16:00:00.000Z",
-      "summary": "A $292 million exploit and $13 billion TVL drop looks catastrophic on the surface, but the data tells a different story.",
+      "id": "https://ambcrypto.com/solana-outlines-quantum-proof-roadmap-as-crypto-shifts-from-theory-to-preparation",
+      "title": "Solana outlines quantum-proof roadmap as crypto shifts from theory to preparation",
+      "url": "https://ambcrypto.com/solana-outlines-quantum-proof-roadmap-as-crypto-shifts-from-theory-to-preparation",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-27T18:00:02.000Z",
+      "summary": "Solana's new proposal details how the network could transition to quantum-resistant cryptography as industry focus shifts to preparation.",
       "tags": [
-        "defi",
-        "dead",
-        "despite"
+        "solana",
+        "outlines",
+        "quantum"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "813e14505c4f9c0091baa4e96e6b911a2592c282",
-      "score": 16
+      "dedupeFingerprint": "02871fe63b72878b606f3e5860aba0b572750194",
+      "score": 22
     }
   ]
 }

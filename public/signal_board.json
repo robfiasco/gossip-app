@@ -1,26 +1,26 @@
 {
   "date": "2026-04-27",
-  "generated_at_utc": "2026-04-27T09:16:57.591Z",
-  "ctxMarket": "Attention this week centered on ETF flow trends for major assets, including Solana. Technical indicators for SOL have drawn interest, while infrastructure updates are spotlighting new user tools.",
-  "ctxTalking": "• ETF weekly flows and how Solana compared to Bitcoin, Ethereum, and XRP\n• Solana’s MACD indicator flashing a bullish signal, with resistance noted at $90\n• New tools like Tokens.xyz and collaborations enabling fiat-to-stablecoin payroll on Solana",
-  "ctxMatters": "ETF flows can influence institutional sentiment toward Solana. Technical signals are shaping short-term expectations for SOL price action. Expanded onchain tools and fiat integration may drive broader adoption and utility for Solana users and developers.",
-  "ctxSignal": "Signal: ETF trends and new infrastructure for asset discovery and payroll settlement on Solana.\nNoise: Speculation around short-term price moves based on single technical indicators.",
-  "ctxGlossary": "MACD — A technical indicator used to spot momentum shifts in asset prices\nETF — Exchange-traded fund, a vehicle for gaining exposure to assets like SOL via traditional markets",
+  "generated_at_utc": "2026-04-27T20:07:02.535Z",
+  "ctxMarket": "Attention is concentrated on Solana’s quantum-resistant roadmap and the recent integration of major DeFi protocols following a large exploit elsewhere. Whale activity and inflows are keeping SOL price within a defined range, but no clear breakout is indicated.",
+  "ctxTalking": "• Solana’s detailed plan for transitioning to quantum-resistant cryptography, with consensus around Falcon digital signatures.\n• Aave’s move to Solana after a major DeFi exploit, expanding lending protocol access for Solana users.\n• Western Union’s upcoming Solana-based stablecoin for agent settlements.",
+  "ctxMatters": "Solana’s quantum-proofing efforts signal long-term network security planning as industry concerns shift from theory to practical readiness.  \nAave’s integration could reshape liquidity and usage patterns on Solana, especially after recent DeFi vulnerabilities.  \nWestern Union’s stablecoin launch highlights growing institutional interest in Solana’s infrastructure.",
+  "ctxSignal": "Signal: Coordinated quantum-resistance planning and major DeFi integrations show active network evolution.\nNoise: Short-term speculation around whale movements lacks broader context.",
+  "ctxGlossary": "Falcon — A quantum-resistant digital signature scheme.\nTVL (Total Value Locked) — The total value of assets deposited in a DeFi protocol.",
   "readMore": [
     {
-      "title": "ETFs weekly recap – How did Bitcoin, Ethereum, Solana and XRP do this week?",
+      "title": "Solana outlines quantum-proof roadmap as crypto shifts from theory to preparation",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/etfs-weekly-recap-how-did-bitcoin-ethereum-solana-and-xrp-do-this-week"
+      "url": "https://ambcrypto.com/solana-outlines-quantum-proof-roadmap-as-crypto-shifts-from-theory-to-preparation"
     },
     {
-      "title": "Solana confirms a bullish signal, which last sparked 100% SOL price gains",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/solana-confirms-bullish-signal-last-sparked-100-sol-price-gains"
+      "title": "Solana developers outline plan to protect network from quantum threats",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats"
     },
     {
-      "title": "One Page Per Asset",
-      "source": "Solana News",
-      "url": "https://solana.com/news/inside-tokens-xyz"
+      "title": "Latest $290M exploit hit DeFi so hard it forced Aave onto Solana as part of rescue efforts",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/latest-290m-exploit-hit-defi-so-hard-it-forced-aave-onto-solana-as-part-of-rescue-efforts"
     }
   ]
 }
