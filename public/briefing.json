@@ -4,22 +4,22 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "INFRA",
-      "title": "Solana clients Anza and Firedancer introduce post-quantum solution Falcon",
-      "category": "INFRA",
-      "source": "Cointelegraph",
+      "type": "MARKET",
+      "title": "A digital shekel is here: Israel approves its first regulated stablecoin",
+      "category": "MARKET",
+      "source": "CoinDesk",
       "date": "2026-04-28",
-      "url": "https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients",
-      "whyYouShouldCare": "The introduction of the Falcon post-quantum solution enhances Solana's security infrastructure, positioning it as a forward-thinking platform in the face of evolving technological threats."
+      "url": "https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin",
+      "whyYouShouldCare": "Israel's approval of a regulated stablecoin could enhance the legitimacy of digital currencies and influence the regulatory landscape for Solana's ecosystem."
     },
     {
-      "type": "INFRA",
-      "title": "Solana’s Quantum Readiness",
-      "category": "INFRA",
-      "source": "Solana News",
-      "date": "2026-04-27",
-      "url": "https://solana.com/news/quantum-readiness",
-      "whyYouShouldCare": "Solana's focus on quantum readiness demonstrates its commitment to maintaining competitive security standards, which could attract more developers and projects to its ecosystem."
+      "type": "APPS",
+      "title": "World Cup fever: Chiliz expands to Solana and Base to supercharge fan token trading",
+      "category": "APPS",
+      "source": "CoinDesk",
+      "date": "2026-04-28",
+      "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
+      "whyYouShouldCare": "Chiliz's expansion to Solana boosts fan token trading, potentially increasing user engagement and liquidity within the Solana ecosystem."
     },
     {
       "type": "RISK",
@@ -28,7 +28,7 @@
       "source": "CryptoSlate",
       "date": "2026-04-27",
       "url": "https://cryptoslate.com/latest-290m-exploit-hit-defi-so-hard-it-forced-aave-onto-solana-as-part-of-rescue-efforts",
-      "whyYouShouldCare": "Aave's migration to Solana following a significant DeFi exploit highlights Solana's growing appeal as a resilient alternative for decentralized finance operations."
+      "whyYouShouldCare": "Aave's integration into Solana following a significant exploit highlights Solana's resilience and may attract more DeFi projects seeking security and stability."
     }
   ]
 }

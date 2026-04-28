@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-04-28T09:18:59.162Z",
-    "totalCandidates": 109,
-    "solanaCandidates": 22,
+    "generatedAt": "2026-04-28T20:13:55.564Z",
+    "totalCandidates": 113,
+    "solanaCandidates": 27,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://solana.com/news/quantum-readiness",
-      "title": "Solana’s Quantum Readiness",
-      "url": "https://solana.com/news/quantum-readiness",
-      "source": "Solana News",
-      "publishedAt": "2026-04-27T13:50:00.000Z",
-      "summary": "Where Solana’s quantum readiness stands and the path forward, with independent research from Firedancer and Anza",
+      "id": "https://www.theblock.co/post/399135/us-sec-seeks-comment-on-nyse-arca-proposal-for-85-eligible-asset-rule-in-crypto-etf-listings",
+      "title": "US SEC seeks comment on NYSE Arca proposal for 85% eligible-asset rule in crypto ETF listings",
+      "url": "https://www.theblock.co/post/399135/us-sec-seeks-comment-on-nyse-arca-proposal-for-85-eligible-asset-rule-in-crypto-etf-listings",
+      "source": "The Block",
+      "publishedAt": "2026-04-28T12:10:38.000Z",
+      "summary": "The SEC is seeking public comment on an NYSE Arca proposal requiring 85% of a commodity-based crypto trust’s assets to meet existing listing rules.",
       "tags": [
-        "solana",
-        "quantum",
-        "readiness"
+        "seeks",
+        "comment",
+        "nyse"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,126 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 17,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 5,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e6f542af1e637d38981de329a90012d8f4c5b9f2",
-      "score": 31
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk",
-      "title": "Pudgy Penguins rally coincides with token unlock as analyst flags exit liquidity risk",
-      "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-27T12:11:23.000Z",
-      "summary": "DNTV Research's Bradley Park says bullish ecosystem news gave large holders the liquidity they needed to sell into a recent PENGU unlock.",
-      "tags": [
-        "pudgy",
-        "penguins",
-        "rally"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "fe2141d8be9d0ae8d9b35c739601d3e282ddf01f",
-      "score": 29
-    },
-    {
-      "id": "https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients",
-      "title": "Solana clients Anza and Firedancer introduce post-quantum solution Falcon",
-      "url": "https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-28T05:24:26.000Z",
-      "summary": "Jump Crypto, the team behind Firedancer, said Falcon has the smallest signature among NIST standards, which could help preserve Solana’s high-throughput capabilities.",
-      "tags": [
-        "solana",
-        "clients",
-        "anza"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "7798ecaab038f2dfc19269b7731f1c6b03856418",
-      "score": 26
-    },
-    {
-      "id": "https://ambcrypto.com/3-4b-flows-into-stablecoins-in-april-why-are-traders-still-holding-back",
-      "title": "$3.4B flows into stablecoins in April – Why are traders still holding back?",
-      "url": "https://ambcrypto.com/3-4b-flows-into-stablecoins-in-april-why-are-traders-still-holding-back",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-27T22:00:41.000Z",
-      "summary": "Rising stablecoin reserves signal readiness, yet markets await real demand as liquidity remains parked amid uncertainty and weak participation.",
-      "tags": [
-        "flows",
-        "into",
-        "stablecoins"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "78e8723b1218250865c7357e3e53987455a964c8",
+      "dedupeFingerprint": "8d069e87f8c48bf071e12040058415017ea31da5",
       "score": 22
     },
     {
-      "id": "https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils",
-      "title": "Israeli regulators approve shekel-pegged stablecoin",
-      "url": "https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-27T22:40:45.000Z",
-      "summary": "The approval of the BILS stablecoin issued by Israeli exchange Bits of Gold came after a two-year pilot program on the Solana blockchain.",
+      "id": "https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin",
+      "title": "A digital shekel is here: Israel approves its first regulated stablecoin",
+      "url": "https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-28T10:39:57.000Z",
+      "summary": "BILS was developed in collaboration with the Solana network and crypto custodian heavyweights Fireblocks with auditing oversight provided by Big Four consultancy firm EY.",
       "tags": [
-        "israeli",
-        "regulators",
-        "approve"
+        "digital",
+        "shekel",
+        "here"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +64,114 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5a2fc6d42457996daeed0fa23f8063a3fc249b7b",
-      "score": 21
+      "dedupeFingerprint": "67bc1d07910cc1bdacd90932fcc24fa9dd6cc09f",
+      "score": 22
+    },
+    {
+      "id": "https://cryptoslate.com/clarity-act-stablecoin-fight-shifts-from-yield-to-who-captures-digital-dollar-economics",
+      "title": "CLARITY Act stablecoin fight shifts from yield to who captures digital-dollar economics",
+      "url": "https://cryptoslate.com/clarity-act-stablecoin-fight-shifts-from-yield-to-who-captures-digital-dollar-economics",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-04-28T19:10:04.000Z",
+      "summary": "Washington is turning stablecoins into regulated payment instruments while trying to keep issuer-paid yield away from holders. That combination changesthe economics of digital dollars and puts the value of user balances up for grabs across the intermediary stack. The GENIUS Act bars permitted paymen",
+      "tags": [
+        "clarity",
+        "stablecoin",
+        "fight"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c0f98bea1e0707ae6b4f4cc32f2abfef01827eb1",
+      "score": 20
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
+      "title": "World Cup fever: Chiliz expands to Solana and Base to supercharge fan token trading",
+      "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-28T17:03:56.000Z",
+      "summary": "Chiliz rolled out its own layer-1 network in 2023 to host the trading of its tokens, but is transitioning to what it calls \"omnichain distribution.\"",
+      "tags": [
+        "world",
+        "fever",
+        "chiliz"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "a6064b7bf5994837cda3001eb7e8672ef598df6a",
+      "score": 19
+    },
+    {
+      "id": "https://www.coindesk.com/tech/2026/04/28/a-crypto-coalition-releases-technical-proposal-to-save-aave-users-from-a-massive-token-exploit",
+      "title": "A crypto coalition releases technical proposal to save Aave users from a massive token exploit",
+      "url": "https://www.coindesk.com/tech/2026/04/28/a-crypto-coalition-releases-technical-proposal-to-save-aave-users-from-a-massive-token-exploit",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-28T15:43:15.000Z",
+      "summary": "DeFi United, a coalition of multiple blockchain projects and crypto ecosystem individuals, has laid out a detailed plan to restore the backing of rsETH after this month’s Kelp DAO hack sent shockwaves through lending markets.",
+      "tags": [
+        "crypto",
+        "coalition",
+        "releases"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b3e16c7d9281f2b2971a7bd325bf6b246f51ccae",
+      "score": 19
     }
   ]
 }
