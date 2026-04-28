@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-04-27T20:06:53.504Z",
-    "totalCandidates": 107,
-    "solanaCandidates": 21,
+    "generatedAt": "2026-04-28T09:18:59.162Z",
+    "totalCandidates": 109,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 17,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e6f542af1e637d38981de329a90012d8f4c5b9f2",
-      "score": 32
+      "score": 31
     },
     {
       "id": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk",
@@ -66,28 +66,28 @@
       "scoreBreakdown": {
         "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "fe2141d8be9d0ae8d9b35c739601d3e282ddf01f",
-      "score": 30
+      "score": 29
     },
     {
-      "id": "https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month",
-      "title": "Western Union to Launch Solana-Based Stablecoin Plus ‘Stable Card’ Next Month",
-      "url": "https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-27T10:02:52.000Z",
-      "summary": "The USDPT stablecoin launching next month will serve as an alternative to SWIFT for agent settlements rather than consumer transactions.",
+      "id": "https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients",
+      "title": "Solana clients Anza and Firedancer introduce post-quantum solution Falcon",
+      "url": "https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-28T05:24:26.000Z",
+      "summary": "Jump Crypto, the team behind Firedancer, said Falcon has the smallest signature among NIST standards, which could help preserve Solana’s high-throughput capabilities.",
       "tags": [
-        "western",
-        "union",
-        "launch"
+        "solana",
+        "clients",
+        "anza"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -97,62 +97,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 3,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c9df9a33e76feff5d5a2cd54df609d934ee7a9e8",
+      "dedupeFingerprint": "7798ecaab038f2dfc19269b7731f1c6b03856418",
       "score": 26
     },
     {
-      "id": "https://ambcrypto.com/solana-whale-dumps-26-1m-in-sol-is-78-50-about-to-break",
-      "title": "Solana whale dumps $26.1M in SOL – Is $78.50 about to break?",
-      "url": "https://ambcrypto.com/solana-whale-dumps-26-1m-in-sol-is-78-50-about-to-break",
+      "id": "https://ambcrypto.com/3-4b-flows-into-stablecoins-in-april-why-are-traders-still-holding-back",
+      "title": "$3.4B flows into stablecoins in April – Why are traders still holding back?",
+      "url": "https://ambcrypto.com/3-4b-flows-into-stablecoins-in-april-why-are-traders-still-holding-back",
       "source": "AMB Crypto",
-      "publishedAt": "2026-04-27T17:00:39.000Z",
-      "summary": "Rising inflows and whale activity keep Solana locked within a defined range structure.",
+      "publishedAt": "2026-04-27T22:00:41.000Z",
+      "summary": "Rising stablecoin reserves signal readiness, yet markets await real demand as liquidity remains parked amid uncertainty and weak participation.",
       "tags": [
-        "solana",
-        "whale",
-        "dumps"
+        "flows",
+        "into",
+        "stablecoins"
       ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "a8bc75202c0a8d731c567ed516ea504000bdd431",
-      "score": 24
-    },
-    {
-      "id": "https://ambcrypto.com/solana-outlines-quantum-proof-roadmap-as-crypto-shifts-from-theory-to-preparation",
-      "title": "Solana outlines quantum-proof roadmap as crypto shifts from theory to preparation",
-      "url": "https://ambcrypto.com/solana-outlines-quantum-proof-roadmap-as-crypto-shifts-from-theory-to-preparation",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-27T18:00:02.000Z",
-      "summary": "Solana's new proposal details how the network could transition to quantum-resistant cryptography as industry focus shifts to preparation.",
-      "tags": [
-        "solana",
-        "outlines",
-        "quantum"
-      ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -170,8 +137,41 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "02871fe63b72878b606f3e5860aba0b572750194",
+      "dedupeFingerprint": "78e8723b1218250865c7357e3e53987455a964c8",
       "score": 22
+    },
+    {
+      "id": "https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils",
+      "title": "Israeli regulators approve shekel-pegged stablecoin",
+      "url": "https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-27T22:40:45.000Z",
+      "summary": "The approval of the BILS stablecoin issued by Israeli exchange Bits of Gold came after a two-year pilot program on the Solana blockchain.",
+      "tags": [
+        "israeli",
+        "regulators",
+        "approve"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5a2fc6d42457996daeed0fa23f8063a3fc249b7b",
+      "score": 21
     }
   ]
 }

@@ -1,34 +1,34 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "APPS",
-      "title": "Solana outlines quantum-proof roadmap as crypto shifts from theory to preparation",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-04-27",
-      "url": "https://ambcrypto.com/solana-outlines-quantum-proof-roadmap-as-crypto-shifts-from-theory-to-preparation",
-      "whyYouShouldCare": "Solana's commitment to a quantum-proof roadmap enhances its security posture, potentially attracting developers and users concerned about future technological threats."
-    },
-    {
-      "type": "MARKET",
-      "title": "Western Union to Launch Solana-Based Stablecoin Plus ‘Stable Card’ Next Month",
-      "category": "MARKET",
-      "source": "Decrypt",
-      "date": "2026-04-27",
-      "url": "https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month",
-      "whyYouShouldCare": "The introduction of a Solana-based stablecoin by Western Union could increase liquidity and usage within the Solana ecosystem, enhancing its mainstream adoption."
+      "type": "INFRA",
+      "title": "Solana clients Anza and Firedancer introduce post-quantum solution Falcon",
+      "category": "INFRA",
+      "source": "Cointelegraph",
+      "date": "2026-04-28",
+      "url": "https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients",
+      "whyYouShouldCare": "The introduction of the Falcon post-quantum solution enhances Solana's security infrastructure, positioning it as a forward-thinking platform in the face of evolving technological threats."
     },
     {
       "type": "INFRA",
-      "title": "Solana developers outline plan to protect network from quantum threats",
+      "title": "Solana’s Quantum Readiness",
       "category": "INFRA",
-      "source": "CoinDesk",
+      "source": "Solana News",
       "date": "2026-04-27",
-      "url": "https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats",
-      "whyYouShouldCare": "Developers' proactive measures against quantum threats position Solana as a forward-thinking platform, which may bolster confidence among investors and users."
+      "url": "https://solana.com/news/quantum-readiness",
+      "whyYouShouldCare": "Solana's focus on quantum readiness demonstrates its commitment to maintaining competitive security standards, which could attract more developers and projects to its ecosystem."
+    },
+    {
+      "type": "RISK",
+      "title": "Aave moves onto Solana as part of rescue efforts after latest $290M exploit hit DeFi hard",
+      "category": "RISK",
+      "source": "CryptoSlate",
+      "date": "2026-04-27",
+      "url": "https://cryptoslate.com/latest-290m-exploit-hit-defi-so-hard-it-forced-aave-onto-solana-as-part-of-rescue-efforts",
+      "whyYouShouldCare": "Aave's migration to Solana following a significant DeFi exploit highlights Solana's growing appeal as a resilient alternative for decentralized finance operations."
     }
   ]
 }

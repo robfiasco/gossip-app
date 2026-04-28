@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-27",
-  "generated_at_utc": "2026-04-27T20:07:02.535Z",
-  "ctxMarket": "Attention is concentrated on Solana’s quantum-resistant roadmap and the recent integration of major DeFi protocols following a large exploit elsewhere. Whale activity and inflows are keeping SOL price within a defined range, but no clear breakout is indicated.",
-  "ctxTalking": "• Solana’s detailed plan for transitioning to quantum-resistant cryptography, with consensus around Falcon digital signatures.\n• Aave’s move to Solana after a major DeFi exploit, expanding lending protocol access for Solana users.\n• Western Union’s upcoming Solana-based stablecoin for agent settlements.",
-  "ctxMatters": "Solana’s quantum-proofing efforts signal long-term network security planning as industry concerns shift from theory to practical readiness.  \nAave’s integration could reshape liquidity and usage patterns on Solana, especially after recent DeFi vulnerabilities.  \nWestern Union’s stablecoin launch highlights growing institutional interest in Solana’s infrastructure.",
-  "ctxSignal": "Signal: Coordinated quantum-resistance planning and major DeFi integrations show active network evolution.\nNoise: Short-term speculation around whale movements lacks broader context.",
-  "ctxGlossary": "Falcon — A quantum-resistant digital signature scheme.\nTVL (Total Value Locked) — The total value of assets deposited in a DeFi protocol.",
+  "date": "2026-04-28",
+  "generated_at_utc": "2026-04-28T09:19:08.401Z",
+  "ctxMarket": "Attention is focused on Solana’s preparations for quantum security and new stablecoin launches. Broader crypto markets are seeing declines, with Solana and other top assets sliding alongside Bitcoin after geopolitical tensions pushed oil prices higher.",
+  "ctxTalking": "• Solana core teams Anza and Firedancer are introducing Falcon, a post-quantum digital signature, to future-proof the network.\n• Major stablecoin initiatives are launching on Solana, including a shekel-pegged coin and Western Union’s USDPT for settlements.\n• Aave, a leading DeFi protocol, is expanding to Solana following a large exploit in the sector.",
+  "ctxMatters": "Solana’s quantum-proof roadmap signals a shift from theory to active preparation, potentially increasing resilience against future threats. The arrival of major stablecoins and DeFi protocols could broaden Solana’s utility and user base. These developments may influence how institutions and developers view Solana’s long-term viability.",
+  "ctxSignal": "Signal: Concrete steps toward quantum resistance and high-profile stablecoin integrations on Solana.\nNoise: Short-term price moves linked to external geopolitical events.",
+  "ctxGlossary": "Falcon — A digital signature scheme designed to be secure against quantum computers.\nStablecoin — A cryptocurrency pegged to a stable asset, such as a fiat currency.\nFiredancer — An independent Solana validator client developed by Jump Crypto.",
   "readMore": [
+    {
+      "title": "Solana clients Anza and Firedancer introduce post-quantum solution Falcon",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients"
+    },
+    {
+      "title": "Bitcoin loses $77,000, ether, solana slide as Hormuz standoff lifts oil to 3-week high",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/04/28/bitcoin-loses-usd77-000-ether-solana-slide-as-hormuz-standoff-lifts-oil-to-3-week-high"
+    },
     {
       "title": "Solana outlines quantum-proof roadmap as crypto shifts from theory to preparation",
       "source": "AMB Crypto",
       "url": "https://ambcrypto.com/solana-outlines-quantum-proof-roadmap-as-crypto-shifts-from-theory-to-preparation"
-    },
-    {
-      "title": "Solana developers outline plan to protect network from quantum threats",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats"
-    },
-    {
-      "title": "Latest $290M exploit hit DeFi so hard it forced Aave onto Solana as part of rescue efforts",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/latest-290m-exploit-hit-defi-so-hard-it-forced-aave-onto-solana-as-part-of-rescue-efforts"
     }
   ]
 }
