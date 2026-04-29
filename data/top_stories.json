@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-04-28T20:13:55.564Z",
+    "generatedAt": "2026-04-29T09:07:58.524Z",
     "totalCandidates": 113,
-    "solanaCandidates": 27,
+    "solanaCandidates": 20,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/399135/us-sec-seeks-comment-on-nyse-arca-proposal-for-85-eligible-asset-rule-in-crypto-etf-listings",
-      "title": "US SEC seeks comment on NYSE Arca proposal for 85% eligible-asset rule in crypto ETF listings",
-      "url": "https://www.theblock.co/post/399135/us-sec-seeks-comment-on-nyse-arca-proposal-for-85-eligible-asset-rule-in-crypto-etf-listings",
+      "id": "https://www.theblock.co/post/399288/pump-fun-burns-370-million-pump",
+      "title": "Pump.fun burns $370 million in PUMP token, commits 50% of future revenue for buyback-burn program",
+      "url": "https://www.theblock.co/post/399288/pump-fun-burns-370-million-pump",
       "source": "The Block",
-      "publishedAt": "2026-04-28T12:10:38.000Z",
-      "summary": "The SEC is seeking public comment on an NYSE Arca proposal requiring 85% of a commodity-based crypto trust’s assets to meet existing listing rules.",
+      "publishedAt": "2026-04-29T02:25:14.000Z",
+      "summary": "The remaining 50% will be used to make 'big bets' to grow the platform in the coming five to 10 years, co-founder Alon Cohen said.",
       "tags": [
-        "seeks",
-        "comment",
-        "nyse"
+        "pump",
+        "burns",
+        "million"
       ],
-      "topicBucket": "market",
+      "topicBucket": "tokenomics",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,27 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 10,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8d069e87f8c48bf071e12040058415017ea31da5",
-      "score": 22
+      "dedupeFingerprint": "6ba9b52679b1496dba5e2a0b5b948ea28d692766",
+      "score": 24
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin",
-      "title": "A digital shekel is here: Israel approves its first regulated stablecoin",
-      "url": "https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-28T10:39:57.000Z",
-      "summary": "BILS was developed in collaboration with the Solana network and crypto custodian heavyweights Fireblocks with auditing oversight provided by Big Four consultancy firm EY.",
+      "id": "https://www.theblock.co/post/399308/hong-kong-warns-fake-stablecoins",
+      "title": "Hong Kong warns of fake tokens posing as HSBC’s stablecoin",
+      "url": "https://www.theblock.co/post/399308/hong-kong-warns-fake-stablecoins",
+      "source": "The Block",
+      "publishedAt": "2026-04-29T06:56:48.000Z",
+      "summary": "HSBC and Anchorpoint Financial both clarified that they have not launched any stablecoins in Hong Kong, but plan to do so this year.",
       "tags": [
-        "digital",
-        "shekel",
-        "here"
+        "hong",
+        "kong",
+        "warns"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -71,8 +71,41 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "67bc1d07910cc1bdacd90932fcc24fa9dd6cc09f",
+      "dedupeFingerprint": "29951a4e910e2f885d27a4b6c2e88635dc7cd4fa",
       "score": 22
+    },
+    {
+      "id": "https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security",
+      "title": "OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped",
+      "url": "https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-28T21:46:02.000Z",
+      "summary": "Red Hat principal engineer and OpenClaw maintainer Sally O'Malley released Tank OS—a tool that sandboxes AI agents in isolated containers, keeping credentials locked and agents from interfering with each other or the host machine.",
+      "tags": [
+        "openclaw",
+        "insider",
+        "builds"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "f8976e151d8d465751fdaaa301a097258014a9c2",
+      "score": 21
     },
     {
       "id": "https://cryptoslate.com/clarity-act-stablecoin-fight-shifts-from-yield-to-who-captures-digital-dollar-economics",
@@ -99,45 +132,12 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "c0f98bea1e0707ae6b4f4cc32f2abfef01827eb1",
-      "score": 20
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
-      "title": "World Cup fever: Chiliz expands to Solana and Base to supercharge fan token trading",
-      "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-28T17:03:56.000Z",
-      "summary": "Chiliz rolled out its own layer-1 network in 2023 to host the trading of its tokens, but is transitioning to what it calls \"omnichain distribution.\"",
-      "tags": [
-        "world",
-        "fever",
-        "chiliz"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "a6064b7bf5994837cda3001eb7e8672ef598df6a",
       "score": 19
     },
     {
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b3e16c7d9281f2b2971a7bd325bf6b246f51ccae",
-      "score": 19
+      "score": 18
     }
   ]
 }

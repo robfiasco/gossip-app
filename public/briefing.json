@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
@@ -10,7 +10,7 @@
       "source": "CoinDesk",
       "date": "2026-04-28",
       "url": "https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin",
-      "whyYouShouldCare": "Israel's approval of a regulated stablecoin could enhance the legitimacy of digital currencies and influence the regulatory landscape for Solana's ecosystem."
+      "whyYouShouldCare": "Israel's approval of a regulated stablecoin could enhance the legitimacy of digital currencies, potentially impacting Solana's positioning in the stablecoin market."
     },
     {
       "type": "APPS",
@@ -19,16 +19,16 @@
       "source": "CoinDesk",
       "date": "2026-04-28",
       "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
-      "whyYouShouldCare": "Chiliz's expansion to Solana boosts fan token trading, potentially increasing user engagement and liquidity within the Solana ecosystem."
+      "whyYouShouldCare": "Chiliz's expansion to Solana boosts fan token trading, increasing ecosystem usage and liquidity, which may attract more users to the Solana network."
     },
     {
-      "type": "RISK",
-      "title": "Aave moves onto Solana as part of rescue efforts after latest $290M exploit hit DeFi hard",
-      "category": "RISK",
-      "source": "CryptoSlate",
+      "type": "INFRA",
+      "title": "Solana’s Quantum Readiness",
+      "category": "INFRA",
+      "source": "Solana News",
       "date": "2026-04-27",
-      "url": "https://cryptoslate.com/latest-290m-exploit-hit-defi-so-hard-it-forced-aave-onto-solana-as-part-of-rescue-efforts",
-      "whyYouShouldCare": "Aave's integration into Solana following a significant exploit highlights Solana's resilience and may attract more DeFi projects seeking security and stability."
+      "url": "https://solana.com/news/quantum-readiness",
+      "whyYouShouldCare": "Solana's advancements in quantum readiness could strengthen its infrastructure, making it more competitive and appealing for developers and users in the blockchain space."
     }
   ]
 }

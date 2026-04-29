@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-28",
-  "generated_at_utc": "2026-04-28T20:14:04.836Z",
-  "ctxMarket": "Attention is on Solana’s technical progress and integrations, despite a broad market pullback tied to geopolitical tensions. Major DeFi and payments projects are expanding onto Solana, highlighting its growing role in infrastructure.",
-  "ctxTalking": "• Aave’s deployment on Solana following a major DeFi exploit elsewhere\n• Israel’s first regulated stablecoin, BILS, launching with Solana’s involvement\n• Solana clients Anza and Firedancer introducing the Falcon post-quantum cryptography solution",
-  "ctxMatters": "Solana is attracting established DeFi protocols and national stablecoin projects, reinforcing its position as a foundational blockchain for both finance and payments. The rollout of quantum-resistant cryptography signals a focus on long-term security and scalability. These moves could increase developer and institutional interest in Solana’s ecosystem.",
-  "ctxSignal": "Signal: Major protocols and national initiatives are choosing Solana for new deployments and security upgrades.\nNoise: Short-term price movements linked to external geopolitical events.",
-  "ctxGlossary": "Stablecoin — A digital currency pegged to a stable asset, like a national currency.\nPost-quantum cryptography — Security measures designed to withstand attacks from future quantum computers.",
+  "date": "2026-04-29",
+  "generated_at_utc": "2026-04-29T09:08:09.108Z",
+  "ctxMarket": "Attention is on Solana’s expanding role in both token innovation and real-world asset integration. Recent headlines highlight ecosystem projects making moves in tokenomics, cross-chain fan engagement, and regulated stablecoins.",
+  "ctxTalking": "• Pump.fun’s $370M PUMP token burn and future revenue allocation for buyback-burns\n• Chiliz expanding to Solana and Base to boost fan token trading ahead of the World Cup\n• Israel’s first regulated stablecoin (BILS) launching with Solana involvement",
+  "ctxMatters": "Solana’s infrastructure is being chosen for high-profile launches, from national stablecoins to major fan token platforms. Tokenomics experiments like Pump.fun’s burn and buyback program may influence platform dynamics and user engagement. Cross-chain and fiat integration efforts signal a push for broader adoption and utility.",
+  "ctxSignal": "Signal: Institutional and government-grade projects are leveraging Solana for regulated assets and large-scale token trading.\nNoise: Speculation around the long-term impact of token burns without clear user data.",
+  "ctxGlossary": "Buyback-burn — Using platform revenue to repurchase and destroy tokens, reducing supply.\nStablecoin — A digital asset pegged to a stable value, such as a fiat currency.\nOmnichain — The ability for a project or asset to operate across multiple blockchains.",
   "readMore": [
+    {
+      "title": "Pump.fun burns $370 million in PUMP token, commits 50% of future revenue for buyback-burn program",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/399288/pump-fun-burns-370-million-pump"
+    },
     {
       "title": "World Cup fever",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading"
     },
     {
-      "title": "Solana clients Anza and Firedancer introduce post-quantum solution Falcon",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients"
-    },
-    {
-      "title": "Aave moves onto Solana as part of rescue efforts after latest $290M exploit hit DeFi hard",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/latest-290m-exploit-hit-defi-so-hard-it-forced-aave-onto-solana-as-part-of-rescue-efforts"
+      "title": "Solana’s Quantum Readiness",
+      "source": "Solana News",
+      "url": "https://solana.com/news/quantum-readiness"
     }
   ]
 }
