@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-04-29T20:08:34.706Z",
+    "generatedAt": "2026-04-30T09:09:55.365Z",
     "totalCandidates": 113,
-    "solanaCandidates": 20,
+    "solanaCandidates": 29,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/399386/solana-ventures-squads-funding-stablecoin-altitude",
-      "title": "Solana Ventures leads $18 million round in Squads to scale its stablecoin platform Altitude",
-      "url": "https://www.theblock.co/post/399386/solana-ventures-squads-funding-stablecoin-altitude",
+      "id": "https://www.theblock.co/post/399519/shinhan-card-stablecoin-solana",
+      "title": "South Korea’s Shinhan Card to test real-world stablecoin payments on Solana",
+      "url": "https://www.theblock.co/post/399519/shinhan-card-stablecoin-solana",
       "source": "The Block",
-      "publishedAt": "2026-04-29T13:55:02.000Z",
-      "summary": "Squads, known for its Solana-based multisig protocol, has raised $18 million in new funding to scale its stablecoin platform Altitude.",
+      "publishedAt": "2026-04-30T06:10:05.000Z",
+      "summary": "Shinhan Card has partnered with the Solana Foundation for a proof-of-concept project testing a real-world payment system using stablecoins.",
       "tags": [
-        "solana",
-        "ventures",
-        "leads"
+        "south",
+        "korea",
+        "shinhan"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -38,8 +38,107 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e2663e4c7e6a1965536568e6e45d794818334f3a",
+      "dedupeFingerprint": "bab693c955db11eeb1552cf815521237550a58d6",
       "score": 30
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/04/30/wlfi-races-toward-62-billion-token-unlock-with-near-unanimous-vote",
+      "title": "Trump-backed World Liberty Financial races toward 62 billion token unlock with near-unanimous vote",
+      "url": "https://www.coindesk.com/markets/2026/04/30/wlfi-races-toward-62-billion-token-unlock-with-near-unanimous-vote",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-30T07:49:21.000Z",
+      "summary": "Proposal introduces vesting for 40.7 billion insider tokens after 2-year cliff, even as voting power remains concentrated among a handful of large holders",
+      "tags": [
+        "trump",
+        "backed",
+        "world"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ef2ca5da8187657e7e73498d4a6ba0b261ff1479",
+      "score": 27
+    },
+    {
+      "id": "https://cointelegraph.com/news/wlfi-token-tanks-10-as-voting-begins-on-controversial-token-lock-up-proposal",
+      "title": "WLFI drops 14% as controversial token unlock goes to vote",
+      "url": "https://cointelegraph.com/news/wlfi-token-tanks-10-as-voting-begins-on-controversial-token-lock-up-proposal",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-30T05:56:28.000Z",
+      "summary": "The proposal to unlock more than 62 billion WLFI tokens over four to five years has 99.95% approval but is still facing backlash on X.",
+      "tags": [
+        "wlfi",
+        "drops",
+        "controversial"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "cce8bb73e2025c5071cb24c27876f8be7eeb01fb",
+      "score": 26
+    },
+    {
+      "id": "https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe",
+      "title": "Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe",
+      "url": "https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-29T20:10:14.000Z",
+      "summary": "Facebook and Instagram parent company Meta is now offering stablecoin payouts to content creators in certain countries.",
+      "tags": [
+        "meta",
+        "launches",
+        "usdc"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "f60aebf86871c27f5923e59fb9d605474a160bc1",
+      "score": 25
     },
     {
       "id": "https://www.theblock.co/post/399479/trump-wlfi-token-drops-as-controversial-governance-proposal-opens-for-voting",
@@ -66,112 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9f8a7516cc4b781080d32d6a01bd6d30ee41cb99",
-      "score": 24
-    },
-    {
-      "id": "https://www.theblock.co/post/399462/meta-begins-offering-usdc-creator-payouts-to-crypto-wallets-on-solana-and-polygon-blockchains",
-      "title": "Meta begins offering USDC creator payouts to crypto wallets on Solana and Polygon blockchains",
-      "url": "https://www.theblock.co/post/399462/meta-begins-offering-usdc-creator-payouts-to-crypto-wallets-on-solana-and-polygon-blockchains",
-      "source": "The Block",
-      "publishedAt": "2026-04-29T19:20:01.000Z",
-      "summary": "The social media giant suggests a host of popular wallets creators can use including MetaMask, Phantom, and Binance.",
-      "tags": [
-        "meta",
-        "begins",
-        "offering"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "4f61a538d1e9941516d5881eb5d22b49c20610ed",
-      "score": 22
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/04/29/visa-expands-stablecoin-settlement-network-as-volume-hits-usd7-billion-run-rate",
-      "title": "Visa expands stablecoin settlement network as volume hits $7 billion run rate",
-      "url": "https://www.coindesk.com/business/2026/04/29/visa-expands-stablecoin-settlement-network-as-volume-hits-usd7-billion-run-rate",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-29T15:11:32.000Z",
-      "summary": "The payments giant added support for Stripe's Tempo, Circle's Arc, Coinbase's Base, Polygon and Canton Network as stablecoins gain traction in global money movement.",
-      "tags": [
-        "visa",
-        "expands",
-        "stablecoin"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "3a6d6a285b3f738bf9f8e11bfe5d800dbe7bc63d",
-      "score": 22
-    },
-    {
-      "id": "https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security",
-      "title": "OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped",
-      "url": "https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-28T21:46:02.000Z",
-      "summary": "Red Hat principal engineer and OpenClaw maintainer Sally O'Malley released Tank OS—a tool that sandboxes AI agents in isolated containers, keeping credentials locked and agents from interfering with each other or the host machine.",
-      "tags": [
-        "openclaw",
-        "insider",
-        "builds"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "f8976e151d8d465751fdaaa301a097258014a9c2",
-      "score": 20
+      "score": 23
     }
   ]
 }
