@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-04-30T09:09:55.365Z",
-    "totalCandidates": 113,
-    "solanaCandidates": 29,
+    "generatedAt": "2026-04-30T20:08:09.933Z",
+    "totalCandidates": 112,
+    "solanaCandidates": 28,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/399519/shinhan-card-stablecoin-solana",
-      "title": "South Korea’s Shinhan Card to test real-world stablecoin payments on Solana",
-      "url": "https://www.theblock.co/post/399519/shinhan-card-stablecoin-solana",
-      "source": "The Block",
-      "publishedAt": "2026-04-30T06:10:05.000Z",
-      "summary": "Shinhan Card has partnered with the Solana Foundation for a proof-of-concept project testing a real-world payment system using stablecoins.",
+      "id": "https://www.coindesk.com/business/2026/04/30/germany-s-allunity-expands-eurau-to-solana-as-euro-stablecoins-gain-traction",
+      "title": "Germany’s AllUnity expands EURAU to Solana as euro stablecoins gain traction",
+      "url": "https://www.coindesk.com/business/2026/04/30/germany-s-allunity-expands-eurau-to-solana-as-euro-stablecoins-gain-traction",
+      "source": "CoinDesk",
+      "publishedAt": "2026-04-30T11:58:32.000Z",
+      "summary": "The firm's MiCA-compliant euro token aims to speed up euro transfers and support regulated onchain finance as the euro stablecoin market doubled since early 2025.",
       "tags": [
-        "south",
-        "korea",
-        "shinhan"
+        "germany",
+        "allunity",
+        "expands"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,15 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "bab693c955db11eeb1552cf815521237550a58d6",
-      "score": 30
+      "dedupeFingerprint": "de02196d6f23f72794390b8c8a2b880029402672",
+      "score": 27
     },
     {
       "id": "https://www.coindesk.com/markets/2026/04/30/wlfi-races-toward-62-billion-token-unlock-with-near-unanimous-vote",
@@ -66,58 +66,25 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "ef2ca5da8187657e7e73498d4a6ba0b261ff1479",
-      "score": 27
-    },
-    {
-      "id": "https://cointelegraph.com/news/wlfi-token-tanks-10-as-voting-begins-on-controversial-token-lock-up-proposal",
-      "title": "WLFI drops 14% as controversial token unlock goes to vote",
-      "url": "https://cointelegraph.com/news/wlfi-token-tanks-10-as-voting-begins-on-controversial-token-lock-up-proposal",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-30T05:56:28.000Z",
-      "summary": "The proposal to unlock more than 62 billion WLFI tokens over four to five years has 99.95% approval but is still facing backlash on X.",
-      "tags": [
-        "wlfi",
-        "drops",
-        "controversial"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "cce8bb73e2025c5071cb24c27876f8be7eeb01fb",
       "score": 26
     },
     {
-      "id": "https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe",
-      "title": "Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe",
-      "url": "https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-29T20:10:14.000Z",
-      "summary": "Facebook and Instagram parent company Meta is now offering stablecoin payouts to content creators in certain countries.",
+      "id": "https://www.theblock.co/post/399652/coinbase-cushy-stablecoin-fund-launch-tokenized-share-class-superstate-q2",
+      "title": "Coinbase’s ‘CUSHY’ stablecoin fund to launch tokenized share class via Superstate in Q2",
+      "url": "https://www.theblock.co/post/399652/coinbase-cushy-stablecoin-fund-launch-tokenized-share-class-superstate-q2",
+      "source": "The Block",
+      "publishedAt": "2026-04-30T17:37:58.000Z",
+      "summary": "The Coinbase Stablecoin Yield Fund aims to generate yield by lending stablecoins and private credit investment opportunities.",
       "tags": [
-        "meta",
-        "launches",
-        "usdc"
+        "coinbase",
+        "cushy",
+        "stablecoin"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,27 +97,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "f60aebf86871c27f5923e59fb9d605474a160bc1",
+      "dedupeFingerprint": "a36f3c6dd5c1d02aa16b84c4e7dde492e3dd4f03",
       "score": 25
     },
     {
-      "id": "https://www.theblock.co/post/399479/trump-wlfi-token-drops-as-controversial-governance-proposal-opens-for-voting",
-      "title": "Trump-backed WLFI token falls 13% as controversial governance proposal opens for voting",
-      "url": "https://www.theblock.co/post/399479/trump-wlfi-token-drops-as-controversial-governance-proposal-opens-for-voting",
-      "source": "The Block",
-      "publishedAt": "2026-04-29T19:33:01.000Z",
-      "summary": "Pre-sale investors argue that introducing a two-year cliff and linear investing schedule for their locked tokens is a bait-and-switch.",
+      "id": "https://ambcrypto.com/wlfi-drops-14-as-controversial-vote-on-most-significant-proposal-begins",
+      "title": "WLFI drops 14% as controversial vote on ‘most significant proposal’ begins",
+      "url": "https://ambcrypto.com/wlfi-drops-14-as-controversial-vote-on-most-significant-proposal-begins",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-04-30T11:00:16.000Z",
+      "summary": "A WSJ report linked the DeFi project to AB DAO, a sanctioned entity involved in pig-butchering scams.",
       "tags": [
-        "trump",
-        "backed",
-        "wlfi"
+        "wlfi",
+        "drops",
+        "controversial"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9f8a7516cc4b781080d32d6a01bd6d30ee41cb99",
-      "score": 23
+      "dedupeFingerprint": "8febbf1e88042fb3ab3bdd513ba7ee8d8b343448",
+      "score": 21
+    },
+    {
+      "id": "https://decrypt.co/366090/key-senator-clarity-act-vote-hurdles-remain",
+      "title": "Key Senator Pushes for Vote on Clarity Act—But Hurdles Remain",
+      "url": "https://decrypt.co/366090/key-senator-clarity-act-vote-hurdles-remain",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-29T20:31:47.000Z",
+      "summary": "Thom Tillis, a swing GOP vote on the Senate Banking Committee, says his colleagues should take up a months-delayed vote on the crypto bill.",
+      "tags": [
+        "senator",
+        "pushes",
+        "vote"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ead31b77ea8ba11a2cf4b6fc0a646957f28113b8",
+      "score": 20
     }
   ]
 }

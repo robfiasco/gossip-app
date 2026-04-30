@@ -1,26 +1,26 @@
 {
   "date": "2026-04-30",
-  "generated_at_utc": "2026-04-30T09:10:05.190Z",
-  "ctxMarket": "Attention is focused on stablecoin integrations and real-world payment pilots involving Solana, alongside notable shifts in token supply and whale activity. Major corporate partnerships and infrastructure funding are also in the spotlight.",
-  "ctxTalking": "• Shinhan Card’s stablecoin payment pilot with Solana Foundation\n• Meta launching USDC payouts to creators on Solana and Polygon via Stripe\n• Large PUMP token burn and a prominent Solana whale exit",
-  "ctxMatters": "Real-world stablecoin payment trials signal growing institutional interest in Solana’s infrastructure. Meta’s USDC payouts could expand Solana’s reach among creators and mainstream users. Shifts in token supply and whale activity may affect liquidity and sentiment, drawing attention from both users and builders.",
-  "ctxSignal": "Signal: Institutional pilots and major platform integrations highlight Solana’s evolving use cases.\nNoise: Short-term speculation around whale exits and token burns without broader context.",
-  "ctxGlossary": "Stablecoin — A cryptocurrency pegged to a stable asset, like the US dollar.\nWhale — A large holder or trader of a cryptocurrency.\nMultisig — A wallet setup requiring multiple signatures to approve transactions.",
+  "generated_at_utc": "2026-04-30T20:08:21.827Z",
+  "ctxMarket": "Attention is focused on stablecoin integrations and security incidents across DeFi. Major payment and financial institutions are expanding pilots on Solana, while recent protocol exploits have highlighted ongoing risks.",
+  "ctxTalking": "• Visa is expanding its stablecoin settlement pilot to nine blockchains, including Solana.\n• Multiple DeFi exploits, including Drift and Wasabi Protocol, have led to shutdowns and renewed security concerns.\n• Solana ecosystem is pushing into institutional adoption with new research efforts in Europe and stablecoin pilots in Asia.",
+  "ctxMatters": "Stablecoin adoption by major payment firms and banks signals growing mainstream interest in Solana’s infrastructure. Security breaches continue to impact user trust and protocol viability. Institutional research and compliance moves may shape how European and Asian markets engage with Solana.",
+  "ctxSignal": "Signal: Expansion of regulated stablecoins and institutional pilots on Solana; high-profile exploits affecting protocol operations.\nNoise: Speculation about the full impact of North Korean hacking activity without direct links to Solana’s core infrastructure.",
+  "ctxGlossary": "Stablecoin — A cryptocurrency pegged to a stable asset like the US dollar or euro.\nDeFi — Decentralized finance, financial services built on public blockchains.\nAdmin key — A privileged access key that can control or upgrade a blockchain protocol.",
   "readMore": [
     {
-      "title": "South Korea’s Shinhan Card to test real-world stablecoin payments on Solana",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/399519/shinhan-card-stablecoin-solana"
+      "title": "Visa is quietly building stablecoins into mainstream payment plumbing without you knowing",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/visa-is-quietly-building-stablecoins-into-mainstream-payment-plumbing-without-you-knowing"
     },
     {
-      "title": "Pump.fun burns $370M – Can 36% supply cut sustain PUMP’s rally?",
+      "title": "Carrot shuts down weeks after Drift exploit slashed protocol value",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/pump-fun-burns-370m-can-36-supply-cut-sustain-pumps-rally"
+      "url": "https://ambcrypto.com/carrot-shuts-down-weeks-after-drift-exploit-slashed-protocol-value"
     },
     {
-      "title": "Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe"
+      "title": "Solana yield exchange Exponent raises $5 million seed led by Multicoin Capital",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/399630/solana-yield-exchange-exponent-funding-multicoin-capital"
     }
   ]
 }
