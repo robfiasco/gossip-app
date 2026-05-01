@@ -1,46 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-05-01T08:58:44.040Z",
+    "generatedAt": "2026-05-01T20:02:30.874Z",
     "totalCandidates": 112,
-    "solanaCandidates": 28,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://www.coindesk.com/markets/2026/04/30/wlfi-races-toward-62-billion-token-unlock-with-near-unanimous-vote",
-      "title": "Trump-backed World Liberty Financial races toward 62 billion token unlock with near-unanimous vote",
-      "url": "https://www.coindesk.com/markets/2026/04/30/wlfi-races-toward-62-billion-token-unlock-with-near-unanimous-vote",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-30T07:49:21.000Z",
-      "summary": "Proposal introduces vesting for 40.7 billion insider tokens after 2-year cliff, even as voting power remains concentrated among a handful of large holders",
-      "tags": [
-        "trump",
-        "backed",
-        "world"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ef2ca5da8187657e7e73498d4a6ba0b261ff1479",
-      "score": 25
-    },
     {
       "id": "https://www.theblock.co/post/399652/coinbase-cushy-stablecoin-fund-launch-tokenized-share-class-superstate-q2",
       "title": "Coinbase’s ‘CUSHY’ stablecoin fund to launch tokenized share class via Superstate in Q2",
@@ -66,25 +33,25 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "a36f3c6dd5c1d02aa16b84c4e7dde492e3dd4f03",
-      "score": 24
+      "score": 23
     },
     {
-      "id": "https://cryptoslate.com/visa-is-quietly-building-stablecoins-into-mainstream-payment-plumbing-without-you-knowing",
-      "title": "Visa is quietly building stablecoins into mainstream payment plumbing without you knowing",
-      "url": "https://cryptoslate.com/visa-is-quietly-building-stablecoins-into-mainstream-payment-plumbing-without-you-knowing",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-30T19:10:30.000Z",
-      "summary": "Visa said its settlement pilot for stablecoins now supports nine blockchains and has reached a run rate of $7 billion a year. The company announced on April 29 that it added Arc, Base, Canton, Polygon and Tempo to a pilot that already used Avalanche, Ethereum, Solana and Stellar. Visa said the annua",
+      "id": "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard",
+      "title": "MoonPay launches stablecoin debit card for AI agents on Mastercard network",
+      "url": "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard",
+      "source": "The Block",
+      "publishedAt": "2026-05-01T12:11:38.000Z",
+      "summary": "MoonPay has launched \"MoonAgents Card,\" a stablecoin debit card for AI agents and users to spend directly from onchain wallets.",
       "tags": [
-        "visa",
-        "quietly",
-        "building"
+        "moonpay",
+        "launches",
+        "stablecoin"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -97,27 +64,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 2,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c7f84503275b4e0aa24e1f1cc671701787c693e2",
+      "dedupeFingerprint": "aea78b576fccda8d28d92166256273aea7bd4c80",
       "score": 22
     },
     {
-      "id": "https://ambcrypto.com/carrot-shuts-down-weeks-after-drift-exploit-slashed-protocol-value",
-      "title": "Carrot shuts down weeks after Drift exploit slashed protocol value",
-      "url": "https://ambcrypto.com/carrot-shuts-down-weeks-after-drift-exploit-slashed-protocol-value",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-04-30T18:35:30.000Z",
-      "summary": "Carrot is shutting down operations after losses tied to the Drift exploit, marking one of the clearest cases of DeFi contagion in April.",
+      "id": "https://decrypt.co/365834/agentic-memory-walrus-takes-on-ais-next-big-bottleneck",
+      "title": "Agentic Memory: Walrus Takes On AI's Next Big Bottleneck",
+      "url": "https://decrypt.co/365834/agentic-memory-walrus-takes-on-ais-next-big-bottleneck",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-30T17:31:07.000Z",
+      "summary": "Long-term memory limits what AI agents can do. Walrus is going after it with MemWal plus new OpenClaw and NemoClaw integrations.",
       "tags": [
-        "carrot",
-        "shuts",
-        "down"
+        "agentic",
+        "memory",
+        "walrus"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,27 +97,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
+        "recencyScore": 8,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2201f7d95a4d2c1531cb8e357da55f36e05f43da",
-      "score": 18
+      "dedupeFingerprint": "8be74904605be9a2c7a405f446288dbe50cd4b04",
+      "score": 14
     },
     {
-      "id": "https://www.coindesk.com/business/2026/04/30/north-korean-hackers-are-moving-faster-they-account-for-76-of-crypto-exploits-this-year-trmlabs",
-      "title": "The long con: How North Korean spies spent months in-person to drain $285 million from Drift",
-      "url": "https://www.coindesk.com/business/2026/04/30/north-korean-hackers-are-moving-faster-they-account-for-76-of-crypto-exploits-this-year-trmlabs",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-30T12:58:16.000Z",
-      "summary": "The security intelligence research firm said North Korean-state-backed hackers account for 76% of all crypto scam and hack losses in 2026 and have stolen $6 billion since 2017.",
+      "id": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack",
+      "title": "Arbitrum DAO starts vote to release 30,766 frozen ETH to DeFi United, following Kelp DAO attack",
+      "url": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack",
+      "source": "The Block",
+      "publishedAt": "2026-04-30T20:58:46.000Z",
+      "summary": "The Arbitrum Security Council froze 30,766 ETH that the Kelp DAO attacker had moved to an Arbitrum One address.",
       "tags": [
-        "long",
-        "north",
-        "korean"
+        "arbitrum",
+        "starts",
+        "vote"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": -1,
         "mentionScore": 0,
         "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2762aaeebef6e97ff9723e6e1913229e1664d1e3",
-      "score": 18
+      "dedupeFingerprint": "4cab142f78428c1f86625d456790bd48f88222df",
+      "score": 12
+    },
+    {
+      "id": "https://decrypt.co/366164/megaeth-token-launches-ethereum-layer-2-novel-rewards-system",
+      "title": "MegaETH Token Launches as Ethereum Layer-2 Network's Novel Rewards System Is Tested",
+      "url": "https://decrypt.co/366164/megaeth-token-launches-ethereum-layer-2-novel-rewards-system",
+      "source": "Decrypt",
+      "publishedAt": "2026-04-30T16:26:01.000Z",
+      "summary": "Ethereum layer-2 network MegaETH will unlock its native MEGA token over time, and reward it to users, as key benchmarks are met.",
+      "tags": [
+        "megaeth",
+        "token",
+        "launches"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -3,
+        "mentionScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e92221bcfca00e6531f8ef7d7d3bbf5f082e6eb1",
+      "score": -2
     }
   ]
 }

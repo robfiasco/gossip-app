@@ -1,11 +1,11 @@
 {
   "date": "2026-05-01",
-  "generated_at_utc": "2026-05-01T08:58:54.168Z",
-  "ctxMarket": "Attention is focused on security breaches and their ripple effects across DeFi protocols, especially following the major Drift exploit. Institutional interest in Solana is also in the spotlight, with new research initiatives and stablecoin integrations making headlines.",
-  "ctxTalking": "• The collapse of Carrot after the Drift exploit and broader DeFi contagion\n• Visa and AllUnity expanding stablecoin infrastructure on Solana and other blockchains\n• Solana’s push for institutional adoption in Europe",
-  "ctxMatters": "Security incidents are raising concerns about protocol resilience and operational risks in DeFi. Stablecoin adoption by major payment networks and regulated issuers signals growing mainstream and institutional engagement with Solana. The launch of a European research arm may influence how financial institutions assess and use Solana’s blockchain.",
-  "ctxSignal": "Signal: The Drift exploit’s impact on DeFi protocols and the expansion of stablecoin infrastructure on Solana.\nNoise: Speculation around individual hacker identities beyond confirmed security firm reports.",
-  "ctxGlossary": "Total Value Locked (TVL) — the total assets deposited in a DeFi protocol.\nStablecoin — a cryptocurrency pegged to a stable asset, like the euro or US dollar.\nMultisig — a security feature requiring multiple approvals for transactions.",
+  "generated_at_utc": "2026-05-01T20:02:39.027Z",
+  "ctxMarket": "Attention is focused on fallout from the Drift exploit and its ripple effects across Solana DeFi. There is also ongoing discussion about major payment networks integrating stablecoins, with Solana among the supported blockchains.",
+  "ctxTalking": "• Carrot DeFi protocol’s collapse following the $285M Drift exploit\n• Visa expanding its stablecoin settlement pilot to include Solana and more blockchains\n• Solana’s preparations for quantum computing threats",
+  "ctxMatters": "The Drift exploit has directly impacted DeFi protocols, highlighting interconnected risks within the Solana ecosystem. Visa’s stablecoin integration signals growing institutional adoption of blockchain payments, with Solana positioned as a key infrastructure layer. Quantum readiness discussions reflect ongoing efforts to future-proof Solana’s security.",
+  "ctxSignal": "Signal: Direct impact of exploits on DeFi protocols and Visa’s stablecoin pilot expansion.\nNoise: Speculation about immediate quantum threats to Solana.",
+  "ctxGlossary": "Total Value Locked (TVL) — The amount of assets deposited in a DeFi protocol.\nStablecoin — A cryptocurrency pegged to a stable asset, like the US dollar.",
   "readMore": [
     {
       "title": "DeFi protocol Carrot becomes first casualty of $285M Drift exploit",
@@ -18,9 +18,9 @@
       "url": "https://cryptoslate.com/visa-is-quietly-building-stablecoins-into-mainstream-payment-plumbing-without-you-knowing"
     },
     {
-      "title": "Carrot shuts down weeks after Drift exploit slashed protocol value",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/carrot-shuts-down-weeks-after-drift-exploit-slashed-protocol-value"
+      "title": "Solana’s Quantum Readiness",
+      "source": "Solana News",
+      "url": "https://solana.com/news/quantum-readiness"
     }
   ]
 }

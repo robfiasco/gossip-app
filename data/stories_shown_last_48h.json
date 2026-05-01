@@ -1,32 +1,11 @@
 [
   {
-    "id": "a9a411fb0d70d1474c2c23ff73ddecaa83ee52fe",
-    "title": "Wasabi Protocol drained of $4.5 million in apparent admin key compromise",
-    "url": "https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-05-01T08:58:44.216Z",
-    "lastSeenAt": "2026-05-01T08:58:44.216Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "wasabi",
-      "protocol",
-      "drained",
-      "million",
-      "apparent",
-      "admin",
-      "compromise",
-      "exploit"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "c190dca6dcbae94d10b34e46d4f7a21eaa0b6f59",
     "title": "DeFi protocol Carrot becomes first casualty of $285M Drift exploit",
     "url": "https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit",
     "source": "Cointelegraph",
     "firstSeenAt": "2026-05-01T08:58:44.216Z",
-    "lastSeenAt": "2026-05-01T08:58:44.216Z",
+    "lastSeenAt": "2026-05-01T20:02:31.049Z",
     "sectionShown": "briefing",
     "topicTags": [
       "defi",
@@ -47,7 +26,7 @@
     "url": "https://cryptoslate.com/visa-is-quietly-building-stablecoins-into-mainstream-payment-plumbing-without-you-knowing",
     "source": "CryptoSlate",
     "firstSeenAt": "2026-05-01T08:58:44.215Z",
-    "lastSeenAt": "2026-05-01T08:58:44.215Z",
+    "lastSeenAt": "2026-05-01T20:02:31.049Z",
     "sectionShown": "briefing",
     "topicTags": [
       "visa",
@@ -58,6 +37,27 @@
       "mainstream",
       "payment",
       "plumbing"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "a9a411fb0d70d1474c2c23ff73ddecaa83ee52fe",
+    "title": "Wasabi Protocol drained of $4.5 million in apparent admin key compromise",
+    "url": "https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-05-01T08:58:44.216Z",
+    "lastSeenAt": "2026-05-01T08:58:44.216Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "wasabi",
+      "protocol",
+      "drained",
+      "million",
+      "apparent",
+      "admin",
+      "compromise",
+      "exploit"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -261,69 +261,6 @@
       "mainstream",
       "investors",
       "actively"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "e6f542af1e637d38981de329a90012d8f4c5b9f2",
-    "title": "Solana’s Quantum Readiness",
-    "url": "https://solana.com/news/quantum-readiness",
-    "source": "Solana News",
-    "firstSeenAt": "2026-04-28T09:18:59.339Z",
-    "lastSeenAt": "2026-04-29T09:07:58.694Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "quantum",
-      "readiness",
-      "where",
-      "stands",
-      "path",
-      "forward",
-      "with"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "a6064b7bf5994837cda3001eb7e8672ef598df6a",
-    "title": "World Cup fever: Chiliz expands to Solana and Base to supercharge fan token trading",
-    "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-04-28T20:13:55.699Z",
-    "lastSeenAt": "2026-04-29T09:07:58.693Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "world",
-      "fever",
-      "chiliz",
-      "expands",
-      "solana",
-      "base",
-      "supercharge",
-      "token"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "67bc1d07910cc1bdacd90932fcc24fa9dd6cc09f",
-    "title": "A digital shekel is here: Israel approves its first regulated stablecoin",
-    "url": "https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-04-28T20:13:55.698Z",
-    "lastSeenAt": "2026-04-29T09:07:58.693Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "digital",
-      "shekel",
-      "here",
-      "israel",
-      "approves",
-      "first",
-      "regulated",
-      "stablecoin"
     ],
     "majorUpdate": false,
     "updateReason": null
