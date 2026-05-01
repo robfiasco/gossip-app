@@ -1,12 +1,17 @@
 {
-  "date": "2026-04-30",
-  "generated_at_utc": "2026-04-30T20:08:21.827Z",
-  "ctxMarket": "Attention is focused on stablecoin integrations and security incidents across DeFi. Major payment and financial institutions are expanding pilots on Solana, while recent protocol exploits have highlighted ongoing risks.",
-  "ctxTalking": "• Visa is expanding its stablecoin settlement pilot to nine blockchains, including Solana.\n• Multiple DeFi exploits, including Drift and Wasabi Protocol, have led to shutdowns and renewed security concerns.\n• Solana ecosystem is pushing into institutional adoption with new research efforts in Europe and stablecoin pilots in Asia.",
-  "ctxMatters": "Stablecoin adoption by major payment firms and banks signals growing mainstream interest in Solana’s infrastructure. Security breaches continue to impact user trust and protocol viability. Institutional research and compliance moves may shape how European and Asian markets engage with Solana.",
-  "ctxSignal": "Signal: Expansion of regulated stablecoins and institutional pilots on Solana; high-profile exploits affecting protocol operations.\nNoise: Speculation about the full impact of North Korean hacking activity without direct links to Solana’s core infrastructure.",
-  "ctxGlossary": "Stablecoin — A cryptocurrency pegged to a stable asset like the US dollar or euro.\nDeFi — Decentralized finance, financial services built on public blockchains.\nAdmin key — A privileged access key that can control or upgrade a blockchain protocol.",
+  "date": "2026-05-01",
+  "generated_at_utc": "2026-05-01T08:58:54.168Z",
+  "ctxMarket": "Attention is focused on security breaches and their ripple effects across DeFi protocols, especially following the major Drift exploit. Institutional interest in Solana is also in the spotlight, with new research initiatives and stablecoin integrations making headlines.",
+  "ctxTalking": "• The collapse of Carrot after the Drift exploit and broader DeFi contagion\n• Visa and AllUnity expanding stablecoin infrastructure on Solana and other blockchains\n• Solana’s push for institutional adoption in Europe",
+  "ctxMatters": "Security incidents are raising concerns about protocol resilience and operational risks in DeFi. Stablecoin adoption by major payment networks and regulated issuers signals growing mainstream and institutional engagement with Solana. The launch of a European research arm may influence how financial institutions assess and use Solana’s blockchain.",
+  "ctxSignal": "Signal: The Drift exploit’s impact on DeFi protocols and the expansion of stablecoin infrastructure on Solana.\nNoise: Speculation around individual hacker identities beyond confirmed security firm reports.",
+  "ctxGlossary": "Total Value Locked (TVL) — the total assets deposited in a DeFi protocol.\nStablecoin — a cryptocurrency pegged to a stable asset, like the euro or US dollar.\nMultisig — a security feature requiring multiple approvals for transactions.",
   "readMore": [
+    {
+      "title": "DeFi protocol Carrot becomes first casualty of $285M Drift exploit",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit"
+    },
     {
       "title": "Visa is quietly building stablecoins into mainstream payment plumbing without you knowing",
       "source": "CryptoSlate",
@@ -16,11 +21,6 @@
       "title": "Carrot shuts down weeks after Drift exploit slashed protocol value",
       "source": "AMB Crypto",
       "url": "https://ambcrypto.com/carrot-shuts-down-weeks-after-drift-exploit-slashed-protocol-value"
-    },
-    {
-      "title": "Solana yield exchange Exponent raises $5 million seed led by Multicoin Capital",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/399630/solana-yield-exchange-exponent-funding-multicoin-capital"
     }
   ]
 }

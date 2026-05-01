@@ -1,34 +1,34 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
       "type": "MARKET",
-      "title": "Germany’s AllUnity expands EURAU to Solana as euro stablecoins gain traction",
-      "category": "MARKET",
-      "source": "CoinDesk",
-      "date": "2026-04-30",
-      "url": "https://www.coindesk.com/business/2026/04/30/germany-s-allunity-expands-eurau-to-solana-as-euro-stablecoins-gain-traction",
-      "whyYouShouldCare": "The expansion of EURAU to Solana enhances liquidity options, positioning SOL as a competitive platform for euro stablecoin transactions."
-    },
-    {
-      "type": "MARKET",
-      "title": "Meta’s USDC pilot shows how stablecoins could capture billions in creator payouts",
+      "title": "Visa is quietly building stablecoins into mainstream payment plumbing without you knowing",
       "category": "MARKET",
       "source": "CryptoSlate",
       "date": "2026-04-30",
-      "url": "https://cryptoslate.com/metas-usdc-pilot-shows-how-stablecoins-could-capture-billions-in-creator-payouts",
-      "whyYouShouldCare": "Meta’s USDC pilot highlights the potential for stablecoins to streamline creator payouts, which could drive increased usage of Solana's infrastructure."
+      "url": "https://cryptoslate.com/visa-is-quietly-building-stablecoins-into-mainstream-payment-plumbing-without-you-knowing",
+      "whyYouShouldCare": "Visa's integration of stablecoins into payment systems could enhance liquidity and accessibility for Solana-based projects, potentially driving increased usage within its ecosystem."
     },
     {
-      "type": "ECOSYSTEM",
-      "title": "Solana ecosystem expands institutional push with Europe-focused research arm",
-      "category": "ECOSYSTEM",
-      "source": "Cointelegraph",
+      "type": "RISK",
+      "title": "Wasabi Protocol drained of $4.5 million in apparent admin key compromise",
+      "category": "RISK",
+      "source": "CoinDesk",
       "date": "2026-04-30",
-      "url": "https://cointelegraph.com/news/solana-ecosystem-expands-institutional-push-europe-focused-research-arm",
-      "whyYouShouldCare": "The establishment of a Europe-focused research arm signals institutional confidence in Solana, potentially attracting more projects and investment to the ecosystem."
+      "url": "https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise",
+      "whyYouShouldCare": "The $4.5 million loss at Wasabi Protocol highlights vulnerabilities in DeFi governance, which could impact investor confidence and liquidity in Solana's DeFi landscape."
+    },
+    {
+      "type": "RISK",
+      "title": "DeFi protocol Carrot becomes first casualty of $285M Drift exploit",
+      "category": "RISK",
+      "source": "Cointelegraph",
+      "date": "2026-05-01",
+      "url": "https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit",
+      "whyYouShouldCare": "The collapse of Carrot due to the Drift exploit underscores the risks in DeFi, which may deter participation and affect the overall health of Solana's ecosystem."
     }
   ]
 }
