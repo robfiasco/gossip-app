@@ -1,57 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-05-02T08:20:24.761Z",
+    "generatedAt": "2026-05-02T19:53:32.977Z",
     "totalCandidates": 113,
-    "solanaCandidates": 23,
+    "solanaCandidates": 24,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
-      "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
-      "url": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-01T21:33:27.000Z",
-      "summary": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed.",
+      "id": "https://cryptoslate.com/the-genius-act-opened-the-door-for-stablecoins-but-regulators-want-to-narrow-it",
+      "title": "The GENIUS Act opened the door for stablecoins, but regulators want to narrow it",
+      "url": "https://cryptoslate.com/the-genius-act-opened-the-door-for-stablecoins-but-regulators-want-to-narrow-it",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-05-02T10:30:34.000Z",
+      "summary": "Stablecoin issuers spent years asking Washington for clear rules, and now those rules are becoming the industry’s biggest barrier to entry. The GENIUS Act gave dollar-backed tokens something crypto had wanted since stablecoins became a serious part of the market: a legal home in the US. It defined p",
       "tags": [
-        "clarity",
-        "text",
-        "lets"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "8c2eeab29f805582f31170ecc6e41c791c12bc21",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/399652/coinbase-cushy-stablecoin-fund-launch-tokenized-share-class-superstate-q2",
-      "title": "Coinbase’s ‘CUSHY’ stablecoin fund to launch tokenized share class via Superstate in Q2",
-      "url": "https://www.theblock.co/post/399652/coinbase-cushy-stablecoin-fund-launch-tokenized-share-class-superstate-q2",
-      "source": "The Block",
-      "publishedAt": "2026-04-30T17:37:58.000Z",
-      "summary": "The Coinbase Stablecoin Yield Fund aims to generate yield by lending stablecoins and private credit investment opportunities.",
-      "tags": [
-        "coinbase",
-        "cushy",
-        "stablecoin"
+        "genius",
+        "opened",
+        "door"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -66,13 +33,112 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "fb3ab27f1aec10eb36a9508eb2e24690e8bc886e",
+      "score": 23
+    },
+    {
+      "id": "https://ambcrypto.com/genius-act-stand-off-phantom-consensys-oppose-occs-stablecoin-yield-ban",
+      "title": "GENIUS Act stand-off: Phantom, Consensys oppose OCC’s stablecoin yield ban",
+      "url": "https://ambcrypto.com/genius-act-stand-off-phantom-consensys-oppose-occs-stablecoin-yield-ban",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-02T17:00:27.000Z",
+      "summary": "Banks backed OCC to go forward with the strict and broad yield ban rules",
+      "tags": [
+        "genius",
+        "stand",
+        "phantom"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "7b37326ac4eb0110a7854db686f9a54713bf20b4",
+      "score": 21
+    },
+    {
+      "id": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
+      "title": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough",
+      "url": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-02T13:01:02.000Z",
+      "summary": "The Mac mini went from a $599 desktop nobody cared about to the hottest piece of AI hardware on the planet. One open-source agent framework did it.",
+      "tags": [
+        "openclaw",
+        "apple",
+        "back"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e35221fa0f92d0577b1b6c32eb0c845491cdb5b1",
+      "score": 18
+    },
+    {
+      "id": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
+      "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork",
+      "url": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-02T16:00:00.000Z",
+      "summary": "Developers and industry figures say the eCash proposal introduces user risk, uneven distribution and philosophical tension.",
+      "tags": [
+        "bitcoin",
+        "hazardous",
+        "airdrop"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 2,
+        "mentionScore": 0,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a36f3c6dd5c1d02aa16b84c4e7dde492e3dd4f03",
-      "score": 22
+      "dedupeFingerprint": "941c3f94f0f3738c716dfa54f446e3ed93c9ce7e",
+      "score": 16
     },
     {
       "id": "https://ambcrypto.com/chair-tim-scott-eyes-may-clarity-act-markup-were-in-the-red-zone",
@@ -99,79 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "6e756ba0cf52f7a3e8a5735769cecdc264829d07",
-      "score": 14
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
-      "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
-      "url": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-02T06:24:06.000Z",
-      "summary": "A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.",
-      "tags": [
-        "bitcoin",
-        "quantum",
-        "proposal"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -1,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5a50f5451019a26e0326f05d5781471ae42fd522",
       "score": 13
-    },
-    {
-      "id": "https://decrypt.co/366164/megaeth-token-launches-ethereum-layer-2-novel-rewards-system",
-      "title": "MegaETH Token Launches as Ethereum Layer-2 Network's Novel Rewards System Is Tested",
-      "url": "https://decrypt.co/366164/megaeth-token-launches-ethereum-layer-2-novel-rewards-system",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-30T16:26:01.000Z",
-      "summary": "Ethereum layer-2 network MegaETH will unlock its native MEGA token over time, and reward it to users, as key benchmarks are met.",
-      "tags": [
-        "megaeth",
-        "token",
-        "launches"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -3,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e92221bcfca00e6531f8ef7d7d3bbf5f082e6eb1",
-      "score": -3
     }
   ]
 }

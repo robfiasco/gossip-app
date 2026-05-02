@@ -1,25 +1,11 @@
 [
   {
-    "id": "20922b082108910b2e7cd7222b1b79c636898cfa",
-    "title": "Signal Board Summary 2026-05-02",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-05-02T08:20:33.009Z",
-    "lastSeenAt": "2026-05-02T08:20:33.009Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "c190dca6dcbae94d10b34e46d4f7a21eaa0b6f59",
     "title": "DeFi protocol Carrot becomes first casualty of $285M Drift exploit",
     "url": "https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit",
     "source": "Cointelegraph",
     "firstSeenAt": "2026-05-01T08:58:44.216Z",
-    "lastSeenAt": "2026-05-02T08:20:24.925Z",
+    "lastSeenAt": "2026-05-02T19:53:33.109Z",
     "sectionShown": "briefing",
     "topicTags": [
       "defi",
@@ -30,6 +16,41 @@
       "casualty",
       "285m",
       "drift"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "7b37326ac4eb0110a7854db686f9a54713bf20b4",
+    "title": "GENIUS Act stand-off: Phantom, Consensys oppose OCC’s stablecoin yield ban",
+    "url": "https://ambcrypto.com/genius-act-stand-off-phantom-consensys-oppose-occs-stablecoin-yield-ban",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-05-02T19:53:33.109Z",
+    "lastSeenAt": "2026-05-02T19:53:33.109Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "genius",
+      "stand",
+      "phantom",
+      "consensys",
+      "oppose",
+      "stablecoin",
+      "yield",
+      "banks"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "20922b082108910b2e7cd7222b1b79c636898cfa",
+    "title": "Signal Board Summary 2026-05-02",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-05-02T08:20:33.009Z",
+    "lastSeenAt": "2026-05-02T08:20:33.009Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -51,27 +72,6 @@
       "mainstream",
       "payment",
       "plumbing"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "a9a411fb0d70d1474c2c23ff73ddecaa83ee52fe",
-    "title": "Wasabi Protocol drained of $4.5 million in apparent admin key compromise",
-    "url": "https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-05-01T08:58:44.216Z",
-    "lastSeenAt": "2026-05-01T08:58:44.216Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "wasabi",
-      "protocol",
-      "drained",
-      "million",
-      "apparent",
-      "admin",
-      "compromise",
-      "exploit"
     ],
     "majorUpdate": false,
     "updateReason": null
