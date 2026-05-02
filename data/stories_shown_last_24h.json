@@ -1,11 +1,25 @@
 [
   {
+    "id": "20922b082108910b2e7cd7222b1b79c636898cfa",
+    "title": "Signal Board Summary 2026-05-02",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-05-02T08:20:33.009Z",
+    "lastSeenAt": "2026-05-02T08:20:33.009Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "c190dca6dcbae94d10b34e46d4f7a21eaa0b6f59",
     "title": "DeFi protocol Carrot becomes first casualty of $285M Drift exploit",
     "url": "https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit",
     "source": "Cointelegraph",
     "firstSeenAt": "2026-05-01T08:58:44.216Z",
-    "lastSeenAt": "2026-05-01T20:02:31.049Z",
+    "lastSeenAt": "2026-05-02T08:20:24.925Z",
     "sectionShown": "briefing",
     "topicTags": [
       "defi",
@@ -26,7 +40,7 @@
     "url": "https://cryptoslate.com/visa-is-quietly-building-stablecoins-into-mainstream-payment-plumbing-without-you-knowing",
     "source": "CryptoSlate",
     "firstSeenAt": "2026-05-01T08:58:44.215Z",
-    "lastSeenAt": "2026-05-01T20:02:31.049Z",
+    "lastSeenAt": "2026-05-02T08:20:24.924Z",
     "sectionShown": "briefing",
     "topicTags": [
       "visa",
@@ -58,69 +72,6 @@
       "admin",
       "compromise",
       "exploit"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "698b119b9b37d179bdc0aec53eb6c51f1f95653d",
-    "title": "Solana ecosystem expands institutional push with Europe-focused research arm",
-    "url": "https://cointelegraph.com/news/solana-ecosystem-expands-institutional-push-europe-focused-research-arm",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-04-30T20:08:10.107Z",
-    "lastSeenAt": "2026-04-30T20:08:10.107Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "ecosystem",
-      "expands",
-      "institutional",
-      "push",
-      "with",
-      "europe",
-      "focused"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "de02196d6f23f72794390b8c8a2b880029402672",
-    "title": "Germany’s AllUnity expands EURAU to Solana as euro stablecoins gain traction",
-    "url": "https://www.coindesk.com/business/2026/04/30/germany-s-allunity-expands-eurau-to-solana-as-euro-stablecoins-gain-traction",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-04-30T20:08:10.106Z",
-    "lastSeenAt": "2026-04-30T20:08:10.106Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "germany",
-      "allunity",
-      "expands",
-      "eurau",
-      "solana",
-      "euro",
-      "stablecoins",
-      "gain"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "d0deed29a44b9df9deff46e6d7dc52525c5d8572",
-    "title": "Meta’s USDC pilot shows how stablecoins could capture billions in creator payouts",
-    "url": "https://cryptoslate.com/metas-usdc-pilot-shows-how-stablecoins-could-capture-billions-in-creator-payouts",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-04-30T20:08:10.106Z",
-    "lastSeenAt": "2026-04-30T20:08:10.106Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "meta",
-      "usdc",
-      "pilot",
-      "shows",
-      "stablecoins",
-      "could",
-      "capture",
-      "billions"
     ],
     "majorUpdate": false,
     "updateReason": null

@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-05-01T20:02:30.874Z",
-    "totalCandidates": 112,
-    "solanaCandidates": 21,
+    "generatedAt": "2026-05-02T08:20:24.761Z",
+    "totalCandidates": 113,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
+      "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
+      "url": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-01T21:33:27.000Z",
+      "summary": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed.",
+      "tags": [
+        "clarity",
+        "text",
+        "lets"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "8c2eeab29f805582f31170ecc6e41c791c12bc21",
+      "score": 22
+    },
     {
       "id": "https://www.theblock.co/post/399652/coinbase-cushy-stablecoin-fund-launch-tokenized-share-class-superstate-q2",
       "title": "Coinbase’s ‘CUSHY’ stablecoin fund to launch tokenized share class via Superstate in Q2",
@@ -33,58 +66,25 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "a36f3c6dd5c1d02aa16b84c4e7dde492e3dd4f03",
-      "score": 23
-    },
-    {
-      "id": "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard",
-      "title": "MoonPay launches stablecoin debit card for AI agents on Mastercard network",
-      "url": "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard",
-      "source": "The Block",
-      "publishedAt": "2026-05-01T12:11:38.000Z",
-      "summary": "MoonPay has launched \"MoonAgents Card,\" a stablecoin debit card for AI agents and users to spend directly from onchain wallets.",
-      "tags": [
-        "moonpay",
-        "launches",
-        "stablecoin"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "aea78b576fccda8d28d92166256273aea7bd4c80",
       "score": 22
     },
     {
-      "id": "https://decrypt.co/365834/agentic-memory-walrus-takes-on-ais-next-big-bottleneck",
-      "title": "Agentic Memory: Walrus Takes On AI's Next Big Bottleneck",
-      "url": "https://decrypt.co/365834/agentic-memory-walrus-takes-on-ais-next-big-bottleneck",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-30T17:31:07.000Z",
-      "summary": "Long-term memory limits what AI agents can do. Walrus is going after it with MemWal plus new OpenClaw and NemoClaw integrations.",
+      "id": "https://ambcrypto.com/chair-tim-scott-eyes-may-clarity-act-markup-were-in-the-red-zone",
+      "title": "Chair Tim Scott eyes May CLARITY Act markup: ‘We’re in the red zone’",
+      "url": "https://ambcrypto.com/chair-tim-scott-eyes-may-clarity-act-markup-were-in-the-red-zone",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-02T00:00:20.000Z",
+      "summary": "It was unclear whether all the 13 Republicans will vote for the markup amid reports of one holdout.",
       "tags": [
-        "agentic",
-        "memory",
-        "walrus"
+        "chair",
+        "scott",
+        "eyes"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -99,25 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8be74904605be9a2c7a405f446288dbe50cd4b04",
+      "dedupeFingerprint": "6e756ba0cf52f7a3e8a5735769cecdc264829d07",
       "score": 14
     },
     {
-      "id": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack",
-      "title": "Arbitrum DAO starts vote to release 30,766 frozen ETH to DeFi United, following Kelp DAO attack",
-      "url": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack",
-      "source": "The Block",
-      "publishedAt": "2026-04-30T20:58:46.000Z",
-      "summary": "The Arbitrum Security Council froze 30,766 ETH that the Kelp DAO attacker had moved to an Arbitrum One address.",
+      "id": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
+      "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
+      "url": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-02T06:24:06.000Z",
+      "summary": "A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.",
       "tags": [
-        "arbitrum",
-        "starts",
-        "vote"
+        "bitcoin",
+        "quantum",
+        "proposal"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -132,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": -1,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "4cab142f78428c1f86625d456790bd48f88222df",
-      "score": 12
+      "dedupeFingerprint": "5a50f5451019a26e0326f05d5781471ae42fd522",
+      "score": 13
     },
     {
       "id": "https://decrypt.co/366164/megaeth-token-launches-ethereum-layer-2-novel-rewards-system",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": -3,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e92221bcfca00e6531f8ef7d7d3bbf5f082e6eb1",
-      "score": -2
+      "score": -3
     }
   ]
 }
