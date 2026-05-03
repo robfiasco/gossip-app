@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-05-03T08:45:16.162Z",
-    "totalCandidates": 101,
+    "generatedAt": "2026-05-03T19:53:51.236Z",
+    "totalCandidates": 104,
     "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
@@ -33,25 +33,25 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "fb3ab27f1aec10eb36a9508eb2e24690e8bc886e",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
-      "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
-      "url": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-01T21:33:27.000Z",
-      "summary": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed.",
+      "id": "https://cryptoslate.com/fake-hsbc-bank-stablecoins-hit-the-market-showcasing-dangerous-new-crypto-scam-wave",
+      "title": "Fake HSBC bank stablecoins hit the market showcasing dangerous new crypto scam wave",
+      "url": "https://cryptoslate.com/fake-hsbc-bank-stablecoins-hit-the-market-showcasing-dangerous-new-crypto-scam-wave",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-05-03T18:45:45.000Z",
+      "summary": "The most dangerous stablecoin scam probably looks nothing like what most people picture. There's no anonymous founder, no Discord full of bots, no promise of returns that defy basic economic logic. Instead, it has a professional ticker, institutional branding, and a name that tens of millions of peo",
       "tags": [
-        "clarity",
-        "text",
-        "lets"
+        "fake",
+        "hsbc",
+        "bank"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -66,13 +66,46 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8c2eeab29f805582f31170ecc6e41c791c12bc21",
+      "dedupeFingerprint": "afe9423f6b18c93de304af5400afabe3924e73f6",
       "score": 20
+    },
+    {
+      "id": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
+      "title": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough",
+      "url": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-02T13:01:02.000Z",
+      "summary": "The Mac mini went from a $599 desktop nobody cared about to the hottest piece of AI hardware on the planet. One open-source agent framework did it.",
+      "tags": [
+        "openclaw",
+        "apple",
+        "back"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e35221fa0f92d0577b1b6c32eb0c845491cdb5b1",
+      "score": 16
     },
     {
       "id": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
@@ -99,58 +132,25 @@
       "scoreBreakdown": {
         "relevanceScore": 2,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "941c3f94f0f3738c716dfa54f446e3ed93c9ce7e",
-      "score": 15
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
-      "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
-      "url": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-02T06:24:06.000Z",
-      "summary": "A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.",
-      "tags": [
-        "bitcoin",
-        "quantum",
-        "proposal"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -1,
-        "mentionScore": 0,
         "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5a50f5451019a26e0326f05d5781471ae42fd522",
-      "score": 11
+      "dedupeFingerprint": "941c3f94f0f3738c716dfa54f446e3ed93c9ce7e",
+      "score": 14
     },
     {
-      "id": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack",
-      "title": "Arbitrum DAO starts vote to release 30,766 frozen ETH to DeFi United, following Kelp DAO attack",
-      "url": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack",
+      "id": "https://www.theblock.co/post/399819/north-korea-terrorism-creditors-move-to-seize-arbitrum-frozen-kelp-dao-eth-ahead-of-defi-united-vote",
+      "title": "North Korea terrorism creditors move to seize Arbitrum-frozen Kelp DAO ETH ahead of DeFi United vote",
+      "url": "https://www.theblock.co/post/399819/north-korea-terrorism-creditors-move-to-seize-arbitrum-frozen-kelp-dao-eth-ahead-of-defi-united-vote",
       "source": "The Block",
-      "publishedAt": "2026-04-30T20:58:46.000Z",
-      "summary": "The Arbitrum Security Council froze 30,766 ETH that the Kelp DAO attacker had moved to an Arbitrum One address.",
+      "publishedAt": "2026-05-03T18:39:47.000Z",
+      "summary": "The plaintiffs are not Kelp DAO hack victims but families holding three unsatisfied terrorism judgments against North Korea looking to collect on debts.",
       "tags": [
-        "arbitrum",
-        "starts",
-        "vote"
+        "north",
+        "korea",
+        "terrorism"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": -1,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "4cab142f78428c1f86625d456790bd48f88222df",
-      "score": 9
+      "dedupeFingerprint": "17caf6ffba0fce9926e3cf7e63e8500c29a60fe2",
+      "score": 13
     }
   ]
 }
