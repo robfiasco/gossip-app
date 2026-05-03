@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-05-02T19:53:32.977Z",
-    "totalCandidates": 113,
-    "solanaCandidates": 24,
+    "generatedAt": "2026-05-03T08:45:16.162Z",
+    "totalCandidates": 101,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,25 +33,25 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "fb3ab27f1aec10eb36a9508eb2e24690e8bc886e",
-      "score": 23
+      "score": 22
     },
     {
-      "id": "https://ambcrypto.com/genius-act-stand-off-phantom-consensys-oppose-occs-stablecoin-yield-ban",
-      "title": "GENIUS Act stand-off: Phantom, Consensys oppose OCC’s stablecoin yield ban",
-      "url": "https://ambcrypto.com/genius-act-stand-off-phantom-consensys-oppose-occs-stablecoin-yield-ban",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-02T17:00:27.000Z",
-      "summary": "Banks backed OCC to go forward with the strict and broad yield ban rules",
+      "id": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
+      "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
+      "url": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-01T21:33:27.000Z",
+      "summary": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed.",
       "tags": [
-        "genius",
-        "stand",
-        "phantom"
+        "clarity",
+        "text",
+        "lets"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,48 +64,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 10,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
+        "recencyScore": 8,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7b37326ac4eb0110a7854db686f9a54713bf20b4",
-      "score": 21
-    },
-    {
-      "id": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
-      "title": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough",
-      "url": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-02T13:01:02.000Z",
-      "summary": "The Mac mini went from a $599 desktop nobody cared about to the hottest piece of AI hardware on the planet. One open-source agent framework did it.",
-      "tags": [
-        "openclaw",
-        "apple",
-        "back"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e35221fa0f92d0577b1b6c32eb0c845491cdb5b1",
-      "score": 18
+      "dedupeFingerprint": "8c2eeab29f805582f31170ecc6e41c791c12bc21",
+      "score": 20
     },
     {
       "id": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
@@ -132,25 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 2,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "941c3f94f0f3738c716dfa54f446e3ed93c9ce7e",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "https://ambcrypto.com/chair-tim-scott-eyes-may-clarity-act-markup-were-in-the-red-zone",
-      "title": "Chair Tim Scott eyes May CLARITY Act markup: ‘We’re in the red zone’",
-      "url": "https://ambcrypto.com/chair-tim-scott-eyes-may-clarity-act-markup-were-in-the-red-zone",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-02T00:00:20.000Z",
-      "summary": "It was unclear whether all the 13 Republicans will vote for the markup amid reports of one holdout.",
+      "id": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
+      "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
+      "url": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-02T06:24:06.000Z",
+      "summary": "A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.",
       "tags": [
-        "chair",
-        "scott",
-        "eyes"
+        "bitcoin",
+        "quantum",
+        "proposal"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": -1,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
+        "recencyScore": 8,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "6e756ba0cf52f7a3e8a5735769cecdc264829d07",
-      "score": 13
+      "dedupeFingerprint": "5a50f5451019a26e0326f05d5781471ae42fd522",
+      "score": 11
+    },
+    {
+      "id": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack",
+      "title": "Arbitrum DAO starts vote to release 30,766 frozen ETH to DeFi United, following Kelp DAO attack",
+      "url": "https://www.theblock.co/post/399681/arbitrum-dao-starts-vote-to-release-30766-frozen-eth-to-defi-united-following-kelp-dao-attack",
+      "source": "The Block",
+      "publishedAt": "2026-04-30T20:58:46.000Z",
+      "summary": "The Arbitrum Security Council froze 30,766 ETH that the Kelp DAO attacker had moved to an Arbitrum One address.",
+      "tags": [
+        "arbitrum",
+        "starts",
+        "vote"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -1,
+        "mentionScore": 0,
+        "recencyScore": 6,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "4cab142f78428c1f86625d456790bd48f88222df",
+      "score": 9
     }
   ]
 }
