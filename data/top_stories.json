@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-05-03T19:53:51.236Z",
-    "totalCandidates": 104,
-    "solanaCandidates": 21,
+    "generatedAt": "2026-05-04T09:19:45.958Z",
+    "totalCandidates": 102,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cryptoslate.com/the-genius-act-opened-the-door-for-stablecoins-but-regulators-want-to-narrow-it",
-      "title": "The GENIUS Act opened the door for stablecoins, but regulators want to narrow it",
-      "url": "https://cryptoslate.com/the-genius-act-opened-the-door-for-stablecoins-but-regulators-want-to-narrow-it",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-02T10:30:34.000Z",
-      "summary": "Stablecoin issuers spent years asking Washington for clear rules, and now those rules are becoming the industry’s biggest barrier to entry. The GENIUS Act gave dollar-backed tokens something crypto had wanted since stablecoins became a serious part of the market: a legal home in the US. It defined p",
+      "id": "https://ambcrypto.com/solanas-network-is-booming-so-why-is-sol-still-stuck-below-88",
+      "title": "Solana’s network is booming – So why is SOL still stuck below $88?",
+      "url": "https://ambcrypto.com/solanas-network-is-booming-so-why-is-sol-still-stuck-below-88",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-04T06:00:31.000Z",
+      "summary": "Solana leads in usage and volume, yet SOL price remains capped as buying pressure fails to match network growth.",
       "tags": [
-        "genius",
-        "opened",
-        "door"
+        "solana",
+        "network",
+        "booming"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,15 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 2,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "fb3ab27f1aec10eb36a9508eb2e24690e8bc886e",
-      "score": 21
+      "dedupeFingerprint": "967fadb9517eaa4486695b0e2fa121876154a699",
+      "score": 27
     },
     {
       "id": "https://cryptoslate.com/fake-hsbc-bank-stablecoins-hit-the-market-showcasing-dangerous-new-crypto-scam-wave",
@@ -66,13 +66,46 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "afe9423f6b18c93de304af5400afabe3924e73f6",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "https://cointelegraph.com/news/stablecoins-are-an-outdated-term-a16z-crypto",
+      "title": "‘Stablecoins’ are an outdated term from crypto’s early years: A16z",
+      "url": "https://cointelegraph.com/news/stablecoins-are-an-outdated-term-a16z-crypto",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-04T04:44:12.000Z",
+      "summary": "John Palmer, a developer and brand adviser, agreed, said it \"feels like a bug\" to call them stablecoins and that they should have a self-defined and non-reactionary name.",
+      "tags": [
+        "stablecoins",
+        "outdated",
+        "term"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "7dc4bc6f5109554c5d253564d6e4d7803c593e9c",
+      "score": 18
     },
     {
       "id": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
@@ -99,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e35221fa0f92d0577b1b6c32eb0c845491cdb5b1",
-      "score": 16
+      "score": 15
     },
     {
       "id": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
@@ -132,45 +165,12 @@
       "scoreBreakdown": {
         "relevanceScore": 2,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "941c3f94f0f3738c716dfa54f446e3ed93c9ce7e",
-      "score": 14
-    },
-    {
-      "id": "https://www.theblock.co/post/399819/north-korea-terrorism-creditors-move-to-seize-arbitrum-frozen-kelp-dao-eth-ahead-of-defi-united-vote",
-      "title": "North Korea terrorism creditors move to seize Arbitrum-frozen Kelp DAO ETH ahead of DeFi United vote",
-      "url": "https://www.theblock.co/post/399819/north-korea-terrorism-creditors-move-to-seize-arbitrum-frozen-kelp-dao-eth-ahead-of-defi-united-vote",
-      "source": "The Block",
-      "publishedAt": "2026-05-03T18:39:47.000Z",
-      "summary": "The plaintiffs are not Kelp DAO hack victims but families holding three unsatisfied terrorism judgments against North Korea looking to collect on debts.",
-      "tags": [
-        "north",
-        "korea",
-        "terrorism"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -1,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "17caf6ffba0fce9926e3cf7e63e8500c29a60fe2",
       "score": 13
     }
   ]
