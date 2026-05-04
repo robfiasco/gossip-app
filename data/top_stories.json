@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-05-04T09:19:45.958Z",
+    "generatedAt": "2026-05-04T20:13:26.884Z",
     "totalCandidates": 102,
-    "solanaCandidates": 22,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solanas-network-is-booming-so-why-is-sol-still-stuck-below-88",
-      "title": "Solana’s network is booming – So why is SOL still stuck below $88?",
-      "url": "https://ambcrypto.com/solanas-network-is-booming-so-why-is-sol-still-stuck-below-88",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-04T06:00:31.000Z",
-      "summary": "Solana leads in usage and volume, yet SOL price remains capped as buying pressure fails to match network growth.",
+      "id": "https://www.theblock.co/post/399890/western-union-launches-usdpt-stablecoin-anchorage-solana",
+      "title": "Western Union launches USDPT stablecoin issued by Anchorage on Solana",
+      "url": "https://www.theblock.co/post/399890/western-union-launches-usdpt-stablecoin-anchorage-solana",
+      "source": "The Block",
+      "publishedAt": "2026-05-04T15:13:28.000Z",
+      "summary": "Western Union launched a dollar stablecoin on Solana for 24/7 settlement across 200+ countries, the company said Monday.",
       "tags": [
-        "solana",
-        "network",
-        "booming"
+        "western",
+        "union",
+        "launches"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -34,24 +34,24 @@
         "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "967fadb9517eaa4486695b0e2fa121876154a699",
-      "score": 27
+      "dedupeFingerprint": "5f15988bd057d4e84b4a0db9d7ffc43e860ef08e",
+      "score": 30
     },
     {
-      "id": "https://cryptoslate.com/fake-hsbc-bank-stablecoins-hit-the-market-showcasing-dangerous-new-crypto-scam-wave",
-      "title": "Fake HSBC bank stablecoins hit the market showcasing dangerous new crypto scam wave",
-      "url": "https://cryptoslate.com/fake-hsbc-bank-stablecoins-hit-the-market-showcasing-dangerous-new-crypto-scam-wave",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-03T18:45:45.000Z",
-      "summary": "The most dangerous stablecoin scam probably looks nothing like what most people picture. There's no anonymous founder, no Discord full of bots, no promise of returns that defy basic economic logic. Instead, it has a professional ticker, institutional branding, and a name that tens of millions of peo",
+      "id": "https://decrypt.co/366677/western-union-usdpt-stablecoin-solana-anchorage-digital",
+      "title": "Western Union Launches USDPT Stablecoin on Solana via Anchorage Digital",
+      "url": "https://decrypt.co/366677/western-union-usdpt-stablecoin-solana-anchorage-digital",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-04T17:31:33.000Z",
+      "summary": "Remittance giant Western Union’s USDPT token will power cross-border payments and a consumer spending product launching in 40+ countries.",
       "tags": [
-        "fake",
-        "hsbc",
-        "bank"
+        "western",
+        "union",
+        "launches"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,60 +64,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "afe9423f6b18c93de304af5400afabe3924e73f6",
-      "score": 19
-    },
-    {
-      "id": "https://cointelegraph.com/news/stablecoins-are-an-outdated-term-a16z-crypto",
-      "title": "‘Stablecoins’ are an outdated term from crypto’s early years: A16z",
-      "url": "https://cointelegraph.com/news/stablecoins-are-an-outdated-term-a16z-crypto",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-04T04:44:12.000Z",
-      "summary": "John Palmer, a developer and brand adviser, agreed, said it \"feels like a bug\" to call them stablecoins and that they should have a self-defined and non-reactionary name.",
-      "tags": [
-        "stablecoins",
-        "outdated",
-        "term"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 10,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7dc4bc6f5109554c5d253564d6e4d7803c593e9c",
-      "score": 18
+      "dedupeFingerprint": "212b9736f4202f12f4faa1840587d6b24f07d2f7",
+      "score": 23
     },
     {
-      "id": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
-      "title": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough",
-      "url": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-02T13:01:02.000Z",
-      "summary": "The Mac mini went from a $599 desktop nobody cared about to the hottest piece of AI hardware on the planet. One open-source agent framework did it.",
+      "id": "https://www.coindesk.com/business/2026/05/04/coinbase-boosts-solana-trading-with-dflow-integration",
+      "title": "Coinbase boosts Solana trading with DFlow integration",
+      "url": "https://www.coindesk.com/business/2026/05/04/coinbase-boosts-solana-trading-with-dflow-integration",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-04T10:36:12.000Z",
+      "summary": "Coinbase adding DFlow as its primary router will mean eight times less trade failures.",
       "tags": [
-        "openclaw",
-        "apple",
-        "back"
+        "coinbase",
+        "boosts",
+        "solana"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -132,25 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e35221fa0f92d0577b1b6c32eb0c845491cdb5b1",
-      "score": 15
+      "dedupeFingerprint": "53600635d0ad85e785cfa908e9691e7bf3f9a6ed",
+      "score": 19
     },
     {
-      "id": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
-      "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc’s eCash fork",
-      "url": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-02T16:00:00.000Z",
-      "summary": "Developers and industry figures say the eCash proposal introduces user risk, uneven distribution and philosophical tension.",
+      "id": "https://ambcrypto.com/helium-tests-key-resistance-can-hnt-unlock-a-move-to-1-16",
+      "title": "Helium tests KEY resistance – Can HNT unlock a move to $1.16?",
+      "url": "https://ambcrypto.com/helium-tests-key-resistance-can-hnt-unlock-a-move-to-1-16",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-04T17:00:53.000Z",
+      "summary": "Helium investors may have driven the recent gains, but the rally’s durability remains uncertain.",
       "tags": [
-        "bitcoin",
-        "hazardous",
-        "airdrop"
+        "helium",
+        "tests",
+        "resistance"
       ],
       "topicBucket": "tokenomics",
       "whyItMatters": "Token supply mechanics can move short-term flows fast.",
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 2,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "941c3f94f0f3738c716dfa54f446e3ed93c9ce7e",
-      "score": 13
+      "dedupeFingerprint": "6517903695534b8a278713be5c0c0b7e9407e704",
+      "score": 16
+    },
+    {
+      "id": "https://cointelegraph.com/news/south-koreas-crypto-exchanges-push-bank-on-10m-won-reporting-rule-report",
+      "title": "South Korea crypto sector warns AML proposal goes too far: Report",
+      "url": "https://cointelegraph.com/news/south-koreas-crypto-exchanges-push-bank-on-10m-won-reporting-rule-report",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-04T12:31:47.000Z",
+      "summary": "Crypto industry body DAXA said the proposed rules could push suspicious transaction reports from South Korea’s five largest exchanges to more than 5.4 million a year, Yonhap reported.",
+      "tags": [
+        "south",
+        "korea",
+        "crypto"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "978450fe6ac6552e150e1f70447887d32c1e3933",
+      "score": 15
     }
   ]
 }
