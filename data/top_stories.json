@@ -1,27 +1,126 @@
 {
   "meta": {
-    "generatedAt": "2026-05-05T09:06:32.448Z",
-    "totalCandidates": 106,
-    "solanaCandidates": 21,
+    "generatedAt": "2026-05-05T20:05:18.464Z",
+    "totalCandidates": 114,
+    "solanaCandidates": 28,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/why-sol-is-struggling-even-as-solanas-ecosystem-keeps-growing",
-      "title": "Why SOL is struggling even as Solana’s ecosystem keeps growing",
-      "url": "https://ambcrypto.com/why-sol-is-struggling-even-as-solanas-ecosystem-keeps-growing",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-04T22:00:58.000Z",
-      "summary": "High DApp revenue and DEX volume indicated sustained user activity across the network.",
+      "id": "https://www.theblock.co/post/400086/state-street-and-galaxy-launch-fund-on-solana-designed-to-sweep-stablecoins-into-productive-vehicle",
+      "title": "State Street and Galaxy launch fund on Solana designed to ‘sweep’ stablecoins into productive vehicle",
+      "url": "https://www.theblock.co/post/400086/state-street-and-galaxy-launch-fund-on-solana-designed-to-sweep-stablecoins-into-productive-vehicle",
+      "source": "The Block",
+      "publishedAt": "2026-05-05T17:27:16.000Z",
+      "summary": "The State Street Galaxy Onchain Liquidity Sweep Fund lets investors push stablecoins into a yield-bearing tokenized fund.",
       "tags": [
-        "struggling",
-        "even",
+        "state",
+        "street",
+        "galaxy"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "317a8df497c5d387737beae351d7f6a7cb5f3772",
+      "score": 30
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/05/05/western-union-s-solana-based-stablecoin-could-reshape-its-payment-model-analyst-says",
+      "title": "Western Union’s Solana-based stablecoin could reshape its payment model, analyst says",
+      "url": "https://www.coindesk.com/business/2026/05/05/western-union-s-solana-based-stablecoin-could-reshape-its-payment-model-analyst-says",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-05T17:22:22.000Z",
+      "summary": "Western Union launched USDPT, a dollar-backed stablecoin on Solana, issued by Anchorage Digital Bank, for 24/7 settlement with agents and partners.",
+      "tags": [
+        "western",
+        "union",
         "solana"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "56e66c0fdef1090b6977e85e306f9d26027d900b",
+      "score": 30
+    },
+    {
+      "id": "https://solana.com/news/solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud",
+      "title": "Solana Foundation Launches Pay.sh in Collaboration with Google Cloud",
+      "url": "https://solana.com/news/solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud",
+      "source": "Solana News",
+      "publishedAt": "2026-05-05T16:15:00.000Z",
+      "summary": "Solana Foundation In collaboration with Google Cloud introduced Pay.sh, a gateway service designed to bridge the gap between autonomous agents and enterprise infrastructure.",
+      "tags": [
+        "solana",
+        "foundation",
+        "launches"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 14,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "474c3e8639ab272262e577ec06ace337127863f9",
+      "score": 29
+    },
+    {
+      "id": "https://www.theblock.co/post/400078/moonpay-acquires-solana-execution-layer-firm-dflow-used-coinbase-phantom",
+      "title": "MoonPay acquires Solana execution layer firm DFlow used by Coinbase, Phantom",
+      "url": "https://www.theblock.co/post/400078/moonpay-acquires-solana-execution-layer-firm-dflow-used-coinbase-phantom",
+      "source": "The Block",
+      "publishedAt": "2026-05-05T17:21:11.000Z",
+      "summary": "DFlow is used by both Coinbase and Phantom and has processed over $50 billion in cumulative trading volume.",
+      "tags": [
+        "moonpay",
+        "acquires",
+        "solana"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -34,57 +133,24 @@
         "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7f2ba946619ba89e5330c04ea4921647e1265b46",
-      "score": 24
+      "dedupeFingerprint": "44c99b5ad76e027e2aeec02da6cb81d21404f7d8",
+      "score": 27
     },
     {
-      "id": "https://cointelegraph.com/news/bankers-still-says-new-proposal-in-clarity-act-falls-short-of-protecting-bank-deposits",
-      "title": "Stablecoin proposal still ‘falls short’ of protecting bank deposits: US banks",
-      "url": "https://cointelegraph.com/news/bankers-still-says-new-proposal-in-clarity-act-falls-short-of-protecting-bank-deposits",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-05T07:07:27.000Z",
-      "summary": "US Senator Thom Tillis said the current text of the CLARITY Act offers a compromise for the crypto industry and banks and provides a bipartisan path for the bill’s passage.",
-      "tags": [
-        "stablecoin",
-        "proposal",
-        "still"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d985a3e69146a893a18b07c689b441ae938eb4ea",
-      "score": 20
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/05/05/ripple-to-share-north-korean-threat-intelligence-with-crypto-firms",
-      "title": "Ripple to share North Korean threat intelligence with crypto firms",
-      "url": "https://www.coindesk.com/tech/2026/05/05/ripple-to-share-north-korean-threat-intelligence-with-crypto-firms",
+      "id": "https://www.coindesk.com/tech/2026/05/05/jito-labs-launches-jtx-as-self-custody-trading-heats-up-on-solana",
+      "title": "Jito Labs launches self-custody trading tool as activity heats up on Solana",
+      "url": "https://www.coindesk.com/tech/2026/05/05/jito-labs-launches-jtx-as-self-custody-trading-heats-up-on-solana",
       "source": "CoinDesk",
-      "publishedAt": "2026-05-05T06:12:38.000Z",
-      "summary": "Ripple said April's $285 million Drift breach revealed a new pattern of long-cycle social engineering replacing traditional smart contract exploits.",
+      "publishedAt": "2026-05-05T15:00:00.000Z",
+      "summary": "JTX is the company’s first product built specifically for traders. It allows users to trade tokens on Solana while maintaining self-custody.",
       "tags": [
-        "ripple",
-        "share",
-        "north"
+        "jito",
+        "labs",
+        "launches"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -97,81 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7948f65678f5d73e88b8b0f15b558d9c94fcc108",
-      "score": 17
-    },
-    {
-      "id": "https://ambcrypto.com/crypto-gaming-gains-ground-in-ireland-as-digital-assets-enter-mainstream-play",
-      "title": "Crypto gaming gains ground in Ireland as digital assets enter mainstream play",
-      "url": "https://ambcrypto.com/crypto-gaming-gains-ground-in-ireland-as-digital-assets-enter-mainstream-play",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-05T06:30:47.000Z",
-      "summary": "The Gambling Regulatory Authority of Ireland began operating on 5 March 2025, and the State opened applications for betting licences on 9 February 2026 under the Gambling Regulation Act 2024. That means the market has moved away from drift and toward structure. In that setting, crypto gaming has bec",
-      "tags": [
-        "crypto",
-        "gaming",
-        "gains"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "95099dd202d8fb9ca57f6653f53ea381f225cb5d",
-      "score": 14
-    },
-    {
-      "id": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
-      "title": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough",
-      "url": "https://decrypt.co/366389/openclaw-apple-mac-mini-shortage-ai-2026",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-02T13:01:02.000Z",
-      "summary": "The Mac mini went from a $599 desktop nobody cared about to the hottest piece of AI hardware on the planet. One open-source agent framework did it.",
-      "tags": [
-        "openclaw",
-        "apple",
-        "back"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e35221fa0f92d0577b1b6c32eb0c845491cdb5b1",
-      "score": 13
+      "dedupeFingerprint": "474c14ef4c189808b1047e0c9e271bb4c0b0f172",
+      "score": 27
     }
   ]
 }

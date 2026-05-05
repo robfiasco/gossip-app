@@ -1,26 +1,26 @@
 {
   "date": "2026-05-05",
-  "generated_at_utc": "2026-05-05T09:06:43.407Z",
-  "ctxMarket": "Attention is on Solana’s growing ecosystem activity and major integrations, despite SOL’s price facing challenges. Stablecoin launches and trading infrastructure upgrades are drawing institutional and retail interest.",
-  "ctxTalking": "• Western Union’s USDPT stablecoin launch on Solana for global remittance and payments\n• Coinbase integrating DFlow to reduce Solana trade failures\n• Crypto gaming gaining regulatory traction in Ireland",
-  "ctxMatters": "Solana is being positioned as core infrastructure for global payments and remittances, with Western Union’s stablecoin rollout spanning over 200 countries. Improved trading reliability through DFlow integration on Coinbase could boost user confidence. Regulatory acceptance in new markets like Ireland signals expanding mainstream adoption opportunities for Solana-based projects.",
-  "ctxSignal": "Signal: Major payment and trading platforms are actively building on Solana, indicating institutional validation.\nNoise: Short-term SOL price struggles, as ecosystem fundamentals remain strong.",
-  "ctxGlossary": "Stablecoin — a cryptocurrency pegged to a stable asset, like the US dollar.\nDFlow — a Solana-based order routing protocol designed to improve trade execution.\nRemittance — transferring money, often across borders, typically by migrant workers to their home countries.",
+  "generated_at_utc": "2026-05-05T20:05:28.144Z",
+  "ctxMarket": "Attention is focused on major institutions launching stablecoins and funds on Solana, alongside infrastructure upgrades and security incidents. The ecosystem is seeing increased engagement from both traditional finance and tech firms.",
+  "ctxTalking": "• SoFi and Western Union are launching stablecoins on Solana, citing speed and cost benefits\n• State Street and Galaxy introduced a fund to make stablecoin holdings productive on Solana\n• Drift is addressing a major exploit with a recovery plan involving tokenized claims and law enforcement",
+  "ctxMatters": "Institutional stablecoin launches may expand Solana’s role in payments and settlements. New fund products could attract more capital to Solana’s DeFi ecosystem. Security incidents like the Drift exploit highlight ongoing risks and the need for robust recovery mechanisms.",
+  "ctxSignal": "Signal: Institutional adoption of Solana for stablecoins and funds, and infrastructure improvements like the upcoming 'Alpenglow' upgrade.\nNoise: Lawsuit drama around meme coins with celebrity involvement.",
+  "ctxGlossary": "Stablecoin — A cryptocurrency pegged to a stable asset, like the US dollar.\nTokenized claims — Digital tokens representing a right to recover funds or assets.\nExecution layer — The part of blockchain infrastructure that processes transactions.",
   "readMore": [
     {
-      "title": "Crypto gaming gains ground in Ireland as digital assets enter mainstream play",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/crypto-gaming-gains-ground-in-ireland-as-digital-assets-enter-mainstream-play"
+      "title": "SoFi to launch its stablecoin on Solana, citing speed and cost",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/400098/sofi-to-launch-its-stablecoin-on-solana-citing-speed-and-cost"
     },
     {
-      "title": "Ripple to share North Korean threat intelligence with crypto firms",
+      "title": "Drift outlines a recovery plan for users after $295 million DPRK-linked exploit",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/05/ripple-to-share-north-korean-threat-intelligence-with-crypto-firms"
+      "url": "https://www.coindesk.com/business/2026/05/05/drift-outlines-a-recovery-plan-for-users-after-usd295-million-dprk-linked-exploit"
     },
     {
-      "title": "Western Union begins USDPT stablecoin rollout on Solana",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/western-union-officially-launches-usdpt-stablecoin-on-solana"
+      "title": "Iggy Azalea Faces Lawsuit Over Solana Meme Coin",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/366832/iggy-azalea-lawsuit-solana-mother-meme-coin"
     }
   ]
 }
