@@ -1,13 +1,79 @@
 {
   "meta": {
-    "generatedAt": "2026-05-06T09:21:34.709Z",
-    "totalCandidates": 114,
-    "solanaCandidates": 31,
+    "generatedAt": "2026-05-06T20:20:15.011Z",
+    "totalCandidates": 115,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://www.theblock.co/post/400244/solana-company-jito-foundation-target-institutional-solana-staking-expansion-in-asia",
+      "title": "Solana Company, Jito Foundation target institutional Solana staking expansion in Asia",
+      "url": "https://www.theblock.co/post/400244/solana-company-jito-foundation-target-institutional-solana-staking-expansion-in-asia",
+      "source": "The Block",
+      "publishedAt": "2026-05-06T15:29:59.000Z",
+      "summary": "The two companies will build institutional-grade validator infrastructure, optimize yield, and drive Solana adoption in Asia.",
+      "tags": [
+        "solana",
+        "company",
+        "jito"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 21,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "f4ac1ba9e6e180cac01b3c0755b1f3843443141d",
+      "score": 35
+    },
+    {
+      "id": "https://www.theblock.co/post/400187/opentrade-raises-17m-to-expand-stablecoin-yield-infrastructure-after-topping-200m-tvl",
+      "title": "OpenTrade raises $17M to expand stablecoin yield infrastructure after topping $200M TVL",
+      "url": "https://www.theblock.co/post/400187/opentrade-raises-17m-to-expand-stablecoin-yield-infrastructure-after-topping-200m-tvl",
+      "source": "The Block",
+      "publishedAt": "2026-05-06T13:00:00.000Z",
+      "summary": "OpenTrade raises $17 million as the stablecoin platform tops $200 million in TVL and expands infrastructure targeting neobanks and fintechs.",
+      "tags": [
+        "opentrade",
+        "raises",
+        "expand"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b0d71b08292b632a8c30edf8bf5d5211f65fbfe1",
+      "score": 30
+    },
     {
       "id": "https://decrypt.co/366897/how-solana-exchange-drift-repay-users-295-million-crypto-hack",
       "title": "How Solana Exchange Drift Plans to Repay Users After $295 Million Crypto Hack",
@@ -33,61 +99,28 @@
       "scoreBreakdown": {
         "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "70ce8483a33c026afa86f7c4431c90bfb8a05090",
-      "score": 29
+      "score": 28
     },
     {
-      "id": "https://www.theblock.co/post/400051/securitize-taps-jump-and-jupiter-as-it-rolls-out-fully-onchain-regulated-onchain-stocks",
-      "title": "Securitize taps Jump and Jupiter as it rolls out fully onchain, regulated onchain stocks",
-      "url": "https://www.theblock.co/post/400051/securitize-taps-jump-and-jupiter-as-it-rolls-out-fully-onchain-regulated-onchain-stocks",
-      "source": "The Block",
-      "publishedAt": "2026-05-05T14:46:18.000Z",
-      "summary": "Jump will provide institutional liquidity via its PropAMM, while Solana DeFi aggregator Jupiter will support retail and institutional access.",
+      "id": "https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators",
+      "title": "Bermuda pushes stablecoin payments with USDC airdrop as it courts crypto firms, regulators",
+      "url": "https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-06T17:16:29.000Z",
+      "summary": "Premier David Burt said Bermuda's \"onchain economy\" plan aims to bring stablecoins into everyday commerce.",
       "tags": [
-        "securitize",
-        "taps",
-        "jump"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 14,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2e39b90bdafaeb83405f5757afc0f6fc918f4366",
-      "score": 27
-    },
-    {
-      "id": "https://www.theblock.co/post/400098/sofi-to-launch-its-stablecoin-on-solana-citing-speed-and-cost",
-      "title": "SoFi to launch its stablecoin on Solana, citing speed and cost",
-      "url": "https://www.theblock.co/post/400098/sofi-to-launch-its-stablecoin-on-solana-citing-speed-and-cost",
-      "source": "The Block",
-      "publishedAt": "2026-05-05T19:15:55.000Z",
-      "summary": "SoFiUSD is a fully reserved U.S. dollar stablecoin issued by SoFi Bank, a nationally chartered bank.",
-      "tags": [
-        "sofi",
-        "launch",
+        "bermuda",
+        "pushes",
         "stablecoin"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -98,80 +131,47 @@
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
         "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e1af28825c864312d23689e6c3b6bf4d38b40165",
-      "score": 26
-    },
-    {
-      "id": "https://www.theblock.co/post/400078/moonpay-acquires-solana-execution-layer-firm-dflow-used-coinbase-phantom",
-      "title": "MoonPay acquires Solana execution layer firm DFlow used by Coinbase, Phantom",
-      "url": "https://www.theblock.co/post/400078/moonpay-acquires-solana-execution-layer-firm-dflow-used-coinbase-phantom",
-      "source": "The Block",
-      "publishedAt": "2026-05-05T17:21:11.000Z",
-      "summary": "DFlow is used by both Coinbase and Phantom and has processed over $50 billion in cumulative trading volume.",
-      "tags": [
-        "moonpay",
-        "acquires",
-        "solana"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "44c99b5ad76e027e2aeec02da6cb81d21404f7d8",
-      "score": 26
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/05/06/beyond-humans-lily-liu-says-solana-is-building-the-payment-rails-for-the-ai-machine-economy",
-      "title": "Beyond humans: Lily Liu says Solana is building the payment rails for the 'AI machine economy'",
-      "url": "https://www.coindesk.com/business/2026/05/06/beyond-humans-lily-liu-says-solana-is-building-the-payment-rails-for-the-ai-machine-economy",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-06T08:35:24.000Z",
-      "summary": "At Consensus Miami 2026, Solana Foundation President Lily Liu argued that stablecoin adoption by firms like Western Union validates Solana’s role as financial infrastructure for both human and machine economies.",
-      "tags": [
-        "beyond",
-        "humans",
-        "lily"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "cc6439f96283126cd8030b3eafcb3040c239d22a",
-      "score": 25
+      "dedupeFingerprint": "45310f77ca055bbb9e0c8a13bcc882f5bd0d5197",
+      "score": 27
+    },
+    {
+      "id": "https://www.theblock.co/post/400230/clarity-act-will-pass-this-summer-coinbase-clo-grewal-backs-stablecoin-compromise-urges-banks-to-accept-deal",
+      "title": "‘Clarity Act will pass this summer’: Coinbase CLO Grewal backs stablecoin compromise, urges banks to accept deal",
+      "url": "https://www.theblock.co/post/400230/clarity-act-will-pass-this-summer-coinbase-clo-grewal-backs-stablecoin-compromise-urges-banks-to-accept-deal",
+      "source": "The Block",
+      "publishedAt": "2026-05-06T14:46:59.000Z",
+      "summary": "Coinbase CLO Paul Grewal says the Clarity Act will pass this summer, backing the Tillis-Alsobrooks stablecoin compromise.",
+      "tags": [
+        "clarity",
+        "will",
+        "pass"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "fba9ca7197e67e497d5fe8710c52ecf75b93b28f",
+      "score": 22
     }
   ]
 }
