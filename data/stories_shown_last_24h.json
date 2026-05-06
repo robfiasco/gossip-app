@@ -1,5 +1,82 @@
 [
   {
+    "id": "787293bbd828ab0f1f9002b81b2d91e6a25c46be",
+    "title": "Signal Board Summary 2026-05-06",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-05-06T09:21:42.882Z",
+    "lastSeenAt": "2026-05-06T09:21:42.882Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "db1bd591b0ae1d58bd9f0ec36ec55ec018072457",
+    "title": "Solana and Google Cloud Launch Stablecoin Payments Service for AI Agents",
+    "url": "https://decrypt.co/366876/solana-google-cloud-launch-stablecoin-payments-service-ai-agents",
+    "source": "Decrypt",
+    "firstSeenAt": "2026-05-06T09:21:34.879Z",
+    "lastSeenAt": "2026-05-06T09:21:34.879Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "google",
+      "cloud",
+      "launch",
+      "stablecoin",
+      "payments",
+      "service",
+      "agents"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "e1af28825c864312d23689e6c3b6bf4d38b40165",
+    "title": "SoFi to launch its stablecoin on Solana, citing speed and cost",
+    "url": "https://www.theblock.co/post/400098/sofi-to-launch-its-stablecoin-on-solana-citing-speed-and-cost",
+    "source": "The Block",
+    "firstSeenAt": "2026-05-06T09:21:34.879Z",
+    "lastSeenAt": "2026-05-06T09:21:34.879Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "sofi",
+      "launch",
+      "stablecoin",
+      "solana",
+      "citing",
+      "speed",
+      "cost",
+      "sofiusd"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "cc6439f96283126cd8030b3eafcb3040c239d22a",
+    "title": "Beyond humans: Lily Liu says Solana is building the payment rails for the 'AI machine economy'",
+    "url": "https://www.coindesk.com/business/2026/05/06/beyond-humans-lily-liu-says-solana-is-building-the-payment-rails-for-the-ai-machine-economy",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-05-06T09:21:34.878Z",
+    "lastSeenAt": "2026-05-06T09:21:34.878Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "beyond",
+      "humans",
+      "lily",
+      "says",
+      "solana",
+      "building",
+      "payment",
+      "rails"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "474c3e8639ab272262e577ec06ace337127863f9",
     "title": "Solana Foundation Launches Pay.sh in Collaboration with Google Cloud",
     "url": "https://solana.com/news/solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud",
@@ -58,132 +135,6 @@
       "could",
       "reshape",
       "payment"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "6f4ec496f1ac68f7f07ae4b3f38c4b9086aa3fae",
-    "title": "SOL Strategies to acquire cross-chain swap aggregator Houdini for $18 million",
-    "url": "https://www.theblock.co/post/399844/sol-strategies-buy-houdini",
-    "source": "The Block",
-    "firstSeenAt": "2026-05-05T09:06:32.616Z",
-    "lastSeenAt": "2026-05-05T09:06:32.616Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "strategies",
-      "acquire",
-      "cross",
-      "chain",
-      "swap",
-      "aggregator",
-      "houdini",
-      "million"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "7948f65678f5d73e88b8b0f15b558d9c94fcc108",
-    "title": "Ripple to share North Korean threat intelligence with crypto firms",
-    "url": "https://www.coindesk.com/tech/2026/05/05/ripple-to-share-north-korean-threat-intelligence-with-crypto-firms",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-05-05T09:06:32.615Z",
-    "lastSeenAt": "2026-05-05T09:06:32.615Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "ripple",
-      "share",
-      "north",
-      "korean",
-      "threat",
-      "intelligence",
-      "with",
-      "crypto"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "95099dd202d8fb9ca57f6653f53ea381f225cb5d",
-    "title": "Crypto gaming gains ground in Ireland as digital assets enter mainstream play",
-    "url": "https://ambcrypto.com/crypto-gaming-gains-ground-in-ireland-as-digital-assets-enter-mainstream-play",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-05-05T09:06:32.615Z",
-    "lastSeenAt": "2026-05-05T09:06:32.615Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "crypto",
-      "gaming",
-      "gains",
-      "ground",
-      "ireland",
-      "digital",
-      "assets",
-      "enter"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "53600635d0ad85e785cfa908e9691e7bf3f9a6ed",
-    "title": "Coinbase boosts Solana trading with DFlow integration",
-    "url": "https://www.coindesk.com/business/2026/05/04/coinbase-boosts-solana-trading-with-dflow-integration",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-05-04T20:13:27.063Z",
-    "lastSeenAt": "2026-05-04T20:13:27.063Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "coinbase",
-      "boosts",
-      "solana",
-      "trading",
-      "with",
-      "dflow",
-      "integration",
-      "adding"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "212b9736f4202f12f4faa1840587d6b24f07d2f7",
-    "title": "Western Union Launches USDPT Stablecoin on Solana via Anchorage Digital",
-    "url": "https://decrypt.co/366677/western-union-usdpt-stablecoin-solana-anchorage-digital",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-05-04T20:13:27.062Z",
-    "lastSeenAt": "2026-05-04T20:13:27.062Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "western",
-      "union",
-      "launches",
-      "usdpt",
-      "stablecoin",
-      "solana",
-      "anchorage",
-      "digital"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "5f15988bd057d4e84b4a0db9d7ffc43e860ef08e",
-    "title": "Western Union launches USDPT stablecoin issued by Anchorage on Solana",
-    "url": "https://www.theblock.co/post/399890/western-union-launches-usdpt-stablecoin-anchorage-solana",
-    "source": "The Block",
-    "firstSeenAt": "2026-05-04T20:13:27.062Z",
-    "lastSeenAt": "2026-05-04T20:13:27.062Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "western",
-      "union",
-      "launches",
-      "usdpt",
-      "stablecoin",
-      "issued",
-      "anchorage",
-      "solana"
     ],
     "majorUpdate": false,
     "updateReason": null

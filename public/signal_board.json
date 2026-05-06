@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-05",
-  "generated_at_utc": "2026-05-05T20:05:28.144Z",
-  "ctxMarket": "Attention is focused on major institutions launching stablecoins and funds on Solana, alongside infrastructure upgrades and security incidents. The ecosystem is seeing increased engagement from both traditional finance and tech firms.",
-  "ctxTalking": "• SoFi and Western Union are launching stablecoins on Solana, citing speed and cost benefits\n• State Street and Galaxy introduced a fund to make stablecoin holdings productive on Solana\n• Drift is addressing a major exploit with a recovery plan involving tokenized claims and law enforcement",
-  "ctxMatters": "Institutional stablecoin launches may expand Solana’s role in payments and settlements. New fund products could attract more capital to Solana’s DeFi ecosystem. Security incidents like the Drift exploit highlight ongoing risks and the need for robust recovery mechanisms.",
-  "ctxSignal": "Signal: Institutional adoption of Solana for stablecoins and funds, and infrastructure improvements like the upcoming 'Alpenglow' upgrade.\nNoise: Lawsuit drama around meme coins with celebrity involvement.",
-  "ctxGlossary": "Stablecoin — A cryptocurrency pegged to a stable asset, like the US dollar.\nTokenized claims — Digital tokens representing a right to recover funds or assets.\nExecution layer — The part of blockchain infrastructure that processes transactions.",
+  "date": "2026-05-06",
+  "generated_at_utc": "2026-05-06T09:21:42.879Z",
+  "ctxMarket": "Attention is on Solana’s expanding role in payments and institutional finance, with several announcements around stablecoins and onchain financial products. Recent volatility in crypto fund flows included notable Solana exits, but inflows elsewhere stabilized the broader market.",
+  "ctxTalking": "• Solana’s positioning as infrastructure for AI-driven and machine economies, highlighted by new stablecoin payment services for AI agents.\n• Major institutions like SoFi and State Street launching stablecoin products and tokenized funds on Solana.\n• Drift Protocol’s response to a high-profile exploit, including recovery plans and collaboration with law enforcement.",
+  "ctxMatters": "Solana’s integration with AI and traditional finance signals growing institutional and enterprise adoption. New stablecoin services and tokenized funds may broaden use cases and liquidity on the network. Security incidents like the Drift hack remain a concern, but recovery efforts and traceability are being emphasized.",
+  "ctxSignal": "Signal: Institutional launches and AI integrations on Solana reflect real-world adoption trends.\nNoise: Short-term volatility in fund flows without clear long-term impact.",
+  "ctxGlossary": "Stablecoin — A cryptocurrency pegged to a stable asset, usually the US dollar.\nOnchain reinsurance — Insurance risk and capital managed directly on blockchain platforms.\nTokenized fund — An investment fund represented by blockchain tokens, enabling programmable features.",
   "readMore": [
     {
-      "title": "SoFi to launch its stablecoin on Solana, citing speed and cost",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/400098/sofi-to-launch-its-stablecoin-on-solana-citing-speed-and-cost"
-    },
-    {
-      "title": "Drift outlines a recovery plan for users after $295 million DPRK-linked exploit",
+      "title": "Beyond humans",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/05/05/drift-outlines-a-recovery-plan-for-users-after-usd295-million-dprk-linked-exploit"
+      "url": "https://www.coindesk.com/business/2026/05/06/beyond-humans-lily-liu-says-solana-is-building-the-payment-rails-for-the-ai-machine-economy"
     },
     {
-      "title": "Iggy Azalea Faces Lawsuit Over Solana Meme Coin",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/366832/iggy-azalea-lawsuit-solana-mother-meme-coin"
+      "title": "Forward Industries, RockawayX back OnRe to build onchain reinsurance on Solana",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/forward-industries-rockawayx-onre-solana-reinsurance"
+    },
+    {
+      "title": "How $619M Midweek Bleed Was Erased by Massive One-Day Crypto Inflow",
+      "source": "CryptoPotato",
+      "url": "https://cryptopotato.com/how-619m-midweek-bleed-was-erased-by-massive-one-day-crypto-inflow"
     }
   ]
 }

@@ -1,92 +1,59 @@
 {
   "meta": {
-    "generatedAt": "2026-05-05T20:05:18.464Z",
+    "generatedAt": "2026-05-06T09:21:34.709Z",
     "totalCandidates": 114,
-    "solanaCandidates": 28,
+    "solanaCandidates": 31,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/400086/state-street-and-galaxy-launch-fund-on-solana-designed-to-sweep-stablecoins-into-productive-vehicle",
-      "title": "State Street and Galaxy launch fund on Solana designed to ‘sweep’ stablecoins into productive vehicle",
-      "url": "https://www.theblock.co/post/400086/state-street-and-galaxy-launch-fund-on-solana-designed-to-sweep-stablecoins-into-productive-vehicle",
-      "source": "The Block",
-      "publishedAt": "2026-05-05T17:27:16.000Z",
-      "summary": "The State Street Galaxy Onchain Liquidity Sweep Fund lets investors push stablecoins into a yield-bearing tokenized fund.",
-      "tags": [
-        "state",
-        "street",
-        "galaxy"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "317a8df497c5d387737beae351d7f6a7cb5f3772",
-      "score": 30
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/05/05/western-union-s-solana-based-stablecoin-could-reshape-its-payment-model-analyst-says",
-      "title": "Western Union’s Solana-based stablecoin could reshape its payment model, analyst says",
-      "url": "https://www.coindesk.com/business/2026/05/05/western-union-s-solana-based-stablecoin-could-reshape-its-payment-model-analyst-says",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-05T17:22:22.000Z",
-      "summary": "Western Union launched USDPT, a dollar-backed stablecoin on Solana, issued by Anchorage Digital Bank, for 24/7 settlement with agents and partners.",
-      "tags": [
-        "western",
-        "union",
-        "solana"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "56e66c0fdef1090b6977e85e306f9d26027d900b",
-      "score": 30
-    },
-    {
-      "id": "https://solana.com/news/solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud",
-      "title": "Solana Foundation Launches Pay.sh in Collaboration with Google Cloud",
-      "url": "https://solana.com/news/solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud",
-      "source": "Solana News",
-      "publishedAt": "2026-05-05T16:15:00.000Z",
-      "summary": "Solana Foundation In collaboration with Google Cloud introduced Pay.sh, a gateway service designed to bridge the gap between autonomous agents and enterprise infrastructure.",
+      "id": "https://decrypt.co/366897/how-solana-exchange-drift-repay-users-295-million-crypto-hack",
+      "title": "How Solana Exchange Drift Plans to Repay Users After $295 Million Crypto Hack",
+      "url": "https://decrypt.co/366897/how-solana-exchange-drift-repay-users-295-million-crypto-hack",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-05T21:25:23.000Z",
+      "summary": "Solana's Drift Protocol says most of the stolen funds linked to North Korean hackers remain traceable—and it has a plan to make victims whole.",
       "tags": [
         "solana",
-        "foundation",
-        "launches"
+        "exchange",
+        "drift"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "70ce8483a33c026afa86f7c4431c90bfb8a05090",
+      "score": 29
+    },
+    {
+      "id": "https://www.theblock.co/post/400051/securitize-taps-jump-and-jupiter-as-it-rolls-out-fully-onchain-regulated-onchain-stocks",
+      "title": "Securitize taps Jump and Jupiter as it rolls out fully onchain, regulated onchain stocks",
+      "url": "https://www.theblock.co/post/400051/securitize-taps-jump-and-jupiter-as-it-rolls-out-fully-onchain-regulated-onchain-stocks",
+      "source": "The Block",
+      "publishedAt": "2026-05-05T14:46:18.000Z",
+      "summary": "Jump will provide institutional liquidity via its PropAMM, while Solana DeFi aggregator Jupiter will support retail and institutional access.",
+      "tags": [
+        "securitize",
+        "taps",
+        "jump"
+      ],
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -99,13 +66,46 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 5,
+        "recencyScore": 9,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "474c3e8639ab272262e577ec06ace337127863f9",
-      "score": 29
+      "dedupeFingerprint": "2e39b90bdafaeb83405f5757afc0f6fc918f4366",
+      "score": 27
+    },
+    {
+      "id": "https://www.theblock.co/post/400098/sofi-to-launch-its-stablecoin-on-solana-citing-speed-and-cost",
+      "title": "SoFi to launch its stablecoin on Solana, citing speed and cost",
+      "url": "https://www.theblock.co/post/400098/sofi-to-launch-its-stablecoin-on-solana-citing-speed-and-cost",
+      "source": "The Block",
+      "publishedAt": "2026-05-05T19:15:55.000Z",
+      "summary": "SoFiUSD is a fully reserved U.S. dollar stablecoin issued by SoFi Bank, a nationally chartered bank.",
+      "tags": [
+        "sofi",
+        "launch",
+        "stablecoin"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e1af28825c864312d23689e6c3b6bf4d38b40165",
+      "score": 26
     },
     {
       "id": "https://www.theblock.co/post/400078/moonpay-acquires-solana-execution-layer-firm-dflow-used-coinbase-phantom",
@@ -132,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "44c99b5ad76e027e2aeec02da6cb81d21404f7d8",
-      "score": 27
+      "score": 26
     },
     {
-      "id": "https://www.coindesk.com/tech/2026/05/05/jito-labs-launches-jtx-as-self-custody-trading-heats-up-on-solana",
-      "title": "Jito Labs launches self-custody trading tool as activity heats up on Solana",
-      "url": "https://www.coindesk.com/tech/2026/05/05/jito-labs-launches-jtx-as-self-custody-trading-heats-up-on-solana",
+      "id": "https://www.coindesk.com/business/2026/05/06/beyond-humans-lily-liu-says-solana-is-building-the-payment-rails-for-the-ai-machine-economy",
+      "title": "Beyond humans: Lily Liu says Solana is building the payment rails for the 'AI machine economy'",
+      "url": "https://www.coindesk.com/business/2026/05/06/beyond-humans-lily-liu-says-solana-is-building-the-payment-rails-for-the-ai-machine-economy",
       "source": "CoinDesk",
-      "publishedAt": "2026-05-05T15:00:00.000Z",
-      "summary": "JTX is the company’s first product built specifically for traders. It allows users to trade tokens on Solana while maintaining self-custody.",
+      "publishedAt": "2026-05-06T08:35:24.000Z",
+      "summary": "At Consensus Miami 2026, Solana Foundation President Lily Liu argued that stablecoin adoption by firms like Western Union validates Solana’s role as financial infrastructure for both human and machine economies.",
       "tags": [
-        "jito",
-        "labs",
-        "launches"
+        "beyond",
+        "humans",
+        "lily"
       ],
-      "topicBucket": "general",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 11,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "474c14ef4c189808b1047e0c9e271bb4c0b0f172",
-      "score": 27
+      "dedupeFingerprint": "cc6439f96283126cd8030b3eafcb3040c239d22a",
+      "score": 25
     }
   ]
 }
