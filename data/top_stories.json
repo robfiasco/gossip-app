@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-05-07T09:29:03.643Z",
+    "generatedAt": "2026-05-07T20:12:30.016Z",
     "totalCandidates": 115,
-    "solanaCandidates": 21,
+    "solanaCandidates": 24,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators",
-      "title": "Bermuda pushes stablecoin payments with USDC airdrop as it courts crypto firms, regulators",
-      "url": "https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-06T17:16:29.000Z",
-      "summary": "Premier David Burt said Bermuda's \"onchain economy\" plan aims to bring stablecoins into everyday commerce.",
+      "id": "https://solana.com/news/solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud",
+      "title": "Solana Foundation Launches Pay.sh in Collaboration with Google Cloud",
+      "url": "https://solana.com/news/solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud",
+      "source": "Solana News",
+      "publishedAt": "2026-05-05T16:15:00.000Z",
+      "summary": "Solana Foundation In collaboration with Google Cloud introduced Pay.sh, a gateway service designed to bridge the gap between autonomous agents and enterprise infrastructure.",
       "tags": [
-        "bermuda",
-        "pushes",
-        "stablecoin"
+        "solana",
+        "foundation",
+        "launches"
       ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,27 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 6,
+        "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "45310f77ca055bbb9e0c8a13bcc882f5bd0d5197",
-      "score": 26
+      "dedupeFingerprint": "474c3e8639ab272262e577ec06ace337127863f9",
+      "score": 25
     },
     {
-      "id": "https://ambcrypto.com/solana-whale-bets-8-mln-on-sol-as-price-trades-near-88-is-90-next",
-      "title": "Solana whale bets $8 mln on SOL as price trades near $88 – Is $90 next?",
-      "url": "https://ambcrypto.com/solana-whale-bets-8-mln-on-sol-as-price-trades-near-88-is-90-next",
+      "id": "https://ambcrypto.com/solana-price-stuck-in-range-can-sol-reverse-its-long-term-downtrend",
+      "title": "Solana price stuck in range – Can SOL reverse its long-term downtrend?",
+      "url": "https://ambcrypto.com/solana-price-stuck-in-range-can-sol-reverse-its-long-term-downtrend",
       "source": "AMB Crypto",
-      "publishedAt": "2026-05-07T03:00:43.000Z",
-      "summary": "A Solana whale deposited $4.1 million into Hyperliquid and opened a 92K-token long position.",
+      "publishedAt": "2026-05-07T19:00:42.000Z",
+      "summary": "Solan's new address growth has slowed down since February as SOL prices have settled into a range.",
       "tags": [
         "solana",
-        "whale",
-        "bets"
+        "price",
+        "stuck"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -71,53 +71,20 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3e5314916c4f287a0bd62536ca14a2eba89e7f0b",
+      "dedupeFingerprint": "e99487ce85d5a9e8986c01076fe58c0f6ce5affd",
       "score": 24
     },
     {
-      "id": "https://cryptopotato.com/solana-and-google-cloud-team-up-for-stablecoin-powered-ai-agent-payments",
-      "title": "Solana and Google Cloud Team Up for Stablecoin-Powered AI Agent Payments",
-      "url": "https://cryptopotato.com/solana-and-google-cloud-team-up-for-stablecoin-powered-ai-agent-payments",
-      "source": "CryptoPotato",
-      "publishedAt": "2026-05-06T21:32:44.000Z",
-      "summary": "Developers can link a Solana wallet to AI tools like Claude Code or Gemini and have an agent accessing paid APIs within one minute.",
+      "id": "https://www.coindesk.com/business/2026/05/07/anchorage-says-it-has-a-pipeline-of-up-to-20-big-firms-looking-to-issue-stablecoins",
+      "title": "The stablecoin queue: 20 banks and tech giants are waiting to issue tokens with Anchorage Digital",
+      "url": "https://www.coindesk.com/business/2026/05/07/anchorage-says-it-has-a-pipeline-of-up-to-20-big-firms-looking-to-issue-stablecoins",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-07T16:36:42.000Z",
+      "summary": "Since the Genius Act passed, Anchorage has won every single large stablecoin issuance mandate across the landscape, according to the firm’s CEO Nathan McCauley.",
       "tags": [
-        "solana",
-        "google",
-        "cloud"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ff63f16cd0c7a81aef0e9cfa3e5d61360d753a63",
-      "score": 23
-    },
-    {
-      "id": "https://www.theblock.co/post/400230/clarity-act-will-pass-this-summer-coinbase-clo-grewal-backs-stablecoin-compromise-urges-banks-to-accept-deal",
-      "title": "‘Clarity Act will pass this summer’: Coinbase CLO Grewal backs stablecoin compromise, urges banks to accept deal",
-      "url": "https://www.theblock.co/post/400230/clarity-act-will-pass-this-summer-coinbase-clo-grewal-backs-stablecoin-compromise-urges-banks-to-accept-deal",
-      "source": "The Block",
-      "publishedAt": "2026-05-06T14:46:59.000Z",
-      "summary": "Coinbase CLO Paul Grewal says the Clarity Act will pass this summer, backing the Tillis-Alsobrooks stablecoin compromise.",
-      "tags": [
-        "clarity",
-        "will",
-        "pass"
+        "stablecoin",
+        "queue",
+        "banks"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -132,27 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "fba9ca7197e67e497d5fe8710c52ecf75b93b28f",
-      "score": 21
+      "dedupeFingerprint": "e07dc291e55f4b968e926710cada18cdaf6ea686",
+      "score": 22
     },
     {
-      "id": "https://cointelegraph.com/news/kirsten-gillibrand-crypto-market-structure-august-vote",
-      "title": "US senator says crypto market structure vote may happen by August",
-      "url": "https://cointelegraph.com/news/kirsten-gillibrand-crypto-market-structure-august-vote",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-06T21:07:09.000Z",
-      "summary": "Senator Kirsten Gillibrand said the Senate must address lawmakers potentially getting “rich off of these industries because of their insider status“ before any vote on the CLARITY Act.",
+      "id": "https://www.theblock.co/post/400407/kraken-parent-payward-to-acquire-hong-kong-stablecoin-firm-reap-for-600-million",
+      "title": "Kraken parent Payward to acquire Hong Kong stablecoin firm Reap for $600 million",
+      "url": "https://www.theblock.co/post/400407/kraken-parent-payward-to-acquire-hong-kong-stablecoin-firm-reap-for-600-million",
+      "source": "The Block",
+      "publishedAt": "2026-05-07T13:26:29.000Z",
+      "summary": "Kraken parent Payward agreed to buy Hong Kong stablecoin payments firm Reap Technologies for $600 million in another acquisition.",
       "tags": [
-        "senator",
-        "says",
-        "crypto"
+        "kraken",
+        "parent",
+        "payward"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a4e7c9d82698490d972e0fef5f645762ef046b74",
-      "score": 17
+      "dedupeFingerprint": "8c1187c8403b546857aa2b01d86525ea38978c60",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/05/07/kraken-to-buy-stablecoin-payments-firm-reap-in-usd600-million-deal-bloomberg",
+      "title": "Kraken to buy stablecoin payments firm Reap in $600 million deal: Bloomberg",
+      "url": "https://www.coindesk.com/business/2026/05/07/kraken-to-buy-stablecoin-payments-firm-reap-in-usd600-million-deal-bloomberg",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-07T12:52:42.000Z",
+      "summary": "Kraken owner Payward will acquire Hong Kong-based Reap Technologies as the crypto exchange expands its stablecoin and payments infrastructure business in Asia.",
+      "tags": [
+        "kraken",
+        "stablecoin",
+        "payments"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5a730cc432964d404c1ba9812122b09e884a9467",
+      "score": 22
     }
   ]
 }
