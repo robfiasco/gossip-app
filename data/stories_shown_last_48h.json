@@ -1,11 +1,25 @@
 [
   {
+    "id": "9aafb9ce54c36ba7dc9aa93413b4416a22c3060b",
+    "title": "Signal Board Summary 2026-05-08",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-05-08T20:05:50.271Z",
+    "lastSeenAt": "2026-05-08T20:05:50.271Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "ff63f16cd0c7a81aef0e9cfa3e5d61360d753a63",
     "title": "Solana and Google Cloud Team Up for Stablecoin-Powered AI Agent Payments",
     "url": "https://cryptopotato.com/solana-and-google-cloud-team-up-for-stablecoin-powered-ai-agent-payments",
     "source": "CryptoPotato",
     "firstSeenAt": "2026-05-07T09:29:03.828Z",
-    "lastSeenAt": "2026-05-08T08:20:25.037Z",
+    "lastSeenAt": "2026-05-08T20:05:37.591Z",
     "sectionShown": "briefing",
     "topicTags": [
       "solana",
@@ -16,6 +30,48 @@
       "powered",
       "agent",
       "payments"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "e4c40a398824404b8ab869c1d296fc751d4fd487",
+    "title": "AI agents fueled a frenzy of startup building at the Consensus Miami EasyA hackathon",
+    "url": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-05-08T20:05:37.591Z",
+    "lastSeenAt": "2026-05-08T20:05:37.591Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "agents",
+      "fueled",
+      "frenzy",
+      "startup",
+      "building",
+      "consensus",
+      "miami",
+      "easya"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "289d5995f92d5b50e328ff7012f9c83553457d6a",
+    "title": "Exodus launches AI agent-focused stablecoin on Solana",
+    "url": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-05-08T20:05:37.590Z",
+    "lastSeenAt": "2026-05-08T20:05:37.590Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "exodus",
+      "launches",
+      "agent",
+      "focused",
+      "stablecoin",
+      "solana",
+      "crypto",
+      "wallet"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -163,83 +219,6 @@
       "institutional",
       "staking",
       "expansion"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "787293bbd828ab0f1f9002b81b2d91e6a25c46be",
-    "title": "Signal Board Summary 2026-05-06",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-05-06T09:21:42.882Z",
-    "lastSeenAt": "2026-05-06T09:21:42.882Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "db1bd591b0ae1d58bd9f0ec36ec55ec018072457",
-    "title": "Solana and Google Cloud Launch Stablecoin Payments Service for AI Agents",
-    "url": "https://decrypt.co/366876/solana-google-cloud-launch-stablecoin-payments-service-ai-agents",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-05-06T09:21:34.879Z",
-    "lastSeenAt": "2026-05-06T09:21:34.879Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "google",
-      "cloud",
-      "launch",
-      "stablecoin",
-      "payments",
-      "service",
-      "agents"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "e1af28825c864312d23689e6c3b6bf4d38b40165",
-    "title": "SoFi to launch its stablecoin on Solana, citing speed and cost",
-    "url": "https://www.theblock.co/post/400098/sofi-to-launch-its-stablecoin-on-solana-citing-speed-and-cost",
-    "source": "The Block",
-    "firstSeenAt": "2026-05-06T09:21:34.879Z",
-    "lastSeenAt": "2026-05-06T09:21:34.879Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "sofi",
-      "launch",
-      "stablecoin",
-      "solana",
-      "citing",
-      "speed",
-      "cost",
-      "sofiusd"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "cc6439f96283126cd8030b3eafcb3040c239d22a",
-    "title": "Beyond humans: Lily Liu says Solana is building the payment rails for the 'AI machine economy'",
-    "url": "https://www.coindesk.com/business/2026/05/06/beyond-humans-lily-liu-says-solana-is-building-the-payment-rails-for-the-ai-machine-economy",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-05-06T09:21:34.878Z",
-    "lastSeenAt": "2026-05-06T09:21:34.878Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "beyond",
-      "humans",
-      "lily",
-      "says",
-      "solana",
-      "building",
-      "payment",
-      "rails"
     ],
     "majorUpdate": false,
     "updateReason": null

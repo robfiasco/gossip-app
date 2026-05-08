@@ -1,11 +1,25 @@
 [
   {
+    "id": "9aafb9ce54c36ba7dc9aa93413b4416a22c3060b",
+    "title": "Signal Board Summary 2026-05-08",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-05-08T20:05:50.271Z",
+    "lastSeenAt": "2026-05-08T20:05:50.271Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "ff63f16cd0c7a81aef0e9cfa3e5d61360d753a63",
     "title": "Solana and Google Cloud Team Up for Stablecoin-Powered AI Agent Payments",
     "url": "https://cryptopotato.com/solana-and-google-cloud-team-up-for-stablecoin-powered-ai-agent-payments",
     "source": "CryptoPotato",
     "firstSeenAt": "2026-05-07T09:29:03.828Z",
-    "lastSeenAt": "2026-05-08T08:20:25.037Z",
+    "lastSeenAt": "2026-05-08T20:05:37.591Z",
     "sectionShown": "briefing",
     "topicTags": [
       "solana",
@@ -16,6 +30,48 @@
       "powered",
       "agent",
       "payments"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "e4c40a398824404b8ab869c1d296fc751d4fd487",
+    "title": "AI agents fueled a frenzy of startup building at the Consensus Miami EasyA hackathon",
+    "url": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-05-08T20:05:37.591Z",
+    "lastSeenAt": "2026-05-08T20:05:37.591Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "agents",
+      "fueled",
+      "frenzy",
+      "startup",
+      "building",
+      "consensus",
+      "miami",
+      "easya"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "289d5995f92d5b50e328ff7012f9c83553457d6a",
+    "title": "Exodus launches AI agent-focused stablecoin on Solana",
+    "url": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-05-08T20:05:37.590Z",
+    "lastSeenAt": "2026-05-08T20:05:37.590Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "exodus",
+      "launches",
+      "agent",
+      "focused",
+      "stablecoin",
+      "solana",
+      "crypto",
+      "wallet"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -79,27 +135,6 @@
       "crypto",
       "inflow",
       "ethereum"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "3e5314916c4f287a0bd62536ca14a2eba89e7f0b",
-    "title": "Solana whale bets $8 mln on SOL as price trades near $88 – Is $90 next?",
-    "url": "https://ambcrypto.com/solana-whale-bets-8-mln-on-sol-as-price-trades-near-88-is-90-next",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-05-07T09:29:03.829Z",
-    "lastSeenAt": "2026-05-07T09:29:03.829Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "whale",
-      "bets",
-      "price",
-      "trades",
-      "near",
-      "next",
-      "deposited"
     ],
     "majorUpdate": false,
     "updateReason": null
