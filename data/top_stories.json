@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-05-08T20:05:37.420Z",
-    "totalCandidates": 114,
+    "generatedAt": "2026-05-09T08:25:43.228Z",
+    "totalCandidates": 113,
     "solanaCandidates": 24,
     "selected": 5,
     "tweetPool": 0,
@@ -9,16 +9,16 @@
   },
   "items": [
     {
-      "id": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana",
-      "title": "Exodus launches AI agent-focused stablecoin on Solana",
-      "url": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-08T18:38:02.000Z",
-      "summary": "The crypto wallet company pairs the XO Cash token with software tools that let AI agents transact using preset spending controls and stablecoin payments.",
+      "id": "https://decrypt.co/367351/banking-industry-clarity-act-stablecoin-evasion",
+      "title": "Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion'",
+      "url": "https://decrypt.co/367351/banking-industry-clarity-act-stablecoin-evasion",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-08T21:47:36.000Z",
+      "summary": "Senators had hoped the issue, which has plagued crypto legislation for months, had been put to bed with a proposed compromise last week.",
       "tags": [
-        "exodus",
-        "launches",
-        "agent"
+        "banking",
+        "industry",
+        "says"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,15 +31,81 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 10,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "289d5995f92d5b50e328ff7012f9c83553457d6a",
+      "dedupeFingerprint": "aa0fefa339ca372b33a47ac2e35bb8ddd631b417",
       "score": 23
+    },
+    {
+      "id": "https://www.theblock.co/post/400492/take-two-senate-banking-committee-sets-a-date-to-amend-and-vote-on-sweeping-crypto-legislation",
+      "title": "Take two: Senate Banking Committee sets a date to amend and vote on sweeping crypto legislation",
+      "url": "https://www.theblock.co/post/400492/take-two-senate-banking-committee-sets-a-date-to-amend-and-vote-on-sweeping-crypto-legislation",
+      "source": "The Block",
+      "publishedAt": "2026-05-08T23:24:54.000Z",
+      "summary": "A much-anticipated hearing to vote on sweeping crypto legislation is happening, marking a second attempt in the Senate Banking Committee.",
+      "tags": [
+        "take",
+        "senate",
+        "banking"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b1e6fb0a2243c6f99fc9c39734f895a1b79e72d9",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/will-wlfis-price-action-sustain-uptrend-after-passage-of-latest-governance-proposal",
+      "title": "Will WLFI’s price action sustain uptrend after passage of latest governance proposal?",
+      "url": "https://ambcrypto.com/will-wlfis-price-action-sustain-uptrend-after-passage-of-latest-governance-proposal",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-09T04:00:13.000Z",
+      "summary": "WLFI saw its fortunes change, at least for a while, on the price charts.",
+      "tags": [
+        "will",
+        "wlfi",
+        "price"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "6248d9033a307dba8d8cc41784c8935d2f3abf86",
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/business/2026/05/08/ecb-s-lagarde-warns-tether-and-circle-stablecoins-risk-digital-dollarisation-in-europe",
@@ -66,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e2b887d603c07336e1df7957607a89f437515143",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
@@ -99,79 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "80d31e01524a0578db42859fd81bd9d8c5323260",
-      "score": 22
-    },
-    {
-      "id": "https://decrypt.co/367094/kraken-parent-acquires-asian-stablecoin-firm-reap-600-million",
-      "title": "Kraken Parent Acquires Asian Stablecoin Firm Reap for $600 Million: Bloomberg",
-      "url": "https://decrypt.co/367094/kraken-parent-acquires-asian-stablecoin-firm-reap-600-million",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-07T13:48:34.000Z",
-      "summary": "The deal marks Kraken's largest acquisition as it pushes into Asian cross-border payments through stablecoin infrastructure.",
-      "tags": [
-        "kraken",
-        "parent",
-        "acquires"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "859aaa969fbda780cf7b9dc8d48d47896ce2a707",
-      "score": 19
-    },
-    {
-      "id": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
-      "title": "Arbitrum DAO Votes to Unlock $70 Million for Kelp DAO Exploit Relief",
-      "url": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-08T11:21:37.000Z",
-      "summary": "Arbitrum DAO voted to release the Kelp exploit funds, but a U.S. Court restraining notice has put the approved transfer in legal jeopardy.",
-      "tags": [
-        "arbitrum",
-        "votes",
-        "unlock"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c8bb44c264e20ee8dfc3aca26041ba6e04cc1a65",
-      "score": 18
+      "score": 21
     }
   ]
 }
