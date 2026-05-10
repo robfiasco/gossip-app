@@ -1,79 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-05-10T08:51:20.711Z",
-    "totalCandidates": 111,
-    "solanaCandidates": 23,
+    "generatedAt": "2026-05-10T19:57:56.812Z",
+    "totalCandidates": 107,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://ambcrypto.com/jupiter-rallies-23-as-spot-demand-surges-but-this-may-cap-jups-upside",
-      "title": "Jupiter rallies 23% as Spot demand surges – But THIS may cap JUP’s upside",
-      "url": "https://ambcrypto.com/jupiter-rallies-23-as-spot-demand-surges-but-this-may-cap-jups-upside",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-10T04:00:04.000Z",
-      "summary": "Jupiter appears increasingly positioned for a sustained rally, though some indicators still point to the need for caution.",
-      "tags": [
-        "jupiter",
-        "rallies",
-        "spot"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5aee968119b2317aec0598c959f9af9173bee56b",
-      "score": 24
-    },
-    {
-      "id": "https://ambcrypto.com/solana-amid-rising-etf-inflows-and-whale-demand-will-sol-break-97",
-      "title": "Solana: Amid rising ETF inflows and whale demand, will SOL break $97?",
-      "url": "https://ambcrypto.com/solana-amid-rising-etf-inflows-and-whale-demand-will-sol-break-97",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-09T21:00:39.000Z",
-      "summary": "Whale buying and ETF inflows boosted Solana's bullish sentiment, while a breakout above $97 could trigger a 21% rally.",
-      "tags": [
-        "solana",
-        "amid",
-        "rising"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d27fca685cdcf26d9e2b8c66ad0c4cf7ca416687",
-      "score": 24
-    },
     {
       "id": "https://www.theblock.co/post/400639/boes-bailey-warns-of-looming-wrestle-with-us-over-stablecoin-rules-flags-run-risk-for-uk",
       "title": "BoE’s Bailey warns of looming ‘wrestle’ with US over stablecoin rules, flags run risk for UK",
@@ -99,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "74c1ff35fec1f11c5d0297f6e7ff14604a313bc6",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://decrypt.co/367351/banking-industry-clarity-act-stablecoin-evasion",
@@ -132,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "aa0fefa339ca372b33a47ac2e35bb8ddd631b417",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://www.theblock.co/post/400492/take-two-senate-banking-committee-sets-a-date-to-amend-and-vote-on-sweeping-crypto-legislation",
@@ -165,13 +99,79 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b1e6fb0a2243c6f99fc9c39734f895a1b79e72d9",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "https://decrypt.co/367213/ai-models-scheme-betray-vote-out-survivor-style-game",
+      "title": "AI Models Scheme, Betray and Vote Each Other Out in Survivor-Style Game",
+      "url": "https://decrypt.co/367213/ai-models-scheme-betray-vote-out-survivor-style-game",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-10T13:01:02.000Z",
+      "summary": "Researchers say multiplayer games may reveal AI behavior that static tests miss.",
+      "tags": [
+        "models",
+        "scheme",
+        "betray"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "bde77a6700b6e4dd9e43ec9d1ba8e623f82c4241",
+      "score": 18
+    },
+    {
+      "id": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
+      "title": "Stablecoins have their 'permission slip.' Now comes the hard part.",
+      "url": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-08T13:22:15.000Z",
+      "summary": "Executives from MoonPay, Ripple and Paxos said at Consensus Miami 2026 that regulation has accelerated stablecoin adoption, but infrastructure, privacy and distribution remain major hurdles.",
+      "tags": [
+        "stablecoins",
+        "have",
+        "their"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 6,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "80d31e01524a0578db42859fd81bd9d8c5323260",
+      "score": 18
     }
   ]
 }
