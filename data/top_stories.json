@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-05-11T10:36:15.294Z",
-    "totalCandidates": 101,
-    "solanaCandidates": 20,
+    "generatedAt": "2026-05-11T20:46:01.673Z",
+    "totalCandidates": 103,
+    "solanaCandidates": 26,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers",
-      "title": "SUI spikes 50% amid staking moves, zero-fee stablecoins, privacy push",
-      "url": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-11T05:54:25.000Z",
-      "summary": "Adeniyi Abiodun, co-founder of Mysten Labs, announced at an event in Miami plans for zero-fee stablecoin transfers on Sui and reiterated the ambition to add private transactions.",
+      "id": "https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote",
+      "title": "Banking groups escalate fight over stablecoin yield ahead of Senate vote",
+      "url": "https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-11T14:43:29.000Z",
+      "summary": "The American Bankers Association amplified warnings the Senate’s Clarity Act could push deposit flight into stablecoins unless lawmakers tighten yield limits.",
       "tags": [
-        "spikes",
-        "amid",
-        "staking"
+        "banking",
+        "groups",
+        "escalate"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -34,27 +34,60 @@
         "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "38c626262e52155f822c33755407bc9a6a7e139e",
-      "score": 23
+      "dedupeFingerprint": "126e763cb7b7c4c68c5f204201b69f7bcee79ba8",
+      "score": 27
     },
     {
-      "id": "https://ambcrypto.com/uniswap-climbs-as-tvl-hits-3-59b-can-uni-hold-above-3-90",
-      "title": "Uniswap climbs as TVL hits $3.59B – Can UNI hold above $3.90?",
-      "url": "https://ambcrypto.com/uniswap-climbs-as-tvl-hits-3-59b-can-uni-hold-above-3-90",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-11T02:00:11.000Z",
-      "summary": "Uniswap rally gains strength as on-chain activity surges, but liquidity risks remain.",
+      "id": "https://www.theblock.co/post/400757/american-bankers-association-ceo-makes-final-hour-push-for-tightened-limits-on-stablecoin-rewards-ahead-of-senate-committee-vote",
+      "title": "American Bankers Association CEO makes final-hour push for tightened limits on stablecoin rewards ahead of Senate committee vote",
+      "url": "https://www.theblock.co/post/400757/american-bankers-association-ceo-makes-final-hour-push-for-tightened-limits-on-stablecoin-rewards-ahead-of-senate-committee-vote",
+      "source": "The Block",
+      "publishedAt": "2026-05-11T14:18:50.000Z",
+      "summary": "Days before a key Senate committee to vote on crypto legislation, ABA CEO Rob Nichols sent a letter to bank executives.",
       "tags": [
-        "uniswap",
-        "climbs",
-        "hits"
+        "american",
+        "bankers",
+        "association"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2a58a12b7c6cd309decad2007b79104f7c7cb2bf",
+      "score": 27
+    },
+    {
+      "id": "https://www.theblock.co/post/400812/crypto-bill-vote-major-obstacles-td-cowen",
+      "title": "Upcoming crypto bill vote shifts fight to full Senate, ‘major obstacles’ remain TD Cowen says",
+      "url": "https://www.theblock.co/post/400812/crypto-bill-vote-major-obstacles-td-cowen",
+      "source": "The Block",
+      "publishedAt": "2026-05-11T19:39:02.000Z",
+      "summary": "The Senate Banking Committee is set to vote on the crypto bill, or Clarity Act, on Thursday despite objections from banks and Democrats.",
+      "tags": [
+        "upcoming",
+        "crypto",
+        "bill"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -67,24 +100,24 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5c26d8841aa4095f1dddc05a9a463ce2e3e38fe0",
-      "score": 19
+      "dedupeFingerprint": "05487bd1193493f442ea7053725749c79022671b",
+      "score": 22
     },
     {
-      "id": "https://www.theblock.co/post/400492/take-two-senate-banking-committee-sets-a-date-to-amend-and-vote-on-sweeping-crypto-legislation",
-      "title": "Take two: Senate Banking Committee sets a date to amend and vote on sweeping crypto legislation",
-      "url": "https://www.theblock.co/post/400492/take-two-senate-banking-committee-sets-a-date-to-amend-and-vote-on-sweeping-crypto-legislation",
-      "source": "The Block",
-      "publishedAt": "2026-05-08T23:24:54.000Z",
-      "summary": "A much-anticipated hearing to vote on sweeping crypto legislation is happening, marking a second attempt in the Senate Banking Committee.",
+      "id": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
+      "title": "The biggest consensus overhaul in Solana history is officially live for testing",
+      "url": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-11T14:18:58.000Z",
+      "summary": "The upgrade, known as Alpenglow, is live on a community test cluster, said Solana core developer Anza.",
       "tags": [
-        "take",
-        "senate",
-        "banking"
+        "biggest",
+        "consensus",
+        "overhaul"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -99,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b1e6fb0a2243c6f99fc9c39734f895a1b79e72d9",
-      "score": 18
+      "dedupeFingerprint": "26b0a57b40f74f135cf4578c12602670313745e7",
+      "score": 22
     },
     {
-      "id": "https://decrypt.co/367213/ai-models-scheme-betray-vote-out-survivor-style-game",
-      "title": "AI Models Scheme, Betray and Vote Each Other Out in Survivor-Style Game",
-      "url": "https://decrypt.co/367213/ai-models-scheme-betray-vote-out-survivor-style-game",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-10T13:01:02.000Z",
-      "summary": "Researchers say multiplayer games may reveal AI behavior that static tests miss.",
+      "id": "https://cointelegraph.com/news/augustus-wins-conditional-occ-approval-for-ai-powered-stablecoin-clearing-bank",
+      "title": "Augustus gets conditional OCC approval for AI and stablecoin bank",
+      "url": "https://cointelegraph.com/news/augustus-wins-conditional-occ-approval-for-ai-powered-stablecoin-clearing-bank",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-11T14:03:01.000Z",
+      "summary": "Peter Thiel-backed Augustus has won conditional OCC approval for a US bank charter focused on AI-driven payments and stablecoin settlement infrastructure.",
       "tags": [
-        "models",
-        "scheme",
-        "betray"
+        "augustus",
+        "gets",
+        "conditional"
       ],
-      "topicBucket": "general",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -130,48 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "bde77a6700b6e4dd9e43ec9d1ba8e623f82c4241",
-      "score": 17
-    },
-    {
-      "id": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
-      "title": "Arbitrum DAO Votes to Unlock $70 Million for Kelp DAO Exploit Relief",
-      "url": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-08T11:21:37.000Z",
-      "summary": "Arbitrum DAO voted to release the Kelp exploit funds, but a U.S. Court restraining notice has put the approved transfer in legal jeopardy.",
-      "tags": [
-        "arbitrum",
-        "votes",
-        "unlock"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c8bb44c264e20ee8dfc3aca26041ba6e04cc1a65",
-      "score": 13
+      "dedupeFingerprint": "ced7c04518ae6ed2d096776980c7be53f7ad99e5",
+      "score": 18
     }
   ]
 }
