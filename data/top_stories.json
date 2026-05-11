@@ -1,27 +1,60 @@
 {
   "meta": {
-    "generatedAt": "2026-05-10T19:57:56.812Z",
-    "totalCandidates": 107,
-    "solanaCandidates": 21,
+    "generatedAt": "2026-05-11T10:36:15.294Z",
+    "totalCandidates": 101,
+    "solanaCandidates": 20,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/400639/boes-bailey-warns-of-looming-wrestle-with-us-over-stablecoin-rules-flags-run-risk-for-uk",
-      "title": "BoE’s Bailey warns of looming ‘wrestle’ with US over stablecoin rules, flags run risk for UK",
-      "url": "https://www.theblock.co/post/400639/boes-bailey-warns-of-looming-wrestle-with-us-over-stablecoin-rules-flags-run-risk-for-uk",
-      "source": "The Block",
-      "publishedAt": "2026-05-09T19:56:36.000Z",
-      "summary": "Bailey, who chairs the Financial Stability Board, warned that hard-to-redeem U.S. stablecoins could flood into jurisdictions like the UK during a crisis.",
+      "id": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers",
+      "title": "SUI spikes 50% amid staking moves, zero-fee stablecoins, privacy push",
+      "url": "https://cointelegraph.com/news/sui-price-surges-institutional-staking-zero-fee-stablecoin-transfers",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-11T05:54:25.000Z",
+      "summary": "Adeniyi Abiodun, co-founder of Mysten Labs, announced at an event in Miami plans for zero-fee stablecoin transfers on Sui and reiterated the ambition to add private transactions.",
       "tags": [
-        "bailey",
-        "warns",
-        "looming"
+        "spikes",
+        "amid",
+        "staking"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "38c626262e52155f822c33755407bc9a6a7e139e",
+      "score": 23
+    },
+    {
+      "id": "https://ambcrypto.com/uniswap-climbs-as-tvl-hits-3-59b-can-uni-hold-above-3-90",
+      "title": "Uniswap climbs as TVL hits $3.59B – Can UNI hold above $3.90?",
+      "url": "https://ambcrypto.com/uniswap-climbs-as-tvl-hits-3-59b-can-uni-hold-above-3-90",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-11T02:00:11.000Z",
+      "summary": "Uniswap rally gains strength as on-chain activity surges, but liquidity risks remain.",
+      "tags": [
+        "uniswap",
+        "climbs",
+        "hits"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -33,46 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "74c1ff35fec1f11c5d0297f6e7ff14604a313bc6",
-      "score": 20
-    },
-    {
-      "id": "https://decrypt.co/367351/banking-industry-clarity-act-stablecoin-evasion",
-      "title": "Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion'",
-      "url": "https://decrypt.co/367351/banking-industry-clarity-act-stablecoin-evasion",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-08T21:47:36.000Z",
-      "summary": "Senators had hoped the issue, which has plagued crypto legislation for months, had been put to bed with a proposed compromise last week.",
-      "tags": [
-        "banking",
-        "industry",
-        "says"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "aa0fefa339ca372b33a47ac2e35bb8ddd631b417",
-      "score": 20
+      "dedupeFingerprint": "5c26d8841aa4095f1dddc05a9a463ce2e3e38fe0",
+      "score": 19
     },
     {
       "id": "https://www.theblock.co/post/400492/take-two-senate-banking-committee-sets-a-date-to-amend-and-vote-on-sweeping-crypto-legislation",
@@ -99,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b1e6fb0a2243c6f99fc9c39734f895a1b79e72d9",
-      "score": 19
+      "score": 18
     },
     {
       "id": "https://decrypt.co/367213/ai-models-scheme-betray-vote-out-survivor-style-game",
@@ -132,28 +132,28 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "bde77a6700b6e4dd9e43ec9d1ba8e623f82c4241",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
-      "title": "Stablecoins have their 'permission slip.' Now comes the hard part.",
-      "url": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-08T13:22:15.000Z",
-      "summary": "Executives from MoonPay, Ripple and Paxos said at Consensus Miami 2026 that regulation has accelerated stablecoin adoption, but infrastructure, privacy and distribution remain major hurdles.",
+      "id": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
+      "title": "Arbitrum DAO Votes to Unlock $70 Million for Kelp DAO Exploit Relief",
+      "url": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-08T11:21:37.000Z",
+      "summary": "Arbitrum DAO voted to release the Kelp exploit funds, but a U.S. Court restraining notice has put the approved transfer in legal jeopardy.",
       "tags": [
-        "stablecoins",
-        "have",
-        "their"
+        "arbitrum",
+        "votes",
+        "unlock"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 6,
-        "sourceScore": 4,
+        "recencyScore": 5,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "80d31e01524a0578db42859fd81bd9d8c5323260",
-      "score": 18
+      "dedupeFingerprint": "c8bb44c264e20ee8dfc3aca26041ba6e04cc1a65",
+      "score": 13
     }
   ]
 }
