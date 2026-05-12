@@ -1,13 +1,112 @@
 {
   "meta": {
-    "generatedAt": "2026-05-11T20:46:01.673Z",
-    "totalCandidates": 103,
-    "solanaCandidates": 26,
+    "generatedAt": "2026-05-12T09:34:48.076Z",
+    "totalCandidates": 106,
+    "solanaCandidates": 36,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://solana.com/news/solana-ecosystem-roundup-april-2026",
+      "title": "Solana Ecosystem Roundup: April 2026",
+      "url": "https://solana.com/news/solana-ecosystem-roundup-april-2026",
+      "source": "Solana News",
+      "publishedAt": "2026-05-11T00:24:00.000Z",
+      "summary": "A deep dive into everything that shaped the Solana ecosystem in April 2026, from institutional adoption and tokenized RWAs to stablecoins, DeFi infrastructure, AI agents, and consumer apps.",
+      "tags": [
+        "solana",
+        "ecosystem",
+        "roundup"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 17,
+        "mentionScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "864da9a2a35b38cf6a3d3d848b0e7264a7bbcbf3",
+      "score": 30
+    },
+    {
+      "id": "https://ambcrypto.com/solana-outpaces-bitcoin-in-may-whats-driving-sols-risk-on-rally",
+      "title": "Solana outpaces Bitcoin in May – What’s driving SOL’s risk-on rally?",
+      "url": "https://ambcrypto.com/solana-outpaces-bitcoin-in-may-whats-driving-sols-risk-on-rally",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-12T09:00:04.000Z",
+      "summary": "Solana leads tokenized stock trading as U.S. equities hit new highs, raising questions about whether rising institutional SOL exposure is a strategic positioning.",
+      "tags": [
+        "solana",
+        "outpaces",
+        "bitcoin"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "42abd722268e5810e6826af0b6a3ad7edb5cd104",
+      "score": 27
+    },
+    {
+      "id": "https://cointelegraph.com/markets/solana-etf-inflows-demand-returns-as-traders-eye-120",
+      "title": "Solana ETF inflows rise as traders eye SOL rally to $120",
+      "url": "https://cointelegraph.com/markets/solana-etf-inflows-demand-returns-as-traders-eye-120",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-11T21:47:41.000Z",
+      "summary": "Solana ETFs recorded their strongest weekly inflows since February as SOL futures open interest climbed nearly 30%, with traders watching for a possible move to $120.",
+      "tags": [
+        "solana",
+        "inflows",
+        "rise"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2f6bb31f912362fdc5cc7d30e20c503c57d9483e",
+      "score": 26
+    },
     {
       "id": "https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote",
       "title": "Banking groups escalate fight over stablecoin yield ahead of Senate vote",
@@ -33,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "126e763cb7b7c4c68c5f204201b69f7bcee79ba8",
-      "score": 27
+      "score": 26
     },
     {
       "id": "https://www.theblock.co/post/400757/american-bankers-association-ceo-makes-final-hour-push-for-tightened-limits-on-stablecoin-rewards-ahead-of-senate-committee-vote",
@@ -66,112 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "2a58a12b7c6cd309decad2007b79104f7c7cb2bf",
-      "score": 27
-    },
-    {
-      "id": "https://www.theblock.co/post/400812/crypto-bill-vote-major-obstacles-td-cowen",
-      "title": "Upcoming crypto bill vote shifts fight to full Senate, ‘major obstacles’ remain TD Cowen says",
-      "url": "https://www.theblock.co/post/400812/crypto-bill-vote-major-obstacles-td-cowen",
-      "source": "The Block",
-      "publishedAt": "2026-05-11T19:39:02.000Z",
-      "summary": "The Senate Banking Committee is set to vote on the crypto bill, or Clarity Act, on Thursday despite objections from banks and Democrats.",
-      "tags": [
-        "upcoming",
-        "crypto",
-        "bill"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "05487bd1193493f442ea7053725749c79022671b",
-      "score": 22
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
-      "title": "The biggest consensus overhaul in Solana history is officially live for testing",
-      "url": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-11T14:18:58.000Z",
-      "summary": "The upgrade, known as Alpenglow, is live on a community test cluster, said Solana core developer Anza.",
-      "tags": [
-        "biggest",
-        "consensus",
-        "overhaul"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "26b0a57b40f74f135cf4578c12602670313745e7",
-      "score": 22
-    },
-    {
-      "id": "https://cointelegraph.com/news/augustus-wins-conditional-occ-approval-for-ai-powered-stablecoin-clearing-bank",
-      "title": "Augustus gets conditional OCC approval for AI and stablecoin bank",
-      "url": "https://cointelegraph.com/news/augustus-wins-conditional-occ-approval-for-ai-powered-stablecoin-clearing-bank",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-11T14:03:01.000Z",
-      "summary": "Peter Thiel-backed Augustus has won conditional OCC approval for a US bank charter focused on AI-driven payments and stablecoin settlement infrastructure.",
-      "tags": [
-        "augustus",
-        "gets",
-        "conditional"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ced7c04518ae6ed2d096776980c7be53f7ad99e5",
-      "score": 18
+      "score": 26
     }
   ]
 }
