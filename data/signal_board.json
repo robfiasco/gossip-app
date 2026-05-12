@@ -1,26 +1,26 @@
 {
   "date": "2026-05-12",
-  "generated_at_utc": "2026-05-12T09:34:56.673Z",
-  "ctxMarket": "Attention is on Solana as it outpaces Bitcoin and other major altcoins in both price action and ecosystem activity. Institutional inflows into Solana ETFs are rising, coinciding with a major network upgrade entering public testing.",
-  "ctxTalking": "• Solana’s strong rally and leadership in tokenized stock trading as U.S. equities hit new highs\n• Institutional capital’s preference for Ethereum over Solana despite favorable Solana metrics\n• The Alpenglow consensus protocol upgrade, now live for community testing",
-  "ctxMatters": "Solana’s growing ETF inflows and ecosystem development signal increased institutional and developer interest. The Alpenglow upgrade could impact network performance and reliability. Ongoing debates about institutional trust highlight the importance of credibility versus technical throughput for adoption.",
-  "ctxSignal": "Signal: Rising ETF inflows, major protocol upgrades, and Solana’s role in tokenized assets.\nNoise: Short-term price speculation and warnings not directly tied to Solana fundamentals.",
-  "ctxGlossary": "ETF — An investment fund traded on stock exchanges, tracking an asset or group of assets.\nConsensus protocol — The mechanism by which blockchain networks agree on the state of the ledger.",
+  "generated_at_utc": "2026-05-12T20:28:42.514Z",
+  "ctxMarket": "Attention is focused on protocol governance issues, new lending products, and infrastructure upgrades within the Solana ecosystem. Recent headlines highlight both controversy and technical progress.",
+  "ctxTalking": "• Drift’s plan to convert exploit-linked assets into USDT is drawing criticism from users.\n• Coinbase has enabled Solana-backed loans through Morpho, letting users borrow against SOL.\n• Solana’s Alpenglow upgrade has entered testing, signaling a step toward mainnet deployment.",
+  "ctxMatters": "Governance decisions like Drift’s asset conversion can affect user trust and protocol reputation. The launch of Solana-backed loans on a major exchange expands utility for SOL holders. Infrastructure upgrades such as Alpenglow may impact network performance and developer interest.",
+  "ctxSignal": "Signal: Protocol governance controversies and new lending integrations directly affect Solana’s ecosystem and user options.\nNoise: Speculation around memecoin crashes and AI trading bot rankings lacks clear impact on Solana fundamentals.",
+  "ctxGlossary": "USDT — A widely used stablecoin pegged to the US dollar.\nMainnet — The primary public blockchain where real transactions occur.\nConsensus protocol — The mechanism that secures and validates transactions on a blockchain.",
   "readMore": [
     {
-      "title": "Solana outpaces Bitcoin in May – What’s driving SOL’s risk-on rally?",
+      "title": "Drift faces backlash over plan to convert exploit-linked assets into USDT",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-outpaces-bitcoin-in-may-whats-driving-sols-risk-on-rally"
+      "url": "https://ambcrypto.com/drift-faces-backlash-over-plan-to-convert-exploit-linked-assets-into-usdt"
     },
     {
-      "title": "Bitcoin briefly hits $82,000, SOL, DOGE higher as Michael Burry warns of stock crash",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-briefly-hits-usd82-000-sol-doge-higher-as-michael-burry-warns-of-stock-crash"
+      "title": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000"
     },
     {
-      "title": "Solana ETF inflows rise as traders eye SOL rally to $120",
+      "title": "Roaring Kitty-linked RKC memecoin crashes as developer cashes out $729K",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/solana-etf-inflows-demand-returns-as-traders-eye-120"
+      "url": "https://cointelegraph.com/news/memecoin-dev-cashes-out-729k-gamestop-orchestrators-x-post"
     }
   ]
 }

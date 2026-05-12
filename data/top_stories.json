@@ -1,24 +1,123 @@
 {
   "meta": {
-    "generatedAt": "2026-05-12T09:34:48.076Z",
-    "totalCandidates": 106,
-    "solanaCandidates": 36,
+    "generatedAt": "2026-05-12T20:28:34.358Z",
+    "totalCandidates": 116,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://solana.com/news/solana-ecosystem-roundup-april-2026",
-      "title": "Solana Ecosystem Roundup: April 2026",
-      "url": "https://solana.com/news/solana-ecosystem-roundup-april-2026",
-      "source": "Solana News",
-      "publishedAt": "2026-05-11T00:24:00.000Z",
-      "summary": "A deep dive into everything that shaped the Solana ecosystem in April 2026, from institutional adoption and tokenized RWAs to stablecoins, DeFi infrastructure, AI agents, and consumer apps.",
+      "id": "https://ambcrypto.com/drift-faces-backlash-over-plan-to-convert-exploit-linked-assets-into-usdt",
+      "title": "Drift faces backlash over plan to convert exploit-linked assets into USDT",
+      "url": "https://ambcrypto.com/drift-faces-backlash-over-plan-to-convert-exploit-linked-assets-into-usdt",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-12T18:13:10.000Z",
+      "summary": "Drift's latest recovery proposal has sparked criticism after the protocol moved to convert remaining exploit-linked assets into a USDT-backed settlement pool.",
       "tags": [
-        "solana",
+        "drift",
+        "faces",
+        "backlash"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "0875313a3fe03e83f0fd9c529bb8f16abbac20c3",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000",
+      "title": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000",
+      "url": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000",
+      "source": "The Block",
+      "publishedAt": "2026-05-12T16:00:02.000Z",
+      "summary": "Coinbase users can now borrow up to $100,000 against their SOL holdings through the exchange's Morpho integration on Base.",
+      "tags": [
+        "coinbase",
+        "adds",
+        "solana"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "a4d1ed6ab6fbea584d1f0df3bb4d54396d1bb68e",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/400948/sky-ecosystem-stablewatch-stablecoin-yield-startup-osero-funding",
+      "title": "Sky Ecosystem leads $13.5 million round for Stablewatch-incubated stablecoin yield startup Osero",
+      "url": "https://www.theblock.co/post/400948/sky-ecosystem-stablewatch-stablecoin-yield-startup-osero-funding",
+      "source": "The Block",
+      "publishedAt": "2026-05-12T15:00:03.000Z",
+      "summary": "Osero, a stablecoin yield project incubated by Stablewatch, has raised $13.5 million in a funding round led by the Sky Ecosystem.",
+      "tags": [
         "ecosystem",
-        "roundup"
+        "leads",
+        "million"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3d44280b9b72398286b6db4eadf90853b0ea5674",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
+      "title": "Stablecoin yield infrastructure project raises $13.5M in round led by Sky Ecosystem",
+      "url": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-12T16:35:02.000Z",
+      "summary": "Osero is coming with three products: Earn, App, and Foundry.",
+      "tags": [
+        "stablecoin",
+        "yield",
+        "infrastructure"
       ],
       "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,29 +130,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 17,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 5,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "864da9a2a35b38cf6a3d3d848b0e7264a7bbcbf3",
-      "score": 30
+      "dedupeFingerprint": "1d463af530f2670f3392a0e6114dd2fbfee8b3df",
+      "score": 19
     },
     {
-      "id": "https://ambcrypto.com/solana-outpaces-bitcoin-in-may-whats-driving-sols-risk-on-rally",
-      "title": "Solana outpaces Bitcoin in May – What’s driving SOL’s risk-on rally?",
-      "url": "https://ambcrypto.com/solana-outpaces-bitcoin-in-may-whats-driving-sols-risk-on-rally",
+      "id": "https://ambcrypto.com/stablecoin-yield-ban-emerges-as-flashpoint-in-new-u-s-crypto-bill",
+      "title": "Stablecoin yield ban emerges as flashpoint in new U.S. crypto bill",
+      "url": "https://ambcrypto.com/stablecoin-yield-ban-emerges-as-flashpoint-in-new-u-s-crypto-bill",
       "source": "AMB Crypto",
-      "publishedAt": "2026-05-12T09:00:04.000Z",
-      "summary": "Solana leads tokenized stock trading as U.S. equities hit new highs, raising questions about whether rising institutional SOL exposure is a strategic positioning.",
+      "publishedAt": "2026-05-12T15:29:00.000Z",
+      "summary": "A new U.S. crypto market structure draft has sparked a fight between banks and crypto firms over proposed restrictions on stablecoin yield payments.",
       "tags": [
-        "solana",
-        "outpaces",
-        "bitcoin"
+        "stablecoin",
+        "yield",
+        "emerges"
       ],
-      "topicBucket": "market",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -64,114 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "42abd722268e5810e6826af0b6a3ad7edb5cd104",
-      "score": 27
-    },
-    {
-      "id": "https://cointelegraph.com/markets/solana-etf-inflows-demand-returns-as-traders-eye-120",
-      "title": "Solana ETF inflows rise as traders eye SOL rally to $120",
-      "url": "https://cointelegraph.com/markets/solana-etf-inflows-demand-returns-as-traders-eye-120",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-11T21:47:41.000Z",
-      "summary": "Solana ETFs recorded their strongest weekly inflows since February as SOL futures open interest climbed nearly 30%, with traders watching for a possible move to $120.",
-      "tags": [
-        "solana",
-        "inflows",
-        "rise"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2f6bb31f912362fdc5cc7d30e20c503c57d9483e",
-      "score": 26
-    },
-    {
-      "id": "https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote",
-      "title": "Banking groups escalate fight over stablecoin yield ahead of Senate vote",
-      "url": "https://www.coindesk.com/policy/2026/05/11/banking-groups-escalate-fight-over-stablecoin-yield-ahead-of-senate-vote",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-11T14:43:29.000Z",
-      "summary": "The American Bankers Association amplified warnings the Senate’s Clarity Act could push deposit flight into stablecoins unless lawmakers tighten yield limits.",
-      "tags": [
-        "banking",
-        "groups",
-        "escalate"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "126e763cb7b7c4c68c5f204201b69f7bcee79ba8",
-      "score": 26
-    },
-    {
-      "id": "https://www.theblock.co/post/400757/american-bankers-association-ceo-makes-final-hour-push-for-tightened-limits-on-stablecoin-rewards-ahead-of-senate-committee-vote",
-      "title": "American Bankers Association CEO makes final-hour push for tightened limits on stablecoin rewards ahead of Senate committee vote",
-      "url": "https://www.theblock.co/post/400757/american-bankers-association-ceo-makes-final-hour-push-for-tightened-limits-on-stablecoin-rewards-ahead-of-senate-committee-vote",
-      "source": "The Block",
-      "publishedAt": "2026-05-11T14:18:50.000Z",
-      "summary": "Days before a key Senate committee to vote on crypto legislation, ABA CEO Rob Nichols sent a letter to bank executives.",
-      "tags": [
-        "american",
-        "bankers",
-        "association"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2a58a12b7c6cd309decad2007b79104f7c7cb2bf",
-      "score": 26
+      "dedupeFingerprint": "e586bd629d0c44d1feb8712212f833633a4c665e",
+      "score": 19
     }
   ]
 }
