@@ -1,26 +1,26 @@
 {
   "date": "2026-05-13",
-  "generated_at_utc": "2026-05-13T09:42:58.455Z",
-  "ctxMarket": "Attention is on tokenized equity products after sharp declines in Anthropic and OpenAI PreStocks on Solana, following warnings from both companies about unauthorized equity transfers. Institutional and stablecoin developments are also drawing focus, with JPMorgan and Korean won stablecoin KRWQ making Solana-related moves.",
-  "ctxTalking": "• Tokenized Anthropic and OpenAI PreStocks on Solana plunged after legal warnings about unauthorized equity transfers.\n• JPMorgan is using Solana for part of its institutional cash management, and the KRWQ stablecoin is expanding to Solana.\n• Coinbase now offers Solana-backed loans, while Solana memecoins and whale activity are under scrutiny.",
-  "ctxMatters": "Tokenized equity products on Solana face legal and reputational risks if underlying asset transfers are challenged. Institutional adoption and stablecoin expansion may enhance Solana’s onchain liquidity and use cases. New lending options and memecoin volatility highlight both innovation and risk in Solana’s ecosystem.",
-  "ctxSignal": "Signal: Legal warnings impacting tokenized equities, and institutional/stablecoin expansion on Solana.\nNoise: Short-term price speculation around memecoins and whale trades.",
-  "ctxGlossary": "PreStocks — Tokenized representations of private company equity before public listing.\nStablecoin — A cryptocurrency pegged to a stable asset, such as a fiat currency.\nWhale — An individual or entity holding large amounts of a cryptocurrency.",
+  "generated_at_utc": "2026-05-13T20:29:56.300Z",
+  "ctxMarket": "Attention is on Solana’s growing institutional activity and new technical upgrades. DEX volumes on Solana and Ethereum are converging, while tokenized AI-related assets have seen sharp declines after warnings from Anthropic and OpenAI.",
+  "ctxTalking": "• Jupiter and Bitwise launching an institutional-grade USDe lending market on Solana\n• Solana’s ‘Alpenglow’ network upgrade entering public testing\n• JPMorgan’s use of both Solana and Ethereum for institutional cash management",
+  "ctxMatters": "Institutional-grade products and partnerships may broaden Solana’s appeal to large investors. Technical upgrades like Alpenglow signal ongoing improvements to network performance. Recent volatility in AI-linked tokens highlights regulatory and structural risks for tokenized real-world assets on Solana.",
+  "ctxSignal": "Signal: Institutional adoption and network upgrades are drawing sustained attention from both traditional finance and crypto communities.\nNoise: Short-term price moves in AI PreStock tokens, which are driven by external legal warnings rather than Solana fundamentals.",
+  "ctxGlossary": "USDe — A synthetic stablecoin pegged to the US dollar.\nPreStocks — Tokens representing pre-IPO equity, often without official company backing.",
   "readMore": [
     {
-      "title": "Anthropic, OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings",
+      "title": "Jupiter taps Bitwise to curate institutional-grade Solana-based USDe lending market",
       "source": "The Block",
-      "url": "https://www.theblock.co/post/401088/anthropic-openai-tokenized-prestocks-plunge"
+      "url": "https://www.theblock.co/post/401187/jupiter-taps-bitwise-to-curate-institutional-grade-solana-based-usde-lending-market"
+    },
+    {
+      "title": "The Protocol",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing"
     },
     {
       "title": "JPMorgan taps both Ethereum and Solana for separate reasons for its institutional cash stack",
       "source": "CryptoSlate",
       "url": "https://cryptoslate.com/jpmorgan-taps-ethereum-and-solana-to-build-an-institutional-cash-stack"
-    },
-    {
-      "title": "Upexi falls 8% after widened fiscal Q3 net loss",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/upexi-q3-net-loss-solana-holdings-2-5m-sol"
     }
   ]
 }
