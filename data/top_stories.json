@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-05-12T20:28:34.358Z",
-    "totalCandidates": 116,
-    "solanaCandidates": 21,
+    "generatedAt": "2026-05-13T09:42:49.303Z",
+    "totalCandidates": 111,
+    "solanaCandidates": 25,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/drift-faces-backlash-over-plan-to-convert-exploit-linked-assets-into-usdt",
-      "title": "Drift faces backlash over plan to convert exploit-linked assets into USDT",
-      "url": "https://ambcrypto.com/drift-faces-backlash-over-plan-to-convert-exploit-linked-assets-into-usdt",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-12T18:13:10.000Z",
-      "summary": "Drift's latest recovery proposal has sparked criticism after the protocol moved to convert remaining exploit-linked assets into a USDT-backed settlement pool.",
+      "id": "https://www.theblock.co/post/401093/krwq-expands-solana",
+      "title": "Korean won stablecoin KRWQ expands to Solana following March EDX Markets listing",
+      "url": "https://www.theblock.co/post/401093/krwq-expands-solana",
+      "source": "The Block",
+      "publishedAt": "2026-05-13T08:44:07.000Z",
+      "summary": "Korean won-denominated stablecoin KRWQ is expanding to Solana to support Korean won liquidity onchain.",
       "tags": [
-        "drift",
-        "faces",
-        "backlash"
+        "korean",
+        "stablecoin",
+        "krwq"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,27 +31,60 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 19,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5921e4b3318479f5b03716a03cc6d08535cb791b",
+      "score": 33
+    },
+    {
+      "id": "https://ambcrypto.com/jupiter-whales-buy-10-32-mln-tokens-can-jup-bulls-reclaim-0-265-next",
+      "title": "Jupiter whales buy 10.32 mln tokens – Can JUP bulls reclaim $0.265 next?",
+      "url": "https://ambcrypto.com/jupiter-whales-buy-10-32-mln-tokens-can-jup-bulls-reclaim-0-265-next",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-13T04:00:03.000Z",
+      "summary": "JUP whales accumulate over 10.32M tokens as traders defend a key breakout support despite volatility.",
+      "tags": [
+        "jupiter",
+        "whales",
+        "tokens"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0875313a3fe03e83f0fd9c529bb8f16abbac20c3",
-      "score": 22
+      "dedupeFingerprint": "4665502c47e469ea94ed9132cf8c2f13651628e4",
+      "score": 24
     },
     {
-      "id": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000",
-      "title": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000",
-      "url": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000",
+      "id": "https://www.theblock.co/post/401088/anthropic-openai-tokenized-prestocks-plunge",
+      "title": "Anthropic, OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings",
+      "url": "https://www.theblock.co/post/401088/anthropic-openai-tokenized-prestocks-plunge",
       "source": "The Block",
-      "publishedAt": "2026-05-12T16:00:02.000Z",
-      "summary": "Coinbase users can now borrow up to $100,000 against their SOL holdings through the exchange's Morpho integration on Base.",
+      "publishedAt": "2026-05-13T09:38:38.000Z",
+      "summary": "Tokenized Anthropic and OpenAI PreStocks on Solana fell sharply after both companies warned that unauthorized equity transfers may be void.",
       "tags": [
-        "coinbase",
-        "adds",
-        "solana"
+        "anthropic",
+        "openai",
+        "tokenized"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -71,20 +104,20 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a4d1ed6ab6fbea584d1f0df3bb4d54396d1bb68e",
+      "dedupeFingerprint": "896f86c5fc574309bbdcb752c5d085e741c197ac",
       "score": 22
     },
     {
-      "id": "https://www.theblock.co/post/400948/sky-ecosystem-stablewatch-stablecoin-yield-startup-osero-funding",
-      "title": "Sky Ecosystem leads $13.5 million round for Stablewatch-incubated stablecoin yield startup Osero",
-      "url": "https://www.theblock.co/post/400948/sky-ecosystem-stablewatch-stablecoin-yield-startup-osero-funding",
+      "id": "https://www.theblock.co/post/401075/japan-yen-stablecoin-ejpy",
+      "title": "Japan’s enterprise-led blockchain to issue yen stablecoin for B2B settlements",
+      "url": "https://www.theblock.co/post/401075/japan-yen-stablecoin-ejpy",
       "source": "The Block",
-      "publishedAt": "2026-05-12T15:00:03.000Z",
-      "summary": "Osero, a stablecoin yield project incubated by Stablewatch, has raised $13.5 million in a funding round led by the Sky Ecosystem.",
+      "publishedAt": "2026-05-13T06:47:36.000Z",
+      "summary": "The stablecoin is designed to be issued on Ethereum and Layer 1 public blockchain Japan Open Chain, which local enterprises operate.",
       "tags": [
-        "ecosystem",
-        "leads",
-        "million"
+        "japan",
+        "enterprise",
+        "blockchain"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -104,55 +137,22 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3d44280b9b72398286b6db4eadf90853b0ea5674",
+      "dedupeFingerprint": "cf7ec1d39b43239ec35dcc0288d253a77279b03a",
       "score": 22
     },
     {
-      "id": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
-      "title": "Stablecoin yield infrastructure project raises $13.5M in round led by Sky Ecosystem",
-      "url": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-12T16:35:02.000Z",
-      "summary": "Osero is coming with three products: Earn, App, and Foundry.",
+      "id": "https://www.theblock.co/post/400947/poland-lawmakers-debate-crypto-bills-as-pis-party-submits-separate-ban-proposal",
+      "title": "Poland lawmakers debate crypto bills as PiS party submits separate ban proposal",
+      "url": "https://www.theblock.co/post/400947/poland-lawmakers-debate-crypto-bills-as-pis-party-submits-separate-ban-proposal",
+      "source": "The Block",
+      "publishedAt": "2026-05-12T14:47:27.000Z",
+      "summary": "Poland lawmakers debated four cryptoasset bills as PiS submitted a separate proposal seeking a nationwide ban on crypto activity.",
       "tags": [
-        "stablecoin",
-        "yield",
-        "infrastructure"
+        "poland",
+        "lawmakers",
+        "debate"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "1d463af530f2670f3392a0e6114dd2fbfee8b3df",
-      "score": 19
-    },
-    {
-      "id": "https://ambcrypto.com/stablecoin-yield-ban-emerges-as-flashpoint-in-new-u-s-crypto-bill",
-      "title": "Stablecoin yield ban emerges as flashpoint in new U.S. crypto bill",
-      "url": "https://ambcrypto.com/stablecoin-yield-ban-emerges-as-flashpoint-in-new-u-s-crypto-bill",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-12T15:29:00.000Z",
-      "summary": "A new U.S. crypto market structure draft has sparked a fight between banks and crypto firms over proposed restrictions on stablecoin yield payments.",
-      "tags": [
-        "stablecoin",
-        "yield",
-        "emerges"
-      ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
+        "recencyScore": 9,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e586bd629d0c44d1feb8712212f833633a4c665e",
-      "score": 19
+      "dedupeFingerprint": "7f7dbb1156b7d4f12f5cfdf69f24ba7a3582f6f8",
+      "score": 21
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-12",
-  "generated_at_utc": "2026-05-12T20:28:42.514Z",
-  "ctxMarket": "Attention is focused on protocol governance issues, new lending products, and infrastructure upgrades within the Solana ecosystem. Recent headlines highlight both controversy and technical progress.",
-  "ctxTalking": "• Drift’s plan to convert exploit-linked assets into USDT is drawing criticism from users.\n• Coinbase has enabled Solana-backed loans through Morpho, letting users borrow against SOL.\n• Solana’s Alpenglow upgrade has entered testing, signaling a step toward mainnet deployment.",
-  "ctxMatters": "Governance decisions like Drift’s asset conversion can affect user trust and protocol reputation. The launch of Solana-backed loans on a major exchange expands utility for SOL holders. Infrastructure upgrades such as Alpenglow may impact network performance and developer interest.",
-  "ctxSignal": "Signal: Protocol governance controversies and new lending integrations directly affect Solana’s ecosystem and user options.\nNoise: Speculation around memecoin crashes and AI trading bot rankings lacks clear impact on Solana fundamentals.",
-  "ctxGlossary": "USDT — A widely used stablecoin pegged to the US dollar.\nMainnet — The primary public blockchain where real transactions occur.\nConsensus protocol — The mechanism that secures and validates transactions on a blockchain.",
+  "date": "2026-05-13",
+  "generated_at_utc": "2026-05-13T09:42:58.455Z",
+  "ctxMarket": "Attention is on tokenized equity products after sharp declines in Anthropic and OpenAI PreStocks on Solana, following warnings from both companies about unauthorized equity transfers. Institutional and stablecoin developments are also drawing focus, with JPMorgan and Korean won stablecoin KRWQ making Solana-related moves.",
+  "ctxTalking": "• Tokenized Anthropic and OpenAI PreStocks on Solana plunged after legal warnings about unauthorized equity transfers.\n• JPMorgan is using Solana for part of its institutional cash management, and the KRWQ stablecoin is expanding to Solana.\n• Coinbase now offers Solana-backed loans, while Solana memecoins and whale activity are under scrutiny.",
+  "ctxMatters": "Tokenized equity products on Solana face legal and reputational risks if underlying asset transfers are challenged. Institutional adoption and stablecoin expansion may enhance Solana’s onchain liquidity and use cases. New lending options and memecoin volatility highlight both innovation and risk in Solana’s ecosystem.",
+  "ctxSignal": "Signal: Legal warnings impacting tokenized equities, and institutional/stablecoin expansion on Solana.\nNoise: Short-term price speculation around memecoins and whale trades.",
+  "ctxGlossary": "PreStocks — Tokenized representations of private company equity before public listing.\nStablecoin — A cryptocurrency pegged to a stable asset, such as a fiat currency.\nWhale — An individual or entity holding large amounts of a cryptocurrency.",
   "readMore": [
     {
-      "title": "Drift faces backlash over plan to convert exploit-linked assets into USDT",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/drift-faces-backlash-over-plan-to-convert-exploit-linked-assets-into-usdt"
-    },
-    {
-      "title": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000",
+      "title": "Anthropic, OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings",
       "source": "The Block",
-      "url": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000"
+      "url": "https://www.theblock.co/post/401088/anthropic-openai-tokenized-prestocks-plunge"
     },
     {
-      "title": "Roaring Kitty-linked RKC memecoin crashes as developer cashes out $729K",
+      "title": "JPMorgan taps both Ethereum and Solana for separate reasons for its institutional cash stack",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/jpmorgan-taps-ethereum-and-solana-to-build-an-institutional-cash-stack"
+    },
+    {
+      "title": "Upexi falls 8% after widened fiscal Q3 net loss",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/memecoin-dev-cashes-out-729k-gamestop-orchestrators-x-post"
+      "url": "https://cointelegraph.com/news/upexi-q3-net-loss-solana-holdings-2-5m-sol"
     }
   ]
 }
