@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-05-13T20:29:48.422Z",
-    "totalCandidates": 111,
-    "solanaCandidates": 26,
+    "generatedAt": "2026-05-14T09:32:03.100Z",
+    "totalCandidates": 110,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/401187/jupiter-taps-bitwise-to-curate-institutional-grade-solana-based-usde-lending-market",
-      "title": "Jupiter taps Bitwise to curate institutional-grade Solana-based USDe lending market",
-      "url": "https://www.theblock.co/post/401187/jupiter-taps-bitwise-to-curate-institutional-grade-solana-based-usde-lending-market",
+      "id": "https://www.theblock.co/post/401200/defi-development-corp-growth-sol-per-share",
+      "title": "Solana treasury firm DeFi Development Corp reports 108% yearly growth in SOL per share",
+      "url": "https://www.theblock.co/post/401200/defi-development-corp-growth-sol-per-share",
       "source": "The Block",
-      "publishedAt": "2026-05-13T17:41:51.000Z",
-      "summary": "Jupiter Lend, together with Fluid and Bitwise, will provide an avenue to earn yield on the USDe synthetic stablecoin.",
+      "publishedAt": "2026-05-14T02:53:15.000Z",
+      "summary": "DeFi Development Corp attributed the growth to 'unconventional' strategies that aligned the company better with the Solana ecosystem.",
       "tags": [
-        "jupiter",
-        "taps",
-        "bitwise"
+        "solana",
+        "treasury",
+        "firm"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,15 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "342f7768057cfadb6f0d23a809869936672bb7a9",
-      "score": 30
+      "dedupeFingerprint": "2f553e9c807dc9051bd337536c6f09c35151b122",
+      "score": 27
     },
     {
       "id": "https://www.theblock.co/post/400806/ethereum-closes-gap-solana-dex-volumes-converge-45-billion",
@@ -66,46 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "d337fb45aa85a8397a58fae454720eea4617d7fd",
-      "score": 24
-    },
-    {
-      "id": "https://ambcrypto.com/circle-pitches-stablecoin-settlement-as-alternative-to-batch-banking-systems",
-      "title": "Circle pitches stablecoin settlement as alternative to batch banking systems",
-      "url": "https://ambcrypto.com/circle-pitches-stablecoin-settlement-as-alternative-to-batch-banking-systems",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-13T17:31:42.000Z",
-      "summary": "Circle’s latest paper argues that stablecoin-powered continuous settlement could reduce liquidity delays and replace parts of traditional banking infrastructure.",
-      "tags": [
-        "circle",
-        "pitches",
-        "stablecoin"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "7d4e4320a47d6d7a5eb4fe4babf7ce6804ce3eab",
-      "score": 22
+      "score": 23
     },
     {
       "id": "https://www.theblock.co/post/401088/anthropic-openai-tokenized-prestocks-plunge",
@@ -132,28 +99,61 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "896f86c5fc574309bbdcb752c5d085e741c197ac",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
-      "title": "The Protocol: Solana’s ‘Alpenglow’ upgrade is live for testing",
-      "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-13T16:48:39.000Z",
-      "summary": "Also: LayerZero apology, Ronin layer-2 transition and ‘Clear Signing’",
+      "id": "https://decrypt.co/367750/bank-england-treating-stablecoins-new-form-money-exec",
+      "title": "Bank of England Treating Stablecoins as 'New Form of Money', Says Exec",
+      "url": "https://decrypt.co/367750/bank-england-treating-stablecoins-new-form-money-exec",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-13T15:57:32.000Z",
+      "summary": "The U.K.’s central bank is “not picking winners” in the debate over tokenized deposits and stablecoins, Sasha Mills said Wednesday.",
       "tags": [
-        "protocol",
-        "solana",
-        "alpenglow"
+        "bank",
+        "england",
+        "treating"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "bef79703279a853208365816a8012b2dfd7d5dca",
+      "score": 20
+    },
+    {
+      "id": "https://www.theblock.co/post/401115/bitwise-cio-says-genius-act-helped-unlock-crypto-fundraising-as-tokenization-now-eyes-clarity-act-boost",
+      "title": "Bitwise CIO says GENIUS Act helped unlock crypto fundraising as tokenization now eyes Clarity Act boost",
+      "url": "https://www.theblock.co/post/401115/bitwise-cio-says-genius-act-helped-unlock-crypto-fundraising-as-tokenization-now-eyes-clarity-act-boost",
+      "source": "The Block",
+      "publishedAt": "2026-05-13T10:14:13.000Z",
+      "summary": "Bitwise CIO Matt Hougan drew three lessons from Arc, Canton, and Tempo's billion-dollar blockchain raises.",
+      "tags": [
+        "bitwise",
+        "says",
+        "genius"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3ae627c40f4717c88c3aee2c14f8d91d41eba123",
-      "score": 19
+      "dedupeFingerprint": "4981f0be1c70180be3654fb9a66bb614beb8cc9d",
+      "score": 18
     }
   ]
 }

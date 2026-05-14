@@ -1,34 +1,34 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "MARKET",
-      "title": "Jupiter taps Bitwise to curate institutional-grade Solana-based USDe lending market",
-      "category": "MARKET",
-      "source": "The Block",
-      "date": "2026-05-13",
-      "url": "https://www.theblock.co/post/401187/jupiter-taps-bitwise-to-curate-institutional-grade-solana-based-usde-lending-market",
-      "whyYouShouldCare": "Jupiter's partnership with Bitwise enhances the credibility and appeal of Solana's USDe lending market, potentially attracting more institutional liquidity."
-    },
-    {
       "type": "APPS",
-      "title": "The Protocol: Solana’s ‘Alpenglow’ upgrade is live for testing",
+      "title": "Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid",
       "category": "APPS",
       "source": "CoinDesk",
       "date": "2026-05-13",
-      "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
-      "whyYouShouldCare": "The launch of the 'Alpenglow' upgrade for testing indicates ongoing development in Solana's ecosystem, which may improve performance and user experience."
+      "url": "https://www.coindesk.com/markets/2026/05/13/anthropic-openai-tokens-plunge-nearly-40-as-ai-firms-warn-spv-transfers-are-invalid",
+      "whyYouShouldCare": "The decline in AI firm tokens highlights potential risks in tokenized equity markets, which could impact investor confidence in related projects on Solana."
+    },
+    {
+      "type": "MARKET",
+      "title": "Ethereum closes gap with Solana as DEX volumes converge near $45 billion",
+      "category": "MARKET",
+      "source": "The Block",
+      "date": "2026-05-13",
+      "url": "https://www.theblock.co/post/400806/ethereum-closes-gap-solana-dex-volumes-converge-45-billion",
+      "whyYouShouldCare": "The convergence of DEX volumes between Ethereum and Solana indicates a growing competitive landscape, which could influence liquidity and user engagement on the Solana network."
     },
     {
       "type": "APPS",
-      "title": "Upexi falls 8% after widened fiscal Q3 net loss",
+      "title": "Anthropic, OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings",
       "category": "APPS",
-      "source": "Cointelegraph",
+      "source": "The Block",
       "date": "2026-05-13",
-      "url": "https://cointelegraph.com/news/upexi-q3-net-loss-solana-holdings-2-5m-sol",
-      "whyYouShouldCare": "Upexi's significant fiscal loss could impact investor sentiment and confidence in related Solana projects, affecting overall ecosystem stability."
+      "url": "https://www.theblock.co/post/401088/anthropic-openai-tokenized-prestocks-plunge",
+      "whyYouShouldCare": "Warnings about unauthorized equity transfers for tokenized PreStocks may affect the credibility of token offerings on Solana, impacting ecosystem trust and participation."
     }
   ]
 }
