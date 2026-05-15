@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-05-15T09:45:30.749Z",
+    "generatedAt": "2026-05-15T20:15:07.929Z",
     "totalCandidates": 109,
-    "solanaCandidates": 25,
+    "solanaCandidates": 24,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://ambcrypto.com/jpmorgan-discloses-solana-etf-holdings-is-institutional-interest-in-sol-rising",
+      "title": "JPMorgan discloses Solana ETF holdings: Is institutional interest in SOL rising?",
+      "url": "https://ambcrypto.com/jpmorgan-discloses-solana-etf-holdings-is-institutional-interest-in-sol-rising",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-15T17:00:57.000Z",
+      "summary": "Institutions stack more Solana ETFs as total AUM surpass the $1 billion.",
+      "tags": [
+        "jpmorgan",
+        "discloses",
+        "solana"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "4ee422ffd1de7d60af7c544e4cd2ac71de9c2e2d",
+      "score": 24
+    },
     {
       "id": "https://www.coindesk.com/policy/2026/05/15/clarity-will-strengthen-dollar-stablecoins-but-asia-wins-on-yield-hashkey-research",
       "title": "CLARITY will strengthen dollar stablecoins, but Asia wins on yield: HashKey Research",
@@ -33,25 +66,25 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "006778ecc4f02a2c3f9c2abae3ed0d2256f345c4",
-      "score": 25
+      "score": 24
     },
     {
-      "id": "https://www.theblock.co/post/401440/forward-industries-posts-revenue-growth",
-      "title": "Forward Industries posts over 300% revenue growth but wider quarterly net loss amid SOL markdowns",
-      "url": "https://www.theblock.co/post/401440/forward-industries-posts-revenue-growth",
-      "source": "The Block",
-      "publishedAt": "2026-05-15T09:19:23.000Z",
-      "summary": "The Solana treasury firm generated $13 million in revenue for the quarter ended March 31, up 319% year over year.",
+      "id": "https://decrypt.co/367946/morning-minute-the-clarity-act-just-passed-its-first-major-vote",
+      "title": "Morning Minute: The Clarity Act Just Passed Its First Major Vote",
+      "url": "https://decrypt.co/367946/morning-minute-the-clarity-act-just-passed-its-first-major-vote",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-15T12:10:09.000Z",
+      "summary": "The Clarity Act passed a bipartisan vote in its 1st checkpoint. Coinbase made a major deal with Hyperliquid and HYPE ripped on the news.",
       "tags": [
-        "forward",
-        "industries",
-        "posts"
+        "morning",
+        "minute",
+        "clarity"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -67,27 +100,27 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "49aef5f7c5ac840bceb733dad81362dbd268ce0d",
-      "score": 22
+      "dedupeFingerprint": "507fc9f2c4ec4d1f48703c785c697119de73a606",
+      "score": 21
     },
     {
-      "id": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec",
-      "title": "Dartmouth endowment invests in Solana ETF, holds $14M in crypto exposure",
-      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-14T22:04:12.000Z",
-      "summary": "The unversity’s endowment disclosed holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF.",
+      "id": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight",
+      "title": "Hyperliquid Policy Center argues onchain perps offer efficiency, transparency as ICE and CME reportedly press for CFTC oversight",
+      "url": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight",
+      "source": "The Block",
+      "publishedAt": "2026-05-15T16:48:14.000Z",
+      "summary": "Bloomberg reported that ICE and CME are pressing for Hyperliquid to register with the CFTC, raising concerns about market stability.",
       "tags": [
-        "dartmouth",
-        "endowment",
-        "invests"
+        "hyperliquid",
+        "policy",
+        "center"
       ],
-      "topicBucket": "market",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -97,60 +130,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "3183503b2ed3ce7d67c2ee0eb9627bfef5aeffa0",
-      "score": 21
-    },
-    {
-      "id": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-for-advisors-stablecoins-finance-s-new-rails",
-      "title": "Crypto for Advisors: Stablecoins: finance's new rails",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-for-advisors-stablecoins-finance-s-new-rails",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-14T15:00:00.000Z",
-      "summary": "Stablecoins are moving beyond crypto into real-world finance, becoming vital B2B cross-border payment and treasury infrastructure, valued for efficiency, speed and regulatory compliance.",
-      "tags": [
-        "crypto",
-        "advisors",
-        "stablecoins"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "f3e0583bfeec20bbacdf61367d3782cde7654d47",
-      "score": 21
+      "dedupeFingerprint": "9bac8e9b5a466eba382241f8d66d1eb421f6443f",
+      "score": 19
     },
     {
-      "id": "https://www.coindesk.com/business/2026/05/14/stablecoin-powered-neobank-fasset-raises-usd51-million-to-expand-across-emerging-markets",
-      "title": "Stablecoin-powered neobank Fasset raises $51 million to expand across emerging markets",
-      "url": "https://www.coindesk.com/business/2026/05/14/stablecoin-powered-neobank-fasset-raises-usd51-million-to-expand-across-emerging-markets",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-14T13:00:00.000Z",
-      "summary": "The Shariah-compliant digital bank is part of a growing wave of fintech startups building banking and payments services on top of blockchain and stablecoin rails.",
+      "id": "https://ambcrypto.com/usd1-enters-binance-futures-as-a-primary-settlement-stablecoin-details",
+      "title": "USD1 enters Binance Futures as a primary settlement stablecoin: Details",
+      "url": "https://ambcrypto.com/usd1-enters-binance-futures-as-a-primary-settlement-stablecoin-details",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-15T16:00:34.000Z",
+      "summary": "Can USD1 climb to global top three stablecoin list with the recent Binance scaling partnership?",
       "tags": [
-        "stablecoin",
-        "powered",
-        "neobank"
+        "usd1",
+        "enters",
+        "binance"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "cf359fea8df8c4da745a8c8284c08e7223ff1e11",
-      "score": 21
+      "dedupeFingerprint": "a096d3abaf2a965a2df743a48299f078dcb7e57f",
+      "score": 19
     }
   ]
 }
