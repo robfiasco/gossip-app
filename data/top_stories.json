@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-05-14T20:27:02.720Z",
-    "totalCandidates": 110,
-    "solanaCandidates": 28,
+    "generatedAt": "2026-05-15T09:45:30.749Z",
+    "totalCandidates": 109,
+    "solanaCandidates": 25,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/bank-groups-warn-stablecoins-could-drain-deposits-after-clarity-vote",
-      "title": "Bank groups warn stablecoins could drain deposits after CLARITY vote",
-      "url": "https://ambcrypto.com/bank-groups-warn-stablecoins-could-drain-deposits-after-clarity-vote",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-14T20:18:05.000Z",
-      "summary": "Major banking organizations said stablecoin rewards could draw deposits away from traditional banks and affect lending activity.",
+      "id": "https://www.coindesk.com/policy/2026/05/15/clarity-will-strengthen-dollar-stablecoins-but-asia-wins-on-yield-hashkey-research",
+      "title": "CLARITY will strengthen dollar stablecoins, but Asia wins on yield: HashKey Research",
+      "url": "https://www.coindesk.com/policy/2026/05/15/clarity-will-strengthen-dollar-stablecoins-but-asia-wins-on-yield-hashkey-research",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-15T06:47:42.000Z",
+      "summary": "HashKey says U.S. regulatory clarity may unlock institutional adoption of crypto and reinforce USD stablecoins globally, though stricter yield rules could push capital toward Asian markets offering higher returns.",
       "tags": [
-        "bank",
-        "groups",
-        "warn"
+        "clarity",
+        "will",
+        "strengthen"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,29 +31,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 11,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ca557f6b2dfb533caa545e9eb9f4eeb6416feaa6",
-      "score": 24
+      "dedupeFingerprint": "006778ecc4f02a2c3f9c2abae3ed0d2256f345c4",
+      "score": 25
     },
     {
-      "id": "https://www.theblock.co/post/401286/million-different-ways-to-skin-cat-stablecoin-backers-see-incentives-as-inevitable",
-      "title": "‘A million different ways to skin the cat’: Why stablecoin backers see incentives as inevitable under Clarity Act",
-      "url": "https://www.theblock.co/post/401286/million-different-ways-to-skin-cat-stablecoin-backers-see-incentives-as-inevitable",
+      "id": "https://www.theblock.co/post/401440/forward-industries-posts-revenue-growth",
+      "title": "Forward Industries posts over 300% revenue growth but wider quarterly net loss amid SOL markdowns",
+      "url": "https://www.theblock.co/post/401440/forward-industries-posts-revenue-growth",
       "source": "The Block",
-      "publishedAt": "2026-05-14T15:36:54.000Z",
-      "summary": "Stablecoin advocates argue that in the end limiting rewards is a losing battle as companies will find ways to incentivize users.",
+      "publishedAt": "2026-05-15T09:19:23.000Z",
+      "summary": "The Solana treasury firm generated $13 million in revenue for the quarter ended March 31, up 319% year over year.",
       "tags": [
-        "million",
-        "different",
-        "ways"
+        "forward",
+        "industries",
+        "posts"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -71,8 +71,41 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7fb8f2b383ce62135adc334f15af26eac99b834b",
+      "dedupeFingerprint": "49aef5f7c5ac840bceb733dad81362dbd268ce0d",
       "score": 22
+    },
+    {
+      "id": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec",
+      "title": "Dartmouth endowment invests in Solana ETF, holds $14M in crypto exposure",
+      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-sec",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-14T22:04:12.000Z",
+      "summary": "The unversity’s endowment disclosed holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF.",
+      "tags": [
+        "dartmouth",
+        "endowment",
+        "invests"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3183503b2ed3ce7d67c2ee0eb9627bfef5aeffa0",
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-for-advisors-stablecoins-finance-s-new-rails",
@@ -99,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "f3e0583bfeec20bbacdf61367d3782cde7654d47",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://ambcrypto.com/solana-dat-upexi-posts-109-3-mln-loss-in-q1-2026-heres-why",
-      "title": "Solana DAT Upexi posts $109.3 mln loss in Q1 2026 – Here’s why",
-      "url": "https://ambcrypto.com/solana-dat-upexi-posts-109-3-mln-loss-in-q1-2026-heres-why",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-14T15:00:34.000Z",
-      "summary": "How did the decline in SOL prices affect Upexi's balance sheet and stock performance?",
+      "id": "https://www.coindesk.com/business/2026/05/14/stablecoin-powered-neobank-fasset-raises-usd51-million-to-expand-across-emerging-markets",
+      "title": "Stablecoin-powered neobank Fasset raises $51 million to expand across emerging markets",
+      "url": "https://www.coindesk.com/business/2026/05/14/stablecoin-powered-neobank-fasset-raises-usd51-million-to-expand-across-emerging-markets",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-14T13:00:00.000Z",
+      "summary": "The Shariah-compliant digital bank is part of a growing wave of fintech startups building banking and payments services on top of blockchain and stablecoin rails.",
       "tags": [
-        "solana",
-        "upexi",
-        "posts"
+        "stablecoin",
+        "powered",
+        "neobank"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
+        "recencyScore": 9,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "64f619d11f50aa098a490fc8bdb521f76bf4a0d5",
-      "score": 19
-    },
-    {
-      "id": "https://decrypt.co/367871/democrats-split-clarity-act-crypto-bill-passes-senate-committee-vote",
-      "title": "Democrats Split on Clarity Act as Crypto Bill Passes Key Senate Committee Vote",
-      "url": "https://decrypt.co/367871/democrats-split-clarity-act-crypto-bill-passes-senate-committee-vote",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-14T16:51:58.000Z",
-      "summary": "The landmark crypto bill now passes onto the Senate floor for final approval, though many hurdles remain.",
-      "tags": [
-        "democrats",
-        "split",
-        "clarity"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "09f42af2b6e850f0c06881ef84e0b796c117cf7b",
-      "score": 18
+      "dedupeFingerprint": "cf359fea8df8c4da745a8c8284c08e7223ff1e11",
+      "score": 21
     }
   ]
 }
