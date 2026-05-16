@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-05-16T08:46:57.226Z",
+    "generatedAt": "2026-05-16T20:00:55.436Z",
     "totalCandidates": 109,
-    "solanaCandidates": 17,
+    "solanaCandidates": 15,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/policy/2026/05/15/clarity-will-strengthen-dollar-stablecoins-but-asia-wins-on-yield-hashkey-research",
-      "title": "CLARITY will strengthen dollar stablecoins, but Asia wins on yield: HashKey Research",
-      "url": "https://www.coindesk.com/policy/2026/05/15/clarity-will-strengthen-dollar-stablecoins-but-asia-wins-on-yield-hashkey-research",
+      "id": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
+      "title": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
+      "url": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
       "source": "CoinDesk",
-      "publishedAt": "2026-05-15T06:47:42.000Z",
-      "summary": "HashKey says U.S. regulatory clarity may unlock institutional adoption of crypto and reinforce USD stablecoins globally, though stricter yield rules could push capital toward Asian markets offering higher returns.",
+      "publishedAt": "2026-05-16T15:00:00.000Z",
+      "summary": "In an interview with CoinDesk, the lead engineer at Firedancer gives an update on how the new client, also known as a software, is fairing in the Solana ecosystem.",
       "tags": [
-        "clarity",
-        "will",
-        "strengthen"
+        "jump",
+        "crypto",
+        "firedancer"
       ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,81 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "006778ecc4f02a2c3f9c2abae3ed0d2256f345c4",
-      "score": 23
-    },
-    {
-      "id": "https://ambcrypto.com/solana-etf-demand-is-surging-but-a-1b-sol-problem-may-be-brewing-details",
-      "title": "Solana ETF demand is surging, but a $1B SOL problem may be brewing – Details",
-      "url": "https://ambcrypto.com/solana-etf-demand-is-surging-but-a-1b-sol-problem-may-be-brewing-details",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-16T07:00:28.000Z",
-      "summary": "How will this contrast affect the token?",
-      "tags": [
-        "solana",
-        "demand",
-        "surging"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
+        "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "a21b0439d9a45d0a9a4e43a2a8986eff6220c745",
-      "score": 21
-    },
-    {
-      "id": "https://www.theblock.co/post/401530/new-era-for-crypto-users-who-trade-anything-everything-jito-goes-consumer-ceo-says",
-      "title": "It’s a ‘new era’ for crypto users who ‘trade anything and everything’ as Jito goes consumer, CEO Bruder says",
-      "url": "https://www.theblock.co/post/401530/new-era-for-crypto-users-who-trade-anything-everything-jito-goes-consumer-ceo-says",
-      "source": "The Block",
-      "publishedAt": "2026-05-15T20:41:09.000Z",
-      "summary": "Jito founder Lucas Bruder told The Block that there's a new class of users coming onchain who \"want to trade anything and everything.\"",
-      "tags": [
-        "crypto",
-        "users",
-        "trade"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "171f4a17ea4177e45ae952a9a4cc19b7c12b2bb5",
-      "score": 21
+      "dedupeFingerprint": "7ce5c4061170946ab84fbdcdf078bc45b312e916",
+      "score": 30
     },
     {
       "id": "https://decrypt.co/367946/morning-minute-the-clarity-act-just-passed-its-first-major-vote",
@@ -132,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "507fc9f2c4ec4d1f48703c785c697119de73a606",
-      "score": 20
+      "score": 19
     },
     {
       "id": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight",
@@ -165,13 +99,79 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9bac8e9b5a466eba382241f8d66d1eb421f6443f",
-      "score": 18
+      "score": 17
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+      "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
+      "url": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-15T10:24:37.000Z",
+      "summary": "The South Korean bank announced plans for a won-pegged stablecoin, blockchain remittances and tokenized securities.",
+      "tags": [
+        "hana",
+        "bank",
+        "acquire"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "6e0f5a261efaf62ae2065e13cbde68dfc998a1f0",
+      "score": 15
+    },
+    {
+      "id": "https://ambcrypto.com/coinbase-reacts-to-clarity-act-advancing-in-senate-more-work-left",
+      "title": "Coinbase reacts to CLARITY Act advancing in Senate – ‘More work left’",
+      "url": "https://ambcrypto.com/coinbase-reacts-to-clarity-act-advancing-in-senate-more-work-left",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-16T19:00:43.000Z",
+      "summary": "CLARITY Act still faces some roadblocks ahead of Senate floor vote.",
+      "tags": [
+        "coinbase",
+        "reacts",
+        "clarity"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "4060276698985704cc7b8aeb6baba9aa06f7daf0",
+      "score": 14
     }
   ]
 }

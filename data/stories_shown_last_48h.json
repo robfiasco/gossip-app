@@ -1,25 +1,11 @@
 [
   {
-    "id": "a256061e5690e256f27046da947f58433a0bbbf3",
-    "title": "Signal Board Summary 2026-05-16",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-05-16T08:47:05.157Z",
-    "lastSeenAt": "2026-05-16T08:47:05.157Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "171f4a17ea4177e45ae952a9a4cc19b7c12b2bb5",
     "title": "It’s a ‘new era’ for crypto users who ‘trade anything and everything’ as Jito goes consumer, CEO Bruder says",
     "url": "https://www.theblock.co/post/401530/new-era-for-crypto-users-who-trade-anything-everything-jito-goes-consumer-ceo-says",
     "source": "The Block",
     "firstSeenAt": "2026-05-16T08:46:57.396Z",
-    "lastSeenAt": "2026-05-16T08:46:57.396Z",
+    "lastSeenAt": "2026-05-16T20:00:55.608Z",
     "sectionShown": "briefing",
     "topicTags": [
       "crypto",
@@ -40,7 +26,7 @@
     "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
     "source": "CoinDesk",
     "firstSeenAt": "2026-05-16T08:46:57.396Z",
-    "lastSeenAt": "2026-05-16T08:46:57.396Z",
+    "lastSeenAt": "2026-05-16T20:00:55.608Z",
     "sectionShown": "briefing",
     "topicTags": [
       "crypto",
@@ -51,6 +37,41 @@
       "slides",
       "down",
       "long"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "7ce5c4061170946ab84fbdcdf078bc45b312e916",
+    "title": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
+    "url": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-05-16T20:00:55.607Z",
+    "lastSeenAt": "2026-05-16T20:00:55.607Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "jump",
+      "crypto",
+      "firedancer",
+      "taking",
+      "slow",
+      "steady",
+      "approach",
+      "long"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "a256061e5690e256f27046da947f58433a0bbbf3",
+    "title": "Signal Board Summary 2026-05-16",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-05-16T08:47:05.157Z",
+    "lastSeenAt": "2026-05-16T08:47:05.157Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -198,69 +219,6 @@
       "featuring",
       "contracts",
       "will"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "896f86c5fc574309bbdcb752c5d085e741c197ac",
-    "title": "Anthropic, OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings",
-    "url": "https://www.theblock.co/post/401088/anthropic-openai-tokenized-prestocks-plunge",
-    "source": "The Block",
-    "firstSeenAt": "2026-05-14T09:32:03.273Z",
-    "lastSeenAt": "2026-05-14T09:32:03.273Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "anthropic",
-      "openai",
-      "tokenized",
-      "prestocks",
-      "solana",
-      "plunge",
-      "after",
-      "unauthorized"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "e28c31b39fe9f8bb5e5125b7cfcd88a61a93494c",
-    "title": "Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid",
-    "url": "https://www.coindesk.com/markets/2026/05/13/anthropic-openai-tokens-plunge-nearly-40-as-ai-firms-warn-spv-transfers-are-invalid",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-05-14T09:32:03.272Z",
-    "lastSeenAt": "2026-05-14T09:32:03.272Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "anthropic",
-      "openai",
-      "tokens",
-      "plunge",
-      "firms",
-      "share",
-      "transfers",
-      "invalid"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "d337fb45aa85a8397a58fae454720eea4617d7fd",
-    "title": "Ethereum closes gap with Solana as DEX volumes converge near $45 billion",
-    "url": "https://www.theblock.co/post/400806/ethereum-closes-gap-solana-dex-volumes-converge-45-billion",
-    "source": "The Block",
-    "firstSeenAt": "2026-05-14T09:32:03.272Z",
-    "lastSeenAt": "2026-05-14T09:32:03.272Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "ethereum",
-      "closes",
-      "with",
-      "solana",
-      "volumes",
-      "converge",
-      "near",
-      "billion"
     ],
     "majorUpdate": false,
     "updateReason": null
