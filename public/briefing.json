@@ -1,8 +1,17 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "MARKET",
+      "title": "Solana stablecoin supply near $16B ATH: Early Q2 rally signal?",
+      "category": "MARKET",
+      "source": "AMB Crypto",
+      "date": "2026-05-16",
+      "url": "https://ambcrypto.com/solana-stablecoin-supply-near-16b-ath-early-q2-rally-signal",
+      "whyYouShouldCare": "The stablecoin supply nearing $16 billion indicates growing liquidity in Solana, potentially driving increased trading activity and ecosystem expansion."
+    },
     {
       "type": "INFRA",
       "title": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
@@ -10,7 +19,7 @@
       "source": "CoinDesk",
       "date": "2026-05-16",
       "url": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
-      "whyYouShouldCare": "Jump Crypto's gradual rollout of 'Firedancer' could enhance Solana's infrastructure, potentially improving network performance and attracting more developers."
+      "whyYouShouldCare": "Jump Crypto's methodical rollout of the Firedancer infrastructure suggests a focus on long-term stability and performance improvements for Solana's network."
     },
     {
       "type": "APPS",
@@ -19,16 +28,7 @@
       "source": "The Block",
       "date": "2026-05-15",
       "url": "https://www.theblock.co/post/401530/new-era-for-crypto-users-who-trade-anything-everything-jito-goes-consumer-ceo-says",
-      "whyYouShouldCare": "Jito's shift to consumer trading could broaden its user base, increasing transaction volume on Solana and enhancing the ecosystem's overall liquidity."
-    },
-    {
-      "type": "APPS",
-      "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-05-16",
-      "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
-      "whyYouShouldCare": "The recent $500 million loss in crypto longs, alongside SOL's decline, indicates potential volatility, which may impact investor sentiment and liquidity in the Solana market."
+      "whyYouShouldCare": "Jito's shift towards consumer trading platforms could enhance user engagement and broaden the application of Solana's technology in everyday transactions."
     }
   ]
 }

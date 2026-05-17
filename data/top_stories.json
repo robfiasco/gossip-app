@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-05-16T20:00:55.436Z",
+    "generatedAt": "2026-05-17T09:03:08.204Z",
     "totalCandidates": 109,
-    "solanaCandidates": 15,
+    "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
-      "title": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
-      "url": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
+      "id": "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
+      "title": "A Russian stablecoin built to dodge sanctions says it can survive even if they're lifted",
+      "url": "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
       "source": "CoinDesk",
-      "publishedAt": "2026-05-16T15:00:00.000Z",
-      "summary": "In an interview with CoinDesk, the lead engineer at Firedancer gives an update on how the new client, also known as a software, is fairing in the Solana ecosystem.",
+      "publishedAt": "2026-05-17T08:00:00.000Z",
+      "summary": "A7A5, the Russia-linked stablecoin built to move money around banking restrictions, says faster trade settlement, yield and regional crypto infrastructure could keep it relevant even if geopolitical tensions ease.",
       "tags": [
-        "jump",
-        "crypto",
-        "firedancer"
+        "russian",
+        "stablecoin",
+        "built"
       ],
       "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,15 +31,81 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7ce5c4061170946ab84fbdcdf078bc45b312e916",
-      "score": 30
+      "dedupeFingerprint": "e52ee4803996f1783af79472501c01f9612a51fa",
+      "score": 22
+    },
+    {
+      "id": "https://cryptoslate.com/societe-generale-stablecoins-canton-repo-collateral",
+      "title": "A major bank just moved its stablecoin strategy into Wall Street’s hidden financing machine",
+      "url": "https://cryptoslate.com/societe-generale-stablecoins-canton-repo-collateral",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-05-17T07:36:07.000Z",
+      "summary": "Societe Generale plans to bring SG-FORGE's EUR CoinVertible and USD CoinVertible to Canton Network as part of a push into collateral, repo financing, and settlement. The May 13 move puts the French bank's stablecoin effort closer to the operating layer of institutional markets. SG-FORGE has already ",
+      "tags": [
+        "major",
+        "bank",
+        "just"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b427c05a53764cc69eaeaf27f41bf7a717ea8933",
+      "score": 20
+    },
+    {
+      "id": "https://ambcrypto.com/solana-stablecoin-supply-near-16b-ath-early-q2-rally-signal",
+      "title": "Solana stablecoin supply near $16B ATH: Early Q2 rally signal?",
+      "url": "https://ambcrypto.com/solana-stablecoin-supply-near-16b-ath-early-q2-rally-signal",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-16T21:00:49.000Z",
+      "summary": "Institutional losses and rising speculative flows signal a fragile setup heading into Q2.",
+      "tags": [
+        "solana",
+        "stablecoin",
+        "supply"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "f57633908dfd7bc5a5fa3ce2328b80a8e3b820a5",
+      "score": 20
     },
     {
       "id": "https://decrypt.co/367946/morning-minute-the-clarity-act-just-passed-its-first-major-vote",
@@ -66,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "507fc9f2c4ec4d1f48703c785c697119de73a606",
-      "score": 19
+      "score": 18
     },
     {
       "id": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight",
@@ -99,79 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9bac8e9b5a466eba382241f8d66d1eb421f6443f",
-      "score": 17
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
-      "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
-      "url": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-15T10:24:37.000Z",
-      "summary": "The South Korean bank announced plans for a won-pegged stablecoin, blockchain remittances and tokenized securities.",
-      "tags": [
-        "hana",
-        "bank",
-        "acquire"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6e0f5a261efaf62ae2065e13cbde68dfc998a1f0",
-      "score": 15
-    },
-    {
-      "id": "https://ambcrypto.com/coinbase-reacts-to-clarity-act-advancing-in-senate-more-work-left",
-      "title": "Coinbase reacts to CLARITY Act advancing in Senate – ‘More work left’",
-      "url": "https://ambcrypto.com/coinbase-reacts-to-clarity-act-advancing-in-senate-more-work-left",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-16T19:00:43.000Z",
-      "summary": "CLARITY Act still faces some roadblocks ahead of Senate floor vote.",
-      "tags": [
-        "coinbase",
-        "reacts",
-        "clarity"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "4060276698985704cc7b8aeb6baba9aa06f7daf0",
-      "score": 14
+      "score": 16
     }
   ]
 }
