@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-05-17T09:03:08.204Z",
-    "totalCandidates": 109,
+    "generatedAt": "2026-05-17T20:03:23.312Z",
+    "totalCandidates": 102,
     "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
@@ -33,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e52ee4803996f1783af79472501c01f9612a51fa",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://cryptoslate.com/societe-generale-stablecoins-canton-repo-collateral",
@@ -66,46 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b427c05a53764cc69eaeaf27f41bf7a717ea8933",
-      "score": 20
-    },
-    {
-      "id": "https://ambcrypto.com/solana-stablecoin-supply-near-16b-ath-early-q2-rally-signal",
-      "title": "Solana stablecoin supply near $16B ATH: Early Q2 rally signal?",
-      "url": "https://ambcrypto.com/solana-stablecoin-supply-near-16b-ath-early-q2-rally-signal",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-16T21:00:49.000Z",
-      "summary": "Institutional losses and rising speculative flows signal a fragile setup heading into Q2.",
-      "tags": [
-        "solana",
-        "stablecoin",
-        "supply"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "f57633908dfd7bc5a5fa3ce2328b80a8e3b820a5",
-      "score": 20
+      "score": 19
     },
     {
       "id": "https://decrypt.co/367946/morning-minute-the-clarity-act-just-passed-its-first-major-vote",
@@ -132,28 +99,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "507fc9f2c4ec4d1f48703c785c697119de73a606",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight",
-      "title": "Hyperliquid Policy Center argues onchain perps offer efficiency, transparency as ICE and CME reportedly press for CFTC oversight",
-      "url": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight",
-      "source": "The Block",
-      "publishedAt": "2026-05-15T16:48:14.000Z",
-      "summary": "Bloomberg reported that ICE and CME are pressing for Hyperliquid to register with the CFTC, raising concerns about market stability.",
+      "id": "https://ambcrypto.com/1-5b-stablecoin-inflow-hits-binance-but-will-bitcoin-actually-benefit",
+      "title": "$1.5B stablecoin inflow hits Binance – But will Bitcoin actually benefit?",
+      "url": "https://ambcrypto.com/1-5b-stablecoin-inflow-hits-binance-but-will-bitcoin-actually-benefit",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-17T13:00:24.000Z",
+      "summary": "Traders rapidly repositioned stablecoin liquidity on Binance as Bitcoin’s repeated volatility swings weakened stronger market conviction.",
       "tags": [
-        "hyperliquid",
-        "policy",
-        "center"
+        "stablecoin",
+        "inflow",
+        "hits"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9bac8e9b5a466eba382241f8d66d1eb421f6443f",
+      "dedupeFingerprint": "c41e6468533aa632215f77ac469c0d759f357502",
       "score": 16
+    },
+    {
+      "id": "https://cryptoslate.com/clarity-act-is-not-law-yet-but-the-markup-is-a-retail-trust-catalyst",
+      "title": "CLARITY Act is not law yet, but the markup is a major retail adoption trust catalyst",
+      "url": "https://cryptoslate.com/clarity-act-is-not-law-yet-but-the-markup-is-a-retail-trust-catalyst",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-05-17T13:30:35.000Z",
+      "summary": "The Senate Banking Committee advanced the Digital Asset Market Clarity Act by a 15-9 vote, and the National Cryptocurrency Association (NCA) says the vote's most enduring effect may be the signal that Washington is building a defined regulatory framework for digital assets. The bill still needs a Se",
+      "tags": [
+        "clarity",
+        "markup",
+        "major"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ae68f5b2924d4d341083c507a669174075472486",
+      "score": 15
     }
   ]
 }
