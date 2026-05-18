@@ -1,13 +1,79 @@
 {
   "meta": {
-    "generatedAt": "2026-05-17T20:03:23.312Z",
-    "totalCandidates": 102,
-    "solanaCandidates": 19,
+    "generatedAt": "2026-05-18T11:05:27.459Z",
+    "totalCandidates": 101,
+    "solanaCandidates": 18,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://www.theblock.co/post/401615/bernstein-says-clarity-act-yield-compromise-cements-circles-edge-amid-record-stablecoin-supply",
+      "title": "Bernstein says Clarity Act yield compromise cements Circle’s edge amid record stablecoin supply",
+      "url": "https://www.theblock.co/post/401615/bernstein-says-clarity-act-yield-compromise-cements-circles-edge-amid-record-stablecoin-supply",
+      "source": "The Block",
+      "publishedAt": "2026-05-18T09:52:20.000Z",
+      "summary": "Bernstein analysts said the Senate Clarity Act markup and yield compromise strengthen Circle's model as dollar stablecoin supply grows.",
+      "tags": [
+        "bernstein",
+        "says",
+        "clarity"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5b5b2aa3a858c52317aea1e2ed84257e8dea71ec",
+      "score": 22
+    },
+    {
+      "id": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+      "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-17T20:32:07.000Z",
+      "summary": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+      "tags": [
+        "what",
+        "stablecoin",
+        "blockchain"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2954174b21b15ba26124eb98e83ff2436ec38224",
+      "score": 20
+    },
     {
       "id": "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
       "title": "A Russian stablecoin built to dodge sanctions says it can survive even if they're lifted",
@@ -33,25 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e52ee4803996f1783af79472501c01f9612a51fa",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://cryptoslate.com/societe-generale-stablecoins-canton-repo-collateral",
-      "title": "A major bank just moved its stablecoin strategy into Wall Street’s hidden financing machine",
-      "url": "https://cryptoslate.com/societe-generale-stablecoins-canton-repo-collateral",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-17T07:36:07.000Z",
-      "summary": "Societe Generale plans to bring SG-FORGE's EUR CoinVertible and USD CoinVertible to Canton Network as part of a push into collateral, repo financing, and settlement. The May 13 move puts the French bank's stablecoin effort closer to the operating layer of institutional markets. SG-FORGE has already ",
+      "id": "https://ambcrypto.com/americas-stablecoin-push-goes-beyond-crypto-the-clarity-act-explains-why",
+      "title": "America’s stablecoin push goes beyond crypto – The CLARITY Act explains why",
+      "url": "https://ambcrypto.com/americas-stablecoin-push-goes-beyond-crypto-the-clarity-act-explains-why",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-18T04:00:38.000Z",
+      "summary": "Is stablecoin regulation, rather than technology, defining the next phase of crypto?",
       "tags": [
-        "major",
-        "bank",
-        "just"
+        "america",
+        "stablecoin",
+        "push"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -66,12 +132,12 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 2,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b427c05a53764cc69eaeaf27f41bf7a717ea8933",
+      "dedupeFingerprint": "de910a3b26b77baba4b9df2ccae0e00fd6988ce3",
       "score": 19
     },
     {
@@ -99,79 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 5,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "507fc9f2c4ec4d1f48703c785c697119de73a606",
-      "score": 17
-    },
-    {
-      "id": "https://ambcrypto.com/1-5b-stablecoin-inflow-hits-binance-but-will-bitcoin-actually-benefit",
-      "title": "$1.5B stablecoin inflow hits Binance – But will Bitcoin actually benefit?",
-      "url": "https://ambcrypto.com/1-5b-stablecoin-inflow-hits-binance-but-will-bitcoin-actually-benefit",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-17T13:00:24.000Z",
-      "summary": "Traders rapidly repositioned stablecoin liquidity on Binance as Bitcoin’s repeated volatility swings weakened stronger market conviction.",
-      "tags": [
-        "stablecoin",
-        "inflow",
-        "hits"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c41e6468533aa632215f77ac469c0d759f357502",
       "score": 16
-    },
-    {
-      "id": "https://cryptoslate.com/clarity-act-is-not-law-yet-but-the-markup-is-a-retail-trust-catalyst",
-      "title": "CLARITY Act is not law yet, but the markup is a major retail adoption trust catalyst",
-      "url": "https://cryptoslate.com/clarity-act-is-not-law-yet-but-the-markup-is-a-retail-trust-catalyst",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-17T13:30:35.000Z",
-      "summary": "The Senate Banking Committee advanced the Digital Asset Market Clarity Act by a 15-9 vote, and the National Cryptocurrency Association (NCA) says the vote's most enduring effect may be the signal that Washington is building a defined regulatory framework for digital assets. The bill still needs a Se",
-      "tags": [
-        "clarity",
-        "markup",
-        "major"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ae68f5b2924d4d341083c507a669174075472486",
-      "score": 15
     }
   ]
 }
