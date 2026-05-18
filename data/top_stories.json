@@ -1,13 +1,79 @@
 {
   "meta": {
-    "generatedAt": "2026-05-18T11:05:27.459Z",
-    "totalCandidates": 101,
-    "solanaCandidates": 18,
+    "generatedAt": "2026-05-18T20:23:01.649Z",
+    "totalCandidates": 102,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://solana.com/news/bits-to-bricks-stablecoins-and-the-evolution-of-us-banking-davis-hart",
+      "title": "Bits to Bricks: Stablecoins and the Evolution of US Banking",
+      "url": "https://solana.com/news/bits-to-bricks-stablecoins-and-the-evolution-of-us-banking-davis-hart",
+      "source": "Solana News",
+      "publishedAt": "2026-05-18T12:00:00.000Z",
+      "summary": "Davis Hart, founder and CEO of Omnia, on the path from 4,500 US banks to 300, what stablecoins really change for American banking, and where banks still win.",
+      "tags": [
+        "bits",
+        "bricks",
+        "stablecoins"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 14,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "6f5058e0101eaf07fb253c7cc52b7ee241b9dea0",
+      "score": 29
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/05/18/solana-is-shedding-its-memecoin-reputation-as-big-banks-move-billions-into-its-ecosystem",
+      "title": "Solana is shedding its memecoin reputation as big banks move billions into its ecosystem",
+      "url": "https://www.coindesk.com/markets/2026/05/18/solana-is-shedding-its-memecoin-reputation-as-big-banks-move-billions-into-its-ecosystem",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-18T17:35:27.000Z",
+      "summary": "Wall Street and payment giants are quietly taking over Solana, moving billions onto the network for tokenized funds and global payments even as the broader crypto market cools down, according to a new report by Messari.",
+      "tags": [
+        "solana",
+        "shedding",
+        "memecoin"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e4aa4642c48047eefc2ea97ecc8471c919892a71",
+      "score": 22
+    },
     {
       "id": "https://www.theblock.co/post/401615/bernstein-says-clarity-act-yield-compromise-cements-circles-edge-amid-record-stablecoin-supply",
       "title": "Bernstein says Clarity Act yield compromise cements Circle’s edge amid record stablecoin supply",
@@ -75,51 +141,18 @@
       "score": 20
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
-      "title": "A Russian stablecoin built to dodge sanctions says it can survive even if they're lifted",
-      "url": "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-17T08:00:00.000Z",
-      "summary": "A7A5, the Russia-linked stablecoin built to move money around banking restrictions, says faster trade settlement, yield and regional crypto infrastructure could keep it relevant even if geopolitical tensions ease.",
+      "id": "https://cointelegraph.com/news/goldman-sachs-xrp-solana-etf-exposure-q1-2026",
+      "title": "Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",
+      "url": "https://cointelegraph.com/news/goldman-sachs-xrp-solana-etf-exposure-q1-2026",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-18T10:47:03.000Z",
+      "summary": "Goldman Sachs cut its crypto ETF exposure in Q1 2026, exiting XRP and Solana funds while trimming Bitcoin and Ether ETFs and reshaping equity bets.",
       "tags": [
-        "russian",
-        "stablecoin",
-        "built"
+        "goldman",
+        "sachs",
+        "exits"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e52ee4803996f1783af79472501c01f9612a51fa",
-      "score": 20
-    },
-    {
-      "id": "https://ambcrypto.com/americas-stablecoin-push-goes-beyond-crypto-the-clarity-act-explains-why",
-      "title": "America’s stablecoin push goes beyond crypto – The CLARITY Act explains why",
-      "url": "https://ambcrypto.com/americas-stablecoin-push-goes-beyond-crypto-the-clarity-act-explains-why",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-18T04:00:38.000Z",
-      "summary": "Is stablecoin regulation, rather than technology, defining the next phase of crypto?",
-      "tags": [
-        "america",
-        "stablecoin",
-        "push"
-      ],
-      "topicBucket": "defi",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -133,45 +166,12 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "de910a3b26b77baba4b9df2ccae0e00fd6988ce3",
-      "score": 19
-    },
-    {
-      "id": "https://decrypt.co/367946/morning-minute-the-clarity-act-just-passed-its-first-major-vote",
-      "title": "Morning Minute: The Clarity Act Just Passed Its First Major Vote",
-      "url": "https://decrypt.co/367946/morning-minute-the-clarity-act-just-passed-its-first-major-vote",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-15T12:10:09.000Z",
-      "summary": "The Clarity Act passed a bipartisan vote in its 1st checkpoint. Coinbase made a major deal with Hyperliquid and HYPE ripped on the news.",
-      "tags": [
-        "morning",
-        "minute",
-        "clarity"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "507fc9f2c4ec4d1f48703c785c697119de73a606",
-      "score": 16
+      "dedupeFingerprint": "c79430b4f1e175940389bc8f0d91a5ddfe0ac872",
+      "score": 18
     }
   ]
 }
