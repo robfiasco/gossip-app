@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-05-18T20:23:01.649Z",
-    "totalCandidates": 102,
+    "generatedAt": "2026-05-19T10:36:06.824Z",
+    "totalCandidates": 103,
     "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
@@ -33,25 +33,25 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "6f5058e0101eaf07fb253c7cc52b7ee241b9dea0",
-      "score": 29
+      "score": 28
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/05/18/solana-is-shedding-its-memecoin-reputation-as-big-banks-move-billions-into-its-ecosystem",
-      "title": "Solana is shedding its memecoin reputation as big banks move billions into its ecosystem",
-      "url": "https://www.coindesk.com/markets/2026/05/18/solana-is-shedding-its-memecoin-reputation-as-big-banks-move-billions-into-its-ecosystem",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-18T17:35:27.000Z",
-      "summary": "Wall Street and payment giants are quietly taking over Solana, moving billions onto the network for tokenized funds and global payments even as the broader crypto market cools down, according to a new report by Messari.",
+      "id": "https://ambcrypto.com/solana-why-secs-tokenized-equity-move-matters-for-sols-2-6b-rwa-boom",
+      "title": "Solana: Why SEC’s tokenized equity move matters for SOL’s $2.6B RWA boom",
+      "url": "https://ambcrypto.com/solana-why-secs-tokenized-equity-move-matters-for-sols-2-6b-rwa-boom",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-19T09:00:58.000Z",
+      "summary": "As tokenization accelerates, Solana’s Q2 growth narrative increasingly revolves around real-world assets.",
       "tags": [
         "solana",
-        "shedding",
-        "memecoin"
+        "tokenized",
+        "equity"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,29 +64,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e4aa4642c48047eefc2ea97ecc8471c919892a71",
-      "score": 22
+      "dedupeFingerprint": "09506f5079e0859f92f771b98c06106f3869c333",
+      "score": 24
     },
     {
-      "id": "https://www.theblock.co/post/401615/bernstein-says-clarity-act-yield-compromise-cements-circles-edge-amid-record-stablecoin-supply",
-      "title": "Bernstein says Clarity Act yield compromise cements Circle’s edge amid record stablecoin supply",
-      "url": "https://www.theblock.co/post/401615/bernstein-says-clarity-act-yield-compromise-cements-circles-edge-amid-record-stablecoin-supply",
-      "source": "The Block",
-      "publishedAt": "2026-05-18T09:52:20.000Z",
-      "summary": "Bernstein analysts said the Senate Clarity Act markup and yield compromise strengthen Circle's model as dollar stablecoin supply grows.",
+      "id": "https://ambcrypto.com/solana-drops-to-83-as-longs-get-wiped-out-is-80-next-for-sol",
+      "title": "Solana drops to $83 as longs get wiped out – Is $80 next for SOL?",
+      "url": "https://ambcrypto.com/solana-drops-to-83-as-longs-get-wiped-out-is-80-next-for-sol",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-19T04:00:08.000Z",
+      "summary": "Solana dropped to $83, erasing all May gains amid intense bearish pressure.",
       "tags": [
-        "bernstein",
-        "says",
-        "clarity"
+        "solana",
+        "drops",
+        "longs"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -97,60 +97,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5b5b2aa3a858c52317aea1e2ed84257e8dea71ec",
-      "score": 22
+      "dedupeFingerprint": "3d3c57fd7afcc2031f1429f35e96cf8229f9e78a",
+      "score": 24
     },
     {
-      "id": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
-      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
-      "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-17T20:32:07.000Z",
-      "summary": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+      "id": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
+      "title": "XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion",
+      "url": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-19T08:25:17.000Z",
+      "summary": "CoinShares data shows investors are rotating into listed products based on XRP and SOL while bitcoin and ethereum products posted heavy weekly outflows.",
       "tags": [
-        "what",
-        "stablecoin",
-        "blockchain"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2954174b21b15ba26124eb98e83ff2436ec38224",
-      "score": 20
-    },
-    {
-      "id": "https://cointelegraph.com/news/goldman-sachs-xrp-solana-etf-exposure-q1-2026",
-      "title": "Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",
-      "url": "https://cointelegraph.com/news/goldman-sachs-xrp-solana-etf-exposure-q1-2026",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-18T10:47:03.000Z",
-      "summary": "Goldman Sachs cut its crypto ETF exposure in Q1 2026, exiting XRP and Solana funds while trimming Bitcoin and Ether ETFs and reshaping equity bets.",
-      "tags": [
-        "goldman",
-        "sachs",
-        "exits"
+        "solana",
+        "funds",
+        "attract"
       ],
       "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -166,11 +133,44 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c79430b4f1e175940389bc8f0d91a5ddfe0ac872",
+      "dedupeFingerprint": "8b71371f418853cf8d77d19107bcc8933e24c1e7",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/401741/zerohash-first-emi-license-mica-stablecoin-brokerage-services-europe",
+      "title": "Zerohash secures first EMI license under MiCA for stablecoin and brokerage services in Europe",
+      "url": "https://www.theblock.co/post/401741/zerohash-first-emi-license-mica-stablecoin-brokerage-services-europe",
+      "source": "The Block",
+      "publishedAt": "2026-05-18T19:27:36.000Z",
+      "summary": "Zerohash Europe is the first firm licensed under Europe’s flagship MiCA crypto regulation to also hold full EMI status.",
+      "tags": [
+        "zerohash",
+        "secures",
+        "first"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "f9a98db8ed91f234652ad6be4c7c94e57ce448df",
       "score": 18
     }
   ]
