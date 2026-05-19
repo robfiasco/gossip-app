@@ -1,23 +1,23 @@
 {
-  "as_of_utc": "2026-05-19T10:36:03.494Z",
+  "as_of_utc": "2026-05-19T20:28:58.610Z",
   "sol": {
-    "price": 84.72,
-    "change_24h": 0.49209,
-    "change_7d": -11.505256802711342,
+    "price": 84.34,
+    "change_24h": -1.02422,
+    "change_7d": -10.869075250239103,
     "change_prev_week_utc": -7.13
   },
   "mkt_cap": {
-    "solana_mkt_cap_usd": 48995318684,
-    "change_24h": 0.46741
+    "solana_mkt_cap_usd": 48738608835,
+    "change_24h": -1.1409
   },
   "fear_greed": {
     "value": 25,
     "label": "Extreme Fear"
   },
   "btc_dominance": {
-    "value": 58.1993833597275
+    "value": 58.26255088317526
   },
   "vol": {
-    "sol_24h_usd": 2706038106
+    "sol_24h_usd": 2033821135
   }
 }

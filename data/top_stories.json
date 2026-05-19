@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-05-19T10:36:06.824Z",
-    "totalCandidates": 103,
-    "solanaCandidates": 17,
+    "generatedAt": "2026-05-19T20:29:02.595Z",
+    "totalCandidates": 111,
+    "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,25 +33,25 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "6f5058e0101eaf07fb253c7cc52b7ee241b9dea0",
-      "score": 28
+      "score": 27
     },
     {
-      "id": "https://ambcrypto.com/solana-why-secs-tokenized-equity-move-matters-for-sols-2-6b-rwa-boom",
-      "title": "Solana: Why SEC’s tokenized equity move matters for SOL’s $2.6B RWA boom",
-      "url": "https://ambcrypto.com/solana-why-secs-tokenized-equity-move-matters-for-sols-2-6b-rwa-boom",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-19T09:00:58.000Z",
-      "summary": "As tokenization accelerates, Solana’s Q2 growth narrative increasingly revolves around real-world assets.",
+      "id": "https://cointelegraph.com/news/pumpfun-over-third-solana-q1-revenue-memecoin-slowdown",
+      "title": "Pump.fun accounts for over one-third of Solana’s Q1 revenue despite memecoin slowdown",
+      "url": "https://cointelegraph.com/news/pumpfun-over-third-solana-q1-revenue-memecoin-slowdown",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-19T12:25:15.000Z",
+      "summary": "Pump.fun pulled in $124.7 million in Q1 2026, making it Solana’s largest revenue generator even as memecoin activity cooled, while the network’s RWA market cap crossed $2 billion.",
       "tags": [
-        "solana",
-        "tokenized",
-        "equity"
+        "pump",
+        "accounts",
+        "over"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,62 +64,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "09506f5079e0859f92f771b98c06106f3869c333",
-      "score": 24
+      "dedupeFingerprint": "c4e9778bd12a3ad3f0fe47b74d46d69442b3e650",
+      "score": 26
     },
     {
-      "id": "https://ambcrypto.com/solana-drops-to-83-as-longs-get-wiped-out-is-80-next-for-sol",
-      "title": "Solana drops to $83 as longs get wiped out – Is $80 next for SOL?",
-      "url": "https://ambcrypto.com/solana-drops-to-83-as-longs-get-wiped-out-is-80-next-for-sol",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-19T04:00:08.000Z",
-      "summary": "Solana dropped to $83, erasing all May gains amid intense bearish pressure.",
+      "id": "https://www.theblock.co/post/401906/stablecoin-infrastructure-startup-checker-funding",
+      "title": "Stablecoin infrastructure startup Checker raises $8 million from Galaxy Ventures and others",
+      "url": "https://www.theblock.co/post/401906/stablecoin-infrastructure-startup-checker-funding",
+      "source": "The Block",
+      "publishedAt": "2026-05-19T16:00:02.000Z",
+      "summary": "Stablecoin infrastructure startup Checker has raised $8 million in funding from a range of investors including Galaxy and Framework.",
       "tags": [
-        "solana",
-        "drops",
-        "longs"
+        "stablecoin",
+        "infrastructure",
+        "startup"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "3d3c57fd7afcc2031f1429f35e96cf8229f9e78a",
-      "score": 24
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
-      "title": "XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion",
-      "url": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-19T08:25:17.000Z",
-      "summary": "CoinShares data shows investors are rotating into listed products based on XRP and SOL while bitcoin and ethereum products posted heavy weekly outflows.",
-      "tags": [
-        "solana",
-        "funds",
-        "attract"
-      ],
-      "topicBucket": "market",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -137,20 +104,53 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8b71371f418853cf8d77d19107bcc8933e24c1e7",
+      "dedupeFingerprint": "90f0e5feafac340bcb2403831ee824c7a7063935",
       "score": 22
     },
     {
-      "id": "https://www.theblock.co/post/401741/zerohash-first-emi-license-mica-stablecoin-brokerage-services-europe",
-      "title": "Zerohash secures first EMI license under MiCA for stablecoin and brokerage services in Europe",
-      "url": "https://www.theblock.co/post/401741/zerohash-first-emi-license-mica-stablecoin-brokerage-services-europe",
+      "id": "https://www.theblock.co/post/401804/japan-ai-blockchain-proposal-ldp",
+      "title": "Japan’s ruling party advances proposal to build national AI-blockchain financial system",
+      "url": "https://www.theblock.co/post/401804/japan-ai-blockchain-proposal-ldp",
       "source": "The Block",
-      "publishedAt": "2026-05-18T19:27:36.000Z",
-      "summary": "Zerohash Europe is the first firm licensed under Europe’s flagship MiCA crypto regulation to also hold full EMI status.",
+      "publishedAt": "2026-05-19T09:29:21.000Z",
+      "summary": "Japan's LDP formally approved a policy proposal to build a next-generation financial system based on blockchain and AI.",
       "tags": [
-        "zerohash",
-        "secures",
-        "first"
+        "japan",
+        "ruling",
+        "party"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b27283c944c0d3dbe3fdd9ee7456a50872a9db06",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/blockchain-association-warns-fdic-against-favoring-big-banks-in-stablecoin-rules",
+      "title": "Blockchain Association warns FDIC against favoring big banks in stablecoin rules",
+      "url": "https://ambcrypto.com/blockchain-association-warns-fdic-against-favoring-big-banks-in-stablecoin-rules",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-19T19:22:55.000Z",
+      "summary": "The Blockchain Association says FDIC stablecoin rules should not become a gatekeeping mechanism favoring large banking institutions.",
+      "tags": [
+        "blockchain",
+        "association",
+        "warns"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "f9a98db8ed91f234652ad6be4c7c94e57ce448df",
-      "score": 18
+      "dedupeFingerprint": "444fca1b31b7ca5c58efc8d014d6c538ee9c411e",
+      "score": 19
     }
   ]
 }
