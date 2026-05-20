@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-05-19T20:29:02.595Z",
+    "generatedAt": "2026-05-20T10:23:49.104Z",
     "totalCandidates": 111,
-    "solanaCandidates": 19,
+    "solanaCandidates": 18,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
+      "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
+      "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-20T00:15:57.000Z",
+      "summary": "Solana futures funding turned negative as demand for SOL and its associated decentralized exchanges fell. Will traders buy the dip or is $78 next?",
+      "tags": [
+        "solana",
+        "futures",
+        "funding"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ef6a8241c806df6b0b7187d6de8b6ff4a18a36f9",
+      "score": 26
+    },
     {
       "id": "https://solana.com/news/bits-to-bricks-stablecoins-and-the-evolution-of-us-banking-davis-hart",
       "title": "Bits to Bricks: Stablecoins and the Evolution of US Banking",
@@ -33,27 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "6f5058e0101eaf07fb253c7cc52b7ee241b9dea0",
-      "score": 27
+      "score": 26
     },
     {
-      "id": "https://cointelegraph.com/news/pumpfun-over-third-solana-q1-revenue-memecoin-slowdown",
-      "title": "Pump.fun accounts for over one-third of Solana’s Q1 revenue despite memecoin slowdown",
-      "url": "https://cointelegraph.com/news/pumpfun-over-third-solana-q1-revenue-memecoin-slowdown",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-19T12:25:15.000Z",
-      "summary": "Pump.fun pulled in $124.7 million in Q1 2026, making it Solana’s largest revenue generator even as memecoin activity cooled, while the network’s RWA market cap crossed $2 billion.",
+      "id": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+      "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
+      "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-20T09:22:58.000Z",
+      "summary": "The DWS and Galaxy-backed firm targets June debut for its SEKAU stablecoin as Europe pushes to build regulated local-currency alternatives to U.S. dollar tokens.",
       "tags": [
-        "pump",
-        "accounts",
-        "over"
+        "germany",
+        "allunity",
+        "plans"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -64,15 +97,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c4e9778bd12a3ad3f0fe47b74d46d69442b3e650",
-      "score": 26
+      "dedupeFingerprint": "fd6ba003cdc472f6dc8d725f359b8779fce7b66f",
+      "score": 22
     },
     {
       "id": "https://www.theblock.co/post/401906/stablecoin-infrastructure-startup-checker-funding",
@@ -99,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "90f0e5feafac340bcb2403831ee824c7a7063935",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.theblock.co/post/401804/japan-ai-blockchain-proposal-ldp",
-      "title": "Japan’s ruling party advances proposal to build national AI-blockchain financial system",
-      "url": "https://www.theblock.co/post/401804/japan-ai-blockchain-proposal-ldp",
-      "source": "The Block",
-      "publishedAt": "2026-05-19T09:29:21.000Z",
-      "summary": "Japan's LDP formally approved a policy proposal to build a next-generation financial system based on blockchain and AI.",
+      "id": "https://decrypt.co/368389/google-gemini-spark-ai-agent-challenge-hermes-openclaw",
+      "title": "Google Launches Gemini Spark: A 24/7 AI Agent That Wants to Make You Ditch OpenClaw",
+      "url": "https://decrypt.co/368389/google-gemini-spark-ai-agent-challenge-hermes-openclaw",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-19T18:52:48.000Z",
+      "summary": "Announced at Google I/O 2026, Spark is Google's most ambitious Gemini feature yet—a personal agent that manages your inbox, your calendar, and your workflows, with or without you watching.",
       "tags": [
-        "japan",
-        "ruling",
-        "party"
+        "google",
+        "launches",
+        "gemini"
       ],
-      "topicBucket": "general",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -130,48 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
+        "recencyScore": 9,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b27283c944c0d3dbe3fdd9ee7456a50872a9db06",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/blockchain-association-warns-fdic-against-favoring-big-banks-in-stablecoin-rules",
-      "title": "Blockchain Association warns FDIC against favoring big banks in stablecoin rules",
-      "url": "https://ambcrypto.com/blockchain-association-warns-fdic-against-favoring-big-banks-in-stablecoin-rules",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-19T19:22:55.000Z",
-      "summary": "The Blockchain Association says FDIC stablecoin rules should not become a gatekeeping mechanism favoring large banking institutions.",
-      "tags": [
-        "blockchain",
-        "association",
-        "warns"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "444fca1b31b7ca5c58efc8d014d6c538ee9c411e",
-      "score": 19
+      "dedupeFingerprint": "79dad7b77e272f4f46a3dc476ca4f1fd693fdd3f",
+      "score": 17
     }
   ]
 }
