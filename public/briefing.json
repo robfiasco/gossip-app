@@ -4,22 +4,22 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "RISK",
+      "title": "Drift says Insurance Fund deposits remain safe after exploit backlash",
+      "category": "RISK",
+      "source": "AMB Crypto",
+      "date": "2026-05-20",
+      "url": "https://ambcrypto.com/drift-says-insurance-fund-deposits-remain-safe-after-exploit-backlash",
+      "whyYouShouldCare": "Drift's assurance about the safety of Insurance Fund deposits may stabilize user confidence and liquidity in the Solana ecosystem following recent exploit concerns."
+    },
+    {
       "type": "APPS",
       "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
       "category": "APPS",
       "source": "Cointelegraph",
       "date": "2026-05-20",
       "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
-      "whyYouShouldCare": "A negative funding rate in Solana futures may indicate bearish sentiment, potentially impacting SOL's price trajectory and market liquidity."
-    },
-    {
-      "type": "APPS",
-      "title": "Bitcoin Bleeds $1B Weekly but XRP and SOL Defy Market Panic",
-      "category": "APPS",
-      "source": "CryptoPotato",
-      "date": "2026-05-18",
-      "url": "https://cryptopotato.com/bitcoin-bleeds-1b-weekly-but-xrp-and-sol-defy-market-panic",
-      "whyYouShouldCare": "Despite Bitcoin's decline, Solana's resilience suggests strong ecosystem fundamentals, which could enhance its positioning in a volatile market."
+      "whyYouShouldCare": "The negative funding rate for Solana futures indicates a potential shift in market sentiment, which could impact SOL's price trajectory and trading strategies."
     },
     {
       "type": "APPS",
@@ -28,7 +28,7 @@
       "source": "Decrypt",
       "date": "2026-05-19",
       "url": "https://decrypt.co/368383/men-arrested-japan-entering-punch-monkey-zoo-enclosure-meme-coin",
-      "whyYouShouldCare": "The arrest of individuals promoting a meme coin highlights regulatory scrutiny, which could affect the broader crypto landscape and investor confidence."
+      "whyYouShouldCare": "The promotion of a meme coin through unconventional methods highlights the ongoing innovation in Solana's ecosystem, which could drive user engagement and new project interest."
     }
   ]
 }

@@ -1,11 +1,25 @@
 [
   {
+    "id": "e734ab725356b69e07a989bbd7a342546f7ae160",
+    "title": "Signal Board Summary 2026-05-20",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-05-20T20:58:43.379Z",
+    "lastSeenAt": "2026-05-20T20:58:43.379Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "a70ec111aafbc8d712d9b13672c4c1aaa3c2be61",
     "title": "Americans Arrested in Japan for Entering Punch the Monkey’s Zoo Home to Promote Meme Coin",
     "url": "https://decrypt.co/368383/men-arrested-japan-entering-punch-monkey-zoo-enclosure-meme-coin",
     "source": "Decrypt",
     "firstSeenAt": "2026-05-19T20:29:02.767Z",
-    "lastSeenAt": "2026-05-20T10:23:49.275Z",
+    "lastSeenAt": "2026-05-20T20:58:34.991Z",
     "sectionShown": "briefing",
     "topicTags": [
       "americans",
@@ -16,6 +30,48 @@
       "monkey",
       "home",
       "promote"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "ef6a8241c806df6b0b7187d6de8b6ff4a18a36f9",
+    "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
+    "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-05-20T10:23:49.274Z",
+    "lastSeenAt": "2026-05-20T20:58:34.991Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "futures",
+      "funding",
+      "rate",
+      "turns",
+      "negative",
+      "next",
+      "turned"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "86582e7655d5a9d0c240449534445fab633561aa",
+    "title": "Drift says Insurance Fund deposits remain safe after exploit backlash",
+    "url": "https://ambcrypto.com/drift-says-insurance-fund-deposits-remain-safe-after-exploit-backlash",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-05-20T20:58:34.990Z",
+    "lastSeenAt": "2026-05-20T20:58:34.990Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "drift",
+      "says",
+      "insurance",
+      "fund",
+      "deposits",
+      "remain",
+      "safe",
+      "after"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -37,111 +93,6 @@
       "panic",
       "solana",
       "dogecoin"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "ef6a8241c806df6b0b7187d6de8b6ff4a18a36f9",
-    "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
-    "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-05-20T10:23:49.274Z",
-    "lastSeenAt": "2026-05-20T10:23:49.274Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "futures",
-      "funding",
-      "rate",
-      "turns",
-      "negative",
-      "next",
-      "turned"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "c4e9778bd12a3ad3f0fe47b74d46d69442b3e650",
-    "title": "Pump.fun accounts for over one-third of Solana’s Q1 revenue despite memecoin slowdown",
-    "url": "https://cointelegraph.com/news/pumpfun-over-third-solana-q1-revenue-memecoin-slowdown",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-05-19T20:29:02.766Z",
-    "lastSeenAt": "2026-05-19T20:29:02.766Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "pump",
-      "accounts",
-      "over",
-      "third",
-      "solana",
-      "revenue",
-      "despite",
-      "memecoin"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "09506f5079e0859f92f771b98c06106f3869c333",
-    "title": "Solana: Why SEC’s tokenized equity move matters for SOL’s $2.6B RWA boom",
-    "url": "https://ambcrypto.com/solana-why-secs-tokenized-equity-move-matters-for-sols-2-6b-rwa-boom",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-05-19T10:36:07.042Z",
-    "lastSeenAt": "2026-05-19T10:36:07.042Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "tokenized",
-      "equity",
-      "move",
-      "matters",
-      "boom",
-      "tokenization",
-      "accelerates"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "8b71371f418853cf8d77d19107bcc8933e24c1e7",
-    "title": "XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion",
-    "url": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-05-19T10:36:07.042Z",
-    "lastSeenAt": "2026-05-19T10:36:07.042Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "funds",
-      "attract",
-      "inflows",
-      "bitcoin",
-      "outflows",
-      "nearly",
-      "billion"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "87211844b67de9a6f1908bc3db5fed8b07784538",
-    "title": "Crypto funds see $1B in outflows as Iran tensions revive risk-off sentiment",
-    "url": "https://cointelegraph.com/news/crypto-funds-1b-outflows-iran-tensions-risk-off-bitcoin-ether",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-05-19T10:36:07.042Z",
-    "lastSeenAt": "2026-05-19T10:36:07.042Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "crypto",
-      "funds",
-      "outflows",
-      "iran",
-      "tensions",
-      "revive",
-      "risk",
-      "sentiment"
     ],
     "majorUpdate": false,
     "updateReason": null

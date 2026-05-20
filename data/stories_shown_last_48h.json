@@ -1,11 +1,25 @@
 [
   {
+    "id": "e734ab725356b69e07a989bbd7a342546f7ae160",
+    "title": "Signal Board Summary 2026-05-20",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-05-20T20:58:43.379Z",
+    "lastSeenAt": "2026-05-20T20:58:43.379Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "a70ec111aafbc8d712d9b13672c4c1aaa3c2be61",
     "title": "Americans Arrested in Japan for Entering Punch the Monkey’s Zoo Home to Promote Meme Coin",
     "url": "https://decrypt.co/368383/men-arrested-japan-entering-punch-monkey-zoo-enclosure-meme-coin",
     "source": "Decrypt",
     "firstSeenAt": "2026-05-19T20:29:02.767Z",
-    "lastSeenAt": "2026-05-20T10:23:49.275Z",
+    "lastSeenAt": "2026-05-20T20:58:34.991Z",
     "sectionShown": "briefing",
     "topicTags": [
       "americans",
@@ -16,6 +30,48 @@
       "monkey",
       "home",
       "promote"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "ef6a8241c806df6b0b7187d6de8b6ff4a18a36f9",
+    "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
+    "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-05-20T10:23:49.274Z",
+    "lastSeenAt": "2026-05-20T20:58:34.991Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "futures",
+      "funding",
+      "rate",
+      "turns",
+      "negative",
+      "next",
+      "turned"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "86582e7655d5a9d0c240449534445fab633561aa",
+    "title": "Drift says Insurance Fund deposits remain safe after exploit backlash",
+    "url": "https://ambcrypto.com/drift-says-insurance-fund-deposits-remain-safe-after-exploit-backlash",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-05-20T20:58:34.990Z",
+    "lastSeenAt": "2026-05-20T20:58:34.990Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "drift",
+      "says",
+      "insurance",
+      "fund",
+      "deposits",
+      "remain",
+      "safe",
+      "after"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -37,27 +93,6 @@
       "panic",
       "solana",
       "dogecoin"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "ef6a8241c806df6b0b7187d6de8b6ff4a18a36f9",
-    "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
-    "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-05-20T10:23:49.274Z",
-    "lastSeenAt": "2026-05-20T10:23:49.274Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "futures",
-      "funding",
-      "rate",
-      "turns",
-      "negative",
-      "next",
-      "turned"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -142,125 +177,6 @@
       "revive",
       "risk",
       "sentiment"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "60e1ef66a8783aba4cfa6fd66a303d4096843bf8",
-    "title": "Bitwise to add HYPE to balance sheet using fees from Hyperliquid ETF",
-    "url": "https://www.theblock.co/post/401688/bitwise-add-hype-balance-sheet-fees-hyperliquid-etf",
-    "source": "The Block",
-    "firstSeenAt": "2026-05-18T20:23:01.814Z",
-    "lastSeenAt": "2026-05-18T20:23:01.814Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "bitwise",
-      "hype",
-      "balance",
-      "sheet",
-      "using",
-      "fees",
-      "from",
-      "hyperliquid"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "e4aa4642c48047eefc2ea97ecc8471c919892a71",
-    "title": "Solana is shedding its memecoin reputation as big banks move billions into its ecosystem",
-    "url": "https://www.coindesk.com/markets/2026/05/18/solana-is-shedding-its-memecoin-reputation-as-big-banks-move-billions-into-its-ecosystem",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-05-18T20:23:01.813Z",
-    "lastSeenAt": "2026-05-18T20:23:01.813Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "shedding",
-      "memecoin",
-      "reputation",
-      "banks",
-      "move",
-      "billions",
-      "into"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "c79430b4f1e175940389bc8f0d91a5ddfe0ac872",
-    "title": "Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",
-    "url": "https://cointelegraph.com/news/goldman-sachs-xrp-solana-etf-exposure-q1-2026",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-05-18T20:23:01.813Z",
-    "lastSeenAt": "2026-05-18T20:23:01.813Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "goldman",
-      "sachs",
-      "exits",
-      "solana",
-      "exposure",
-      "2026",
-      "crypto",
-      "exiting"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "fe7228ed4073ee770cbd16331d75ed409067f011",
-    "title": "Signal Board Summary 2026-05-18",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-05-18T11:05:40.460Z",
-    "lastSeenAt": "2026-05-18T11:05:40.460Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "7ce5c4061170946ab84fbdcdf078bc45b312e916",
-    "title": "Jump Crypto’s ‘Firedancer’ is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
-    "url": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-05-16T20:00:55.607Z",
-    "lastSeenAt": "2026-05-18T11:05:27.626Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "jump",
-      "crypto",
-      "firedancer",
-      "taking",
-      "slow",
-      "steady",
-      "approach",
-      "long"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "20592fd14b36c4b0cf369a86183e44059e7cc60d",
-    "title": "Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report",
-    "url": "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-05-17T20:03:23.475Z",
-    "lastSeenAt": "2026-05-18T11:05:27.626Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "italy",
-      "largest",
-      "bank",
-      "more",
-      "than",
-      "doubles",
-      "crypto",
-      "holdings"
     ],
     "majorUpdate": false,
     "updateReason": null

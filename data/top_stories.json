@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-05-20T10:23:49.104Z",
+    "generatedAt": "2026-05-20T20:58:34.837Z",
     "totalCandidates": 111,
-    "solanaCandidates": 18,
+    "solanaCandidates": 25,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
-      "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
-      "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-20T00:15:57.000Z",
-      "summary": "Solana futures funding turned negative as demand for SOL and its associated decentralized exchanges fell. Will traders buy the dip or is $78 next?",
+      "id": "https://solana.com/news/bits-to-bricks-merchant-settlement-is-where-stablecoins-work-alex-wilson",
+      "title": "Bits to Bricks: Merchant Settlement is Where Stablecoins Work",
+      "url": "https://solana.com/news/bits-to-bricks-merchant-settlement-is-where-stablecoins-work-alex-wilson",
+      "source": "Solana News",
+      "publishedAt": "2026-05-20T12:00:00.000Z",
+      "summary": "Alex Wilson, Co-founder and CEO of Cyclops joins Amira Valliani on Bits to Bricks to unpack how stablecoin infrastructure in the long-term bet.",
       "tags": [
-        "solana",
-        "futures",
-        "funding"
+        "bits",
+        "bricks",
+        "merchant"
       ],
-      "topicBucket": "general",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,15 +31,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 14,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ef6a8241c806df6b0b7187d6de8b6ff4a18a36f9",
-      "score": 26
+      "dedupeFingerprint": "9a9002ee2100c8fea55e5585b3c51a8f291668ae",
+      "score": 29
+    },
+    {
+      "id": "https://www.theblock.co/post/402078/kik-founders-latest-app-flipcash-first-tap-coinbase-stablecoin-as-a-service-platform",
+      "title": "Kik founder’s latest app Flipcash first to tap Coinbase’s stablecoin-as-a-service platform",
+      "url": "https://www.theblock.co/post/402078/kik-founders-latest-app-flipcash-first-tap-coinbase-stablecoin-as-a-service-platform",
+      "source": "The Block",
+      "publishedAt": "2026-05-20T18:03:38.000Z",
+      "summary": "Coinbase rolled out its Custom Stablecoin platform in late 2025 to enable companies to launch branded stablecoins.",
+      "tags": [
+        "founder",
+        "latest",
+        "flipcash"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "715885fa5334a31fee2419f19c38846cc073bf08",
+      "score": 25
     },
     {
       "id": "https://solana.com/news/bits-to-bricks-stablecoins-and-the-evolution-of-us-banking-davis-hart",
@@ -66,28 +99,28 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "6f5058e0101eaf07fb253c7cc52b7ee241b9dea0",
-      "score": 26
+      "score": 25
     },
     {
-      "id": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
-      "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
-      "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-20T09:22:58.000Z",
-      "summary": "The DWS and Galaxy-backed firm targets June debut for its SEKAU stablecoin as Europe pushes to build regulated local-currency alternatives to U.S. dollar tokens.",
+      "id": "https://www.theblock.co/post/402043/moneygram-remittance-validator-stripe-tempo-blockchain",
+      "title": "MoneyGram named ‘anchor remittance validator’ for Stripe-backed Tempo blockchain",
+      "url": "https://www.theblock.co/post/402043/moneygram-remittance-validator-stripe-tempo-blockchain",
+      "source": "The Block",
+      "publishedAt": "2026-05-20T14:37:50.000Z",
+      "summary": "MoneyGram will help validate remittance transactions on the Layer 1 blockchain and integrate stablecoin settlement for its global flows.",
       "tags": [
-        "germany",
-        "allunity",
-        "plans"
+        "moneygram",
+        "named",
+        "anchor"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -104,22 +137,22 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "fd6ba003cdc472f6dc8d725f359b8779fce7b66f",
+      "dedupeFingerprint": "1a1d58d7647880b72a374ddd2703503876b7a9ea",
       "score": 22
     },
     {
-      "id": "https://www.theblock.co/post/401906/stablecoin-infrastructure-startup-checker-funding",
-      "title": "Stablecoin infrastructure startup Checker raises $8 million from Galaxy Ventures and others",
-      "url": "https://www.theblock.co/post/401906/stablecoin-infrastructure-startup-checker-funding",
-      "source": "The Block",
-      "publishedAt": "2026-05-19T16:00:02.000Z",
-      "summary": "Stablecoin infrastructure startup Checker has raised $8 million in funding from a range of investors including Galaxy and Framework.",
+      "id": "https://ambcrypto.com/drift-says-insurance-fund-deposits-remain-safe-after-exploit-backlash",
+      "title": "Drift says Insurance Fund deposits remain safe after exploit backlash",
+      "url": "https://ambcrypto.com/drift-says-insurance-fund-deposits-remain-safe-after-exploit-backlash",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-20T15:31:49.000Z",
+      "summary": "Drift Protocol says Insurance Fund deposits were not impacted by the exploit and can still be withdrawn after relaunch.",
       "tags": [
-        "stablecoin",
-        "infrastructure",
-        "startup"
+        "drift",
+        "says",
+        "insurance"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "90f0e5feafac340bcb2403831ee824c7a7063935",
-      "score": 21
-    },
-    {
-      "id": "https://decrypt.co/368389/google-gemini-spark-ai-agent-challenge-hermes-openclaw",
-      "title": "Google Launches Gemini Spark: A 24/7 AI Agent That Wants to Make You Ditch OpenClaw",
-      "url": "https://decrypt.co/368389/google-gemini-spark-ai-agent-challenge-hermes-openclaw",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-19T18:52:48.000Z",
-      "summary": "Announced at Google I/O 2026, Spark is Google's most ambitious Gemini feature yet—a personal agent that manages your inbox, your calendar, and your workflows, with or without you watching.",
-      "tags": [
-        "google",
-        "launches",
-        "gemini"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "79dad7b77e272f4f46a3dc476ca4f1fd693fdd3f",
-      "score": 17
+      "dedupeFingerprint": "86582e7655d5a9d0c240449534445fab633561aa",
+      "score": 19
     }
   ]
 }
