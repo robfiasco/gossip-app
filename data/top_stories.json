@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-05-20T20:58:34.837Z",
+    "generatedAt": "2026-05-21T10:38:29.855Z",
     "totalCandidates": 111,
-    "solanaCandidates": 25,
+    "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9a9002ee2100c8fea55e5585b3c51a8f291668ae",
-      "score": 29
+      "score": 28
     },
     {
       "id": "https://www.theblock.co/post/402078/kik-founders-latest-app-flipcash-first-tap-coinbase-stablecoin-as-a-service-platform",
@@ -66,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "715885fa5334a31fee2419f19c38846cc073bf08",
-      "score": 25
+      "score": 24
     },
     {
       "id": "https://solana.com/news/bits-to-bricks-stablecoins-and-the-evolution-of-us-banking-davis-hart",
@@ -99,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 5,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "6f5058e0101eaf07fb253c7cc52b7ee241b9dea0",
-      "score": 25
+      "score": 24
     },
     {
       "id": "https://www.theblock.co/post/402043/moneygram-remittance-validator-stripe-tempo-blockchain",
@@ -132,25 +132,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "1a1d58d7647880b72a374ddd2703503876b7a9ea",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://ambcrypto.com/drift-says-insurance-fund-deposits-remain-safe-after-exploit-backlash",
-      "title": "Drift says Insurance Fund deposits remain safe after exploit backlash",
-      "url": "https://ambcrypto.com/drift-says-insurance-fund-deposits-remain-safe-after-exploit-backlash",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-20T15:31:49.000Z",
-      "summary": "Drift Protocol says Insurance Fund deposits were not impacted by the exploit and can still be withdrawn after relaunch.",
+      "id": "https://cryptoslate.com/cardano-may-29-hard-fork-vote-ada-growth",
+      "title": "Cardano’s May 29 hard fork vote brings ADA’s DeFi weakness into view",
+      "url": "https://cryptoslate.com/cardano-may-29-hard-fork-vote-ada-growth",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-05-21T09:54:31.000Z",
+      "summary": "Cardano's next hard fork is arriving at a moment when crypto markets no longer reward blockchains for roadmap promises alone, especially as ADA price performance increasingly tracks real developer and DeFi activity. Protocol Version 11, known as Van Rossem, is already live on the Preview testnet and",
       "tags": [
-        "drift",
-        "says",
-        "insurance"
+        "cardano",
+        "hard",
+        "fork"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "86582e7655d5a9d0c240449534445fab633561aa",
-      "score": 19
+      "dedupeFingerprint": "1ad6ccfa1c7783cf0ca49a180cc6fac03430c89d",
+      "score": 17
     }
   ]
 }
