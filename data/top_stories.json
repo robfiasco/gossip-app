@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-05-21T10:38:29.855Z",
-    "totalCandidates": 111,
-    "solanaCandidates": 19,
+    "generatedAt": "2026-05-21T20:49:58.514Z",
+    "totalCandidates": 109,
+    "solanaCandidates": 13,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://ambcrypto.com/pump-fun-is-shifting-solana-memecoin-trading-toward-stablecoin-based-liquidity",
+      "title": "Pump.fun is shifting Solana memecoin trading toward stablecoin-based liquidity",
+      "url": "https://ambcrypto.com/pump-fun-is-shifting-solana-memecoin-trading-toward-stablecoin-based-liquidity",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-21T18:58:54.000Z",
+      "summary": "The memecoin launchpad’s latest update points to a growing shift toward stablecoin-based trading infrastructure across Solana’s speculative economy.",
+      "tags": [
+        "pump",
+        "shifting",
+        "solana"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 26,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "1bee675487f5d0552b46b8272b0cd43ee636e1a5",
+      "score": 37
+    },
     {
       "id": "https://solana.com/news/bits-to-bricks-merchant-settlement-is-where-stablecoins-work-alex-wilson",
       "title": "Bits to Bricks: Merchant Settlement is Where Stablecoins Work",
@@ -33,124 +66,25 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9a9002ee2100c8fea55e5585b3c51a8f291668ae",
-      "score": 28
+      "score": 27
     },
     {
-      "id": "https://www.theblock.co/post/402078/kik-founders-latest-app-flipcash-first-tap-coinbase-stablecoin-as-a-service-platform",
-      "title": "Kik founder’s latest app Flipcash first to tap Coinbase’s stablecoin-as-a-service platform",
-      "url": "https://www.theblock.co/post/402078/kik-founders-latest-app-flipcash-first-tap-coinbase-stablecoin-as-a-service-platform",
-      "source": "The Block",
-      "publishedAt": "2026-05-20T18:03:38.000Z",
-      "summary": "Coinbase rolled out its Custom Stablecoin platform in late 2025 to enable companies to launch branded stablecoins.",
+      "id": "https://ambcrypto.com/solana-why-the-88-89-cluster-is-a-short-term-line-of-defense-for-sol-bears",
+      "title": "Solana: Why the $88–$89 cluster is a short-term line of defense for SOL bears",
+      "url": "https://ambcrypto.com/solana-why-the-88-89-cluster-is-a-short-term-line-of-defense-for-sol-bears",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-21T20:00:09.000Z",
+      "summary": "SOL bears followed up on the rejection from $97 almost ten days ago by flipping the mid-range level to resistance as well.",
       "tags": [
-        "founder",
-        "latest",
-        "flipcash"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "715885fa5334a31fee2419f19c38846cc073bf08",
-      "score": 24
-    },
-    {
-      "id": "https://solana.com/news/bits-to-bricks-stablecoins-and-the-evolution-of-us-banking-davis-hart",
-      "title": "Bits to Bricks: Stablecoins and the Evolution of US Banking",
-      "url": "https://solana.com/news/bits-to-bricks-stablecoins-and-the-evolution-of-us-banking-davis-hart",
-      "source": "Solana News",
-      "publishedAt": "2026-05-18T12:00:00.000Z",
-      "summary": "Davis Hart, founder and CEO of Omnia, on the path from 4,500 US banks to 300, what stablecoins really change for American banking, and where banks still win.",
-      "tags": [
-        "bits",
-        "bricks",
-        "stablecoins"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 14,
-        "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 5,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6f5058e0101eaf07fb253c7cc52b7ee241b9dea0",
-      "score": 24
-    },
-    {
-      "id": "https://www.theblock.co/post/402043/moneygram-remittance-validator-stripe-tempo-blockchain",
-      "title": "MoneyGram named ‘anchor remittance validator’ for Stripe-backed Tempo blockchain",
-      "url": "https://www.theblock.co/post/402043/moneygram-remittance-validator-stripe-tempo-blockchain",
-      "source": "The Block",
-      "publishedAt": "2026-05-20T14:37:50.000Z",
-      "summary": "MoneyGram will help validate remittance transactions on the Layer 1 blockchain and integrate stablecoin settlement for its global flows.",
-      "tags": [
-        "moneygram",
-        "named",
-        "anchor"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "1a1d58d7647880b72a374ddd2703503876b7a9ea",
-      "score": 21
-    },
-    {
-      "id": "https://cryptoslate.com/cardano-may-29-hard-fork-vote-ada-growth",
-      "title": "Cardano’s May 29 hard fork vote brings ADA’s DeFi weakness into view",
-      "url": "https://cryptoslate.com/cardano-may-29-hard-fork-vote-ada-growth",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-21T09:54:31.000Z",
-      "summary": "Cardano's next hard fork is arriving at a moment when crypto markets no longer reward blockchains for roadmap promises alone, especially as ADA price performance increasingly tracks real developer and DeFi activity. Protocol Version 11, known as Van Rossem, is already live on the Preview testnet and",
-      "tags": [
-        "cardano",
-        "hard",
-        "fork"
+        "solana",
+        "cluster",
+        "short"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +97,81 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "1ad6ccfa1c7783cf0ca49a180cc6fac03430c89d",
-      "score": 17
+      "dedupeFingerprint": "3dfe95d0f0644cb3a876cec5eaaf81fd163901f3",
+      "score": 24
+    },
+    {
+      "id": "https://www.theblock.co/post/402227/jpmorgan-tokenized-money-market-funds-stablecoins",
+      "title": "JPMorgan says tokenized money market funds unlikely to grow beyond 15% of stablecoin market",
+      "url": "https://www.theblock.co/post/402227/jpmorgan-tokenized-money-market-funds-stablecoins",
+      "source": "The Block",
+      "publishedAt": "2026-05-21T16:48:08.000Z",
+      "summary": "Tokenized money market funds offer yield but still account for only around 5% of the stablecoin market, JPMorgan analysts said.",
+      "tags": [
+        "jpmorgan",
+        "says",
+        "tokenized"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "cedfb7fc097aaf9fcb13c386605feb50c4f31c99",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/05/21/stablecoins-retain-the-edge-over-tokenized-money-market-funds-jpmorgan-says",
+      "title": "Stablecoins retain the edge over tokenized money market funds, JPMorgan says",
+      "url": "https://www.coindesk.com/business/2026/05/21/stablecoins-retain-the-edge-over-tokenized-money-market-funds-jpmorgan-says",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-21T12:49:17.000Z",
+      "summary": "The bank said tokenized money market funds account for only about 5% of the broader stablecoin universe despite offering yield.",
+      "tags": [
+        "stablecoins",
+        "retain",
+        "edge"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "15acbe073add905b1fb60deb1e0f8de347f13274",
+      "score": 22
     }
   ]
 }
