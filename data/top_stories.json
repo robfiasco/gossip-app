@@ -1,46 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-05-23T09:01:12.607Z",
-    "totalCandidates": 109,
-    "solanaCandidates": 13,
+    "generatedAt": "2026-05-23T20:04:49.285Z",
+    "totalCandidates": 108,
+    "solanaCandidates": 11,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://solana.com/news/bits-to-bricks-merchant-settlement-is-where-stablecoins-work-alex-wilson",
-      "title": "Bits to Bricks: Merchant Settlement is Where Stablecoins Work",
-      "url": "https://solana.com/news/bits-to-bricks-merchant-settlement-is-where-stablecoins-work-alex-wilson",
-      "source": "Solana News",
-      "publishedAt": "2026-05-20T12:00:00.000Z",
-      "summary": "Alex Wilson, Co-founder and CEO of Cyclops joins Amira Valliani on Bits to Bricks to unpack how stablecoin infrastructure in the long-term bet.",
-      "tags": [
-        "bits",
-        "bricks",
-        "merchant"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 14,
-        "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 5,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "9a9002ee2100c8fea55e5585b3c51a8f291668ae",
-      "score": 24
-    },
     {
       "id": "https://www.theblock.co/post/402382/okx-ice-partner-oil-commodity-perps",
       "title": "OKX, ICE partner on oil perps as NYSE-parent pressures US regulators to rein in Hyperliquid",
@@ -66,25 +33,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "7777fb9ded836e4287385ca80f97989afebcac02",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://ambcrypto.com/sui-introduces-gasless-stablecoin-transfers-what-should-you-expect-now",
-      "title": "SUI introduces gasless stablecoin transfers – What should you expect now?",
-      "url": "https://ambcrypto.com/sui-introduces-gasless-stablecoin-transfers-what-should-you-expect-now",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-22T22:00:10.000Z",
-      "summary": "SUI’s \"zero-fee\" stablecoin model faces questions over real DeFi impact.",
+      "id": "https://cryptoslate.com/bank-of-englands-24-7-settlement-plan-shows-where-tokenized-finance-can-enter-core-markets",
+      "title": "Bank of England’s 24/7 settlement plan shows where tokenized finance can enter core markets",
+      "url": "https://cryptoslate.com/bank-of-englands-24-7-settlement-plan-shows-where-tokenized-finance-can-enter-core-markets",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-05-23T14:00:45.000Z",
+      "summary": "Bitcoin trades 24 hours a day, 365 days a year, and stablecoins can cross borders in seconds on a Sunday morning. And yet, if a major UK institution needed to move collateral, settle a high-value payment, or shift liquidity between clearing houses over the weekend, much of that activity had to queue",
       "tags": [
-        "introduces",
-        "gasless",
-        "stablecoin"
+        "bank",
+        "england",
+        "settlement"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -97,48 +64,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 6,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "63f1d66af3f2312ddc06d1e0508ff31f9077d9ab",
-      "score": 19
-    },
-    {
-      "id": "https://cryptoslate.com/cardano-founder-warns-network-could-lose-its-scientists-in-input-outputs-46-8m-funding-vote-fails",
-      "title": "Cardano founder warns network could lose its scientists in Input Output’s 33M ADA funding vote fails",
-      "url": "https://cryptoslate.com/cardano-founder-warns-network-could-lose-its-scientists-in-input-outputs-46-8m-funding-vote-fails",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-22T19:35:05.000Z",
-      "summary": "Cardano could lose a core group of scientists if Input Output fails to secure treasury funding for a slate of research and infrastructure proposals that are still awaiting approval. Last month, Input Output, the development firm behind the Cardano network, revealed that it was seeking $46.8 million ",
-      "tags": [
-        "cardano",
-        "founder",
-        "warns"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "120c773848285ae4cc9807b75b728463b5a8219f",
-      "score": 16
+      "dedupeFingerprint": "ceb2646f0eb475bc419463ad0d0cd28b2796a745",
+      "score": 18
     },
     {
       "id": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
@@ -165,13 +99,79 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "48e25565ff5fa1dc3f2787cc47275e22856ca53c",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "https://decrypt.co/368673/trump-halts-ai-order-fears-could-hurt-us-edge-china",
+      "title": "Trump Halts AI Order Over Fears It Could Hurt US Edge Over China",
+      "url": "https://decrypt.co/368673/trump-halts-ai-order-fears-could-hurt-us-edge-china",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-21T18:08:32.000Z",
+      "summary": "Trump said he delayed the order because parts of the proposal risked slowing the U.S. AI industry as competition with China intensifies.",
+      "tags": [
+        "trump",
+        "halts",
+        "order"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 6,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "501b714a2eb19bfa977850448ddf325c9c7b3386",
+      "score": 12
+    },
+    {
+      "id": "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks",
+      "title": "ECB pushes back on euro stablecoin proposals, citing financial stability risks",
+      "url": "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-23T10:56:00.000Z",
+      "summary": "The ECB warned EU finance ministers that expanding euro stablecoin issuance could weaken bank lending and complicate monetary policy.",
+      "tags": [
+        "pushes",
+        "back",
+        "euro"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "338a542b1eeb9246d5ef52c4795490bacced58a7",
+      "score": 18
     }
   ]
 }
