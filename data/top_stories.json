@@ -1,123 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-05-24T20:02:58.158Z",
-    "totalCandidates": 107,
-    "solanaCandidates": 13,
+    "generatedAt": "2026-05-25T11:08:21.757Z",
+    "totalCandidates": 100,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/how-the-stablr-exploit-triggered-10-4m-in-unbacked-stablecoin-sales",
-      "title": "How the StablR exploit drained $10.4M via unbacked stablecoin issuance",
-      "url": "https://ambcrypto.com/how-the-stablr-exploit-triggered-10-4m-in-unbacked-stablecoin-sales",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-24T10:00:53.000Z",
-      "summary": "Stablecoin confidence weakened after unauthorized minting exposed deeper governance and operational risks across issuance infrastructure.",
+      "id": "https://cryptopotato.com/report-solana-activity-hits-record-high-despite-sols-33-q1-drop",
+      "title": "Report: Solana Activity Hits Record High Despite SOL’s 33% Q1 Drop",
+      "url": "https://cryptopotato.com/report-solana-activity-hits-record-high-despite-sols-33-q1-drop",
+      "source": "CryptoPotato",
+      "publishedAt": "2026-05-24T21:31:41.000Z",
+      "summary": "Solana's application revenue stayed remarkably stable at over $342 million despite weaker market conditions.",
       "tags": [
-        "stablr",
-        "exploit",
-        "drained"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ffaa5c03c4dc803c34c64465578449ea98b6c2c8",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/323b-stablecoin-ath-meets-ethereum-staking-peak-heres-the-q2-correlation-to-watch",
-      "title": "$323B stablecoin ATH meets Ethereum staking peak – Here’s the Q2 correlation to watch!",
-      "url": "https://ambcrypto.com/323b-stablecoin-ath-meets-ethereum-staking-peak-heres-the-q2-correlation-to-watch",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-24T03:00:01.000Z",
-      "summary": "Stablecoin liquidity surge meets ETH on-chain strength - Is a new bullish correlation forming this cycle?",
-      "tags": [
-        "323b",
-        "stablecoin",
-        "meets"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "76d292d9b5b50dae1af29a6554ccca868a5b2967",
-      "score": 20
-    },
-    {
-      "id": "https://www.theblock.co/post/402427/ecb-warns-eu-finance-ministers-that-easing-euro-stablecoin-rules-would-weaken-banks-reuters",
-      "title": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters",
-      "url": "https://www.theblock.co/post/402427/ecb-warns-eu-finance-ministers-that-easing-euro-stablecoin-rules-would-weaken-banks-reuters",
-      "source": "The Block",
-      "publishedAt": "2026-05-23T20:21:18.000Z",
-      "summary": "ECB President Christine Lagarde warned the changes would destabilize bank funding and weaken interest-rate transmission.",
-      "tags": [
-        "warns",
-        "finance",
-        "ministers"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2dcfc167db6201467d510e99eda685cd295d68a8",
-      "score": 18
-    },
-    {
-      "id": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
-      "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
-      "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-22T18:20:32.000Z",
-      "summary": "Hester Peirce, the commissioner behind the SEC's Crypto Task Force, made statements on the now-delayed proposal, perhaps tamping down mistaken beliefs.",
-      "tags": [
-        "commissioner",
-        "peirce",
-        "counters"
+        "report",
+        "solana",
+        "activity"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,15 +31,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 9,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2a38813fd5f9585db118c2de96bfb3eac540321f",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana",
+      "title": "Researchers flag TrapDoor malware campaign targeting crypto developer environments including Aptos, Sui and Solana",
+      "url": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana",
+      "source": "The Block",
+      "publishedAt": "2026-05-25T09:52:16.000Z",
+      "summary": "The TrapDoor malware campaign used malicious packages across npm, PyPI, and Crates.io to target crypto developer environments.",
+      "tags": [
+        "researchers",
+        "flag",
+        "trapdoor"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "48e25565ff5fa1dc3f2787cc47275e22856ca53c",
-      "score": 13
+      "dedupeFingerprint": "2ac4f0e7f2bac719a2b788035d980235d8e402e7",
+      "score": 19
     },
     {
       "id": "https://www.theblock.co/post/402382/okx-ice-partner-oil-commodity-perps",
@@ -165,13 +99,79 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 5,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "7777fb9ded836e4287385ca80f97989afebcac02",
-      "score": 18
+      "score": 17
+    },
+    {
+      "id": "https://www.theblock.co/post/402453/tether-gelt-stablecoin-georgian-lari",
+      "title": "Tether plans GELT stablecoin launch with support from Georgian government",
+      "url": "https://www.theblock.co/post/402453/tether-gelt-stablecoin-georgian-lari",
+      "source": "The Block",
+      "publishedAt": "2026-05-25T09:14:08.000Z",
+      "summary": "GELT is designed to support cross-border commerce under a Georgian framework aligned with emerging U.S. stablecoin regulations.",
+      "tags": [
+        "tether",
+        "plans",
+        "gelt"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 2,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b6450378f54a0ebe26ceef1acbd89db58e7760f5",
+      "score": 16
+    },
+    {
+      "id": "https://cryptoslate.com/the-fed-may-open-direct-settlement-rails-to-crypto-firms-as-banks-warn-of-liquidity-risk",
+      "title": "The Fed may open direct settlement rails to crypto firms as banks warn of liquidity risk",
+      "url": "https://cryptoslate.com/the-fed-may-open-direct-settlement-rails-to-crypto-firms-as-banks-warn-of-liquidity-risk",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-05-25T08:35:28.000Z",
+      "summary": "You never see the most important part of any of your payments. When an app says your money moved, a number changes on your screen, and the transaction looks and feels finished. But underneath those interfaces lies a separate, invisible chain of bank reserves, settlement accounts, and Fed infrastruct",
+      "tags": [
+        "open",
+        "direct",
+        "settlement"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -1,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "d9bc46ae6247e1cb8bca3f451dbd719ffaff4cc8",
+      "score": 11
     }
   ]
 }
