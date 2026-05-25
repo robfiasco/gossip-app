@@ -1,26 +1,26 @@
 {
   "date": "2026-05-25",
-  "generated_at_utc": "2026-05-25T11:08:28.284Z",
-  "ctxMarket": "Attention is on Solana’s record-high user activity and stable application revenue, even as SOL’s price saw a notable Q1 decline. Security concerns are also in focus following reports of targeted malware campaigns against crypto developer environments.",
-  "ctxTalking": "• Researchers identified TrapDoor malware targeting Solana, Aptos, and Sui developer tools.\n• Solana’s application revenue remained steady above $342 million despite market volatility.\n• MoonPay’s integration allows crypto purchases, including SOL, directly within ChatGPT.",
-  "ctxMatters": "Security threats like TrapDoor highlight ongoing risks for Solana developers and ecosystem projects. Sustained application revenue and user activity suggest continued engagement with Solana-based apps, regardless of price swings. New purchase channels via AI platforms could broaden access and visibility for Solana.",
-  "ctxSignal": "Signal: Record Solana activity and persistent developer-targeted malware campaigns.\nNoise: Short-term price movements disconnected from underlying network usage.",
-  "ctxGlossary": "TrapDoor — Malware campaign targeting crypto developer environments via code repositories.\nMoonPay — A payment platform enabling crypto purchases, now integrated with ChatGPT.",
+  "generated_at_utc": "2026-05-25T20:21:33.301Z",
+  "ctxMarket": "Attention is shifting from Bitcoin and Ethereum ETFs, which have seen significant outflows, toward alternative assets like Solana, HYPE, and XRP. Solana continues to see record activity and strong participation in tokenized assets and stablecoins.",
+  "ctxTalking": "• Institutional rotation from Bitcoin and Ethereum ETFs into Solana and other altcoins\n• Solana’s dominance in tokenized stock wallets and record-high activity despite recent price drops\n• Security concerns after researchers flagged the TrapDoor malware campaign targeting Solana developer environments",
+  "ctxMatters": "Institutional and retail interest in Solana is growing, especially in tokenized assets and stablecoins. Sustained application revenue and wallet growth suggest ongoing ecosystem engagement. However, developer security risks remain a concern for builders and projects on Solana.",
+  "ctxSignal": "Signal: Institutional flows and wallet data highlight Solana’s increasing relevance in digital asset markets.\nNoise: Short-term price fluctuations without clear links to underlying activity.",
+  "ctxGlossary": "Tokenized stock wallet — A crypto wallet holding blockchain-based representations of traditional stocks\nTrapDoor malware — Malicious software targeting crypto developer environments through compromised code packages",
   "readMore": [
+    {
+      "title": "Bitcoin and Ethereum ETF outflows expose rotation into HYPE, XRP and Solana",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/bitcoin-ethereum-etf-outflows-altcoin-rotation"
+    },
+    {
+      "title": "Solana captures 64% of tokenized stock wallets – What it means now",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-captures-64-of-tokenized-stock-wallets-what-it-means-now"
+    },
     {
       "title": "Researchers flag TrapDoor malware campaign targeting crypto developer environments including Aptos, Sui and Solana",
       "source": "The Block",
       "url": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana"
-    },
-    {
-      "title": "Report",
-      "source": "CryptoPotato",
-      "url": "https://cryptopotato.com/report-solana-activity-hits-record-high-despite-sols-33-q1-drop"
-    },
-    {
-      "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay"
     }
   ]
 }

@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "MARKET",
+      "title": "Solana captures 64% of tokenized stock wallets – What it means now",
+      "category": "MARKET",
+      "source": "AMB Crypto",
+      "date": "2026-05-25",
+      "url": "https://ambcrypto.com/solana-captures-64-of-tokenized-stock-wallets-what-it-means-now",
+      "whyYouShouldCare": "Solana's dominance in tokenized stock wallets indicates strong user adoption and could enhance its liquidity and ecosystem growth."
+    },
+    {
+      "type": "APPS",
+      "title": "Bitcoin and Ethereum ETF outflows expose rotation into HYPE, XRP and Solana",
+      "category": "APPS",
+      "source": "CryptoSlate",
+      "date": "2026-05-25",
+      "url": "https://cryptoslate.com/bitcoin-ethereum-etf-outflows-altcoin-rotation",
+      "whyYouShouldCare": "Outflows from Bitcoin and Ethereum ETFs suggest a shift in investor interest toward Solana, potentially increasing its market visibility and usage."
+    },
+    {
       "type": "APPS",
       "title": "Researchers flag TrapDoor malware campaign targeting crypto developer environments including Aptos, Sui and Solana",
       "category": "APPS",
       "source": "The Block",
       "date": "2026-05-25",
       "url": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana",
-      "whyYouShouldCare": "The TrapDoor malware targeting crypto developer environments could pose security risks for Solana's ecosystem, potentially impacting developer confidence and project integrity."
-    },
-    {
-      "type": "APPS",
-      "title": "Report: Solana Activity Hits Record High Despite SOL’s 33% Q1 Drop",
-      "category": "APPS",
-      "source": "CryptoPotato",
-      "date": "2026-05-24",
-      "url": "https://cryptopotato.com/report-solana-activity-hits-record-high-despite-sols-33-q1-drop",
-      "whyYouShouldCare": "Despite a significant drop in SOL's price, the record high activity indicates strong user engagement and resilience in the Solana ecosystem, which could attract future investment."
-    },
-    {
-      "type": "MARKET",
-      "title": "Tether plans GELT stablecoin launch with support from Georgian government",
-      "category": "MARKET",
-      "source": "The Block",
-      "date": "2026-05-25",
-      "url": "https://www.theblock.co/post/402453/tether-gelt-stablecoin-georgian-lari",
-      "whyYouShouldCare": "Tether's GELT stablecoin launch, backed by the Georgian government, could enhance liquidity options in the market, indirectly influencing Solana's trading dynamics."
+      "whyYouShouldCare": "The identification of malware targeting Solana's developer environment raises security concerns, which could impact developer confidence and ecosystem stability."
     }
   ]
 }

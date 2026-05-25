@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-05-25T11:08:21.757Z",
-    "totalCandidates": 100,
-    "solanaCandidates": 17,
+    "generatedAt": "2026-05-25T20:21:25.691Z",
+    "totalCandidates": 83,
+    "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cryptopotato.com/report-solana-activity-hits-record-high-despite-sols-33-q1-drop",
-      "title": "Report: Solana Activity Hits Record High Despite SOL’s 33% Q1 Drop",
-      "url": "https://cryptopotato.com/report-solana-activity-hits-record-high-despite-sols-33-q1-drop",
-      "source": "CryptoPotato",
-      "publishedAt": "2026-05-24T21:31:41.000Z",
-      "summary": "Solana's application revenue stayed remarkably stable at over $342 million despite weaker market conditions.",
+      "id": "https://ambcrypto.com/solana-captures-64-of-tokenized-stock-wallets-what-it-means-now",
+      "title": "Solana captures 64% of tokenized stock wallets – What it means now",
+      "url": "https://ambcrypto.com/solana-captures-64-of-tokenized-stock-wallets-what-it-means-now",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-25T12:00:01.000Z",
+      "summary": "Blockchain markets continued attracting stronger institutional and retail participation as tokenized assets and stablecoin activity expanded globally.",
       "tags": [
-        "report",
         "solana",
-        "activity"
+        "captures",
+        "tokenized"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,29 +31,62 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "0f871c53d02133e444c13ef086d878e89ae8852a",
+      "score": 19
+    },
+    {
+      "id": "https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands",
+      "title": "UAE-linked ADI Chain gains Ledger support amid stablecoin growth",
+      "url": "https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-25T18:29:58.000Z",
+      "summary": "The integration gives ADI token holders access to Ledger’s self-custody platform as ADI Chain expands its stablecoin and tokenized asset network.",
+      "tags": [
+        "linked",
+        "chain",
+        "gains"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
         "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2a38813fd5f9585db118c2de96bfb3eac540321f",
-      "score": 22
+      "dedupeFingerprint": "d3832da0c9368848d130ae64542eb1ea6a5cbfed",
+      "score": 18
     },
     {
-      "id": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana",
-      "title": "Researchers flag TrapDoor malware campaign targeting crypto developer environments including Aptos, Sui and Solana",
-      "url": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana",
-      "source": "The Block",
-      "publishedAt": "2026-05-25T09:52:16.000Z",
-      "summary": "The TrapDoor malware campaign used malicious packages across npm, PyPI, and Crates.io to target crypto developer environments.",
+      "id": "https://cryptoslate.com/bitcoin-ethereum-etf-outflows-altcoin-rotation",
+      "title": "Bitcoin and Ethereum ETF outflows expose rotation into HYPE, XRP and Solana",
+      "url": "https://cryptoslate.com/bitcoin-ethereum-etf-outflows-altcoin-rotation",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-05-25T16:15:09.000Z",
+      "summary": "Bitcoin and Ethereum ETF outflows have accelerated, with institutional investors pulling nearly $2.7 billion from spot Bitcoin and Ethereum exchange-traded funds over the past two weeks. However, rather than signaling a broad exit from digital assets, market data reveal a historic divergence, with t",
       "tags": [
-        "researchers",
-        "flag",
-        "trapdoor"
+        "bitcoin",
+        "ethereum",
+        "outflows"
       ],
-      "topicBucket": "general",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -67,93 +100,27 @@
         "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2ac4f0e7f2bac719a2b788035d980235d8e402e7",
-      "score": 19
-    },
-    {
-      "id": "https://www.theblock.co/post/402382/okx-ice-partner-oil-commodity-perps",
-      "title": "OKX, ICE partner on oil perps as NYSE-parent pressures US regulators to rein in Hyperliquid",
-      "url": "https://www.theblock.co/post/402382/okx-ice-partner-oil-commodity-perps",
-      "source": "The Block",
-      "publishedAt": "2026-05-22T16:48:03.000Z",
-      "summary": "OKX's oil perps contracts will track Intercontinental Exchange's Brent Crude and WTI Crude energy benchmarks.",
-      "tags": [
-        "partner",
-        "perps",
-        "nyse"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "7777fb9ded836e4287385ca80f97989afebcac02",
+      "dedupeFingerprint": "2e035812205f23574987cb80592900b40e83bd4d",
       "score": 17
     },
     {
-      "id": "https://www.theblock.co/post/402453/tether-gelt-stablecoin-georgian-lari",
-      "title": "Tether plans GELT stablecoin launch with support from Georgian government",
-      "url": "https://www.theblock.co/post/402453/tether-gelt-stablecoin-georgian-lari",
-      "source": "The Block",
-      "publishedAt": "2026-05-25T09:14:08.000Z",
-      "summary": "GELT is designed to support cross-border commerce under a Georgian framework aligned with emerging U.S. stablecoin regulations.",
+      "id": "https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index",
+      "title": "Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update",
+      "url": "https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-25T20:06:04.000Z",
+      "summary": "The Ethereum-buying firm owns 3.8% of the digital asset’s supply.",
       "tags": [
-        "tether",
-        "plans",
-        "gelt"
+        "outlines",
+        "liquidity",
+        "catalyst"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 2,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "b6450378f54a0ebe26ceef1acbd89db58e7760f5",
-      "score": 16
-    },
-    {
-      "id": "https://cryptoslate.com/the-fed-may-open-direct-settlement-rails-to-crypto-firms-as-banks-warn-of-liquidity-risk",
-      "title": "The Fed may open direct settlement rails to crypto firms as banks warn of liquidity risk",
-      "url": "https://cryptoslate.com/the-fed-may-open-direct-settlement-rails-to-crypto-firms-as-banks-warn-of-liquidity-risk",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-25T08:35:28.000Z",
-      "summary": "You never see the most important part of any of your payments. When an app says your money moved, a number changes on your screen, and the transaction looks and feels finished. But underneath those interfaces lies a separate, invisible chain of bank reserves, settlement accounts, and Fed infrastruct",
-      "tags": [
-        "open",
-        "direct",
-        "settlement"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -166,12 +133,45 @@
         "relevanceScore": -1,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d9bc46ae6247e1cb8bca3f451dbd719ffaff4cc8",
-      "score": 11
+      "dedupeFingerprint": "da9dfb796360fd3168052b63e965097181a2c546",
+      "score": 12
+    },
+    {
+      "id": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
+      "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
+      "url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-24T21:01:04.000Z",
+      "summary": "MoonPay's new app lets users buy cryptocurrencies, including Bitcoin and Solana, through ChatGPT just by speaking with the chatbot.",
+      "tags": [
+        "bitcoin",
+        "more",
+        "chatgpt"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -3,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "812ae3a8e10e9adb8183eff288ae261a83adec5d",
+      "score": -1
     }
   ]
 }
