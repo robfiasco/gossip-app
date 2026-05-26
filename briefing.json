@@ -1,34 +1,34 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "ECOSYSTEM",
+      "title": "Solana privacy layer Umbra launches confidential vesting with Streamflow targeting $97B token unlock market",
+      "category": "ECOSYSTEM",
+      "source": "The Block",
+      "date": "2026-05-26",
+      "url": "https://www.theblock.co/post/402549/solana-privacy-layer-umbra-launches-confidential-vesting-with-streamflow-targeting-97b-token-unlock-market",
+      "whyYouShouldCare": "Umbra's confidential vesting could attract significant interest in Solana's ecosystem, tapping into the $97 billion token unlock market and enhancing privacy features."
+    },
+    {
       "type": "MARKET",
-      "title": "Solana captures 64% of tokenized stock wallets – What it means now",
+      "title": "Solana: How SOL’s ETF boom pushed Jupiter Lend TVL above $2B",
       "category": "MARKET",
       "source": "AMB Crypto",
-      "date": "2026-05-25",
-      "url": "https://ambcrypto.com/solana-captures-64-of-tokenized-stock-wallets-what-it-means-now",
-      "whyYouShouldCare": "Solana's dominance in tokenized stock wallets indicates strong user adoption and could enhance its liquidity and ecosystem growth."
+      "date": "2026-05-26",
+      "url": "https://ambcrypto.com/how-solanas-etf-boom-pushed-jupiter-lend-tvl-above-2b",
+      "whyYouShouldCare": "The surge in SOL's ETF popularity has contributed to Jupiter Lend's total value locked exceeding $2 billion, indicating strong liquidity and user engagement."
     },
     {
-      "type": "APPS",
-      "title": "Bitcoin and Ethereum ETF outflows expose rotation into HYPE, XRP and Solana",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-05-25",
-      "url": "https://cryptoslate.com/bitcoin-ethereum-etf-outflows-altcoin-rotation",
-      "whyYouShouldCare": "Outflows from Bitcoin and Ethereum ETFs suggest a shift in investor interest toward Solana, potentially increasing its market visibility and usage."
-    },
-    {
-      "type": "APPS",
-      "title": "Researchers flag TrapDoor malware campaign targeting crypto developer environments including Aptos, Sui and Solana",
-      "category": "APPS",
-      "source": "The Block",
-      "date": "2026-05-25",
-      "url": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana",
-      "whyYouShouldCare": "The identification of malware targeting Solana's developer environment raises security concerns, which could impact developer confidence and ecosystem stability."
+      "type": "MARKET",
+      "title": "Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes",
+      "category": "MARKET",
+      "source": "Decrypt",
+      "date": "2026-05-26",
+      "url": "https://decrypt.co/369095/ethereum-sharplink-solana-forward-industries-russell-2000-3000",
+      "whyYouShouldCare": "The inclusion of Sharplink and Solana Treasury Forward Industries in the Russell 2000 and 3000 indexes may enhance Solana's visibility and institutional interest."
     }
   ]
 }

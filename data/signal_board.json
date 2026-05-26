@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-25",
-  "generated_at_utc": "2026-05-25T20:21:33.301Z",
-  "ctxMarket": "Attention is shifting from Bitcoin and Ethereum ETFs, which have seen significant outflows, toward alternative assets like Solana, HYPE, and XRP. Solana continues to see record activity and strong participation in tokenized assets and stablecoins.",
-  "ctxTalking": "• Institutional rotation from Bitcoin and Ethereum ETFs into Solana and other altcoins\n• Solana’s dominance in tokenized stock wallets and record-high activity despite recent price drops\n• Security concerns after researchers flagged the TrapDoor malware campaign targeting Solana developer environments",
-  "ctxMatters": "Institutional and retail interest in Solana is growing, especially in tokenized assets and stablecoins. Sustained application revenue and wallet growth suggest ongoing ecosystem engagement. However, developer security risks remain a concern for builders and projects on Solana.",
-  "ctxSignal": "Signal: Institutional flows and wallet data highlight Solana’s increasing relevance in digital asset markets.\nNoise: Short-term price fluctuations without clear links to underlying activity.",
-  "ctxGlossary": "Tokenized stock wallet — A crypto wallet holding blockchain-based representations of traditional stocks\nTrapDoor malware — Malicious software targeting crypto developer environments through compromised code packages",
+  "date": "2026-05-26",
+  "generated_at_utc": "2026-05-26T20:52:06.143Z",
+  "ctxMarket": "Attention is on Solana’s ecosystem growth, with ETF inflows and new institutional benchmarks drawing focus. Application activity remains high even after a notable Q1 price drop.",
+  "ctxTalking": "• Solana treasury firm Forward Industries joining the Russell 2000 and 3000 indexes alongside Ethereum’s Sharplink\n• Bitwise Solana ETF inflows approaching $1B, driving ecosystem liquidity and TVL growth on platforms like Jupiter Lend\n• Launch of confidential token vesting on Solana via Umbra and Streamflow",
+  "ctxMatters": "Inclusion in major indexes increases visibility for Solana-linked firms among traditional investors. ETF inflows and high application revenue signal ongoing institutional and user engagement. Confidential vesting tools may attract more projects seeking privacy for token distribution.",
+  "ctxSignal": "Signal: Index inclusion and ETF inflows are measurable shifts in institutional attention; Solana’s stable application revenue highlights ecosystem resilience.\nNoise: Short-term price drops without context on underlying activity.",
+  "ctxGlossary": "Russell 2000/3000 — Major U.S. stock indexes tracking small- and broad-cap companies\nTVL (Total Value Locked) — The value of assets deposited in DeFi protocols\nVesting — Scheduled release of tokens to recipients over time",
   "readMore": [
     {
-      "title": "Bitcoin and Ethereum ETF outflows expose rotation into HYPE, XRP and Solana",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/bitcoin-ethereum-etf-outflows-altcoin-rotation"
+      "title": "Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/369095/ethereum-sharplink-solana-forward-industries-russell-2000-3000"
     },
     {
-      "title": "Solana captures 64% of tokenized stock wallets – What it means now",
+      "title": "Solana",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-captures-64-of-tokenized-stock-wallets-what-it-means-now"
+      "url": "https://ambcrypto.com/how-solanas-etf-boom-pushed-jupiter-lend-tvl-above-2b"
     },
     {
-      "title": "Researchers flag TrapDoor malware campaign targeting crypto developer environments including Aptos, Sui and Solana",
+      "title": "Ethereum, Solana treasury firms Sharplink and Forward join Russell indexes",
       "source": "The Block",
-      "url": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana"
+      "url": "https://www.theblock.co/post/402627/ethereum-solana-treasury-firms-sharplink-forward-join-russell-indexes"
     }
   ]
 }

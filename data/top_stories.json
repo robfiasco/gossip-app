@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-05-25T20:21:25.691Z",
-    "totalCandidates": 83,
-    "solanaCandidates": 14,
+    "generatedAt": "2026-05-26T20:51:57.621Z",
+    "totalCandidates": 104,
+    "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-captures-64-of-tokenized-stock-wallets-what-it-means-now",
-      "title": "Solana captures 64% of tokenized stock wallets – What it means now",
-      "url": "https://ambcrypto.com/solana-captures-64-of-tokenized-stock-wallets-what-it-means-now",
+      "id": "https://ambcrypto.com/how-solanas-etf-boom-pushed-jupiter-lend-tvl-above-2b",
+      "title": "Solana: How SOL’s ETF boom pushed Jupiter Lend TVL above $2B",
+      "url": "https://ambcrypto.com/how-solanas-etf-boom-pushed-jupiter-lend-tvl-above-2b",
       "source": "AMB Crypto",
-      "publishedAt": "2026-05-25T12:00:01.000Z",
-      "summary": "Blockchain markets continued attracting stronger institutional and retail participation as tokenized assets and stablecoin activity expanded globally.",
+      "publishedAt": "2026-05-26T19:00:57.000Z",
+      "summary": "Bitwise Solana ETF inflows near $1B, boosting liquidity, institutional demand, and ecosystem expansion.",
       "tags": [
         "solana",
-        "captures",
-        "tokenized"
+        "boom",
+        "pushed"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,30 +31,63 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 26,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0f871c53d02133e444c13ef086d878e89ae8852a",
-      "score": 19
+      "dedupeFingerprint": "25c624e5be2bbd2e37f77ea428a6a33cb18567ea",
+      "score": 37
     },
     {
-      "id": "https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands",
-      "title": "UAE-linked ADI Chain gains Ledger support amid stablecoin growth",
-      "url": "https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-05-25T18:29:58.000Z",
-      "summary": "The integration gives ADI token holders access to Ledger’s self-custody platform as ADI Chain expands its stablecoin and tokenized asset network.",
+      "id": "https://www.theblock.co/post/402549/solana-privacy-layer-umbra-launches-confidential-vesting-with-streamflow-targeting-97b-token-unlock-market",
+      "title": "Solana privacy layer Umbra launches confidential vesting with Streamflow targeting $97B token unlock market",
+      "url": "https://www.theblock.co/post/402549/solana-privacy-layer-umbra-launches-confidential-vesting-with-streamflow-targeting-97b-token-unlock-market",
+      "source": "The Block",
+      "publishedAt": "2026-05-26T16:05:02.000Z",
+      "summary": "Umbra and Streamflow launch private token vesting on Solana, letting projects distribute tokens confidentially at scale.",
       "tags": [
-        "linked",
-        "chain",
-        "gains"
+        "solana",
+        "privacy",
+        "layer"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ab9b26ba96ba864b2e06c74611356fa61f7264d9",
+      "score": 27
+    },
+    {
+      "id": "https://cryptoslate.com/xrp-is-sitting-on-a-volatility-trap-as-liquidity-dries-up-and-leverage-builds",
+      "title": "XRP is sitting on a volatility trap as liquidity dries up and leverage builds",
+      "url": "https://cryptoslate.com/xrp-is-sitting-on-a-volatility-trap-as-liquidity-dries-up-and-leverage-builds",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-05-26T17:50:41.000Z",
+      "summary": "CryptoQuant data shows XRP's 30-day liquidity index on Binance has fallen to about 0.043, its lowest level since January 2020, while futures open interest on the exchange sits near $488.3 million. Liquidity is draining from the order book while leverage stays active, leaving the market compressed be",
+      "tags": [
+        "sitting",
+        "volatility",
+        "trap"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -67,27 +100,27 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d3832da0c9368848d130ae64542eb1ea6a5cbfed",
-      "score": 18
+      "dedupeFingerprint": "5d6a45d3fc38b1f71e172e0e5989a44058500a0a",
+      "score": 20
     },
     {
-      "id": "https://cryptoslate.com/bitcoin-ethereum-etf-outflows-altcoin-rotation",
-      "title": "Bitcoin and Ethereum ETF outflows expose rotation into HYPE, XRP and Solana",
-      "url": "https://cryptoslate.com/bitcoin-ethereum-etf-outflows-altcoin-rotation",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-25T16:15:09.000Z",
-      "summary": "Bitcoin and Ethereum ETF outflows have accelerated, with institutional investors pulling nearly $2.7 billion from spot Bitcoin and Ethereum exchange-traded funds over the past two weeks. However, rather than signaling a broad exit from digital assets, market data reveal a historic divergence, with t",
+      "id": "https://www.theblock.co/post/402641/defi-tvl-slides-14-since-kelpdao-exploit-as-risk-appetite-retreats",
+      "title": "DeFi TVL slides 14% since KelpDAO exploit as risk appetite retreats",
+      "url": "https://www.theblock.co/post/402641/defi-tvl-slides-14-since-kelpdao-exploit-as-risk-appetite-retreats",
+      "source": "The Block",
+      "publishedAt": "2026-05-26T20:37:00.000Z",
+      "summary": "DeFi outflows have deepened five weeks after the KelpDAO breach exposed new infrastructure risks.",
       "tags": [
-        "bitcoin",
-        "ethereum",
-        "outflows"
+        "defi",
+        "slides",
+        "since"
       ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "infra",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -100,60 +133,27 @@
         "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2e035812205f23574987cb80592900b40e83bd4d",
-      "score": 17
+      "dedupeFingerprint": "9af71fbcb04f8dafce0989d1cae73185906fb8da",
+      "score": 19
     },
     {
-      "id": "https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index",
-      "title": "Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update",
-      "url": "https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-25T20:06:04.000Z",
-      "summary": "The Ethereum-buying firm owns 3.8% of the digital asset’s supply.",
+      "id": "https://ambcrypto.com/optimism-tests-stake-based-transaction-priority-on-op-mainnet",
+      "title": "Optimism tests stake-based transaction priority on OP Mainnet",
+      "url": "https://ambcrypto.com/optimism-tests-stake-based-transaction-priority-on-op-mainnet",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-26T18:53:06.000Z",
+      "summary": "The Layer 2 network is testing whether OP staking can influence transaction sequencing, potentially changing how traders compete for blockspace.",
       "tags": [
-        "outlines",
-        "liquidity",
-        "catalyst"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -1,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "da9dfb796360fd3168052b63e965097181a2c546",
-      "score": 12
-    },
-    {
-      "id": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
-      "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
-      "url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-24T21:01:04.000Z",
-      "summary": "MoonPay's new app lets users buy cryptocurrencies, including Bitcoin and Solana, through ChatGPT just by speaking with the chatbot.",
-      "tags": [
-        "bitcoin",
-        "more",
-        "chatgpt"
+        "optimism",
+        "tests",
+        "stake"
       ],
       "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": -3,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "812ae3a8e10e9adb8183eff288ae261a83adec5d",
-      "score": -1
+      "dedupeFingerprint": "876a3bd47b8a3260a54b33bb6b53f8100bf8c012",
+      "score": 14
     }
   ]
 }
