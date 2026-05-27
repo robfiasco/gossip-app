@@ -1,8 +1,17 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "South Korea arrests suspects behind Solana memecoin CatFi in first rugpull case under new law",
+      "category": "APPS",
+      "source": "The Block",
+      "date": "2026-05-27",
+      "url": "https://www.theblock.co/post/402697/south-korea-first-rugpull-memecoin",
+      "whyYouShouldCare": "The arrest of suspects in the CatFi rugpull highlights regulatory scrutiny, which could impact investor confidence and overall market integrity for Solana projects."
+    },
     {
       "type": "ECOSYSTEM",
       "title": "Solana privacy layer Umbra launches confidential vesting with Streamflow targeting $97B token unlock market",
@@ -10,25 +19,16 @@
       "source": "The Block",
       "date": "2026-05-26",
       "url": "https://www.theblock.co/post/402549/solana-privacy-layer-umbra-launches-confidential-vesting-with-streamflow-targeting-97b-token-unlock-market",
-      "whyYouShouldCare": "Umbra's confidential vesting could attract significant interest in Solana's ecosystem, tapping into the $97 billion token unlock market and enhancing privacy features."
+      "whyYouShouldCare": "Umbra's launch of confidential vesting positions Solana to capture a significant share of the $97B token unlock market, enhancing its ecosystem's utility and appeal."
     },
     {
       "type": "MARKET",
-      "title": "Solana: How SOL’s ETF boom pushed Jupiter Lend TVL above $2B",
+      "title": "Solana – How SOL’s ETF boom pushed Jupiter Lend TVL above $2B",
       "category": "MARKET",
       "source": "AMB Crypto",
       "date": "2026-05-26",
       "url": "https://ambcrypto.com/how-solanas-etf-boom-pushed-jupiter-lend-tvl-above-2b",
-      "whyYouShouldCare": "The surge in SOL's ETF popularity has contributed to Jupiter Lend's total value locked exceeding $2 billion, indicating strong liquidity and user engagement."
-    },
-    {
-      "type": "MARKET",
-      "title": "Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes",
-      "category": "MARKET",
-      "source": "Decrypt",
-      "date": "2026-05-26",
-      "url": "https://decrypt.co/369095/ethereum-sharplink-solana-forward-industries-russell-2000-3000",
-      "whyYouShouldCare": "The inclusion of Sharplink and Solana Treasury Forward Industries in the Russell 2000 and 3000 indexes may enhance Solana's visibility and institutional interest."
+      "whyYouShouldCare": "The rise of SOL ETFs has driven Jupiter Lend's TVL past $2B, indicating growing liquidity and interest in Solana's lending platforms."
     }
   ]
 }

@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-05-26T20:51:57.621Z",
-    "totalCandidates": 104,
-    "solanaCandidates": 19,
+    "generatedAt": "2026-05-27T10:54:05.640Z",
+    "totalCandidates": 107,
+    "solanaCandidates": 16,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/how-solanas-etf-boom-pushed-jupiter-lend-tvl-above-2b",
-      "title": "Solana: How SOL’s ETF boom pushed Jupiter Lend TVL above $2B",
-      "url": "https://ambcrypto.com/how-solanas-etf-boom-pushed-jupiter-lend-tvl-above-2b",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-26T19:00:57.000Z",
-      "summary": "Bitwise Solana ETF inflows near $1B, boosting liquidity, institutional demand, and ecosystem expansion.",
+      "id": "https://www.coindesk.com/markets/2026/05/27/crypto-exchange-htx-rejects-u-k-sanction-allegations-says-it-refused-ruble-stablecoin-listing",
+      "title": "Crypto exchange HTX rejects U.K. sanction allegations, says it refused ruble stablecoin listing",
+      "url": "https://www.coindesk.com/markets/2026/05/27/crypto-exchange-htx-rejects-u-k-sanction-allegations-says-it-refused-ruble-stablecoin-listing",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-27T09:58:06.000Z",
+      "summary": "U.K. authorities sanctioned HTX, saying there were \"reasonable grounds to suspect\" the crypto exchange was helping Russia by cooperating with ruble stablecoin A7A5.",
       "tags": [
-        "solana",
-        "boom",
-        "pushed"
+        "crypto",
+        "exchange",
+        "rejects"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,63 +31,63 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 26,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "25c624e5be2bbd2e37f77ea428a6a33cb18567ea",
-      "score": 37
-    },
-    {
-      "id": "https://www.theblock.co/post/402549/solana-privacy-layer-umbra-launches-confidential-vesting-with-streamflow-targeting-97b-token-unlock-market",
-      "title": "Solana privacy layer Umbra launches confidential vesting with Streamflow targeting $97B token unlock market",
-      "url": "https://www.theblock.co/post/402549/solana-privacy-layer-umbra-launches-confidential-vesting-with-streamflow-targeting-97b-token-unlock-market",
-      "source": "The Block",
-      "publishedAt": "2026-05-26T16:05:02.000Z",
-      "summary": "Umbra and Streamflow launch private token vesting on Solana, letting projects distribute tokens confidentially at scale.",
-      "tags": [
-        "solana",
-        "privacy",
-        "layer"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ab9b26ba96ba864b2e06c74611356fa61f7264d9",
-      "score": 27
+      "dedupeFingerprint": "8c9cb44a362e7715f0ecc2c2844747c4f6f3f17b",
+      "score": 22
     },
     {
-      "id": "https://cryptoslate.com/xrp-is-sitting-on-a-volatility-trap-as-liquidity-dries-up-and-leverage-builds",
-      "title": "XRP is sitting on a volatility trap as liquidity dries up and leverage builds",
-      "url": "https://cryptoslate.com/xrp-is-sitting-on-a-volatility-trap-as-liquidity-dries-up-and-leverage-builds",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-26T17:50:41.000Z",
-      "summary": "CryptoQuant data shows XRP's 30-day liquidity index on Binance has fallen to about 0.043, its lowest level since January 2020, while futures open interest on the exchange sits near $488.3 million. Liquidity is draining from the order book while leverage stays active, leaving the market compressed be",
+      "id": "https://www.theblock.co/post/402697/south-korea-first-rugpull-memecoin",
+      "title": "South Korea arrests suspects behind Solana memecoin CatFi in first rugpull case under new law",
+      "url": "https://www.theblock.co/post/402697/south-korea-first-rugpull-memecoin",
+      "source": "The Block",
+      "publishedAt": "2026-05-27T08:58:37.000Z",
+      "summary": "By using fake social media channels, the suspects allegedly lured thousands into buying Solana memecoin CatFi, before abandoning the project.",
       "tags": [
-        "sitting",
-        "volatility",
-        "trap"
+        "south",
+        "korea",
+        "arrests"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "0dac5e37f3f19e86e255cd19f053043723004c0b",
+      "score": 22
+    },
+    {
+      "id": "https://cryptoslate.com/stablecoins-just-hit-a-record-322-billion-and-the-bank-run-warnings-are-getting-louder",
+      "title": "Stablecoins just hit a record $322 billion – and the bank-run warnings are getting louder",
+      "url": "https://cryptoslate.com/stablecoins-just-hit-a-record-322-billion-and-the-bank-run-warnings-are-getting-louder",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-05-27T07:37:13.000Z",
+      "summary": "The global stablecoin market has climbed to a record $322 billion valuation, cementing the rise of digital dollars as one of the cryptocurrency sector's most viable commercial products. The milestone reflects an accelerating demand for real-time settlement, borderless cross-border transfers, and rel",
+      "tags": [
+        "stablecoins",
+        "just",
+        "record"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -104,7 +104,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5d6a45d3fc38b1f71e172e0e5989a44058500a0a",
+      "dedupeFingerprint": "85222f4c79844a3aed211e0ef9adbef69a4d51fe",
       "score": 20
     },
     {
@@ -132,28 +132,28 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9af71fbcb04f8dafce0989d1cae73185906fb8da",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "https://ambcrypto.com/optimism-tests-stake-based-transaction-priority-on-op-mainnet",
-      "title": "Optimism tests stake-based transaction priority on OP Mainnet",
-      "url": "https://ambcrypto.com/optimism-tests-stake-based-transaction-priority-on-op-mainnet",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-26T18:53:06.000Z",
-      "summary": "The Layer 2 network is testing whether OP staking can influence transaction sequencing, potentially changing how traders compete for blockspace.",
+      "id": "https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index",
+      "title": "Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update",
+      "url": "https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-25T20:06:04.000Z",
+      "summary": "The Ethereum-buying firm owns 4.3% of the digital asset’s supply.",
       "tags": [
-        "optimism",
-        "tests",
-        "stake"
+        "outlines",
+        "liquidity",
+        "catalyst"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": -1,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
+        "recencyScore": 7,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "876a3bd47b8a3260a54b33bb6b53f8100bf8c012",
-      "score": 14
+      "dedupeFingerprint": "da9dfb796360fd3168052b63e965097181a2c546",
+      "score": 9
     }
   ]
 }

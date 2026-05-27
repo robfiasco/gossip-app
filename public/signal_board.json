@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-26",
-  "generated_at_utc": "2026-05-26T20:52:06.143Z",
-  "ctxMarket": "Attention is on Solana’s ecosystem growth, with ETF inflows and new institutional benchmarks drawing focus. Application activity remains high even after a notable Q1 price drop.",
-  "ctxTalking": "• Solana treasury firm Forward Industries joining the Russell 2000 and 3000 indexes alongside Ethereum’s Sharplink\n• Bitwise Solana ETF inflows approaching $1B, driving ecosystem liquidity and TVL growth on platforms like Jupiter Lend\n• Launch of confidential token vesting on Solana via Umbra and Streamflow",
-  "ctxMatters": "Inclusion in major indexes increases visibility for Solana-linked firms among traditional investors. ETF inflows and high application revenue signal ongoing institutional and user engagement. Confidential vesting tools may attract more projects seeking privacy for token distribution.",
-  "ctxSignal": "Signal: Index inclusion and ETF inflows are measurable shifts in institutional attention; Solana’s stable application revenue highlights ecosystem resilience.\nNoise: Short-term price drops without context on underlying activity.",
-  "ctxGlossary": "Russell 2000/3000 — Major U.S. stock indexes tracking small- and broad-cap companies\nTVL (Total Value Locked) — The value of assets deposited in DeFi protocols\nVesting — Scheduled release of tokens to recipients over time",
+  "date": "2026-05-27",
+  "generated_at_utc": "2026-05-27T10:54:15.626Z",
+  "ctxMarket": "Attention is focused on Solana’s institutional adoption, new privacy tools, and regulatory enforcement. Solana’s ecosystem activity remains high, even as SOL’s price saw a notable Q1 decline.",
+  "ctxTalking": "• South Korea’s first enforcement of new crypto laws with arrests tied to a Solana memecoin rugpull\n• Solana treasury firm Forward Industries joining major Russell indexes alongside Ethereum’s Sharplink\n• Launch of confidential token vesting on Solana, targeting large-scale unlocks",
+  "ctxMatters": "Regulatory actions signal increased scrutiny on Solana-based projects. Index inclusion may broaden institutional exposure to Solana-linked firms. New privacy and vesting tools could attract more projects seeking secure, scalable token distribution.",
+  "ctxSignal": "Signal: Regulatory enforcement and index inclusion reflect growing mainstream and institutional engagement with Solana.\nNoise: Short-term price drops appear less relevant given stable application revenue and ecosystem growth.",
+  "ctxGlossary": "Rugpull — When a crypto project’s creators abandon it after raising funds, leaving investors with worthless tokens.\nToken Vesting — The scheduled release of tokens to recipients over time, often to team members or investors.\nRussell Indexes — Major U.S. stock indexes used as benchmarks by institutional investors.",
   "readMore": [
+    {
+      "title": "South Korea arrests suspects behind Solana memecoin CatFi in first rugpull case under new law",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/402697/south-korea-first-rugpull-memecoin"
+    },
     {
       "title": "Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes",
       "source": "Decrypt",
       "url": "https://decrypt.co/369095/ethereum-sharplink-solana-forward-industries-russell-2000-3000"
     },
     {
-      "title": "Solana",
+      "title": "Solana – How SOL’s ETF boom pushed Jupiter Lend TVL above $2B",
       "source": "AMB Crypto",
       "url": "https://ambcrypto.com/how-solanas-etf-boom-pushed-jupiter-lend-tvl-above-2b"
-    },
-    {
-      "title": "Ethereum, Solana treasury firms Sharplink and Forward join Russell indexes",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/402627/ethereum-solana-treasury-firms-sharplink-forward-join-russell-indexes"
     }
   ]
 }
