@@ -1,26 +1,26 @@
 {
   "date": "2026-05-27",
-  "generated_at_utc": "2026-05-27T10:54:15.626Z",
-  "ctxMarket": "Attention is focused on Solana’s institutional adoption, new privacy tools, and regulatory enforcement. Solana’s ecosystem activity remains high, even as SOL’s price saw a notable Q1 decline.",
-  "ctxTalking": "• South Korea’s first enforcement of new crypto laws with arrests tied to a Solana memecoin rugpull\n• Solana treasury firm Forward Industries joining major Russell indexes alongside Ethereum’s Sharplink\n• Launch of confidential token vesting on Solana, targeting large-scale unlocks",
-  "ctxMatters": "Regulatory actions signal increased scrutiny on Solana-based projects. Index inclusion may broaden institutional exposure to Solana-linked firms. New privacy and vesting tools could attract more projects seeking secure, scalable token distribution.",
-  "ctxSignal": "Signal: Regulatory enforcement and index inclusion reflect growing mainstream and institutional engagement with Solana.\nNoise: Short-term price drops appear less relevant given stable application revenue and ecosystem growth.",
-  "ctxGlossary": "Rugpull — When a crypto project’s creators abandon it after raising funds, leaving investors with worthless tokens.\nToken Vesting — The scheduled release of tokens to recipients over time, often to team members or investors.\nRussell Indexes — Major U.S. stock indexes used as benchmarks by institutional investors.",
+  "generated_at_utc": "2026-05-27T21:01:07.298Z",
+  "ctxMarket": "Attention is on stablecoin integrations and regulatory developments, with major fintechs expanding Solana support. Real-world asset tokenization and legal actions around memecoins are also in focus.",
+  "ctxTalking": "• Cash App and SoFi rolling out stablecoin support on Solana and Ethereum\n• South Korea's first prosecution under new crypto laws after a Solana memecoin rug pull\n• Orca launching a marketplace for tokenized real-world assets on Solana",
+  "ctxMatters": "Mainstream fintechs adopting Solana for stablecoins may increase network usage and visibility. Regulatory enforcement in South Korea signals changing compliance expectations for Solana projects. Tokenized real-world assets could broaden Solana’s use cases beyond DeFi and memecoins.",
+  "ctxSignal": "Signal: Stablecoin launches by Cash App and SoFi, and South Korea’s legal action, reflect institutional and regulatory momentum on Solana.\nNoise: Short-term memecoin price surges following legal news are not indicative of broader trends.",
+  "ctxGlossary": "Stablecoin — A cryptocurrency pegged to a stable asset, like the US dollar.\nRug pull — A scam where developers abandon a project after taking investors’ funds.\nTokenization — Converting real-world assets into digital tokens on a blockchain.",
   "readMore": [
     {
-      "title": "South Korea arrests suspects behind Solana memecoin CatFi in first rugpull case under new law",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/402697/south-korea-first-rugpull-memecoin"
-    },
-    {
-      "title": "Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes",
+      "title": "Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes",
       "source": "Decrypt",
-      "url": "https://decrypt.co/369095/ethereum-sharplink-solana-forward-industries-russell-2000-3000"
+      "url": "https://decrypt.co/369199/cash-app-supports-stablecoins-bitcoin-maxi-jack-dorsey-gatekeeper-gripes"
     },
     {
-      "title": "Solana – How SOL’s ETF boom pushed Jupiter Lend TVL above $2B",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/how-solanas-etf-boom-pushed-jupiter-lend-tvl-above-2b"
+      "title": "Solana DEX Orca launches new marketplace for tokenized real-world assets",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/27/solana-dex-orca-launches-new-marketplace-for-tokenized-real-world-assets"
+    },
+    {
+      "title": "SoFi rolls out SoFiUSD stablecoin to banking app users",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/402361/sofi-rolls-out-sofiusd-stablecoin-to-banking-app-users"
     }
   ]
 }

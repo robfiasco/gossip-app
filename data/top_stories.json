@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-05-27T10:54:05.640Z",
-    "totalCandidates": 107,
-    "solanaCandidates": 16,
+    "generatedAt": "2026-05-27T21:00:59.284Z",
+    "totalCandidates": 110,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/markets/2026/05/27/crypto-exchange-htx-rejects-u-k-sanction-allegations-says-it-refused-ruble-stablecoin-listing",
-      "title": "Crypto exchange HTX rejects U.K. sanction allegations, says it refused ruble stablecoin listing",
-      "url": "https://www.coindesk.com/markets/2026/05/27/crypto-exchange-htx-rejects-u-k-sanction-allegations-says-it-refused-ruble-stablecoin-listing",
+      "id": "https://www.coindesk.com/business/2026/05/27/solana-dex-orca-launches-new-marketplace-for-tokenized-real-world-assets",
+      "title": "Solana DEX Orca launches new marketplace for tokenized real-world assets",
+      "url": "https://www.coindesk.com/business/2026/05/27/solana-dex-orca-launches-new-marketplace-for-tokenized-real-world-assets",
       "source": "CoinDesk",
-      "publishedAt": "2026-05-27T09:58:06.000Z",
-      "summary": "U.K. authorities sanctioned HTX, saying there were \"reasonable grounds to suspect\" the crypto exchange was helping Russia by cooperating with ruble stablecoin A7A5.",
+      "publishedAt": "2026-05-27T13:00:00.000Z",
+      "summary": "The launch comes as crypto companies increasingly focus on tokenizing traditional financial assets, a market many in the industry see as a major growth opportunity.",
       "tags": [
-        "crypto",
-        "exchange",
-        "rejects"
+        "solana",
+        "orca",
+        "launches"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,27 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 15,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8c9cb44a362e7715f0ecc2c2844747c4f6f3f17b",
-      "score": 22
+      "dedupeFingerprint": "285cc7cdd3702b1e6c6eb4bc74db479013146d1d",
+      "score": 29
     },
     {
-      "id": "https://www.theblock.co/post/402697/south-korea-first-rugpull-memecoin",
-      "title": "South Korea arrests suspects behind Solana memecoin CatFi in first rugpull case under new law",
-      "url": "https://www.theblock.co/post/402697/south-korea-first-rugpull-memecoin",
-      "source": "The Block",
-      "publishedAt": "2026-05-27T08:58:37.000Z",
-      "summary": "By using fake social media channels, the suspects allegedly lured thousands into buying Solana memecoin CatFi, before abandoning the project.",
+      "id": "https://solana.com/news/chiliz-sports-industry-on-solana",
+      "title": "Building for the $400B+ Sports Industry on Solana",
+      "url": "https://solana.com/news/chiliz-sports-industry-on-solana",
+      "source": "Solana News",
+      "publishedAt": "2026-05-27T10:00:00.000Z",
+      "summary": "Fantasy, prediction markets, sports betting, and licensed Fan Tokens from Chiliz are now live on one network, in front of one of the largest crypto audiences anywhere.",
       "tags": [
-        "south",
-        "korea",
-        "arrests"
+        "building",
+        "400b",
+        "sports"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,29 +64,62 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "a2039f74ad7b600feba06327e80d04a19bd12f5f",
+      "score": 26
+    },
+    {
+      "id": "https://www.theblock.co/post/402361/sofi-rolls-out-sofiusd-stablecoin-to-banking-app-users",
+      "title": "SoFi rolls out SoFiUSD stablecoin to banking app users",
+      "url": "https://www.theblock.co/post/402361/sofi-rolls-out-sofiusd-stablecoin-to-banking-app-users",
+      "source": "The Block",
+      "publishedAt": "2026-05-27T11:00:00.000Z",
+      "summary": "SoFi rolls out bank-issued SoFiUSD stablecoin to 14.7 million members inside its app on Ethereum and Solana.",
+      "tags": [
+        "sofi",
+        "rolls",
+        "sofiusd"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0dac5e37f3f19e86e255cd19f053043723004c0b",
-      "score": 22
+      "dedupeFingerprint": "a19f9256606886cfcaacb56a98cbe16a7b6b1709",
+      "score": 25
     },
     {
-      "id": "https://cryptoslate.com/stablecoins-just-hit-a-record-322-billion-and-the-bank-run-warnings-are-getting-louder",
-      "title": "Stablecoins just hit a record $322 billion – and the bank-run warnings are getting louder",
-      "url": "https://cryptoslate.com/stablecoins-just-hit-a-record-322-billion-and-the-bank-run-warnings-are-getting-louder",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-27T07:37:13.000Z",
-      "summary": "The global stablecoin market has climbed to a record $322 billion valuation, cementing the rise of digital dollars as one of the cryptocurrency sector's most viable commercial products. The milestone reflects an accelerating demand for real-time settlement, borderless cross-border transfers, and rel",
+      "id": "https://www.coindesk.com/business/2026/05/27/mastercard-secures-new-york-bitlicense-to-support-stablecoin-and-digital-payment-infrastructure",
+      "title": "Mastercard secures New York BitLicense to support stablecoin and digital payment infrastructure",
+      "url": "https://www.coindesk.com/business/2026/05/27/mastercard-secures-new-york-bitlicense-to-support-stablecoin-and-digital-payment-infrastructure",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-27T13:15:00.000Z",
+      "summary": "The payments giant said the approval supports its push into stablecoins and blockchain-based settlement infrastructure.",
       "tags": [
-        "stablecoins",
-        "just",
-        "record"
+        "mastercard",
+        "secures",
+        "york"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -100,27 +133,27 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "85222f4c79844a3aed211e0ef9adbef69a4d51fe",
-      "score": 20
+      "dedupeFingerprint": "5a713eb09b9b9ce0f1d5358406802821dc6c7aac",
+      "score": 22
     },
     {
-      "id": "https://www.theblock.co/post/402641/defi-tvl-slides-14-since-kelpdao-exploit-as-risk-appetite-retreats",
-      "title": "DeFi TVL slides 14% since KelpDAO exploit as risk appetite retreats",
-      "url": "https://www.theblock.co/post/402641/defi-tvl-slides-14-since-kelpdao-exploit-as-risk-appetite-retreats",
-      "source": "The Block",
-      "publishedAt": "2026-05-26T20:37:00.000Z",
-      "summary": "DeFi outflows have deepened five weeks after the KelpDAO breach exposed new infrastructure risks.",
+      "id": "https://decrypt.co/369134/solana-meme-coin-surges-6000-after-creators-arrested-over-rug-pull",
+      "title": "Solana Meme Coin Surges 6,000% After Creators Arrested Over 'Rug Pull'",
+      "url": "https://decrypt.co/369134/solana-meme-coin-surges-6000-after-creators-arrested-over-rug-pull",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-27T13:09:01.000Z",
+      "summary": "The charges against the CatFi creators mark the first time South Korean prosecutors have applied the new Virtual Asset User Protection Act.",
       "tags": [
-        "defi",
-        "slides",
-        "since"
+        "solana",
+        "meme",
+        "coin"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "9af71fbcb04f8dafce0989d1cae73185906fb8da",
-      "score": 18
-    },
-    {
-      "id": "https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index",
-      "title": "Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update",
-      "url": "https://decrypt.co/368971/tom-lee-iquidity-ethereum-bitmine-russell-index",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-25T20:06:04.000Z",
-      "summary": "The Ethereum-buying firm owns 4.3% of the digital asset’s supply.",
-      "tags": [
-        "outlines",
-        "liquidity",
-        "catalyst"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -1,
-        "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 10,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "da9dfb796360fd3168052b63e965097181a2c546",
-      "score": 9
+      "dedupeFingerprint": "ffc6618415164dbcd286cb31389090a8b50377fc",
+      "score": 18
     }
   ]
 }
