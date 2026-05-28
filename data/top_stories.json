@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-05-27T21:00:59.284Z",
-    "totalCandidates": 110,
-    "solanaCandidates": 22,
+    "generatedAt": "2026-05-28T10:53:14.698Z",
+    "totalCandidates": 109,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/business/2026/05/27/solana-dex-orca-launches-new-marketplace-for-tokenized-real-world-assets",
-      "title": "Solana DEX Orca launches new marketplace for tokenized real-world assets",
-      "url": "https://www.coindesk.com/business/2026/05/27/solana-dex-orca-launches-new-marketplace-for-tokenized-real-world-assets",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-27T13:00:00.000Z",
-      "summary": "The launch comes as crypto companies increasingly focus on tokenizing traditional financial assets, a market many in the industry see as a major growth opportunity.",
+      "id": "https://www.theblock.co/post/402784/cash-app-lets-users-send-usdc-stablecoins-on-chains-like-solana-and-ethereum",
+      "title": "Cash App lets users send USDC stablecoins on chains like Solana and Ethereum",
+      "url": "https://www.theblock.co/post/402784/cash-app-lets-users-send-usdc-stablecoins-on-chains-like-solana-and-ethereum",
+      "source": "The Block",
+      "publishedAt": "2026-05-27T21:07:59.000Z",
+      "summary": "Cash App users can now transfer on Solana, Ethereum, Polygon and Arbitrum, but executive Miles Suter says the firm is still bitcoin-focused.",
       "tags": [
-        "solana",
-        "orca",
-        "launches"
+        "cash",
+        "lets",
+        "users"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,15 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 15,
+        "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "285cc7cdd3702b1e6c6eb4bc74db479013146d1d",
-      "score": 29
+      "dedupeFingerprint": "211bc5a5f961bcb15d18f92670ac5c31d72d5734",
+      "score": 26
     },
     {
       "id": "https://solana.com/news/chiliz-sports-industry-on-solana",
@@ -66,28 +66,28 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 8,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "a2039f74ad7b600feba06327e80d04a19bd12f5f",
-      "score": 26
+      "score": 24
     },
     {
-      "id": "https://www.theblock.co/post/402361/sofi-rolls-out-sofiusd-stablecoin-to-banking-app-users",
-      "title": "SoFi rolls out SoFiUSD stablecoin to banking app users",
-      "url": "https://www.theblock.co/post/402361/sofi-rolls-out-sofiusd-stablecoin-to-banking-app-users",
-      "source": "The Block",
-      "publishedAt": "2026-05-27T11:00:00.000Z",
-      "summary": "SoFi rolls out bank-issued SoFiUSD stablecoin to 14.7 million members inside its app on Ethereum and Solana.",
+      "id": "https://ambcrypto.com/terra-luna-classic-how-the-82m-token-burn-could-extend-luncs-rally",
+      "title": "Terra Luna Classic: How the 82M token burn could extend LUNC’s rally",
+      "url": "https://ambcrypto.com/terra-luna-classic-how-the-82m-token-burn-could-extend-luncs-rally",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-28T01:00:44.000Z",
+      "summary": "Social media sentiment behind LUNC appeared to be turning bullish because of the burn rates and staking amounts.",
       "tags": [
-        "sofi",
-        "rolls",
-        "sofiusd"
+        "terra",
+        "luna",
+        "classic"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -100,12 +100,45 @@
         "relevanceScore": 11,
         "mentionScore": 0,
         "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "bfc9244efca64aa92fe7afe45aacf2afd1f77656",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/402771/falcon-finance-taps-anchorage-to-issue-new-genius-compliant-payments-stablecoin-fusd",
+      "title": "Falcon Finance taps Anchorage to issue new GENIUS-compliant payments stablecoin fUSD",
+      "url": "https://www.theblock.co/post/402771/falcon-finance-taps-anchorage-to-issue-new-genius-compliant-payments-stablecoin-fusd",
+      "source": "The Block",
+      "publishedAt": "2026-05-27T20:00:11.000Z",
+      "summary": "Falcon said fUSD is meant to act as a “regulated counterpart” to its existing overcollateralized synthetic stablecoin USDf.",
+      "tags": [
+        "falcon",
+        "finance",
+        "taps"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a19f9256606886cfcaacb56a98cbe16a7b6b1709",
-      "score": 25
+      "dedupeFingerprint": "8578af5d4af9b5815409c4da6488468af70d5aa4",
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/business/2026/05/27/mastercard-secures-new-york-bitlicense-to-support-stablecoin-and-digital-payment-infrastructure",
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5a713eb09b9b9ce0f1d5358406802821dc6c7aac",
-      "score": 22
-    },
-    {
-      "id": "https://decrypt.co/369134/solana-meme-coin-surges-6000-after-creators-arrested-over-rug-pull",
-      "title": "Solana Meme Coin Surges 6,000% After Creators Arrested Over 'Rug Pull'",
-      "url": "https://decrypt.co/369134/solana-meme-coin-surges-6000-after-creators-arrested-over-rug-pull",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-27T13:09:01.000Z",
-      "summary": "The charges against the CatFi creators mark the first time South Korean prosecutors have applied the new Virtual Asset User Protection Act.",
-      "tags": [
-        "solana",
-        "meme",
-        "coin"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ffc6618415164dbcd286cb31389090a8b50377fc",
-      "score": 18
+      "score": 21
     }
   ]
 }
