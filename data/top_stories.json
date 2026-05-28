@@ -1,57 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-05-28T10:53:14.698Z",
+    "generatedAt": "2026-05-28T21:06:13.968Z",
     "totalCandidates": 109,
-    "solanaCandidates": 23,
+    "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/402784/cash-app-lets-users-send-usdc-stablecoins-on-chains-like-solana-and-ethereum",
-      "title": "Cash App lets users send USDC stablecoins on chains like Solana and Ethereum",
-      "url": "https://www.theblock.co/post/402784/cash-app-lets-users-send-usdc-stablecoins-on-chains-like-solana-and-ethereum",
-      "source": "The Block",
-      "publishedAt": "2026-05-27T21:07:59.000Z",
-      "summary": "Cash App users can now transfer on Solana, Ethereum, Polygon and Arbitrum, but executive Miles Suter says the firm is still bitcoin-focused.",
+      "id": "https://ambcrypto.com/solana-why-pump-funs-4-2m-sol-move-could-threaten-key-support",
+      "title": "Solana: Why Pump.fun’s 4.2M SOL move could threaten KEY support",
+      "url": "https://ambcrypto.com/solana-why-pump-funs-4-2m-sol-move-could-threaten-key-support",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-28T19:00:27.000Z",
+      "summary": "Pump.fun’s massive Kraken deposits intensified pressure as SOL weakened near critical support levels.",
       "tags": [
-        "cash",
-        "lets",
-        "users"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "211bc5a5f961bcb15d18f92670ac5c31d72d5734",
-      "score": 26
-    },
-    {
-      "id": "https://solana.com/news/chiliz-sports-industry-on-solana",
-      "title": "Building for the $400B+ Sports Industry on Solana",
-      "url": "https://solana.com/news/chiliz-sports-industry-on-solana",
-      "source": "Solana News",
-      "publishedAt": "2026-05-27T10:00:00.000Z",
-      "summary": "Fantasy, prediction markets, sports betting, and licensed Fan Tokens from Chiliz are now live on one network, in front of one of the largest crypto audiences anywhere.",
-      "tags": [
-        "building",
-        "400b",
-        "sports"
+        "solana",
+        "pump",
+        "move"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,60 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 5,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "a2039f74ad7b600feba06327e80d04a19bd12f5f",
-      "score": 24
-    },
-    {
-      "id": "https://ambcrypto.com/terra-luna-classic-how-the-82m-token-burn-could-extend-luncs-rally",
-      "title": "Terra Luna Classic: How the 82M token burn could extend LUNC’s rally",
-      "url": "https://ambcrypto.com/terra-luna-classic-how-the-82m-token-burn-could-extend-luncs-rally",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-28T01:00:44.000Z",
-      "summary": "Social media sentiment behind LUNC appeared to be turning bullish because of the burn rates and staking amounts.",
-      "tags": [
-        "terra",
-        "luna",
-        "classic"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 21,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "bfc9244efca64aa92fe7afe45aacf2afd1f77656",
-      "score": 22
+      "dedupeFingerprint": "3f3348c670f76a797293001ea6ea168c88eea6ef",
+      "score": 32
     },
     {
-      "id": "https://www.theblock.co/post/402771/falcon-finance-taps-anchorage-to-issue-new-genius-compliant-payments-stablecoin-fusd",
-      "title": "Falcon Finance taps Anchorage to issue new GENIUS-compliant payments stablecoin fUSD",
-      "url": "https://www.theblock.co/post/402771/falcon-finance-taps-anchorage-to-issue-new-genius-compliant-payments-stablecoin-fusd",
-      "source": "The Block",
-      "publishedAt": "2026-05-27T20:00:11.000Z",
-      "summary": "Falcon said fUSD is meant to act as a “regulated counterpart” to its existing overcollateralized synthetic stablecoin USDf.",
+      "id": "https://cryptoslate.com/stablecoins-bypass-visa-winning-crypto-card-payments",
+      "title": "Stablecoins were supposed to bypass credit cards, but now Visa is winning crypto card payments",
+      "url": "https://cryptoslate.com/stablecoins-bypass-visa-winning-crypto-card-payments",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-05-28T12:05:54.000Z",
+      "summary": "Stablecoins were built on the premise that removing intermediaries between sender and recipient would erode the relevance of legacy payment networks, but the fastest-growing consumer stablecoin product depends entirely on one. Data reported by The Kobeissi Letter shows crypto-card spending reached r",
       "tags": [
-        "falcon",
-        "finance",
-        "taps"
+        "stablecoins",
+        "were",
+        "supposed"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,30 +64,30 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8578af5d4af9b5815409c4da6488468af70d5aa4",
-      "score": 21
+      "dedupeFingerprint": "8afc7f978939ba1a97eeac21c6069c26f857d09e",
+      "score": 23
     },
     {
-      "id": "https://www.coindesk.com/business/2026/05/27/mastercard-secures-new-york-bitlicense-to-support-stablecoin-and-digital-payment-infrastructure",
-      "title": "Mastercard secures New York BitLicense to support stablecoin and digital payment infrastructure",
-      "url": "https://www.coindesk.com/business/2026/05/27/mastercard-secures-new-york-bitlicense-to-support-stablecoin-and-digital-payment-infrastructure",
+      "id": "https://www.coindesk.com/business/2026/05/28/toddlers-learn-by-falling-why-defi-s-usd20-billion-tvl-drop-is-just-a-market-stress-test",
+      "title": "Toddlers learn by falling: Why DeFi's $20 billion TVL drop is just a market stress-test",
+      "url": "https://www.coindesk.com/business/2026/05/28/toddlers-learn-by-falling-why-defi-s-usd20-billion-tvl-drop-is-just-a-market-stress-test",
       "source": "CoinDesk",
-      "publishedAt": "2026-05-27T13:15:00.000Z",
-      "summary": "The payments giant said the approval supports its push into stablecoins and blockchain-based settlement infrastructure.",
+      "publishedAt": "2026-05-28T16:33:56.000Z",
+      "summary": "DeFi Technologies president Andrew Forson says the stablecoin layer is thriving, with more than $150 billion in U.S. Treasuries backing coins like USDT and USDC.",
       "tags": [
-        "mastercard",
-        "secures",
-        "york"
+        "toddlers",
+        "learn",
+        "falling"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -165,13 +99,79 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5a713eb09b9b9ce0f1d5358406802821dc6c7aac",
-      "score": 21
+      "dedupeFingerprint": "0bc48d46881e98757c8f39dd799cc25ef992e07b",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/bifrost-returns-53000-dot-yield-from-polkadot-treasury-liquidity-loan",
+      "title": "Bifrost returns 53,000 DOT yield from Polkadot treasury liquidity loan",
+      "url": "https://ambcrypto.com/bifrost-returns-53000-dot-yield-from-polkadot-treasury-liquidity-loan",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-28T16:27:13.000Z",
+      "summary": "The proposal shows how Polkadot treasury capital was deployed into staking and liquidity infrastructure rather than remaining idle in treasury reserves.",
+      "tags": [
+        "bifrost",
+        "returns",
+        "yield"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "6bfa05a6f90af926ac819f8e1d0ce4444efda677",
+      "score": 19
+    },
+    {
+      "id": "https://ambcrypto.com/sui-validator-outage-disrupts-mainnet-settlement",
+      "title": "Sui validator outage disrupts mainnet settlement",
+      "url": "https://ambcrypto.com/sui-validator-outage-disrupts-mainnet-settlement",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-28T15:32:04.000Z",
+      "summary": "Explorer timestamps and Sui’s status page suggested the outage primarily affected validator settlement activity.",
+      "tags": [
+        "validator",
+        "outage",
+        "disrupts"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "9e1e15383c7d77dbc2e23e5dc82f487dd0cc091e",
+      "score": 19
     }
   ]
 }
