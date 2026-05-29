@@ -1,11 +1,11 @@
 {
   "date": "2026-05-29",
-  "generated_at_utc": "2026-05-29T10:43:47.134Z",
-  "ctxMarket": "Attention is on security risks after a targeted attack on Solana and other wallet ecosystems, as well as notable shifts in open interest and price for SOL. Despite recent price declines, Solana’s on-chain activity and integration with major fintech platforms remain in focus.",
-  "ctxTalking": "• A TrapDoor package attack targeting Solana, Sui, and Aptos wallet data and developer credentials\n• A 30% drop in Solana futures open interest amid broader altcoin weakness\n• Expansion of stablecoin support on Solana by Cash App and SoFi",
-  "ctxMatters": "Security incidents highlight ongoing risks for developers and users in the Solana ecosystem. Declining open interest and price shifts may affect liquidity and sentiment, while stablecoin integrations by major fintechs signal growing mainstream infrastructure on Solana. High application revenue and sports industry activity suggest continued network usage despite market volatility.",
-  "ctxSignal": "Signal: Targeted security threats and major fintech adoption of Solana stablecoins.\nNoise: Speculation around specific price targets for SOL without clear catalysts.",
-  "ctxGlossary": "Open Interest — The total value of outstanding derivative contracts, such as futures, that have not been settled.\nStablecoin — A cryptocurrency pegged to a stable asset, like the US dollar.",
+  "generated_at_utc": "2026-05-29T21:06:14.326Z",
+  "ctxMarket": "Attention is on Solana’s open interest dropping 30% in May, with price pressure near $80. Despite this, Solana’s on-chain activity and application revenue remain at record highs, signaling divergence between market sentiment and network usage.",
+  "ctxTalking": "• TrapDoor package attack targeting Solana, Sui, and Aptos wallet data through fake developer tools\n• Solana futures open interest decline and speculation about further price drops\n• Expansion of sports-related projects on Solana, including fantasy, prediction markets, and Chiliz Fan Tokens",
+  "ctxMatters": "Solana’s developer ecosystem faces new security threats from targeted malware campaigns.  \nMarket participants are watching for further price movement as futures interest wanes.  \nGrowth in sports applications highlights Solana’s appeal for large-scale consumer projects, even as token price fluctuates.",
+  "ctxSignal": "Signal: Sustained high application revenue and new sports industry integrations on Solana.\nNoise: Short-term price speculation around $68 SOL without clear fundamental drivers.",
+  "ctxGlossary": "TrapDoor — A malware campaign distributing fake developer tools to steal sensitive crypto credentials  \nOpen Interest — The total value of outstanding futures contracts for an asset",
   "readMore": [
     {
       "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
@@ -18,9 +18,9 @@
       "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play"
     },
     {
-      "title": "Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/369199/cash-app-supports-stablecoins-bitcoin-maxi-jack-dorsey-gatekeeper-gripes"
+      "title": "Building for the $400B+ Sports Industry on Solana",
+      "source": "Solana News",
+      "url": "https://solana.com/news/chiliz-sports-industry-on-solana"
     }
   ]
 }
