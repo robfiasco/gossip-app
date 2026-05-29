@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-28T21:06:13.968Z",
+    "generatedAt": "2026-05-29T10:43:39.639Z",
     "totalCandidates": 109,
     "solanaCandidates": 19,
     "selected": 5,
@@ -9,16 +9,16 @@
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-why-pump-funs-4-2m-sol-move-could-threaten-key-support",
-      "title": "Solana: Why Pump.fun’s 4.2M SOL move could threaten KEY support",
-      "url": "https://ambcrypto.com/solana-why-pump-funs-4-2m-sol-move-could-threaten-key-support",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-28T19:00:27.000Z",
-      "summary": "Pump.fun’s massive Kraken deposits intensified pressure as SOL weakened near critical support levels.",
+      "id": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play",
+      "title": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?",
+      "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-05-28T22:39:43.000Z",
+      "summary": "Bulls abandon ship as SOL futures open interest dropped 30% in May. With the price weakening near $80, Solana may be destined for new lows.",
       "tags": [
         "solana",
-        "pump",
-        "move"
+        "open",
+        "interest"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,30 +31,30 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 21,
+        "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
+        "recencyScore": 9,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3f3348c670f76a797293001ea6ea168c88eea6ef",
-      "score": 32
+      "dedupeFingerprint": "6021b53c8fb88fb6d69392e448bcc6dfbfd437cf",
+      "score": 25
     },
     {
-      "id": "https://cryptoslate.com/stablecoins-bypass-visa-winning-crypto-card-payments",
-      "title": "Stablecoins were supposed to bypass credit cards, but now Visa is winning crypto card payments",
-      "url": "https://cryptoslate.com/stablecoins-bypass-visa-winning-crypto-card-payments",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-28T12:05:54.000Z",
-      "summary": "Stablecoins were built on the premise that removing intermediaries between sender and recipient would erode the relevance of legacy payment networks, but the fastest-growing consumer stablecoin product depends entirely on one. Data reported by The Kobeissi Letter shows crypto-card spending reached r",
+      "id": "https://www.theblock.co/post/402991/ventuals-to-compensate-traders-after-pre-ipo-spacex-perps-plunge-45-on-hyperliquid",
+      "title": "Ventuals to compensate traders after pre-IPO SpaceX perps plunge 45% on Hyperliquid",
+      "url": "https://www.theblock.co/post/402991/ventuals-to-compensate-traders-after-pre-ipo-spacex-perps-plunge-45-on-hyperliquid",
+      "source": "The Block",
+      "publishedAt": "2026-05-29T09:12:53.000Z",
+      "summary": "Ventuals to compensate traders after faulty oracle data sent SPACEX perps down 45% on Hyperliquid, wiping $1.51 million.",
       "tags": [
-        "stablecoins",
-        "were",
-        "supposed"
+        "ventuals",
+        "compensate",
+        "traders"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -64,15 +64,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8afc7f978939ba1a97eeac21c6069c26f857d09e",
-      "score": 23
+      "dedupeFingerprint": "ee4d3847ff9c4d8f3f81708880b55c1ba76e4b47",
+      "score": 22
     },
     {
       "id": "https://www.coindesk.com/business/2026/05/28/toddlers-learn-by-falling-why-defi-s-usd20-billion-tvl-drop-is-just-a-market-stress-test",
@@ -99,28 +99,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "0bc48d46881e98757c8f39dd799cc25ef992e07b",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://ambcrypto.com/bifrost-returns-53000-dot-yield-from-polkadot-treasury-liquidity-loan",
-      "title": "Bifrost returns 53,000 DOT yield from Polkadot treasury liquidity loan",
-      "url": "https://ambcrypto.com/bifrost-returns-53000-dot-yield-from-polkadot-treasury-liquidity-loan",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-28T16:27:13.000Z",
-      "summary": "The proposal shows how Polkadot treasury capital was deployed into staking and liquidity infrastructure rather than remaining idle in treasury reserves.",
+      "id": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack",
+      "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
+      "url": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-29T08:19:42.000Z",
+      "summary": "The campaign targets crypto, DeFi, AI and security developers with fake tooling packages to steal wallets, SSH keys, GitHub tokens, cloud credentials and browser data.",
       "tags": [
-        "bifrost",
-        "returns",
-        "yield"
+        "solana",
+        "aptos",
+        "wallet"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -130,30 +130,30 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "6bfa05a6f90af926ac819f8e1d0ce4444efda677",
+      "dedupeFingerprint": "996eac72d7b22dca0760371f54392675941f6c8c",
       "score": 19
     },
     {
-      "id": "https://ambcrypto.com/sui-validator-outage-disrupts-mainnet-settlement",
-      "title": "Sui validator outage disrupts mainnet settlement",
-      "url": "https://ambcrypto.com/sui-validator-outage-disrupts-mainnet-settlement",
+      "id": "https://ambcrypto.com/from-mockery-to-monopoly-how-wall-street-quietly-took-over-crypto",
+      "title": "From mockery to monopoly: How Wall Street quietly took over crypto",
+      "url": "https://ambcrypto.com/from-mockery-to-monopoly-how-wall-street-quietly-took-over-crypto",
       "source": "AMB Crypto",
-      "publishedAt": "2026-05-28T15:32:04.000Z",
-      "summary": "Explorer timestamps and Sui’s status page suggested the outage primarily affected validator settlement activity.",
+      "publishedAt": "2026-05-29T06:00:30.000Z",
+      "summary": "Crypto’s anti-bank vision increasingly collides with institutional control over blockchain infrastructure and liquidity.",
       "tags": [
-        "validator",
-        "outage",
-        "disrupts"
+        "from",
+        "mockery",
+        "monopoly"
       ],
       "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9e1e15383c7d77dbc2e23e5dc82f487dd0cc091e",
-      "score": 19
+      "dedupeFingerprint": "aafc29e463dde60a3fcd3b17d1097415c8ff7d68",
+      "score": 14
     }
   ]
 }

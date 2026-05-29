@@ -1,21 +1,21 @@
 {
-  "date": "2026-05-28",
-  "generated_at_utc": "2026-05-28T21:06:21.617Z",
-  "ctxMarket": "Attention is focused on large SOL movements from Pump.fun and the network’s resilience amid price pressure. Institutional and mainstream adoption stories are also drawing interest, especially around tokenized assets and stablecoins.",
-  "ctxTalking": "• Pump.fun’s 4.2M SOL deposit to Kraken and its impact on SOL support levels\n• Expansion of tokenized securities and stablecoins on Solana, including launches by SoFi and Cash App\n• Growth in sports industry applications and record-high Solana activity despite recent price drops",
-  "ctxMatters": "Large token transfers can influence liquidity and sentiment around SOL. New tokenized assets and stablecoin integrations signal deeper institutional and retail engagement with Solana infrastructure. Continued growth in application activity and new verticals like sports suggest ongoing ecosystem development, even in volatile markets.",
-  "ctxSignal": "Signal: Major asset flows, stablecoin launches, and institutional infrastructure expansions on Solana\nNoise: Short-term price speculation not tied to fundamental network activity",
-  "ctxGlossary": "Stablecoin — A cryptocurrency pegged to a stable asset, like the US dollar\nTokenized Security — A traditional asset (like gold or stocks) represented as a blockchain token\nLiquidity Pool — A smart contract holding funds to enable trading without traditional order books",
+  "date": "2026-05-29",
+  "generated_at_utc": "2026-05-29T10:43:47.134Z",
+  "ctxMarket": "Attention is on security risks after a targeted attack on Solana and other wallet ecosystems, as well as notable shifts in open interest and price for SOL. Despite recent price declines, Solana’s on-chain activity and integration with major fintech platforms remain in focus.",
+  "ctxTalking": "• A TrapDoor package attack targeting Solana, Sui, and Aptos wallet data and developer credentials\n• A 30% drop in Solana futures open interest amid broader altcoin weakness\n• Expansion of stablecoin support on Solana by Cash App and SoFi",
+  "ctxMatters": "Security incidents highlight ongoing risks for developers and users in the Solana ecosystem. Declining open interest and price shifts may affect liquidity and sentiment, while stablecoin integrations by major fintechs signal growing mainstream infrastructure on Solana. High application revenue and sports industry activity suggest continued network usage despite market volatility.",
+  "ctxSignal": "Signal: Targeted security threats and major fintech adoption of Solana stablecoins.\nNoise: Speculation around specific price targets for SOL without clear catalysts.",
+  "ctxGlossary": "Open Interest — The total value of outstanding derivative contracts, such as futures, that have not been settled.\nStablecoin — A cryptocurrency pegged to a stable asset, like the US dollar.",
   "readMore": [
     {
-      "title": "Solana",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-why-pump-funs-4-2m-sol-move-could-threaten-key-support"
+      "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack"
     },
     {
-      "title": "Orca, Streamex roll out secondary trading infrastructure for tokenized securities",
+      "title": "Solana open interest drops 30% as altcoins slump",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/orca-and-streamex-launch-secondary-trading-infrastructure-for-tokenized-securities"
+      "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play"
     },
     {
       "title": "Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes",

@@ -1,16 +1,25 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "RISK",
+      "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
+      "category": "RISK",
+      "source": "CoinDesk",
+      "date": "2026-05-29",
+      "url": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack",
+      "whyYouShouldCare": "The TrapDoor package attack on Solana, Sui, and Aptos wallets raises concerns about security vulnerabilities, potentially impacting user trust and ecosystem stability."
+    },
+    {
       "type": "APPS",
-      "title": "Solana: Why Pump.fun’s 4.2M SOL move could threaten KEY support",
+      "title": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?",
       "category": "APPS",
-      "source": "AMB Crypto",
+      "source": "Cointelegraph",
       "date": "2026-05-28",
-      "url": "https://ambcrypto.com/solana-why-pump-funs-4-2m-sol-move-could-threaten-key-support",
-      "whyYouShouldCare": "Pump.fun's significant SOL transaction may impact market sentiment and liquidity, potentially testing key support levels for Solana."
+      "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play",
+      "whyYouShouldCare": "A 30% drop in Solana's open interest signals reduced market confidence, which could affect liquidity and price dynamics for SOL as altcoins struggle."
     },
     {
       "type": "MARKET",
@@ -19,16 +28,7 @@
       "source": "Decrypt",
       "date": "2026-05-27",
       "url": "https://decrypt.co/369187/sofi-launches-sofiusd-stablecoin-ethereum-solana",
-      "whyYouShouldCare": "The introduction of SoFiUSD on Solana enhances the ecosystem's stablecoin offerings, potentially increasing usage and liquidity within the network."
-    },
-    {
-      "type": "INFRA",
-      "title": "Orca, Streamex roll out secondary trading infrastructure for tokenized securities",
-      "category": "INFRA",
-      "source": "Cointelegraph",
-      "date": "2026-05-27",
-      "url": "https://cointelegraph.com/news/orca-and-streamex-launch-secondary-trading-infrastructure-for-tokenized-securities",
-      "whyYouShouldCare": "Orca and Streamex's new trading infrastructure for tokenized securities could boost Solana's appeal for institutional investors, enhancing overall ecosystem activity."
+      "whyYouShouldCare": "SoFi's launch of the SoFiUSD stablecoin on Solana enhances the ecosystem's utility and could attract more users and liquidity to the platform."
     }
   ]
 }
