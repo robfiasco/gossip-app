@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-05-29T21:06:04.245Z",
+    "generatedAt": "2026-05-30T09:13:33.567Z",
     "totalCandidates": 109,
-    "solanaCandidates": 21,
+    "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "639799afe150bfb3294ccdfdfe6984d54cb52651",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://ambcrypto.com/jamie-dimon-says-jpmorgan-will-fight-clarity-act-stablecoin-provisions",
@@ -66,28 +66,28 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "c7dc98263764257c131e1f21ce6c2c4c6574e409",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://ambcrypto.com/sui-faces-renewed-network-stall-hours-after-validator-coordinated-recovery",
-      "title": "Sui faces renewed network stall hours after validator-coordinated recovery",
-      "url": "https://ambcrypto.com/sui-faces-renewed-network-stall-hours-after-validator-coordinated-recovery",
+      "id": "https://ambcrypto.com/jitos-crash-wipes-out-gains-13-27-drop-raises-jtos-correction-fears",
+      "title": "Jito’s crash wipes out gains – 13.27% drop raises JTO’s correction fears",
+      "url": "https://ambcrypto.com/jitos-crash-wipes-out-gains-13-27-drop-raises-jtos-correction-fears",
       "source": "AMB Crypto",
-      "publishedAt": "2026-05-29T13:17:34.000Z",
-      "summary": "The network resumed only after more than two-thirds of validator stake upgraded to a fix addressing a crash bug in Sui's 1.72 release.",
+      "publishedAt": "2026-05-30T00:00:58.000Z",
+      "summary": "JTO fell 13% as leverage exited the market and support faced pressure.",
       "tags": [
-        "faces",
-        "renewed",
-        "network"
+        "jito",
+        "crash",
+        "wipes"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -97,15 +97,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "569d376334e2a254c7405183d6f32641fd2f9a43",
-      "score": 19
+      "dedupeFingerprint": "9cc4f7204178508a59a810521335eb599871b313",
+      "score": 16
     },
     {
       "id": "https://www.theblock.co/post/403029/wintermute-extends-trading-infrastructure-into-prediction-markets",
@@ -132,28 +132,28 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "8ce78ad58bce95f30405e7b34a11cabed4560bb0",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "https://cryptoslate.com/trump-allies-flood-the-zone-as-clarity-act-heads-for-senate-showdown",
-      "title": "Trump’s crypto push hits the Senate vote math behind CLARITY Act’s July 4 target",
-      "url": "https://cryptoslate.com/trump-allies-flood-the-zone-as-clarity-act-heads-for-senate-showdown",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-29T12:55:17.000Z",
-      "summary": "Senate Banking cleared the CLARITY Act 15-9 on May 14, and within two weeks, President Donald Trump posted on Truth Social pledging to codify a “future-proof” digital asset market that haters could not undo, calling the US the “crypto capital of the world.” Crypto allies are using the timing to pres",
+      "id": "https://decrypt.co/369497/nyse-parent-isnt-freaked-out-hyperliquid-learning-crypto-perps",
+      "title": "NYSE Parent Isn't 'Freaked Out' by Hyperliquid—It's Learning From the Crypto Perps Giant",
+      "url": "https://decrypt.co/369497/nyse-parent-isnt-freaked-out-hyperliquid-learning-crypto-perps",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-29T18:14:59.000Z",
+      "summary": "Intercontinental Exchange CEO Jeffrey Sprecher said his company and Hyperliquid are learning from each other as crypto perps gain ground.",
       "tags": [
-        "trump",
-        "crypto",
-        "push"
+        "nyse",
+        "parent",
+        "freaked"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
+        "recencyScore": 9,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "03355d7310314d500ae3db2ad6c431fa8317b861",
-      "score": 17
+      "dedupeFingerprint": "fb6969785dbc0b012b01456798d9730253d05e55",
+      "score": 20
     }
   ]
 }
