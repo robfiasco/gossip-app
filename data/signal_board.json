@@ -1,17 +1,12 @@
 {
   "date": "2026-05-30",
-  "generated_at_utc": "2026-05-30T09:13:40.399Z",
-  "ctxMarket": "Attention is on sharp corrections across Solana ecosystem tokens, with JTO dropping over 13% and Solana futures open interest down 30% in May. Despite price declines, Solana’s on-chain activity and application revenue remain strong.",
-  "ctxTalking": "• Jito’s significant price drop and concerns about further corrections in JTO\n• A targeted TrapDoor malware campaign stealing wallet and credential data from Solana, Sui, and Aptos developers\n• New sports industry integrations on Solana, including fantasy, prediction markets, and fan tokens",
-  "ctxMatters": "Recent token volatility may impact confidence and liquidity for users and builders. Security threats targeting developer tools highlight ongoing risks for wallet and credential safety. Continued growth in application revenue and new industry integrations suggest persistent developer and user engagement on Solana.",
-  "ctxSignal": "Signal: Sustained high Solana activity and revenue despite market downturns; ongoing security threats to developer infrastructure.\nNoise: Speculation around specific price targets for SOL without clear catalysts.",
-  "ctxGlossary": "Open Interest — The total value of outstanding futures contracts not yet settled.\nTrapDoor — A malware campaign targeting developer credentials and wallets via fake software packages.",
+  "generated_at_utc": "2026-05-30T20:07:35.786Z",
+  "ctxMarket": "Attention is on Solana’s sharp 30% drop in futures open interest and price weakness, with speculation about further declines. Despite this, Solana’s on-chain activity and application revenue remain at record highs.",
+  "ctxTalking": "• TrapDoor package attack targeting Solana, Sui, and Aptos wallet data and developer credentials\n• Solana futures open interest dropping 30% and price nearing new lows\n• Expansion of sports-related projects on Solana, including fantasy, prediction markets, and Chiliz Fan Tokens",
+  "ctxMatters": "Security risks from the TrapDoor attack could impact developer trust and user safety across Solana and similar networks. The drop in open interest and price signals shifting market sentiment, but sustained high application revenue and activity highlight continued network usage. The launch of sports betting and fan tokens positions Solana for growth in the $400B+ sports industry.",
+  "ctxSignal": "Signal: Security threats targeting Solana wallets and developer tools; strong sports sector expansion; stable application revenue despite market drops.\nNoise: Price speculation about SOL reaching $68 without clear supporting fundamentals.",
+  "ctxGlossary": "TrapDoor — A malicious package campaign stealing crypto wallets and developer credentials.\nOpen Interest — The total value of outstanding futures contracts in the market.",
   "readMore": [
-    {
-      "title": "Jito’s crash wipes out gains – 13.27% drop raises JTO’s correction fears",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/jitos-crash-wipes-out-gains-13-27-drop-raises-jtos-correction-fears"
-    },
     {
       "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
       "source": "CoinDesk",
@@ -21,6 +16,11 @@
       "title": "Solana open interest drops 30% as altcoins slump",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play"
+    },
+    {
+      "title": "Building for the $400B+ Sports Industry on Solana",
+      "source": "Solana News",
+      "url": "https://solana.com/news/chiliz-sports-industry-on-solana"
     }
   ]
 }

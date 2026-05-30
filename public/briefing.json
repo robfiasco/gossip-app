@@ -4,22 +4,13 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "APPS",
-      "title": "Jito’s crash wipes out gains – 13.27% drop raises JTO’s correction fears",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-05-30",
-      "url": "https://ambcrypto.com/jitos-crash-wipes-out-gains-13-27-drop-raises-jtos-correction-fears",
-      "whyYouShouldCare": "Jito's significant drop raises concerns about the stability of JTO and could impact investor confidence in Solana's ecosystem."
-    },
-    {
       "type": "RISK",
       "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
       "category": "RISK",
       "source": "CoinDesk",
       "date": "2026-05-29",
       "url": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack",
-      "whyYouShouldCare": "The TrapDoor package attack targeting Solana wallets highlights vulnerabilities in the network, potentially affecting user trust and liquidity."
+      "whyYouShouldCare": "The TrapDoor package attack targeting Solana and other wallets raises concerns about security vulnerabilities, which could impact user trust and ecosystem participation."
     },
     {
       "type": "APPS",
@@ -28,7 +19,16 @@
       "source": "Cointelegraph",
       "date": "2026-05-28",
       "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play",
-      "whyYouShouldCare": "The 30% drop in Solana's open interest signals reduced market activity, which could lead to further price declines and affect SOL's positioning."
+      "whyYouShouldCare": "A 30% drop in Solana's open interest signals reduced market confidence, potentially affecting liquidity and price stability as traders reassess their positions."
+    },
+    {
+      "type": "APPS",
+      "title": "Crypto champion Trump may be jeopardizing the industry’s landmark legislation",
+      "category": "APPS",
+      "source": "The Block",
+      "date": "2026-05-30",
+      "url": "https://www.theblock.co/post/403083/crypto-champion-trump-may-be-jeopardizing-the-industrys-landmark-legislation",
+      "whyYouShouldCare": "Trump's influence on crypto legislation could create regulatory uncertainty, impacting the broader market dynamics and Solana's positioning within the ecosystem."
     }
   ]
 }
