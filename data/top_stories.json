@@ -1,46 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-05-31T09:46:30.621Z",
-    "totalCandidates": 108,
-    "solanaCandidates": 12,
+    "generatedAt": "2026-05-31T20:05:35.269Z",
+    "totalCandidates": 98,
+    "solanaCandidates": 15,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://ambcrypto.com/solana-eyes-64-8k-daily-sol-burn-is-hyperliquids-rise-behind-it",
-      "title": "Solana eyes 64.8K daily SOL burn – Is Hyperliquid’s rise behind it?",
-      "url": "https://ambcrypto.com/solana-eyes-64-8k-daily-sol-burn-is-hyperliquids-rise-behind-it",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-05-31T09:00:36.000Z",
-      "summary": "Competitive pressure reignites structural concerns across Solana’s supply dyamics and inflation narrative.",
-      "tags": [
-        "solana",
-        "eyes",
-        "daily"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 18,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "b70c5e33e2219b342382140569a2474bc17dc71a",
-      "score": 29
-    },
     {
       "id": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
       "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
@@ -66,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e39f16d9d5cda87c4300a977bfb653c0a19b6803",
-      "score": 19
+      "score": 18
     },
     {
       "id": "https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate",
@@ -99,25 +66,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "639799afe150bfb3294ccdfdfe6984d54cb52651",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "https://decrypt.co/369497/nyse-parent-isnt-freaked-out-hyperliquid-learning-crypto-perps",
-      "title": "NYSE Parent Isn't 'Freaked Out' by Hyperliquid—It's Learning From the Crypto Perps Giant",
-      "url": "https://decrypt.co/369497/nyse-parent-isnt-freaked-out-hyperliquid-learning-crypto-perps",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-29T18:14:59.000Z",
-      "summary": "Intercontinental Exchange CEO Jeffrey Sprecher said his company and Hyperliquid are learning from each other as crypto perps gain ground.",
+      "id": "https://www.theblock.co/post/402991/ventuals-to-compensate-traders-after-pre-ipo-spacex-perps-plunge-45-on-hyperliquid",
+      "title": "Ventuals to compensate traders after pre-IPO SpaceX perps plunge 45% on Hyperliquid",
+      "url": "https://www.theblock.co/post/402991/ventuals-to-compensate-traders-after-pre-ipo-spacex-perps-plunge-45-on-hyperliquid",
+      "source": "The Block",
+      "publishedAt": "2026-05-29T09:12:53.000Z",
+      "summary": "Ventuals to compensate traders after faulty oracle data sent SPACEX perps down 45% on Hyperliquid, wiping $1.51 million.",
       "tags": [
-        "nyse",
-        "parent",
-        "freaked"
+        "ventuals",
+        "compensate",
+        "traders"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
@@ -132,12 +99,12 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 3,
+        "recencyScore": 6,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "fb6969785dbc0b012b01456798d9730253d05e55",
+      "dedupeFingerprint": "ee4d3847ff9c4d8f3f81708880b55c1ba76e4b47",
       "score": 18
     },
     {
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "62e951365108a0513ef557c420bb1a1b7f8751d3",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "https://ambcrypto.com/why-ethena-traders-are-watching-0-079-before-a-23-6m-ena-unlock",
+      "title": "Why Ethena traders are watching $0.079 before a $23.6M ENA unlock",
+      "url": "https://ambcrypto.com/why-ethena-traders-are-watching-0-079-before-a-23-6m-ena-unlock",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-31T17:00:05.000Z",
+      "summary": "ENA rebounds from support as traders weigh Binance deposits and a major token unlock.",
+      "tags": [
+        "ethena",
+        "traders",
+        "watching"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 2,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "416f6cdf7770f2478f78b774247e0687583e2b21",
+      "score": 13
     }
   ]
 }

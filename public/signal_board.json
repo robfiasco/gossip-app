@@ -1,11 +1,11 @@
 {
   "date": "2026-05-31",
-  "generated_at_utc": "2026-05-31T09:46:37.264Z",
-  "ctxMarket": "Attention is on Solana’s supply dynamics, with renewed debate over inflation and token burns. Activity on the network remains high, even as SOL’s price saw a notable Q1 decline.",
-  "ctxTalking": "• Structural concerns over Solana’s supply and inflation, highlighted by a potential 64.8K daily SOL burn\n• Security risks from the TrapDoor package attack targeting wallet and developer credentials\n• Expansion of sports-related applications, including fantasy, prediction markets, and fan tokens",
-  "ctxMatters": "Ongoing supply debates could influence perceptions of Solana’s long-term stability.  \nSecurity incidents like TrapDoor highlight risks for developers and wallet users.  \nGrowth in sports applications signals Solana’s push into mainstream entertainment sectors.",
-  "ctxSignal": "Signal: Sustained high network activity and stable application revenue despite market volatility.\nNoise: Speculation linking Hyperliquid’s rise directly to Solana’s burn mechanics without clear evidence.",
-  "ctxGlossary": "Token Burn — Permanent removal of tokens from circulation to reduce supply  \nTrapDoor Attack — A campaign using fake software packages to steal digital credentials",
+  "generated_at_utc": "2026-05-31T20:05:41.875Z",
+  "ctxMarket": "Attention is on Solana’s supply dynamics as daily SOL burn rates approach 64.8K, with some linking this to competitive pressures from platforms like Hyperliquid. Despite a 33% Q1 price drop, Solana’s on-chain activity and application revenue remain at record highs.",
+  "ctxTalking": "• Concerns over Solana’s inflation and supply structure amid rising burn rates\n• Growth of sports-related applications, including fantasy, prediction markets, and Fan Tokens, on Solana\n• Sustained high application revenue and user activity despite recent price declines",
+  "ctxMatters": "Shifts in burn rates and supply narratives could influence long-term perceptions of Solana’s economic model.  \nExpansion into the sports sector signals new user segments and potential for increased network usage.  \nStable application revenue highlights resilience in Solana’s ecosystem, regardless of short-term price movements.",
+  "ctxSignal": "Signal: Record-high activity and stable revenue point to robust underlying demand for Solana applications.\nNoise: Speculation that Hyperliquid alone is driving SOL burn lacks direct evidence.",
+  "ctxGlossary": "SOL burn — Permanent removal of SOL tokens from circulation, often to manage supply.\nFan Token — Digital asset representing fan engagement or privileges, often linked to sports teams.",
   "readMore": [
     {
       "title": "Solana eyes 64.8K daily SOL burn – Is Hyperliquid’s rise behind it?",
@@ -13,14 +13,14 @@
       "url": "https://ambcrypto.com/solana-eyes-64-8k-daily-sol-burn-is-hyperliquids-rise-behind-it"
     },
     {
-      "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack"
-    },
-    {
       "title": "Building for the $400B+ Sports Industry on Solana",
       "source": "Solana News",
       "url": "https://solana.com/news/chiliz-sports-industry-on-solana"
+    },
+    {
+      "title": "Report",
+      "source": "CryptoPotato",
+      "url": "https://cryptopotato.com/report-solana-activity-hits-record-high-despite-sols-33-q1-drop"
     }
   ]
 }
