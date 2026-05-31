@@ -1,34 +1,34 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "APPS",
+      "title": "Solana eyes 64.8K daily SOL burn – Is Hyperliquid’s rise behind it?",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-05-31",
+      "url": "https://ambcrypto.com/solana-eyes-64-8k-daily-sol-burn-is-hyperliquids-rise-behind-it",
+      "whyYouShouldCare": "A significant daily SOL burn could enhance scarcity, potentially increasing SOL's value as Hyperliquid gains traction within the Solana ecosystem."
+    },
+    {
       "type": "RISK",
-      "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
+      "title": "Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit",
       "category": "RISK",
-      "source": "CoinDesk",
-      "date": "2026-05-29",
-      "url": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack",
-      "whyYouShouldCare": "The TrapDoor package attack targeting Solana and other wallets raises concerns about security vulnerabilities, which could impact user trust and ecosystem participation."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana open interest drops 30% as altcoins slump: Is $68 SOL next?",
-      "category": "APPS",
       "source": "Cointelegraph",
-      "date": "2026-05-28",
-      "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play",
-      "whyYouShouldCare": "A 30% drop in Solana's open interest signals reduced market confidence, potentially affecting liquidity and price stability as traders reassess their positions."
+      "date": "2026-05-31",
+      "url": "https://cointelegraph.com/news/cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit",
+      "whyYouShouldCare": "The Gravity Bridge exploit raises concerns about cross-chain security, which may impact user confidence in similar bridges within the Solana ecosystem."
     },
     {
       "type": "APPS",
-      "title": "Crypto champion Trump may be jeopardizing the industry’s landmark legislation",
+      "title": "ONDO nears $0.34 support after $2.13mln whale transfer – Can bulls defend it?",
       "category": "APPS",
-      "source": "The Block",
-      "date": "2026-05-30",
-      "url": "https://www.theblock.co/post/403083/crypto-champion-trump-may-be-jeopardizing-the-industrys-landmark-legislation",
-      "whyYouShouldCare": "Trump's influence on crypto legislation could create regulatory uncertainty, impacting the broader market dynamics and Solana's positioning within the ecosystem."
+      "source": "AMB Crypto",
+      "date": "2026-05-31",
+      "url": "https://ambcrypto.com/ondo-nears-0-34-support-after-2-13mln-whale-transfer-can-bulls-defend-it",
+      "whyYouShouldCare": "Whale activity near key support levels can signal market sentiment, influencing liquidity and price stability for ONDO and potentially affecting related assets."
     }
   ]
 }

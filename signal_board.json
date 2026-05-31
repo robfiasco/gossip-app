@@ -1,21 +1,21 @@
 {
-  "date": "2026-05-30",
-  "generated_at_utc": "2026-05-30T20:07:35.786Z",
-  "ctxMarket": "Attention is on Solana’s sharp 30% drop in futures open interest and price weakness, with speculation about further declines. Despite this, Solana’s on-chain activity and application revenue remain at record highs.",
-  "ctxTalking": "• TrapDoor package attack targeting Solana, Sui, and Aptos wallet data and developer credentials\n• Solana futures open interest dropping 30% and price nearing new lows\n• Expansion of sports-related projects on Solana, including fantasy, prediction markets, and Chiliz Fan Tokens",
-  "ctxMatters": "Security risks from the TrapDoor attack could impact developer trust and user safety across Solana and similar networks. The drop in open interest and price signals shifting market sentiment, but sustained high application revenue and activity highlight continued network usage. The launch of sports betting and fan tokens positions Solana for growth in the $400B+ sports industry.",
-  "ctxSignal": "Signal: Security threats targeting Solana wallets and developer tools; strong sports sector expansion; stable application revenue despite market drops.\nNoise: Price speculation about SOL reaching $68 without clear supporting fundamentals.",
-  "ctxGlossary": "TrapDoor — A malicious package campaign stealing crypto wallets and developer credentials.\nOpen Interest — The total value of outstanding futures contracts in the market.",
+  "date": "2026-05-31",
+  "generated_at_utc": "2026-05-31T09:46:37.264Z",
+  "ctxMarket": "Attention is on Solana’s supply dynamics, with renewed debate over inflation and token burns. Activity on the network remains high, even as SOL’s price saw a notable Q1 decline.",
+  "ctxTalking": "• Structural concerns over Solana’s supply and inflation, highlighted by a potential 64.8K daily SOL burn\n• Security risks from the TrapDoor package attack targeting wallet and developer credentials\n• Expansion of sports-related applications, including fantasy, prediction markets, and fan tokens",
+  "ctxMatters": "Ongoing supply debates could influence perceptions of Solana’s long-term stability.  \nSecurity incidents like TrapDoor highlight risks for developers and wallet users.  \nGrowth in sports applications signals Solana’s push into mainstream entertainment sectors.",
+  "ctxSignal": "Signal: Sustained high network activity and stable application revenue despite market volatility.\nNoise: Speculation linking Hyperliquid’s rise directly to Solana’s burn mechanics without clear evidence.",
+  "ctxGlossary": "Token Burn — Permanent removal of tokens from circulation to reduce supply  \nTrapDoor Attack — A campaign using fake software packages to steal digital credentials",
   "readMore": [
+    {
+      "title": "Solana eyes 64.8K daily SOL burn – Is Hyperliquid’s rise behind it?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-eyes-64-8k-daily-sol-burn-is-hyperliquids-rise-behind-it"
+    },
     {
       "title": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack"
-    },
-    {
-      "title": "Solana open interest drops 30% as altcoins slump",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/solana-open-interest-drops-30-as-68-retest-comes-back-into-play"
     },
     {
       "title": "Building for the $400B+ Sports Industry on Solana",

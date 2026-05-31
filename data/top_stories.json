@@ -1,13 +1,79 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T20:07:26.669Z",
+    "generatedAt": "2026-05-31T09:46:30.621Z",
     "totalCandidates": 108,
-    "solanaCandidates": 14,
+    "solanaCandidates": 12,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://ambcrypto.com/solana-eyes-64-8k-daily-sol-burn-is-hyperliquids-rise-behind-it",
+      "title": "Solana eyes 64.8K daily SOL burn – Is Hyperliquid’s rise behind it?",
+      "url": "https://ambcrypto.com/solana-eyes-64-8k-daily-sol-burn-is-hyperliquids-rise-behind-it",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-05-31T09:00:36.000Z",
+      "summary": "Competitive pressure reignites structural concerns across Solana’s supply dyamics and inflation narrative.",
+      "tags": [
+        "solana",
+        "eyes",
+        "daily"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 18,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b70c5e33e2219b342382140569a2474bc17dc71a",
+      "score": 29
+    },
+    {
+      "id": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
+      "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
+      "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
+      "source": "CoinDesk",
+      "publishedAt": "2026-05-31T02:30:00.000Z",
+      "summary": "A draft XRPL amendment notes that flash loan attacks are \"structurally impossible\" on the network because of how its transactions are built, an architectural quirk that has spared the chain from the exploit class that has cost Ethereum DeFi billions.",
+      "tags": [
+        "ledger",
+        "proposal",
+        "blocks"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e39f16d9d5cda87c4300a977bfb653c0a19b6803",
+      "score": 19
+    },
     {
       "id": "https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate",
       "title": "‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate",
@@ -33,25 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "639799afe150bfb3294ccdfdfe6984d54cb52651",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "https://www.theblock.co/post/402991/ventuals-to-compensate-traders-after-pre-ipo-spacex-perps-plunge-45-on-hyperliquid",
-      "title": "Ventuals to compensate traders after pre-IPO SpaceX perps plunge 45% on Hyperliquid",
-      "url": "https://www.theblock.co/post/402991/ventuals-to-compensate-traders-after-pre-ipo-spacex-perps-plunge-45-on-hyperliquid",
-      "source": "The Block",
-      "publishedAt": "2026-05-29T09:12:53.000Z",
-      "summary": "Ventuals to compensate traders after faulty oracle data sent SPACEX perps down 45% on Hyperliquid, wiping $1.51 million.",
+      "id": "https://decrypt.co/369497/nyse-parent-isnt-freaked-out-hyperliquid-learning-crypto-perps",
+      "title": "NYSE Parent Isn't 'Freaked Out' by Hyperliquid—It's Learning From the Crypto Perps Giant",
+      "url": "https://decrypt.co/369497/nyse-parent-isnt-freaked-out-hyperliquid-learning-crypto-perps",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-29T18:14:59.000Z",
+      "summary": "Intercontinental Exchange CEO Jeffrey Sprecher said his company and Hyperliquid are learning from each other as crypto perps gain ground.",
       "tags": [
-        "ventuals",
-        "compensate",
-        "traders"
+        "nyse",
+        "parent",
+        "freaked"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
@@ -66,28 +132,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
+        "recencyScore": 7,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ee4d3847ff9c4d8f3f81708880b55c1ba76e4b47",
-      "score": 20
+      "dedupeFingerprint": "fb6969785dbc0b012b01456798d9730253d05e55",
+      "score": 18
     },
     {
-      "id": "https://ambcrypto.com/bitcoin-faces-70k-test-as-hyperliquids-stablecoin-supply-rises-8-capital-rotation",
-      "title": "Bitcoin faces $70K test as Hyperliquid’s stablecoin supply rises 8% – Capital rotation?",
-      "url": "https://ambcrypto.com/bitcoin-faces-70k-test-as-hyperliquids-stablecoin-supply-rises-8-capital-rotation",
+      "id": "https://ambcrypto.com/sui-faces-outages-key-support-test-and-23-78mln-unlock-trouble-ahead",
+      "title": "Sui faces outages, KEY support test, and 23.78mln unlock – Trouble ahead?",
+      "url": "https://ambcrypto.com/sui-faces-outages-key-support-test-and-23-78mln-unlock-trouble-ahead",
       "source": "AMB Crypto",
-      "publishedAt": "2026-05-30T10:00:34.000Z",
-      "summary": "Bitcoin enters Extreme Fear with $2 billion+ stablecoin outflows and stronger HYPE inflows. Is liquidity rotation pointing to the next BTC move?",
+      "publishedAt": "2026-05-31T05:00:17.000Z",
+      "summary": "Sui's recent struggles extend beyond price as reliability concerns and fresh supply pressure reshape investor sentiment.",
       "tags": [
-        "bitcoin",
         "faces",
-        "test"
+        "outages",
+        "support"
       ],
       "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -104,74 +170,8 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "4f4ece47d6b7361b2529c53616409bd5f4ce86e4",
+      "dedupeFingerprint": "62e951365108a0513ef557c420bb1a1b7f8751d3",
       "score": 16
-    },
-    {
-      "id": "https://cryptoslate.com/crypto-walked-so-banks-could-run",
-      "title": "Crypto walked so banks could run",
-      "url": "https://cryptoslate.com/crypto-walked-so-banks-could-run",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-05-30T13:15:46.000Z",
-      "summary": "The following is a guest post and opinion from Ben Nadareski, Co-founder & CEO of Solstice . Institutions were never going to arrive in crypto the way crypto wanted them to. No stampede into governance tokens. No CFO proudly announcing that idle treasury had been rotated into volatile assets. No pen",
-      "tags": [
-        "crypto",
-        "walked",
-        "banks"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "bc5e7daed0abdebddc4b7414f99ad4a11e89804c",
-      "score": 15
-    },
-    {
-      "id": "https://www.theblock.co/post/403029/wintermute-extends-trading-infrastructure-into-prediction-markets",
-      "title": "Wintermute extends trading infrastructure into prediction markets",
-      "url": "https://www.theblock.co/post/403029/wintermute-extends-trading-infrastructure-into-prediction-markets",
-      "source": "The Block",
-      "publishedAt": "2026-05-29T14:07:28.000Z",
-      "summary": "Wintermute extends trading infrastructure into prediction markets as multibillion-dollar sector draws institutional liquidity providers.",
-      "tags": [
-        "wintermute",
-        "extends",
-        "trading"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "8ce78ad58bce95f30405e7b34a11cabed4560bb0",
-      "score": 15
     }
   ]
 }
