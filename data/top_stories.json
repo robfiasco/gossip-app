@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-06-01T12:33:53.814Z",
-    "totalCandidates": 97,
-    "solanaCandidates": 18,
+    "generatedAt": "2026-06-01T21:58:50.557Z",
+    "totalCandidates": 99,
+    "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://solana.com/news/build-onchain-perps",
+      "title": "Build Fully Onchain Perps on Solana",
+      "url": "https://solana.com/news/build-onchain-perps",
+      "source": "Solana News",
+      "publishedAt": "2026-06-01T17:00:00.000Z",
+      "summary": "Solana Foundation supports teams building onchain perps, other derivatives, and the applications around them.",
+      "tags": [
+        "build",
+        "fully",
+        "onchain"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 22,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "1e2c0b7dc4f691eccb326df747cdbc54249e2dfd",
+      "score": 37
+    },
     {
       "id": "https://www.coindesk.com/markets/2026/06/01/cardano-governance-vote-kills-summit-approves-smaller-token2049-plan",
       "title": "Cardano Summit 2026 canceled after community votes against Foundation funding proposal",
@@ -42,18 +75,18 @@
       "score": 25
     },
     {
-      "id": "https://cryptoslate.com/europe-is-actively-trying-to-stop-the-dollar-stablecoin-takeover",
-      "title": "Europe is actively trying to stop the dollar stablecoin takeover",
-      "url": "https://cryptoslate.com/europe-is-actively-trying-to-stop-the-dollar-stablecoin-takeover",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-01T11:05:45.000Z",
-      "summary": "Europeans conduct 38% of global stablecoin transactions, but euro-denominated tokens account for just 0.3% of the total stablecoin supply. The continent is among the world's most active users of stablecoins, and almost none of them are based on the euro. That gap was one of the main talking points o",
+      "id": "https://www.coindesk.com/policy/2026/06/01/japan-s-ruling-party-supports-crypto-etf-trading-yen-based-stablecoins",
+      "title": "Japan's ruling party supports crypto ETF trading, yen-based stablecoins",
+      "url": "https://www.coindesk.com/policy/2026/06/01/japan-s-ruling-party-supports-crypto-etf-trading-yen-based-stablecoins",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-01T13:38:04.000Z",
+      "summary": "Japan's ruling Liberal Democratic Party said the country should create a legal framework for trading crypto ETFs in a proposal to the finance minister.",
       "tags": [
-        "europe",
-        "actively",
-        "trying"
+        "japan",
+        "ruling",
+        "party"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -64,114 +97,81 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "96fe63fb494645975f0183f1b7a906d545736572",
+      "score": 22
+    },
+    {
+      "id": "https://decrypt.co/369622/sui-blames-trio-network-outages-gas-validator-bugs",
+      "title": "Sui Blames Last Week's Trio of Network Outages on Gas and Validator Bugs",
+      "url": "https://decrypt.co/369622/sui-blames-trio-network-outages-gas-validator-bugs",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-01T15:19:04.000Z",
+      "summary": "The Sui blockchain suffered three separate failures in 48 hours due to gas calculation bugs and validator synchronization issues.",
+      "tags": [
+        "blames",
+        "last",
+        "week"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5a7e9aaa0b646d71e90437d200ddccc6787a22ea",
+      "score": 21
+    },
+    {
+      "id": "https://cryptoslate.com/cardano-just-canceled-is-2026-summit-exposing-the-power-and-risk-of-its-governance-vetos",
+      "title": "Cardano just canceled is 2026 Summit – exposing the power and risk of its governance vetos",
+      "url": "https://cryptoslate.com/cardano-just-canceled-is-2026-summit-exposing-the-power-and-risk-of-its-governance-vetos",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-01T17:05:15.000Z",
+      "summary": "Cardano's 2026 Summit in Singapore is off after the network's treasury governance process failed to approve funding for it. The official event page now says the Summit will not take place on Oct. 5-6 as previously announced. The cause is governance: Cardano Foundation said treasury-funded initiative",
+      "tags": [
+        "cardano",
+        "just",
+        "canceled"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "98cc7a0ef185b050a5645d3a4df62dd758139f52",
-      "score": 23
-    },
-    {
-      "id": "https://www.theblock.co/post/403142/digital-euro-stablecoin-risks-ecb",
-      "title": "Digital euro is key to counter stablecoin risks, says ECB’s Schnabel",
-      "url": "https://www.theblock.co/post/403142/digital-euro-stablecoin-risks-ecb",
-      "source": "The Block",
-      "publishedAt": "2026-06-01T08:49:18.000Z",
-      "summary": "Isabel Schnabel, an ECB board member, said Monday that central banks should respond to stablecoin risks with strong regulation and CBDCs.",
-      "tags": [
-        "digital",
-        "euro",
-        "counter"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d46fe801c44becf18297fef625801650057c86b3",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/403135/coinbase-launches-indian-rupee-rails",
-      "title": "Coinbase launches Indian rupee rails with perps access in expansion push",
-      "url": "https://www.theblock.co/post/403135/coinbase-launches-indian-rupee-rails",
-      "source": "The Block",
-      "publishedAt": "2026-06-01T05:11:02.000Z",
-      "summary": "The Nasdaq-listed company said it has established INR order books to provide dedicated liquidity for users in the country.",
-      "tags": [
-        "coinbase",
-        "launches",
-        "indian"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "a20ffa8e11083c35e2d8d24c2e718a113d121d85",
-      "score": 22
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
-      "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
-      "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
-      "source": "CoinDesk",
-      "publishedAt": "2026-05-31T02:30:00.000Z",
-      "summary": "A draft XRPL amendment notes that flash loan attacks are \"structurally impossible\" on the network because of how its transactions are built, an architectural quirk that has spared the chain from the exploit class that has cost Ethereum DeFi billions.",
-      "tags": [
-        "ledger",
-        "proposal",
-        "blocks"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e39f16d9d5cda87c4300a977bfb653c0a19b6803",
-      "score": 17
+      "dedupeFingerprint": "55aea332e5e2b2a23be77d47eb506e1c470bb68b",
+      "score": 20
     }
   ]
 }
