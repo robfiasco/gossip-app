@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-06-02T11:15:55.318Z",
-    "totalCandidates": 101,
-    "solanaCandidates": 14,
+    "generatedAt": "2026-06-02T21:45:44.081Z",
+    "totalCandidates": 107,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/markets/2026/06/01/cardano-governance-vote-kills-summit-approves-smaller-token2049-plan",
-      "title": "Cardano Summit 2026 canceled after community votes against Foundation funding proposal",
-      "url": "https://www.coindesk.com/markets/2026/06/01/cardano-governance-vote-kills-summit-approves-smaller-token2049-plan",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-01T10:46:51.000Z",
-      "summary": "The Cardano Foundation's flagship conference was scrapped after a funding proposal failed to secure the two-thirds support required under the blockchain's new governance system.",
+      "id": "https://solana.com/news/subscriptions-and-allowances",
+      "title": "Solana Now Has Native Subscriptions & Allowances",
+      "url": "https://solana.com/news/subscriptions-and-allowances",
+      "source": "Solana News",
+      "publishedAt": "2026-06-02T14:45:00.000Z",
+      "summary": "Recurring payments and delegated spending are now available as a shared onchain primitive, and teams are already building on it.",
       "tags": [
-        "cardano",
-        "summit",
-        "2026"
+        "solana",
+        "native",
+        "subscriptions"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -33,13 +33,112 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 10,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "161585641029e8582e4e52ce41dd69bcf00a4db1",
+      "score": 26
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/06/02/franklin-templeton-teams-up-with-moonpay-to-let-big-investors-swap-stablecoins-for-yields-24-7",
+      "title": "Franklin Templeton teams up with MoonPay to let big investors swap stablecoins for yields 24/7",
+      "url": "https://www.coindesk.com/business/2026/06/02/franklin-templeton-teams-up-with-moonpay-to-let-big-investors-swap-stablecoins-for-yields-24-7",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-02T13:30:00.000Z",
+      "summary": "The Wall Street giant is integrating its tech platform with MoonPay's infrastructure, allowing eligible institutions to seamlessly swap stablecoins for yield-generating tokenized funds without ever leaving the blockchain.",
+      "tags": [
+        "franklin",
+        "templeton",
+        "teams"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7eff5b76675f55a0c45158d396f65ae20584a5ff",
-      "score": 23
+      "dedupeFingerprint": "a7e34c59ebed083422d1e1156e39762a70334d29",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/403328/backpack-launches-securities-platform-blending-traditional-and-tokenized-stock-trading",
+      "title": "Backpack launches securities platform blending traditional and tokenized stock trading",
+      "url": "https://www.theblock.co/post/403328/backpack-launches-securities-platform-blending-traditional-and-tokenized-stock-trading",
+      "source": "The Block",
+      "publishedAt": "2026-06-02T13:05:02.000Z",
+      "summary": "Backpack Securities combines a U.S.-regulated brokerage for traditional equities ownership with a tokenization platform.",
+      "tags": [
+        "backpack",
+        "launches",
+        "securities"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5fcc7674acc3fba88ac8502b35b9a81e484f1ff6",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/06/02/ripple-s-dollar-stablecoin-expands-to-turkey-through-three-local-platforms",
+      "title": "Ripple’s dollar stablecoin expands to Turkey through three local platforms",
+      "url": "https://www.coindesk.com/markets/2026/06/02/ripple-s-dollar-stablecoin-expands-to-turkey-through-three-local-platforms",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-02T11:50:35.000Z",
+      "summary": "BiLira, Bitexen and Bitlo will make Ripple’s RLUSD stablecoin available to Turkish institutions.",
+      "tags": [
+        "ripple",
+        "dollar",
+        "stablecoin"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5700df672685831d56be9789d0f7b2c5941ab99f",
+      "score": 22
     },
     {
       "id": "https://www.theblock.co/post/403320/moneygram-debuts-mgusd-stablecoin-on-stellar-for-its-global-payments-network",
@@ -73,105 +172,6 @@
       },
       "dedupeFingerprint": "c02ae9b2d6b9a2e58f163d637d7ea9a6202fa9db",
       "score": 22
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/06/02/moneygram-launches-stablecoin-on-stellar-joining-rush-toward-digital-dollar-payments",
-      "title": "MoneyGram launches stablecoin on Stellar, joining rush toward digital dollar payments",
-      "url": "https://www.coindesk.com/business/2026/06/02/moneygram-launches-stablecoin-on-stellar-joining-rush-toward-digital-dollar-payments",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-02T09:00:00.000Z",
-      "summary": "MGUSD, issued by Stripe's Bridge, will power services across MoneyGram's global network as stablecoins gain traction in cross-border payments.",
-      "tags": [
-        "moneygram",
-        "launches",
-        "stablecoin"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "4cf96fbd16781d3bc63290812ecec4c6a1e75c90",
-      "score": 22
-    },
-    {
-      "id": "https://decrypt.co/369622/sui-blames-trio-network-outages-gas-validator-bugs",
-      "title": "Sui Blames Last Week's Trio of Network Outages on Gas and Validator Bugs",
-      "url": "https://decrypt.co/369622/sui-blames-trio-network-outages-gas-validator-bugs",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-01T15:19:04.000Z",
-      "summary": "The Sui blockchain suffered three separate failures in 48 hours due to gas calculation bugs and validator synchronization issues.",
-      "tags": [
-        "blames",
-        "last",
-        "week"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5a7e9aaa0b646d71e90437d200ddccc6787a22ea",
-      "score": 20
-    },
-    {
-      "id": "https://www.theblock.co/post/403231/ton-revives-gram-token-brand-telegram-ceo-durov-network-returning-roots",
-      "title": "TON revives Gram token brand as Telegram CEO Durov says network is ‘returning to roots’",
-      "url": "https://www.theblock.co/post/403231/ton-revives-gram-token-brand-telegram-ceo-durov-network-returning-roots",
-      "source": "The Block",
-      "publishedAt": "2026-06-01T18:32:32.000Z",
-      "summary": "The Gram rebrand follows network upgrades, fee cuts, and Telegram's push for a larger role in TON governance.",
-      "tags": [
-        "revives",
-        "gram",
-        "token"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "171559a48efe6c5fc6e97929bf0c119b6b548092",
-      "score": 16
     }
   ]
 }

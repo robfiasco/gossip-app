@@ -1,21 +1,26 @@
 {
   "date": "2026-06-02",
-  "generated_at_utc": "2026-06-02T11:16:02.592Z",
-  "ctxMarket": "Attention is focused on the rapid expansion of onchain derivatives and prediction markets, with new perpetual futures products and tokenized assets emerging on Solana. Institutional and retail interest is being drawn by developments in both financial and sports-related applications.",
-  "ctxTalking": "• Kalshi's move to certify perpetual futures for Solana and other altcoins in the U.S.\n• Solana Foundation's support for teams building onchain perpetuals and derivatives.\n• Growth of tokenized gold and sports industry applications on Solana.",
-  "ctxMatters": "New derivatives products could broaden participation and liquidity for Solana-based assets.  \nTokenized gold and sports markets highlight Solana’s push into real-world assets and mainstream entertainment.  \nThese trends may influence user demand, developer activity, and institutional engagement on the network.",
-  "ctxSignal": "Signal: Regulatory filings and foundation support point to a maturing onchain derivatives ecosystem.  \nNoise: Speculation about immediate market impact from these launches.",
-  "ctxGlossary": "Perpetual Futures — Derivative contracts with no expiry, allowing continuous trading.\nTokenized Gold — Digital tokens representing ownership of physical gold, tradable on blockchain.",
+  "generated_at_utc": "2026-06-02T21:46:18.386Z",
+  "ctxMarket": "Attention is focused on Solana’s expanding ecosystem, with new primitives for payments and a surge in tokenized asset platforms. The ‘Jito economy’ narrative is driving notable price movement for JTO, though bulls are facing resistance at $0.70.",
+  "ctxTalking": "• JTO’s 29% rise linked to growing interest in the ‘Jito economy’ and its use cases\n• Solana’s rollout of native subscriptions and allowances for onchain recurring payments\n• New platforms for tokenized assets, including stocks and gold, launching on Solana",
+  "ctxMatters": "Solana’s new payment primitives could streamline recurring transactions and delegated spending for users and developers. The arrival of tokenized stocks and gold points to broader financial applications on the network. Increased attention on perpetual futures and sports-related products signals further diversification of Solana’s onchain economy.",
+  "ctxSignal": "Signal: Adoption of native subscriptions, tokenized assets, and derivatives platforms on Solana.\nNoise: Short-term price speculation around JTO without clear long-term context.",
+  "ctxGlossary": "Jito economy — An ecosystem of apps and incentives built around the Jito protocol on Solana.\nTokenization — Converting real-world assets, like stocks or gold, into blockchain-based tokens.\nPerpetual futures — Derivative contracts with no expiration, allowing ongoing speculation on asset prices.",
   "readMore": [
     {
-      "title": "Kalshi Eyes Perpetual Futures for XRP, Solana, Dogecoin—And These Altcoins",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/369665/kalshi-eyes-perpetual-futures-xrp-solana-dogecoin-altcoins"
+      "title": "JTO up 29% as ‘Jito economy’ gains ground",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/jto-up-29-as-jito-economy-gains-ground-bulls-struggle-at-0-70"
     },
     {
-      "title": "Build Fully Onchain Perps on Solana",
+      "title": "Solana Now Has Native Subscriptions & Allowances",
       "source": "Solana News",
-      "url": "https://solana.com/news/build-onchain-perps"
+      "url": "https://solana.com/news/subscriptions-and-allowances"
+    },
+    {
+      "title": "Backpack launches securities platform blending traditional and tokenized stock trading",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/403328/backpack-launches-securities-platform-blending-traditional-and-tokenized-stock-trading"
     }
   ]
 }
