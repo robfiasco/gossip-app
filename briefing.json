@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
@@ -10,16 +10,7 @@
       "source": "Solana News",
       "date": "2026-06-01",
       "url": "https://solana.com/news/build-onchain-perps",
-      "whyYouShouldCare": "The introduction of fully on-chain perpetual contracts on Solana could enhance trading efficiency and attract more liquidity to the ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana crosses 200K tokenized stock holders – Here’s why the timing matters!",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-06-01",
-      "url": "https://ambcrypto.com/solana-crosses-200k-tokenized-stock-holders-heres-why-the-timing-matters",
-      "whyYouShouldCare": "Reaching over 200,000 tokenized stock holders indicates growing adoption and could bolster Solana's reputation as a viable platform for asset tokenization."
+      "whyYouShouldCare": "The introduction of fully on-chain perpetual contracts on Solana could enhance trading efficiency and liquidity, attracting more users to the ecosystem."
     },
     {
       "type": "APPS",
@@ -28,7 +19,16 @@
       "source": "Decrypt",
       "date": "2026-06-01",
       "url": "https://decrypt.co/369665/kalshi-eyes-perpetual-futures-xrp-solana-dogecoin-altcoins",
-      "whyYouShouldCare": "Kalshi's interest in launching perpetual futures for Solana alongside other altcoins could increase market participation and diversify trading options within the Solana ecosystem."
+      "whyYouShouldCare": "Kalshi's interest in perpetual futures for Solana signals growing institutional interest, which may increase market depth and trading volume for SOL."
+    },
+    {
+      "type": "APPS",
+      "title": "Veda brings the vault stack behind Kraken DeFi Earn to Privy’s 2,000-plus developer teams",
+      "category": "APPS",
+      "source": "The Block",
+      "date": "2026-06-02",
+      "url": "https://www.theblock.co/post/403277/veda-brings-the-vault-stack-behind-kraken-defi-earn-to-privys-2000-plus-developer-teams",
+      "whyYouShouldCare": "Veda's integration with Privy could streamline DeFi processes for developers on Solana, potentially boosting ecosystem innovation and user engagement."
     }
   ]
 }

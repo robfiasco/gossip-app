@@ -1,46 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-06-01T21:58:50.557Z",
-    "totalCandidates": 99,
-    "solanaCandidates": 19,
+    "generatedAt": "2026-06-02T11:15:55.318Z",
+    "totalCandidates": 101,
+    "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://solana.com/news/build-onchain-perps",
-      "title": "Build Fully Onchain Perps on Solana",
-      "url": "https://solana.com/news/build-onchain-perps",
-      "source": "Solana News",
-      "publishedAt": "2026-06-01T17:00:00.000Z",
-      "summary": "Solana Foundation supports teams building onchain perps, other derivatives, and the applications around them.",
-      "tags": [
-        "build",
-        "fully",
-        "onchain"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 22,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 5,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "1e2c0b7dc4f691eccb326df747cdbc54249e2dfd",
-      "score": 37
-    },
     {
       "id": "https://www.coindesk.com/markets/2026/06/01/cardano-governance-vote-kills-summit-approves-smaller-token2049-plan",
       "title": "Cardano Summit 2026 canceled after community votes against Foundation funding proposal",
@@ -66,25 +33,25 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "7eff5b76675f55a0c45158d396f65ae20584a5ff",
-      "score": 25
+      "score": 23
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/06/01/japan-s-ruling-party-supports-crypto-etf-trading-yen-based-stablecoins",
-      "title": "Japan's ruling party supports crypto ETF trading, yen-based stablecoins",
-      "url": "https://www.coindesk.com/policy/2026/06/01/japan-s-ruling-party-supports-crypto-etf-trading-yen-based-stablecoins",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-01T13:38:04.000Z",
-      "summary": "Japan's ruling Liberal Democratic Party said the country should create a legal framework for trading crypto ETFs in a proposal to the finance minister.",
+      "id": "https://www.theblock.co/post/403320/moneygram-debuts-mgusd-stablecoin-on-stellar-for-its-global-payments-network",
+      "title": "MoneyGram debuts MGUSD stablecoin on Stellar for its global payments network",
+      "url": "https://www.theblock.co/post/403320/moneygram-debuts-mgusd-stablecoin-on-stellar-for-its-global-payments-network",
+      "source": "The Block",
+      "publishedAt": "2026-06-02T10:49:35.000Z",
+      "summary": "MoneyGram launched MGUSD, a USD stablecoin on Stellar backed by Bridge and Fireblocks, targeting 60M+ customers for cross-border payments.",
       "tags": [
-        "japan",
-        "ruling",
-        "party"
+        "moneygram",
+        "debuts",
+        "mgusd"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -104,7 +71,40 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "96fe63fb494645975f0183f1b7a906d545736572",
+      "dedupeFingerprint": "c02ae9b2d6b9a2e58f163d637d7ea9a6202fa9db",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/06/02/moneygram-launches-stablecoin-on-stellar-joining-rush-toward-digital-dollar-payments",
+      "title": "MoneyGram launches stablecoin on Stellar, joining rush toward digital dollar payments",
+      "url": "https://www.coindesk.com/business/2026/06/02/moneygram-launches-stablecoin-on-stellar-joining-rush-toward-digital-dollar-payments",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-02T09:00:00.000Z",
+      "summary": "MGUSD, issued by Stripe's Bridge, will power services across MoneyGram's global network as stablecoins gain traction in cross-border payments.",
+      "tags": [
+        "moneygram",
+        "launches",
+        "stablecoin"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "4cf96fbd16781d3bc63290812ecec4c6a1e75c90",
       "score": 22
     },
     {
@@ -132,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5a7e9aaa0b646d71e90437d200ddccc6787a22ea",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://cryptoslate.com/cardano-just-canceled-is-2026-summit-exposing-the-power-and-risk-of-its-governance-vetos",
-      "title": "Cardano just canceled is 2026 Summit – exposing the power and risk of its governance vetos",
-      "url": "https://cryptoslate.com/cardano-just-canceled-is-2026-summit-exposing-the-power-and-risk-of-its-governance-vetos",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-01T17:05:15.000Z",
-      "summary": "Cardano's 2026 Summit in Singapore is off after the network's treasury governance process failed to approve funding for it. The official event page now says the Summit will not take place on Oct. 5-6 as previously announced. The cause is governance: Cardano Foundation said treasury-funded initiative",
+      "id": "https://www.theblock.co/post/403231/ton-revives-gram-token-brand-telegram-ceo-durov-network-returning-roots",
+      "title": "TON revives Gram token brand as Telegram CEO Durov says network is ‘returning to roots’",
+      "url": "https://www.theblock.co/post/403231/ton-revives-gram-token-brand-telegram-ceo-durov-network-returning-roots",
+      "source": "The Block",
+      "publishedAt": "2026-06-01T18:32:32.000Z",
+      "summary": "The Gram rebrand follows network upgrades, fee cuts, and Telegram's push for a larger role in TON governance.",
       "tags": [
-        "cardano",
-        "just",
-        "canceled"
+        "revives",
+        "gram",
+        "token"
       ],
-      "topicBucket": "market",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
+        "recencyScore": 9,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "55aea332e5e2b2a23be77d47eb506e1c470bb68b",
-      "score": 20
+      "dedupeFingerprint": "171559a48efe6c5fc6e97929bf0c119b6b548092",
+      "score": 16
     }
   ]
 }
