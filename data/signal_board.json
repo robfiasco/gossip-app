@@ -1,21 +1,26 @@
 {
   "date": "2026-06-03",
-  "generated_at_utc": "2026-06-03T11:55:04.996Z",
-  "ctxMarket": "Attention is on Solana’s new onchain primitives for subscriptions and allowances, as well as growing momentum around derivatives and tokenized assets. Multiple teams are leveraging these features, with institutional and retail interest in new product categories.",
-  "ctxTalking": "• Solana’s launch of native recurring payments and delegated spending capabilities\n• Expansion of perpetual futures and derivatives infrastructure, with Kalshi and Solana Foundation initiatives\n• Oro’s push to tokenize gold markets using Solana’s network",
-  "ctxMatters": "These developments broaden Solana’s use cases for both consumer and institutional users. Recurring payments and delegated spending could streamline business models and user experiences. The focus on derivatives and tokenized assets signals deeper financialization and more sophisticated products on Solana.",
-  "ctxSignal": "Signal: Native support for subscriptions and allowances, and institutional moves toward onchain derivatives and tokenized commodities.\nNoise: Speculation around which altcoins will be included in new futures offerings.",
-  "ctxGlossary": "Perpetual futures — Derivative contracts with no expiration date, allowing continuous trading.\nTokenized gold — Digital representation of gold on a blockchain, enabling 24/7 trading and global access.",
+  "generated_at_utc": "2026-06-03T21:46:32.668Z",
+  "ctxMarket": "Attention is on Solana’s price dropping below $76, its lowest since 2023, with some speculation about further declines. Meanwhile, Hyperliquid’s HYPE token has surpassed SOL in price, though not in market cap.",
+  "ctxTalking": "• Solana’s price drop and speculation about further downside\n• Hyperliquid’s HYPE token overtaking SOL in price\n• New Solana-native products: onchain perps trading and native subscriptions",
+  "ctxMatters": "Solana’s declining price is drawing scrutiny and could affect sentiment among users and builders. Despite this, development continues with new trading platforms and payment primitives launching on Solana. These features may expand Solana’s use cases and ecosystem resilience.",
+  "ctxSignal": "Signal: Ongoing product launches and infrastructure upgrades on Solana, even during price volatility.\nNoise: Short-term speculation about SOL’s price trajectory without clear catalysts.",
+  "ctxGlossary": "Perps — Perpetual futures contracts, allowing traders to speculate on asset prices without expiry.\nOnchain — Activities or applications that operate directly on a blockchain, not off-chain.",
   "readMore": [
+    {
+      "title": "Solana falls below $76 range low",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-falls-below-76-range-low-will-sol-fall-below-50-in-2026"
+    },
+    {
+      "title": "Hyperliquid’s HYPE overtakes Solana in price as SOL falls to lowest levels since 2023",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/403585/hyperliquid-hype-overtakes-solana-price-sol-falls-lowest-since-2023"
+    },
     {
       "title": "Solana Now Has Native Subscriptions & Allowances",
       "source": "Solana News",
       "url": "https://solana.com/news/subscriptions-and-allowances"
-    },
-    {
-      "title": "Kalshi Eyes Perpetual Futures for XRP, Solana, Dogecoin—And These Altcoins",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/369665/kalshi-eyes-perpetual-futures-xrp-solana-dogecoin-altcoins"
     }
   ]
 }
