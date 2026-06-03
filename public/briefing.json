@@ -1,8 +1,17 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Bullish crypto bets lose $1.6 billion as ETH, SOL, DOGE drop 9%",
+      "category": "APPS",
+      "source": "CoinDesk",
+      "date": "2026-06-03",
+      "url": "https://www.coindesk.com/markets/2026/06/03/bullish-crypto-bets-lose-usd1-6-billion-as-eth-sol-doge-drop-9",
+      "whyYouShouldCare": "The recent $1.6 billion loss in bullish crypto positions highlights increased volatility, impacting SOL's market sentiment and liquidity."
+    },
     {
       "type": "MARKET",
       "title": "Solana Now Has Native Subscriptions & Allowances",
@@ -10,25 +19,16 @@
       "source": "Solana News",
       "date": "2026-06-02",
       "url": "https://solana.com/news/subscriptions-and-allowances",
-      "whyYouShouldCare": "The introduction of native subscriptions and allowances enhances Solana's utility, potentially increasing user engagement and transaction volume within its ecosystem."
+      "whyYouShouldCare": "The introduction of native subscriptions and allowances on Solana enhances ecosystem functionality, potentially driving user engagement and transaction volume."
     },
     {
-      "type": "ECOSYSTEM",
-      "title": "Backpack launches securities platform blending traditional and tokenized stock trading",
-      "category": "ECOSYSTEM",
-      "source": "The Block",
-      "date": "2026-06-02",
-      "url": "https://www.theblock.co/post/403328/backpack-launches-securities-platform-blending-traditional-and-tokenized-stock-trading",
-      "whyYouShouldCare": "Backpack's new platform could attract traditional investors to Solana, broadening the user base and increasing liquidity in the ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "JTO up 29% as ‘Jito economy’ gains ground: Bulls struggle at $0.70",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-06-02",
-      "url": "https://ambcrypto.com/jto-up-29-as-jito-economy-gains-ground-bulls-struggle-at-0-70",
-      "whyYouShouldCare": "JTO's price surge indicates growing interest in the 'Jito economy,' which may drive more activity and investment in Solana-based applications."
+      "type": "MARKET",
+      "title": "Build Fully Onchain Perps on Solana",
+      "category": "MARKET",
+      "source": "Solana News",
+      "date": "2026-06-01",
+      "url": "https://solana.com/news/build-onchain-perps",
+      "whyYouShouldCare": "The ability to build fully on-chain perpetual contracts on Solana could attract developers, boosting the platform's utility and overall ecosystem growth."
     }
   ]
 }
