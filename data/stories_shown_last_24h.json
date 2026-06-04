@@ -1,25 +1,11 @@
 [
   {
-    "id": "70d91a6aa79bfff3b9bc719a03c3e1d1560b064f",
-    "title": "Signal Board Summary 2026-06-03",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-06-03T21:46:32.671Z",
-    "lastSeenAt": "2026-06-03T21:46:32.671Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "aad6c44e7a5dc1aff583d3c345f4de59c7ee22ce",
     "title": "Solayer rolls out Solana-native onchain perps trading platform Margin Trade mainnet",
     "url": "https://www.theblock.co/post/403549/solayer-rolls-out-solana-native-onchain-perps-trading-platform-margin-trade-mainnet",
     "source": "The Block",
     "firstSeenAt": "2026-06-03T21:46:26.178Z",
-    "lastSeenAt": "2026-06-03T21:46:26.178Z",
+    "lastSeenAt": "2026-06-04T10:37:27.831Z",
     "sectionShown": "briefing",
     "topicTags": [
       "solayer",
@@ -30,6 +16,62 @@
       "perps",
       "trading",
       "platform"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "161585641029e8582e4e52ce41dd69bcf00a4db1",
+    "title": "Solana Now Has Native Subscriptions & Allowances",
+    "url": "https://solana.com/news/subscriptions-and-allowances",
+    "source": "Solana News",
+    "firstSeenAt": "2026-06-02T21:45:44.248Z",
+    "lastSeenAt": "2026-06-04T10:37:27.831Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "native",
+      "subscriptions",
+      "allowances",
+      "recurring",
+      "payments",
+      "delegated",
+      "spending"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "4d8d035f1742531d0bdeb2a4b8e65e348edcbb3b",
+    "title": "BTC, ETH, SOL and XRP ETFs bleed $4.4 billion over 13 sessions, only HYPE in green",
+    "url": "https://www.coindesk.com/markets/2026/06/04/btc-eth-sol-and-xrp-etfs-bleed-usd4-4-billion-over-13-sessions-only-hype-in-green",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-06-04T10:37:27.830Z",
+    "lastSeenAt": "2026-06-04T10:37:27.830Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "etfs",
+      "bleed",
+      "billion",
+      "over",
+      "sessions",
+      "only",
+      "hype",
+      "green"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "70d91a6aa79bfff3b9bc719a03c3e1d1560b064f",
+    "title": "Signal Board Summary 2026-06-03",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-06-03T21:46:32.671Z",
+    "lastSeenAt": "2026-06-03T21:46:32.671Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -72,27 +114,6 @@
       "falls",
       "lowest",
       "levels"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "161585641029e8582e4e52ce41dd69bcf00a4db1",
-    "title": "Solana Now Has Native Subscriptions & Allowances",
-    "url": "https://solana.com/news/subscriptions-and-allowances",
-    "source": "Solana News",
-    "firstSeenAt": "2026-06-02T21:45:44.248Z",
-    "lastSeenAt": "2026-06-03T11:54:56.852Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "native",
-      "subscriptions",
-      "allowances",
-      "recurring",
-      "payments",
-      "delegated",
-      "spending"
     ],
     "majorUpdate": false,
     "updateReason": null

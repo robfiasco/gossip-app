@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-03T21:46:26.014Z",
+    "generatedAt": "2026-06-04T10:37:27.661Z",
     "totalCandidates": 106,
     "solanaCandidates": 19,
     "selected": 5,
@@ -9,84 +9,18 @@
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/403585/hyperliquid-hype-overtakes-solana-price-sol-falls-lowest-since-2023",
-      "title": "Hyperliquid’s HYPE overtakes Solana in price as SOL falls to lowest levels since 2023",
-      "url": "https://www.theblock.co/post/403585/hyperliquid-hype-overtakes-solana-price-sol-falls-lowest-since-2023",
-      "source": "The Block",
-      "publishedAt": "2026-06-03T20:57:29.000Z",
-      "summary": "Hyperliquid's market capitalization has climbed to over $16 billion, but still well behind Solana's $42 billion.",
+      "id": "https://www.coindesk.com/markets/2026/06/04/apyx-s-stablecoin-suffers-a-brief-depeg-protocol-says-its-a-feature-not-bug",
+      "title": "Apyx's STRC collateralized stablecoin suffers a brief depeg. Protocol says its a feature, not bug",
+      "url": "https://www.coindesk.com/markets/2026/06/04/apyx-s-stablecoin-suffers-a-brief-depeg-protocol-says-its-a-feature-not-bug",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-04T06:35:17.000Z",
+      "summary": "Apyx’s apxUSD stablecoin briefly slipped to 93 cents Wednesday.",
       "tags": [
-        "hyperliquid",
-        "hype",
-        "overtakes"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "838854208d13caea0378e436240d8766c2c19ca2",
-      "score": 27
-    },
-    {
-      "id": "https://www.theblock.co/post/403549/solayer-rolls-out-solana-native-onchain-perps-trading-platform-margin-trade-mainnet",
-      "title": "Solayer rolls out Solana-native onchain perps trading platform Margin Trade mainnet",
-      "url": "https://www.theblock.co/post/403549/solayer-rolls-out-solana-native-onchain-perps-trading-platform-margin-trade-mainnet",
-      "source": "The Block",
-      "publishedAt": "2026-06-03T16:00:00.000Z",
-      "summary": "Margin Trade enables trading of crypto, commodities, and equities via a single margin account on Solana, tapping the SVM chain Solayer.",
-      "tags": [
-        "solayer",
-        "rolls",
-        "solana"
+        "apyx",
+        "strc",
+        "collateralized"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "aad6c44e7a5dc1aff583d3c345f4de59c7ee22ce",
-      "score": 27
-    },
-    {
-      "id": "https://ambcrypto.com/solana-falls-below-76-range-low-will-sol-fall-below-50-in-2026",
-      "title": "Solana falls below $76 range low: Will SOL fall below $50 in 2026?",
-      "url": "https://ambcrypto.com/solana-falls-below-76-range-low-will-sol-fall-below-50-in-2026",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-03T21:00:19.000Z",
-      "summary": "SOL could be readying for its next downward move.",
-      "tags": [
-        "solana",
-        "falls",
-        "below"
-      ],
-      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -97,15 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0f8b90ecd0596881220e7a466fa4973ef3e35a9e",
-      "score": 24
+      "dedupeFingerprint": "0c4de97fa2c07c7a3de0e0c087eeb30300bac4c8",
+      "score": 22
     },
     {
       "id": "https://www.theblock.co/post/403541/revoluts-us-bank-offer-stablecoin-services-fdic-insured-products-reuters",
@@ -132,27 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "54ab4085ccaff5b59d5be619a7e4fa91d221450e",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.theblock.co/post/403498/house-of-lords-committee-urges-uk-regulators-to-ease-stablecoin-rules-that-could-stifle-market-growth",
-      "title": "House of Lords committee urges UK regulators to ease stablecoin rules that could stifle market growth",
-      "url": "https://www.theblock.co/post/403498/house-of-lords-committee-urges-uk-regulators-to-ease-stablecoin-rules-that-could-stifle-market-growth",
-      "source": "The Block",
-      "publishedAt": "2026-06-03T12:47:15.000Z",
-      "summary": "A UK House of Lords committee warned that Britain lags the U.S. and the EU on stablecoins, calling on the BoE and FCA to revise rules.",
+      "id": "https://decrypt.co/369781/microsoft-scout-openclaw-enterprise-ai-agent",
+      "title": "Microsoft Turns OpenClaw Into an Enterprise AI Agent With Scout",
+      "url": "https://decrypt.co/369781/microsoft-scout-openclaw-enterprise-ai-agent",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-02T20:25:22.000Z",
+      "summary": "Tech people will say everyone's already using OpenClaw. They're right. But Microsoft is the one with 1.4 billion Windows users ready to adopt it.",
       "tags": [
-        "house",
-        "lords",
-        "committee"
+        "microsoft",
+        "turns",
+        "openclaw"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +99,79 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
+        "recencyScore": 7,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b34c26fed71fb7cd0265e37cb9d0fa4a9bc86a24",
+      "score": 18
+    },
+    {
+      "id": "https://www.theblock.co/post/403600/polymarket-upholds-no-outcome-strategy-bitcoin-sale-market",
+      "title": "Polymarket’s UMA vote upholds ‘No’ outcome on Strategy bitcoin sale market despite backlash",
+      "url": "https://www.theblock.co/post/403600/polymarket-upholds-no-outcome-strategy-bitcoin-sale-market",
+      "source": "The Block",
+      "publishedAt": "2026-06-04T04:21:17.000Z",
+      "summary": "The dispute centers on Strategy's disclosure that it sold 32 BTC for roughly $2.5 million between May 26 and May 31.",
+      "tags": [
+        "polymarket",
+        "vote",
+        "upholds"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -1,
+        "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "1e5d2624eb196fcf9423027c92d43d0c3e0cedee",
-      "score": 22
+      "dedupeFingerprint": "c700fbccbca0800c73bf54f1715f5e6c4fb14b01",
+      "score": 13
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/06/04/btc-eth-sol-and-xrp-etfs-bleed-usd4-4-billion-over-13-sessions-only-hype-in-green",
+      "title": "BTC, ETH, SOL and XRP ETFs bleed $4.4 billion over 13 sessions, only HYPE in green",
+      "url": "https://www.coindesk.com/markets/2026/06/04/btc-eth-sol-and-xrp-etfs-bleed-usd4-4-billion-over-13-sessions-only-hype-in-green",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-04T05:59:08.000Z",
+      "summary": "BlackRock's IBIT shed another $342 million on Wednesday as ether, solana and XRP funds joined the redemption wave, leaving Hyperliquid's HYPE products as the only major crypto ETF category still pulling in net new money.",
+      "tags": [
+        "etfs",
+        "bleed",
+        "billion"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 2,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "4d8d035f1742531d0bdeb2a4b8e65e348edcbb3b",
+      "score": 6
     }
   ]
 }

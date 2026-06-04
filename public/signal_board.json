@@ -1,12 +1,17 @@
 {
-  "date": "2026-06-03",
-  "generated_at_utc": "2026-06-03T21:46:32.668Z",
-  "ctxMarket": "Attention is on Solana’s price dropping below $76, its lowest since 2023, with some speculation about further declines. Meanwhile, Hyperliquid’s HYPE token has surpassed SOL in price, though not in market cap.",
-  "ctxTalking": "• Solana’s price drop and speculation about further downside\n• Hyperliquid’s HYPE token overtaking SOL in price\n• New Solana-native products: onchain perps trading and native subscriptions",
-  "ctxMatters": "Solana’s declining price is drawing scrutiny and could affect sentiment among users and builders. Despite this, development continues with new trading platforms and payment primitives launching on Solana. These features may expand Solana’s use cases and ecosystem resilience.",
-  "ctxSignal": "Signal: Ongoing product launches and infrastructure upgrades on Solana, even during price volatility.\nNoise: Short-term speculation about SOL’s price trajectory without clear catalysts.",
-  "ctxGlossary": "Perps — Perpetual futures contracts, allowing traders to speculate on asset prices without expiry.\nOnchain — Activities or applications that operate directly on a blockchain, not off-chain.",
+  "date": "2026-06-04",
+  "generated_at_utc": "2026-06-04T10:37:34.774Z",
+  "ctxMarket": "Attention is on outflows from major crypto ETFs, with Solana, Bitcoin, and Ethereum funds seeing significant redemptions. Solana's price has dropped to its lowest levels since 2023, while Hyperliquid's HYPE token has overtaken SOL in price, though not in market cap.",
+  "ctxTalking": "• Major ETF outflows impacting Solana, Bitcoin, and Ethereum products\n• Solana's price decline and HYPE's rise in the market\n• New Solana-native features: onchain perps trading and recurring payments",
+  "ctxMatters": "ETF outflows may affect liquidity and sentiment for Solana-related products. The introduction of native subscriptions, allowances, and perps trading expands Solana’s onchain utility. Builders are focusing on new primitives and financial products, including tokenized assets like gold.",
+  "ctxSignal": "Signal: ETF redemptions and new onchain features are shaping Solana’s ecosystem and user experience.\nNoise: Short-term price speculation around SOL’s next move.",
+  "ctxGlossary": "ETF — Exchange-traded fund, a tradable investment product tracking crypto or other assets\nOnchain perps — Perpetual futures contracts settled directly on a blockchain",
   "readMore": [
+    {
+      "title": "BTC, ETH, SOL and XRP ETFs bleed $4.4 billion over 13 sessions, only HYPE in green",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/04/btc-eth-sol-and-xrp-etfs-bleed-usd4-4-billion-over-13-sessions-only-hype-in-green"
+    },
     {
       "title": "Solana falls below $76 range low",
       "source": "AMB Crypto",
@@ -16,11 +21,6 @@
       "title": "Hyperliquid’s HYPE overtakes Solana in price as SOL falls to lowest levels since 2023",
       "source": "The Block",
       "url": "https://www.theblock.co/post/403585/hyperliquid-hype-overtakes-solana-price-sol-falls-lowest-since-2023"
-    },
-    {
-      "title": "Solana Now Has Native Subscriptions & Allowances",
-      "source": "Solana News",
-      "url": "https://solana.com/news/subscriptions-and-allowances"
     }
   ]
 }
