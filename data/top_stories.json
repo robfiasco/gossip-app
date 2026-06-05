@@ -1,92 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T10:44:05.835Z",
-    "totalCandidates": 107,
-    "solanaCandidates": 20,
+    "generatedAt": "2026-06-05T20:47:15.848Z",
+    "totalCandidates": 111,
+    "solanaCandidates": 25,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://solana.com/news/solana-ecosystem-roundup-may-2026",
-      "title": "Solana Ecosystem Roundup: May 2026",
-      "url": "https://solana.com/news/solana-ecosystem-roundup-may-2026",
-      "source": "Solana News",
-      "publishedAt": "2026-06-05T03:15:00.000Z",
-      "summary": "Solana Ecosystem Roundup May 2026: RWA ATH at $2.8B+, 97% tokenized equities share, $16.4B stablecoin supply, and record ETF inflows.",
-      "tags": [
-        "solana",
-        "ecosystem",
-        "roundup"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 17,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 5,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "235fba341f0710f49eae9242dd26aef506e10840",
-      "score": 32
-    },
-    {
-      "id": "https://www.theblock.co/post/403658/visa-brale-test-privacy-enabled-sbc-stablecoin-settlement-on-canton-network",
-      "title": "Visa, Brale test privacy-enabled SBC stablecoin settlement on Canton Network",
-      "url": "https://www.theblock.co/post/403658/visa-brale-test-privacy-enabled-sbc-stablecoin-settlement-on-canton-network",
-      "source": "The Block",
-      "publishedAt": "2026-06-04T13:34:02.000Z",
-      "summary": "Visa and Brale initiate a proof of concept testing SBC stablecoin settlement with privacy controls on the Canton Network.",
-      "tags": [
-        "visa",
-        "brale",
-        "test"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "303090799a2241603726574947dd71ca7e355dd0",
-      "score": 21
-    },
-    {
-      "id": "https://ambcrypto.com/hyperliquid-briefly-flips-solana-in-price-is-market-cap-next",
-      "title": "Hyperliquid briefly flips Solana in price: Is market cap next?",
-      "url": "https://ambcrypto.com/hyperliquid-briefly-flips-solana-in-price-is-market-cap-next",
+      "id": "https://ambcrypto.com/forward-industries-offloads-32-mln-solana-is-sols-9-decline-just-the-start",
+      "title": "Forward Industries offloads $32 mln Solana – Is SOL’s 9% decline just the start?",
+      "url": "https://ambcrypto.com/forward-industries-offloads-32-mln-solana-is-sols-9-decline-just-the-start",
       "source": "AMB Crypto",
-      "publishedAt": "2026-06-05T08:00:12.000Z",
-      "summary": "HYPE leads in price growth and perp trading volume, but Solana's larger token supply keeps its market cap firmly ahead.",
+      "publishedAt": "2026-06-05T11:00:52.000Z",
+      "summary": "Here's why Solana price is declining at an accelerating rate this week.",
       "tags": [
-        "hyperliquid",
-        "briefly",
-        "flips"
+        "forward",
+        "industries",
+        "offloads"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -97,27 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "706c5ccac0be8d46003a55bb1b03fe9efdcfcfec",
-      "score": 19
+      "dedupeFingerprint": "086a944cac278d39854bdeb687f48547896f6291",
+      "score": 24
     },
     {
-      "id": "https://decrypt.co/369908/mastercard-expands-stablecoin-settlement-circle-usdc-ripple-rlusd",
-      "title": "Mastercard Expands Stablecoin Settlement via Circle's USDC, Ripple's RLUSD and Beyond",
-      "url": "https://decrypt.co/369908/mastercard-expands-stablecoin-settlement-circle-usdc-ripple-rlusd",
+      "id": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
+      "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
+      "url": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
       "source": "Decrypt",
-      "publishedAt": "2026-06-03T17:23:31.000Z",
-      "summary": "Mastercard said it's deepening its commitment to the \"always-on\" economy, buffing out its stablecoin settlement capabilities.",
+      "publishedAt": "2026-06-05T15:52:15.000Z",
+      "summary": "Rep. Brad Sherman warned that allowing government payments in stablecoins would \"sanctify an alternative to the U.S. dollar.\"",
       "tags": [
-        "mastercard",
-        "expands",
-        "stablecoin"
+        "government",
+        "stablecoin",
+        "payments"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -132,27 +66,60 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 10,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "be9b51717068c90d3b2aa7d3e62f893f72038351",
-      "score": 18
+      "dedupeFingerprint": "b28b5ea0834b35434c2da183686b25b92cfde48b",
+      "score": 21
     },
     {
-      "id": "https://www.coindesk.com/coindesk-indices/2026/06/03/crypto-for-advisors-the-crypto-due-diligence-questions-you-forgot-to-ask",
-      "title": "Crypto for Advisors: The crypto due diligence questions you forgot to ask",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/03/crypto-for-advisors-the-crypto-due-diligence-questions-you-forgot-to-ask",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-04T15:00:00.000Z",
-      "summary": "As stablecoins, shifting regulation and AI-enabled infrastructure mature, advisors should revisit three questions their crypto due diligence may no longer fully cover.",
+      "id": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
+      "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
+      "url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-05T13:10:25.000Z",
+      "summary": "The warning from the UK’s Financial Conduct Authority adds pressure to a perps market already under increasing scrutiny from regulators.",
       "tags": [
-        "crypto",
-        "advisors",
-        "diligence"
+        "hyperliquid",
+        "warning",
+        "crypto"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "cfd80783190c7634e71ddb48e3526fba54beefeb",
+      "score": 21
+    },
+    {
+      "id": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
+      "title": "Pump.fun's Latest Experiment Is Already Getting Weird",
+      "url": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-05T11:33:50.000Z",
+      "summary": "Pump.fun's GO bounty platform already has hundreds of listings following its pitch to let users “Pay ANYONE to do ANYTHING.”",
+      "tags": [
+        "pump",
+        "latest",
+        "experiment"
+      ],
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a927a366ab5605fb33e66a0bc8abca51f2941d38",
-      "score": 16
+      "dedupeFingerprint": "8127920555b7ec3c6d7d06c5dd9d94ee7a870661",
+      "score": 21
+    },
+    {
+      "id": "https://cryptoslate.com/strategy-defi-dollar-peg-risk-bitcoin-selloff",
+      "title": "A stablecoin tied to Strategy stock depegs putting a new DeFi dollar risk in focus as Bitcoin sells off",
+      "url": "https://cryptoslate.com/strategy-defi-dollar-peg-risk-bitcoin-selloff",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-05T12:05:04.000Z",
+      "summary": "Apyx's apxUSD fell below its dollar reference on June 4 as Bitcoin traded near $63,000, putting DeFi dollar peg risk back in focus. A Bitget report said the token briefly touched $0.93 during the selloff. The report framed Apyx's response as a design point: apxUSD's reserve risk is largely borne by ",
+      "tags": [
+        "stablecoin",
+        "tied",
+        "strategy"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -1,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "53d62c0407020949c765e25b72ba0e112a29c8cc",
+      "score": 11
     }
   ]
 }
