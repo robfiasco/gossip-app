@@ -4,13 +4,22 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "APPS",
+      "title": "As institutions dump Solana, $60 becomes SOL’s new battleground",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-06-06",
+      "url": "https://ambcrypto.com/as-institutions-dump-solana-60-becomes-sols-new-battleground",
+      "whyYouShouldCare": "The recent sell-off by institutions indicates a critical shift in SOL's market dynamics, with $60 now serving as a significant support level."
+    },
+    {
       "type": "MARKET",
       "title": "Solana Ecosystem Roundup: May 2026",
       "category": "MARKET",
       "source": "Solana News",
       "date": "2026-06-05",
       "url": "https://solana.com/news/solana-ecosystem-roundup-may-2026",
-      "whyYouShouldCare": "The latest developments in the Solana ecosystem highlight ongoing innovations and partnerships that could enhance network utility and attract more users."
+      "whyYouShouldCare": "The May ecosystem roundup highlights ongoing developments and partnerships, which are essential for maintaining Solana's competitive edge and user engagement."
     },
     {
       "type": "APPS",
@@ -19,16 +28,7 @@
       "source": "Cointelegraph",
       "date": "2026-06-05",
       "url": "https://cointelegraph.com/news/forward-industries-moves-319m-in-sol-to-coinbase-prime-amid-113b-paper-loss",
-      "whyYouShouldCare": "Forward Industries' significant movement of SOL indicates potential liquidity shifts and market sentiment, especially given the backdrop of substantial paper losses."
-    },
-    {
-      "type": "APPS",
-      "title": "WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-06-06",
-      "url": "https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
-      "whyYouShouldCare": "The volatility of WLD following Hayes' actions reflects broader market dynamics that could influence investor confidence in related tokens within the Solana ecosystem."
+      "whyYouShouldCare": "Forward Industries' substantial SOL transaction amid a significant paper loss underscores the volatility and potential risk factors affecting liquidity in the Solana market."
     }
   ]
 }

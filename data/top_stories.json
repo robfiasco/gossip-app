@@ -1,13 +1,79 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T09:23:39.205Z",
+    "generatedAt": "2026-06-06T20:07:38.922Z",
     "totalCandidates": 108,
-    "solanaCandidates": 18,
+    "solanaCandidates": 16,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://ambcrypto.com/as-institutions-dump-solana-60-becomes-sols-new-battleground",
+      "title": "As institutions dump Solana, $60 becomes SOL’s new battleground",
+      "url": "https://ambcrypto.com/as-institutions-dump-solana-60-becomes-sols-new-battleground",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-06T17:00:14.000Z",
+      "summary": "Solana extended its bearish streak, dropping 4% to a 31-month low of $61.",
+      "tags": [
+        "institutions",
+        "dump",
+        "solana"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2229ce09b26cb8c4372a352b35a419f5c3b00549",
+      "score": 24
+    },
+    {
+      "id": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
+      "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+      "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-06T16:30:00.000Z",
+      "summary": "Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital dollars to usable local currency.",
+      "tags": [
+        "meta",
+        "paying",
+        "creators"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3bb74fa37daa13d44bae56d2df41074f35d65350",
+      "score": 22
+    },
     {
       "id": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
       "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
@@ -33,46 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b28b5ea0834b35434c2da183686b25b92cfde48b",
-      "score": 20
-    },
-    {
-      "id": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
-      "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
-      "url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-05T13:10:25.000Z",
-      "summary": "The warning from the UK’s Financial Conduct Authority adds pressure to a perps market already under increasing scrutiny from regulators.",
-      "tags": [
-        "hyperliquid",
-        "warning",
-        "crypto"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "cfd80783190c7634e71ddb48e3526fba54beefeb",
-      "score": 20
+      "score": 19
     },
     {
       "id": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
@@ -99,28 +132,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "8127920555b7ec3c6d7d06c5dd9d94ee7a870661",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives",
-      "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
-      "url": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-06-05T16:44:44.000Z",
-      "summary": "Pump.fun launched a new bounty platform where users started funding bizarre memecoin marketing stunts, including forehead tattoos, skydiving as a mascot and setting a vehicle on fire.",
+      "id": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
+      "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
+      "url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-05T13:10:25.000Z",
+      "summary": "The warning from the UK’s Financial Conduct Authority adds pressure to a perps market already under increasing scrutiny from regulators.",
       "tags": [
-        "pump",
-        "bounty",
-        "platform"
+        "hyperliquid",
+        "warning",
+        "crypto"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0b2f683f03cd7ae16c89ebc7caa6fde01b66dc4e",
-      "score": 17
-    },
-    {
-      "id": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week",
-      "title": "Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week",
-      "url": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week",
-      "source": "The Block",
-      "publishedAt": "2026-06-05T16:55:40.000Z",
-      "summary": "As cryptocurrency-related bills from regulating stablecoins to the market as a whole take center stage — now comes how to tax those assets.",
-      "tags": [
-        "next",
-        "taxes",
-        "crypto"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "aa0346023ad47ca015286e62e6d40fcc1f9afcbe",
-      "score": 16
+      "dedupeFingerprint": "cfd80783190c7634e71ddb48e3526fba54beefeb",
+      "score": 19
     }
   ]
 }

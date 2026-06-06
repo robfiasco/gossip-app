@@ -1,25 +1,11 @@
 [
   {
-    "id": "63a4c1cd60c636613baa8025867e62d5ccc89d78",
-    "title": "Signal Board Summary 2026-06-06",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-06-06T09:23:48.129Z",
-    "lastSeenAt": "2026-06-06T09:23:48.129Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "81abccabe2a73202e36461ef9b8d5e9c5cec6368",
     "title": "Forward Industries moves $32M in SOL amid $1B paper loss",
     "url": "https://cointelegraph.com/news/forward-industries-moves-319m-in-sol-to-coinbase-prime-amid-113b-paper-loss",
     "source": "Cointelegraph",
     "firstSeenAt": "2026-06-05T20:47:16.014Z",
-    "lastSeenAt": "2026-06-06T09:23:39.372Z",
+    "lastSeenAt": "2026-06-06T20:07:39.098Z",
     "sectionShown": "briefing",
     "topicTags": [
       "forward",
@@ -40,7 +26,7 @@
     "url": "https://solana.com/news/solana-ecosystem-roundup-may-2026",
     "source": "Solana News",
     "firstSeenAt": "2026-06-05T10:44:05.981Z",
-    "lastSeenAt": "2026-06-06T09:23:39.371Z",
+    "lastSeenAt": "2026-06-06T20:07:39.098Z",
     "sectionShown": "briefing",
     "topicTags": [
       "solana",
@@ -51,6 +37,41 @@
       "equities",
       "share",
       "stablecoin"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "2229ce09b26cb8c4372a352b35a419f5c3b00549",
+    "title": "As institutions dump Solana, $60 becomes SOL’s new battleground",
+    "url": "https://ambcrypto.com/as-institutions-dump-solana-60-becomes-sols-new-battleground",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-06-06T20:07:39.097Z",
+    "lastSeenAt": "2026-06-06T20:07:39.097Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "institutions",
+      "dump",
+      "solana",
+      "becomes",
+      "battleground",
+      "extended",
+      "bearish",
+      "streak"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "63a4c1cd60c636613baa8025867e62d5ccc89d78",
+    "title": "Signal Board Summary 2026-06-06",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-06-06T09:23:48.129Z",
+    "lastSeenAt": "2026-06-06T09:23:48.129Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -156,48 +177,6 @@
       "panic",
       "selling",
       "just"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "aad6c44e7a5dc1aff583d3c345f4de59c7ee22ce",
-    "title": "Solayer rolls out Solana-native onchain perps trading platform Margin Trade mainnet",
-    "url": "https://www.theblock.co/post/403549/solayer-rolls-out-solana-native-onchain-perps-trading-platform-margin-trade-mainnet",
-    "source": "The Block",
-    "firstSeenAt": "2026-06-03T21:46:26.178Z",
-    "lastSeenAt": "2026-06-04T10:37:27.831Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solayer",
-      "rolls",
-      "solana",
-      "native",
-      "onchain",
-      "perps",
-      "trading",
-      "platform"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "161585641029e8582e4e52ce41dd69bcf00a4db1",
-    "title": "Solana Now Has Native Subscriptions & Allowances",
-    "url": "https://solana.com/news/subscriptions-and-allowances",
-    "source": "Solana News",
-    "firstSeenAt": "2026-06-02T21:45:44.248Z",
-    "lastSeenAt": "2026-06-04T10:37:27.831Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "native",
-      "subscriptions",
-      "allowances",
-      "recurring",
-      "payments",
-      "delegated",
-      "spending"
     ],
     "majorUpdate": false,
     "updateReason": null
