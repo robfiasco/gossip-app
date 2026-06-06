@@ -1,46 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T20:47:15.848Z",
-    "totalCandidates": 111,
-    "solanaCandidates": 25,
+    "generatedAt": "2026-06-06T09:23:39.205Z",
+    "totalCandidates": 108,
+    "solanaCandidates": 18,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://ambcrypto.com/forward-industries-offloads-32-mln-solana-is-sols-9-decline-just-the-start",
-      "title": "Forward Industries offloads $32 mln Solana – Is SOL’s 9% decline just the start?",
-      "url": "https://ambcrypto.com/forward-industries-offloads-32-mln-solana-is-sols-9-decline-just-the-start",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-05T11:00:52.000Z",
-      "summary": "Here's why Solana price is declining at an accelerating rate this week.",
-      "tags": [
-        "forward",
-        "industries",
-        "offloads"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "086a944cac278d39854bdeb687f48547896f6291",
-      "score": 24
-    },
     {
       "id": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
       "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
@@ -66,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b28b5ea0834b35434c2da183686b25b92cfde48b",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
@@ -99,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "cfd80783190c7634e71ddb48e3526fba54beefeb",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
@@ -132,27 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "8127920555b7ec3c6d7d06c5dd9d94ee7a870661",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://cryptoslate.com/strategy-defi-dollar-peg-risk-bitcoin-selloff",
-      "title": "A stablecoin tied to Strategy stock depegs putting a new DeFi dollar risk in focus as Bitcoin sells off",
-      "url": "https://cryptoslate.com/strategy-defi-dollar-peg-risk-bitcoin-selloff",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-05T12:05:04.000Z",
-      "summary": "Apyx's apxUSD fell below its dollar reference on June 4 as Bitcoin traded near $63,000, putting DeFi dollar peg risk back in focus. A Bitget report said the token briefly touched $0.93 during the selloff. The report framed Apyx's response as a design point: apxUSD's reserve risk is largely borne by ",
+      "id": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives",
+      "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
+      "url": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-06-05T16:44:44.000Z",
+      "summary": "Pump.fun launched a new bounty platform where users started funding bizarre memecoin marketing stunts, including forehead tattoos, skydiving as a mascot and setting a vehicle on fire.",
       "tags": [
-        "stablecoin",
-        "tied",
-        "strategy"
+        "pump",
+        "bounty",
+        "platform"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": -1,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
+        "recencyScore": 9,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "53d62c0407020949c765e25b72ba0e112a29c8cc",
-      "score": 11
+      "dedupeFingerprint": "0b2f683f03cd7ae16c89ebc7caa6fde01b66dc4e",
+      "score": 17
+    },
+    {
+      "id": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week",
+      "title": "Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week",
+      "url": "https://www.theblock.co/post/403851/next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week",
+      "source": "The Block",
+      "publishedAt": "2026-06-05T16:55:40.000Z",
+      "summary": "As cryptocurrency-related bills from regulating stablecoins to the market as a whole take center stage — now comes how to tax those assets.",
+      "tags": [
+        "next",
+        "taxes",
+        "crypto"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "aa0346023ad47ca015286e62e6d40fcc1f9afcbe",
+      "score": 16
     }
   ]
 }
