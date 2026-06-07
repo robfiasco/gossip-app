@@ -1,46 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T20:07:38.922Z",
+    "generatedAt": "2026-06-07T09:58:16.151Z",
     "totalCandidates": 108,
-    "solanaCandidates": 16,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://ambcrypto.com/as-institutions-dump-solana-60-becomes-sols-new-battleground",
-      "title": "As institutions dump Solana, $60 becomes SOL’s new battleground",
-      "url": "https://ambcrypto.com/as-institutions-dump-solana-60-becomes-sols-new-battleground",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-06T17:00:14.000Z",
-      "summary": "Solana extended its bearish streak, dropping 4% to a 31-month low of $61.",
-      "tags": [
-        "institutions",
-        "dump",
-        "solana"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2229ce09b26cb8c4372a352b35a419f5c3b00549",
-      "score": 24
-    },
     {
       "id": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
       "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
@@ -66,13 +33,46 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "3bb74fa37daa13d44bae56d2df41074f35d65350",
-      "score": 22
+      "score": 21
+    },
+    {
+      "id": "https://ambcrypto.com/pump-fun-why-traders-are-watching-0-00118-after-pumps-price-drop",
+      "title": "Pump.fun: Is $0.00118 the next stop after PUMP’s price drop?",
+      "url": "https://ambcrypto.com/pump-fun-why-traders-are-watching-0-00118-after-pumps-price-drop",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-07T06:00:57.000Z",
+      "summary": "The Pump.fun GO launch was met with severe criticism and it's wording might have left the parent platform to face regulatory scrutiny.",
+      "tags": [
+        "pump",
+        "00118",
+        "next"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "831e44169581d62a4d839a49f4a7a390fdb94b37",
+      "score": 19
     },
     {
       "id": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
@@ -99,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b28b5ea0834b35434c2da183686b25b92cfde48b",
-      "score": 19
+      "score": 18
     },
     {
       "id": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
@@ -132,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "8127920555b7ec3c6d7d06c5dd9d94ee7a870661",
-      "score": 19
+      "score": 18
     },
     {
       "id": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "cfd80783190c7634e71ddb48e3526fba54beefeb",
-      "score": 19
+      "score": 18
     }
   ]
 }
