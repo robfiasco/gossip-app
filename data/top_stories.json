@@ -1,13 +1,112 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T09:58:16.151Z",
-    "totalCandidates": 108,
-    "solanaCandidates": 17,
+    "generatedAt": "2026-06-07T20:09:08.625Z",
+    "totalCandidates": 104,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://ambcrypto.com/what-solanas-500mln-usdc-mint-really-means-for-sol",
+      "title": "What Solana’s $500mln USDC mint really means for SOL",
+      "url": "https://ambcrypto.com/what-solanas-500mln-usdc-mint-really-means-for-sol",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-07T15:00:36.000Z",
+      "summary": "Rising USDC inflows point to growing on-chain liquidity, but questionable spillover into SOL demand.",
+      "tags": [
+        "what",
+        "solana",
+        "500mln"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2eed987ea937e0d85c17e7966b19658cd931b880",
+      "score": 27
+    },
+    {
+      "id": "https://ambcrypto.com/sol-traders-watch-this-level-after-84mln-solana-whale-move",
+      "title": "SOL traders, watch THIS level after $84mln Solana whale move",
+      "url": "https://ambcrypto.com/sol-traders-watch-this-level-after-84mln-solana-whale-move",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-07T16:00:49.000Z",
+      "summary": "A massive SOL whale transfer and rising exchange inflows intensified pressure after support failed.",
+      "tags": [
+        "traders",
+        "watch",
+        "this"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "1cd0bc1de97eac52f9f83c5925ea7733f3c293b7",
+      "score": 24
+    },
+    {
+      "id": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
+      "title": "Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says",
+      "url": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-07T15:48:14.000Z",
+      "summary": "Arthur Hayes warned that Hyperliquid's core value driver—using trading fees to burn tokens—exposes the protocol to market share losses.",
+      "tags": [
+        "wall",
+        "street",
+        "coming"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "53bda69ea24f363442678c9456438f44cc457076",
+      "score": 21
+    },
     {
       "id": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
       "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
@@ -33,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "3bb74fa37daa13d44bae56d2df41074f35d65350",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://ambcrypto.com/pump-fun-why-traders-are-watching-0-00118-after-pumps-price-drop",
@@ -66,111 +165,12 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "831e44169581d62a4d839a49f4a7a390fdb94b37",
-      "score": 19
-    },
-    {
-      "id": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
-      "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
-      "url": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-05T15:52:15.000Z",
-      "summary": "Rep. Brad Sherman warned that allowing government payments in stablecoins would \"sanctify an alternative to the U.S. dollar.\"",
-      "tags": [
-        "government",
-        "stablecoin",
-        "payments"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "b28b5ea0834b35434c2da183686b25b92cfde48b",
-      "score": 18
-    },
-    {
-      "id": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
-      "title": "Pump.fun's Latest Experiment Is Already Getting Weird",
-      "url": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-05T11:33:50.000Z",
-      "summary": "Pump.fun's GO bounty platform already has hundreds of listings following its pitch to let users “Pay ANYONE to do ANYTHING.”",
-      "tags": [
-        "pump",
-        "latest",
-        "experiment"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "8127920555b7ec3c6d7d06c5dd9d94ee7a870661",
-      "score": 18
-    },
-    {
-      "id": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
-      "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
-      "url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-05T13:10:25.000Z",
-      "summary": "The warning from the UK’s Financial Conduct Authority adds pressure to a perps market already under increasing scrutiny from regulators.",
-      "tags": [
-        "hyperliquid",
-        "warning",
-        "crypto"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "cfd80783190c7634e71ddb48e3526fba54beefeb",
       "score": 18
     }
   ]
