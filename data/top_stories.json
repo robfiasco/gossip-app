@@ -1,79 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T20:09:08.625Z",
-    "totalCandidates": 104,
-    "solanaCandidates": 21,
+    "generatedAt": "2026-06-08T11:54:23.033Z",
+    "totalCandidates": 96,
+    "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://ambcrypto.com/what-solanas-500mln-usdc-mint-really-means-for-sol",
-      "title": "What Solana’s $500mln USDC mint really means for SOL",
-      "url": "https://ambcrypto.com/what-solanas-500mln-usdc-mint-really-means-for-sol",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-07T15:00:36.000Z",
-      "summary": "Rising USDC inflows point to growing on-chain liquidity, but questionable spillover into SOL demand.",
-      "tags": [
-        "what",
-        "solana",
-        "500mln"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2eed987ea937e0d85c17e7966b19658cd931b880",
-      "score": 27
-    },
-    {
-      "id": "https://ambcrypto.com/sol-traders-watch-this-level-after-84mln-solana-whale-move",
-      "title": "SOL traders, watch THIS level after $84mln Solana whale move",
-      "url": "https://ambcrypto.com/sol-traders-watch-this-level-after-84mln-solana-whale-move",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-07T16:00:49.000Z",
-      "summary": "A massive SOL whale transfer and rising exchange inflows intensified pressure after support failed.",
-      "tags": [
-        "traders",
-        "watch",
-        "this"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "1cd0bc1de97eac52f9f83c5925ea7733f3c293b7",
-      "score": 24
-    },
     {
       "id": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
       "title": "Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says",
@@ -99,13 +33,46 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "53bda69ea24f363442678c9456438f44cc457076",
-      "score": 21
+      "score": 20
+    },
+    {
+      "id": "https://ambcrypto.com/ripples-xrpl-stablecoin-supply-hits-762m-after-22-surge-why-it-matters",
+      "title": "Ripple’s XRPL stablecoin supply hits $762M after 22% surge – Why it matters",
+      "url": "https://ambcrypto.com/ripples-xrpl-stablecoin-supply-hits-762m-after-22-surge-why-it-matters",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-08T02:00:05.000Z",
+      "summary": "Tokenized assets and stablecoins are becoming increasingly main drivers of activity on XRPL.",
+      "tags": [
+        "ripple",
+        "xrpl",
+        "stablecoin"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3d8e1c946c1a8116f279a4c40b42480b44b33348",
+      "score": 19
     },
     {
       "id": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
@@ -132,27 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "3bb74fa37daa13d44bae56d2df41074f35d65350",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "https://ambcrypto.com/pump-fun-why-traders-are-watching-0-00118-after-pumps-price-drop",
-      "title": "Pump.fun: Is $0.00118 the next stop after PUMP’s price drop?",
-      "url": "https://ambcrypto.com/pump-fun-why-traders-are-watching-0-00118-after-pumps-price-drop",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-07T06:00:57.000Z",
-      "summary": "The Pump.fun GO launch was met with severe criticism and it's wording might have left the parent platform to face regulatory scrutiny.",
+      "id": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
+      "title": "Government Stablecoin Payments Would Fuel 'Tax Evasion Economy,' Lawmaker Warns",
+      "url": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-05T15:52:15.000Z",
+      "summary": "Rep. Brad Sherman warned that allowing government payments in stablecoins would \"sanctify an alternative to the U.S. dollar.\"",
       "tags": [
-        "pump",
-        "00118",
-        "next"
+        "government",
+        "stablecoin",
+        "payments"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
+        "recencyScore": 5,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b28b5ea0834b35434c2da183686b25b92cfde48b",
+      "score": 16
+    },
+    {
+      "id": "https://ambcrypto.com/why-jitos-14-rally-faces-a-reality-check-as-jto-netflow-turns-negative",
+      "title": "Why Jito’s 14% rally faces a reality check as JTO netflow turns negative",
+      "url": "https://ambcrypto.com/why-jitos-14-rally-faces-a-reality-check-as-jto-netflow-turns-negative",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-07T20:00:30.000Z",
+      "summary": "Continued retail selling could leave JTO bulls regretting their bet on more upside.",
+      "tags": [
+        "jito",
+        "rally",
+        "faces"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
         "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "831e44169581d62a4d839a49f4a7a390fdb94b37",
-      "score": 18
+      "dedupeFingerprint": "b0e268cf90fe3e8a32cb064e6728b6e31b705a7c",
+      "score": 15
     }
   ]
 }
