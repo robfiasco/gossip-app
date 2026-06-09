@@ -1,21 +1,26 @@
 {
-  "date": "2026-06-08",
-  "generated_at_utc": "2026-06-08T21:10:43.240Z",
-  "ctxMarket": "Attention is on institutional adoption and new primitives in the Solana ecosystem. Recent headlines highlight major banks engaging with crypto lending and ongoing growth in tokenized assets and stablecoins.",
-  "ctxTalking": "• Morgan Stanley’s partnership with Galaxy Digital enables clients to lend Solana, Bitcoin, and Ethereum for ETP shares.\n• Solana ecosystem reports record highs in tokenized real-world assets and ETF inflows.\n• Native onchain subscriptions and allowances are now live on Solana.",
-  "ctxMatters": "Institutional players are expanding their crypto offerings to include Solana, signaling increased mainstream engagement. The rise in tokenized assets and stablecoin supply points to Solana’s growing role in digital finance infrastructure. New payment primitives could drive more consumer and developer activity on the network.",
-  "ctxSignal": "Signal: Institutional lending products now include Solana; onchain recurring payments are live.\nNoise: Speculation about the long-term impact of ETF inflows without supporting data.",
-  "ctxGlossary": "ETP — Exchange-traded product, a security that tracks an underlying asset and trades on exchanges.\nRWA — Real-world asset, physical or traditional financial assets represented onchain.",
+  "date": "2026-06-09",
+  "generated_at_utc": "2026-06-09T10:33:05.319Z",
+  "ctxMarket": "Solana is drawing attention for its relative strength, even as broader crypto markets show signs of extreme fear. Recent headlines suggest questions about whether Solana is beginning to decouple from the rest of the market.",
+  "ctxTalking": "• Solana’s resilience compared to other major tokens amid market uncertainty\n• Controversy around memecoin-related stunts and the role of platforms like Pump.fun\n• Institutional adoption, with Morgan Stanley enabling lending of Solana alongside Bitcoin and Ethereum",
+  "ctxMatters": "Solana’s perceived strength could influence sentiment and capital flows within its ecosystem. New onchain primitives for subscriptions and allowances may unlock novel business models. Institutional interest, as seen with Morgan Stanley, signals growing acceptance of Solana as collateral in mainstream finance.",
+  "ctxSignal": "Signal: Solana’s new recurring payments feature and its inclusion in institutional lending programs.\nNoise: Sensational coverage of memecoin stunts, which may not reflect broader ecosystem trends.",
+  "ctxGlossary": "Decoupling — When an asset’s price movement diverges from the broader market.\nOnchain primitive — A basic building block for blockchain applications, like payments or permissions.",
   "readMore": [
+    {
+      "title": "Solana shows diverging strength – Is SOL’s $100 move taking shape?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-shows-diverging-strength-is-sols-100-move-taking-shape"
+    },
+    {
+      "title": "Forehead tattoos and alcohol dares",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/08/forehead-tattoos-and-alcohol-dares-inside-the-dark-underbelly-of-crypto-s-memecoin-craze"
+    },
     {
       "title": "Morgan Stanley’s Galaxy deal points to Bitcoin’s next institutional test",
       "source": "CryptoSlate",
       "url": "https://cryptoslate.com/morgan-stanleys-galaxy-deal-points-to-bitcoins-next-institutional-test-lending-collateral"
-    },
-    {
-      "title": "Solana Ecosystem Roundup",
-      "source": "Solana News",
-      "url": "https://solana.com/news/solana-ecosystem-roundup-may-2026"
     }
   ]
 }

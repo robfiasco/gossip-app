@@ -1,24 +1,57 @@
 {
   "meta": {
-    "generatedAt": "2026-06-08T21:10:27.556Z",
-    "totalCandidates": 103,
-    "solanaCandidates": 11,
+    "generatedAt": "2026-06-09T10:32:56.470Z",
+    "totalCandidates": 101,
+    "solanaCandidates": 15,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/crypto-liquidity-weakens-as-boj-and-fomc-meetings-approach-what-next",
-      "title": "Crypto liquidity weakens as BOJ and FOMC meetings approach – What next?",
-      "url": "https://ambcrypto.com/crypto-liquidity-weakens-as-boj-and-fomc-meetings-approach-what-next",
+      "id": "https://ambcrypto.com/solana-shows-diverging-strength-is-sols-100-move-taking-shape",
+      "title": "Solana shows diverging strength – Is SOL’s $100 move taking shape?",
+      "url": "https://ambcrypto.com/solana-shows-diverging-strength-is-sols-100-move-taking-shape",
       "source": "AMB Crypto",
-      "publishedAt": "2026-06-08T17:00:38.000Z",
-      "summary": "Stablecoin outflows highlight weakening crypto liquidity ahead of key policy decisions.",
+      "publishedAt": "2026-06-09T05:00:41.000Z",
+      "summary": "Despite extreme fear across crypto markets, Solana’s strength raises questions about whether a true decoupling is beginning.",
       "tags": [
-        "crypto",
-        "liquidity",
-        "weakens"
+        "solana",
+        "shows",
+        "diverging"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "23dab3e87145144508271e9e7b648a71c12cbc52",
+      "score": 24
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/06/09/coinbase-and-cardless-unveil-credit-card-backed-by-stablecoins",
+      "title": "Coinbase and Cardless unveil credit card backed by stablecoins",
+      "url": "https://www.coindesk.com/business/2026/06/09/coinbase-and-cardless-unveil-credit-card-backed-by-stablecoins",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-09T08:04:59.000Z",
+      "summary": "The stablecoin-secured card is for situations where a credit card cannot be approved on an unsecured basis.",
+      "tags": [
+        "coinbase",
+        "cardless",
+        "unveil"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,14 +64,14 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c208da0e659e1318ffb2647498253a3237242bbf",
+      "dedupeFingerprint": "10740fbac37d9ab918d3431bed10c7f7005fe984",
       "score": 22
     },
     {
@@ -66,27 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "48ad14a6d352fe26f3d61b8212dee0b57f946cde",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.theblock.co/post/403964/coinbase-ripple-among-over-200-crypto-organizations-urging-senate-clarity-act-vote",
-      "title": "Coinbase, Ripple among over 200 crypto organizations urging Senate Clarity Act vote",
-      "url": "https://www.theblock.co/post/403964/coinbase-ripple-among-over-200-crypto-organizations-urging-senate-clarity-act-vote",
-      "source": "The Block",
-      "publishedAt": "2026-06-08T12:34:47.000Z",
-      "summary": "More than 200 organizations, including Coinbase and Ripple, urged Senate leaders to advance the Clarity Act to a floor vote.",
+      "id": "https://ambcrypto.com/japan-eyes-yen-stablecoins-and-crypto-etfs-what-it-means-for-xrp",
+      "title": "Japan eyes yen stablecoins and crypto ETFs – What it means for XRP",
+      "url": "https://ambcrypto.com/japan-eyes-yen-stablecoins-and-crypto-etfs-what-it-means-for-xrp",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-09T04:00:32.000Z",
+      "summary": "Asia’s stablecoin regulations are boosting XRP adoption, driving XRPL growth and settlement-focused blockchain use.",
       "tags": [
-        "coinbase",
-        "ripple",
-        "among"
+        "japan",
+        "eyes",
+        "stablecoins"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -100,45 +133,12 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8d8a12f65a91359f568e1cfd3d23dd6f8a307e24",
-      "score": 22
-    },
-    {
-      "id": "https://cryptoslate.com/congress-is-weighing-whether-crypto-tax-relief-should-stop-at-stablecoins",
-      "title": "Congress is weighing whether crypto tax relief should stop at stablecoins",
-      "url": "https://cryptoslate.com/congress-is-weighing-whether-crypto-tax-relief-should-stop-at-stablecoins",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-08T14:10:05.000Z",
-      "summary": "A June 9 Ways and Means hearing pushes crypto policy into the tax code, where small payments, stablecoin use, network fees, mining, staking, and donations all face the same usability test. The post Congress is weighing whether crypto tax relief should stop at stablecoins appeared first on CryptoSlat",
-      "tags": [
-        "congress",
-        "weighing",
-        "whether"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2850918a97ee6c8d85627055ba6909fd09e16f2e",
-      "score": 20
+      "dedupeFingerprint": "01686c1e0142f9be9a57b6a106be96db7473498e",
+      "score": 19
     },
     {
       "id": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "53bda69ea24f363442678c9456438f44cc457076",
-      "score": 19
+      "score": 18
     }
   ]
 }
