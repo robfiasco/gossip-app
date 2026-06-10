@@ -1,26 +1,26 @@
 {
   "date": "2026-06-10",
-  "generated_at_utc": "2026-06-10T10:54:24.477Z",
-  "ctxMarket": "Attention is on regulatory developments and institutional moves within the Solana ecosystem. Recent ecosystem data highlights growth in tokenized assets and stablecoin supply.",
-  "ctxTalking": "• Debate over the CLARITY Act’s impact on open-source Solana developers\n• Appointment of former SEC Acting Chairman Piwowar to Backpack US’s board\n• Record highs in tokenized real-world assets and ETF inflows on Solana",
-  "ctxMatters": "Regulatory clarity could shape how open-source projects operate on Solana. The addition of a former SEC official to a Solana-linked company signals growing institutional focus. Ecosystem growth in tokenized assets and stablecoins may influence developer and investor engagement.",
-  "ctxSignal": "Signal: Ongoing regulatory discussions and high-profile board appointments reflect real shifts in how Solana projects may be governed and perceived.\nNoise: Speculation about immediate regulatory outcomes without finalized legislation.",
-  "ctxGlossary": "CLARITY Act — Proposed US legislation affecting crypto developer liability\nTokenized equities — Traditional stocks represented as digital tokens on a blockchain",
+  "generated_at_utc": "2026-06-10T21:24:49.588Z",
+  "ctxMarket": "Attention is on security and mainstream integrations, with Raydium’s exploit and Solana’s World Series of Poker sponsorship driving discussion. Infrastructure developments and new data products are also in focus.",
+  "ctxTalking": "• Raydium DEX suffered a $1.34 million exploit affecting inactive liquidity pools, with the treasury set to repay users.\n• Solana is now the official sponsor of the World Series of Poker, enabling crypto-based tournament entries and payouts.\n• Helius acquired Light Protocol to expand onchain privacy capabilities.",
+  "ctxMatters": "Security incidents like Raydium’s highlight ongoing risks in DeFi, even for inactive protocols. Solana’s integration with a major global event signals growing mainstream adoption and use cases for SOL and stablecoins. Infrastructure moves and new data products, such as Pyth’s continuous pricing, may improve transparency and privacy for users and builders.",
+  "ctxSignal": "Signal: Real-world integrations (World Series of Poker), security responses, and infrastructure consolidation are shaping Solana’s ecosystem.\nNoise: Speculation about broader DeFi risk not directly tied to today’s exploit.",
+  "ctxGlossary": "DEX — Decentralized exchange, allowing users to trade crypto assets without intermediaries.\nAMM — Automated Market Maker, a protocol that facilitates trading using liquidity pools.",
   "readMore": [
     {
-      "title": "Solana Institute CEO says CLARITY Act must shield open-source developers",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/solana-institute-ceo-clarity-act-developer-protections"
+      "title": "Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow"
     },
     {
-      "title": "Backpack US appoints former SEC Acting Chairman Piwowar to board amid push for crypto perps",
+      "title": "Solana infrastructure firm Helius acquires Light Protocol to expand onchain privacy",
       "source": "The Block",
-      "url": "https://www.theblock.co/post/404084/backpack-us-appoints-former-sec-acting-chairman-piwowar-to-board-amid-push-for-crypto-perps"
+      "url": "https://www.theblock.co/post/403982/solana-infrastructure-firm-helius-acquires-light-protocol-expand-onchain-privacy"
     },
     {
-      "title": "Solana Ecosystem Roundup",
-      "source": "Solana News",
-      "url": "https://solana.com/news/solana-ecosystem-roundup-may-2026"
+      "title": "Pyth unveils continuous pricing indexes for US stocks and commodities",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/pyth-24-7-pricing-indices-tokenized-stocks-commodities"
     }
   ]
 }

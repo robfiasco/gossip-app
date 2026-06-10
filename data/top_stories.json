@@ -1,159 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T10:54:16.693Z",
+    "generatedAt": "2026-06-10T21:24:41.869Z",
     "totalCandidates": 108,
-    "solanaCandidates": 22,
+    "solanaCandidates": 32,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/404212/japans-three-megabanks-stablecoin-march-2027",
-      "title": "Japan’s three megabanks to debut live stablecoin transactions by March 2027",
-      "url": "https://www.theblock.co/post/404212/japans-three-megabanks-stablecoin-march-2027",
-      "source": "The Block",
-      "publishedAt": "2026-06-10T07:58:34.000Z",
-      "summary": "MUFG Bank, Mizuho Bank, and SMBC have set up a council to examine operational frameworks and governance for the stablecoin issuance.",
-      "tags": [
-        "japan",
-        "three",
-        "megabanks"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5de479d3ed1a81d42d4965ef2de3ab9c5a8a0b2e",
-      "score": 25
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/06/10/japan-s-three-largest-banks-aim-for-joint-stablecoin-issue-by-march",
-      "title": "Japan's three largest banks aim for joint stablecoin issue by March",
-      "url": "https://www.coindesk.com/business/2026/06/10/japan-s-three-largest-banks-aim-for-joint-stablecoin-issue-by-march",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-10T09:01:14.000Z",
-      "summary": "MUFG, SMBC and Mizuho will establish a council to explore operational frameworks and prepare for the issuance of stablecoins.",
-      "tags": [
-        "japan",
-        "three",
-        "largest"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "4c2df5902fcc00843dc4eee75c5c0142c2ae1837",
-      "score": 22
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market",
-      "title": "Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market",
-      "url": "https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-09T19:49:28.000Z",
-      "summary": "At a panel at ETHConf, Carlos Domingo argued that bringing stocks and exchange-traded funds onchain could unlock a market far larger than today's roughly $30 billion tokenized asset sector.",
-      "tags": [
-        "securitize",
-        "says",
-        "tokenized"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "0266c51a3f4e2ab21a6a32f5365e5077f6529d02",
-      "score": 21
-    },
-    {
-      "id": "https://www.theblock.co/post/404136/new-aave-risk-framework-proposed-following-kelpdao-exploit",
-      "title": "New Aave risk framework proposed following KelpDAO exploit",
-      "url": "https://www.theblock.co/post/404136/new-aave-risk-framework-proposed-following-kelpdao-exploit",
-      "source": "The Block",
-      "publishedAt": "2026-06-09T15:08:35.000Z",
-      "summary": "Aave founder Stani Kulechov said once the proposal passes the framework will be applied across all markets and assets.",
-      "tags": [
-        "aave",
-        "risk",
-        "framework"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "62f8283237196a6a42a0458e7df000cd06927cf3",
-      "score": 16
-    },
-    {
-      "id": "https://decrypt.co/370599/crypto-tax-bills-pushback-house-committee",
-      "title": "Crypto Tax Bills Face Pushback in House Committee Hearing",
-      "url": "https://decrypt.co/370599/crypto-tax-bills-pushback-house-committee",
+      "id": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
+      "title": "Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow",
+      "url": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
       "source": "Decrypt",
-      "publishedAt": "2026-06-09T21:44:38.000Z",
-      "summary": "Pro-crypto Democrats questioned staking and mining tax exemptions Tuesday, while party leadership said the bills may need to wait until after the midterms.",
+      "publishedAt": "2026-06-10T20:19:35.000Z",
+      "summary": "Solana-based decentralized exchange Raydium will repay the funds swiped in the $1.34 million exploit using its treasury.",
       "tags": [
-        "crypto",
-        "bills",
-        "face"
+        "solana",
+        "exchange",
+        "raydium"
       ],
       "topicBucket": "general",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +31,147 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a2d73fbf896a449ddb687eb0ee66b692d76dcd0a",
-      "score": 15
+      "dedupeFingerprint": "50845b96cb2a39d01765b12df07eb3ff5f72c0ef",
+      "score": 29
+    },
+    {
+      "id": "https://solana.com/news/world-series-of-poker",
+      "title": "World Series of Poker, Dealt by Solana",
+      "url": "https://solana.com/news/world-series-of-poker",
+      "source": "Solana News",
+      "publishedAt": "2026-06-10T12:50:00.000Z",
+      "summary": "Solana is the official Presenting sponsor of the World Series of Poker 2026, and players can enter into tournaments directly with crypto on Solana with zero processing fees.",
+      "tags": [
+        "world",
+        "series",
+        "poker"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 14,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c65b0ba2b99e5de73abb096c8577709e8a12ac85",
+      "score": 29
+    },
+    {
+      "id": "https://decrypt.co/370578/solana-sponsors-world-series-poker-crypto-entry-fees-payouts",
+      "title": "Solana Sponsors the World Series of Poker, Enabling Crypto Entry Fees and Payouts",
+      "url": "https://decrypt.co/370578/solana-sponsors-world-series-poker-crypto-entry-fees-payouts",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-10T13:01:20.000Z",
+      "summary": "Players can now enter World Series of Poker tournaments with SOL or stablecoins, with Solana branding to be prominent at events.",
+      "tags": [
+        "solana",
+        "sponsors",
+        "world"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 14,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "cca59fc3989510e272d12726fe0049db68bdc69c",
+      "score": 27
+    },
+    {
+      "id": "https://www.theblock.co/post/403982/solana-infrastructure-firm-helius-acquires-light-protocol-expand-onchain-privacy",
+      "title": "Solana infrastructure firm Helius acquires Light Protocol to expand onchain privacy",
+      "url": "https://www.theblock.co/post/403982/solana-infrastructure-firm-helius-acquires-light-protocol-expand-onchain-privacy",
+      "source": "The Block",
+      "publishedAt": "2026-06-10T18:58:51.000Z",
+      "summary": "The acquisition comes amid a moment of consolidation in the crypto industry and during a resurgent interest in onchain privacy.",
+      "tags": [
+        "solana",
+        "infrastructure",
+        "firm"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "a2ef21b7a96a8aff8939905368fd1d9357b8f240",
+      "score": 24
+    },
+    {
+      "id": "https://www.theblock.co/post/404304/raydium-dex-1-34-million-exploit-retired-amm-program-treasury-cover-losses",
+      "title": "Raydium DEX says $1.34 million exploit hit retired AMM program, treasury to cover losses",
+      "url": "https://www.theblock.co/post/404304/raydium-dex-1-34-million-exploit-retired-amm-program-treasury-cover-losses",
+      "source": "The Block",
+      "publishedAt": "2026-06-10T17:07:20.000Z",
+      "summary": "The exploit drained roughly $1.34 million from five inactive Raydium liquidity pools, and impacted users will be compensated.",
+      "tags": [
+        "raydium",
+        "says",
+        "million"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "83eff132ab69369b2e69e38f64df8b2f6f93dcfb",
+      "score": 24
     }
   ]
 }
