@@ -1,57 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-06-09T20:54:57.689Z",
-    "totalCandidates": 110,
-    "solanaCandidates": 19,
+    "generatedAt": "2026-06-10T10:54:16.693Z",
+    "totalCandidates": 108,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/404084/backpack-us-appoints-former-sec-acting-chairman-piwowar-to-board-amid-push-for-crypto-perps",
-      "title": "Backpack US appoints former SEC Acting Chairman Piwowar to board amid push for crypto perps",
-      "url": "https://www.theblock.co/post/404084/backpack-us-appoints-former-sec-acting-chairman-piwowar-to-board-amid-push-for-crypto-perps",
+      "id": "https://www.theblock.co/post/404212/japans-three-megabanks-stablecoin-march-2027",
+      "title": "Japan’s three megabanks to debut live stablecoin transactions by March 2027",
+      "url": "https://www.theblock.co/post/404212/japans-three-megabanks-stablecoin-march-2027",
       "source": "The Block",
-      "publishedAt": "2026-06-09T13:05:03.000Z",
-      "summary": "Michael S. Piwowar was appointed by President Barack Obama and served as an SEC commissioner from 2013 to 2018.",
+      "publishedAt": "2026-06-10T07:58:34.000Z",
+      "summary": "MUFG Bank, Mizuho Bank, and SMBC have set up a council to examine operational frameworks and governance for the stablecoin issuance.",
       "tags": [
-        "backpack",
-        "appoints",
-        "former"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "dc5d69c67ad22d5b5a23a7232126fd2cebce8a0b",
-      "score": 24
-    },
-    {
-      "id": "https://ambcrypto.com/new-york-positions-itself-as-the-blueprint-regulator-for-genius-era-stablecoins",
-      "title": "New York positions itself as the blueprint regulator for GENIUS-era stablecoins",
-      "url": "https://ambcrypto.com/new-york-positions-itself-as-the-blueprint-regulator-for-genius-era-stablecoins",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-09T20:30:56.000Z",
-      "summary": "The NYDFS proposal signals that New York wants to remain the leading state regulator for GENIUS-era stablecoin issuers.",
-      "tags": [
-        "york",
-        "positions",
-        "itself"
+        "japan",
+        "three",
+        "megabanks"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -67,11 +34,44 @@
         "relevanceScore": 11,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a4cb4e7b00de7987ce85a4aa960fa614bfbece9f",
+      "dedupeFingerprint": "5de479d3ed1a81d42d4965ef2de3ab9c5a8a0b2e",
+      "score": 25
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/06/10/japan-s-three-largest-banks-aim-for-joint-stablecoin-issue-by-march",
+      "title": "Japan's three largest banks aim for joint stablecoin issue by March",
+      "url": "https://www.coindesk.com/business/2026/06/10/japan-s-three-largest-banks-aim-for-joint-stablecoin-issue-by-march",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-10T09:01:14.000Z",
+      "summary": "MUFG, SMBC and Mizuho will establish a council to explore operational frameworks and prepare for the issuance of stablecoins.",
+      "tags": [
+        "japan",
+        "three",
+        "largest"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "4c2df5902fcc00843dc4eee75c5c0142c2ae1837",
       "score": 22
     },
     {
@@ -99,46 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "0266c51a3f4e2ab21a6a32f5365e5077f6529d02",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/governance-takeover-lets-attacker-mint-10b-top-tokens-in-1-5m-exploit",
-      "title": "Governance takeover lets attacker mint 10B TOP tokens in $1.5m exploit",
-      "url": "https://ambcrypto.com/governance-takeover-lets-attacker-mint-10b-top-tokens-in-1-5m-exploit",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-09T15:07:34.000Z",
-      "summary": "Security researchers said the exploit targeted an Aragon DAO governance setup rather than Balancer itself.",
-      "tags": [
-        "governance",
-        "takeover",
-        "lets"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "792c4dadf294a535ad164da5f5be0e5e77314fd9",
-      "score": 19
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/404136/new-aave-risk-framework-proposed-following-kelpdao-exploit",
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "62f8283237196a6a42a0458e7df000cd06927cf3",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "https://decrypt.co/370599/crypto-tax-bills-pushback-house-committee",
+      "title": "Crypto Tax Bills Face Pushback in House Committee Hearing",
+      "url": "https://decrypt.co/370599/crypto-tax-bills-pushback-house-committee",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-09T21:44:38.000Z",
+      "summary": "Pro-crypto Democrats questioned staking and mining tax exemptions Tuesday, while party leadership said the bills may need to wait until after the midterms.",
+      "tags": [
+        "crypto",
+        "bills",
+        "face"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "a2d73fbf896a449ddb687eb0ee66b692d76dcd0a",
+      "score": 15
     }
   ]
 }

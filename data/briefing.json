@@ -1,8 +1,17 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Solana Institute CEO says CLARITY Act must shield open-source developers",
+      "category": "APPS",
+      "source": "Cointelegraph",
+      "date": "2026-06-09",
+      "url": "https://cointelegraph.com/news/solana-institute-ceo-clarity-act-developer-protections",
+      "whyYouShouldCare": "The CLARITY Act's potential protections for open-source developers could enhance Solana's ecosystem by fostering innovation and attracting more developers to the platform."
+    },
     {
       "type": "MARKET",
       "title": "Backpack US appoints former SEC Acting Chairman Piwowar to board amid push for crypto perps",
@@ -10,25 +19,16 @@
       "source": "The Block",
       "date": "2026-06-09",
       "url": "https://www.theblock.co/post/404084/backpack-us-appoints-former-sec-acting-chairman-piwowar-to-board-amid-push-for-crypto-perps",
-      "whyYouShouldCare": "The appointment of Piwowar could enhance regulatory clarity for crypto derivatives, potentially increasing institutional interest in Solana-based products."
+      "whyYouShouldCare": "The appointment of Piwowar to Backpack US's board could signal increased regulatory engagement, impacting Solana's market positioning and liquidity as crypto derivatives evolve."
     },
     {
-      "type": "MARKET",
-      "title": "New York positions itself as the blueprint regulator for GENIUS-era stablecoins",
-      "category": "MARKET",
-      "source": "AMB Crypto",
-      "date": "2026-06-09",
-      "url": "https://ambcrypto.com/new-york-positions-itself-as-the-blueprint-regulator-for-genius-era-stablecoins",
-      "whyYouShouldCare": "New York's regulatory framework for stablecoins may attract more projects to Solana, boosting liquidity and ecosystem development."
-    },
-    {
-      "type": "ECOSYSTEM",
-      "title": "Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market",
-      "category": "ECOSYSTEM",
+      "type": "APPS",
+      "title": "Zcash, Hyperliquid tokens lead losses as traders bet against a bitcoin bounce",
+      "category": "APPS",
       "source": "CoinDesk",
-      "date": "2026-06-09",
-      "url": "https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market",
-      "whyYouShouldCare": "Tokenized stocks could significantly expand the crypto market, presenting new opportunities for Solana to integrate traditional assets into its ecosystem."
+      "date": "2026-06-10",
+      "url": "https://www.coindesk.com/markets/2026/06/10/zcash-hyperliquid-tokens-lead-losses-as-traders-bet-against-a-bitcoin-bounce",
+      "whyYouShouldCare": "The decline of Zcash and Hyperliquid tokens indicates a bearish sentiment that could affect overall market confidence, potentially impacting Solana's trading volumes and liquidity."
     }
   ]
 }
