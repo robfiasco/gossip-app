@@ -1,24 +1,57 @@
 {
   "meta": {
-    "generatedAt": "2026-06-11T11:21:20.198Z",
+    "generatedAt": "2026-06-11T21:17:24.199Z",
     "totalCandidates": 109,
-    "solanaCandidates": 28,
+    "solanaCandidates": 26,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
-      "title": "Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow",
-      "url": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-10T20:19:35.000Z",
-      "summary": "Solana-based decentralized exchange Raydium will repay the funds swiped in the $1.34 million exploit using its treasury.",
+      "id": "https://cryptoslate.com/why-is-solana-falling",
+      "title": "Why is Solana falling despite ETF inflows and booming activity?",
+      "url": "https://cryptoslate.com/why-is-solana-falling",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-11T11:50:41.000Z",
+      "summary": "Solana spot ETF AUM crossed $1 billion by month-end, following $115.3 million in net inflows in May, the best monthly figure of 2026. The market cap of tokenized real-world assets hit $2.8 billion, stablecoin supply crossed $16.4 billion, perps volume reached $64.6 billion, and Solana accounted for ",
       "tags": [
         "solana",
-        "exchange",
-        "raydium"
+        "falling",
+        "despite"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 14,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "fd4055d8348d28faf9d327b09cc2c792c64721a3",
+      "score": 26
+    },
+    {
+      "id": "https://ambcrypto.com/solana-why-sol-could-fall-to-50-after-breaking-this-key-support",
+      "title": "Solana – Why SOL could fall to $50 after breaking THIS key support",
+      "url": "https://ambcrypto.com/solana-why-sol-could-fall-to-50-after-breaking-this-key-support",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-11T17:00:33.000Z",
+      "summary": "A $13 million unstake revived an old concern for Solana holders.",
+      "tags": [
+        "solana",
+        "could",
+        "fall"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,30 +64,30 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "50845b96cb2a39d01765b12df07eb3ff5f72c0ef",
-      "score": 28
+      "dedupeFingerprint": "a5674383265ab32af991bd91ee2e618bdaf47d4c",
+      "score": 24
     },
     {
-      "id": "https://www.theblock.co/post/403982/solana-infrastructure-firm-helius-acquires-light-protocol-expand-onchain-privacy",
-      "title": "Solana infrastructure firm Helius acquires Light Protocol to expand onchain privacy",
-      "url": "https://www.theblock.co/post/403982/solana-infrastructure-firm-helius-acquires-light-protocol-expand-onchain-privacy",
+      "id": "https://www.theblock.co/post/402943/the-incentive-dynamic-engine-io-nets-shift-to-sustainable-tokenomics",
+      "title": "The Incentive Dynamic Engine: io.net’s Shift to Sustainable Tokenomics",
+      "url": "https://www.theblock.co/post/402943/the-incentive-dynamic-engine-io-nets-shift-to-sustainable-tokenomics",
       "source": "The Block",
-      "publishedAt": "2026-06-10T18:58:51.000Z",
-      "summary": "The acquisition comes amid a moment of consolidation in the crypto industry and during a resurgent interest in onchain privacy.",
+      "publishedAt": "2026-06-11T13:14:52.000Z",
+      "summary": "DePIN Needs a Tokenomics Reset In recent years, DePINs have surged in prominence, offering a revolutionary model for scaling physical infrastructure through community-driven participation. By leveraging blockchain to coordinate resources like compute power and storage, these protocols promise a futu",
       "tags": [
-        "solana",
-        "infrastructure",
-        "firm"
+        "incentive",
+        "dynamic",
+        "engine"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -64,15 +97,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 10,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a2ef21b7a96a8aff8939905368fd1d9357b8f240",
-      "score": 23
+      "dedupeFingerprint": "00fd111eaed02634051d299a1351402edbf91553",
+      "score": 22
     },
     {
       "id": "https://www.theblock.co/post/404376/visa-stablecoins-reshaping-back-end-of-commerce",
@@ -108,16 +141,16 @@
       "score": 22
     },
     {
-      "id": "https://www.coindesk.com/business/2026/06/10/netomi-ceo-says-usd5-trillion-ai-customer-experience-market-could-boost-stablecoin-demand",
-      "title": "Netomi CEO says $5 trillion AI customer experience market could boost stablecoin demand",
-      "url": "https://www.coindesk.com/business/2026/06/10/netomi-ceo-says-usd5-trillion-ai-customer-experience-market-could-boost-stablecoin-demand",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-10T16:17:18.000Z",
-      "summary": "Puneet Mehta, a former high-level Wall Street engineer and data scientist, said the rapid expansion of AI enterprise software will increase demand for stablecoins and blockchain.",
+      "id": "https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
+      "title": "Banks Say Stablecoin Rules Should Cover Secondary Markets",
+      "url": "https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-11T15:03:24.000Z",
+      "summary": "Banking industry trade groups argue AML rules should focus on higher-risk activity while addressing gaps in stablecoin secondary markets.",
       "tags": [
-        "netomi",
-        "says",
-        "trillion"
+        "banks",
+        "stablecoin",
+        "rules"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "b385caa3e67bd9b92bfdb44ce8154d6cc3d24f00",
-      "score": 21
-    },
-    {
-      "id": "https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule",
-      "title": "Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule",
-      "url": "https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-10T14:33:50.000Z",
-      "summary": "The groups say issuers, DeFi apps, and validators need clearer limits on who is responsible once stablecoins change hands.",
-      "tags": [
-        "paradigm",
-        "hyperliquid",
-        "policy"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5c3158f1d1fa7b454051ca5e52b657dd0c385dae",
-      "score": 20
+      "dedupeFingerprint": "1ff464d1f7db6e7956a9862ab4aca39c451e0fb1",
+      "score": 21
     }
   ]
 }
