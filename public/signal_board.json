@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-10",
-  "generated_at_utc": "2026-06-10T21:24:49.588Z",
-  "ctxMarket": "Attention is on security and mainstream integrations, with Raydium’s exploit and Solana’s World Series of Poker sponsorship driving discussion. Infrastructure developments and new data products are also in focus.",
-  "ctxTalking": "• Raydium DEX suffered a $1.34 million exploit affecting inactive liquidity pools, with the treasury set to repay users.\n• Solana is now the official sponsor of the World Series of Poker, enabling crypto-based tournament entries and payouts.\n• Helius acquired Light Protocol to expand onchain privacy capabilities.",
-  "ctxMatters": "Security incidents like Raydium’s highlight ongoing risks in DeFi, even for inactive protocols. Solana’s integration with a major global event signals growing mainstream adoption and use cases for SOL and stablecoins. Infrastructure moves and new data products, such as Pyth’s continuous pricing, may improve transparency and privacy for users and builders.",
-  "ctxSignal": "Signal: Real-world integrations (World Series of Poker), security responses, and infrastructure consolidation are shaping Solana’s ecosystem.\nNoise: Speculation about broader DeFi risk not directly tied to today’s exploit.",
-  "ctxGlossary": "DEX — Decentralized exchange, allowing users to trade crypto assets without intermediaries.\nAMM — Automated Market Maker, a protocol that facilitates trading using liquidity pools.",
+  "date": "2026-06-11",
+  "generated_at_utc": "2026-06-11T11:21:28.003Z",
+  "ctxMarket": "Attention is focused on Bitcoin’s renewed dominance as it holds above a key technical level, while Solana and other major altcoins struggle to break through similar resistance. Capital appears to be flowing back into BTC, shifting the spotlight away from altcoins.",
+  "ctxTalking": "• Raydium’s $1.34 million exploit involving an abandoned program and treasury-backed user compensation\n• Solana’s sponsorship of the World Series of Poker, enabling crypto payments for tournament entry and payouts\n• Helius acquiring Light Protocol to expand onchain privacy within the Solana ecosystem",
+  "ctxMatters": "Raydium’s exploit highlights ongoing security risks in DeFi, even from legacy code, but also shows treasury resources being used for user protection. Solana’s integration with a major global event like the World Series of Poker signals growing mainstream adoption and visibility. The Helius-Light Protocol deal points to continued investment in privacy solutions on Solana.",
+  "ctxSignal": "Signal: Security incidents and mainstream integrations are shaping perceptions of Solana’s reliability and reach.\nNoise: Short-term price comparisons to Bitcoin without clear ties to Solana-specific developments.",
+  "ctxGlossary": "AMM — Automated Market Maker, a type of decentralized exchange protocol\nTreasury — Reserve funds held by a protocol or organization for operational or emergency use",
   "readMore": [
+    {
+      "title": "Bitcoin advances, holds above key technical level that ether, solana can't break through",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-advances-holds-above-key-technical-level-that-ether-solana-can-t-break-through"
+    },
+    {
+      "title": "‘No current users affected’ – Raydium responds after $1.34mln exploit",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/no-current-users-affected-raydium-responds-after-1-34mln-exploit"
+    },
     {
       "title": "Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow",
       "source": "Decrypt",
       "url": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow"
-    },
-    {
-      "title": "Solana infrastructure firm Helius acquires Light Protocol to expand onchain privacy",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/403982/solana-infrastructure-firm-helius-acquires-light-protocol-expand-onchain-privacy"
-    },
-    {
-      "title": "Pyth unveils continuous pricing indexes for US stocks and commodities",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/pyth-24-7-pricing-indices-tokenized-stocks-commodities"
     }
   ]
 }
