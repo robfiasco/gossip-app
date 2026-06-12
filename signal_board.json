@@ -1,26 +1,26 @@
 {
   "date": "2026-06-12",
-  "generated_at_utc": "2026-06-12T10:59:40.471Z",
-  "ctxMarket": "Attention is on Solana’s growing role in real-world asset (RWA) tokenization and the launch of tokenized SpaceX stock. Despite strong ETF inflows and increased DeFi activity, Solana’s price is underperforming compared to Bitcoin and Ethereum.",
-  "ctxTalking": "• Solana’s RWA base surpassed $2.5B, challenging Ethereum’s lead in this sector\n• Tokenized SpaceX stock is debuting on Solana alongside its Nasdaq listing\n• A Raydium exploit highlighted risks in forgotten DeFi contracts",
-  "ctxMatters": "Solana’s expanding RWA and ETF activity signals institutional and mainstream interest. The SpaceX stock tokenization bridges traditional finance and blockchain, broadening asset access. The Raydium exploit underscores ongoing security challenges in legacy DeFi infrastructure.",
-  "ctxSignal": "Signal: Growth in Solana’s RWA sector and ETF inflows; launch of major tokenized equities.\nNoise: Short-term price moves not matching underlying activity and inflows.",
-  "ctxGlossary": "RWA — Real-world assets represented as tokens on a blockchain\nETF — Exchange-traded fund, a regulated investment product tradable on stock exchanges",
+  "generated_at_utc": "2026-06-12T21:01:50.542Z",
+  "ctxMarket": "Attention is on tokenized assets and institutional-grade products launching on Solana, alongside scrutiny of DeFi security after a Raydium exploit. Solana's support levels are in focus as exchange inflows increase and traders maintain long positions.",
+  "ctxTalking": "• Exodus and Ondo launched tokenized trading for over 200 stocks and ETFs on Solana\n• Ethena Labs is allocating $250 million to Securitize’s tokenized AAA CLO fund as it deploys on Solana\n• A Raydium AMM V3 exploit targeted legacy DeFi contracts, draining $1.34 million",
+  "ctxMatters": "Tokenized real-world assets and institutional funds are expanding Solana’s use cases beyond crypto-native activity. The Raydium exploit highlights ongoing risks from outdated DeFi infrastructure. Solana’s role as a sponsor for the World Series of Poker signals further mainstream integrations.",
+  "ctxSignal": "Signal: Major asset tokenization projects and institutional allocations are moving to Solana; DeFi security risks remain from legacy contracts.\nNoise: Speculation about short-term price moves tied to exchange inflows without clear causal evidence.",
+  "ctxGlossary": "Tokenized Stocks/ETFs — Traditional equities represented as tokens on a blockchain\nCLO Fund — Collateralized loan obligation fund, a structured credit investment product\nRaydium AMM — Automated market maker protocol on Solana for decentralized trading",
   "readMore": [
     {
-      "title": "Understanding why the RWA race is no longer Ethereum’s to control",
+      "title": "Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana"
+    },
+    {
+      "title": "Is Solana’s support strong enough to absorb 1.17 mln in exchange inflows?",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/understanding-why-the-rwa-race-is-no-longer-ethereums-to-control"
+      "url": "https://ambcrypto.com/is-solanas-support-strong-enough-to-absorb-1-17-mln-in-exchange-inflows"
     },
     {
       "title": "The next DeFi drain could come from legacy contracts everyone forgot",
       "source": "CryptoSlate",
       "url": "https://cryptoslate.com/legacy-defi-contracts-exploit-risk"
-    },
-    {
-      "title": "SpaceX stock is coming to Solana on the same day it lists on Nasdaq",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/10/spacex-stock-is-coming-to-solana-on-the-same-day-it-lists-on-nasdaq"
     }
   ]
 }
