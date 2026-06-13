@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "APPS",
+      "title": "Is Solana winning the tokenization race despite SOL’s technical weakness?",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-06-13",
+      "url": "https://ambcrypto.com/is-solana-winning-the-tokenization-race-despite-sols-technical-weakness",
+      "whyYouShouldCare": "Solana's advancements in tokenization could enhance its competitive edge, potentially increasing SOL's utility and adoption despite existing technical challenges."
+    },
+    {
+      "type": "MARKET",
+      "title": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
+      "category": "MARKET",
+      "source": "CoinDesk",
+      "date": "2026-06-13",
+      "url": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
+      "whyYouShouldCare": "Ripple's focus on AI payments in XRP and RLUSD highlights a shift in market dynamics, which may affect liquidity preferences and competitive positioning for SOL."
+    },
+    {
       "type": "ECOSYSTEM",
       "title": "Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana",
       "category": "ECOSYSTEM",
       "source": "The Block",
       "date": "2026-06-12",
       "url": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana",
-      "whyYouShouldCare": "The launch of tokenized markets on Solana enhances liquidity and expands investment options, potentially attracting more users to the ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Ethena Labs to allocate $250 million to Securitize’s Tokenized AAA CLO Fund as it deploys on Solana",
-      "category": "APPS",
-      "source": "The Block",
-      "date": "2026-06-12",
-      "url": "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana",
-      "whyYouShouldCare": "Ethena Labs' significant investment in a tokenized fund on Solana signals growing institutional interest and could bolster the platform's credibility and usage."
-    },
-    {
-      "type": "APPS",
-      "title": "How $48 mln vanished from Tron to Monero before Tether could stop it",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-06-13",
-      "url": "https://ambcrypto.com/how-48-mln-vanished-from-tron-to-monero-before-tether-could-stop-it",
-      "whyYouShouldCare": "The incident involving the transfer of funds highlights vulnerabilities in blockchain security, which could impact user trust and liquidity across platforms, including Solana."
+      "whyYouShouldCare": "The launch of tokenized markets on Solana with over 200 stocks and ETFs could significantly boost ecosystem usage and attract new investors to SOL."
     }
   ]
 }

@@ -1,25 +1,11 @@
 [
   {
-    "id": "6aed3854aa3b75a84cdace0c285b5a5e7da473d8",
-    "title": "Signal Board Summary 2026-06-13",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-06-13T09:55:22.466Z",
-    "lastSeenAt": "2026-06-13T09:55:22.466Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "115c2a175e07c06d5dd5188230174f607a95cea1",
     "title": "Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana",
     "url": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana",
     "source": "The Block",
     "firstSeenAt": "2026-06-12T21:01:25.301Z",
-    "lastSeenAt": "2026-06-13T09:55:14.975Z",
+    "lastSeenAt": "2026-06-13T20:14:11.123Z",
     "sectionShown": "briefing",
     "topicTags": [
       "exodus",
@@ -30,6 +16,62 @@
       "with",
       "plus",
       "stocks"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "3e17edd1bf7a035eb38bfedd0119bfb5296ec943",
+    "title": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
+    "url": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-06-13T20:14:11.123Z",
+    "lastSeenAt": "2026-06-13T20:14:11.123Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "ripple",
+      "wants",
+      "agents",
+      "rlusd",
+      "market",
+      "still",
+      "mostly",
+      "usdc"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "e09f7228456a43069016ca7aefb4456bdb528988",
+    "title": "Is Solana winning the tokenization race despite SOL’s technical weakness?",
+    "url": "https://ambcrypto.com/is-solana-winning-the-tokenization-race-despite-sols-technical-weakness",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-06-13T20:14:11.122Z",
+    "lastSeenAt": "2026-06-13T20:14:11.122Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "winning",
+      "tokenization",
+      "race",
+      "despite",
+      "technical",
+      "weakness",
+      "growing"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "6aed3854aa3b75a84cdace0c285b5a5e7da473d8",
+    "title": "Signal Board Summary 2026-06-13",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-06-13T09:55:22.466Z",
+    "lastSeenAt": "2026-06-13T09:55:22.466Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -198,69 +240,6 @@
       "activity",
       "spot",
       "crossed"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "a2ef21b7a96a8aff8939905368fd1d9357b8f240",
-    "title": "Solana infrastructure firm Helius acquires Light Protocol to expand onchain privacy",
-    "url": "https://www.theblock.co/post/403982/solana-infrastructure-firm-helius-acquires-light-protocol-expand-onchain-privacy",
-    "source": "The Block",
-    "firstSeenAt": "2026-06-11T11:21:20.368Z",
-    "lastSeenAt": "2026-06-11T11:21:20.368Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "infrastructure",
-      "firm",
-      "helius",
-      "acquires",
-      "light",
-      "protocol",
-      "expand"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "3729ba1c6b67da8197c9887ae0bf528be01ded59",
-    "title": "‘No current users affected’ – Raydium responds after $1.34mln exploit",
-    "url": "https://ambcrypto.com/no-current-users-affected-raydium-responds-after-1-34mln-exploit",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-06-11T11:21:20.368Z",
-    "lastSeenAt": "2026-06-11T11:21:20.368Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "current",
-      "users",
-      "affected",
-      "raydium",
-      "responds",
-      "after",
-      "34mln",
-      "exploit"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "50845b96cb2a39d01765b12df07eb3ff5f72c0ef",
-    "title": "Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow",
-    "url": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-06-11T11:21:20.367Z",
-    "lastSeenAt": "2026-06-11T11:21:20.367Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "exchange",
-      "raydium",
-      "with",
-      "million",
-      "exploit",
-      "defi",
-      "attacks"
     ],
     "majorUpdate": false,
     "updateReason": null

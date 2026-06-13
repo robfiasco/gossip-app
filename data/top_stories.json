@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-06-13T09:55:14.809Z",
-    "totalCandidates": 109,
-    "solanaCandidates": 10,
+    "generatedAt": "2026-06-13T20:14:10.953Z",
+    "totalCandidates": 110,
+    "solanaCandidates": 12,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://solana.com/news/world-series-of-poker",
-      "title": "World Series of Poker, Dealt by Solana",
-      "url": "https://solana.com/news/world-series-of-poker",
-      "source": "Solana News",
-      "publishedAt": "2026-06-10T12:50:00.000Z",
-      "summary": "Solana is the official Presenting sponsor of the World Series of Poker 2026, and players can enter into tournaments directly with crypto on Solana with zero processing fees.",
+      "id": "https://ambcrypto.com/is-solana-winning-the-tokenization-race-despite-sols-technical-weakness",
+      "title": "Is Solana winning the tokenization race despite SOL’s technical weakness?",
+      "url": "https://ambcrypto.com/is-solana-winning-the-tokenization-race-despite-sols-technical-weakness",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-13T16:00:46.000Z",
+      "summary": "Growing tokenization flows revive the Solana undervaluation debate.",
       "tags": [
-        "world",
-        "series",
-        "poker"
+        "solana",
+        "winning",
+        "tokenization"
       ],
-      "topicBucket": "general",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,15 +31,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 14,
+        "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 5,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c65b0ba2b99e5de73abb096c8577709e8a12ac85",
+      "dedupeFingerprint": "e09f7228456a43069016ca7aefb4456bdb528988",
       "score": 24
+    },
+    {
+      "id": "https://ambcrypto.com/4b-usdc-flows-to-hyperliquid-liquidity-signals-hypes-next-move",
+      "title": "$4B USDC flows to Hyperliquid – Liquidity signals HYPE’s next move",
+      "url": "https://ambcrypto.com/4b-usdc-flows-to-hyperliquid-liquidity-signals-hypes-next-move",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-13T10:30:46.000Z",
+      "summary": "Stablecoin flows could be the next catalyst for HYPE as liquidity surges across Hyperliquid.",
+      "tags": [
+        "usdc",
+        "flows",
+        "hyperliquid"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "d329613cc726779562a7a2e2b04b95c212c2a6d1",
+      "score": 22
     },
     {
       "id": "https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks",
@@ -66,25 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b46d401679be60464ba0ae7e1d1f14f2f451024e",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
-      "title": "Banks Say Stablecoin Rules Should Cover Secondary Markets",
-      "url": "https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-11T15:03:24.000Z",
-      "summary": "Banking industry trade groups argue AML rules should focus on higher-risk activity while addressing gaps in stablecoin secondary markets.",
+      "id": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
+      "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
+      "url": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-13T16:51:00.000Z",
+      "summary": "O’Connor argues that crypto’s clearest success story has scaled as money but not as capital.",
       "tags": [
-        "banks",
-        "stablecoin",
-        "rules"
+        "stablecoins",
+        "were",
+        "meant"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -97,29 +130,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "1ff464d1f7db6e7956a9862ab4aca39c451e0fb1",
-      "score": 18
+      "dedupeFingerprint": "dcb15cd3d53789fb1ad1e76e005ae98b70ea500b",
+      "score": 19
     },
     {
-      "id": "https://cryptoslate.com/sec-targets-20-year-old-rule-standing-between-wall-street-and-blockchain-trading",
-      "title": "SEC targets 20-year-old rule standing between Wall Street and blockchain trading",
-      "url": "https://cryptoslate.com/sec-targets-20-year-old-rule-standing-between-wall-street-and-blockchain-trading",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-12T20:05:02.000Z",
-      "summary": "The Securities and Exchange Commission (SEC) is moving to dismantle a stock-trading rule that has governed Wall Street for two decades. On June 11, the agency submitted a proposal that would rescind Rule 611 of Regulation NMS, the trade-through rule that requires trading centers to prevent stock tra",
+      "id": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going",
+      "title": "Morpho's $175M raise shows where crypto VC money is flowing",
+      "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-06-13T11:52:41.000Z",
+      "summary": "Morpho’s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.",
       "tags": [
-        "targets",
-        "year",
-        "rule"
+        "morpho",
+        "175m",
+        "raise"
       ],
-      "topicBucket": "market",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 2,
+        "recencyScore": 10,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "51df209325c8d2a1c4c18630a5f0d929be95e03a",
-      "score": 14
-    },
-    {
-      "id": "https://cryptoslate.com/clarity-act-moves-to-a-fight-between-cops-and-coders",
-      "title": "CLARITY Act moves to a fight between cops and coders",
-      "url": "https://cryptoslate.com/clarity-act-moves-to-a-fight-between-cops-and-coders",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-12T09:59:07.000Z",
-      "summary": "On June 10, administration officials hosted law enforcement groups at the White House to resolve the provision most likely to block the CLARITY Act from reaching the Senate floor for a vote. As Eleanor Terrett reported, the meeting drew around 20 attendees over nearly 90 minutes, with developer prot",
-      "tags": [
-        "clarity",
-        "moves",
-        "fight"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "057a74e452d81dc701ddd544ab7f1c7185f89350",
-      "score": 14
+      "dedupeFingerprint": "6b39a20d68532f59ec9dda4c54ecdf45bf39c537",
+      "score": 13
     }
   ]
 }

@@ -1,25 +1,11 @@
 [
   {
-    "id": "6aed3854aa3b75a84cdace0c285b5a5e7da473d8",
-    "title": "Signal Board Summary 2026-06-13",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-06-13T09:55:22.466Z",
-    "lastSeenAt": "2026-06-13T09:55:22.466Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "115c2a175e07c06d5dd5188230174f607a95cea1",
     "title": "Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana",
     "url": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana",
     "source": "The Block",
     "firstSeenAt": "2026-06-12T21:01:25.301Z",
-    "lastSeenAt": "2026-06-13T09:55:14.975Z",
+    "lastSeenAt": "2026-06-13T20:14:11.123Z",
     "sectionShown": "briefing",
     "topicTags": [
       "exodus",
@@ -30,6 +16,62 @@
       "with",
       "plus",
       "stocks"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "3e17edd1bf7a035eb38bfedd0119bfb5296ec943",
+    "title": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
+    "url": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-06-13T20:14:11.123Z",
+    "lastSeenAt": "2026-06-13T20:14:11.123Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "ripple",
+      "wants",
+      "agents",
+      "rlusd",
+      "market",
+      "still",
+      "mostly",
+      "usdc"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "e09f7228456a43069016ca7aefb4456bdb528988",
+    "title": "Is Solana winning the tokenization race despite SOL’s technical weakness?",
+    "url": "https://ambcrypto.com/is-solana-winning-the-tokenization-race-despite-sols-technical-weakness",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-06-13T20:14:11.122Z",
+    "lastSeenAt": "2026-06-13T20:14:11.122Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "winning",
+      "tokenization",
+      "race",
+      "despite",
+      "technical",
+      "weakness",
+      "growing"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "6aed3854aa3b75a84cdace0c285b5a5e7da473d8",
+    "title": "Signal Board Summary 2026-06-13",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-06-13T09:55:22.466Z",
+    "lastSeenAt": "2026-06-13T09:55:22.466Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -72,69 +114,6 @@
       "exchange",
       "inflows",
       "stabilized"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "16827572e7c50845729708ff02eefad34503f302",
-    "title": "PYTH attracts fresh capital after 15% rally – Is the downtrend finally weakening?",
-    "url": "https://ambcrypto.com/pyth-attracts-fresh-capital-after-15-rally-is-the-downtrend-finally-weakening",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-06-12T10:59:33.139Z",
-    "lastSeenAt": "2026-06-12T10:59:33.139Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "pyth",
-      "attracts",
-      "fresh",
-      "capital",
-      "after",
-      "rally",
-      "downtrend",
-      "finally"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "258d4a4796d7239c77e1a31e7e9473a0a1ab9771",
-    "title": "CoinDesk 20 performance update: Uniswap (UNI) gains 4.5% as all constituents rise",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/06/11/coindesk-20-performance-update-uniswap-uni-gains-4-5-as-all-constituents-rise",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-06-12T10:59:33.138Z",
-    "lastSeenAt": "2026-06-12T10:59:33.138Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "coindesk",
-      "performance",
-      "update",
-      "uniswap",
-      "gains",
-      "constituents",
-      "rise",
-      "solana"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "b6db852b420ce1c8d0663f767ec2423a7c465ac4",
-    "title": "Here’s why Solana is falling harder than Ethereum this June",
-    "url": "https://ambcrypto.com/heres-why-solana-is-falling-harder-than-ethereum-this-june",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-06-12T10:59:33.137Z",
-    "lastSeenAt": "2026-06-12T10:59:33.137Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "here",
-      "solana",
-      "falling",
-      "harder",
-      "than",
-      "ethereum",
-      "this",
-      "june"
     ],
     "majorUpdate": false,
     "updateReason": null
