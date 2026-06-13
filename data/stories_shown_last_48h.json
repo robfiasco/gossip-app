@@ -1,11 +1,25 @@
 [
   {
+    "id": "6aed3854aa3b75a84cdace0c285b5a5e7da473d8",
+    "title": "Signal Board Summary 2026-06-13",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-06-13T09:55:22.466Z",
+    "lastSeenAt": "2026-06-13T09:55:22.466Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "115c2a175e07c06d5dd5188230174f607a95cea1",
     "title": "Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana",
     "url": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana",
     "source": "The Block",
     "firstSeenAt": "2026-06-12T21:01:25.301Z",
-    "lastSeenAt": "2026-06-12T21:01:25.301Z",
+    "lastSeenAt": "2026-06-13T09:55:14.975Z",
     "sectionShown": "briefing",
     "topicTags": [
       "exodus",
@@ -16,6 +30,27 @@
       "with",
       "plus",
       "stocks"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "8c7f7a652506896cbd1935699dcf0eae20d825e9",
+    "title": "Ethena Labs to allocate $250 million to Securitize’s Tokenized AAA CLO Fund as it deploys on Solana",
+    "url": "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana",
+    "source": "The Block",
+    "firstSeenAt": "2026-06-12T21:01:25.301Z",
+    "lastSeenAt": "2026-06-13T09:55:14.975Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "ethena",
+      "labs",
+      "allocate",
+      "million",
+      "securitize",
+      "tokenized",
+      "fund",
+      "deploys"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -37,27 +72,6 @@
       "exchange",
       "inflows",
       "stabilized"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "8c7f7a652506896cbd1935699dcf0eae20d825e9",
-    "title": "Ethena Labs to allocate $250 million to Securitize’s Tokenized AAA CLO Fund as it deploys on Solana",
-    "url": "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana",
-    "source": "The Block",
-    "firstSeenAt": "2026-06-12T21:01:25.301Z",
-    "lastSeenAt": "2026-06-12T21:01:25.301Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "ethena",
-      "labs",
-      "allocate",
-      "million",
-      "securitize",
-      "tokenized",
-      "fund",
-      "deploys"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -247,83 +261,6 @@
       "exploit",
       "defi",
       "attacks"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "f13a9d0bc1f109984147b48677b52f10dd48e1aa",
-    "title": "Signal Board Summary 2026-06-10",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-06-10T21:24:49.590Z",
-    "lastSeenAt": "2026-06-10T21:24:49.590Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "09b93d99fcc7ab257f8cf1e1e9bc6686324cfb92",
-    "title": "World Series of Poker adds Solana payments for tournament buy-ins",
-    "url": "https://www.coindesk.com/tech/2026/06/09/world-series-of-poker-adds-solana-payments-for-tournament-buy-ins",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-06-10T21:24:42.028Z",
-    "lastSeenAt": "2026-06-10T21:24:42.028Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "world",
-      "series",
-      "poker",
-      "adds",
-      "solana",
-      "payments",
-      "tournament",
-      "move"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "83eff132ab69369b2e69e38f64df8b2f6f93dcfb",
-    "title": "Raydium DEX says $1.34 million exploit hit retired AMM program, treasury to cover losses",
-    "url": "https://www.theblock.co/post/404304/raydium-dex-1-34-million-exploit-retired-amm-program-treasury-cover-losses",
-    "source": "The Block",
-    "firstSeenAt": "2026-06-10T21:24:42.027Z",
-    "lastSeenAt": "2026-06-10T21:24:42.027Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "raydium",
-      "says",
-      "million",
-      "exploit",
-      "retired",
-      "program",
-      "treasury",
-      "cover"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "cca59fc3989510e272d12726fe0049db68bdc69c",
-    "title": "Solana Sponsors the World Series of Poker, Enabling Crypto Entry Fees and Payouts",
-    "url": "https://decrypt.co/370578/solana-sponsors-world-series-poker-crypto-entry-fees-payouts",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-06-10T21:24:42.027Z",
-    "lastSeenAt": "2026-06-10T21:24:42.027Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "sponsors",
-      "world",
-      "series",
-      "poker",
-      "enabling",
-      "crypto",
-      "entry"
     ],
     "majorUpdate": false,
     "updateReason": null

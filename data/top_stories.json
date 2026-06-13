@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-06-12T21:01:25.124Z",
+    "generatedAt": "2026-06-13T09:55:14.809Z",
     "totalCandidates": 109,
-    "solanaCandidates": 13,
+    "solanaCandidates": 10,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cryptoslate.com/ripple-chases-ais-machine-economy-as-xrpl-stablecoins-near-1-billion",
-      "title": "Ripple chases AI’s machine economy as XRPL stablecoins near $1 billion",
-      "url": "https://cryptoslate.com/ripple-chases-ais-machine-economy-as-xrpl-stablecoins-near-1-billion",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-12T11:25:51.000Z",
-      "summary": "Stablecoin liquidity on the XRP Ledger (XRPL) has nearly doubled over the past month, putting the network within reach of a $1 billion supply milestone as Ripple tries to position its blockchain for automated payments. The surge gives Ripple a stronger base for one of its most ambitious pitches yet:",
+      "id": "https://solana.com/news/world-series-of-poker",
+      "title": "World Series of Poker, Dealt by Solana",
+      "url": "https://solana.com/news/world-series-of-poker",
+      "source": "Solana News",
+      "publishedAt": "2026-06-10T12:50:00.000Z",
+      "summary": "Solana is the official Presenting sponsor of the World Series of Poker 2026, and players can enter into tournaments directly with crypto on Solana with zero processing fees.",
       "tags": [
-        "ripple",
-        "chases",
-        "machine"
+        "world",
+        "series",
+        "poker"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,15 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
+        "recencyScore": 5,
+        "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ddbf347e1a63d34bfb6a436ee47396619e8af664",
-      "score": 23
+      "dedupeFingerprint": "c65b0ba2b99e5de73abb096c8577709e8a12ac85",
+      "score": 24
     },
     {
       "id": "https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks",
@@ -66,60 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b46d401679be60464ba0ae7e1d1f14f2f451024e",
-      "score": 23
-    },
-    {
-      "id": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana",
-      "title": "Exodus, Ondo launch tokenized markets with 200-plus stocks and ETFs on Solana",
-      "url": "https://www.theblock.co/post/404622/exodus-launches-tokenized-markets-200-plus-stocks-etfs-on-solana",
-      "source": "The Block",
-      "publishedAt": "2026-06-12T13:26:25.000Z",
-      "summary": "Exodus partnered with Ondo on to launch tokenized trading of 200+ stocks and ETFs directly on the Solana blockchain.",
-      "tags": [
-        "exodus",
-        "ondo",
-        "launch"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "115c2a175e07c06d5dd5188230174f607a95cea1",
       "score": 22
     },
     {
-      "id": "https://ambcrypto.com/is-solanas-support-strong-enough-to-absorb-1-17-mln-in-exchange-inflows",
-      "title": "Is Solana’s support strong enough to absorb 1.17 mln in exchange inflows?",
-      "url": "https://ambcrypto.com/is-solanas-support-strong-enough-to-absorb-1-17-mln-in-exchange-inflows",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-12T13:00:29.000Z",
-      "summary": "Solana stabilized above key support as exchange balances rose and traders stayed aggressively long.",
+      "id": "https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
+      "title": "Banks Say Stablecoin Rules Should Cover Secondary Markets",
+      "url": "https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-11T15:03:24.000Z",
+      "summary": "Banking industry trade groups argue AML rules should focus on higher-risk activity while addressing gaps in stablecoin secondary markets.",
       "tags": [
-        "solana",
-        "support",
-        "strong"
+        "banks",
+        "stablecoin",
+        "rules"
       ],
-      "topicBucket": "market",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -132,25 +99,58 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
+        "recencyScore": 7,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "fe382658443b63d2cb3b39f07be07eaeb9dfb9c5",
-      "score": 19
+      "dedupeFingerprint": "1ff464d1f7db6e7956a9862ab4aca39c451e0fb1",
+      "score": 18
     },
     {
-      "id": "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana",
-      "title": "Ethena Labs to allocate $250 million to Securitize’s Tokenized AAA CLO Fund as it deploys on Solana",
-      "url": "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana",
-      "source": "The Block",
-      "publishedAt": "2026-06-12T13:00:00.000Z",
-      "summary": "STAC is one of Securitize’s in-house offerings that provides onchain access to institutional-grade, floating-rate structured credit.",
+      "id": "https://cryptoslate.com/sec-targets-20-year-old-rule-standing-between-wall-street-and-blockchain-trading",
+      "title": "SEC targets 20-year-old rule standing between Wall Street and blockchain trading",
+      "url": "https://cryptoslate.com/sec-targets-20-year-old-rule-standing-between-wall-street-and-blockchain-trading",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-12T20:05:02.000Z",
+      "summary": "The Securities and Exchange Commission (SEC) is moving to dismantle a stock-trading rule that has governed Wall Street for two decades. On June 11, the agency submitted a proposal that would rescind Rule 611 of Regulation NMS, the trade-through rule that requires trading centers to prevent stock tra",
       "tags": [
-        "ethena",
-        "labs",
-        "allocate"
+        "targets",
+        "year",
+        "rule"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "51df209325c8d2a1c4c18630a5f0d929be95e03a",
+      "score": 14
+    },
+    {
+      "id": "https://cryptoslate.com/clarity-act-moves-to-a-fight-between-cops-and-coders",
+      "title": "CLARITY Act moves to a fight between cops and coders",
+      "url": "https://cryptoslate.com/clarity-act-moves-to-a-fight-between-cops-and-coders",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-12T09:59:07.000Z",
+      "summary": "On June 10, administration officials hosted law enforcement groups at the White House to resolve the provision most likely to block the CLARITY Act from reaching the Senate floor for a vote. As Eleanor Terrett reported, the meeting drew around 20 attendees over nearly 90 minutes, with developer prot",
+      "tags": [
+        "clarity",
+        "moves",
+        "fight"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
+        "recencyScore": 9,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8c7f7a652506896cbd1935699dcf0eae20d825e9",
-      "score": 19
+      "dedupeFingerprint": "057a74e452d81dc701ddd544ab7f1c7185f89350",
+      "score": 14
     }
   ]
 }
