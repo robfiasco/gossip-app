@@ -1,27 +1,60 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T10:23:12.379Z",
-    "totalCandidates": 108,
-    "solanaCandidates": 14,
+    "generatedAt": "2026-06-14T20:16:13.812Z",
+    "totalCandidates": 105,
+    "solanaCandidates": 16,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks",
-      "title": "SEC’s proposal to scrap key NMS rules a major unlock for tokenized US stocks: analysts",
-      "url": "https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks",
-      "source": "The Block",
-      "publishedAt": "2026-06-12T04:15:13.000Z",
-      "summary": "Galaxy's Thorn said this would remove barriers that prevented DeFi automated market makers from trading tokenized US equities at scale.",
+      "id": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
+      "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
+      "url": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-14T15:00:00.000Z",
+      "summary": "The concept, called Predictive Allocation, will encourage participants to anticipate where liquidity will be needed next, instead of rewarding them for directing incentives toward pools that have already generated fees.",
       "tags": [
-        "proposal",
-        "scrap",
-        "rules"
+        "aerodrome",
+        "turning",
+        "liquidity"
       ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2965e538f6e0cca2b002fd8737235defc84bb983",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/defi-tvl-sinks-despite-315b-in-stablecoins-heres-why",
+      "title": "DeFi TVL sinks despite $315B in stablecoins – Here’s why",
+      "url": "https://ambcrypto.com/defi-tvl-sinks-despite-315b-in-stablecoins-heres-why",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-14T18:00:18.000Z",
+      "summary": "Investors reduce DeFi exposure while maintaining broader crypto holdings.",
+      "tags": [
+        "defi",
+        "sinks",
+        "despite"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -33,25 +66,25 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 6,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b46d401679be60464ba0ae7e1d1f14f2f451024e",
-      "score": 20
+      "dedupeFingerprint": "ed93341f0cd1c577e50b97ff81e903f60577f6f4",
+      "score": 21
     },
     {
-      "id": "https://ambcrypto.com/after-pyths-14-surge-off-record-low-can-it-now-clear-this-wall-of-sellers",
-      "title": "After PYTH’s 14% surge off record low, can it now clear THIS wall of sellers?",
-      "url": "https://ambcrypto.com/after-pyths-14-surge-off-record-low-can-it-now-clear-this-wall-of-sellers",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-14T07:00:52.000Z",
-      "summary": "The threat of a sharp decline still lingers for PYTH's traders.",
+      "id": "https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto",
+      "title": "Summer of crypto (regs): State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-14T18:30:00.000Z",
+      "summary": "Lawmakers are debating taxes, the CFTC put out a prediction market proposal and court cases are heating up.",
       "tags": [
-        "after",
-        "pyth",
-        "surge"
+        "summer",
+        "crypto",
+        "regs"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,62 +97,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "15d0d85dc7c6ba3ebb5d002bd1030349b2ed937c",
-      "score": 19
+      "dedupeFingerprint": "5195e199e9aba74f0733333596b40906bb78f48b",
+      "score": 17
     },
     {
-      "id": "https://ambcrypto.com/pyusd-loses-35-of-its-stablecoin-cap-as-usdc-makes-largest-transfer-in-history",
-      "title": "PYUSD loses 35% of its stablecoin cap as USDC makes largest transfer in history",
-      "url": "https://ambcrypto.com/pyusd-loses-35-of-its-stablecoin-cap-as-usdc-makes-largest-transfer-in-history",
+      "id": "https://ambcrypto.com/3-reasons-xrp-and-solana-could-lead-the-next-risk-on-phase",
+      "title": "3 reasons XRP and Solana could lead the next risk-on phase",
+      "url": "https://ambcrypto.com/3-reasons-xrp-and-solana-could-lead-the-next-risk-on-phase",
       "source": "AMB Crypto",
-      "publishedAt": "2026-06-14T02:00:16.000Z",
-      "summary": "Here is why Tether and Circle may continue dominating the stablecoin sector.",
+      "publishedAt": "2026-06-14T14:00:33.000Z",
+      "summary": "ETF inflows and on-chain growth pointed to selective accumulation despite broader market caution.",
       "tags": [
-        "pyusd",
-        "loses",
-        "stablecoin"
+        "reasons",
+        "solana",
+        "could"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "7b880e79ed9ebf09d266d76763d841215b541f8c",
-      "score": 19
-    },
-    {
-      "id": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
-      "title": "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
-      "url": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-13T16:51:00.000Z",
-      "summary": "O’Connor argues that crypto’s clearest success story has scaled as money but not as capital.",
-      "tags": [
-        "stablecoins",
-        "were",
-        "meant"
-      ],
-      "topicBucket": "defi",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -132,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "dcb15cd3d53789fb1ad1e76e005ae98b70ea500b",
-      "score": 18
+      "dedupeFingerprint": "0367f69e87ad92daace55aabe0c19eba5b6ddf80",
+      "score": 16
     },
     {
-      "id": "https://cryptoslate.com/spacexs-ipo-exposes-the-first-crack-in-tokenized-stocks",
-      "title": "SpaceX’s IPO exposes the first crack in tokenized stocks – fragmented ownership and allocation",
-      "url": "https://cryptoslate.com/spacexs-ipo-exposes-the-first-crack-in-tokenized-stocks",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-13T20:15:09.000Z",
-      "summary": "SpaceX priced its IPO at $135 per share on June 11, raised $75 billion in the largest public offering in history, and opened on Nasdaq at $150 Friday morning. By the time the stock reached $164, retail investors had gained “SpaceX exposure” through actual Nasdaq shares, Backpack Securities' redeemab",
+      "id": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher",
+      "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
+      "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-06-14T13:49:48.000Z",
+      "summary": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution.",
       "tags": [
-        "spacex",
-        "exposes",
-        "first"
+        "ethereum",
+        "quantum",
+        "proof"
       ],
-      "topicBucket": "consumer",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": -3,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 2,
+        "recencyScore": 10,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d5e392bce1c10eaba27f4fa6ba5f426a4f644a88",
-      "score": 14
+      "dedupeFingerprint": "ea17d67042b656cc3081dfdc2a63294137d633f4",
+      "score": -3
     }
   ]
 }
