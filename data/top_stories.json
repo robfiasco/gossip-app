@@ -1,79 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-06-13T20:14:10.953Z",
-    "totalCandidates": 110,
-    "solanaCandidates": 12,
+    "generatedAt": "2026-06-14T10:23:12.379Z",
+    "totalCandidates": 108,
+    "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://ambcrypto.com/is-solana-winning-the-tokenization-race-despite-sols-technical-weakness",
-      "title": "Is Solana winning the tokenization race despite SOL’s technical weakness?",
-      "url": "https://ambcrypto.com/is-solana-winning-the-tokenization-race-despite-sols-technical-weakness",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-13T16:00:46.000Z",
-      "summary": "Growing tokenization flows revive the Solana undervaluation debate.",
-      "tags": [
-        "solana",
-        "winning",
-        "tokenization"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "e09f7228456a43069016ca7aefb4456bdb528988",
-      "score": 24
-    },
-    {
-      "id": "https://ambcrypto.com/4b-usdc-flows-to-hyperliquid-liquidity-signals-hypes-next-move",
-      "title": "$4B USDC flows to Hyperliquid – Liquidity signals HYPE’s next move",
-      "url": "https://ambcrypto.com/4b-usdc-flows-to-hyperliquid-liquidity-signals-hypes-next-move",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-13T10:30:46.000Z",
-      "summary": "Stablecoin flows could be the next catalyst for HYPE as liquidity surges across Hyperliquid.",
-      "tags": [
-        "usdc",
-        "flows",
-        "hyperliquid"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d329613cc726779562a7a2e2b04b95c212c2a6d1",
-      "score": 22
-    },
     {
       "id": "https://www.theblock.co/post/404515/sec-proposal-major-unlock-tokenized-stocks",
       "title": "SEC’s proposal to scrap key NMS rules a major unlock for tokenized US stocks: analysts",
@@ -99,13 +33,79 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b46d401679be60464ba0ae7e1d1f14f2f451024e",
-      "score": 21
+      "score": 20
+    },
+    {
+      "id": "https://ambcrypto.com/after-pyths-14-surge-off-record-low-can-it-now-clear-this-wall-of-sellers",
+      "title": "After PYTH’s 14% surge off record low, can it now clear THIS wall of sellers?",
+      "url": "https://ambcrypto.com/after-pyths-14-surge-off-record-low-can-it-now-clear-this-wall-of-sellers",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-14T07:00:52.000Z",
+      "summary": "The threat of a sharp decline still lingers for PYTH's traders.",
+      "tags": [
+        "after",
+        "pyth",
+        "surge"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "15d0d85dc7c6ba3ebb5d002bd1030349b2ed937c",
+      "score": 19
+    },
+    {
+      "id": "https://ambcrypto.com/pyusd-loses-35-of-its-stablecoin-cap-as-usdc-makes-largest-transfer-in-history",
+      "title": "PYUSD loses 35% of its stablecoin cap as USDC makes largest transfer in history",
+      "url": "https://ambcrypto.com/pyusd-loses-35-of-its-stablecoin-cap-as-usdc-makes-largest-transfer-in-history",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-14T02:00:16.000Z",
+      "summary": "Here is why Tether and Circle may continue dominating the stablecoin sector.",
+      "tags": [
+        "pyusd",
+        "loses",
+        "stablecoin"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "7b880e79ed9ebf09d266d76763d841215b541f8c",
+      "score": 19
     },
     {
       "id": "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
@@ -132,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "dcb15cd3d53789fb1ad1e76e005ae98b70ea500b",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going",
-      "title": "Morpho's $175M raise shows where crypto VC money is flowing",
-      "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-06-13T11:52:41.000Z",
-      "summary": "Morpho’s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.",
+      "id": "https://cryptoslate.com/spacexs-ipo-exposes-the-first-crack-in-tokenized-stocks",
+      "title": "SpaceX’s IPO exposes the first crack in tokenized stocks – fragmented ownership and allocation",
+      "url": "https://cryptoslate.com/spacexs-ipo-exposes-the-first-crack-in-tokenized-stocks",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-13T20:15:09.000Z",
+      "summary": "SpaceX priced its IPO at $135 per share on June 11, raised $75 billion in the largest public offering in history, and opened on Nasdaq at $150 Friday morning. By the time the stock reached $164, retail investors had gained “SpaceX exposure” through actual Nasdaq shares, Backpack Securities' redeemab",
       "tags": [
-        "morpho",
-        "175m",
-        "raise"
+        "spacex",
+        "exposes",
+        "first"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "consumer",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "6b39a20d68532f59ec9dda4c54ecdf45bf39c537",
-      "score": 13
+      "dedupeFingerprint": "d5e392bce1c10eaba27f4fa6ba5f426a4f644a88",
+      "score": 14
     }
   ]
 }
