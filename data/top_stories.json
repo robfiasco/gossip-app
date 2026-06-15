@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-06-14T20:16:13.812Z",
-    "totalCandidates": 105,
-    "solanaCandidates": 16,
+    "generatedAt": "2026-06-15T13:10:59.695Z",
+    "totalCandidates": 96,
+    "solanaCandidates": 13,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://www.coindesk.com/markets/2026/06/15/trump-linked-stablecoin-used-for-bonus-payouts-at-white-house-ufc-contest",
+      "title": "Trump-linked stablecoin used for bonus payouts at White House UFC contest",
+      "url": "https://www.coindesk.com/markets/2026/06/15/trump-linked-stablecoin-used-for-bonus-payouts-at-white-house-ufc-contest",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-15T08:09:53.000Z",
+      "summary": "UFC Freedom 250 paid fighter bonuses in USD1, the stablecoin issued by the Trump-linked crypto venture World Liberty Financial, at a contest held at the White House.",
+      "tags": [
+        "trump",
+        "linked",
+        "stablecoin"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3e2da9e5dfbc3740630d2626da62ff036be56fd6",
+      "score": 22
+    },
     {
       "id": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
       "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
@@ -33,28 +66,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "2965e538f6e0cca2b002fd8737235defc84bb983",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://ambcrypto.com/defi-tvl-sinks-despite-315b-in-stablecoins-heres-why",
-      "title": "DeFi TVL sinks despite $315B in stablecoins – Here’s why",
-      "url": "https://ambcrypto.com/defi-tvl-sinks-despite-315b-in-stablecoins-heres-why",
+      "id": "https://ambcrypto.com/why-isnt-315b-stablecoin-supply-lifting-crypto-markets",
+      "title": "Why isn’t $315B stablecoin supply lifting crypto markets?",
+      "url": "https://ambcrypto.com/why-isnt-315b-stablecoin-supply-lifting-crypto-markets",
       "source": "AMB Crypto",
-      "publishedAt": "2026-06-14T18:00:18.000Z",
-      "summary": "Investors reduce DeFi exposure while maintaining broader crypto holdings.",
+      "publishedAt": "2026-06-15T02:00:09.000Z",
+      "summary": "Stablecoins continue growing as utility outpaces speculation.",
       "tags": [
-        "defi",
-        "sinks",
-        "despite"
+        "315b",
+        "stablecoin",
+        "supply"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -64,15 +97,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 10,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ed93341f0cd1c577e50b97ff81e903f60577f6f4",
-      "score": 21
+      "dedupeFingerprint": "243f6fb89f091b86f4b1ec4a6f06490f37afc55f",
+      "score": 19
+    },
+    {
+      "id": "https://ambcrypto.com/layerzero-rallies-14-ahead-of-23mln-token-unlock-can-zro-break-1-15",
+      "title": "LayerZero rallies 14% ahead of $23mln token unlock – Can ZRO break $1.15?",
+      "url": "https://ambcrypto.com/layerzero-rallies-14-ahead-of-23mln-token-unlock-can-zro-break-1-15",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-15T12:00:18.000Z",
+      "summary": "ZRO's recovery gains traction as buyers reclaim key levels, though supply risks remain on the horizon.",
+      "tags": [
+        "layerzero",
+        "rallies",
+        "ahead"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "1ee89b0d4327991e0d207d003e2d6d0454ffac6b",
+      "score": 16
     },
     {
       "id": "https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto",
@@ -99,79 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5195e199e9aba74f0733333596b40906bb78f48b",
-      "score": 17
-    },
-    {
-      "id": "https://ambcrypto.com/3-reasons-xrp-and-solana-could-lead-the-next-risk-on-phase",
-      "title": "3 reasons XRP and Solana could lead the next risk-on phase",
-      "url": "https://ambcrypto.com/3-reasons-xrp-and-solana-could-lead-the-next-risk-on-phase",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-14T14:00:33.000Z",
-      "summary": "ETF inflows and on-chain growth pointed to selective accumulation despite broader market caution.",
-      "tags": [
-        "reasons",
-        "solana",
-        "could"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "0367f69e87ad92daace55aabe0c19eba5b6ddf80",
       "score": 16
-    },
-    {
-      "id": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher",
-      "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
-      "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-06-14T13:49:48.000Z",
-      "summary": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution.",
-      "tags": [
-        "ethereum",
-        "quantum",
-        "proof"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ea17d67042b656cc3081dfdc2a63294137d633f4",
-      "score": -3
     }
   ]
 }
