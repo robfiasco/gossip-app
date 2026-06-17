@@ -1,60 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T11:44:40.387Z",
-    "totalCandidates": 109,
-    "solanaCandidates": 23,
+    "generatedAt": "2026-06-17T21:02:01.867Z",
+    "totalCandidates": 111,
+    "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/405012/coinbase-unveils-system-update-unlocking-an-ai-advisor-global-unified-liquidity-options-trading-and-more",
-      "title": "Coinbase unveils ‘System Update’ unlocking an AI advisor, global unified liquidity, options trading and more",
-      "url": "https://www.theblock.co/post/405012/coinbase-unveils-system-update-unlocking-an-ai-advisor-global-unified-liquidity-options-trading-and-more",
-      "source": "The Block",
-      "publishedAt": "2026-06-16T19:00:00.000Z",
-      "summary": "Coinbase's latest System Update includes a new AI-powered advisor and global unified liquidity between its U.S. and international platforms.",
+      "id": "https://decrypt.co/371435/coinbase-backed-crypto-perps-exchange-satori-finance-shutting-down",
+      "title": "Coinbase-Backed Crypto Perps Exchange Satori Finance Is Shutting Down",
+      "url": "https://decrypt.co/371435/coinbase-backed-crypto-perps-exchange-satori-finance-shutting-down",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-17T18:31:52.000Z",
+      "summary": "Perps DEX Satori Finance is the latest in a string of crypto firms forced to shut their doors amid an extended market downturn.",
       "tags": [
         "coinbase",
-        "unveils",
-        "system"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2e2188adb78ed8e72f0f3e35b84571e9894e8c38",
-      "score": 21
-    },
-    {
-      "id": "https://www.theblock.co/post/405005/squid-ripple-rlusd-stablecoin-cross-chain-swaps",
-      "title": "Squid adds Ripple’s RLUSD stablecoin for cross-chain swaps",
-      "url": "https://www.theblock.co/post/405005/squid-ripple-rlusd-stablecoin-cross-chain-swaps",
-      "source": "The Block",
-      "publishedAt": "2026-06-16T17:40:27.000Z",
-      "summary": "Cross-chain platform Squid has integrated Ripple's RLUSD stablecoin, allowing users to swap into and out of RLUSD across chains and assets.",
-      "tags": [
-        "squid",
-        "adds",
-        "ripple"
+        "backed",
+        "crypto"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -64,27 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
+        "recencyScore": 10,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0133be390a7cb0bf175052a2029e3fb1fec4eaac",
-      "score": 21
+      "dedupeFingerprint": "5f7f37103f3e9e00697546fb742a269ffa74690e",
+      "score": 24
     },
     {
-      "id": "https://www.coindesk.com/business/2026/06/16/state-street-targets-stablecoin-reserve-boom-with-new-money-market-fund",
-      "title": "State Street targets stablecoin reserve boom with new money market fund",
-      "url": "https://www.coindesk.com/business/2026/06/16/state-street-targets-stablecoin-reserve-boom-with-new-money-market-fund",
+      "id": "https://www.coindesk.com/markets/2026/06/17/fidelity-joins-wall-street-s-race-to-manage-stablecoin-reserves",
+      "title": "Fidelity joins Wall Street's race to manage stablecoin reserves",
+      "url": "https://www.coindesk.com/markets/2026/06/17/fidelity-joins-wall-street-s-race-to-manage-stablecoin-reserves",
       "source": "CoinDesk",
-      "publishedAt": "2026-06-16T14:27:26.000Z",
-      "summary": "The asset manager joins BlackRock, Franklin Templeton and others competing to manage reserves backing the growing stablecoin market.",
+      "publishedAt": "2026-06-17T20:30:48.000Z",
+      "summary": "Following State Street, Fidelity is targeting reserve assets that underpin the expanding stablecoin market.",
       "tags": [
-        "state",
-        "street",
-        "targets"
+        "fidelity",
+        "joins",
+        "wall"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -99,25 +66,58 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "eca4f93b4ff16926a0c2d016ecd3c755f35f0346",
+      "dedupeFingerprint": "7d46621238f0e0c6ec87e9c7f7f160822fa4bca4",
+      "score": 22
+    },
+    {
+      "id": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
+      "title": "CoinFund, Coinbase Back Stablecoin Payments Startup Trace Finance in $32 Million Raise",
+      "url": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-17T19:17:37.000Z",
+      "summary": "Stablecoin infrastructure firm Trace Finance said Wednesday that it raised a $32 million Series A round to help expand its reach.",
+      "tags": [
+        "coinfund",
+        "coinbase",
+        "back"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "49f8cf35b3454112af9f902bddcf8e588be99e7b",
       "score": 21
     },
     {
-      "id": "https://ambcrypto.com/jto-pumps-40-will-jito-reclaim-1-ahead-of-the-jtx-trade-debut",
-      "title": "JTO pumps 40% – Will Jito reclaim $1 ahead of the JTX Trade debut?",
-      "url": "https://ambcrypto.com/jto-pumps-40-will-jito-reclaim-1-ahead-of-the-jtx-trade-debut",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-16T22:00:10.000Z",
-      "summary": "Here's why July could make or break JTO's 2026 recovery.",
+      "id": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push",
+      "title": "Moody’s rolls out credit ratings on Solana in tokenized asset push",
+      "url": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-17T16:13:14.000Z",
+      "summary": "The ratings giant is embedding credit scores directly into blockchain-based securities, a move aimed at boosting institutional adoption.",
       "tags": [
-        "pumps",
-        "will",
-        "jito"
+        "moody",
+        "rolls",
+        "credit"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -132,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7cedeb695e2ac5e0c7492b3688c4675cb544a64e",
-      "score": 15
+      "dedupeFingerprint": "5f28a059644913089742a0db0e234fb8100bff68",
+      "score": 19
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
-      "title": "Uniswap jumps 22% and altcoins rip while bitcoin stalls before the Fed",
-      "url": "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-17T04:35:44.000Z",
-      "summary": "UNI surged after Standard Chartered set a $100 long-term target, and HYPE and solana led a broad altcoin bid. Bitcoin held near $66,000 as oil fell to a three-month low and the Fed met for the first time under Kevin Warsh.",
+      "id": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto",
+      "title": "Stablecoin infrastructure firm Trace Finance raises $32 million Series A, says valuation grew 10x from seed",
+      "url": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto",
+      "source": "The Block",
+      "publishedAt": "2026-06-17T14:19:00.000Z",
+      "summary": "CoinFund led the round, with Coinbase Ventures, Haun Ventures, Jump Capital, Paxos, Chainlink Labs and others participating.",
       "tags": [
-        "uniswap",
-        "jumps",
-        "altcoins"
+        "stablecoin",
+        "infrastructure",
+        "firm"
       ],
-      "topicBucket": "general",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": -3,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "974819a78842e787ac29ee8455062ed16b6b479c",
-      "score": 1
+      "dedupeFingerprint": "9f58cc2c579cfdbf6984f31ab47a55993b7ec87c",
+      "score": 19
     }
   ]
 }
