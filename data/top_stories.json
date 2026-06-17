@@ -1,79 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-06-16T21:41:21.686Z",
-    "totalCandidates": 108,
-    "solanaCandidates": 25,
+    "generatedAt": "2026-06-17T11:44:40.387Z",
+    "totalCandidates": 109,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://www.theblock.co/post/404806/pump-fun-activity-craters-80-three-months-solana-fees-lower-traders-rotate-perps",
-      "title": "Pump.fun activity craters 80% in three months, dragging Solana fees lower as traders rotate into perps",
-      "url": "https://www.theblock.co/post/404806/pump-fun-activity-craters-80-three-months-solana-fees-lower-traders-rotate-perps",
-      "source": "The Block",
-      "publishedAt": "2026-06-16T18:26:02.000Z",
-      "summary": "The platform's fall from grace is best reflected in the PUMP token itself, which is down 40% in the last six months alone.",
-      "tags": [
-        "pump",
-        "activity",
-        "craters"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 15,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "0a56d76942f6115ca7c570048c6b1d10d94a40ec",
-      "score": 29
-    },
-    {
-      "id": "https://www.theblock.co/post/404965/forward-solana-treasury-stock-jumps-8-as-smaller-dats-reject-acquisition-bids",
-      "title": "Forward Solana treasury stock jumps 8% as smaller DATs reject acquisition bids",
-      "url": "https://www.theblock.co/post/404965/forward-solana-treasury-stock-jumps-8-as-smaller-dats-reject-acquisition-bids",
-      "source": "The Block",
-      "publishedAt": "2026-06-16T15:22:31.000Z",
-      "summary": "Solana DAT stocks are moving on Tuesday as the largest SOL DAT Forward works to keep its acquisition bids alive.",
-      "tags": [
-        "forward",
-        "solana",
-        "treasury"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "10ffe8b7aa9b726aff36f69aef531e5967098007",
-      "score": 25
-    },
     {
       "id": "https://www.theblock.co/post/405012/coinbase-unveils-system-update-unlocking-an-ai-advisor-global-unified-liquidity-options-trading-and-more",
       "title": "Coinbase unveils ‘System Update’ unlocking an AI advisor, global unified liquidity, options trading and more",
@@ -99,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "2e2188adb78ed8e72f0f3e35b84571e9894e8c38",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/405005/squid-ripple-rlusd-stablecoin-cross-chain-swaps",
@@ -132,27 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "0133be390a7cb0bf175052a2029e3fb1fec4eaac",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://ambcrypto.com/state-street-launches-genius-act-aligned-stablecoin-reserve-fund-with-anchorage",
-      "title": "State Street launches GENIUS Act-aligned stablecoin reserve fund with Anchorage",
-      "url": "https://ambcrypto.com/state-street-launches-genius-act-aligned-stablecoin-reserve-fund-with-anchorage",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-16T16:48:52.000Z",
-      "summary": "State Street and Anchorage Digital launched SSCXX, a money market reserve fund aimed at regulated stablecoin infrastructure.",
+      "id": "https://www.coindesk.com/business/2026/06/16/state-street-targets-stablecoin-reserve-boom-with-new-money-market-fund",
+      "title": "State Street targets stablecoin reserve boom with new money market fund",
+      "url": "https://www.coindesk.com/business/2026/06/16/state-street-targets-stablecoin-reserve-boom-with-new-money-market-fund",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-16T14:27:26.000Z",
+      "summary": "The asset manager joins BlackRock, Franklin Templeton and others competing to manage reserves backing the growing stablecoin market.",
       "tags": [
         "state",
         "street",
-        "launches"
+        "targets"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +99,79 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "eca4f93b4ff16926a0c2d016ecd3c755f35f0346",
+      "score": 21
+    },
+    {
+      "id": "https://ambcrypto.com/jto-pumps-40-will-jito-reclaim-1-ahead-of-the-jtx-trade-debut",
+      "title": "JTO pumps 40% – Will Jito reclaim $1 ahead of the JTX Trade debut?",
+      "url": "https://ambcrypto.com/jto-pumps-40-will-jito-reclaim-1-ahead-of-the-jtx-trade-debut",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-16T22:00:10.000Z",
+      "summary": "Here's why July could make or break JTO's 2026 recovery.",
+      "tags": [
+        "pumps",
+        "will",
+        "jito"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "24207707708d9cb415ae898ebbe85dbd3c22ba2f",
-      "score": 19
+      "dedupeFingerprint": "7cedeb695e2ac5e0c7492b3688c4675cb544a64e",
+      "score": 15
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
+      "title": "Uniswap jumps 22% and altcoins rip while bitcoin stalls before the Fed",
+      "url": "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-17T04:35:44.000Z",
+      "summary": "UNI surged after Standard Chartered set a $100 long-term target, and HYPE and solana led a broad altcoin bid. Bitcoin held near $66,000 as oil fell to a three-month low and the Fed met for the first time under Kevin Warsh.",
+      "tags": [
+        "uniswap",
+        "jumps",
+        "altcoins"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -3,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "974819a78842e787ac29ee8455062ed16b6b479c",
+      "score": 1
     }
   ]
 }
