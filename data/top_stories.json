@@ -1,57 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-06-18T11:07:28.814Z",
-    "totalCandidates": 111,
-    "solanaCandidates": 19,
+    "generatedAt": "2026-06-18T21:22:00.938Z",
+    "totalCandidates": 112,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users",
-      "title": "Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery",
-      "url": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-18T09:30:02.000Z",
-      "summary": "Users face a September exit deadline while fresh Solana minting signals show liquidity moving faster than recovery systems. The post Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery appeared first on CryptoSlate.",
+      "id": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned",
+      "title": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
+      "url": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned",
+      "source": "The Block",
+      "publishedAt": "2026-06-18T14:05:02.000Z",
+      "summary": "Kraken launches onchain DEX trading to give customers access to thousands of tokens across the Solana ecosystem.",
       "tags": [
-        "solana",
-        "usdc",
-        "mint"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 19,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "4eaf4487fb53bce9a8b6344cb1502aefea0df857",
-      "score": 31
-    },
-    {
-      "id": "https://decrypt.co/371435/coinbase-backed-crypto-perps-exchange-satori-finance-shutting-down",
-      "title": "Coinbase-Backed Crypto Perps Exchange Satori Finance Is Shutting Down",
-      "url": "https://decrypt.co/371435/coinbase-backed-crypto-perps-exchange-satori-finance-shutting-down",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-17T18:31:52.000Z",
-      "summary": "Perps DEX Satori Finance is the latest in a string of crypto firms forced to shut their doors amid an extended market downturn.",
-      "tags": [
-        "coinbase",
-        "backed",
-        "crypto"
+        "kraken",
+        "integrates",
+        "solana"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
@@ -64,29 +31,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5f7f37103f3e9e00697546fb742a269ffa74690e",
-      "score": 23
+      "dedupeFingerprint": "68df4973d4c7ca3511ae3fd144c1c3d08030ae68",
+      "score": 30
     },
     {
-      "id": "https://solana.com/news/introducing-frontier-traders",
-      "title": "Introducing Frontier Traders",
-      "url": "https://solana.com/news/introducing-frontier-traders",
-      "source": "Solana News",
-      "publishedAt": "2026-06-17T12:29:00.000Z",
-      "summary": "Join Frontier Traders, Solana's onchain trading community with VIP rebates, trading campaigns, global events, and rewards across the network's leading venues.",
+      "id": "https://ambcrypto.com/u-s-stablecoin-proposal-targets-issuers-not-wallet-to-wallet-transfers",
+      "title": "U.S. stablecoin proposal targets issuers, not wallet-to-wallet transfers",
+      "url": "https://ambcrypto.com/u-s-stablecoin-proposal-targets-issuers-not-wallet-to-wallet-transfers",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-18T15:31:15.000Z",
+      "summary": "A new GENIUS Act proposal would require stablecoin issuers to verify direct customers without imposing KYC obligations on every stablecoin transfer.",
       "tags": [
-        "introducing",
-        "frontier",
-        "traders"
+        "stablecoin",
+        "proposal",
+        "targets"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -97,48 +64,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 9,
+        "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 5,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "094bcd2c673b92da2e187d67cdc443fc9a8cb38c",
-      "score": 23
-    },
-    {
-      "id": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
-      "title": "CoinFund, Coinbase Back Stablecoin Payments Startup Trace Finance in $32 Million Raise",
-      "url": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-17T19:17:37.000Z",
-      "summary": "Stablecoin infrastructure firm Trace Finance said Wednesday that it raised a $32 million Series A round to help expand its reach.",
-      "tags": [
-        "coinfund",
-        "coinbase",
-        "back"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "49f8cf35b3454112af9f902bddcf8e588be99e7b",
-      "score": 20
+      "dedupeFingerprint": "3b618b108c5125c993bee5d2f6238bc9a18cc9b1",
+      "score": 27
     },
     {
       "id": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
@@ -172,6 +106,72 @@
       },
       "dedupeFingerprint": "f8264c095f7ab54d5c0f618bfb91ad17ed50f7a2",
       "score": 19
+    },
+    {
+      "id": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
+      "title": "CoinFund, Coinbase Back Stablecoin Payments Startup Trace Finance in $32 Million Raise",
+      "url": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-17T19:17:37.000Z",
+      "summary": "Stablecoin infrastructure firm Trace Finance said Wednesday that it raised a $32 million Series A round to help expand its reach.",
+      "tags": [
+        "coinfund",
+        "coinbase",
+        "back"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "49f8cf35b3454112af9f902bddcf8e588be99e7b",
+      "score": 19
+    },
+    {
+      "id": "https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins",
+      "title": "Custodia, Vantage propose token that toggles between bank deposits and stablecoins",
+      "url": "https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-06-18T21:02:29.000Z",
+      "summary": "The proposed system aims to connect traditional banking infrastructure with blockchain-based payment networks with banks retaining customer deposits.",
+      "tags": [
+        "custodia",
+        "vantage",
+        "propose"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "8e8e30d3bfb97b5360987739e1a98c61bfef9295",
+      "score": 15
     }
   ]
 }

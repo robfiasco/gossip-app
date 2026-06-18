@@ -1,21 +1,21 @@
 {
   "date": "2026-06-18",
-  "generated_at_utc": "2026-06-18T11:07:37.412Z",
-  "ctxMarket": "Attention is on Solana’s $1B USDC mint and its timing alongside a major DeFi app shutdown, raising questions about liquidity flows and user recovery. Institutional interest is highlighted by Moody’s new credit ratings for tokenized assets on Solana.",
-  "ctxTalking": "• The overlap of large-scale USDC minting with unresolved user withdrawals from the Drift DeFi app shutdown\n• Moody’s embedding credit ratings into Solana-based securities to encourage institutional use\n• Launch of Frontier Traders, a new Solana onchain trading community with incentives and events",
-  "ctxMatters": "Liquidity movements on Solana may outpace the speed of DeFi recovery systems, affecting user experience during app shutdowns. Moody’s involvement signals growing institutional frameworks for Solana assets. New trading communities like Frontier Traders could shape user engagement and network activity.",
-  "ctxSignal": "Signal: Institutional credit ratings and large USDC mints are shifting how assets and risk are managed on Solana.\nNoise: Promotional details about trading campaigns and rewards without broader ecosystem impact.",
-  "ctxGlossary": "USDC mint — Creation of new USD Coin tokens, often to provide liquidity\nCredit rating — An assessment of credit risk, now applied to blockchain assets",
+  "generated_at_utc": "2026-06-18T21:22:16.368Z",
+  "ctxMarket": "Attention is on Solana’s growing onchain trading infrastructure, with major exchanges and new communities expanding access. Liquidity movements and DeFi app shutdowns are also drawing scrutiny.",
+  "ctxTalking": "• Kraken now offers Solana DEX trading directly in its main app, with plans to add more networks.\n• A $1B USDC mint on Solana is coinciding with a DeFi app shutdown, leaving some users in limbo over recovery timelines.\n• Frontier Traders launches as a new Solana-based trading community, promoting campaigns and events.",
+  "ctxMatters": "Solana’s integration into mainstream platforms like Kraken could broaden user access to its ecosystem. Rapid liquidity events, such as the USDC mint, highlight both the network’s scale and the challenges of DeFi app reliability. New trading communities may drive further engagement and activity on Solana.",
+  "ctxSignal": "Signal: Major exchanges and new communities are prioritizing Solana for onchain trading. Liquidity flows are outpacing some DeFi recovery systems.\nNoise: Speculation around the long-term impact of the recent USDC mint without supporting data.",
+  "ctxGlossary": "DEX — Decentralized exchange, enabling peer-to-peer crypto trading without intermediaries.\nUSDC — A widely used U.S. dollar-pegged stablecoin.",
   "readMore": [
+    {
+      "title": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned"
+    },
     {
       "title": "Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery",
       "source": "CryptoSlate",
       "url": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users"
-    },
-    {
-      "title": "Moody’s rolls out credit ratings on Solana in tokenized asset push",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push"
     },
     {
       "title": "Introducing Frontier Traders",
