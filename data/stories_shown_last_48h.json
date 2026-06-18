@@ -1,25 +1,11 @@
 [
   {
-    "id": "2f7a4d9c489183dce5ffce4dc5b4b59a43393aed",
-    "title": "Signal Board Summary 2026-06-17",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-06-17T21:02:11.499Z",
-    "lastSeenAt": "2026-06-17T21:02:11.499Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "5f28a059644913089742a0db0e234fb8100bff68",
     "title": "Moody’s rolls out credit ratings on Solana in tokenized asset push",
     "url": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push",
     "source": "CoinDesk",
     "firstSeenAt": "2026-06-17T21:02:02.039Z",
-    "lastSeenAt": "2026-06-17T21:02:02.039Z",
+    "lastSeenAt": "2026-06-18T11:07:28.965Z",
     "sectionShown": "briefing",
     "topicTags": [
       "moody",
@@ -30,6 +16,62 @@
       "tokenized",
       "asset",
       "push"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "4eaf4487fb53bce9a8b6344cb1502aefea0df857",
+    "title": "Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery",
+    "url": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users",
+    "source": "CryptoSlate",
+    "firstSeenAt": "2026-06-18T11:07:28.965Z",
+    "lastSeenAt": "2026-06-18T11:07:28.965Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "usdc",
+      "mint",
+      "collides",
+      "with",
+      "defi",
+      "shutdown",
+      "users"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "094bcd2c673b92da2e187d67cdc443fc9a8cb38c",
+    "title": "Introducing Frontier Traders",
+    "url": "https://solana.com/news/introducing-frontier-traders",
+    "source": "Solana News",
+    "firstSeenAt": "2026-06-18T11:07:28.965Z",
+    "lastSeenAt": "2026-06-18T11:07:28.965Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "introducing",
+      "frontier",
+      "traders",
+      "join",
+      "solana",
+      "onchain",
+      "trading",
+      "community"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "2f7a4d9c489183dce5ffce4dc5b4b59a43393aed",
+    "title": "Signal Board Summary 2026-06-17",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-06-17T21:02:11.499Z",
+    "lastSeenAt": "2026-06-17T21:02:11.499Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -177,69 +219,6 @@
       "solana",
       "traders",
       "wait"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "5ce02cd338ecd05e0b7ffd2e375e6b2269faf4d8",
-    "title": "‘There’s room for win-win outcomes’: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs",
-    "url": "https://www.theblock.co/post/404792/win-win-outcomes-solana-treasury-forward-acquire-sol-dats",
-    "source": "The Block",
-    "firstSeenAt": "2026-06-15T21:41:21.518Z",
-    "lastSeenAt": "2026-06-15T21:41:21.518Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "there",
-      "room",
-      "outcomes",
-      "largest",
-      "solana",
-      "treasury",
-      "firm",
-      "forward"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "3828ec99d25c3f6aaf07dac582088927e0e5e2cd",
-    "title": "Forward Industries pushes Solana treasury consolidation as sector nears $1.4b",
-    "url": "https://ambcrypto.com/forward-industries-pushes-solana-treasury-consolidation-as-sector-nears-1-4b",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-06-15T21:41:21.518Z",
-    "lastSeenAt": "2026-06-15T21:41:21.518Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "forward",
-      "industries",
-      "pushes",
-      "solana",
-      "treasury",
-      "consolidation",
-      "sector",
-      "nears"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "0eb848540c368d926ede46acab8a30f893728394",
-    "title": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody's Biting",
-    "url": "https://decrypt.co/371198/solana-treasury-firm-forward-industries-trying-acquire-rivals",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-06-15T21:41:21.518Z",
-    "lastSeenAt": "2026-06-15T21:41:21.518Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "treasury",
-      "firm",
-      "forward",
-      "industries",
-      "keeps",
-      "trying",
-      "acquire"
     ],
     "majorUpdate": false,
     "updateReason": null

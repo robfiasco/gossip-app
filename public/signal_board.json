@@ -1,16 +1,26 @@
 {
-  "date": "2026-06-17",
-  "generated_at_utc": "2026-06-17T21:02:11.497Z",
-  "ctxMarket": "Attention is on institutional adoption as Moody’s introduces credit ratings for Solana-based tokenized assets. This development is drawing focus to how traditional finance tools are integrating with blockchain platforms.",
-  "ctxTalking": "• Moody’s embedding credit scores into Solana tokenized securities to attract institutions",
-  "ctxMatters": "Institutional players may find Solana-based assets more accessible with familiar credit ratings. This could influence how new financial products are structured and perceived on Solana. Builders and users may see more traditional finance participants entering the ecosystem.",
-  "ctxSignal": "Signal: Moody’s direct involvement with Solana tokenized assets signals growing mainstream interest.\nNoise: Speculation about immediate price impacts not supported by the announcement.",
-  "ctxGlossary": "Tokenized asset — A real-world or financial asset represented as a token on a blockchain\nCredit rating — An assessment of the creditworthiness of a borrower or security, now being applied to blockchain assets",
+  "date": "2026-06-18",
+  "generated_at_utc": "2026-06-18T11:07:37.412Z",
+  "ctxMarket": "Attention is on Solana’s $1B USDC mint and its timing alongside a major DeFi app shutdown, raising questions about liquidity flows and user recovery. Institutional interest is highlighted by Moody’s new credit ratings for tokenized assets on Solana.",
+  "ctxTalking": "• The overlap of large-scale USDC minting with unresolved user withdrawals from the Drift DeFi app shutdown\n• Moody’s embedding credit ratings into Solana-based securities to encourage institutional use\n• Launch of Frontier Traders, a new Solana onchain trading community with incentives and events",
+  "ctxMatters": "Liquidity movements on Solana may outpace the speed of DeFi recovery systems, affecting user experience during app shutdowns. Moody’s involvement signals growing institutional frameworks for Solana assets. New trading communities like Frontier Traders could shape user engagement and network activity.",
+  "ctxSignal": "Signal: Institutional credit ratings and large USDC mints are shifting how assets and risk are managed on Solana.\nNoise: Promotional details about trading campaigns and rewards without broader ecosystem impact.",
+  "ctxGlossary": "USDC mint — Creation of new USD Coin tokens, often to provide liquidity\nCredit rating — An assessment of credit risk, now applied to blockchain assets",
   "readMore": [
+    {
+      "title": "Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users"
+    },
     {
       "title": "Moody’s rolls out credit ratings on Solana in tokenized asset push",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push"
+    },
+    {
+      "title": "Introducing Frontier Traders",
+      "source": "Solana News",
+      "url": "https://solana.com/news/introducing-frontier-traders"
     }
   ]
 }

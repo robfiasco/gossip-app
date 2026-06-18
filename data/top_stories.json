@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-17T21:02:01.867Z",
+    "generatedAt": "2026-06-18T11:07:28.814Z",
     "totalCandidates": 111,
     "solanaCandidates": 19,
     "selected": 5,
@@ -8,6 +8,39 @@
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users",
+      "title": "Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery",
+      "url": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-18T09:30:02.000Z",
+      "summary": "Users face a September exit deadline while fresh Solana minting signals show liquidity moving faster than recovery systems. The post Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery appeared first on CryptoSlate.",
+      "tags": [
+        "solana",
+        "usdc",
+        "mint"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 19,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "4eaf4487fb53bce9a8b6344cb1502aefea0df857",
+      "score": 31
+    },
     {
       "id": "https://decrypt.co/371435/coinbase-backed-crypto-perps-exchange-satori-finance-shutting-down",
       "title": "Coinbase-Backed Crypto Perps Exchange Satori Finance Is Shutting Down",
@@ -33,27 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5f7f37103f3e9e00697546fb742a269ffa74690e",
-      "score": 24
+      "score": 23
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/06/17/fidelity-joins-wall-street-s-race-to-manage-stablecoin-reserves",
-      "title": "Fidelity joins Wall Street's race to manage stablecoin reserves",
-      "url": "https://www.coindesk.com/markets/2026/06/17/fidelity-joins-wall-street-s-race-to-manage-stablecoin-reserves",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-17T20:30:48.000Z",
-      "summary": "Following State Street, Fidelity is targeting reserve assets that underpin the expanding stablecoin market.",
+      "id": "https://solana.com/news/introducing-frontier-traders",
+      "title": "Introducing Frontier Traders",
+      "url": "https://solana.com/news/introducing-frontier-traders",
+      "source": "Solana News",
+      "publishedAt": "2026-06-17T12:29:00.000Z",
+      "summary": "Join Frontier Traders, Solana's onchain trading community with VIP rebates, trading campaigns, global events, and rewards across the network's leading venues.",
       "tags": [
-        "fidelity",
-        "joins",
-        "wall"
+        "introducing",
+        "frontier",
+        "traders"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -64,15 +97,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 9,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
+        "recencyScore": 9,
+        "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7d46621238f0e0c6ec87e9c7f7f160822fa4bca4",
-      "score": 22
+      "dedupeFingerprint": "094bcd2c673b92da2e187d67cdc443fc9a8cb38c",
+      "score": 23
     },
     {
       "id": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
@@ -99,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "49f8cf35b3454112af9f902bddcf8e588be99e7b",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push",
-      "title": "Moody’s rolls out credit ratings on Solana in tokenized asset push",
-      "url": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push",
+      "id": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
+      "title": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived",
+      "url": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
       "source": "CoinDesk",
-      "publishedAt": "2026-06-17T16:13:14.000Z",
-      "summary": "The ratings giant is embedding credit scores directly into blockchain-based securities, a move aimed at boosting institutional adoption.",
+      "publishedAt": "2026-06-18T11:02:57.000Z",
+      "summary": "ASTER sees two-way volatility as bullish protocol-specific news meets hawkish Fed.",
       "tags": [
-        "moody",
-        "rolls",
-        "credit"
+        "aster",
+        "popped",
+        "over"
       ],
-      "topicBucket": "general",
+      "topicBucket": "tokenomics",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -137,40 +170,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5f28a059644913089742a0db0e234fb8100bff68",
-      "score": 19
-    },
-    {
-      "id": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto",
-      "title": "Stablecoin infrastructure firm Trace Finance raises $32 million Series A, says valuation grew 10x from seed",
-      "url": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto",
-      "source": "The Block",
-      "publishedAt": "2026-06-17T14:19:00.000Z",
-      "summary": "CoinFund led the round, with Coinbase Ventures, Haun Ventures, Jump Capital, Paxos, Chainlink Labs and others participating.",
-      "tags": [
-        "stablecoin",
-        "infrastructure",
-        "firm"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "9f58cc2c579cfdbf6984f31ab47a55993b7ec87c",
+      "dedupeFingerprint": "f8264c095f7ab54d5c0f618bfb91ad17ed50f7a2",
       "score": 19
     }
   ]

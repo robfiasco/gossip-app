@@ -1,8 +1,26 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "MARKET",
+      "title": "Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery",
+      "category": "MARKET",
+      "source": "CryptoSlate",
+      "date": "2026-06-18",
+      "url": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users",
+      "whyYouShouldCare": "The simultaneous $1B USDC mint and DeFi app shutdown highlight liquidity challenges and user trust issues within the Solana ecosystem."
+    },
+    {
+      "type": "APPS",
+      "title": "Introducing Frontier Traders",
+      "category": "APPS",
+      "source": "Solana News",
+      "date": "2026-06-17",
+      "url": "https://solana.com/news/introducing-frontier-traders",
+      "whyYouShouldCare": "The launch of Frontier Traders could enhance trading options on Solana, potentially increasing user engagement and liquidity in the ecosystem."
+    },
     {
       "type": "APPS",
       "title": "Moody’s rolls out credit ratings on Solana in tokenized asset push",
@@ -10,25 +28,7 @@
       "source": "CoinDesk",
       "date": "2026-06-17",
       "url": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push",
-      "whyYouShouldCare": "Moody's credit ratings on Solana could enhance investor confidence and attract institutional interest in the ecosystem, potentially boosting SOL's market position."
-    },
-    {
-      "type": "APPS",
-      "title": "Crypto-backed GOP candidate wins Alabama Senate runoff with June primaries looming",
-      "category": "APPS",
-      "source": "Cointelegraph",
-      "date": "2026-06-17",
-      "url": "https://cointelegraph.com/news/crypto-pac-alabama-senate-runoff-june-primaries",
-      "whyYouShouldCare": "The success of a crypto-backed candidate in Alabama may signal growing political acceptance of cryptocurrencies, which could influence regulatory attitudes towards Solana and its usage."
-    },
-    {
-      "type": "MARKET",
-      "title": "Fidelity joins Wall Street's race to manage stablecoin reserves",
-      "category": "MARKET",
-      "source": "CoinDesk",
-      "date": "2026-06-17",
-      "url": "https://www.coindesk.com/markets/2026/06/17/fidelity-joins-wall-street-s-race-to-manage-stablecoin-reserves",
-      "whyYouShouldCare": "Fidelity's involvement in managing stablecoin reserves indicates increasing institutional engagement in crypto markets, which may enhance liquidity and stability for Solana's ecosystem."
+      "whyYouShouldCare": "Moody's credit ratings for Solana could attract institutional interest, bolstering the credibility and adoption of tokenized assets on the platform."
     }
   ]
 }
