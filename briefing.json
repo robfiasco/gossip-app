@@ -1,25 +1,16 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "MARKET",
-      "title": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
-      "category": "MARKET",
+      "type": "ECOSYSTEM",
+      "title": "Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market",
+      "category": "ECOSYSTEM",
       "source": "The Block",
-      "date": "2026-06-18",
-      "url": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned",
-      "whyYouShouldCare": "Kraken's integration of Solana DEX trading enhances liquidity and accessibility for SOL, potentially increasing user engagement and market activity."
-    },
-    {
-      "type": "APPS",
-      "title": "Introducing Frontier Traders",
-      "category": "APPS",
-      "source": "Solana News",
-      "date": "2026-06-17",
-      "url": "https://solana.com/news/introducing-frontier-traders",
-      "whyYouShouldCare": "The launch of Frontier Traders could drive new user adoption and trading volume within the Solana ecosystem, bolstering its overall market presence."
+      "date": "2026-06-19",
+      "url": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments",
+      "whyYouShouldCare": "Morgan Stanley's low-fee ETH and SOL ETFs could enhance institutional interest in Solana, potentially increasing liquidity and market positioning."
     },
     {
       "type": "MARKET",
@@ -28,7 +19,16 @@
       "source": "CryptoSlate",
       "date": "2026-06-18",
       "url": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users",
-      "whyYouShouldCare": "The $1B USDC mint amidst DeFi app shutdowns highlights liquidity challenges in Solana, impacting user confidence and the ecosystem's stability."
+      "whyYouShouldCare": "The $1B USDC mint amidst a DeFi app shutdown raises concerns about Solana's ecosystem stability and user confidence, impacting future liquidity."
+    },
+    {
+      "type": "APPS",
+      "title": "Introducing Frontier Traders",
+      "category": "APPS",
+      "source": "Solana News",
+      "date": "2026-06-17",
+      "url": "https://solana.com/news/introducing-frontier-traders",
+      "whyYouShouldCare": "The introduction of Frontier Traders could expand Solana's application landscape, attracting new users and increasing overall ecosystem engagement."
     }
   ]
 }

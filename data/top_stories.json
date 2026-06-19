@@ -1,24 +1,57 @@
 {
   "meta": {
-    "generatedAt": "2026-06-18T21:22:00.938Z",
+    "generatedAt": "2026-06-19T11:19:19.710Z",
     "totalCandidates": 112,
-    "solanaCandidates": 23,
+    "solanaCandidates": 21,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned",
-      "title": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
-      "url": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned",
+      "id": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund",
+      "title": "Fidelity launches GENIUS-aligned money market fund for stablecoin issuers",
+      "url": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund",
       "source": "The Block",
-      "publishedAt": "2026-06-18T14:05:02.000Z",
-      "summary": "Kraken launches onchain DEX trading to give customers access to thousands of tokens across the Solana ecosystem.",
+      "publishedAt": "2026-06-19T01:58:25.000Z",
+      "summary": "The fund invests exclusively in eligible reserve assets permitted for stablecoin issuers under the GENIUS Act.",
       "tags": [
-        "kraken",
-        "integrates",
-        "solana"
+        "fidelity",
+        "launches",
+        "genius"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "35b968cff4f41de1887847a0cb7cc012ef39ef69",
+      "score": 22
+    },
+    {
+      "id": "https://decrypt.co/371435/coinbase-backed-crypto-perps-exchange-satori-finance-shutting-down",
+      "title": "Coinbase-Backed Crypto Perps Exchange Satori Finance Is Shutting Down",
+      "url": "https://decrypt.co/371435/coinbase-backed-crypto-perps-exchange-satori-finance-shutting-down",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-17T18:31:52.000Z",
+      "summary": "Perps DEX Satori Finance is the latest in a string of crypto firms forced to shut their doors amid an extended market downturn.",
+      "tags": [
+        "coinbase",
+        "backed",
+        "crypto"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
@@ -31,30 +64,30 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
+        "recencyScore": 7,
+        "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "68df4973d4c7ca3511ae3fd144c1c3d08030ae68",
-      "score": 30
+      "dedupeFingerprint": "5f7f37103f3e9e00697546fb742a269ffa74690e",
+      "score": 21
     },
     {
-      "id": "https://ambcrypto.com/u-s-stablecoin-proposal-targets-issuers-not-wallet-to-wallet-transfers",
-      "title": "U.S. stablecoin proposal targets issuers, not wallet-to-wallet transfers",
-      "url": "https://ambcrypto.com/u-s-stablecoin-proposal-targets-issuers-not-wallet-to-wallet-transfers",
+      "id": "https://ambcrypto.com/algo-price-prediction-can-algorands-4-4-staking-hype-beat-bearish-wedge",
+      "title": "ALGO price prediction – Can Algorand’s 4.4% staking hype beat bearish wedge?",
+      "url": "https://ambcrypto.com/algo-price-prediction-can-algorands-4-4-staking-hype-beat-bearish-wedge",
       "source": "AMB Crypto",
-      "publishedAt": "2026-06-18T15:31:15.000Z",
-      "summary": "A new GENIUS Act proposal would require stablecoin issuers to verify direct customers without imposing KYC obligations on every stablecoin transfer.",
+      "publishedAt": "2026-06-18T22:00:42.000Z",
+      "summary": "The Algorand staking launch on CoinTrade, combined with oversold conditions, could have helped during the recent days' gains",
       "tags": [
-        "stablecoin",
-        "proposal",
-        "targets"
+        "algo",
+        "price",
+        "prediction"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "general",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -64,48 +97,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3b618b108c5125c993bee5d2f6238bc9a18cc9b1",
-      "score": 27
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
-      "title": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived",
-      "url": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-18T11:02:57.000Z",
-      "summary": "ASTER sees two-way volatility as bullish protocol-specific news meets hawkish Fed.",
-      "tags": [
-        "aster",
-        "popped",
-        "over"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "f8264c095f7ab54d5c0f618bfb91ad17ed50f7a2",
-      "score": 19
+      "dedupeFingerprint": "67d682a0368566db5451da076686fc1b0455ee67",
+      "score": 18
     },
     {
       "id": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
@@ -132,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "49f8cf35b3454112af9f902bddcf8e588be99e7b",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins",
-      "title": "Custodia, Vantage propose token that toggles between bank deposits and stablecoins",
-      "url": "https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-06-18T21:02:29.000Z",
-      "summary": "The proposed system aims to connect traditional banking infrastructure with blockchain-based payment networks with banks retaining customer deposits.",
+      "id": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
+      "title": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived",
+      "url": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-18T11:02:57.000Z",
+      "summary": "ASTER sees two-way volatility as bullish protocol-specific news meets hawkish Fed.",
       "tags": [
-        "custodia",
-        "vantage",
-        "propose"
+        "aster",
+        "popped",
+        "over"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "tokenomics",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8e8e30d3bfb97b5360987739e1a98c61bfef9295",
-      "score": 15
+      "dedupeFingerprint": "f8264c095f7ab54d5c0f618bfb91ad17ed50f7a2",
+      "score": 17
     }
   ]
 }
