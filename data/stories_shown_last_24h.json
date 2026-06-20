@@ -1,25 +1,11 @@
 [
   {
-    "id": "234242d3ae04ea43935719f016e41db36c6e35a7",
-    "title": "Signal Board Summary 2026-06-20",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-06-20T10:08:09.901Z",
-    "lastSeenAt": "2026-06-20T10:08:09.901Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "493d49ced2a84f72163915f05ccf4e105b5ce408",
     "title": "The 5 Largest Publicly Traded Solana Treasury Firms",
     "url": "https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms",
     "source": "Decrypt",
     "firstSeenAt": "2026-06-19T20:25:30.958Z",
-    "lastSeenAt": "2026-06-20T10:08:04.195Z",
+    "lastSeenAt": "2026-06-20T20:13:35.537Z",
     "sectionShown": "briefing",
     "topicTags": [
       "largest",
@@ -40,7 +26,7 @@
     "url": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments",
     "source": "The Block",
     "firstSeenAt": "2026-06-19T11:19:19.899Z",
-    "lastSeenAt": "2026-06-20T10:08:04.195Z",
+    "lastSeenAt": "2026-06-20T20:13:35.537Z",
     "sectionShown": "briefing",
     "topicTags": [
       "morgan",
@@ -61,7 +47,7 @@
     "url": "https://ambcrypto.com/cheapest-spot-sol-etf-ever-will-morgan-stanleys-debut-spur-the-altcoin",
     "source": "AMB Crypto",
     "firstSeenAt": "2026-06-20T10:08:04.194Z",
-    "lastSeenAt": "2026-06-20T10:08:04.194Z",
+    "lastSeenAt": "2026-06-20T20:13:35.537Z",
     "sectionShown": "briefing",
     "topicTags": [
       "cheapest",
@@ -72,6 +58,20 @@
       "stanley",
       "debut",
       "spur"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "234242d3ae04ea43935719f016e41db36c6e35a7",
+    "title": "Signal Board Summary 2026-06-20",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-06-20T10:08:09.901Z",
+    "lastSeenAt": "2026-06-20T10:08:09.901Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -114,48 +114,6 @@
       "winning",
       "tokenized",
       "asset"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "4eaf4487fb53bce9a8b6344cb1502aefea0df857",
-    "title": "Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery",
-    "url": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-06-18T11:07:28.965Z",
-    "lastSeenAt": "2026-06-19T11:19:19.899Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "usdc",
-      "mint",
-      "collides",
-      "with",
-      "defi",
-      "shutdown",
-      "users"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "094bcd2c673b92da2e187d67cdc443fc9a8cb38c",
-    "title": "Introducing Frontier Traders",
-    "url": "https://solana.com/news/introducing-frontier-traders",
-    "source": "Solana News",
-    "firstSeenAt": "2026-06-18T11:07:28.965Z",
-    "lastSeenAt": "2026-06-19T11:19:19.899Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "introducing",
-      "frontier",
-      "traders",
-      "join",
-      "solana",
-      "onchain",
-      "trading",
-      "community"
     ],
     "majorUpdate": false,
     "updateReason": null

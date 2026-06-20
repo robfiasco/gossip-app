@@ -1,25 +1,11 @@
 [
   {
-    "id": "234242d3ae04ea43935719f016e41db36c6e35a7",
-    "title": "Signal Board Summary 2026-06-20",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-06-20T10:08:09.901Z",
-    "lastSeenAt": "2026-06-20T10:08:09.901Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "493d49ced2a84f72163915f05ccf4e105b5ce408",
     "title": "The 5 Largest Publicly Traded Solana Treasury Firms",
     "url": "https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms",
     "source": "Decrypt",
     "firstSeenAt": "2026-06-19T20:25:30.958Z",
-    "lastSeenAt": "2026-06-20T10:08:04.195Z",
+    "lastSeenAt": "2026-06-20T20:13:35.537Z",
     "sectionShown": "briefing",
     "topicTags": [
       "largest",
@@ -40,7 +26,7 @@
     "url": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments",
     "source": "The Block",
     "firstSeenAt": "2026-06-19T11:19:19.899Z",
-    "lastSeenAt": "2026-06-20T10:08:04.195Z",
+    "lastSeenAt": "2026-06-20T20:13:35.537Z",
     "sectionShown": "briefing",
     "topicTags": [
       "morgan",
@@ -61,7 +47,7 @@
     "url": "https://ambcrypto.com/cheapest-spot-sol-etf-ever-will-morgan-stanleys-debut-spur-the-altcoin",
     "source": "AMB Crypto",
     "firstSeenAt": "2026-06-20T10:08:04.194Z",
-    "lastSeenAt": "2026-06-20T10:08:04.194Z",
+    "lastSeenAt": "2026-06-20T20:13:35.537Z",
     "sectionShown": "briefing",
     "topicTags": [
       "cheapest",
@@ -72,6 +58,20 @@
       "stanley",
       "debut",
       "spur"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "234242d3ae04ea43935719f016e41db36c6e35a7",
+    "title": "Signal Board Summary 2026-06-20",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-06-20T10:08:09.901Z",
+    "lastSeenAt": "2026-06-20T10:08:09.901Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -177,27 +177,6 @@
       "core",
       "with",
       "support"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "5f28a059644913089742a0db0e234fb8100bff68",
-    "title": "Moody’s rolls out credit ratings on Solana in tokenized asset push",
-    "url": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-06-17T21:02:02.039Z",
-    "lastSeenAt": "2026-06-18T11:07:28.965Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "moody",
-      "rolls",
-      "credit",
-      "ratings",
-      "solana",
-      "tokenized",
-      "asset",
-      "push"
     ],
     "majorUpdate": false,
     "updateReason": null
