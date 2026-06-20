@@ -1,5 +1,82 @@
 [
   {
+    "id": "234242d3ae04ea43935719f016e41db36c6e35a7",
+    "title": "Signal Board Summary 2026-06-20",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-06-20T10:08:09.901Z",
+    "lastSeenAt": "2026-06-20T10:08:09.901Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "493d49ced2a84f72163915f05ccf4e105b5ce408",
+    "title": "The 5 Largest Publicly Traded Solana Treasury Firms",
+    "url": "https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms",
+    "source": "Decrypt",
+    "firstSeenAt": "2026-06-19T20:25:30.958Z",
+    "lastSeenAt": "2026-06-20T10:08:04.195Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "largest",
+      "publicly",
+      "traded",
+      "solana",
+      "treasury",
+      "firms",
+      "institutions",
+      "gobbling"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "1371e2e0bd53263e44a6d58b121daba9e078d7dd",
+    "title": "Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market",
+    "url": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments",
+    "source": "The Block",
+    "firstSeenAt": "2026-06-19T11:19:19.899Z",
+    "lastSeenAt": "2026-06-20T10:08:04.195Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "morgan",
+      "stanley",
+      "files",
+      "amendments",
+      "etfs",
+      "revealing",
+      "lowest",
+      "fees"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "4da8df553e06d8df68bf7a03b41a68038aab67ee",
+    "title": "‘Cheapest Spot SOL ETF ever!’ – Will Morgan Stanley’s debut spur the altcoin?",
+    "url": "https://ambcrypto.com/cheapest-spot-sol-etf-ever-will-morgan-stanleys-debut-spur-the-altcoin",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-06-20T10:08:04.194Z",
+    "lastSeenAt": "2026-06-20T10:08:04.194Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "cheapest",
+      "spot",
+      "ever",
+      "will",
+      "morgan",
+      "stanley",
+      "debut",
+      "spur"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "cc99b58045df1ea8ae966811914ad2793f6c0d36",
     "title": "Pump Fun revenue slows as Collector Crypt’s $5.1M card-pack week reshapes Solana’s consumer loop",
     "url": "https://cryptoslate.com/pump-fun-revenue-slows-as-collector-crypts-5-1m-card-pack-week-reshapes-solanas-consumer-loop",
@@ -42,27 +119,6 @@
     "updateReason": null
   },
   {
-    "id": "493d49ced2a84f72163915f05ccf4e105b5ce408",
-    "title": "The 5 Largest Publicly Traded Solana Treasury Firms",
-    "url": "https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-06-19T20:25:30.958Z",
-    "lastSeenAt": "2026-06-19T20:25:30.958Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "largest",
-      "publicly",
-      "traded",
-      "solana",
-      "treasury",
-      "firms",
-      "institutions",
-      "gobbling"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "4eaf4487fb53bce9a8b6344cb1502aefea0df857",
     "title": "Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery",
     "url": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users",
@@ -100,48 +156,6 @@
       "onchain",
       "trading",
       "community"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "1371e2e0bd53263e44a6d58b121daba9e078d7dd",
-    "title": "Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market",
-    "url": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments",
-    "source": "The Block",
-    "firstSeenAt": "2026-06-19T11:19:19.899Z",
-    "lastSeenAt": "2026-06-19T11:19:19.899Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "morgan",
-      "stanley",
-      "files",
-      "amendments",
-      "etfs",
-      "revealing",
-      "lowest",
-      "fees"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "68df4973d4c7ca3511ae3fd144c1c3d08030ae68",
-    "title": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
-    "url": "https://www.theblock.co/post/405242/kraken-integrates-solana-dex-trading-into-core-app-support-additional-networks-planned",
-    "source": "The Block",
-    "firstSeenAt": "2026-06-18T21:22:01.103Z",
-    "lastSeenAt": "2026-06-18T21:22:01.103Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "kraken",
-      "integrates",
-      "solana",
-      "trading",
-      "into",
-      "core",
-      "with",
-      "support"
     ],
     "majorUpdate": false,
     "updateReason": null

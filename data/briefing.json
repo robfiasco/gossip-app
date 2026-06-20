@@ -1,16 +1,25 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
       "type": "APPS",
-      "title": "SOL slides to 2023 lows – But Solana is quietly winning the tokenized asset race",
+      "title": "‘Cheapest Spot SOL ETF ever!’ – Will Morgan Stanley’s debut spur the altcoin?",
       "category": "APPS",
       "source": "AMB Crypto",
+      "date": "2026-06-20",
+      "url": "https://ambcrypto.com/cheapest-spot-sol-etf-ever-will-morgan-stanleys-debut-spur-the-altcoin",
+      "whyYouShouldCare": "Morgan Stanley's entry into the SOL ETF market with low fees could enhance SOL's visibility and attract institutional investment."
+    },
+    {
+      "type": "ECOSYSTEM",
+      "title": "Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market",
+      "category": "ECOSYSTEM",
+      "source": "The Block",
       "date": "2026-06-19",
-      "url": "https://ambcrypto.com/sol-slides-to-2023-lows-but-solana-is-quietly-winning-the-tokenized-asset-race",
-      "whyYouShouldCare": "Despite SOL's price decline, Solana's advancements in tokenized assets could enhance its market position and attract new liquidity."
+      "url": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments",
+      "whyYouShouldCare": "The introduction of low-fee ETH and SOL ETFs by Morgan Stanley may increase competition and drive demand for SOL within the investment community."
     },
     {
       "type": "APPS",
@@ -19,16 +28,7 @@
       "source": "Decrypt",
       "date": "2026-06-19",
       "url": "https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms",
-      "whyYouShouldCare": "The presence of large publicly traded firms in Solana's treasury indicates growing institutional interest, which could bolster confidence and liquidity in the ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Pump Fun revenue slows as Collector Crypt’s $5.1M card-pack week reshapes Solana’s consumer loop",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-06-19",
-      "url": "https://cryptoslate.com/pump-fun-revenue-slows-as-collector-crypts-5-1m-card-pack-week-reshapes-solanas-consumer-loop",
-      "whyYouShouldCare": "Slowing revenue for Pump Fun, alongside Collector Crypt's significant sales, highlights shifts in consumer engagement that may impact Solana's overall ecosystem dynamics."
+      "whyYouShouldCare": "Identifying the largest publicly traded firms holding Solana treasuries highlights the growing institutional interest and potential liquidity in the SOL ecosystem."
     }
   ]
 }

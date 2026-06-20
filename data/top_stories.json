@@ -1,79 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-06-19T20:25:30.803Z",
+    "generatedAt": "2026-06-20T10:08:04.026Z",
     "totalCandidates": 113,
-    "solanaCandidates": 18,
+    "solanaCandidates": 13,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://ambcrypto.com/sol-slides-to-2023-lows-but-solana-is-quietly-winning-the-tokenized-asset-race",
-      "title": "SOL slides to 2023 lows – But Solana is quietly winning the tokenized asset race",
-      "url": "https://ambcrypto.com/sol-slides-to-2023-lows-but-solana-is-quietly-winning-the-tokenized-asset-race",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-19T20:00:07.000Z",
-      "summary": "Solana is gaining strength where it matters most.",
-      "tags": [
-        "slides",
-        "2023",
-        "lows"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6c6b1a915e39d8709ce54ee348665bd9e3dbc380",
-      "score": 24
-    },
-    {
-      "id": "https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms",
-      "title": "The 5 Largest Publicly Traded Solana Treasury Firms",
-      "url": "https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-19T17:40:59.000Z",
-      "summary": "Institutions are gobbling up Solana for their balance sheets. These are the top publicly traded treasuries.",
-      "tags": [
-        "largest",
-        "publicly",
-        "traded"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "493d49ced2a84f72163915f05ccf4e105b5ce408",
-      "score": 21
-    },
     {
       "id": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund",
       "title": "Fidelity launches GENIUS-aligned money market fund for stablecoin issuers",
@@ -99,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "35b968cff4f41de1887847a0cb7cc012ef39ef69",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://www.theblock.co/post/405446/td-cowen-cme-upper-hand-cftc-lawsuit-crypto-perpetual-futures",
@@ -132,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e4769289e5d895e700ef21c9610f4d88cfff3150",
-      "score": 17
+      "score": 16
     },
     {
       "id": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
@@ -165,13 +99,79 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "f8264c095f7ab54d5c0f618bfb91ad17ed50f7a2",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "https://ambcrypto.com/aster-gives-up-28-rally-is-it-time-to-buy-after-the-tokenomics-update",
+      "title": "ASTER gives up 28% rally: Is it time to buy after the tokenomics update?",
+      "url": "https://ambcrypto.com/aster-gives-up-28-rally-is-it-time-to-buy-after-the-tokenomics-update",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-19T22:00:25.000Z",
+      "summary": "Aster's pullback was close to key levels that could be of interest for bulls.",
+      "tags": [
+        "aster",
+        "gives",
+        "rally"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "db99af93ea3ec83e05dcf2ac4c1391e8962d687a",
+      "score": 15
+    },
+    {
+      "id": "https://cryptoslate.com/franklin-templeton-new-etfs-would-convert-us-companies-stock-dividends-into-bitcoin-exposure",
+      "title": "Franklin Templeton new ETFs would convert US companies stock dividends into Bitcoin exposure",
+      "url": "https://cryptoslate.com/franklin-templeton-new-etfs-would-convert-us-companies-stock-dividends-into-bitcoin-exposure",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-19T20:05:15.000Z",
+      "summary": "Franklin Templeton, the $1.78 trillion asset management firm, is attempting to push cryptocurrency deeper into conventional investment portfolios with a new proposal that would automatically redirect stock dividends into Bitcoin exposure. On June 18, the asset manager filed paperwork with the US Sec",
+      "tags": [
+        "franklin",
+        "templeton",
+        "etfs"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -3,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "9da7a0f3cce740c59a4d292e7f16704863ad5913",
+      "score": -2
     }
   ]
 }
