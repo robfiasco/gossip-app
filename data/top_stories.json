@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T20:13:35.373Z",
-    "totalCandidates": 112,
+    "generatedAt": "2026-06-21T10:27:50.666Z",
+    "totalCandidates": 109,
     "solanaCandidates": 13,
     "selected": 5,
     "tweetPool": 0,
@@ -9,18 +9,18 @@
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/crypto-liquidity-rises-yet-investor-fomo-keeps-inflows-weak",
-      "title": "Crypto liquidity rises, yet investor FOMO keeps inflows weak",
-      "url": "https://ambcrypto.com/crypto-liquidity-rises-yet-investor-fomo-keeps-inflows-weak",
+      "id": "https://ambcrypto.com/solana-dismisses-shilling-narrative-can-sol-eth-eye-an-h2-breakout",
+      "title": "Solana dismisses ‘shilling’ narrative: Can SOL/ETH eye an H2 breakout?",
+      "url": "https://ambcrypto.com/solana-dismisses-shilling-narrative-can-sol-eth-eye-an-h2-breakout",
       "source": "AMB Crypto",
-      "publishedAt": "2026-06-20T16:00:56.000Z",
-      "summary": "Crypto liquidity is rising as U.S. money supply and stablecoin inflows expand.",
+      "publishedAt": "2026-06-21T09:00:31.000Z",
+      "summary": "Solana's latest rally sparked a \"shilling\" debate, but the charts and on-chain data suggest traders may be chasing more than just hype.",
       "tags": [
-        "crypto",
-        "liquidity",
-        "rises"
+        "solana",
+        "dismisses",
+        "shilling"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,15 +31,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c9ce68043bfef7ab766ca07fab174cef6cc56c4c",
-      "score": 22
+      "dedupeFingerprint": "a7b924c1bfa6c27170299b3c95c13a9d8ac18fbc",
+      "score": 24
+    },
+    {
+      "id": "https://ambcrypto.com/solana-beats-coinbase-and-kraken-in-volume-what-it-means-for-sols-q3",
+      "title": "Solana beats Coinbase and Kraken in volume – What it means for SOL’s Q3",
+      "url": "https://ambcrypto.com/solana-beats-coinbase-and-kraken-in-volume-what-it-means-for-sols-q3",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-20T22:00:38.000Z",
+      "summary": "Why Solana’s volume surge could be the market’s most important Q3 signal.",
+      "tags": [
+        "solana",
+        "beats",
+        "coinbase"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "dd3485a272278115d5033c2798a7492649299eef",
+      "score": 23
     },
     {
       "id": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund",
@@ -66,25 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "35b968cff4f41de1887847a0cb7cc012ef39ef69",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica",
-      "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
-      "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-06-20T14:57:41.000Z",
-      "summary": "The European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto and blockchain industries.",
+      "id": "https://cryptoslate.com/hype-jto-and-wld-wins-are-looking-more-like-exceptions-than-a-market-turn",
+      "title": "HYPE, JTO and WLD wins are looking more like exceptions than an altcoin season signal",
+      "url": "https://cryptoslate.com/hype-jto-and-wld-wins-are-looking-more-like-exceptions-than-a-market-turn",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-20T20:15:41.000Z",
+      "summary": "The WLD token surged 149.6% over the past month, XLM climbed 54%, JTO posted a 46.7% gain, and HYPE set a new all-time high of $77 on June 16. Yet the market dominance of the altcoin cohort excluding Bitcoin, Ethereum, and stablecoins slipped from 21.41% to 21.16% over the same period and is down fr",
       "tags": [
-        "crypto",
-        "industry",
-        "looks"
+        "hype",
+        "wins",
+        "looking"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -97,15 +130,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0f5d7d227573efe6592804b275c80a2449ce2c05",
-      "score": 15
+      "dedupeFingerprint": "7b204da48f40bff728debd6bbf1b9fe24a13cb0e",
+      "score": 14
     },
     {
       "id": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
@@ -132,46 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 5,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "f8264c095f7ab54d5c0f618bfb91ad17ed50f7a2",
-      "score": 15
-    },
-    {
-      "id": "https://cryptoslate.com/franklin-templeton-new-etfs-would-convert-us-companies-stock-dividends-into-bitcoin-exposure",
-      "title": "Franklin Templeton new ETFs would convert US companies stock dividends into Bitcoin exposure",
-      "url": "https://cryptoslate.com/franklin-templeton-new-etfs-would-convert-us-companies-stock-dividends-into-bitcoin-exposure",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-19T20:05:15.000Z",
-      "summary": "Franklin Templeton, the $1.78 trillion asset management firm, is attempting to push cryptocurrency deeper into conventional investment portfolios with a new proposal that would automatically redirect stock dividends into Bitcoin exposure. On June 18, the asset manager filed paperwork with the US Sec",
-      "tags": [
-        "franklin",
-        "templeton",
-        "etfs"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -3,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "9da7a0f3cce740c59a4d292e7f16704863ad5913",
-      "score": -3
+      "score": 14
     }
   ]
 }
