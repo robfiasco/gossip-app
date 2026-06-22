@@ -1,26 +1,26 @@
 {
   "date": "2026-06-22",
-  "generated_at_utc": "2026-06-22T12:47:37.407Z",
-  "ctxMarket": "Attention is focused on institutional adoption and infrastructure developments for Solana. Several traditional finance entities and major banks are expanding their blockchain strategies to include Solana, while social activity around the network has declined.",
-  "ctxTalking": "• MoneyGram is now running a Solana validator, signaling further integration of blockchain payments.\n• Baillie Gifford and BNY Mellon launched a tokenized fund on Solana and Ethereum, targeting institutional investors.\n• Kraken added 2,500 unapproved Solana tokens to its app, emphasizing user responsibility for on-chain risk.",
-  "ctxMatters": "Institutional involvement may increase Solana’s credibility and usage in mainstream finance. New products like tokenized funds and expanded exchange offerings highlight growing demand for Solana-based assets. Declining social activity contrasts with rising liquidity, raising questions about user engagement versus capital flows.",
-  "ctxSignal": "Signal: Major financial institutions and banks are actively building and testing on Solana.\nNoise: Short-term fluctuations in social media activity without clear impact on network fundamentals.",
-  "ctxGlossary": "Validator — A node that helps secure and verify transactions on a blockchain.\nTokenized fund — An investment fund represented by blockchain tokens, allowing digital ownership and transfer.\nTVL (Total Value Locked) — The total value of assets deposited in a blockchain protocol.",
+  "generated_at_utc": "2026-06-22T21:30:43.553Z",
+  "ctxMarket": "Attention is focused on major institutional moves into Solana, particularly MoneyGram's expanded validator role and infrastructure partnerships. There is also ongoing debate about Solana's position in tokenized equity markets and its supply dynamics relative to Ethereum.",
+  "ctxTalking": "• MoneyGram has joined Solana as a validator, deepening its blockchain payments and infrastructure involvement.\n• Solana now captures 95% of tokenized equity volume, with traders debating if SOL's price has bottomed.\n• Legal disputes have emerged at Solana treasury firm Solmate over alleged board self-dealing and shareholder dilution.",
+  "ctxMatters": "Institutional validators like MoneyGram may increase network security and credibility. Solana's dominance in tokenized equity could attract further financial innovation and liquidity. Governance disputes at ecosystem firms highlight ongoing risks for stakeholders.",
+  "ctxSignal": "Signal: MoneyGram's validator role and Solana's tokenized equity market share reflect real institutional engagement.\nNoise: Speculation about SOL price bottoms lacks clear consensus or direct impact on fundamentals.",
+  "ctxGlossary": "Validator — An entity that helps process and secure blockchain transactions.\nTokenized equity — Traditional equity shares represented as digital tokens on a blockchain.",
   "readMore": [
     {
-      "title": "MoneyGram becomes Solana validator, expands blockchain payments strategy",
+      "title": "Solana treasury firm Solmate’s largest stakeholder sues board for self-dealing, fiduciary breaches",
       "source": "The Block",
-      "url": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments"
+      "url": "https://www.theblock.co/post/405690/solana-treasury-firm-solmate-largest-stakeholder-sues-board-self-dealing-fiduciary-breaches"
     },
     {
-      "title": "TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny"
+      "title": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows"
     },
     {
-      "title": "Kraken adds 2,500 unapproved Solana tokens to its app – says risk stays on-chain",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/kraken-solana-tokens-dex-risk"
+      "title": "MoneyGram joins Solana validator set, expanding role in blockchain infrastructure",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/moneygram-joins-solana-validator-set-expanding-role-in-blockchain-infrastructure"
     }
   ]
 }

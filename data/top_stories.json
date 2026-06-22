@@ -1,56 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-06-22T12:47:30.248Z",
-    "totalCandidates": 89,
-    "solanaCandidates": 17,
+    "generatedAt": "2026-06-22T21:30:35.478Z",
+    "totalCandidates": 101,
+    "solanaCandidates": 25,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-social-activity-falls-20-7-tvl-raises-one-question-for-sol",
-      "title": "Solana social activity falls 20.7% – TVL raises ONE question for SOL",
-      "url": "https://ambcrypto.com/solana-social-activity-falls-20-7-tvl-raises-one-question-for-sol",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-22T06:00:56.000Z",
-      "summary": "But can the strong liquidity of Solana compensate for the waning social momentum?",
-      "tags": [
-        "solana",
-        "social",
-        "activity"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 21,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "658cc0c1acaecbe64dfb1a66f2b2d169f5d845c0",
-      "score": 32
-    },
-    {
-      "id": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments",
-      "title": "MoneyGram becomes Solana validator, expands blockchain payments strategy",
-      "url": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments",
-      "source": "The Block",
-      "publishedAt": "2026-06-22T12:30:44.000Z",
-      "summary": "Solana is now the third blockchain where MoneyGram operates an official validator, alongside Tempo and the Midnight Network.",
+      "id": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
+      "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
+      "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-22T13:53:16.000Z",
+      "summary": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions as it expands its stablecoin payments strategy.",
       "tags": [
         "moneygram",
-        "becomes",
+        "joins",
         "solana"
       ],
       "topicBucket": "infra",
@@ -64,60 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 24,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "caa3fdc37488a82bede9becb630ee93dfb220995",
-      "score": 30
+      "dedupeFingerprint": "bca875a4398f784155a822b8ec3b06dad57db87b",
+      "score": 38
     },
     {
-      "id": "https://cryptoslate.com/swedish-krona-stablecoin-sekau",
-      "title": "Europe’s Swedish krona stablecoin arrives with a warning: dollar liquidity may already be too far ahead",
-      "url": "https://cryptoslate.com/swedish-krona-stablecoin-sekau",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-22T05:44:52.000Z",
-      "summary": "The Swedish krona token is compliant and live, but institutional usage will decide whether the rail matters. The post Europe’s Swedish krona stablecoin arrives with a warning: dollar liquidity may already be too far ahead appeared first on CryptoSlate.",
+      "id": "https://solana.com/news/money-gram-joins-solana-developer-platform",
+      "title": "MoneyGram Joins Solana Developer Platform",
+      "url": "https://solana.com/news/money-gram-joins-solana-developer-platform",
+      "source": "Solana News",
+      "publishedAt": "2026-06-22T11:00:00.000Z",
+      "summary": "MoneyGram joins Solana Developer Platform as an infrastructure partner and validator, advancing blockchain-powered global payments with compliant, API-driven infrastructure.",
       "tags": [
-        "europe",
-        "swedish",
-        "krona"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "75d195028375d170a0ab2d15cc14cfb4f99abcea",
-      "score": 28
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/06/22/ethereum-validators-asked-to-fund-projects-with-up-to-10-of-staking-rewards-under-new-proposal",
-      "title": "Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal",
-      "url": "https://www.coindesk.com/tech/2026/06/22/ethereum-validators-asked-to-fund-projects-with-up-to-10-of-staking-rewards-under-new-proposal",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-22T05:43:26.000Z",
-      "summary": "A new governance proposal would let validators redirect part of their staking income toward ecosystem funding, raising questions about coordination, incentives and who gets to decide where the money goes.",
-      "tags": [
-        "ethereum",
-        "validators",
-        "asked"
+        "moneygram",
+        "joins",
+        "solana"
       ],
       "topicBucket": "infra",
       "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
@@ -130,29 +64,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 17,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "72c8c24b4b6103f9bdb02058c1ea910db4b61a2e",
-      "score": 27
+      "dedupeFingerprint": "9328e38de8f2ab841091bbca48eb9b216311b5f2",
+      "score": 32
     },
     {
-      "id": "https://cointelegraph.com/news/morgan-stanley-amends-ethereum-solana-etfs-to-undercut-rivals-fees",
-      "title": "Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees",
-      "url": "https://cointelegraph.com/news/morgan-stanley-amends-ethereum-solana-etfs-to-undercut-rivals-fees",
+      "id": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows",
+      "title": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
+      "url": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows",
       "source": "Cointelegraph",
-      "publishedAt": "2026-06-22T05:40:26.000Z",
-      "summary": "ETF analyst Eric Balchunas says Morgan Stanley’s plan to charge 0.14% fees on two upcoming crypto ETFs makes them “the cheapest in [the] US and world.”",
+      "publishedAt": "2026-06-22T19:17:34.000Z",
+      "summary": "Solana captured 95% of tokenized equity volumes as analysts debate whether $60 was the bottom for SOL.",
       "tags": [
-        "morgan",
-        "stanley",
-        "amends"
+        "solana",
+        "grabs",
+        "tokenized"
       ],
-      "topicBucket": "market",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +97,81 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e4b0d9267370cd514bf89a4d94fbaa48183a8be0",
-      "score": 15
+      "dedupeFingerprint": "80d70aefbd4f813a64d931b17eaabf831e5e7026",
+      "score": 26
+    },
+    {
+      "id": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
+      "title": "Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking",
+      "url": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-22T15:56:13.000Z",
+      "summary": "The crypto sector's leading U.S. advocacy groups asked the U.S. House's tax committee to advance a bill to clarify treatment of assets from mining and staking.",
+      "tags": [
+        "crypto",
+        "second",
+        "lobbying"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "1876c0b329c1ed9014025a0cf1204b326e5e1371",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/405545/bank-of-england-drops-proposed-individual-holding-caps-for-sterling-stablecoins-sets-40-billion-issuance-guardrail",
+      "title": "Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail",
+      "url": "https://www.theblock.co/post/405545/bank-of-england-drops-proposed-individual-holding-caps-for-sterling-stablecoins-sets-40-billion-issuance-guardrail",
+      "source": "The Block",
+      "publishedAt": "2026-06-22T10:46:50.000Z",
+      "summary": "The Bank of England proposed a £40 billion systemic stablecoin issuance guardrail and revised backing assets, targeting a 2027 launch.",
+      "tags": [
+        "bank",
+        "england",
+        "drops"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b5d268e92f70157cf6405e765ec5ca5f81db6d1c",
+      "score": 22
     }
   ]
 }
