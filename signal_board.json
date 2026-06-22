@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-21",
-  "generated_at_utc": "2026-06-21T20:23:07.994Z",
-  "ctxMarket": "Attention is on Solana and Jupiter after notable rallies and surging trading volumes. Institutional interest is highlighted by new ETF filings and growing Solana treasury holdings among public companies.",
-  "ctxTalking": "• Jupiter’s 14% price rally and a 113% volume spike, with traders increasing leveraged positions\n• Morgan Stanley’s proposed 0.14% annual fee for Solana and Ethereum ETFs, the lowest globally for these products\n• Ongoing debate about whether Solana’s recent rally is driven by genuine demand or hype",
-  "ctxMatters": "ETF fee competition could influence how institutions allocate to Solana versus other assets.  \nIncreased leveraged trading and treasury accumulation signal growing confidence and risk appetite among both retail and institutional participants.  \nSpeculation around the “shilling” narrative reflects ongoing scrutiny of Solana’s price drivers.",
-  "ctxSignal": "Signal: Institutional ETF filings and treasury holdings point to sustained interest in Solana’s ecosystem.\nNoise: Social media debates about “shilling” lack clear data support.",
-  "ctxGlossary": "ETF — Exchange-traded fund, a regulated investment product tracking an asset or basket of assets  \nTreasury — Crypto assets held on the balance sheets of public companies",
+  "date": "2026-06-22",
+  "generated_at_utc": "2026-06-22T12:47:37.407Z",
+  "ctxMarket": "Attention is focused on institutional adoption and infrastructure developments for Solana. Several traditional finance entities and major banks are expanding their blockchain strategies to include Solana, while social activity around the network has declined.",
+  "ctxTalking": "• MoneyGram is now running a Solana validator, signaling further integration of blockchain payments.\n• Baillie Gifford and BNY Mellon launched a tokenized fund on Solana and Ethereum, targeting institutional investors.\n• Kraken added 2,500 unapproved Solana tokens to its app, emphasizing user responsibility for on-chain risk.",
+  "ctxMatters": "Institutional involvement may increase Solana’s credibility and usage in mainstream finance. New products like tokenized funds and expanded exchange offerings highlight growing demand for Solana-based assets. Declining social activity contrasts with rising liquidity, raising questions about user engagement versus capital flows.",
+  "ctxSignal": "Signal: Major financial institutions and banks are actively building and testing on Solana.\nNoise: Short-term fluctuations in social media activity without clear impact on network fundamentals.",
+  "ctxGlossary": "Validator — A node that helps secure and verify transactions on a blockchain.\nTokenized fund — An investment fund represented by blockchain tokens, allowing digital ownership and transfer.\nTVL (Total Value Locked) — The total value of assets deposited in a blockchain protocol.",
   "readMore": [
     {
-      "title": "Jupiter",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/jupiter-can-jups-14-price-rally-avoid-a-liquidity-sweep"
+      "title": "MoneyGram becomes Solana validator, expands blockchain payments strategy",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments"
     },
     {
-      "title": "Morgan Stanley’s proposed 0.14% ETH and SOL fees could turn the next crypto ETF race into a price fight",
+      "title": "TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny"
+    },
+    {
+      "title": "Kraken adds 2,500 unapproved Solana tokens to its app – says risk stays on-chain",
       "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/morgan-stanley-ethereum-solana-etf-fees"
-    },
-    {
-      "title": "The 5 Largest Publicly Traded Solana Treasury Firms",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms"
+      "url": "https://cryptoslate.com/kraken-solana-tokens-dex-risk"
     }
   ]
 }

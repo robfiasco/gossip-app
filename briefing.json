@@ -1,34 +1,34 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "INFRA",
+      "title": "MoneyGram becomes Solana validator, expands blockchain payments strategy",
+      "category": "INFRA",
+      "source": "The Block",
+      "date": "2026-06-22",
+      "url": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments",
+      "whyYouShouldCare": "MoneyGram's entry as a Solana validator enhances the network's credibility and could drive increased transaction volumes in blockchain payments."
+    },
+    {
       "type": "MARKET",
-      "title": "Jupiter: Can JUP’s 14% price rally avoid a liquidity sweep?",
+      "title": "Solana social activity falls 20.7% – TVL raises ONE question for SOL",
       "category": "MARKET",
       "source": "AMB Crypto",
-      "date": "2026-06-21",
-      "url": "https://ambcrypto.com/jupiter-can-jups-14-price-rally-avoid-a-liquidity-sweep",
-      "whyYouShouldCare": "Jupiter's price rally could impact liquidity dynamics, influencing trading strategies and market depth for Solana."
+      "date": "2026-06-22",
+      "url": "https://ambcrypto.com/solana-social-activity-falls-20-7-tvl-raises-one-question-for-sol",
+      "whyYouShouldCare": "The 20.7% drop in Solana's social activity raises concerns about user engagement, potentially impacting liquidity and overall ecosystem growth."
     },
     {
       "type": "APPS",
-      "title": "Morgan Stanley’s proposed 0.14% ETH and SOL fees could turn the next crypto ETF race into a price fight",
+      "title": "Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees",
       "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-06-21",
-      "url": "https://cryptoslate.com/morgan-stanley-ethereum-solana-etf-fees",
-      "whyYouShouldCare": "Morgan Stanley's proposed fees for ETH and SOL may intensify competition among crypto ETFs, affecting investor interest and liquidity in the Solana ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana dismisses ‘shilling’ narrative: Can SOL/ETH eye an H2 breakout?",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-06-21",
-      "url": "https://ambcrypto.com/solana-dismisses-shilling-narrative-can-sol-eth-eye-an-h2-breakout",
-      "whyYouShouldCare": "Solana's dismissal of the 'shilling' narrative suggests confidence in its fundamentals, potentially positioning SOL for a significant price movement in the second half of the year."
+      "source": "Cointelegraph",
+      "date": "2026-06-22",
+      "url": "https://cointelegraph.com/news/morgan-stanley-amends-ethereum-solana-etfs-to-undercut-rivals-fees",
+      "whyYouShouldCare": "Morgan Stanley's reduction of ETF fees for Ethereum and Solana could attract more institutional investment, improving market dynamics for SOL."
     }
   ]
 }
