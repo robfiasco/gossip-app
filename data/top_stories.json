@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-06-22T21:30:35.478Z",
-    "totalCandidates": 101,
-    "solanaCandidates": 25,
+    "generatedAt": "2026-06-23T10:34:59.724Z",
+    "totalCandidates": 102,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
-      "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
-      "url": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-22T13:53:16.000Z",
-      "summary": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions as it expands its stablecoin payments strategy.",
+      "id": "https://cryptoslate.com/bank-of-england-stablecoin-path-pound-tokens-face-40b-ceiling",
+      "title": "British pound stablecoins capped to $53B ceiling as Bank of England sets out stablecoin rules",
+      "url": "https://cryptoslate.com/bank-of-england-stablecoin-path-pound-tokens-face-40b-ceiling",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-23T01:25:28.000Z",
+      "summary": "The new framework removes wallet caps, yet keeps systemic sterling stablecoins far below dollar-token scale at launch. The post British pound stablecoins capped to $53B ceiling as Bank of England sets out stablecoin rules appeared first on CryptoSlate.",
       "tags": [
-        "moneygram",
-        "joins",
-        "solana"
+        "british",
+        "pound",
+        "stablecoins"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,48 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 24,
+        "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 4,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "bca875a4398f784155a822b8ec3b06dad57db87b",
-      "score": 38
-    },
-    {
-      "id": "https://solana.com/news/money-gram-joins-solana-developer-platform",
-      "title": "MoneyGram Joins Solana Developer Platform",
-      "url": "https://solana.com/news/money-gram-joins-solana-developer-platform",
-      "source": "Solana News",
-      "publishedAt": "2026-06-22T11:00:00.000Z",
-      "summary": "MoneyGram joins Solana Developer Platform as an infrastructure partner and validator, advancing blockchain-powered global payments with compliant, API-driven infrastructure.",
-      "tags": [
-        "moneygram",
-        "joins",
-        "solana"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 17,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 5,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "9328e38de8f2ab841091bbca48eb9b216311b5f2",
-      "score": 32
+      "dedupeFingerprint": "ef589ab42fe3d9ebc84c0c9451715e2d71930ae9",
+      "score": 28
     },
     {
       "id": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows",
@@ -99,28 +66,28 @@
       "scoreBreakdown": {
         "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "80d70aefbd4f813a64d931b17eaabf831e5e7026",
-      "score": 26
+      "score": 25
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
-      "title": "Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking",
-      "url": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-22T15:56:13.000Z",
-      "summary": "The crypto sector's leading U.S. advocacy groups asked the U.S. House's tax committee to advance a bill to clarify treatment of assets from mining and staking.",
+      "id": "https://ambcrypto.com/why-is-sol-losing-despite-solana-beating-hyperliquid-on-the-revenue-front",
+      "title": "Why is SOL losing despite Solana beating Hyperliquid on the revenue front?",
+      "url": "https://ambcrypto.com/why-is-sol-losing-despite-solana-beating-hyperliquid-on-the-revenue-front",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-23T06:30:56.000Z",
+      "summary": "The gap between app revenue and token value is becoming hard to ignore.",
       "tags": [
-        "crypto",
-        "second",
-        "lobbying"
+        "losing",
+        "despite",
+        "solana"
       ],
       "topicBucket": "general",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -130,27 +97,60 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "104089b767906c3dee2c54fc7357a611f378a7ca",
+      "score": 21
+    },
+    {
+      "id": "https://www.theblock.co/post/405746/us-senate-passes-housing-cbdc-bill",
+      "title": "US Senate passes housing supply bill featuring CBDC ban in 85-5 vote",
+      "url": "https://www.theblock.co/post/405746/us-senate-passes-housing-cbdc-bill",
+      "source": "The Block",
+      "publishedAt": "2026-06-23T05:57:02.000Z",
+      "summary": "The housing supply bill seeks to ban the issuance of a CBDC or any similar digital asset until the end of 2030.",
+      "tags": [
+        "senate",
+        "passes",
+        "housing"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "1876c0b329c1ed9014025a0cf1204b326e5e1371",
-      "score": 22
+      "dedupeFingerprint": "0700090e973fcdf0ba565f71c16d1786035fb18d",
+      "score": 19
     },
     {
-      "id": "https://www.theblock.co/post/405545/bank-of-england-drops-proposed-individual-holding-caps-for-sterling-stablecoins-sets-40-billion-issuance-guardrail",
-      "title": "Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail",
-      "url": "https://www.theblock.co/post/405545/bank-of-england-drops-proposed-individual-holding-caps-for-sterling-stablecoins-sets-40-billion-issuance-guardrail",
+      "id": "https://www.theblock.co/post/405581/benchmark-reiterates-570-target-on-strategy-after-strc-selloff-says-preferred-stock-is-not-a-stablecoin",
+      "title": "Benchmark reiterates $570 target on Strategy after STRC selloff, says preferred stock is ‘not a stablecoin’",
+      "url": "https://www.theblock.co/post/405581/benchmark-reiterates-570-target-on-strategy-after-strc-selloff-says-preferred-stock-is-not-a-stablecoin",
       "source": "The Block",
-      "publishedAt": "2026-06-22T10:46:50.000Z",
-      "summary": "The Bank of England proposed a £40 billion systemic stablecoin issuance guardrail and revised backing assets, targeting a 2027 launch.",
+      "publishedAt": "2026-06-22T13:12:10.000Z",
+      "summary": "Benchmark said STRC's drop below $83 was a leverage flush, not a \"depeg,\" and reiterated its $570 target on Strategy.",
       "tags": [
-        "bank",
-        "england",
-        "drops"
+        "benchmark",
+        "reiterates",
+        "target"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b5d268e92f70157cf6405e765ec5ca5f81db6d1c",
-      "score": 22
+      "dedupeFingerprint": "62a87464bc7fed63bdbfcbfbe416d0b46a60f1dc",
+      "score": 18
     }
   ]
 }

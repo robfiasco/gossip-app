@@ -1,12 +1,17 @@
 {
-  "date": "2026-06-22",
-  "generated_at_utc": "2026-06-22T21:30:43.553Z",
-  "ctxMarket": "Attention is focused on major institutional moves into Solana, particularly MoneyGram's expanded validator role and infrastructure partnerships. There is also ongoing debate about Solana's position in tokenized equity markets and its supply dynamics relative to Ethereum.",
-  "ctxTalking": "• MoneyGram has joined Solana as a validator, deepening its blockchain payments and infrastructure involvement.\n• Solana now captures 95% of tokenized equity volume, with traders debating if SOL's price has bottomed.\n• Legal disputes have emerged at Solana treasury firm Solmate over alleged board self-dealing and shareholder dilution.",
-  "ctxMatters": "Institutional validators like MoneyGram may increase network security and credibility. Solana's dominance in tokenized equity could attract further financial innovation and liquidity. Governance disputes at ecosystem firms highlight ongoing risks for stakeholders.",
-  "ctxSignal": "Signal: MoneyGram's validator role and Solana's tokenized equity market share reflect real institutional engagement.\nNoise: Speculation about SOL price bottoms lacks clear consensus or direct impact on fundamentals.",
-  "ctxGlossary": "Validator — An entity that helps process and secure blockchain transactions.\nTokenized equity — Traditional equity shares represented as digital tokens on a blockchain.",
+  "date": "2026-06-23",
+  "generated_at_utc": "2026-06-23T10:35:06.977Z",
+  "ctxMarket": "Attention is focused on the disconnect between Solana’s strong app revenue and the recent decline in SOL token value. Institutional moves, especially MoneyGram’s integration with Solana, are drawing significant interest.",
+  "ctxTalking": "• The widening gap between Solana’s application revenue and its token price\n• MoneyGram’s entry as a Solana validator and its push into stablecoin payments\n• Legal action against Solmate’s board over alleged self-dealing and shareholder dilution",
+  "ctxMatters": "Solana’s dominance in tokenized equity volumes and new validator partnerships suggest expanding institutional use cases. However, governance disputes at Solana-linked firms and the token price lagging behind network growth are raising questions about value accrual and ecosystem stability.",
+  "ctxSignal": "Signal: MoneyGram’s validator role and stablecoin strategy highlight growing real-world adoption of Solana infrastructure.\nNoise: Short-term speculation about SOL’s price bottom lacks clear consensus or new fundamentals.",
+  "ctxGlossary": "Validator — A network participant that processes and secures blockchain transactions.\nTokenized equity — Traditional stocks represented as digital tokens on a blockchain.\nFiduciary breach — Failure of a board or individual to act in the best interests of stakeholders.",
   "readMore": [
+    {
+      "title": "Why is SOL losing despite Solana beating Hyperliquid on the revenue front?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/why-is-sol-losing-despite-solana-beating-hyperliquid-on-the-revenue-front"
+    },
     {
       "title": "Solana treasury firm Solmate’s largest stakeholder sues board for self-dealing, fiduciary breaches",
       "source": "The Block",
@@ -16,11 +21,6 @@
       "title": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows"
-    },
-    {
-      "title": "MoneyGram joins Solana validator set, expanding role in blockchain infrastructure",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/moneygram-joins-solana-validator-set-expanding-role-in-blockchain-infrastructure"
     }
   ]
 }
