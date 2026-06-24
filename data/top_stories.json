@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-06-23T20:59:56.352Z",
-    "totalCandidates": 109,
-    "solanaCandidates": 22,
+    "generatedAt": "2026-06-24T10:20:41.519Z",
+    "totalCandidates": 112,
+    "solanaCandidates": 20,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://cryptoslate.com/south-korean-digital-bank-15m-users-solana-stablecoins-overseas-transfers",
+      "title": "South Korean digital bank with 15M users turns to Solana stablecoins for overseas transfers",
+      "url": "https://cryptoslate.com/south-korean-digital-bank-15m-users-solana-stablecoins-overseas-transfers",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-23T23:05:27.000Z",
+      "summary": "The PoC keeps the customer relationship inside a regulated app, but launch details remain unresolved. The post South Korean digital bank with 15M users turns to Solana stablecoins for overseas transfers appeared first on CryptoSlate.",
+      "tags": [
+        "south",
+        "korean",
+        "digital"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "1f6f402d9c99944fc5acdd13829a72f86ad2757c",
+      "score": 28
+    },
     {
       "id": "https://www.theblock.co/post/405825/goldfinch-set-shutter-prime-community-vote-backs-wind-down-proposal",
       "title": "Goldfinch set to shutter Prime after community vote backs wind-down proposal",
@@ -33,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "6054a276e93d2e2cf8ff5de0e060daa2e617b7ba",
-      "score": 24
+      "score": 23
     },
     {
       "id": "https://www.coindesk.com/business/2026/06/23/former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head-of-operations",
@@ -66,46 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "e1609bbcdbe36a4318c5fe5a166157a1aadc9f3e",
-      "score": 22
-    },
-    {
-      "id": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
-      "title": "The ECB digital euro takes step forward after winning key European Parliament vote",
-      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-23T12:37:20.000Z",
-      "summary": "EU lawmakers backed a legal framework to develop an ECB digital currency by 2029 so the continent can stop relying entirely on U.S. credit card and stablecoin giants.",
-      "tags": [
-        "digital",
-        "euro",
-        "takes"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "86530f0da9a1ba4067957503da80c041ab78666d",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://decrypt.co/371869/toqanclaw-openclaw-competitor-privacy-gdpr",
@@ -132,28 +132,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "eae4e7ffd20615f94a009ad9b83b2d43490f8ddc",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://cryptoslate.com/solana-is-subsidizing-pro-trading-flow-before-on-chain-markets-prove-it-will-stay-there",
-      "title": "Solana is subsidizing high-volume traders before on-chain markets prove the activity can stick",
-      "url": "https://cryptoslate.com/solana-is-subsidizing-pro-trading-flow-before-on-chain-markets-prove-it-will-stay-there",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-23T19:05:26.000Z",
-      "summary": "Frontier Traders packages rebates, venue aggregation, and priority infrastructure into a chain-level bid for professional desks. The post Solana is subsidizing high-volume traders before on-chain markets prove the activity can stick appeared first on CryptoSlate.",
+      "id": "https://ambcrypto.com/humanity-protocol-h-drops-20-as-36m-unlock-looms-what-next",
+      "title": "Humanity Protocol [H] drops 20% as $36M unlock looms – What next?",
+      "url": "https://ambcrypto.com/humanity-protocol-h-drops-20-as-36m-unlock-looms-what-next",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-23T23:00:51.000Z",
+      "summary": "Traders are trying to gauge whether demand can absorb the newly unlocked tokens.",
       "tags": [
-        "solana",
-        "subsidizing",
-        "high"
+        "humanity",
+        "protocol",
+        "drops"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "96c97cd45a146278751c9147e554b3eaa4e2ba11",
-      "score": 20
+      "dedupeFingerprint": "4d3d4983851efd3929e0515023bbc89e50d61b89",
+      "score": 16
     }
   ]
 }
