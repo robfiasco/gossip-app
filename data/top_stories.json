@@ -1,57 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-06-24T20:46:18.810Z",
+    "generatedAt": "2026-06-25T10:13:54.603Z",
     "totalCandidates": 112,
-    "solanaCandidates": 20,
+    "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-treasury-firm-solmate-says-rockawayx-campaign-damaged-shareholder-value",
-      "title": "Solana treasury firm Solmate says RockawayX campaign damaged shareholder value",
-      "url": "https://ambcrypto.com/solana-treasury-firm-solmate-says-rockawayx-campaign-damaged-shareholder-value",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-24T16:32:58.000Z",
-      "summary": "The Solana treasury firm says the dispute with RockawayX has expanded into a broader fight over governance, valuation, and shareholder control.",
-      "tags": [
-        "solana",
-        "treasury",
-        "firm"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "9c52ecaceccabf9707b56aa9dd27a688fed1fb22",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/405952/japan-sbi-group-launches-jpysc",
-      "title": "SBI Group launches Japan’s first trust bank-backed stablecoin JPYSC",
-      "url": "https://www.theblock.co/post/405952/japan-sbi-group-launches-jpysc",
+      "id": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan",
+      "title": "Ripple launches RLUSD stablecoin in Japan after regulatory approval",
+      "url": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan",
       "source": "The Block",
-      "publishedAt": "2026-06-24T09:39:22.000Z",
-      "summary": "JPYSC's availability will be limited to SBI VC Trade accounts, until regulatory and tax treatment of the stablecoin is clarified.",
+      "publishedAt": "2026-06-25T03:26:12.000Z",
+      "summary": "Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.",
       "tags": [
-        "group",
+        "ripple",
         "launches",
-        "japan"
+        "rlusd"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -71,7 +38,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7b09e7ab646964b45ba2e18fe97aa31ee5082019",
+      "dedupeFingerprint": "766edb9938f704dc75b7b18b58f45b37b297e6b5",
       "score": 22
     },
     {
@@ -99,13 +66,46 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "68d5dd59e618f09a7d2f7909badc6357585e3e52",
-      "score": 21
+      "score": 20
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval",
+      "title": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
+      "url": "https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-25T05:02:34.000Z",
+      "summary": "Japan's financial regulator cleared the U.S. dollar-backed token as a new category of payment instrument, letting SBI VC Trade offer it to institutions and retail. RLUSD remains small, at about $1.7 billion.",
+      "tags": [
+        "ripple",
+        "rlusd",
+        "stablecoin"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "44619b8d57f2545a7cea9cbd52825c12ad81cfe4",
+      "score": 19
     },
     {
       "id": "https://www.theblock.co/post/406039/pump-fun-offers-up-5-million-salary-chief-legal-officer-role",
@@ -132,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "2feee12ac2a4a6efe3ea6d0e7cd5c00907cfbb51",
-      "score": 19
+      "score": 18
     },
     {
       "id": "https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "649ebc38b56d3ee3c398c85c475eae9476c57e14",
-      "score": 19
+      "score": 18
     }
   ]
 }
