@@ -1,8 +1,17 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "UK bond fund ownership records move onto Ethereum and Solana accessible 24/7",
+      "category": "APPS",
+      "source": "CryptoSlate",
+      "date": "2026-06-26",
+      "url": "https://cryptoslate.com/uk-bond-fund-ownership-records-move-onto-ethereum-and-solana",
+      "whyYouShouldCare": "The integration of UK bond fund ownership records onto Ethereum and Solana enhances accessibility and transparency, potentially increasing user engagement and liquidity in these ecosystems."
+    },
     {
       "type": "APPS",
       "title": "Solana hits $1B in weekly tokenized stock trading as demand for hard-to-access equities surge",
@@ -10,25 +19,16 @@
       "source": "CryptoSlate",
       "date": "2026-06-25",
       "url": "https://cryptoslate.com/solana-hits-1b-in-weekly-tokenized-stock-trading-as-demand-for-hard-to-access-equities-surge",
-      "whyYouShouldCare": "The surge in tokenized stock trading on Solana indicates a growing interest in alternative investment avenues, potentially enhancing liquidity and user engagement within its ecosystem."
+      "whyYouShouldCare": "Solana's $1B in weekly tokenized stock trading reflects growing interest in alternative investments, which could drive further ecosystem usage and attract new participants."
     },
     {
-      "type": "MARKET",
-      "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
-      "category": "MARKET",
-      "source": "CoinDesk",
-      "date": "2026-06-25",
-      "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
-      "whyYouShouldCare": "Invesco's move into the tokenized fund space could attract institutional interest in Solana, boosting its credibility and expanding the range of financial products available."
-    },
-    {
-      "type": "APPS",
-      "title": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
-      "category": "APPS",
-      "source": "The Block",
-      "date": "2026-06-25",
-      "url": "https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline",
-      "whyYouShouldCare": "Advancements in crypto legislation could provide a clearer regulatory framework for Solana, fostering a more stable environment for developers and investors alike."
+      "type": "INFRA",
+      "title": "BitGo Joins Crypto's AI Layoff Wave, Slashing Staff by 15%",
+      "category": "INFRA",
+      "source": "Decrypt",
+      "date": "2026-06-26",
+      "url": "https://decrypt.co/372164/bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15",
+      "whyYouShouldCare": "BitGo's staff reduction signals broader challenges in the crypto infrastructure sector, which may impact service availability and innovation across platforms, including Solana."
     }
   ]
 }

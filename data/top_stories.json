@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-06-25T20:54:30.513Z",
-    "totalCandidates": 110,
-    "solanaCandidates": 15,
+    "generatedAt": "2026-06-26T10:21:49.818Z",
+    "totalCandidates": 111,
+    "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/406154/spark-uniswap-build-stablecoin-fx-layer-seeded-with-150-million-liquidity-migration",
-      "title": "Spark, Uniswap build stablecoin ‘FX Layer’ seeded with $150 million liquidity migration",
-      "url": "https://www.theblock.co/post/406154/spark-uniswap-build-stablecoin-fx-layer-seeded-with-150-million-liquidity-migration",
+      "id": "https://www.theblock.co/learn/406286/what-is-the-genius-act",
+      "title": "What Is the GENIUS Act? A Guide to U.S. Stablecoin Law",
+      "url": "https://www.theblock.co/learn/406286/what-is-the-genius-act",
       "source": "The Block",
-      "publishedAt": "2026-06-25T13:00:00.000Z",
-      "summary": "Spark is establishing a \"liquidity foundation\" for the new pool by migrating $150 million from its USDS ecosystem to Uniswap v4.",
+      "publishedAt": "2026-06-26T06:19:08.000Z",
+      "summary": "The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem them, and which regulators supervise the i",
       "tags": [
-        "spark",
-        "uniswap",
-        "build"
+        "what",
+        "genius",
+        "guide"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,15 +31,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "098a6b7ee0d775ff6ffed043d7d6f256e9048201",
-      "score": 27
+      "dedupeFingerprint": "14b859e6a3b2080d4ba91f9a063782459c701b37",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/406266/bitgo-layoff-ai-infrastructure",
+      "title": "BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins",
+      "url": "https://www.theblock.co/post/406266/bitgo-layoff-ai-infrastructure",
+      "source": "The Block",
+      "publishedAt": "2026-06-26T03:43:49.000Z",
+      "summary": "BitGo CEO says the firm will now focus on key areas, including security, trading, stablecoins, settlement, and AI-powered infrastructure.",
+      "tags": [
+        "bitgo",
+        "cuts",
+        "staff"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "91147e0a60fa88ee5e09eb25ba2450c6eb93ab17",
+      "score": 22
     },
     {
       "id": "https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom",
@@ -66,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "702890465a4a7a45542158e6bb81fd2d0d3faef4",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
@@ -99,58 +132,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "456d7e21fbf4e49b227f0edc0e5b8c05dee5cb35",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan",
-      "title": "Ripple launches RLUSD stablecoin in Japan after regulatory approval",
-      "url": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan",
-      "source": "The Block",
-      "publishedAt": "2026-06-25T03:26:12.000Z",
-      "summary": "Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.",
-      "tags": [
-        "ripple",
-        "launches",
-        "rlusd"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
         "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "766edb9938f704dc75b7b18b58f45b37b297e6b5",
+      "dedupeFingerprint": "456d7e21fbf4e49b227f0edc0e5b8c05dee5cb35",
       "score": 21
     },
     {
-      "id": "https://cryptoslate.com/solana-hits-1b-in-weekly-tokenized-stock-trading-as-demand-for-hard-to-access-equities-surge",
-      "title": "Solana hits $1B in weekly tokenized stock trading as demand for hard-to-access equities surge",
-      "url": "https://cryptoslate.com/solana-hits-1b-in-weekly-tokenized-stock-trading-as-demand-for-hard-to-access-equities-surge",
+      "id": "https://cryptoslate.com/uk-bond-fund-ownership-records-move-onto-ethereum-and-solana",
+      "title": "UK bond fund ownership records move onto Ethereum and Solana accessible 24/7",
+      "url": "https://cryptoslate.com/uk-bond-fund-ownership-records-move-onto-ethereum-and-solana",
       "source": "CryptoSlate",
-      "publishedAt": "2026-06-25T20:26:07.000Z",
-      "summary": "SPCX concentration shows real demand, but redemption, custody, and shareholder expectations still depend on the product. The post Solana hits $1B in weekly tokenized stock trading as demand for hard-to-access equities surge appeared first on CryptoSlate.",
+      "publishedAt": "2026-06-26T08:02:10.000Z",
+      "summary": "BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model. The post UK bond fund ownership records move onto Ethereum and Solana accessible 24/7 appeared first on CryptoSlate.",
       "tags": [
-        "solana",
-        "hits",
-        "weekly"
+        "bond",
+        "fund",
+        "ownership"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -170,7 +170,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b46e1255141cd7d63dd46a0c54087e59558d8b26",
+      "dedupeFingerprint": "47f63a985d6b8f8897e3ad41d96a7190b8e2aece",
       "score": 20
     }
   ]
