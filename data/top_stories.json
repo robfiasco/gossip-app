@@ -1,26 +1,125 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T10:21:49.818Z",
-    "totalCandidates": 111,
-    "solanaCandidates": 19,
+    "generatedAt": "2026-06-26T20:44:54.380Z",
+    "totalCandidates": 112,
+    "solanaCandidates": 24,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/learn/406286/what-is-the-genius-act",
-      "title": "What Is the GENIUS Act? A Guide to U.S. Stablecoin Law",
-      "url": "https://www.theblock.co/learn/406286/what-is-the-genius-act",
+      "id": "https://www.theblock.co/post/406414/solana-dat-stocks-climb-double-digits-sol-jumps-9",
+      "title": "Solana DAT stocks climb double digits as SOL jumps 9%",
+      "url": "https://www.theblock.co/post/406414/solana-dat-stocks-climb-double-digits-sol-jumps-9",
       "source": "The Block",
-      "publishedAt": "2026-06-26T06:19:08.000Z",
-      "summary": "The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem them, and which regulators supervise the i",
+      "publishedAt": "2026-06-26T18:34:02.000Z",
+      "summary": "Sol Strategies (STKE) climbed as much as 22% to a high of $1.20 on Friday, outpacing other crypto treasury stocks.",
       "tags": [
-        "what",
-        "genius",
-        "guide"
+        "solana",
+        "stocks",
+        "climb"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e83ef8072f854ed21a9c5616e2e5e100552fe8a1",
+      "score": 27
+    },
+    {
+      "id": "https://cryptoslate.com/a-solana-summer-could-lead-the-next-altcoin-rebound-if-bitcoin-holds-the-line",
+      "title": "A ‘Solana Summer’ could lead the next altcoin rebound if Bitcoin holds the line",
+      "url": "https://cryptoslate.com/a-solana-summer-could-lead-the-next-altcoin-rebound-if-bitcoin-holds-the-line",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-26T14:00:14.000Z",
+      "summary": "SOL touched $64.56 intraday on June 25 before recovering toward $66.56 as Bitcoin fell to $58,189. Fed hike odds for September held above 60% after the PCE print, and tight liquidity kept the broader market locked out of high-beta crypto rotation. Solana still ranked third among all blockchains by 3",
+      "tags": [
+        "solana",
+        "summer",
+        "could"
       ],
       "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 14,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "1a83af0cb7c4e4c649d8283187d9b6aaea19dbad",
+      "score": 26
+    },
+    {
+      "id": "https://cryptoslate.com/binance-cut-off-from-europe-on-july-1-best-liquidity-world-cz",
+      "title": "Binance will be cut off from Europe on July 1 – Removes the “best liquidity in the world” says CZ",
+      "url": "https://cryptoslate.com/binance-cut-off-from-europe-on-july-1-best-liquidity-world-cz",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-26T18:00:37.000Z",
+      "summary": "The July 1 deadline will show whether licensed venues can absorb users without weakening execution or stablecoin access. The post Binance will be cut off from Europe on July 1 – Removes the “best liquidity in the world” says CZ appeared first on CryptoSlate.",
+      "tags": [
+        "binance",
+        "will",
+        "from"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "abaea656d914abedc209494c2b466e7e73f914ca",
+      "score": 23
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+      "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
+      "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-26T20:15:03.000Z",
+      "summary": "Tokenized stock trading fueled fresh momentum across the Solana ecosystem, while Aave founder hinted at token buybacks coming under new framework.",
+      "tags": [
+        "aave",
+        "solana",
+        "ecosystem"
+      ],
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -38,7 +137,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "14b859e6a3b2080d4ba91f9a063782459c701b37",
+      "dedupeFingerprint": "4a11d15cc39b48c399e380ec6cbf1a1111205a34",
       "score": 22
     },
     {
@@ -66,112 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "91147e0a60fa88ee5e09eb25ba2450c6eb93ab17",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom",
-      "title": "‘Stablecoin’ Google searches down 54% as supply growth stalls after 2025 boom",
-      "url": "https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom",
-      "source": "The Block",
-      "publishedAt": "2026-06-25T14:36:03.000Z",
-      "summary": "The decline in search volumes this month coincides with aggregate stablecoin supply having reversed its 10-month expansion.",
-      "tags": [
-        "stablecoin",
-        "google",
-        "searches"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "702890465a4a7a45542158e6bb81fd2d0d3faef4",
       "score": 21
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
-      "title": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
-      "url": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-25T13:00:00.000Z",
-      "summary": "The protocols are building shared liquidity and trading infrastructure for a future with hundreds of competing digital currencies on blockchain rails.",
-      "tags": [
-        "uniswap",
-        "spark",
-        "build"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "456d7e21fbf4e49b227f0edc0e5b8c05dee5cb35",
-      "score": 21
-    },
-    {
-      "id": "https://cryptoslate.com/uk-bond-fund-ownership-records-move-onto-ethereum-and-solana",
-      "title": "UK bond fund ownership records move onto Ethereum and Solana accessible 24/7",
-      "url": "https://cryptoslate.com/uk-bond-fund-ownership-records-move-onto-ethereum-and-solana",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-26T08:02:10.000Z",
-      "summary": "BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model. The post UK bond fund ownership records move onto Ethereum and Solana accessible 24/7 appeared first on CryptoSlate.",
-      "tags": [
-        "bond",
-        "fund",
-        "ownership"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "47f63a985d6b8f8897e3ad41d96a7190b8e2aece",
-      "score": 20
     }
   ]
 }
