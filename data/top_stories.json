@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T09:27:11.610Z",
-    "totalCandidates": 111,
-    "solanaCandidates": 24,
+    "generatedAt": "2026-06-27T20:06:45.072Z",
+    "totalCandidates": 112,
+    "solanaCandidates": 19,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum",
-      "title": "SOL reclaims $72, but onchain data flags weakening momentum",
-      "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-06-27T02:47:59.000Z",
-      "summary": "Solana found strength from tokenized stock trading on its network, but a declining TVL and DEX volumes point to fading momentum.",
+      "id": "https://cryptoslate.com/a-223m-dao-vote-could-turn-governance-into-a-cash-out-button",
+      "title": "A $223M DAO vote could turn governance into a cash-out button",
+      "url": "https://cryptoslate.com/a-223m-dao-vote-could-turn-governance-into-a-cash-out-button",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-27T19:40:42.000Z",
+      "summary": "GnosisDAO's GIP-151 passed with 215% of the required quorum, 49 votes representing a voting weight roughly 2.15 times the 75,000 GNO minimum threshold. The proposal authorized a one-time pro rata treasury redemption, allowing GNO holders to surrender tokens in exchange for a proportional share of li",
       "tags": [
-        "reclaims",
-        "onchain",
-        "data"
+        "223m",
+        "vote",
+        "could"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,27 +31,27 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 14,
+        "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9ab179650092ffb1078e94e2ef4d611ec417627d",
-      "score": 24
+      "dedupeFingerprint": "b0367613491019b2fb5e4da5dddc4df4d1da1bea",
+      "score": 25
     },
     {
-      "id": "https://cryptoslate.com/binance-cut-off-from-europe-on-july-1-best-liquidity-world-cz",
-      "title": "Binance will be cut off from Europe on July 1 – Removes the “best liquidity in the world” says CZ",
-      "url": "https://cryptoslate.com/binance-cut-off-from-europe-on-july-1-best-liquidity-world-cz",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-26T18:00:37.000Z",
-      "summary": "The July 1 deadline will show whether licensed venues can absorb users without weakening execution or stablecoin access. The post Binance will be cut off from Europe on July 1 – Removes the “best liquidity in the world” says CZ appeared first on CryptoSlate.",
+      "id": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
+      "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
+      "url": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-27T17:01:04.000Z",
+      "summary": "Emerging markets drive most real-world stablecoin usage, yet founder concentration and venture funding remain U.S.- and Europe-centric.",
       "tags": [
-        "binance",
-        "will",
-        "from"
+        "stablecoin",
+        "founder",
+        "doesn"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,15 +64,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "989817d7ef6224f3aed6dfc350ebc4949e49d086",
+      "score": 21
+    },
+    {
+      "id": "https://cryptoslate.com/the-uk-softened-stablecoin-rules-but-may-still-be-capping-its-own-market",
+      "title": "The UK softened stablecoin rules, but may still be capping its own market",
+      "url": "https://cryptoslate.com/the-uk-softened-stablecoin-rules-but-may-still-be-capping-its-own-market",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-27T18:25:33.000Z",
+      "summary": "The Bank of England has dropped the piece of its stablecoin plan that the industry hated most, the proposed £20,000 limit on how much sterling stablecoin any one person could hold, along with the £10 million ceiling for businesses. In their place, the central bank's June 22 policy statement set a si",
+      "tags": [
+        "softened",
+        "stablecoin",
+        "rules"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "abaea656d914abedc209494c2b466e7e73f914ca",
-      "score": 22
+      "dedupeFingerprint": "34aea110da39bcee9385b547d11b3633981fd98e",
+      "score": 20
     },
     {
       "id": "https://www.theblock.co/post/406266/bitgo-layoff-ai-infrastructure",
@@ -99,28 +132,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "91147e0a60fa88ee5e09eb25ba2450c6eb93ab17",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "https://ambcrypto.com/jito-hits-1-75b-revenue-milestone-but-what-does-this-mean-for-its-price-rally",
-      "title": "Jito hits $1.75B revenue milestone, but what does this mean for its price rally?",
-      "url": "https://ambcrypto.com/jito-hits-1-75b-revenue-milestone-but-what-does-this-mean-for-its-price-rally",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-27T07:00:30.000Z",
-      "summary": "Is the case behind JTO's recent technical breakout a good one?",
+      "id": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation",
+      "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
+      "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-06-27T08:21:04.000Z",
+      "summary": "The nonbinding report outlines Parliament's vision for future EU crypto regulation and warns against national MiCA rules.",
       "tags": [
-        "jito",
-        "hits",
-        "revenue"
+        "lawmakers",
+        "urge",
+        "assessing"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "market",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -133,45 +166,12 @@
         "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "957dc7412450a3f8a3c44842c780c57ebacc577e",
-      "score": 16
-    },
-    {
-      "id": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
-      "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
-      "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-26T19:38:12.000Z",
-      "summary": "Maxine Waters, the ranking Democrat on House Financial Services, asked the chief of the Department of Labor to withdraw its proposal on alternative assets.",
-      "tags": [
-        "house",
-        "democrat",
-        "soon"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "451b48fb5de085b8658e1475f77000e927f7367a",
-      "score": 16
+      "dedupeFingerprint": "ba8c6361e649a1f4c830b31ea115c86831842eb4",
+      "score": 15
     }
   ]
 }

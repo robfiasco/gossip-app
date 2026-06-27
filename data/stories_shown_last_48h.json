@@ -1,46 +1,11 @@
 [
   {
-    "id": "e5d3e44753f5b62e09a8d28b7b82c23a923c23cd",
-    "title": "Signal Board Summary 2026-06-27",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-06-27T09:27:17.628Z",
-    "lastSeenAt": "2026-06-27T09:27:17.628Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "9ab179650092ffb1078e94e2ef4d611ec417627d",
-    "title": "SOL reclaims $72, but onchain data flags weakening momentum",
-    "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-06-27T09:27:11.776Z",
-    "lastSeenAt": "2026-06-27T09:27:11.776Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "reclaims",
-      "onchain",
-      "data",
-      "flags",
-      "weakening",
-      "momentum",
-      "solana",
-      "found"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "957dc7412450a3f8a3c44842c780c57ebacc577e",
     "title": "Jito hits $1.75B revenue milestone, but what does this mean for its price rally?",
     "url": "https://ambcrypto.com/jito-hits-1-75b-revenue-milestone-but-what-does-this-mean-for-its-price-rally",
     "source": "AMB Crypto",
     "firstSeenAt": "2026-06-27T09:27:11.776Z",
-    "lastSeenAt": "2026-06-27T09:27:11.776Z",
+    "lastSeenAt": "2026-06-27T20:06:45.239Z",
     "sectionShown": "briefing",
     "topicTags": [
       "jito",
@@ -61,7 +26,7 @@
     "url": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
     "source": "CoinDesk",
     "firstSeenAt": "2026-06-27T09:27:11.776Z",
-    "lastSeenAt": "2026-06-27T09:27:11.776Z",
+    "lastSeenAt": "2026-06-27T20:06:45.239Z",
     "sectionShown": "briefing",
     "topicTags": [
       "coindesk",
@@ -72,6 +37,41 @@
       "leading",
       "index",
       "higher"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "9ab179650092ffb1078e94e2ef4d611ec417627d",
+    "title": "SOL reclaims $72, but onchain data flags weakening momentum",
+    "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-06-27T09:27:11.776Z",
+    "lastSeenAt": "2026-06-27T20:06:45.238Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "reclaims",
+      "onchain",
+      "data",
+      "flags",
+      "weakening",
+      "momentum",
+      "solana",
+      "found"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "e5d3e44753f5b62e09a8d28b7b82c23a923c23cd",
+    "title": "Signal Board Summary 2026-06-27",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-06-27T09:27:17.628Z",
+    "lastSeenAt": "2026-06-27T09:27:17.628Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -177,27 +177,6 @@
       "onto",
       "ethereum",
       "solana"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "577777e60456ef562bb603a028d4721d6987cf3f",
-    "title": "Bitcoin back above $60,000, ETH, SOL recoup losses as AI stocks stage rebound",
-    "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-06-25T10:13:54.777Z",
-    "lastSeenAt": "2026-06-25T10:13:54.777Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "bitcoin",
-      "back",
-      "above",
-      "recoup",
-      "losses",
-      "stocks",
-      "stage",
-      "rebound"
     ],
     "majorUpdate": false,
     "updateReason": null

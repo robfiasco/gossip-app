@@ -1,46 +1,11 @@
 [
   {
-    "id": "e5d3e44753f5b62e09a8d28b7b82c23a923c23cd",
-    "title": "Signal Board Summary 2026-06-27",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-06-27T09:27:17.628Z",
-    "lastSeenAt": "2026-06-27T09:27:17.628Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "9ab179650092ffb1078e94e2ef4d611ec417627d",
-    "title": "SOL reclaims $72, but onchain data flags weakening momentum",
-    "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-06-27T09:27:11.776Z",
-    "lastSeenAt": "2026-06-27T09:27:11.776Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "reclaims",
-      "onchain",
-      "data",
-      "flags",
-      "weakening",
-      "momentum",
-      "solana",
-      "found"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "957dc7412450a3f8a3c44842c780c57ebacc577e",
     "title": "Jito hits $1.75B revenue milestone, but what does this mean for its price rally?",
     "url": "https://ambcrypto.com/jito-hits-1-75b-revenue-milestone-but-what-does-this-mean-for-its-price-rally",
     "source": "AMB Crypto",
     "firstSeenAt": "2026-06-27T09:27:11.776Z",
-    "lastSeenAt": "2026-06-27T09:27:11.776Z",
+    "lastSeenAt": "2026-06-27T20:06:45.239Z",
     "sectionShown": "briefing",
     "topicTags": [
       "jito",
@@ -61,7 +26,7 @@
     "url": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
     "source": "CoinDesk",
     "firstSeenAt": "2026-06-27T09:27:11.776Z",
-    "lastSeenAt": "2026-06-27T09:27:11.776Z",
+    "lastSeenAt": "2026-06-27T20:06:45.239Z",
     "sectionShown": "briefing",
     "topicTags": [
       "coindesk",
@@ -72,6 +37,41 @@
       "leading",
       "index",
       "higher"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "9ab179650092ffb1078e94e2ef4d611ec417627d",
+    "title": "SOL reclaims $72, but onchain data flags weakening momentum",
+    "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-06-27T09:27:11.776Z",
+    "lastSeenAt": "2026-06-27T20:06:45.238Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "reclaims",
+      "onchain",
+      "data",
+      "flags",
+      "weakening",
+      "momentum",
+      "solana",
+      "found"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "e5d3e44753f5b62e09a8d28b7b82c23a923c23cd",
+    "title": "Signal Board Summary 2026-06-27",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-06-27T09:27:17.628Z",
+    "lastSeenAt": "2026-06-27T09:27:17.628Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -135,48 +135,6 @@
       "jumps",
       "strategies",
       "stke"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "b46e1255141cd7d63dd46a0c54087e59558d8b26",
-    "title": "Solana hits $1B in weekly tokenized stock trading as demand for hard-to-access equities surge",
-    "url": "https://cryptoslate.com/solana-hits-1b-in-weekly-tokenized-stock-trading-as-demand-for-hard-to-access-equities-surge",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-06-25T20:54:30.674Z",
-    "lastSeenAt": "2026-06-26T10:21:49.983Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "hits",
-      "weekly",
-      "tokenized",
-      "stock",
-      "trading",
-      "demand",
-      "hard"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "47f63a985d6b8f8897e3ad41d96a7190b8e2aece",
-    "title": "UK bond fund ownership records move onto Ethereum and Solana accessible 24/7",
-    "url": "https://cryptoslate.com/uk-bond-fund-ownership-records-move-onto-ethereum-and-solana",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-06-26T10:21:49.982Z",
-    "lastSeenAt": "2026-06-26T10:21:49.982Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "bond",
-      "fund",
-      "ownership",
-      "records",
-      "move",
-      "onto",
-      "ethereum",
-      "solana"
     ],
     "majorUpdate": false,
     "updateReason": null
