@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T20:06:45.072Z",
-    "totalCandidates": 112,
-    "solanaCandidates": 19,
+    "generatedAt": "2026-06-28T09:55:55.740Z",
+    "totalCandidates": 108,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,46 @@
       "scoreBreakdown": {
         "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b0367613491019b2fb5e4da5dddc4df4d1da1bea",
-      "score": 25
+      "score": 24
+    },
+    {
+      "id": "https://cryptoslate.com/stablecoin-demand-starts-to-fade-as-visa-and-stripe-build-for-the-next-boom",
+      "title": "Stablecoin demand starts to fade as Visa and Stripe build for the next boom",
+      "url": "https://cryptoslate.com/stablecoin-demand-starts-to-fade-as-visa-and-stripe-build-for-the-next-boom",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-28T09:49:39.000Z",
+      "summary": "Stablecoins have rarely had more policy attention than they do in 2026. Lawmakers, payment companies, and crypto firms are treating dollar tokens as infrastructure rather than a side market. However, the most visible demand signals now point the other way. Search volume for “stablecoins” was down 54",
+      "tags": [
+        "stablecoin",
+        "demand",
+        "starts"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "579df9b698f3ed396abc9b529954868199086f97",
+      "score": 20
     },
     {
       "id": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
@@ -66,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "989817d7ef6224f3aed6dfc350ebc4949e49d086",
-      "score": 21
+      "score": 20
     },
     {
       "id": "https://cryptoslate.com/the-uk-softened-stablecoin-rules-but-may-still-be-capping-its-own-market",
@@ -99,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "34aea110da39bcee9385b547d11b3633981fd98e",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "https://www.theblock.co/post/406266/bitgo-layoff-ai-infrastructure",
-      "title": "BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins",
-      "url": "https://www.theblock.co/post/406266/bitgo-layoff-ai-infrastructure",
-      "source": "The Block",
-      "publishedAt": "2026-06-26T03:43:49.000Z",
-      "summary": "BitGo CEO says the firm will now focus on key areas, including security, trading, stablecoins, settlement, and AI-powered infrastructure.",
+      "id": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
+      "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
+      "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-26T19:38:12.000Z",
+      "summary": "Maxine Waters, the ranking Democrat on House Financial Services, asked the chief of the Department of Labor to withdraw its proposal on alternative assets.",
       "tags": [
-        "bitgo",
-        "cuts",
-        "staff"
+        "house",
+        "democrat",
+        "soon"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -130,48 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
         "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "91147e0a60fa88ee5e09eb25ba2450c6eb93ab17",
-      "score": 19
-    },
-    {
-      "id": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation",
-      "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
-      "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-06-27T08:21:04.000Z",
-      "summary": "The nonbinding report outlines Parliament's vision for future EU crypto regulation and warns against national MiCA rules.",
-      "tags": [
-        "lawmakers",
-        "urge",
-        "assessing"
-      ],
-      "topicBucket": "market",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ba8c6361e649a1f4c830b31ea115c86831842eb4",
-      "score": 15
+      "dedupeFingerprint": "451b48fb5de085b8658e1475f77000e927f7367a",
+      "score": 14
     }
   ]
 }
