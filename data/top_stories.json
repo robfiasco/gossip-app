@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T20:48:07.970Z",
-    "totalCandidates": 97,
-    "solanaCandidates": 20,
+    "generatedAt": "2026-06-30T10:30:23.105Z",
+    "totalCandidates": 100,
+    "solanaCandidates": 15,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking",
-      "title": "JPMorgan execs draw comparison between yield stablecoins and ‘shadow banking’",
-      "url": "https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking",
-      "source": "The Block",
-      "publishedAt": "2026-06-29T18:37:28.000Z",
-      "summary": "JPMorgan execs argued that stablecoin innovation can easily drift into “shadow banking” if yield payments are permitted.",
+      "id": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
+      "title": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
+      "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-30T10:08:48.000Z",
+      "summary": "The Financial Conduct Authority's proposal follows the Bank of England's backtracking on the limit to the value of stablecoins an individual could hold.",
       "tags": [
-        "jpmorgan",
-        "execs",
-        "draw"
+        "lower",
+        "stablecoin",
+        "capital"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -38,7 +38,7 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5bd5b34d1d2219a076eeb5c7117c8ce042b3f98e",
+      "dedupeFingerprint": "83655a22b3d14b53c2b1eed09d96b30f0759f819",
       "score": 25
     },
     {
@@ -66,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "820c161f0ebb84fe477962018546b485e6e77b81",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
@@ -99,58 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "3072fdccd040ad68f65d50b6cc9e77f75f8216a7",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "https://www.theblock.co/post/406502/indias-usdt-premium-tops-8-5-as-crypto-remittance-crackdown-squeezes-stablecoin-supply-report",
-      "title": "India’s USDT premium tops 8.5% as crypto remittance crackdown squeezes stablecoin supply: report",
-      "url": "https://www.theblock.co/post/406502/indias-usdt-premium-tops-8-5-as-crypto-remittance-crackdown-squeezes-stablecoin-supply-report",
-      "source": "The Block",
-      "publishedAt": "2026-06-29T09:49:21.000Z",
-      "summary": "India's USDT premium topped 8.5% after Enforcement Directorate raids on Bengaluru crypto firms reportedly disrupted stablecoin supply.",
+      "id": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
+      "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
+      "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-30T05:01:09.000Z",
+      "summary": "Bitcoin held below $60,000 as a surging dollar kept crypto pinned. Onchain demand stayed quiet through the week's losses, and Strategy's plan to possibly sell bitcoin added to the caution.",
       "tags": [
-        "india",
-        "usdt",
-        "premium"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "d3850c15753ada8817ba4a3d7596c9aa140822e1",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/solana-targets-80-next-3-factors-helping-sol-bulls-sustain-this-rally",
-      "title": "Solana targets $80 next – 3 factors helping SOL bulls sustain this rally",
-      "url": "https://ambcrypto.com/solana-targets-80-next-3-factors-helping-sol-bulls-sustain-this-rally",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-29T13:00:54.000Z",
-      "summary": "Is whale accumulation enough to overcome profit-taking near $80?",
-      "tags": [
+        "ether",
         "solana",
-        "targets",
-        "next"
+        "dogecoin"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 10,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "1057aba5e80c57495f3df64010d614701da105d5",
+      "score": 19
+    },
+    {
+      "id": "https://ambcrypto.com/canton-network-can-cc-absorb-its-latest-3-11m-token-unlock",
+      "title": "Canton Network: Can CC absorb its latest $3.11M token unlock?",
+      "url": "https://ambcrypto.com/canton-network-can-cc-absorb-its-latest-3-11m-token-unlock",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-29T20:00:41.000Z",
+      "summary": "Another $3.11M CC unlock approaches with traders weighing rising Circulating Supply against weakening market participation.",
+      "tags": [
+        "canton",
+        "network",
+        "absorb"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e9cfaef5d99742910e7d709679133faa6de0951b",
-      "score": 21
+      "dedupeFingerprint": "4859946eb77074a6cdd0edaa110d00dcf93f209b",
+      "score": 18
     }
   ]
 }

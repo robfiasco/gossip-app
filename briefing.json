@@ -1,8 +1,17 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
+      "category": "APPS",
+      "source": "CoinDesk",
+      "date": "2026-06-30",
+      "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
+      "whyYouShouldCare": "The pressure from Bitcoin sales impacts overall market sentiment, which could lead to decreased liquidity and trading volume for Solana."
+    },
     {
       "type": "MARKET",
       "title": "JPMorgan execs draw comparison between yield stablecoins and ‘shadow banking’",
@@ -10,25 +19,16 @@
       "source": "The Block",
       "date": "2026-06-29",
       "url": "https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking",
-      "whyYouShouldCare": "The comparison of yield stablecoins to shadow banking highlights potential regulatory scrutiny, which could impact liquidity and operational frameworks across the crypto ecosystem."
+      "whyYouShouldCare": "JPMorgan's comparison of yield stablecoins to shadow banking highlights potential regulatory risks that could affect Solana's ecosystem and its stablecoin integrations."
     },
     {
       "type": "APPS",
-      "title": "Solana targets $80 next – 3 factors helping SOL bulls sustain this rally",
+      "title": "ESMA MiCA warning puts Binance EU service changes under scrutiny",
       "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-06-29",
-      "url": "https://ambcrypto.com/solana-targets-80-next-3-factors-helping-sol-bulls-sustain-this-rally",
-      "whyYouShouldCare": "Factors supporting Solana's price rally indicate strong market sentiment and increased ecosystem activity, which could enhance SOL's positioning and attract more liquidity."
-    },
-    {
-      "type": "APPS",
-      "title": "TD Cowen says crypto market structure bill passage ‘far from assured’ before midterm election",
-      "category": "APPS",
-      "source": "The Block",
-      "date": "2026-06-29",
-      "url": "https://www.theblock.co/post/406621/td-cowen-crypto-market-structure-bill-clarity-act",
-      "whyYouShouldCare": "Uncertainty surrounding the crypto market structure bill may hinder institutional investment and regulatory clarity, affecting overall market confidence and SOL's growth trajectory."
+      "source": "Cointelegraph",
+      "date": "2026-06-30",
+      "url": "https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica",
+      "whyYouShouldCare": "ESMA's scrutiny of Binance's EU operations may influence user confidence and trading activity in Solana, particularly if regulatory changes impact liquidity."
     }
   ]
 }
