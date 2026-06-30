@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T10:30:23.105Z",
-    "totalCandidates": 100,
-    "solanaCandidates": 15,
+    "generatedAt": "2026-06-30T20:56:16.717Z",
+    "totalCandidates": 108,
+    "solanaCandidates": 25,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -42,49 +42,16 @@
       "score": 25
     },
     {
-      "id": "https://www.theblock.co/post/406581/bny-circle-expand-partnership-adding-mint-burn-capabilities-usdc",
-      "title": "BNY and Circle expand partnership, adding mint and burn capabilities for USDC",
-      "url": "https://www.theblock.co/post/406581/bny-circle-expand-partnership-adding-mint-burn-capabilities-usdc",
-      "source": "The Block",
-      "publishedAt": "2026-06-29T16:58:42.000Z",
-      "summary": "BNY, the world's largest custodian bank, said it plans to add support for additional stablecoin via its Digital Asset Custody platform.",
-      "tags": [
-        "circle",
-        "expand",
-        "partnership"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "820c161f0ebb84fe477962018546b485e6e77b81",
-      "score": 21
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
-      "title": "Wall Street's BNY expands stablecoin services for institutions, starting with Circle's USDC",
-      "url": "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
+      "id": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
+      "title": "MetaMask launches Money Account with stablecoin yield and spending in one wallet",
+      "url": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
       "source": "CoinDesk",
-      "publishedAt": "2026-06-29T14:46:33.000Z",
-      "summary": "The world's largest custody bank is adding USDC custody and minting services as stablecoins move deeper into traditional finance.",
+      "publishedAt": "2026-06-30T14:00:00.000Z",
+      "summary": "The launch reflects a broader push to make stablecoins more useful beyond trading and transfers.",
       "tags": [
-        "wall",
-        "street",
-        "expands"
+        "metamask",
+        "launches",
+        "money"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -99,27 +66,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3072fdccd040ad68f65d50b6cc9e77f75f8216a7",
-      "score": 21
+      "dedupeFingerprint": "59ec22c4102060be9a2130a06308a7da889e8edf",
+      "score": 22
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
-      "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
-      "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-30T05:01:09.000Z",
-      "summary": "Bitcoin held below $60,000 as a surging dollar kept crypto pinned. Onchain demand stayed quiet through the week's losses, and Strategy's plan to possibly sell bitcoin added to the caution.",
+      "id": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins",
+      "title": "OKX AI unveils marketplace for agents to find work and get paid in stablecoins",
+      "url": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins",
+      "source": "The Block",
+      "publishedAt": "2026-06-30T14:49:01.000Z",
+      "summary": "“Think Upwork for Agents with our fintech infrastructure and 150M scale in the background,\" an OKX rep said.",
       "tags": [
-        "ether",
-        "solana",
-        "dogecoin"
+        "unveils",
+        "marketplace",
+        "agents"
       ],
-      "topicBucket": "general",
+      "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -137,23 +104,23 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "1057aba5e80c57495f3df64010d614701da105d5",
+      "dedupeFingerprint": "fecab3d0990ce81d1a358a527d9856d83706e2c8",
       "score": 19
     },
     {
-      "id": "https://ambcrypto.com/canton-network-can-cc-absorb-its-latest-3-11m-token-unlock",
-      "title": "Canton Network: Can CC absorb its latest $3.11M token unlock?",
-      "url": "https://ambcrypto.com/canton-network-can-cc-absorb-its-latest-3-11m-token-unlock",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-29T20:00:41.000Z",
-      "summary": "Another $3.11M CC unlock approaches with traders weighing rising Circulating Supply against weakening market participation.",
+      "id": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth",
+      "title": "Nasdaq brings proprietary market data onchain through Pyth",
+      "url": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-06-30T18:46:29.000Z",
+      "summary": "The partnership extends distribution of Nasdaq's TotalView market data to blockchain applications and other software platforms through Pyth's marketplace.",
       "tags": [
-        "canton",
-        "network",
-        "absorb"
+        "nasdaq",
+        "brings",
+        "proprietary"
       ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -165,12 +132,45 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
+        "recencyScore": 10,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "4859946eb77074a6cdd0edaa110d00dcf93f209b",
+      "dedupeFingerprint": "c8e00b5fb875e401c4c91a60c28438e2ab02edc1",
+      "score": 18
+    },
+    {
+      "id": "https://cointelegraph.com/news/solana-company-to-back-kazakhstans-6b-crypto-megacity-ambition",
+      "title": "Solana Company to back Kazakhstan’s $6B crypto megacity ambition",
+      "url": "https://cointelegraph.com/news/solana-company-to-back-kazakhstans-6b-crypto-megacity-ambition",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-06-30T11:00:00.000Z",
+      "summary": "Nasdaq-listed Solana Company has signed a memorandum of understanding with Kazakhstan's Alatau City, which seeks to become a key crypto hub in Central Asia.",
+      "tags": [
+        "solana",
+        "company",
+        "back"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3304aa2057eb4d166923073bcb7e57730d3f70f0",
       "score": 18
     }
   ]

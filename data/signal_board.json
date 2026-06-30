@@ -1,21 +1,21 @@
 {
   "date": "2026-06-30",
-  "generated_at_utc": "2026-06-30T10:30:31.301Z",
-  "ctxMarket": "Attention is on price declines across major tokens, including Solana, following news of Strategy's potential bitcoin sales and a strong dollar. Onchain activity remains subdued, with few signs of renewed demand.",
-  "ctxTalking": "• The impact of Strategy's possible bitcoin sales on broader crypto prices, including Solana\n• Comparisons between yield-generating stablecoins and traditional “shadow banking” by JPMorgan executives",
-  "ctxMatters": "Solana’s price is moving in step with broader crypto sentiment, reflecting sensitivity to large institutional actions. Regulatory scrutiny may increase around stablecoins offering yields, which could affect protocols and products built on Solana. Both themes highlight ongoing concerns about liquidity and oversight in the ecosystem.",
-  "ctxSignal": "Signal: Institutional moves and regulatory commentary are shaping near-term sentiment and attention.\nNoise: Short-term price swings not clearly linked to new onchain activity.",
-  "ctxGlossary": "Shadow banking — Financial activities outside traditional banks, often with less regulation\nStablecoin — A cryptocurrency pegged to a stable asset, like the US dollar",
+  "generated_at_utc": "2026-06-30T20:56:25.599Z",
+  "ctxMarket": "Attention is focused on Nasdaq’s move to bring its proprietary market data onchain via Pyth, signaling further integration between traditional finance and blockchain. Meanwhile, market sentiment remains cautious as major tokens, including Solana, faced declines amid news of potential large bitcoin sales.",
+  "ctxTalking": "• Nasdaq’s TotalView data feed now available onchain through Pyth’s marketplace\n• Solana Company’s partnership with Kazakhstan’s Alatau City for a $6B crypto hub\n• Market pressure from Strategy’s announced bitcoin sales plan",
+  "ctxMatters": "Nasdaq’s data integration could enhance transparency and tooling for Solana-based financial applications. The Kazakhstan partnership highlights Solana’s expanding institutional relationships and geographic reach. Ongoing market caution may affect liquidity and project funding in the near term.",
+  "ctxSignal": "Signal: Nasdaq’s onchain data move and Solana’s Kazakhstan partnership show concrete institutional adoption.\nNoise: Short-term price moves tied to bitcoin sales speculation.",
+  "ctxGlossary": "Pyth — A blockchain-based oracle network delivering real-time data to smart contracts\nTotalView — Nasdaq’s comprehensive order book data feed",
   "readMore": [
     {
-      "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market"
+      "title": "Nasdaq brings proprietary market data onchain through Pyth",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth"
     },
     {
-      "title": "JPMorgan execs draw comparison between yield stablecoins and ‘shadow banking’",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking"
+      "title": "Nasdaq expands distribution of its market data into blockchain infrastructure",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/30/nasdaq-expands-distribution-of-its-market-data-into-blockchain-infrastructure"
     }
   ]
 }
