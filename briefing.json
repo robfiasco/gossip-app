@@ -1,8 +1,17 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "How Solana’s rising network activity can drive SOL’s breakout above $82",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-06-30",
+      "url": "https://ambcrypto.com/how-solanas-rising-network-activity-can-drive-sols-breakout-above-82",
+      "whyYouShouldCare": "Increased network activity on Solana could enhance SOL's market position, potentially leading to significant price movements above $82."
+    },
     {
       "type": "APPS",
       "title": "Nasdaq brings proprietary market data onchain through Pyth",
@@ -10,7 +19,7 @@
       "source": "Cointelegraph",
       "date": "2026-06-30",
       "url": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth",
-      "whyYouShouldCare": "Pyth's integration of Nasdaq's proprietary data on-chain enhances Solana's appeal for institutional investors seeking reliable market insights."
+      "whyYouShouldCare": "The integration of Nasdaq's proprietary market data on Solana via Pyth could improve liquidity and attract institutional interest in the ecosystem."
     },
     {
       "type": "APPS",
@@ -19,16 +28,7 @@
       "source": "Cointelegraph",
       "date": "2026-06-30",
       "url": "https://cointelegraph.com/news/solana-company-to-back-kazakhstans-6b-crypto-megacity-ambition",
-      "whyYouShouldCare": "Solana's involvement in Kazakhstan's $6B crypto megacity could significantly boost its ecosystem usage and attract new projects and users."
-    },
-    {
-      "type": "APPS",
-      "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-06-30",
-      "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
-      "whyYouShouldCare": "The pressure from bitcoin sales impacting Ether, Solana, and Dogecoin highlights the interconnectedness of crypto assets, affecting liquidity and market sentiment."
+      "whyYouShouldCare": "Solana's involvement in Kazakhstan's $6B crypto megacity project may bolster its ecosystem usage and expand its global influence in the crypto space."
     }
   ]
 }

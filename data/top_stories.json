@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-06-30T20:56:16.717Z",
-    "totalCandidates": 108,
-    "solanaCandidates": 25,
+    "generatedAt": "2026-07-01T10:43:07.973Z",
+    "totalCandidates": 112,
+    "solanaCandidates": 24,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://ambcrypto.com/how-solanas-rising-network-activity-can-drive-sols-breakout-above-82",
+      "title": "How Solana’s rising network activity can drive SOL’s breakout above $82",
+      "url": "https://ambcrypto.com/how-solanas-rising-network-activity-can-drive-sols-breakout-above-82",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-06-30T23:00:38.000Z",
+      "summary": "Solana's network growth and rising utility are reinforcing its latest market recovery.",
+      "tags": [
+        "solana",
+        "rising",
+        "network"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "0adcfd3eed5d3f5f861cb53d439482eea1851420",
+      "score": 24
+    },
     {
       "id": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
       "title": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
@@ -33,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "83655a22b3d14b53c2b1eed09d96b30f0759f819",
-      "score": 25
+      "score": 23
     },
     {
       "id": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
@@ -66,13 +99,46 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "59ec22c4102060be9a2130a06308a7da889e8edf",
-      "score": 22
+      "score": 21
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders",
+      "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
+      "url": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders",
+      "source": "CoinDesk",
+      "publishedAt": "2026-06-30T21:00:19.000Z",
+      "summary": "The crypto wallet is doubling down on perpetual futures after hiring the builders behind one of Hyperliquid's highest-profile market experiments.",
+      "tags": [
+        "phantom",
+        "doubles",
+        "down"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "801ab242df09635c18812ca871a43ecceb577158",
+      "score": 18
     },
     {
       "id": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins",
@@ -99,78 +165,12 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "fecab3d0990ce81d1a358a527d9856d83706e2c8",
-      "score": 19
-    },
-    {
-      "id": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth",
-      "title": "Nasdaq brings proprietary market data onchain through Pyth",
-      "url": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-06-30T18:46:29.000Z",
-      "summary": "The partnership extends distribution of Nasdaq's TotalView market data to blockchain applications and other software platforms through Pyth's marketplace.",
-      "tags": [
-        "nasdaq",
-        "brings",
-        "proprietary"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c8e00b5fb875e401c4c91a60c28438e2ab02edc1",
-      "score": 18
-    },
-    {
-      "id": "https://cointelegraph.com/news/solana-company-to-back-kazakhstans-6b-crypto-megacity-ambition",
-      "title": "Solana Company to back Kazakhstan’s $6B crypto megacity ambition",
-      "url": "https://cointelegraph.com/news/solana-company-to-back-kazakhstans-6b-crypto-megacity-ambition",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-06-30T11:00:00.000Z",
-      "summary": "Nasdaq-listed Solana Company has signed a memorandum of understanding with Kazakhstan's Alatau City, which seeks to become a key crypto hub in Central Asia.",
-      "tags": [
-        "solana",
-        "company",
-        "back"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "3304aa2057eb4d166923073bcb7e57730d3f70f0",
       "score": 18
     }
   ]
