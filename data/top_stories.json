@@ -1,27 +1,126 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T10:43:07.973Z",
-    "totalCandidates": 112,
-    "solanaCandidates": 24,
+    "generatedAt": "2026-07-01T20:46:56.774Z",
+    "totalCandidates": 113,
+    "solanaCandidates": 26,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/how-solanas-rising-network-activity-can-drive-sols-breakout-above-82",
-      "title": "How Solana’s rising network activity can drive SOL’s breakout above $82",
-      "url": "https://ambcrypto.com/how-solanas-rising-network-activity-can-drive-sols-breakout-above-82",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-06-30T23:00:38.000Z",
-      "summary": "Solana's network growth and rising utility are reinforcing its latest market recovery.",
+      "id": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol",
+      "title": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
+      "url": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol",
+      "source": "The Block",
+      "publishedAt": "2026-07-01T15:53:25.000Z",
+      "summary": "Forward Industries holds more SOL than the next three largest publicly traded Solana treasury companies combined.",
       "tags": [
-        "solana",
-        "rising",
-        "network"
+        "forward",
+        "industries",
+        "jumps"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "0192fe9d127d85533b92102f931de630c6ec8933",
+      "score": 30
+    },
+    {
+      "id": "https://decrypt.co/372519/forward-industries-shares-spike-solana-treasury-adds-38-million",
+      "title": "Forward Industries Shares Spike as Leading Solana Treasury Adds $38 Million in SOL",
+      "url": "https://decrypt.co/372519/forward-industries-shares-spike-solana-treasury-adds-38-million",
+      "source": "Decrypt",
+      "publishedAt": "2026-07-01T15:09:05.000Z",
+      "summary": "Shares in top Solana treasury firm Forward Industries are jumping Wedesday after announcing that it added over 500,000 SOL to its stash.",
+      "tags": [
+        "forward",
+        "industries",
+        "shares"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 16,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b6a15788a121a72b60c1d7102b3cf56f8705a053",
+      "score": 29
+    },
+    {
+      "id": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches",
+      "title": "Solana-based prediction market app on Phantom wallet launches",
+      "url": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches",
+      "source": "The Block",
+      "publishedAt": "2026-07-01T15:34:21.000Z",
+      "summary": "“Prediction markets are one of the most powerful applications you can build on a high-performance blockchain,” said Solana Foundation.",
+      "tags": [
+        "solana",
+        "based",
+        "prediction"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5a3ed3f4ad871c033c0f1743c5fdd04c5f36163a",
+      "score": 27
+    },
+    {
+      "id": "https://ambcrypto.com/can-solanas-strong-network-demand-offset-julys-token-unlock-pressure",
+      "title": "Can Solana’s strong network demand offset July’s token unlock pressure?",
+      "url": "https://ambcrypto.com/can-solanas-strong-network-demand-offset-julys-token-unlock-pressure",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-01T20:00:55.000Z",
+      "summary": "Token unlocks loom, but Solana's on-chain strength tells a different story.",
+      "tags": [
+        "solana",
+        "strong",
+        "network"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -38,119 +137,20 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0adcfd3eed5d3f5f861cb53d439482eea1851420",
+      "dedupeFingerprint": "db3bbeb864b0ea8ae638bfaf5260aa0a7ed4cd1c",
       "score": 24
     },
     {
-      "id": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
-      "title": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
-      "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
+      "id": "https://www.coindesk.com/web3/2026/07/01/mysterious-solana-project-world-unveiled-as-fully-onchain-prediction-market",
+      "title": "Mysterious Solana project World unveiled as fully onchain prediction market",
+      "url": "https://www.coindesk.com/web3/2026/07/01/mysterious-solana-project-world-unveiled-as-fully-onchain-prediction-market",
       "source": "CoinDesk",
-      "publishedAt": "2026-06-30T10:08:48.000Z",
-      "summary": "The Financial Conduct Authority's proposal follows the Bank of England's backtracking on the limit to the value of stablecoins an individual could hold.",
+      "publishedAt": "2026-07-01T13:00:00.000Z",
+      "summary": "The platform is now live within the Phantom wallet and at world.xyz, utilizing Chainlink as its primary oracle infrastructure for market data.",
       "tags": [
-        "lower",
-        "stablecoin",
-        "capital"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "83655a22b3d14b53c2b1eed09d96b30f0759f819",
-      "score": 23
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
-      "title": "MetaMask launches Money Account with stablecoin yield and spending in one wallet",
-      "url": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-30T14:00:00.000Z",
-      "summary": "The launch reflects a broader push to make stablecoins more useful beyond trading and transfers.",
-      "tags": [
-        "metamask",
-        "launches",
-        "money"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "59ec22c4102060be9a2130a06308a7da889e8edf",
-      "score": 21
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders",
-      "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
-      "url": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders",
-      "source": "CoinDesk",
-      "publishedAt": "2026-06-30T21:00:19.000Z",
-      "summary": "The crypto wallet is doubling down on perpetual futures after hiring the builders behind one of Hyperliquid's highest-profile market experiments.",
-      "tags": [
-        "phantom",
-        "doubles",
-        "down"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "801ab242df09635c18812ca871a43ecceb577158",
-      "score": 18
-    },
-    {
-      "id": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins",
-      "title": "OKX AI unveils marketplace for agents to find work and get paid in stablecoins",
-      "url": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins",
-      "source": "The Block",
-      "publishedAt": "2026-06-30T14:49:01.000Z",
-      "summary": "“Think Upwork for Agents with our fintech infrastructure and 150M scale in the background,\" an OKX rep said.",
-      "tags": [
-        "unveils",
-        "marketplace",
-        "agents"
+        "mysterious",
+        "solana",
+        "project"
       ],
       "topicBucket": "infra",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "fecab3d0990ce81d1a358a527d9856d83706e2c8",
-      "score": 18
+      "dedupeFingerprint": "9ce142f58051c673e02f042844282d85dafdee4e",
+      "score": 22
     }
   ]
 }
