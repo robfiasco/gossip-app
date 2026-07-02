@@ -1,26 +1,26 @@
 {
   "date": "2026-07-02",
-  "generated_at_utc": "2026-07-02T10:08:29.126Z",
-  "ctxMarket": "Attention is focused on Solana’s new onchain governance system and strong weekly price performance, with SOL up about 16%. Institutional moves, such as Forward Industries’ major SOL treasury expansion, are also drawing interest.",
-  "ctxTalking": "• Solana’s launch of onchain governance proposals with a high entry threshold for validators\n• Forward Industries’ significant increase in SOL holdings and related stock surge\n• The debut of a Solana-based prediction market app on Phantom wallet",
-  "ctxMatters": "Solana’s governance update formalizes how validators and stakers influence network direction, potentially impacting protocol evolution. Large treasury moves by public companies may signal growing institutional involvement. New applications like prediction markets highlight ongoing ecosystem development.",
-  "ctxSignal": "Signal: Governance changes and major treasury expansions reflect structural shifts in Solana’s ecosystem.\nNoise: Short-term price speculation tied to token unlocks lacks clear consensus in the coverage.",
-  "ctxGlossary": "Onchain governance — A system allowing network participants to propose and vote on protocol changes directly on the blockchain.\nToken unlock — Scheduled release of previously locked tokens, often affecting circulating supply and market dynamics.",
+  "generated_at_utc": "2026-07-02T20:17:28.251Z",
+  "ctxMarket": "Attention is focused on Solana’s new onchain governance system and the tokenization of major assets on its network. Recent price movement in SOL is being discussed in relation to protocol upgrades and broader crypto market shifts.",
+  "ctxTalking": "• Solana’s launch of protocol-level governance (SGP), allowing validators and stakers to propose and vote on network changes\n• Securitize’s $295 million stock tokenization on Solana and Avalanche, coinciding with its NYSE debut\n• Anticipation around Solana’s upcoming Alpenglow protocol upgrade",
+  "ctxMatters": "Solana’s governance framework gives validators and stakers a formal mechanism to influence protocol direction.  \nTokenized equities on Solana highlight institutional adoption and new use cases for the network.  \nProtocol upgrades and governance changes may impact how users and builders interact with Solana’s ecosystem.",
+  "ctxSignal": "Signal: Implementation of onchain governance and major tokenization events on Solana.\nNoise: Speculation about short-term price targets not directly tied to these developments.",
+  "ctxGlossary": "SGP (Solana Governance Proposals) — A new system for proposing and voting on protocol changes in Solana.\nTokenization — Converting real-world assets, like stocks, into blockchain-based tokens.",
   "readMore": [
     {
-      "title": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals"
-    },
-    {
-      "title": "All about Solana’s 4.7M milestone and SOL’s attempt to clear $75-level",
+      "title": "Solana launches SGP governance as staked supply crosses 68%",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/all-about-solanas-4-7m-milestone-and-sols-attempt-to-clear-75-level"
+      "url": "https://ambcrypto.com/solana-launches-sgp-governance-as-staked-supply-crosses-68-details"
     },
     {
-      "title": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol"
+      "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut"
+    },
+    {
+      "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche"
     }
   ]
 }
