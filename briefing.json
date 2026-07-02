@@ -1,34 +1,34 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "ECOSYSTEM",
-      "title": "Can Solana’s strong network demand offset July’s token unlock pressure?",
-      "category": "ECOSYSTEM",
-      "source": "AMB Crypto",
-      "date": "2026-07-01",
-      "url": "https://ambcrypto.com/can-solanas-strong-network-demand-offset-julys-token-unlock-pressure",
-      "whyYouShouldCare": "Strong network demand could stabilize SOL's value amid the pressure from token unlocks, influencing investor confidence and market dynamics."
-    },
-    {
-      "type": "ECOSYSTEM",
-      "title": "Solana-based prediction market app on Phantom wallet launches",
-      "category": "ECOSYSTEM",
-      "source": "The Block",
-      "date": "2026-07-01",
-      "url": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches",
-      "whyYouShouldCare": "The launch of a prediction market app on Phantom wallet enhances Solana's ecosystem, potentially increasing user engagement and transaction volume."
-    },
-    {
       "type": "INFRA",
-      "title": "Mysterious Solana project World unveiled as fully onchain prediction market",
+      "title": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
       "category": "INFRA",
       "source": "CoinDesk",
+      "date": "2026-07-02",
+      "url": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals",
+      "whyYouShouldCare": "The introduction of on-chain governance with a high entry fee could enhance SOL's staking appeal and influence ecosystem participation."
+    },
+    {
+      "type": "APPS",
+      "title": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
+      "category": "APPS",
+      "source": "The Block",
       "date": "2026-07-01",
-      "url": "https://www.coindesk.com/web3/2026/07/01/mysterious-solana-project-world-unveiled-as-fully-onchain-prediction-market",
-      "whyYouShouldCare": "The unveiling of a fully on-chain prediction market project adds to Solana's infrastructure, potentially attracting new users and developers to the platform."
+      "url": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol",
+      "whyYouShouldCare": "Forward Industries' treasury expansion signals growing institutional confidence in Solana, potentially boosting liquidity and usage within the ecosystem."
+    },
+    {
+      "type": "APPS",
+      "title": "Forward Industries Shares Spike as Leading Solana Treasury Adds $38 Million in SOL",
+      "category": "APPS",
+      "source": "Decrypt",
+      "date": "2026-07-01",
+      "url": "https://decrypt.co/372519/forward-industries-shares-spike-solana-treasury-adds-38-million",
+      "whyYouShouldCare": "The significant increase in SOL holdings by Forward Industries reflects a strong market sentiment and could attract further investments into Solana."
     }
   ]
 }

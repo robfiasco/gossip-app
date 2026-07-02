@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T20:46:56.774Z",
+    "generatedAt": "2026-07-02T10:08:18.410Z",
     "totalCandidates": 113,
-    "solanaCandidates": 26,
+    "solanaCandidates": 28,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals",
+      "title": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
+      "url": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-02T07:15:21.000Z",
+      "summary": "Validators and the people who stake with them can now formally signal where the network should go through a new system called Solana Governance Proposals. Any validator with 100,000 SOL behind it can open one, and stakers can overrule how their validator votes.",
+      "tags": [
+        "solana",
+        "launches",
+        "onchain"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 27,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ca4b68fd4b134ee67e4a983fc517da09975560a1",
+      "score": 41
+    },
     {
       "id": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol",
       "title": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
@@ -33,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "0192fe9d127d85533b92102f931de630c6ec8933",
-      "score": 30
+      "score": 29
     },
     {
       "id": "https://decrypt.co/372519/forward-industries-shares-spike-solana-treasury-adds-38-million",
@@ -66,93 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 16,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 3,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b6a15788a121a72b60c1d7102b3cf56f8705a053",
-      "score": 29
+      "score": 28
     },
     {
-      "id": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches",
-      "title": "Solana-based prediction market app on Phantom wallet launches",
-      "url": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches",
-      "source": "The Block",
-      "publishedAt": "2026-07-01T15:34:21.000Z",
-      "summary": "“Prediction markets are one of the most powerful applications you can build on a high-performance blockchain,” said Solana Foundation.",
-      "tags": [
-        "solana",
-        "based",
-        "prediction"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5a3ed3f4ad871c033c0f1743c5fdd04c5f36163a",
-      "score": 27
-    },
-    {
-      "id": "https://ambcrypto.com/can-solanas-strong-network-demand-offset-julys-token-unlock-pressure",
-      "title": "Can Solana’s strong network demand offset July’s token unlock pressure?",
-      "url": "https://ambcrypto.com/can-solanas-strong-network-demand-offset-julys-token-unlock-pressure",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-01T20:00:55.000Z",
-      "summary": "Token unlocks loom, but Solana's on-chain strength tells a different story.",
-      "tags": [
-        "solana",
-        "strong",
-        "network"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "db3bbeb864b0ea8ae638bfaf5260aa0a7ed4cd1c",
-      "score": 24
-    },
-    {
-      "id": "https://www.coindesk.com/web3/2026/07/01/mysterious-solana-project-world-unveiled-as-fully-onchain-prediction-market",
-      "title": "Mysterious Solana project World unveiled as fully onchain prediction market",
-      "url": "https://www.coindesk.com/web3/2026/07/01/mysterious-solana-project-world-unveiled-as-fully-onchain-prediction-market",
+      "id": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000",
+      "title": "Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000",
+      "url": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000",
       "source": "CoinDesk",
-      "publishedAt": "2026-07-01T13:00:00.000Z",
-      "summary": "The platform is now live within the Phantom wallet and at world.xyz, utilizing Chainlink as its primary oracle infrastructure for market data.",
+      "publishedAt": "2026-07-02T05:22:54.000Z",
+      "summary": "Bitcoin climbed back above $60,000 for the first time in over a week after Fed Chair Kevin Warsh said inflation risks had come down. Solana led the majors, up about 16% on the week, while a semiconductor selloff hit Asian markets and dented the AI trade that has pulled capital from crypto all quarte",
       "tags": [
-        "mysterious",
+        "ether",
         "solana",
-        "project"
+        "dogecoin"
       ],
-      "topicBucket": "infra",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -170,8 +137,41 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9ce142f58051c673e02f042844282d85dafdee4e",
+      "dedupeFingerprint": "85c44e7871de939f3782220e052009a02df359d0",
       "score": 22
+    },
+    {
+      "id": "https://cryptoslate.com/coinbase-helped-build-usdc-why-its-now-backing-the-stablecoin-trying-to-replace-it-open-usd",
+      "title": "Coinbase helped build USDC – Why is it now backing the stablecoin trying to replace it, Open USD?",
+      "url": "https://cryptoslate.com/coinbase-helped-build-usdc-why-its-now-backing-the-stablecoin-trying-to-replace-it-open-usd",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-07-02T08:10:35.000Z",
+      "summary": "The stablecoin market has long rewarded the companies that issue digital dollars. They take in customer cash, hold reserves in short-term government securities, and earn the yield. Now, the companies that distribute those tokens want more of the economics. That tension is at the center of Open USD (",
+      "tags": [
+        "coinbase",
+        "helped",
+        "build"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ce6089ac9f4c6e03cd058b921a192d21f3259938",
+      "score": 20
     }
   ]
 }

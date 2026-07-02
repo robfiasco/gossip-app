@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-01",
-  "generated_at_utc": "2026-07-01T20:47:08.556Z",
-  "ctxMarket": "Attention is on Solana’s network activity and ecosystem growth, even as upcoming token unlocks raise questions about supply dynamics. Notable treasury moves and new app launches are drawing focus.",
-  "ctxTalking": "• Forward Industries expanded its Solana holdings, now leading among public treasury holders\n• Launch of a Solana-based prediction market app integrated with Phantom wallet\n• Speculation on whether strong network demand can counteract July’s token unlock pressure",
-  "ctxMatters": "Large treasury allocations signal institutional confidence in Solana’s long-term prospects. The debut of onchain prediction markets highlights Solana’s capacity for high-performance applications. Token unlocks may introduce volatility, but ongoing network activity is being closely watched as a potential stabilizing factor.",
-  "ctxSignal": "Signal: Institutional treasury growth and new app launches on Solana’s network\nNoise: Short-term speculation about unlock-driven price moves without clear data",
-  "ctxGlossary": "Token unlock — Scheduled release of previously locked tokens into circulation\nPrediction market — Platform for betting on outcomes of future events using blockchain",
+  "date": "2026-07-02",
+  "generated_at_utc": "2026-07-02T10:08:29.126Z",
+  "ctxMarket": "Attention is focused on Solana’s new onchain governance system and strong weekly price performance, with SOL up about 16%. Institutional moves, such as Forward Industries’ major SOL treasury expansion, are also drawing interest.",
+  "ctxTalking": "• Solana’s launch of onchain governance proposals with a high entry threshold for validators\n• Forward Industries’ significant increase in SOL holdings and related stock surge\n• The debut of a Solana-based prediction market app on Phantom wallet",
+  "ctxMatters": "Solana’s governance update formalizes how validators and stakers influence network direction, potentially impacting protocol evolution. Large treasury moves by public companies may signal growing institutional involvement. New applications like prediction markets highlight ongoing ecosystem development.",
+  "ctxSignal": "Signal: Governance changes and major treasury expansions reflect structural shifts in Solana’s ecosystem.\nNoise: Short-term price speculation tied to token unlocks lacks clear consensus in the coverage.",
+  "ctxGlossary": "Onchain governance — A system allowing network participants to propose and vote on protocol changes directly on the blockchain.\nToken unlock — Scheduled release of previously locked tokens, often affecting circulating supply and market dynamics.",
   "readMore": [
     {
-      "title": "Can Solana’s strong network demand offset July’s token unlock pressure?",
+      "title": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals"
+    },
+    {
+      "title": "All about Solana’s 4.7M milestone and SOL’s attempt to clear $75-level",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/can-solanas-strong-network-demand-offset-julys-token-unlock-pressure"
+      "url": "https://ambcrypto.com/all-about-solanas-4-7m-milestone-and-sols-attempt-to-clear-75-level"
     },
     {
       "title": "Forward Industries jumps 17% after expanding Solana treasury to 7.55 million SOL",
       "source": "The Block",
       "url": "https://www.theblock.co/post/406903/forward-industries-stock-jumps-expanding-solana-treasury-7-55-million-sol"
-    },
-    {
-      "title": "Forward Industries Shares Spike as Leading Solana Treasury Adds $38 Million in SOL",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/372519/forward-industries-shares-spike-solana-treasury-adds-38-million"
     }
   ]
 }
