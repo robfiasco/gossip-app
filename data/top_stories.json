@@ -1,79 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-07-02T20:17:21.025Z",
-    "totalCandidates": 115,
-    "solanaCandidates": 29,
+    "generatedAt": "2026-07-03T09:54:38.223Z",
+    "totalCandidates": 114,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://cointelegraph.com/news/solana-foundation-framework-protocol-governance",
-      "title": "Solana Foundation launches framework for protocol-level governance",
-      "url": "https://cointelegraph.com/news/solana-foundation-framework-protocol-governance",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-07-02T10:59:43.000Z",
-      "summary": "The Solana Foundation launched a framework for protocol-level governance, enabling validators with at least 100,000 delegated SOL to publish new proposals.",
-      "tags": [
-        "solana",
-        "foundation",
-        "launches"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 19,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "0e84e6d7ef5a1013f00589d66a69e45a951dcc4d",
-      "score": 29
-    },
-    {
-      "id": "https://ambcrypto.com/solana-launches-sgp-governance-as-staked-supply-crosses-68-details",
-      "title": "Solana launches SGP governance as staked supply crosses 68%: Details",
-      "url": "https://ambcrypto.com/solana-launches-sgp-governance-as-staked-supply-crosses-68-details",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-02T19:00:58.000Z",
-      "summary": "Solana empowers validators through SGP as treasury accumulation grows. Could the latest spike in SOL open interest signal bullish positioning?",
-      "tags": [
-        "solana",
-        "launches",
-        "governance"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 16,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "fd9159049f159760b05e40162d05bb55b981c386",
-      "score": 27
-    },
     {
       "id": "https://solana.com/news/how-external-assets-start-trading-on-solana-from-day-one",
       "title": "How External Assets Start Trading on Solana From Day One",
@@ -99,25 +33,25 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "59200dce91d798a9945d3dfc52cabd889fe38aac",
-      "score": 27
+      "score": 26
     },
     {
-      "id": "https://ambcrypto.com/all-about-solanas-4-7m-milestone-and-sols-attempt-to-clear-75-level",
-      "title": "All about Solana’s 4.7M milestone and SOL’s attempt to clear $75-level",
-      "url": "https://ambcrypto.com/all-about-solanas-4-7m-milestone-and-sols-attempt-to-clear-75-level",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-02T06:00:48.000Z",
-      "summary": "Solana's next price targets might depend on how its fundamentals do.",
+      "id": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
+      "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
+      "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-03T05:18:58.000Z",
+      "summary": "Bearish traders lost $281 million in liquidations over 24 hours, nearly double the longs, as bitcoin pushed to its strongest level in two weeks. Ether is up almost 10% on the week and solana nearly 19% while a rebound in tech stocks eased the pressure from the AI trade.",
       "tags": [
-        "about",
+        "ether",
         "solana",
-        "milestone"
+        "extend"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,29 +64,62 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "f3e139f32e9a0104008e88f62f472fbc67b1ef10",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/meteora-price-surges-14-can-rising-tvl-sustain-mets-rally",
+      "title": "Meteora price surges 14% – Can rising TVL sustain MET’s rally?",
+      "url": "https://ambcrypto.com/meteora-price-surges-14-can-rising-tvl-sustain-mets-rally",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-02T22:00:10.000Z",
+      "summary": "MET's protocol performance could prove the key to a sustained rally.",
+      "tags": [
+        "meteora",
+        "price",
+        "surges"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "cbd2459e771eddcaae00b0d06b2f296af0db4414",
-      "score": 23
+      "dedupeFingerprint": "5093f3b9180d41415e0f13081e2620a0da86cd86",
+      "score": 21
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000",
-      "title": "Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000",
-      "url": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000",
-      "source": "CoinDesk",
-      "publishedAt": "2026-07-02T05:22:54.000Z",
-      "summary": "Bitcoin climbed back above $60,000 for the first time in over a week after Fed Chair Kevin Warsh said inflation risks had come down. Solana led the majors, up about 16% on the week, while a semiconductor selloff hit Asian markets and dented the AI trade that has pulled capital from crypto all quarte",
+      "id": "https://cryptoslate.com/genius-made-stablecoins-legal-july-18-decides-which-stablecoins-stay-competitive",
+      "title": "GENIUS made stablecoins legal, July 18 decides which stablecoins stay competitive",
+      "url": "https://cryptoslate.com/genius-made-stablecoins-legal-july-18-decides-which-stablecoins-stay-competitive",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-07-03T08:50:29.000Z",
+      "summary": "The GENIUS Act's one-year rulemaking deadline lands on July 18, and markets have mostly priced it as a legitimacy milestone for stablecoins. Mike McCluskey, CEO of tx, and Zaheer Ebtikar, chief strategy officer at Plasma, read it as a cost-visibility event that decides which issuers can afford to ke",
       "tags": [
-        "ether",
-        "solana",
-        "dogecoin"
+        "genius",
+        "made",
+        "stablecoins"
       ],
-      "topicBucket": "market",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "e8c94cdefe3cfe054ad53b6eed0a4dabd2a1e358",
+      "score": 20
+    },
+    {
+      "id": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended",
+      "title": "eToro leads $12.5 million round in onchain perps exchange Extended",
+      "url": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended",
+      "source": "The Block",
+      "publishedAt": "2026-07-02T19:23:16.000Z",
+      "summary": "\"The partnership will focus on expanding access to global financial markets through next-generation on-chain infrastructure,\" eToro said.",
+      "tags": [
+        "etoro",
+        "leads",
+        "million"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
         "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "85c44e7871de939f3782220e052009a02df359d0",
-      "score": 21
+      "dedupeFingerprint": "5139741911edef0495f521f0edc9db9269f9536f",
+      "score": 18
     }
   ]
 }
