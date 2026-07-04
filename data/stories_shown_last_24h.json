@@ -1,25 +1,11 @@
 [
   {
-    "id": "0a39b5514eadca9c9b81262c52deef5d42e07c3c",
-    "title": "Signal Board Summary 2026-07-04",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-07-04T09:20:53.813Z",
-    "lastSeenAt": "2026-07-04T09:20:53.813Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "1b26b385e63d0f17a8eeb44e8a05bf9d66655bda",
     "title": "Securitize gains on NYSE debut with tokenized stocks live on Solana, Avalanche",
     "url": "https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche",
     "source": "Cointelegraph",
     "firstSeenAt": "2026-07-04T09:20:43.296Z",
-    "lastSeenAt": "2026-07-04T09:20:43.296Z",
+    "lastSeenAt": "2026-07-04T20:07:20.378Z",
     "sectionShown": "briefing",
     "topicTags": [
       "securitize",
@@ -40,7 +26,7 @@
     "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back",
     "source": "Cointelegraph",
     "firstSeenAt": "2026-07-04T09:20:43.295Z",
-    "lastSeenAt": "2026-07-04T09:20:43.295Z",
+    "lastSeenAt": "2026-07-04T20:07:20.378Z",
     "sectionShown": "briefing",
     "topicTags": [
       "rallies",
@@ -51,6 +37,41 @@
       "activity",
       "surge",
       "bulls"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "f3e139f32e9a0104008e88f62f472fbc67b1ef10",
+    "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
+    "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-07-03T09:54:38.389Z",
+    "lastSeenAt": "2026-07-04T20:07:20.377Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "ether",
+      "solana",
+      "extend",
+      "gains",
+      "short",
+      "squeeze",
+      "lifts",
+      "bitcoin"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "0a39b5514eadca9c9b81262c52deef5d42e07c3c",
+    "title": "Signal Board Summary 2026-07-04",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-07-04T09:20:53.813Z",
+    "lastSeenAt": "2026-07-04T09:20:53.813Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -135,69 +156,6 @@
       "spark",
       "rally",
       "nearly"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "5093f3b9180d41415e0f13081e2620a0da86cd86",
-    "title": "Meteora price surges 14% – Can rising TVL sustain MET’s rally?",
-    "url": "https://ambcrypto.com/meteora-price-surges-14-can-rising-tvl-sustain-mets-rally",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-07-03T09:54:38.390Z",
-    "lastSeenAt": "2026-07-03T09:54:38.390Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "meteora",
-      "price",
-      "surges",
-      "rising",
-      "sustain",
-      "rally",
-      "protocol",
-      "performance"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "8861d10b0bd1d36a96bdce3a02b961543825e3b3",
-    "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
-    "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-07-03T09:54:38.390Z",
-    "lastSeenAt": "2026-07-03T09:54:38.390Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "securitize",
-      "begins",
-      "trading",
-      "nyse",
-      "tokenized",
-      "shares",
-      "land",
-      "solana"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "f3e139f32e9a0104008e88f62f472fbc67b1ef10",
-    "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
-    "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-07-03T09:54:38.389Z",
-    "lastSeenAt": "2026-07-03T09:54:38.389Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "ether",
-      "solana",
-      "extend",
-      "gains",
-      "short",
-      "squeeze",
-      "lifts",
-      "bitcoin"
     ],
     "majorUpdate": false,
     "updateReason": null

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-07-04T09:20:43.132Z",
-    "totalCandidates": 114,
+    "generatedAt": "2026-07-04T20:07:20.212Z",
+    "totalCandidates": 109,
     "solanaCandidates": 16,
     "selected": 5,
     "tweetPool": 0,
@@ -9,19 +9,19 @@
   },
   "items": [
     {
-      "id": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back",
-      "title": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
-      "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-07-03T21:36:02.000Z",
-      "summary": "Rising interest in Solana-network memecoins and prediction markets was followed by a rally in SOL price. Will the momentum continue?",
+      "id": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
+      "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
+      "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-04T12:00:00.000Z",
+      "summary": "The U.K. FCA's crypto framework has been praised for prioritizing global liquidity and institutional adoption, but the authorization process is expected to be daunting.",
       "tags": [
-        "rallies",
-        "solana",
-        "memecoins"
+        "bold",
+        "crypto",
+        "rules"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,29 +31,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e6ec36dc38ee9205a4a6d2d29c2773337e806f0b",
-      "score": 26
+      "dedupeFingerprint": "7c42f3282c80fa02b9953334fd5f197cbf5f142d",
+      "score": 22
     },
     {
-      "id": "https://solana.com/news/how-external-assets-start-trading-on-solana-from-day-one",
-      "title": "How External Assets Start Trading on Solana From Day One",
-      "url": "https://solana.com/news/how-external-assets-start-trading-on-solana-from-day-one",
-      "source": "Solana News",
-      "publishedAt": "2026-07-01T15:08:00.000Z",
-      "summary": "Discover how Sunrise brings external assets to Solana as canonical mints, enabling faster market formation across tokenized stocks, crypto, and more.",
+      "id": "https://cryptoslate.com/openusds-partner-confusion-turns-its-stablecoin-coalition-into-a-credibility-test",
+      "title": "OpenUSD’s partner mix-up puts its stablecoin alliance under scrutiny",
+      "url": "https://cryptoslate.com/openusds-partner-confusion-turns-its-stablecoin-coalition-into-a-credibility-test",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-07-04T17:00:24.000Z",
+      "summary": "A stablecoin built around a giant partner list now faces the question every coalition coin must answer: who is actually committed, and what does participation mean? The post OpenUSD’s partner mix-up puts its stablecoin alliance under scrutiny appeared first on CryptoSlate.",
       "tags": [
-        "external",
-        "assets",
-        "start"
+        "openusd",
+        "partner",
+        "puts"
       ],
-      "topicBucket": "general",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -64,15 +64,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 14,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 5,
+        "recencyScore": 10,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "59200dce91d798a9945d3dfc52cabd889fe38aac",
-      "score": 24
+      "dedupeFingerprint": "28ad7bc01ea85dd870731586ed5aaebb8e31d17e",
+      "score": 20
     },
     {
       "id": "https://www.theblock.co/post/407147/samsung-dunamu-say-they-were-listed-as-ousd-stablecoin-consortium-members-without-official-consultation-report",
@@ -99,46 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "4fb327d25636d0ae8e981be1c8ce8cd432180f8a",
-      "score": 21
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
-      "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
-      "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
-      "source": "CoinDesk",
-      "publishedAt": "2026-07-03T19:18:59.000Z",
-      "summary": "A7A5 claims crypto data providers understate its trading activity, while blockchain analytics firms say the ruble-backed token's volumes have fallen sharply this year.",
-      "tags": [
-        "this",
-        "sanctioned",
-        "russian"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6a4500ee98c2958af71c84beb9eeba396f400382",
-      "score": 18
+      "score": 20
     },
     {
       "id": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended",
@@ -165,13 +132,46 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5139741911edef0495f521f0edc9db9269f9536f",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "https://ambcrypto.com/can-not-be-censored-bitcoin-proposal-to-block-ordinals-wins-under-1-support",
+      "title": "‘Can not be censored’- Bitcoin proposal to block Ordinals wins under 1% support",
+      "url": "https://ambcrypto.com/can-not-be-censored-bitcoin-proposal-to-block-ordinals-wins-under-1-support",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-04T18:00:15.000Z",
+      "summary": "Will the Bitcoin BIP-110 soft fork plan stall ahead of the August deadline?",
+      "tags": [
+        "censored",
+        "bitcoin",
+        "proposal"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -1,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "cbb5f930158c9b0d2e2644a85ce3f38432ffaa93",
+      "score": 10
     }
   ]
 }
