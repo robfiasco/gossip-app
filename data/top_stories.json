@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T20:12:28.759Z",
+    "generatedAt": "2026-07-04T09:20:43.132Z",
     "totalCandidates": 114,
-    "solanaCandidates": 24,
+    "solanaCandidates": 16,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cryptoslate.com/solana-stakers-get-a-new-way-to-force-the-next-sol-inflation-fight",
-      "title": "Solana stakers get a new way to force the next SOL inflation fight",
-      "url": "https://cryptoslate.com/solana-stakers-get-a-new-way-to-force-the-next-sol-inflation-fight",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-03T12:05:41.000Z",
-      "summary": "Solana just gave delegators a new governance tool called Solana Governance Proposals (SGP), which hands them a lever for the next round of the inflation fight. The proposing validator’s vote account must have at least 100,000 SOL staked, worth about $7.8 million at $77.97 per token. To advance from ",
+      "id": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back",
+      "title": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
+      "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-07-03T21:36:02.000Z",
+      "summary": "Rising interest in Solana-network memecoins and prediction markets was followed by a rally in SOL price. Will the momentum continue?",
       "tags": [
+        "rallies",
         "solana",
-        "stakers",
-        "force"
+        "memecoins"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,15 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 25,
+        "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e46bcaab158e0ae2c3a4b11610ac8de3fb80839a",
-      "score": 37
+      "dedupeFingerprint": "e6ec36dc38ee9205a4a6d2d29c2773337e806f0b",
+      "score": 26
     },
     {
       "id": "https://solana.com/news/how-external-assets-start-trading-on-solana-from-day-one",
@@ -66,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 14,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 5,
         "sourceScore": 5,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "59200dce91d798a9945d3dfc52cabd889fe38aac",
-      "score": 25
+      "score": 24
     },
     {
       "id": "https://www.theblock.co/post/407147/samsung-dunamu-say-they-were-listed-as-ousd-stablecoin-consortium-members-without-official-consultation-report",
@@ -99,58 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "4fb327d25636d0ae8e981be1c8ce8cd432180f8a",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/solana-reclaims-80-assessing-if-18m-whale-long-can-spark-sols-rally",
-      "title": "Solana reclaims $80: Assessing if $18M whale long can spark SOL’s rally",
-      "url": "https://ambcrypto.com/solana-reclaims-80-assessing-if-18m-whale-long-can-spark-sols-rally",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-03T17:00:27.000Z",
-      "summary": "Nearly two-thirds of top traders backed higher prices.",
-      "tags": [
-        "solana",
-        "reclaims",
-        "assessing"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "21c652785cac59c77ecf6ece72e055c4b9109077",
       "score": 21
     },
     {
-      "id": "https://cryptoslate.com/genius-made-stablecoins-legal-july-18-decides-which-stablecoins-stay-competitive",
-      "title": "GENIUS made stablecoins legal, July 18 decides which stablecoins stay competitive",
-      "url": "https://cryptoslate.com/genius-made-stablecoins-legal-july-18-decides-which-stablecoins-stay-competitive",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-03T08:50:29.000Z",
-      "summary": "The GENIUS Act's one-year rulemaking deadline lands on July 18, and markets have mostly priced it as a legitimacy milestone for stablecoins. Mike McCluskey, CEO of tx, and Zaheer Ebtikar, chief strategy officer at Plasma, read it as a cost-visibility event that decides which issuers can afford to ke",
+      "id": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
+      "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
+      "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-03T19:18:59.000Z",
+      "summary": "A7A5 claims crypto data providers understate its trading activity, while blockchain analytics firms say the ruble-backed token's volumes have fallen sharply this year.",
       "tags": [
-        "genius",
-        "made",
-        "stablecoins"
+        "this",
+        "sanctioned",
+        "russian"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
+        "recencyScore": 9,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "e8c94cdefe3cfe054ad53b6eed0a4dabd2a1e358",
-      "score": 20
+      "dedupeFingerprint": "6a4500ee98c2958af71c84beb9eeba396f400382",
+      "score": 18
+    },
+    {
+      "id": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended",
+      "title": "eToro leads $12.5 million round in onchain perps exchange Extended",
+      "url": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended",
+      "source": "The Block",
+      "publishedAt": "2026-07-02T19:23:16.000Z",
+      "summary": "\"The partnership will focus on expanding access to global financial markets through next-generation on-chain infrastructure,\" eToro said.",
+      "tags": [
+        "etoro",
+        "leads",
+        "million"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 7,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5139741911edef0495f521f0edc9db9269f9536f",
+      "score": 16
     }
   ]
 }
