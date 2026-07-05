@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-07-04T20:07:20.212Z",
-    "totalCandidates": 109,
-    "solanaCandidates": 16,
+    "generatedAt": "2026-07-05T09:40:25.904Z",
+    "totalCandidates": 107,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
@@ -33,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "7c42f3282c80fa02b9953334fd5f197cbf5f142d",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://cryptoslate.com/openusds-partner-confusion-turns-its-stablecoin-coalition-into-a-credibility-test",
@@ -66,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "28ad7bc01ea85dd870731586ed5aaebb8e31d17e",
-      "score": 20
+      "score": 19
     },
     {
       "id": "https://www.theblock.co/post/407147/samsung-dunamu-say-they-were-listed-as-ousd-stablecoin-consortium-members-without-official-consultation-report",
@@ -99,13 +99,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "4fb327d25636d0ae8e981be1c8ce8cd432180f8a",
-      "score": 20
+      "score": 19
     },
     {
       "id": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended",
@@ -132,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 5,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "5139741911edef0495f521f0edc9db9269f9536f",
-      "score": 15
+      "score": 14
     },
     {
       "id": "https://ambcrypto.com/can-not-be-censored-bitcoin-proposal-to-block-ordinals-wins-under-1-support",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": -1,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "cbb5f930158c9b0d2e2644a85ce3f38432ffaa93",
-      "score": 10
+      "score": 9
     }
   ]
 }
