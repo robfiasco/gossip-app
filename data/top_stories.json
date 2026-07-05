@@ -1,13 +1,79 @@
 {
   "meta": {
-    "generatedAt": "2026-07-05T09:40:25.904Z",
-    "totalCandidates": 107,
-    "solanaCandidates": 17,
+    "generatedAt": "2026-07-05T20:11:44.228Z",
+    "totalCandidates": 92,
+    "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+      "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-05T14:00:00.000Z",
+      "summary": "Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is projected to explode by 2030.",
+      "tags": [
+        "banks",
+        "have",
+        "stopped"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3c208dc754faf8f79126ffda4779cf20e84668fe",
+      "score": 22
+    },
+    {
+      "id": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
+      "title": "Collateral, not yield, will decide which stablecoins win",
+      "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-05T13:00:00.000Z",
+      "summary": "As yield-bearing stablecoins race toward a $50 billion market capitalization, the industry is optimizing for the wrong metric, argues Artem Tolkachev, chief RWA officer at Falcon Finance.",
+      "tags": [
+        "collateral",
+        "yield",
+        "will"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "09879d7272d47f2b9c72a50f6d6b966a710d0864",
+      "score": 22
+    },
     {
       "id": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
       "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
@@ -33,127 +99,28 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "7c42f3282c80fa02b9953334fd5f197cbf5f142d",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://cryptoslate.com/openusds-partner-confusion-turns-its-stablecoin-coalition-into-a-credibility-test",
-      "title": "OpenUSD’s partner mix-up puts its stablecoin alliance under scrutiny",
-      "url": "https://cryptoslate.com/openusds-partner-confusion-turns-its-stablecoin-coalition-into-a-credibility-test",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-04T17:00:24.000Z",
-      "summary": "A stablecoin built around a giant partner list now faces the question every coalition coin must answer: who is actually committed, and what does participation mean? The post OpenUSD’s partner mix-up puts its stablecoin alliance under scrutiny appeared first on CryptoSlate.",
-      "tags": [
-        "openusd",
-        "partner",
-        "puts"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "28ad7bc01ea85dd870731586ed5aaebb8e31d17e",
-      "score": 19
-    },
-    {
-      "id": "https://www.theblock.co/post/407147/samsung-dunamu-say-they-were-listed-as-ousd-stablecoin-consortium-members-without-official-consultation-report",
-      "title": "Samsung, Dunamu say they were listed as OUSD stablecoin consortium members without official consultation: report",
-      "url": "https://www.theblock.co/post/407147/samsung-dunamu-say-they-were-listed-as-ousd-stablecoin-consortium-members-without-official-consultation-report",
-      "source": "The Block",
-      "publishedAt": "2026-07-03T14:32:14.000Z",
-      "summary": "Samsung and Dunamu are among Korean firms saying they were listed as members of the OUSD stablecoin consortium without prior consultation.",
-      "tags": [
-        "samsung",
-        "dunamu",
-        "they"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "4fb327d25636d0ae8e981be1c8ce8cd432180f8a",
-      "score": 19
-    },
-    {
-      "id": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended",
-      "title": "eToro leads $12.5 million round in onchain perps exchange Extended",
-      "url": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended",
-      "source": "The Block",
-      "publishedAt": "2026-07-02T19:23:16.000Z",
-      "summary": "\"The partnership will focus on expanding access to global financial markets through next-generation on-chain infrastructure,\" eToro said.",
-      "tags": [
-        "etoro",
-        "leads",
-        "million"
-      ],
-      "topicBucket": "infra",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5139741911edef0495f521f0edc9db9269f9536f",
-      "score": 14
-    },
-    {
-      "id": "https://ambcrypto.com/can-not-be-censored-bitcoin-proposal-to-block-ordinals-wins-under-1-support",
-      "title": "‘Can not be censored’- Bitcoin proposal to block Ordinals wins under 1% support",
-      "url": "https://ambcrypto.com/can-not-be-censored-bitcoin-proposal-to-block-ordinals-wins-under-1-support",
+      "id": "https://ambcrypto.com/will-cardanos-500m-ada-treasury-plan-unlock-the-next-phase-of-growth",
+      "title": "Will Cardano’s 500M ADA treasury plan unlock the next phase of growth?",
+      "url": "https://ambcrypto.com/will-cardanos-500m-ada-treasury-plan-unlock-the-next-phase-of-growth",
       "source": "AMB Crypto",
-      "publishedAt": "2026-07-04T18:00:15.000Z",
-      "summary": "Will the Bitcoin BIP-110 soft fork plan stall ahead of the August deadline?",
+      "publishedAt": "2026-07-05T18:00:10.000Z",
+      "summary": "Cardano balances expanded treasury funding with growing wallet activity as governance enters a new phase.",
       "tags": [
-        "censored",
-        "bitcoin",
-        "proposal"
+        "will",
+        "cardano",
+        "500m"
       ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": -1,
+        "relevanceScore": 2,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "cbb5f930158c9b0d2e2644a85ce3f38432ffaa93",
-      "score": 9
+      "dedupeFingerprint": "504286b96d35c9567729671f1d74a3ad33a9c778",
+      "score": 13
+    },
+    {
+      "id": "https://cryptoslate.com/binances-reported-mesh-round-puts-stablecoin-payment-routes-in-play",
+      "title": "Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments",
+      "url": "https://cryptoslate.com/binances-reported-mesh-round-puts-stablecoin-payment-routes-in-play",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-07-05T10:00:28.000Z",
+      "summary": "The signal is about who controls the wallet-to-merchant path that makes tokenized dollars spendable. The post Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments appeared first on CryptoSlate.",
+      "tags": [
+        "binance",
+        "reported",
+        "mesh"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ed8f1747f22b168292cfdd4623160bb9337bd3c8",
+      "score": 20
     }
   ]
 }
