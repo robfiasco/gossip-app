@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-07-06T11:25:55.994Z",
-    "totalCandidates": 92,
+    "generatedAt": "2026-07-06T20:51:15.218Z",
+    "totalCandidates": 101,
     "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
@@ -9,16 +9,16 @@
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-flashes-its-first-buy-signal-since-2025-is-90-next-for-sol",
-      "title": "Solana flashes its first buy signal since 2025 – Is $90 next for SOL?",
-      "url": "https://ambcrypto.com/solana-flashes-its-first-buy-signal-since-2025-is-90-next-for-sol",
+      "id": "https://ambcrypto.com/solana-how-memecoins-are-driving-the-sol-cycle-narrative-in-h2",
+      "title": "Solana: How memecoins are driving the ‘SOL cycle’ narrative in H2",
+      "url": "https://ambcrypto.com/solana-how-memecoins-are-driving-the-sol-cycle-narrative-in-h2",
       "source": "AMB Crypto",
-      "publishedAt": "2026-07-06T00:00:57.000Z",
-      "summary": "Solana's first SuperTrend buy signal since October renewed bullish hopes as buyers challenged the critical $84 resistance.",
+      "publishedAt": "2026-07-06T14:00:16.000Z",
+      "summary": "Solana's memecoin edge could be the catalyst that sets SOL apart from the broader market.",
       "tags": [
         "solana",
-        "flashes",
-        "first"
+        "memecoins",
+        "driving"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,14 +31,47 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 16,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "c694557bb6f8c2ed6f85bc236f652175857e523f",
+      "dedupeFingerprint": "ed6842dc4d6639c57da3bdc29dc51011ef7a624b",
+      "score": 27
+    },
+    {
+      "id": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack",
+      "title": "BonkDAO loses $20 million following ‘malicious governance proposal’ attack",
+      "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack",
+      "source": "The Block",
+      "publishedAt": "2026-07-06T18:59:19.000Z",
+      "summary": "The funds have been tracked to crypto exchanges, and South Korea-based Upbit said it has suspended BONK deposits and withdrawals.",
+      "tags": [
+        "bonkdao",
+        "loses",
+        "million"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 10,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c71e622aa3c8163d8ebf545320ac592a9b9c0608",
       "score": 24
     },
     {
@@ -99,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "3c208dc754faf8f79126ffda4779cf20e84668fe",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "https://cryptoslate.com/xrpl-stablecoins-surge-to-900m-but-the-breakout-trend-is-not-rlusd",
-      "title": "XRPL stablecoins surge to $900M, but the breakout trend is not RLUSD",
-      "url": "https://cryptoslate.com/xrpl-stablecoins-surge-to-900m-but-the-breakout-trend-is-not-rlusd",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-06T08:00:43.000Z",
-      "summary": "Stablecoin supply on the XRP Ledger has climbed to nearly $890 million, up 20.56% over the past 30 days. Ripple's RLUSD explains almost all of that size, and a second dollar token is reshaping who issues XRPL's dollars: Valtorum's USDV, now at $39.3 million. RLUSD accounts for $844.58 million of tha",
+      "id": "https://ambcrypto.com/what-happened-in-crypto-today-solanas-rwa-boom-527m-btc-etf-outflows-and-more",
+      "title": "What happened in crypto today: Solana’s RWA boom, $527M BTC ETF outflows, and more",
+      "url": "https://ambcrypto.com/what-happened-in-crypto-today-solanas-rwa-boom-527m-btc-etf-outflows-and-more",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-06T13:45:43.000Z",
+      "summary": "Two opposing sides of crypto were highlighted, with Solana experiencing positive momentum and Bitcoin experiencing market stress, but hope remains.",
       "tags": [
-        "xrpl",
-        "stablecoins",
-        "surge"
+        "what",
+        "happened",
+        "crypto"
       ],
-      "topicBucket": "tokenomics",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -133,45 +166,12 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "7344ff467baae7bcf07ec143234e7ede774835f8",
-      "score": 20
-    },
-    {
-      "id": "https://decrypt.co/372794/new-uk-election-funding-rules-could-hit-reforms-crypto-billionaire-donors",
-      "title": "New UK Election Funding Rules Could Hit Reform's Crypto Billionaire Donors",
-      "url": "https://decrypt.co/372794/new-uk-election-funding-rules-could-hit-reforms-crypto-billionaire-donors",
-      "source": "Decrypt",
-      "publishedAt": "2026-07-06T10:01:06.000Z",
-      "summary": "The crackdown on overseas cash comes after billionaire Tether investor and Reform donor Christopher Harborne registered to vote in the UK.",
-      "tags": [
-        "election",
-        "funding",
-        "rules"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 3,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "93d786c6c10dd8fe6d8a368e1cdbbabef066a21b",
-      "score": 16
+      "dedupeFingerprint": "9d2806d8b6d3b124e7b9b5bf5add7171112d82a1",
+      "score": 19
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "date": "2026-07-06",
-  "generated_at_utc": "2026-07-06T11:26:08.785Z",
-  "ctxMarket": "Attention is on Solana after its first SuperTrend buy signal since October and a rally driven by memecoin and prediction market activity. Interest is also rising around tokenized shares and external asset onboarding.",
-  "ctxTalking": "• Solana's SuperTrend buy signal and the challenge of the $84 resistance level\n• Increased trading and speculation in Solana-based memecoins and prediction markets\n• Securitize launching tokenized shares on Solana and Avalanche, with NYSE integration\n• Sunrise enabling external assets to trade on Solana as canonical mints",
-  "ctxMatters": "Solana is seeing renewed momentum from both retail speculation (memecoins, prediction markets) and institutional tokenization (Securitize, Sunrise). This expands Solana’s use cases beyond DeFi and NFTs, positioning it as a venue for tokenized real-world assets and faster market formation.",
-  "ctxSignal": "Signal: Institutional moves like Securitize and Sunrise onboarding external assets to Solana.\nNoise: Short-term price speculation around the SuperTrend signal without broader context.",
-  "ctxGlossary": "SuperTrend — A technical indicator signaling potential trend reversals.\nCanonical mint — The primary, official token representation of an asset on a blockchain.",
+  "generated_at_utc": "2026-07-06T20:51:25.687Z",
+  "ctxMarket": "Attention is focused on a major security incident involving BonkDAO and continued momentum in Solana’s memecoin and real-world asset (RWA) sectors. Broader crypto markets are seeing contrasting trends, with Solana highlighted for growth while Bitcoin faces ETF outflows.",
+  "ctxTalking": "• BonkDAO’s $20 million loss from a malicious governance proposal and subsequent exchange responses\n• Solana’s growing role in memecoins and tokenized real-world assets, including Securitize’s NYSE-linked shares\n• Ongoing concerns about crypto security despite a reported drop in total hacks",
+  "ctxMatters": "Security vulnerabilities in DAOs and protocols remain a risk, impacting user trust and exchange operations.  \nSolana’s expanding use cases—from memecoins to tokenized stocks—are drawing attention from both retail and institutional participants.  \nThe ecosystem’s ability to onboard external assets quickly could influence future adoption and liquidity.",
+  "ctxSignal": "Signal: The BonkDAO exploit and Solana’s RWA/tokenization initiatives are shaping both perception and infrastructure.  \nNoise: Short-term memecoin price surges without broader ecosystem impact.",
+  "ctxGlossary": "DAO — Decentralized Autonomous Organization, a collectively governed crypto entity  \nRWA — Real-World Asset, physical or traditional assets represented on-chain",
   "readMore": [
     {
-      "title": "Solana flashes its first buy signal since 2025 – Is $90 next for SOL?",
+      "title": "BonkDAO loses $20 million following ‘malicious governance proposal’ attack",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack"
+    },
+    {
+      "title": "Solana",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-flashes-its-first-buy-signal-since-2025-is-90-next-for-sol"
+      "url": "https://ambcrypto.com/solana-how-memecoins-are-driving-the-sol-cycle-narrative-in-h2"
     },
     {
-      "title": "SOL rallies as Solana memecoins, prediction market activity surge",
+      "title": "Crypto hacks fell 47% in H1 but ecosystem is no safer",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back"
-    },
-    {
-      "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche"
+      "url": "https://cointelegraph.com/news/crypto-hacks-fell-47-percent-in-h1-but-ecosystem-is-no-safer-certik"
     }
   ]
 }
