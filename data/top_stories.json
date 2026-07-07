@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-07-07T10:23:28.291Z",
-    "totalCandidates": 103,
-    "solanaCandidates": 14,
+    "generatedAt": "2026-07-07T20:47:58.406Z",
+    "totalCandidates": 110,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-activity-hits-1-billion-milestone-is-a-sol-price-surge-next",
-      "title": "Solana activity hits 1 billion milestone – Is a SOL price surge next?",
-      "url": "https://ambcrypto.com/solana-activity-hits-1-billion-milestone-is-a-sol-price-surge-next",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-07T09:00:53.000Z",
-      "summary": "Solana reached a record 1 billion non-vote transactions, but can improving network fundamentals drive the next leg higher for SOL?",
+      "id": "https://cryptoslate.com/bonkdaos-estimated-20m-drain-exposes-a-serious-security-fault-line-for-memecoin-treasuries",
+      "title": "BonkDAO’s estimated $20M drain exposes how memecoin treasuries can be raided by a simple vote",
+      "url": "https://cryptoslate.com/bonkdaos-estimated-20m-drain-exposes-a-serious-security-fault-line-for-memecoin-treasuries",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-07-07T17:35:28.000Z",
+      "summary": "The malicious proposal shows how token-weighted votes can become a treasury access path when DAO review controls are too thin. The post BonkDAO’s estimated $20M drain exposes how memecoin treasuries can be raided by a simple vote appeared first on CryptoSlate.",
       "tags": [
-        "solana",
-        "activity",
-        "hits"
+        "bonkdao",
+        "estimated",
+        "drain"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,29 +31,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 19,
+        "relevanceScore": 11,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "87638e6fdca81e19ae18c5a42c09693171e6e833",
-      "score": 30
+      "dedupeFingerprint": "b7a597108fd6c3e9d3c0a684cc0b468eb515887d",
+      "score": 23
     },
     {
-      "id": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million",
-      "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
-      "url": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million",
-      "source": "Decrypt",
-      "publishedAt": "2026-07-06T20:56:52.000Z",
-      "summary": "The Bonk DAO wallet was exploited for roughly $20 million worth of the prominent dog-themed meme coin on Solana.",
+      "id": "https://ambcrypto.com/stablecoins-clear-1-79t-record-settlement-is-market-bottom-in-sight",
+      "title": "Stablecoins clear $1.79T record settlement – Is market bottom in sight?",
+      "url": "https://ambcrypto.com/stablecoins-clear-1-79t-record-settlement-is-market-bottom-in-sight",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-07T16:00:29.000Z",
+      "summary": "Stablecoins are seeing a major divergence, signaling a potential shift in liquidity flows and real-world adoption.",
       "tags": [
-        "solana",
-        "meme",
-        "coin"
+        "stablecoins",
+        "clear",
+        "record"
       ],
-      "topicBucket": "consumer",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -64,15 +64,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 13,
+        "relevanceScore": 11,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 3,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "5a0b2a08810892ce340e990c88200d634bb816c6",
-      "score": 25
+      "dedupeFingerprint": "a0b4b7c0b1ee17a537d9dfede665ae7a9898936d",
+      "score": 22
     },
     {
       "id": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack",
@@ -99,60 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "c71e622aa3c8163d8ebf545320ac592a9b9c0608",
-      "score": 23
+      "score": 22
     },
     {
-      "id": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
-      "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
-      "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
-      "source": "CoinDesk",
-      "publishedAt": "2026-07-07T05:40:58.000Z",
-      "summary": "The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling.",
+      "id": "https://cryptoslate.com/ansem-soars-299-and-brings-solanas-memecoin-trenches-back-to-life-but-do-we-need-it-now",
+      "title": "ANSEM soars 299% and brings Solana’s memecoin trenches back to life – but do we need it now?",
+      "url": "https://cryptoslate.com/ansem-soars-299-and-brings-solanas-memecoin-trenches-back-to-life-but-do-we-need-it-now",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-07-07T16:30:30.000Z",
+      "summary": "The Black Bull (ANSEM) is up roughly 299% over seven days, trading with $64.9 million in 24-hour volume and a market cap near $173 million, per CoinGecko. That size puts ANSEM in a category that traders treat as a read on Solana's broader risk appetite. Traders are calling the move a sign the trench",
       "tags": [
-        "bonk",
-        "faces",
-        "million"
+        "ansem",
+        "soars",
+        "brings"
       ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c2f111d77f78a6b3278ecc0173391ff097177520",
-      "score": 19
-    },
-    {
-      "id": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
-      "title": "MiCA-compliant euro stablecoins grew 128% before MiCA transition ended, says Decta",
-      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-07-07T09:08:45.000Z",
-      "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
-      "tags": [
-        "mica",
-        "compliant",
-        "euro"
-      ],
-      "topicBucket": "defi",
+      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -166,12 +133,45 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "1b8605f507dc8e5edccc8827a04e02a3278ad612",
-      "score": 18
+      "dedupeFingerprint": "8da4b03b53a681fd91cbc260f661aa38c8611e73",
+      "score": 20
+    },
+    {
+      "id": "https://ambcrypto.com/is-monads-record-477mln-tvl-organic-or-incentive-driven-assessing",
+      "title": "Is Monad’s record $477mln TVL organic or incentive-driven? Assessing…",
+      "url": "https://ambcrypto.com/is-monads-record-477mln-tvl-organic-or-incentive-driven-assessing",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-07T20:00:42.000Z",
+      "summary": "Aave attracts fresh liquidity as Monad's ecosystem reaches new highs.",
+      "tags": [
+        "monad",
+        "record",
+        "477mln"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "af2702353c067c790b46b483e011bfcb4833043e",
+      "score": 19
     }
   ]
 }
