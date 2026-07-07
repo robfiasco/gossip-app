@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-07-06T20:51:15.218Z",
-    "totalCandidates": 101,
+    "generatedAt": "2026-07-07T10:23:28.291Z",
+    "totalCandidates": 103,
     "solanaCandidates": 14,
     "selected": 5,
     "tweetPool": 0,
@@ -9,16 +9,16 @@
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-how-memecoins-are-driving-the-sol-cycle-narrative-in-h2",
-      "title": "Solana: How memecoins are driving the ‘SOL cycle’ narrative in H2",
-      "url": "https://ambcrypto.com/solana-how-memecoins-are-driving-the-sol-cycle-narrative-in-h2",
+      "id": "https://ambcrypto.com/solana-activity-hits-1-billion-milestone-is-a-sol-price-surge-next",
+      "title": "Solana activity hits 1 billion milestone – Is a SOL price surge next?",
+      "url": "https://ambcrypto.com/solana-activity-hits-1-billion-milestone-is-a-sol-price-surge-next",
       "source": "AMB Crypto",
-      "publishedAt": "2026-07-06T14:00:16.000Z",
-      "summary": "Solana's memecoin edge could be the catalyst that sets SOL apart from the broader market.",
+      "publishedAt": "2026-07-07T09:00:53.000Z",
+      "summary": "Solana reached a record 1 billion non-vote transactions, but can improving network fundamentals drive the next leg higher for SOL?",
       "tags": [
         "solana",
-        "memecoins",
-        "driving"
+        "activity",
+        "hits"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,15 +31,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 16,
+        "relevanceScore": 19,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "ed6842dc4d6639c57da3bdc29dc51011ef7a624b",
-      "score": 27
+      "dedupeFingerprint": "87638e6fdca81e19ae18c5a42c09693171e6e833",
+      "score": 30
+    },
+    {
+      "id": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million",
+      "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
+      "url": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million",
+      "source": "Decrypt",
+      "publishedAt": "2026-07-06T20:56:52.000Z",
+      "summary": "The Bonk DAO wallet was exploited for roughly $20 million worth of the prominent dog-themed meme coin on Solana.",
+      "tags": [
+        "solana",
+        "meme",
+        "coin"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 3,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5a0b2a08810892ce340e990c88200d634bb816c6",
+      "score": 25
     },
     {
       "id": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack",
@@ -66,60 +99,27 @@
       "scoreBreakdown": {
         "relevanceScore": 10,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "c71e622aa3c8163d8ebf545320ac592a9b9c0608",
-      "score": 24
-    },
-    {
-      "id": "https://cryptoslate.com/how-mica-brings-banks-closer-to-controlling-europes-stablecoin-access",
-      "title": "How MiCA brings banks closer to controlling Europe’s stablecoin access",
-      "url": "https://cryptoslate.com/how-mica-brings-banks-closer-to-controlling-europes-stablecoin-access",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-06T09:00:44.000Z",
-      "summary": "The EU’s post-transition crypto regime is deciding who controls the compliant rails for stablecoins, wallets and retail access. The post How MiCA brings banks closer to controlling Europe’s stablecoin access appeared first on CryptoSlate.",
-      "tags": [
-        "mica",
-        "brings",
-        "banks"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "a730fddbb715dc8be63717cb53589c171b14d686",
       "score": 23
     },
     {
-      "id": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
-      "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
-      "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+      "id": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+      "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+      "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
       "source": "CoinDesk",
-      "publishedAt": "2026-07-05T14:00:00.000Z",
-      "summary": "Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is projected to explode by 2030.",
+      "publishedAt": "2026-07-07T05:40:58.000Z",
+      "summary": "The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling.",
       "tags": [
-        "banks",
-        "have",
-        "stopped"
+        "bonk",
+        "faces",
+        "million"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "consumer",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -130,29 +130,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "3c208dc754faf8f79126ffda4779cf20e84668fe",
-      "score": 20
+      "dedupeFingerprint": "c2f111d77f78a6b3278ecc0173391ff097177520",
+      "score": 19
     },
     {
-      "id": "https://ambcrypto.com/what-happened-in-crypto-today-solanas-rwa-boom-527m-btc-etf-outflows-and-more",
-      "title": "What happened in crypto today: Solana’s RWA boom, $527M BTC ETF outflows, and more",
-      "url": "https://ambcrypto.com/what-happened-in-crypto-today-solanas-rwa-boom-527m-btc-etf-outflows-and-more",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-06T13:45:43.000Z",
-      "summary": "Two opposing sides of crypto were highlighted, with Solana experiencing positive momentum and Bitcoin experiencing market stress, but hope remains.",
+      "id": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
+      "title": "MiCA-compliant euro stablecoins grew 128% before MiCA transition ended, says Decta",
+      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-07-07T09:08:45.000Z",
+      "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
       "tags": [
-        "what",
-        "happened",
-        "crypto"
+        "mica",
+        "compliant",
+        "euro"
       ],
-      "topicBucket": "market",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -166,12 +166,12 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "9d2806d8b6d3b124e7b9b5bf5add7171112d82a1",
-      "score": 19
+      "dedupeFingerprint": "1b8605f507dc8e5edccc8827a04e02a3278ad612",
+      "score": 18
     }
   ]
 }

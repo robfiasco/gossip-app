@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-06",
-  "generated_at_utc": "2026-07-06T20:51:25.687Z",
-  "ctxMarket": "Attention is focused on a major security incident involving BonkDAO and continued momentum in Solana’s memecoin and real-world asset (RWA) sectors. Broader crypto markets are seeing contrasting trends, with Solana highlighted for growth while Bitcoin faces ETF outflows.",
-  "ctxTalking": "• BonkDAO’s $20 million loss from a malicious governance proposal and subsequent exchange responses\n• Solana’s growing role in memecoins and tokenized real-world assets, including Securitize’s NYSE-linked shares\n• Ongoing concerns about crypto security despite a reported drop in total hacks",
-  "ctxMatters": "Security vulnerabilities in DAOs and protocols remain a risk, impacting user trust and exchange operations.  \nSolana’s expanding use cases—from memecoins to tokenized stocks—are drawing attention from both retail and institutional participants.  \nThe ecosystem’s ability to onboard external assets quickly could influence future adoption and liquidity.",
-  "ctxSignal": "Signal: The BonkDAO exploit and Solana’s RWA/tokenization initiatives are shaping both perception and infrastructure.  \nNoise: Short-term memecoin price surges without broader ecosystem impact.",
-  "ctxGlossary": "DAO — Decentralized Autonomous Organization, a collectively governed crypto entity  \nRWA — Real-World Asset, physical or traditional assets represented on-chain",
+  "date": "2026-07-07",
+  "generated_at_utc": "2026-07-07T10:23:35.405Z",
+  "ctxMarket": "Attention is focused on a major governance exploit in Bonk, which resulted in a $20 million treasury loss. Solana’s network activity has reached a record 1 billion non-vote transactions, drawing interest to its underlying fundamentals.",
+  "ctxTalking": "• Bonk’s $20 million treasury drain via a malicious governance proposal\n• Solana surpassing 1 billion transactions and questions about future price movement\n• Broader blockchain competition to improve scalability and compliance as institutions engage",
+  "ctxMatters": "The Bonk exploit highlights ongoing governance and security risks in Solana’s meme coin sector. Solana’s transaction milestone signals robust user and developer activity, which may influence network perception. Institutional interest is driving chains to prioritize reliability and compliance, shaping future ecosystem growth.",
+  "ctxSignal": "Signal: The Bonk DAO exploit demonstrates vulnerabilities in token-based governance. Solana’s transaction growth reflects sustained ecosystem engagement.\nNoise: Speculation about immediate SOL price surges not directly tied to fundamentals.",
+  "ctxGlossary": "Governance Proposal — A vote-based mechanism for making decisions in decentralized projects\nDAO — Decentralized Autonomous Organization, a group governed by smart contracts and token holders",
   "readMore": [
     {
-      "title": "BonkDAO loses $20 million following ‘malicious governance proposal’ attack",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack"
-    },
-    {
-      "title": "Solana",
+      "title": "‘Incentivize democracy’ at the cost of security? Inside Bonk’s $20M exploit",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-how-memecoins-are-driving-the-sol-cycle-narrative-in-h2"
+      "url": "https://ambcrypto.com/incentivize-democracy-at-the-cost-of-security-inside-bonks-20m-exploit"
     },
     {
-      "title": "Crypto hacks fell 47% in H1 but ecosystem is no safer",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-hacks-fell-47-percent-in-h1-but-ecosystem-is-no-safer-certik"
+      "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal"
+    },
+    {
+      "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million"
     }
   ]
 }
