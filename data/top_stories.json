@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-07-07T20:47:58.406Z",
-    "totalCandidates": 110,
-    "solanaCandidates": 22,
+    "generatedAt": "2026-07-08T09:24:12.768Z",
+    "totalCandidates": 111,
+    "solanaCandidates": 23,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cryptoslate.com/bonkdaos-estimated-20m-drain-exposes-a-serious-security-fault-line-for-memecoin-treasuries",
-      "title": "BonkDAO’s estimated $20M drain exposes how memecoin treasuries can be raided by a simple vote",
-      "url": "https://cryptoslate.com/bonkdaos-estimated-20m-drain-exposes-a-serious-security-fault-line-for-memecoin-treasuries",
+      "id": "https://cryptoslate.com/solana-rwa-transfers-show-tokenized-assets-are-starting-to-move",
+      "title": "Solana’s $8.7B RWA surge shows tokenized assets are finally starting to move",
+      "url": "https://cryptoslate.com/solana-rwa-transfers-show-tokenized-assets-are-starting-to-move",
       "source": "CryptoSlate",
-      "publishedAt": "2026-07-07T17:35:28.000Z",
-      "summary": "The malicious proposal shows how token-weighted votes can become a treasury access path when DAO review controls are too thin. The post BonkDAO’s estimated $20M drain exposes how memecoin treasuries can be raided by a simple vote appeared first on CryptoSlate.",
+      "publishedAt": "2026-07-07T21:10:16.000Z",
+      "summary": "RWA.xyz data shows Solana's RWA transfer volume more than doubled over 30 days, shifting the adoption signal from tokenized value to usage quality. The post Solana’s $8.7B RWA surge shows tokenized assets are finally starting to move appeared first on CryptoSlate.",
       "tags": [
-        "bonkdao",
-        "estimated",
-        "drain"
+        "solana",
+        "surge",
+        "shows"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -31,95 +31,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 11,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b7a597108fd6c3e9d3c0a684cc0b468eb515887d",
-      "score": 23
+      "dedupeFingerprint": "809cda947474d4badfdd0460940c7e8b119ec87e",
+      "score": 19
     },
     {
-      "id": "https://ambcrypto.com/stablecoins-clear-1-79t-record-settlement-is-market-bottom-in-sight",
-      "title": "Stablecoins clear $1.79T record settlement – Is market bottom in sight?",
-      "url": "https://ambcrypto.com/stablecoins-clear-1-79t-record-settlement-is-market-bottom-in-sight",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-07T16:00:29.000Z",
-      "summary": "Stablecoins are seeing a major divergence, signaling a potential shift in liquidity flows and real-world adoption.",
+      "id": "https://cointelegraph.com/news/eu-to-again-vote-to-extend-chat-control-rules",
+      "title": "EU to again vote to extend ‘chat control’ rules",
+      "url": "https://cointelegraph.com/news/eu-to-again-vote-to-extend-chat-control-rules",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-07-08T06:33:46.000Z",
+      "summary": "So-called “chat control” rules could be revived in the EU, with lawmakers again set to vote on the legislation Thursday.",
       "tags": [
-        "stablecoins",
-        "clear",
-        "record"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 11,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "a0b4b7c0b1ee17a537d9dfede665ae7a9898936d",
-      "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack",
-      "title": "BonkDAO loses $20 million following ‘malicious governance proposal’ attack",
-      "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack",
-      "source": "The Block",
-      "publishedAt": "2026-07-06T18:59:19.000Z",
-      "summary": "The funds have been tracked to crypto exchanges, and South Korea-based Upbit said it has suspended BONK deposits and withdrawals.",
-      "tags": [
-        "bonkdao",
-        "loses",
-        "million"
+        "again",
+        "vote",
+        "extend"
       ],
       "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 10,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c71e622aa3c8163d8ebf545320ac592a9b9c0608",
-      "score": 22
-    },
-    {
-      "id": "https://cryptoslate.com/ansem-soars-299-and-brings-solanas-memecoin-trenches-back-to-life-but-do-we-need-it-now",
-      "title": "ANSEM soars 299% and brings Solana’s memecoin trenches back to life – but do we need it now?",
-      "url": "https://cryptoslate.com/ansem-soars-299-and-brings-solanas-memecoin-trenches-back-to-life-but-do-we-need-it-now",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-07T16:30:30.000Z",
-      "summary": "The Black Bull (ANSEM) is up roughly 299% over seven days, trading with $64.9 million in 24-hour volume and a market cap near $173 million, per CoinGecko. That size puts ANSEM in a category that traders treat as a read on Solana's broader risk appetite. Traders are calling the move a sign the trench",
-      "tags": [
-        "ansem",
-        "soars",
-        "brings"
-      ],
-      "topicBucket": "market",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -133,12 +67,12 @@
         "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 2,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8da4b03b53a681fd91cbc260f661aa38c8611e73",
-      "score": 20
+      "dedupeFingerprint": "8664586212088667614e90d5d25cc3999cfa3aac",
+      "score": 18
     },
     {
       "id": "https://ambcrypto.com/is-monads-record-477mln-tvl-organic-or-incentive-driven-assessing",
@@ -165,13 +99,79 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "af2702353c067c790b46b483e011bfcb4833043e",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune",
+      "title": "USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune",
+      "url": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-07-07T18:05:08.000Z",
+      "summary": "Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin while Circle's USDC powers DeFi, highlighting how blockchain choice shapes stablecoin use.",
+      "tags": [
+        "usdt",
+        "wins",
+        "payments"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 0,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "62c50297196c20a9fe18a9e082f36149465142a6",
+      "score": 17
+    },
+    {
+      "id": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+      "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+      "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-07T05:40:58.000Z",
+      "summary": "The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling.",
+      "tags": [
+        "bonk",
+        "faces",
+        "million"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c2f111d77f78a6b3278ecc0173391ff097177520",
+      "score": 17
     }
   ]
 }

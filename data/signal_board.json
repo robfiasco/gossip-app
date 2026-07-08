@@ -1,16 +1,16 @@
 {
-  "date": "2026-07-07",
-  "generated_at_utc": "2026-07-07T20:48:08.099Z",
-  "ctxMarket": "Attention is focused on Solana’s memecoin sector after ANSEM’s 299% surge and a major governance attack draining $20 million from BonkDAO. Tokenized equities on Solana, especially SpaceX tokens, are also drawing record trading volumes.",
-  "ctxTalking": "• ANSEM’s rapid price climb and its role as a gauge for Solana’s risk appetite\n• The $20 million BonkDAO treasury exploit via a malicious governance proposal\n• Record activity in tokenized equities, led by SpaceX tokens on Solana",
-  "ctxMatters": "Memecoin volatility and governance risks are in the spotlight, highlighting both speculative interest and security challenges on Solana. The surge in tokenized equity trading signals growing institutional and retail engagement with on-chain assets. Network fundamentals, such as Solana’s 1 billion non-vote transaction milestone, are being scrutinized for their impact on broader adoption.",
-  "ctxSignal": "Signal: Governance vulnerabilities and record tokenized equity volumes are shaping Solana’s narrative.\nNoise: Speculation about immediate SOL price surges based solely on transaction milestones.",
-  "ctxGlossary": "Governance Proposal — A vote-based decision process for managing protocol changes or treasury funds.\nTokenized Equities — Traditional stocks represented as tokens on a blockchain for on-chain trading.",
+  "date": "2026-07-08",
+  "generated_at_utc": "2026-07-08T09:24:20.110Z",
+  "ctxMarket": "Attention is on Solana’s surging real-world asset (RWA) volumes and the rapid growth of tokenized equities, highlighted by record activity around the SpaceX IPO. Meanwhile, security concerns are in focus after a major exploit drained $20 million from the BONK memecoin treasury.",
+  "ctxTalking": "• Solana’s RWA transfer volume more than doubled in 30 days, signaling increased usage of tokenized assets.\n• The ANSEM memecoin rallied 299% in a week, reviving interest in Solana’s speculative trading segments.\n• A governance attack drained BONK’s treasury, raising questions about DAO security on Solana.",
+  "ctxMatters": "Rising RWA and tokenized equity activity point to Solana’s growing role in bridging traditional and crypto assets. The BONK exploit highlights ongoing vulnerabilities in DAO governance. Memecoin volatility continues to serve as a gauge for risk appetite on Solana.",
+  "ctxSignal": "Signal: Sustained growth in tokenized asset volumes and new engineering updates show real adoption and infrastructure progress.\nNoise: Short-term memecoin price swings may not reflect broader Solana fundamentals.",
+  "ctxGlossary": "RWA — Real-world assets represented as tokens on a blockchain.\nDAO — Decentralized Autonomous Organization, a group governed by token-based voting.\nCanonical mint — The primary, recognized version of a tokenized asset on-chain.",
   "readMore": [
     {
-      "title": "ANSEM soars 299% and brings Solana’s memecoin trenches back to life – but do we need it now?",
+      "title": "Solana’s $8.7B RWA surge shows tokenized assets are finally starting to move",
       "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/ansem-soars-299-and-brings-solanas-memecoin-trenches-back-to-life-but-do-we-need-it-now"
+      "url": "https://cryptoslate.com/solana-rwa-transfers-show-tokenized-assets-are-starting-to-move"
     },
     {
       "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
@@ -18,9 +18,9 @@
       "url": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june"
     },
     {
-      "title": "Solana activity hits 1 billion milestone – Is a SOL price surge next?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-activity-hits-1-billion-milestone-is-a-sol-price-surge-next"
+      "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million"
     }
   ]
 }
