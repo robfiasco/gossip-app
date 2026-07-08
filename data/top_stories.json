@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-07-08T09:24:12.768Z",
-    "totalCandidates": 111,
-    "solanaCandidates": 23,
+    "generatedAt": "2026-07-08T20:18:12.538Z",
+    "totalCandidates": 113,
+    "solanaCandidates": 16,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://cryptoslate.com/solana-rwa-transfers-show-tokenized-assets-are-starting-to-move",
-      "title": "Solana’s $8.7B RWA surge shows tokenized assets are finally starting to move",
-      "url": "https://cryptoslate.com/solana-rwa-transfers-show-tokenized-assets-are-starting-to-move",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-07T21:10:16.000Z",
-      "summary": "RWA.xyz data shows Solana's RWA transfer volume more than doubled over 30 days, shifting the adoption signal from tokenized value to usage quality. The post Solana’s $8.7B RWA surge shows tokenized assets are finally starting to move appeared first on CryptoSlate.",
+      "id": "https://ambcrypto.com/solana-pump-fun-transfers-over-68k-sol-yet-buyers-refuse-to-panic-why",
+      "title": "Solana: Pump.fun transfers over 68K SOL, yet buyers refuse to panic – Why?",
+      "url": "https://ambcrypto.com/solana-pump-fun-transfers-over-68k-sol-yet-buyers-refuse-to-panic-why",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-08T11:00:24.000Z",
+      "summary": "Pump.fun's latest Kraken deposits tested Solana's demand, yet persistent spot outflows suggested buyers continued absorbing supply.",
       "tags": [
         "solana",
-        "surge",
-        "shows"
+        "pump",
+        "transfers"
       ],
-      "topicBucket": "general",
+      "topicBucket": "tokenomics",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -31,29 +31,95 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 21,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 2,
+        "recencyScore": 10,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "809cda947474d4badfdd0460940c7e8b119ec87e",
+      "dedupeFingerprint": "32ec656db40d53999634229b6311d59eeb58ca72",
+      "score": 32
+    },
+    {
+      "id": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
+      "title": "European Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report",
+      "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
+      "source": "The Block",
+      "publishedAt": "2026-07-08T15:32:22.000Z",
+      "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
+      "tags": [
+        "european",
+        "commission",
+        "looks"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "dbec63b741170db5d029e4306c48f731b7634207",
       "score": 19
     },
     {
-      "id": "https://cointelegraph.com/news/eu-to-again-vote-to-extend-chat-control-rules",
-      "title": "EU to again vote to extend ‘chat control’ rules",
-      "url": "https://cointelegraph.com/news/eu-to-again-vote-to-extend-chat-control-rules",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-07-08T06:33:46.000Z",
-      "summary": "So-called “chat control” rules could be revived in the EU, with lawmakers again set to vote on the legislation Thursday.",
+      "id": "https://www.theblock.co/post/407593/cardano-founding-entity-emurgo-steps-down-pentad-governance-role-wallet-exploit",
+      "title": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit",
+      "url": "https://www.theblock.co/post/407593/cardano-founding-entity-emurgo-steps-down-pentad-governance-role-wallet-exploit",
+      "source": "The Block",
+      "publishedAt": "2026-07-08T15:08:31.000Z",
+      "summary": "The exploit, which leveraged a flaw in the wallet's address generation system, drained roughly 16 million ADA worth about $2.4 million.",
       "tags": [
-        "again",
-        "vote",
-        "extend"
+        "cardano",
+        "founding",
+        "entity"
       ],
-      "topicBucket": "general",
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "9a50fa8640417d190a6d004e3ab045daab3b8ead",
+      "score": 19
+    },
+    {
+      "id": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers",
+      "title": "Officials set to revise MiCA to cover non-EU stablecoin issuers: Report",
+      "url": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-07-08T19:14:15.000Z",
+      "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
+      "tags": [
+        "officials",
+        "revise",
+        "mica"
+      ],
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -71,23 +137,23 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "8664586212088667614e90d5d25cc3999cfa3aac",
+      "dedupeFingerprint": "64dc679e4cc800a50fb8b4334c85d9226bc0aa27",
       "score": 18
     },
     {
-      "id": "https://ambcrypto.com/is-monads-record-477mln-tvl-organic-or-incentive-driven-assessing",
-      "title": "Is Monad’s record $477mln TVL organic or incentive-driven? Assessing…",
-      "url": "https://ambcrypto.com/is-monads-record-477mln-tvl-organic-or-incentive-driven-assessing",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-07T20:00:42.000Z",
-      "summary": "Aave attracts fresh liquidity as Monad's ecosystem reaches new highs.",
+      "id": "https://cryptoslate.com/pump-funs-upcoming-127m-insider-token-unlock-is-nearly-twice-pumps-recent-daily-volume",
+      "title": "Pump Fun is unlocking $127M insider tokens worth double PUMP’s recent daily volume",
+      "url": "https://cryptoslate.com/pump-funs-upcoming-127m-insider-token-unlock-is-nearly-twice-pumps-recent-daily-volume",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-07-08T18:10:06.000Z",
+      "summary": "The July 12 unlock is large enough to test whether trader demand can absorb insider supply without forcing a deeper repricing. The post Pump Fun is unlocking $127M insider tokens worth double PUMP’s recent daily volume appeared first on CryptoSlate.",
       "tags": [
-        "monad",
-        "record",
-        "477mln"
+        "pump",
+        "unlocking",
+        "127m"
       ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -97,81 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 3,
         "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
+        "recencyScore": 10,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "af2702353c067c790b46b483e011bfcb4833043e",
-      "score": 18
-    },
-    {
-      "id": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune",
-      "title": "USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune",
-      "url": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-07-07T18:05:08.000Z",
-      "summary": "Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin while Circle's USDC powers DeFi, highlighting how blockchain choice shapes stablecoin use.",
-      "tags": [
-        "usdt",
-        "wins",
-        "payments"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "62c50297196c20a9fe18a9e082f36149465142a6",
-      "score": 17
-    },
-    {
-      "id": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
-      "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
-      "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
-      "source": "CoinDesk",
-      "publishedAt": "2026-07-07T05:40:58.000Z",
-      "summary": "The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling.",
-      "tags": [
-        "bonk",
-        "faces",
-        "million"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c2f111d77f78a6b3278ecc0173391ff097177520",
-      "score": 17
+      "dedupeFingerprint": "f1e73c753de892b3e833bacd380b8f04dbe9973f",
+      "score": 15
     }
   ]
 }
