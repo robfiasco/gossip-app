@@ -1,57 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-07-08T20:18:12.538Z",
-    "totalCandidates": 113,
-    "solanaCandidates": 16,
+    "generatedAt": "2026-07-09T10:22:22.617Z",
+    "totalCandidates": 112,
+    "solanaCandidates": 17,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/solana-pump-fun-transfers-over-68k-sol-yet-buyers-refuse-to-panic-why",
-      "title": "Solana: Pump.fun transfers over 68K SOL, yet buyers refuse to panic – Why?",
-      "url": "https://ambcrypto.com/solana-pump-fun-transfers-over-68k-sol-yet-buyers-refuse-to-panic-why",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-08T11:00:24.000Z",
-      "summary": "Pump.fun's latest Kraken deposits tested Solana's demand, yet persistent spot outflows suggested buyers continued absorbing supply.",
+      "id": "https://www.coindesk.com/business/2026/07/09/sony-secures-conditional-approval-to-set-up-u-s-stablecoin-trust-bank",
+      "title": "Sony secures conditional approval to set up U.S. stablecoin trust bank",
+      "url": "https://www.coindesk.com/business/2026/07/09/sony-secures-conditional-approval-to-set-up-u-s-stablecoin-trust-bank",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-09T09:49:26.000Z",
+      "summary": "The New York-based subsidiary, fully owned by Sony Bank, will be capitalized with $40 million to support its upcoming stablecoin business operations.",
       "tags": [
-        "solana",
-        "pump",
-        "transfers"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 21,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "32ec656db40d53999634229b6311d59eeb58ca72",
-      "score": 32
-    },
-    {
-      "id": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
-      "title": "European Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report",
-      "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
-      "source": "The Block",
-      "publishedAt": "2026-07-08T15:32:22.000Z",
-      "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
-      "tags": [
-        "european",
-        "commission",
-        "looks"
+        "sony",
+        "secures",
+        "conditional"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -64,14 +31,80 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
+        "relevanceScore": 8,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "dbec63b741170db5d029e4306c48f731b7634207",
+      "dedupeFingerprint": "8b0bfcd4cc4f0d9df5d995433b0c6efcc3e183fd",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/407670/sony-bank-conditional-occ-approval",
+      "title": "Sony Bank gets conditional OCC approval for US trust bank to issue dollar-backed stablecoin",
+      "url": "https://www.theblock.co/post/407670/sony-bank-conditional-occ-approval",
+      "source": "The Block",
+      "publishedAt": "2026-07-09T07:50:55.000Z",
+      "summary": "The trust bank subsidiary, Connectia Trust, is expected to issue and manage a dollar-backed stablecoin, pending final approval.",
+      "tags": [
+        "sony",
+        "bank",
+        "gets"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "1713ad5d6da44a78534ad8c9750b102450ed42ce",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/is-robinhood-making-the-same-memecoin-bet-that-made-solana-a-winner",
+      "title": "Is Robinhood making the same ‘memecoin’ bet that made Solana a winner?",
+      "url": "https://ambcrypto.com/is-robinhood-making-the-same-memecoin-bet-that-made-solana-a-winner",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-09T06:00:54.000Z",
+      "summary": "Can Robinhood play catch up with Solana and BNB Chain?",
+      "tags": [
+        "robinhood",
+        "making",
+        "same"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "8c0316facbb6ee879b199011a77b628313178496",
       "score": 19
     },
     {
@@ -99,27 +132,27 @@
       "scoreBreakdown": {
         "relevanceScore": 5,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "9a50fa8640417d190a6d004e3ab045daab3b8ead",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers",
-      "title": "Officials set to revise MiCA to cover non-EU stablecoin issuers: Report",
-      "url": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-07-08T19:14:15.000Z",
-      "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
+      "id": "https://ambcrypto.com/shiba-inu-drops-5-despite-its-biggest-token-burn-in-6-months-heres-why",
+      "title": "Shiba Inu drops 5% despite biggest token burn in 6 months – Here’s why!",
+      "url": "https://ambcrypto.com/shiba-inu-drops-5-despite-its-biggest-token-burn-in-6-months-heres-why",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-09T05:00:22.000Z",
+      "summary": "Here's what the supply-demand data suggests.",
       "tags": [
-        "officials",
-        "revise",
-        "mica"
+        "shiba",
+        "drops",
+        "despite"
       ],
-      "topicBucket": "defi",
+      "topicBucket": "tokenomics",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -130,48 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 5,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 0,
+        "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "64dc679e4cc800a50fb8b4334c85d9226bc0aa27",
-      "score": 18
-    },
-    {
-      "id": "https://cryptoslate.com/pump-funs-upcoming-127m-insider-token-unlock-is-nearly-twice-pumps-recent-daily-volume",
-      "title": "Pump Fun is unlocking $127M insider tokens worth double PUMP’s recent daily volume",
-      "url": "https://cryptoslate.com/pump-funs-upcoming-127m-insider-token-unlock-is-nearly-twice-pumps-recent-daily-volume",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-08T18:10:06.000Z",
-      "summary": "The July 12 unlock is large enough to test whether trader demand can absorb insider supply without forcing a deeper repricing. The post Pump Fun is unlocking $127M insider tokens worth double PUMP’s recent daily volume appeared first on CryptoSlate.",
-      "tags": [
-        "pump",
-        "unlocking",
-        "127m"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "f1e73c753de892b3e833bacd380b8f04dbe9973f",
-      "score": 15
+      "dedupeFingerprint": "cddf0ea59ee1a84bfdf95c20073cb84d227b18f6",
+      "score": 16
     }
   ]
 }

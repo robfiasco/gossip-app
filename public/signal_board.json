@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-08",
-  "generated_at_utc": "2026-07-08T20:18:20.091Z",
-  "ctxMarket": "Attention is on Solana’s resilience as Pump.fun moved over 68,000 SOL to Kraken, but buyers continued absorbing the supply. Broader focus includes record volumes in tokenized equities, with Solana-based platforms participating.",
-  "ctxTalking": "• Pump.fun’s large SOL transfers and ongoing buyer demand\n• A $20 million exploit draining the Bonk meme coin treasury via a governance attack\n• Record tokenized equity trading volumes, led by SpaceX tokens",
-  "ctxMatters": "Large-scale SOL transfers test market confidence and liquidity. The Bonk DAO exploit highlights ongoing governance and security risks in Solana’s meme coin sector. Engineering updates, including Agave v4.1.0 and RPC 2.0, signal continued infrastructure improvements for developers and users.",
-  "ctxSignal": "Signal: Persistent demand for SOL despite major transfers, and the Bonk DAO exploit’s impact on meme coin governance.\nNoise: Short-term price speculation not directly tied to these events.",
-  "ctxGlossary": "DAO — A decentralized autonomous organization, often managing community funds or governance.\nRPC — Remote Procedure Call, a protocol for interacting with blockchain nodes.",
+  "date": "2026-07-09",
+  "generated_at_utc": "2026-07-09T10:22:28.321Z",
+  "ctxMarket": "Attention is focused on Solana’s meme coin sector following a major exploit, as well as ongoing comparisons between Solana and other platforms like Robinhood and BNB Chain. Technical updates and ecosystem developments remain a secondary topic.",
+  "ctxTalking": "• The $20 million exploit of Bonk DAO’s treasury and its impact on Solana meme coins\n• Speculation about Robinhood’s strategy in the memecoin space and whether it can replicate Solana’s success\n• Recent Solana engineering updates, including Agave v4.1.0 and new RPC features",
+  "ctxMatters": "Security incidents like the Bonk DAO exploit raise concerns about DAO governance and treasury management on Solana. Comparisons to Robinhood and BNB Chain highlight competitive dynamics in memecoins and user acquisition. Ongoing technical upgrades may affect developer experience and network performance.",
+  "ctxSignal": "Signal: The Bonk DAO exploit and Solana’s continued technical improvements.\nNoise: Speculation about Robinhood’s ability to catch up to Solana in the memecoin sector.",
+  "ctxGlossary": "DAO — Decentralized Autonomous Organization; a group governed by smart contracts and token holders.\nRPC — Remote Procedure Call; a protocol for interacting with blockchain nodes.",
   "readMore": [
     {
-      "title": "Solana",
+      "title": "Is Robinhood making the same ‘memecoin’ bet that made Solana a winner?",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-pump-fun-transfers-over-68k-sol-yet-buyers-refuse-to-panic-why"
-    },
-    {
-      "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june"
+      "url": "https://ambcrypto.com/is-robinhood-making-the-same-memecoin-bet-that-made-solana-a-winner"
     },
     {
       "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
       "source": "Decrypt",
       "url": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million"
+    },
+    {
+      "title": "Solana Ecosystem Roundup",
+      "source": "Solana News",
+      "url": "https://solana.com/news/solana-ecosystem-roundup-june-2026"
     }
   ]
 }
