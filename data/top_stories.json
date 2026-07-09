@@ -1,13 +1,145 @@
 {
   "meta": {
-    "generatedAt": "2026-07-09T10:22:22.617Z",
+    "generatedAt": "2026-07-09T20:45:16.047Z",
     "totalCandidates": 112,
-    "solanaCandidates": 17,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://ambcrypto.com/solana-under-pressure-pump-funs-10m-sol-move-sparks-this-q3-debate",
+      "title": "Solana under pressure: Pump.fun’s $10M SOL move sparks THIS Q3 debate",
+      "url": "https://ambcrypto.com/solana-under-pressure-pump-funs-10m-sol-move-sparks-this-q3-debate",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-09T16:00:13.000Z",
+      "summary": "Solana's ecosystem remains active, yet Pump.fun's latest SOL sale has triggered fresh market backlash.",
+      "tags": [
+        "solana",
+        "under",
+        "pressure"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 24,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "4c823e9428cae966f95c8cf51c43c9be7d24d148",
+      "score": 35
+    },
+    {
+      "id": "https://solana.com/news/solana-changelog-july-9-2026",
+      "title": "Solana Changelog: July 9, 2026",
+      "url": "https://solana.com/news/solana-changelog-july-9-2026",
+      "source": "Solana News",
+      "publishedAt": "2026-07-09T12:05:00.000Z",
+      "summary": "Agave, Firedancer, Superbank, Solana Go, and LiteSVM published new releases alongside validator, RPC, and tooling updates.",
+      "tags": [
+        "solana",
+        "changelog",
+        "july"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 20,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "0a1693c1fb4036a31520ff879dfe1a69c9b7732c",
+      "score": 35
+    },
+    {
+      "id": "https://www.theblock.co/post/407628/stripe-privy-jito-develop-solana-transaction-inclusion-tool-fullsend",
+      "title": "Stripe-owned Privy and Jito co-develop Solana transaction inclusion tool FullSend",
+      "url": "https://www.theblock.co/post/407628/stripe-privy-jito-develop-solana-transaction-inclusion-tool-fullsend",
+      "source": "The Block",
+      "publishedAt": "2026-07-09T12:30:02.000Z",
+      "summary": "FullSend works by automatically routing every transaction signed in a Privy wallet directly to the current Solana block-building leader.",
+      "tags": [
+        "stripe",
+        "owned",
+        "privy"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 13,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "53b7104fdb674f137cd83ac55368526295640491",
+      "score": 27
+    },
+    {
+      "id": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon",
+      "title": "PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon",
+      "url": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon",
+      "source": "The Block",
+      "publishedAt": "2026-07-09T13:54:53.000Z",
+      "summary": "The company said its stablecoin will now be issued natively on Polygon, in addition to becoming available through Polygon's Open Money Stack.",
+      "tags": [
+        "paypal",
+        "seeks",
+        "increase"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "a63749633750e6d597d48ee83866211823a85a9a",
+      "score": 22
+    },
     {
       "id": "https://www.coindesk.com/business/2026/07/09/sony-secures-conditional-approval-to-set-up-u-s-stablecoin-trust-bank",
       "title": "Sony secures conditional approval to set up U.S. stablecoin trust bank",
@@ -40,138 +172,6 @@
       },
       "dedupeFingerprint": "8b0bfcd4cc4f0d9df5d995433b0c6efcc3e183fd",
       "score": 22
-    },
-    {
-      "id": "https://www.theblock.co/post/407670/sony-bank-conditional-occ-approval",
-      "title": "Sony Bank gets conditional OCC approval for US trust bank to issue dollar-backed stablecoin",
-      "url": "https://www.theblock.co/post/407670/sony-bank-conditional-occ-approval",
-      "source": "The Block",
-      "publishedAt": "2026-07-09T07:50:55.000Z",
-      "summary": "The trust bank subsidiary, Connectia Trust, is expected to issue and manage a dollar-backed stablecoin, pending final approval.",
-      "tags": [
-        "sony",
-        "bank",
-        "gets"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "1713ad5d6da44a78534ad8c9750b102450ed42ce",
-      "score": 22
-    },
-    {
-      "id": "https://ambcrypto.com/is-robinhood-making-the-same-memecoin-bet-that-made-solana-a-winner",
-      "title": "Is Robinhood making the same ‘memecoin’ bet that made Solana a winner?",
-      "url": "https://ambcrypto.com/is-robinhood-making-the-same-memecoin-bet-that-made-solana-a-winner",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-09T06:00:54.000Z",
-      "summary": "Can Robinhood play catch up with Solana and BNB Chain?",
-      "tags": [
-        "robinhood",
-        "making",
-        "same"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "8c0316facbb6ee879b199011a77b628313178496",
-      "score": 19
-    },
-    {
-      "id": "https://www.theblock.co/post/407593/cardano-founding-entity-emurgo-steps-down-pentad-governance-role-wallet-exploit",
-      "title": "Cardano founding entity EMURGO steps down from Pentad governance role after wallet exploit",
-      "url": "https://www.theblock.co/post/407593/cardano-founding-entity-emurgo-steps-down-pentad-governance-role-wallet-exploit",
-      "source": "The Block",
-      "publishedAt": "2026-07-08T15:08:31.000Z",
-      "summary": "The exploit, which leveraged a flaw in the wallet's address generation system, drained roughly 16 million ADA worth about $2.4 million.",
-      "tags": [
-        "cardano",
-        "founding",
-        "entity"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "9a50fa8640417d190a6d004e3ab045daab3b8ead",
-      "score": 18
-    },
-    {
-      "id": "https://ambcrypto.com/shiba-inu-drops-5-despite-its-biggest-token-burn-in-6-months-heres-why",
-      "title": "Shiba Inu drops 5% despite biggest token burn in 6 months – Here’s why!",
-      "url": "https://ambcrypto.com/shiba-inu-drops-5-despite-its-biggest-token-burn-in-6-months-heres-why",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-09T05:00:22.000Z",
-      "summary": "Here's what the supply-demand data suggests.",
-      "tags": [
-        "shiba",
-        "drops",
-        "despite"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "cddf0ea59ee1a84bfdf95c20073cb84d227b18f6",
-      "score": 16
     }
   ]
 }

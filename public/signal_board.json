@@ -1,26 +1,26 @@
 {
   "date": "2026-07-09",
-  "generated_at_utc": "2026-07-09T10:22:28.321Z",
-  "ctxMarket": "Attention is focused on Solana’s meme coin sector following a major exploit, as well as ongoing comparisons between Solana and other platforms like Robinhood and BNB Chain. Technical updates and ecosystem developments remain a secondary topic.",
-  "ctxTalking": "• The $20 million exploit of Bonk DAO’s treasury and its impact on Solana meme coins\n• Speculation about Robinhood’s strategy in the memecoin space and whether it can replicate Solana’s success\n• Recent Solana engineering updates, including Agave v4.1.0 and new RPC features",
-  "ctxMatters": "Security incidents like the Bonk DAO exploit raise concerns about DAO governance and treasury management on Solana. Comparisons to Robinhood and BNB Chain highlight competitive dynamics in memecoins and user acquisition. Ongoing technical upgrades may affect developer experience and network performance.",
-  "ctxSignal": "Signal: The Bonk DAO exploit and Solana’s continued technical improvements.\nNoise: Speculation about Robinhood’s ability to catch up to Solana in the memecoin sector.",
-  "ctxGlossary": "DAO — Decentralized Autonomous Organization; a group governed by smart contracts and token holders.\nRPC — Remote Procedure Call; a protocol for interacting with blockchain nodes.",
+  "generated_at_utc": "2026-07-09T20:45:26.347Z",
+  "ctxMarket": "Attention is on Pump.fun’s $10M SOL sale, which has sparked debate about Solana’s Q3 outlook. Technical development remains active, with multiple protocol and tooling updates released.",
+  "ctxTalking": "• Pump.fun’s large SOL move and resulting market backlash\n• Stripe-owned Privy and Jito launching FullSend, a Solana transaction inclusion tool\n• Latin America’s largest stock exchange adding options on Solana futures",
+  "ctxMatters": "Pump.fun’s significant SOL sale is raising questions about market stability and sentiment within the Solana ecosystem. FullSend’s launch highlights ongoing infrastructure improvements for Solana transaction routing. The introduction of Solana futures options on a major exchange signals growing institutional recognition, though these products do not involve direct token custody.",
+  "ctxSignal": "Signal: Major SOL sales and new institutional products are shifting attention to Solana’s liquidity and ecosystem maturity.\nNoise: Speculation around Robinhood’s memecoin strategy lacks direct Solana impact in today’s items.",
+  "ctxGlossary": "FullSend — A tool that routes Privy wallet transactions directly to Solana’s block leader.\nFutures Option — A contract giving the right to buy/sell a futures contract, not the asset itself.",
   "readMore": [
     {
-      "title": "Is Robinhood making the same ‘memecoin’ bet that made Solana a winner?",
+      "title": "Solana under pressure",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/is-robinhood-making-the-same-memecoin-bet-that-made-solana-a-winner"
+      "url": "https://ambcrypto.com/solana-under-pressure-pump-funs-10m-sol-move-sparks-this-q3-debate"
     },
     {
-      "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million"
+      "title": "Stripe-owned Privy and Jito co-develop Solana transaction inclusion tool FullSend",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/407628/stripe-privy-jito-develop-solana-transaction-inclusion-tool-fullsend"
     },
     {
-      "title": "Solana Ecosystem Roundup",
+      "title": "Solana Changelog",
       "source": "Solana News",
-      "url": "https://solana.com/news/solana-ecosystem-roundup-june-2026"
+      "url": "https://solana.com/news/solana-changelog-july-9-2026"
     }
   ]
 }

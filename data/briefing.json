@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "INFRA",
+      "title": "Solana Changelog: July 9, 2026",
+      "category": "INFRA",
+      "source": "Solana News",
+      "date": "2026-07-09",
+      "url": "https://solana.com/news/solana-changelog-july-9-2026",
+      "whyYouShouldCare": "The latest Solana Changelog highlights ongoing infrastructure improvements, which are crucial for enhancing network performance and attracting developers."
+    },
+    {
       "type": "APPS",
-      "title": "Is Robinhood making the same ‘memecoin’ bet that made Solana a winner?",
+      "title": "Solana under pressure: Pump.fun’s $10M SOL move sparks THIS Q3 debate",
       "category": "APPS",
       "source": "AMB Crypto",
       "date": "2026-07-09",
-      "url": "https://ambcrypto.com/is-robinhood-making-the-same-memecoin-bet-that-made-solana-a-winner",
-      "whyYouShouldCare": "Robinhood's interest in memecoins could drive increased trading volume and liquidity for Solana, enhancing its market presence and user engagement."
+      "url": "https://ambcrypto.com/solana-under-pressure-pump-funs-10m-sol-move-sparks-this-q3-debate",
+      "whyYouShouldCare": "Pump.fun's $10M SOL transaction raises questions about liquidity and market dynamics in Q3, potentially impacting SOL's price stability."
     },
     {
-      "type": "INFRA",
-      "title": "Hyperliquid shows how onchain perps could challenge Wall Street: Pantera",
-      "category": "INFRA",
-      "source": "Cointelegraph",
+      "type": "APPS",
+      "title": "Stripe-owned Privy and Jito co-develop Solana transaction inclusion tool FullSend",
+      "category": "APPS",
+      "source": "The Block",
       "date": "2026-07-09",
-      "url": "https://cointelegraph.com/news/hyperliquid-onchain-perps-absorbing-tradfi-markets-pantera-capital",
-      "whyYouShouldCare": "Hyperliquid's on-chain perpetual contracts could disrupt traditional finance, potentially increasing Solana's appeal as a platform for innovative trading solutions."
-    },
-    {
-      "type": "MARKET",
-      "title": "Kazakhstan’s new crypto adoption push: Stablecoin rules, tax exemptions explained!",
-      "category": "MARKET",
-      "source": "AMB Crypto",
-      "date": "2026-07-09",
-      "url": "https://ambcrypto.com/kazakhstans-new-crypto-adoption-push-stablecoin-rules-tax-exemptions-explained",
-      "whyYouShouldCare": "Kazakhstan's regulatory support for stablecoins may boost crypto adoption, creating new opportunities for Solana's ecosystem and expanding its user base."
+      "url": "https://www.theblock.co/post/407628/stripe-privy-jito-develop-solana-transaction-inclusion-tool-fullsend",
+      "whyYouShouldCare": "The collaboration between Privy and Jito on the FullSend tool could streamline transaction processes on Solana, increasing ecosystem efficiency and user engagement."
     }
   ]
 }
