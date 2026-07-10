@@ -1,21 +1,26 @@
 {
   "date": "2026-07-10",
-  "generated_at_utc": "2026-07-10T10:21:29.869Z",
-  "ctxMarket": "Attention is on new Solana core and ecosystem releases, as well as institutional adoption signals from Latin America. No major price or volume shifts are directly cited.",
-  "ctxTalking": "• Multiple Solana infrastructure projects—Agave, Firedancer, Superbank, Solana Go, and LiteSVM—released updates.\n• Latin America’s largest stock exchange launched options on solana futures, settling into futures contracts without handling tokens.",
-  "ctxMatters": "New releases from core projects like Firedancer and Agave indicate ongoing improvements in Solana’s validator and tooling stack. The stock exchange’s move signals growing institutional recognition of solana as a tradeable asset, even if actual token custody is avoided. These developments may affect how both developers and financial institutions engage with the Solana ecosystem.",
-  "ctxSignal": "Signal: Infrastructure upgrades and institutional product launches tied to Solana.\nNoise: No direct commentary on price movement or speculative trading activity.",
-  "ctxGlossary": "Firedancer — A new Solana validator client focused on performance and resilience.\nSolana futures — Derivative contracts tracking the price of solana, now with options listed on a major Latin American exchange.",
+  "generated_at_utc": "2026-07-10T20:20:10.518Z",
+  "ctxMarket": "Attention is focused on Solana’s role in bringing tokenized equities to a broader audience, highlighted by the launch of SK Hynix shares on the network. Infrastructure updates and new releases from core Solana projects are also drawing interest.",
+  "ctxTalking": "• SK Hynix’s $26.5 billion US listing is now accessible as tokenized shares on Solana via Backpack, xStocks, and Ondo Finance\n• Growing competition among exchanges to offer 24/7 trading of tokenized equities\n• Recent Solana core updates from projects like Agave, Firedancer, and Superbank",
+  "ctxMatters": "Tokenized equities expand access to traditional assets and may attract new users to Solana. The push for 24/7 stock trading blurs lines between traditional finance and crypto markets. Ongoing infrastructure upgrades signal continued investment in Solana’s scalability and reliability.",
+  "ctxSignal": "Signal: Major traditional assets like SK Hynix are being tokenized and traded on Solana, with multiple platforms supporting access.\nNoise: General excitement about tokenized stocks without details on adoption or regulatory clarity.",
+  "ctxGlossary": "Tokenized equities — Traditional company shares represented as digital tokens on a blockchain\nBackpack — A platform enabling access to tokenized stocks and crypto assets",
   "readMore": [
     {
-      "title": "Solana Changelog",
-      "source": "Solana News",
-      "url": "https://solana.com/news/solana-changelog-july-9-2026"
+      "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks"
     },
     {
-      "title": "Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures"
+      "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities"
+    },
+    {
+      "title": "The Sun Rises in Seoul and Trades on Solana",
+      "source": "Solana News",
+      "url": "https://solana.com/news/skhy-is-now-live"
     }
   ]
 }

@@ -1,5 +1,82 @@
 [
   {
+    "id": "51c91c8992986cd9161b2b18833b99703d5f4eb0",
+    "title": "Signal Board Summary 2026-07-10",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-07-10T20:20:10.521Z",
+    "lastSeenAt": "2026-07-10T20:20:10.521Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "2550ecb127af290c07a88cec44725b79a7a549df",
+    "title": "Phantom pulls on-chain perps into the US wallet war ahead of July 9 deadline",
+    "url": "https://cryptoslate.com/phantom-pulls-on-chain-perps-into-the-us-wallet-war-ahead-of-july-9-deadline",
+    "source": "CryptoSlate",
+    "firstSeenAt": "2026-07-10T20:20:02.187Z",
+    "lastSeenAt": "2026-07-10T20:20:02.187Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "phantom",
+      "pulls",
+      "chain",
+      "perps",
+      "into",
+      "wallet",
+      "ahead",
+      "july"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "66f0567eb34a6459f9e27c82e3dd2265d3035579",
+    "title": "The Sun Rises in Seoul and Trades on Solana: $SKHY is Now Live",
+    "url": "https://solana.com/news/skhy-is-now-live",
+    "source": "Solana News",
+    "firstSeenAt": "2026-07-10T20:20:02.187Z",
+    "lastSeenAt": "2026-07-10T20:20:02.187Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "rises",
+      "seoul",
+      "trades",
+      "solana",
+      "skhy",
+      "live",
+      "hynix",
+      "south"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "ec23d8c51ba543029212f61c6196ee48416375d7",
+    "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
+    "url": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks",
+    "source": "The Block",
+    "firstSeenAt": "2026-07-10T20:20:02.186Z",
+    "lastSeenAt": "2026-07-10T20:20:02.186Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "hynix",
+      "billion",
+      "listing",
+      "brought",
+      "telegram",
+      "users",
+      "xstocks",
+      "solana"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "b682f02c92966ce55b5de894657122c933964c84",
     "title": "OpenAI Releases GPT-5.6 Sol: Here’s How It Stacks Up Against Other AI Models",
     "url": "https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models",
@@ -142,83 +219,6 @@
       "made",
       "solana",
       "winner"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "e72ad7b576f31c30390c73d94fab6782c778e9cd",
-    "title": "Signal Board Summary 2026-07-08",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-07-08T20:18:20.093Z",
-    "lastSeenAt": "2026-07-08T20:18:20.093Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "5a0b2a08810892ce340e990c88200d634bb816c6",
-    "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
-    "url": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-07-07T10:23:28.457Z",
-    "lastSeenAt": "2026-07-08T20:18:12.707Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "meme",
-      "coin",
-      "bonk",
-      "treasury",
-      "drained",
-      "million",
-      "malicious"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "0743c229791eed0b807b2ef0d37ba51b2dadfeb6",
-    "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
-    "url": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-07-07T20:47:58.569Z",
-    "lastSeenAt": "2026-07-08T20:18:12.707Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "spacex",
-      "powers",
-      "record",
-      "billion",
-      "tokenized",
-      "equities",
-      "trading",
-      "june"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "32ec656db40d53999634229b6311d59eeb58ca72",
-    "title": "Solana: Pump.fun transfers over 68K SOL, yet buyers refuse to panic – Why?",
-    "url": "https://ambcrypto.com/solana-pump-fun-transfers-over-68k-sol-yet-buyers-refuse-to-panic-why",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-07-08T20:18:12.707Z",
-    "lastSeenAt": "2026-07-08T20:18:12.707Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "pump",
-      "transfers",
-      "over",
-      "buyers",
-      "refuse",
-      "panic",
-      "latest"
     ],
     "majorUpdate": false,
     "updateReason": null

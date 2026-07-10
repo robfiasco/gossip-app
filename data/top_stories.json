@@ -1,27 +1,60 @@
 {
   "meta": {
-    "generatedAt": "2026-07-10T10:21:20.072Z",
+    "generatedAt": "2026-07-10T20:20:02.016Z",
     "totalCandidates": 113,
-    "solanaCandidates": 16,
+    "solanaCandidates": 20,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://ambcrypto.com/binance-stablecoin-outflows-hit-115-million-a-day-as-liquidity-weakens",
-      "title": "Binance stablecoin outflows hit $115 million a day as liquidity weakens",
-      "url": "https://ambcrypto.com/binance-stablecoin-outflows-hit-115-million-a-day-as-liquidity-weakens",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-09T22:30:11.000Z",
-      "summary": "Stablecoin outflow from exchanges could leave crypto vulnerable to sudden bouts of volatility.",
+      "id": "https://solana.com/news/skhy-is-now-live",
+      "title": "The Sun Rises in Seoul and Trades on Solana: $SKHY is Now Live",
+      "url": "https://solana.com/news/skhy-is-now-live",
+      "source": "Solana News",
+      "publishedAt": "2026-07-10T12:00:00.000Z",
+      "summary": "SK Hynix ($SKHY), South Korea’s dominant memory-chip maker, is now live on Solana.",
       "tags": [
-        "binance",
-        "stablecoin",
-        "outflows"
+        "rises",
+        "seoul",
+        "trades"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 14,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "66f0567eb34a6459f9e27c82e3dd2265d3035579",
+      "score": 29
+    },
+    {
+      "id": "https://cryptoslate.com/phantom-pulls-on-chain-perps-into-the-us-wallet-war-ahead-of-july-9-deadline",
+      "title": "Phantom pulls on-chain perps into the US wallet war ahead of July 9 deadline",
+      "url": "https://cryptoslate.com/phantom-pulls-on-chain-perps-into-the-us-wallet-war-ahead-of-july-9-deadline",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-07-10T11:05:11.000Z",
+      "summary": "On July 9, Phantom and the Hyperliquid Policy Center urged the CFTC to remove rules they say “unduly impede” fintech firms from working with registered derivatives markets. Phantom presents itself as the software in the middle, rather than the custodian. Users retain control of their funds and priva",
+      "tags": [
+        "phantom",
+        "pulls",
+        "chain"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -34,24 +67,57 @@
         "relevanceScore": 13,
         "mentionScore": 0,
         "recencyScore": 10,
-        "sourceScore": 1,
+        "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "dc48ddf50a5aed689d89c3076b5355f0ac06cb3e",
-      "score": 24
+      "dedupeFingerprint": "2550ecb127af290c07a88cec44725b79a7a549df",
+      "score": 25
     },
     {
-      "id": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon",
-      "title": "PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon",
-      "url": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon",
+      "id": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks",
+      "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
+      "url": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks",
       "source": "The Block",
-      "publishedAt": "2026-07-09T13:54:53.000Z",
-      "summary": "The company said its stablecoin will now be issued natively on Polygon, in addition to becoming available through Polygon's Open Money Stack.",
+      "publishedAt": "2026-07-10T18:49:02.000Z",
+      "summary": "Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance.",
       "tags": [
-        "paypal",
-        "seeks",
-        "increase"
+        "hynix",
+        "billion",
+        "listing"
+      ],
+      "topicBucket": "consumer",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 9,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ec23d8c51ba543029212f61c6196ee48416375d7",
+      "score": 23
+    },
+    {
+      "id": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
+      "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+      "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-10T15:26:43.000Z",
+      "summary": "The initiative builds on a broader shift by companies exploring stablecoins to move money between international operations more efficiently.",
+      "tags": [
+        "hyundai",
+        "becomes",
+        "first"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -66,58 +132,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "a63749633750e6d597d48ee83866211823a85a9a",
-      "score": 21
+      "dedupeFingerprint": "26cd3f855338c11cc69e6a4db88484cf530c72ae",
+      "score": 22
     },
     {
-      "id": "https://www.theblock.co/post/407780/hyperliquid-policy-center-phantom-urge-cftc-to-stop-treating-onchain-protocols-like-traditional-brokers-and-exchanges",
-      "title": "Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges",
-      "url": "https://www.theblock.co/post/407780/hyperliquid-policy-center-phantom-urge-cftc-to-stop-treating-onchain-protocols-like-traditional-brokers-and-exchanges",
+      "id": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails",
+      "title": "New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote",
+      "url": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails",
       "source": "The Block",
-      "publishedAt": "2026-07-09T16:00:23.000Z",
-      "summary": "The CFTC and Securities and Exchange Commission issued a Request for Information in mid-June on financial innovation.",
+      "publishedAt": "2026-07-10T10:29:07.000Z",
+      "summary": "Governor Ayotte had expressed support for the proposal, touting it as an innovative way to bring more investment opportunities to the state.",
       "tags": [
-        "hyperliquid",
-        "policy",
-        "center"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "0857754988f0ff6e02e32f0c71e578d538b2281f",
-      "score": 18
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
-      "title": "Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures",
-      "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
-      "source": "CoinDesk",
-      "publishedAt": "2026-07-09T10:55:37.000Z",
-      "summary": "These options settle into underlying futures contracts rather than spot cryptoassets, involving no custody, transfer, or administration of tokens.",
-      "tags": [
-        "latin",
-        "america",
-        "biggest"
+        "hampshire",
+        "million",
+        "bitcoin"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -130,48 +163,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6d55fbd985c9d93b08c2e8359916335190543cfd",
-      "score": 18
-    },
-    {
-      "id": "https://www.theblock.co/post/407865/revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads",
-      "title": "Revolut integrates its crypto exchange with AI assistants as agentic trading spreads",
-      "url": "https://www.theblock.co/post/407865/revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads",
-      "source": "The Block",
-      "publishedAt": "2026-07-10T10:04:08.000Z",
-      "summary": "Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, letting crypto users analyze, backtest, and execute trades via AI prompts.",
-      "tags": [
-        "revolut",
-        "integrates",
-        "crypto"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": 7,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "407010006fad1807fb5187010c006c1990f16b99",
-      "score": 17
+      "dedupeFingerprint": "b0d5f0eee1ebbd630a2b7aa8a7cc576d54cb2995",
+      "score": 21
     }
   ]
 }
