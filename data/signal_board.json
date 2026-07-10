@@ -1,26 +1,21 @@
 {
-  "date": "2026-07-09",
-  "generated_at_utc": "2026-07-09T20:45:26.347Z",
-  "ctxMarket": "Attention is on Pump.fun’s $10M SOL sale, which has sparked debate about Solana’s Q3 outlook. Technical development remains active, with multiple protocol and tooling updates released.",
-  "ctxTalking": "• Pump.fun’s large SOL move and resulting market backlash\n• Stripe-owned Privy and Jito launching FullSend, a Solana transaction inclusion tool\n• Latin America’s largest stock exchange adding options on Solana futures",
-  "ctxMatters": "Pump.fun’s significant SOL sale is raising questions about market stability and sentiment within the Solana ecosystem. FullSend’s launch highlights ongoing infrastructure improvements for Solana transaction routing. The introduction of Solana futures options on a major exchange signals growing institutional recognition, though these products do not involve direct token custody.",
-  "ctxSignal": "Signal: Major SOL sales and new institutional products are shifting attention to Solana’s liquidity and ecosystem maturity.\nNoise: Speculation around Robinhood’s memecoin strategy lacks direct Solana impact in today’s items.",
-  "ctxGlossary": "FullSend — A tool that routes Privy wallet transactions directly to Solana’s block leader.\nFutures Option — A contract giving the right to buy/sell a futures contract, not the asset itself.",
+  "date": "2026-07-10",
+  "generated_at_utc": "2026-07-10T10:21:29.869Z",
+  "ctxMarket": "Attention is on new Solana core and ecosystem releases, as well as institutional adoption signals from Latin America. No major price or volume shifts are directly cited.",
+  "ctxTalking": "• Multiple Solana infrastructure projects—Agave, Firedancer, Superbank, Solana Go, and LiteSVM—released updates.\n• Latin America’s largest stock exchange launched options on solana futures, settling into futures contracts without handling tokens.",
+  "ctxMatters": "New releases from core projects like Firedancer and Agave indicate ongoing improvements in Solana’s validator and tooling stack. The stock exchange’s move signals growing institutional recognition of solana as a tradeable asset, even if actual token custody is avoided. These developments may affect how both developers and financial institutions engage with the Solana ecosystem.",
+  "ctxSignal": "Signal: Infrastructure upgrades and institutional product launches tied to Solana.\nNoise: No direct commentary on price movement or speculative trading activity.",
+  "ctxGlossary": "Firedancer — A new Solana validator client focused on performance and resilience.\nSolana futures — Derivative contracts tracking the price of solana, now with options listed on a major Latin American exchange.",
   "readMore": [
-    {
-      "title": "Solana under pressure",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-under-pressure-pump-funs-10m-sol-move-sparks-this-q3-debate"
-    },
-    {
-      "title": "Stripe-owned Privy and Jito co-develop Solana transaction inclusion tool FullSend",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/407628/stripe-privy-jito-develop-solana-transaction-inclusion-tool-fullsend"
-    },
     {
       "title": "Solana Changelog",
       "source": "Solana News",
       "url": "https://solana.com/news/solana-changelog-july-9-2026"
+    },
+    {
+      "title": "Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures"
     }
   ]
 }
