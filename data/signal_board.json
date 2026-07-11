@@ -1,12 +1,17 @@
 {
-  "date": "2026-07-10",
-  "generated_at_utc": "2026-07-10T20:20:10.518Z",
-  "ctxMarket": "Attention is focused on Solana’s role in bringing tokenized equities to a broader audience, highlighted by the launch of SK Hynix shares on the network. Infrastructure updates and new releases from core Solana projects are also drawing interest.",
-  "ctxTalking": "• SK Hynix’s $26.5 billion US listing is now accessible as tokenized shares on Solana via Backpack, xStocks, and Ondo Finance\n• Growing competition among exchanges to offer 24/7 trading of tokenized equities\n• Recent Solana core updates from projects like Agave, Firedancer, and Superbank",
-  "ctxMatters": "Tokenized equities expand access to traditional assets and may attract new users to Solana. The push for 24/7 stock trading blurs lines between traditional finance and crypto markets. Ongoing infrastructure upgrades signal continued investment in Solana’s scalability and reliability.",
-  "ctxSignal": "Signal: Major traditional assets like SK Hynix are being tokenized and traded on Solana, with multiple platforms supporting access.\nNoise: General excitement about tokenized stocks without details on adoption or regulatory clarity.",
-  "ctxGlossary": "Tokenized equities — Traditional company shares represented as digital tokens on a blockchain\nBackpack — A platform enabling access to tokenized stocks and crypto assets",
+  "date": "2026-07-11",
+  "generated_at_utc": "2026-07-11T08:45:06.023Z",
+  "ctxMarket": "Attention is focused on the launch of tokenized SK Hynix shares ($SKHY) and the availability of Morpho trading on Solana. Tokenized equities and new protocol releases are drawing interest across the ecosystem.",
+  "ctxTalking": "• Tokenized SK Hynix shares ($SKHY) now live on Solana, accessible via multiple platforms\n• Morpho’s Solana launch and price action around key resistance levels\n• Ongoing infrastructure upgrades, including releases from Agave, Firedancer, and others",
+  "ctxMatters": "Tokenized equities are expanding Solana’s reach into traditional finance, enabling 24/7 trading and new user segments. Morpho’s integration and price movement highlight Solana’s growing role in hosting major tokens. Infrastructure updates signal continued focus on scalability and developer tools.",
+  "ctxSignal": "Signal: Major traditional assets like SK Hynix are being tokenized on Solana, and protocol upgrades are ongoing.\nNoise: Short-term price forecasts for Morpho without broader context.",
+  "ctxGlossary": "Tokenized equities — Traditional company shares represented as tokens on a blockchain\nFiredancer — A new Solana validator client focused on performance and reliability",
   "readMore": [
+    {
+      "title": "MORPHO tests key resistance after Solana launch—Will the breakout hold?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/morpho-tests-key-resistance-after-solana-launch-will-the-breakout-hold"
+    },
     {
       "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
       "source": "The Block",
@@ -16,11 +21,6 @@
       "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities"
-    },
-    {
-      "title": "The Sun Rises in Seoul and Trades on Solana",
-      "source": "Solana News",
-      "url": "https://solana.com/news/skhy-is-now-live"
     }
   ]
 }

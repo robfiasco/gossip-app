@@ -1,112 +1,13 @@
 {
   "meta": {
-    "generatedAt": "2026-07-10T20:20:02.016Z",
+    "generatedAt": "2026-07-11T08:44:58.921Z",
     "totalCandidates": 113,
-    "solanaCandidates": 20,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
-    {
-      "id": "https://solana.com/news/skhy-is-now-live",
-      "title": "The Sun Rises in Seoul and Trades on Solana: $SKHY is Now Live",
-      "url": "https://solana.com/news/skhy-is-now-live",
-      "source": "Solana News",
-      "publishedAt": "2026-07-10T12:00:00.000Z",
-      "summary": "SK Hynix ($SKHY), South Korea’s dominant memory-chip maker, is now live on Solana.",
-      "tags": [
-        "rises",
-        "seoul",
-        "trades"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 14,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 5,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "66f0567eb34a6459f9e27c82e3dd2265d3035579",
-      "score": 29
-    },
-    {
-      "id": "https://cryptoslate.com/phantom-pulls-on-chain-perps-into-the-us-wallet-war-ahead-of-july-9-deadline",
-      "title": "Phantom pulls on-chain perps into the US wallet war ahead of July 9 deadline",
-      "url": "https://cryptoslate.com/phantom-pulls-on-chain-perps-into-the-us-wallet-war-ahead-of-july-9-deadline",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-10T11:05:11.000Z",
-      "summary": "On July 9, Phantom and the Hyperliquid Policy Center urged the CFTC to remove rules they say “unduly impede” fintech firms from working with registered derivatives markets. Phantom presents itself as the software in the middle, rather than the custodian. Users retain control of their funds and priva",
-      "tags": [
-        "phantom",
-        "pulls",
-        "chain"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 13,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2550ecb127af290c07a88cec44725b79a7a549df",
-      "score": 25
-    },
-    {
-      "id": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks",
-      "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
-      "url": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks",
-      "source": "The Block",
-      "publishedAt": "2026-07-10T18:49:02.000Z",
-      "summary": "Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance.",
-      "tags": [
-        "hynix",
-        "billion",
-        "listing"
-      ],
-      "topicBucket": "consumer",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 9,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ec23d8c51ba543029212f61c6196ee48416375d7",
-      "score": 23
-    },
     {
       "id": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
       "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
@@ -132,13 +33,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "26cd3f855338c11cc69e6a4db88484cf530c72ae",
-      "score": 22
+      "score": 21
     },
     {
       "id": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails",
@@ -165,13 +66,112 @@
       "scoreBreakdown": {
         "relevanceScore": 7,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b0d5f0eee1ebbd630a2b7aa8a7cc576d54cb2995",
-      "score": 21
+      "score": 20
+    },
+    {
+      "id": "https://ambcrypto.com/morpho-tests-key-resistance-after-solana-launch-will-the-breakout-hold",
+      "title": "MORPHO tests key resistance after Solana launch—Will the breakout hold?",
+      "url": "https://ambcrypto.com/morpho-tests-key-resistance-after-solana-launch-will-the-breakout-hold",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-11T03:30:37.000Z",
+      "summary": "The Morpho $60 forecast and the token being available to trade on the Solana network has helped boost market sentiment.",
+      "tags": [
+        "morpho",
+        "tests",
+        "resistance"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2ff337a518856ce9e47c434ce742c8a67a2c1b98",
+      "score": 19
+    },
+    {
+      "id": "https://cryptoslate.com/genius-act-deadline-puts-stablecoin-issuers-on-the-clock",
+      "title": "GENIUS Act deadline puts stablecoin issuers on the clock",
+      "url": "https://cryptoslate.com/genius-act-deadline-puts-stablecoin-issuers-on-the-clock",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-07-10T14:20:13.000Z",
+      "summary": "July 18 is not a user cutoff, but it forces regulators to define which permitted, foreign, and state-qualified issuers can operate cleanly in the US framework. The post GENIUS Act deadline puts stablecoin issuers on the clock appeared first on CryptoSlate.",
+      "tags": [
+        "genius",
+        "deadline",
+        "puts"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "5161575145a26b56fd21adafdeda709891ab91b9",
+      "score": 19
+    },
+    {
+      "id": "https://ambcrypto.com/lab-team-burns-11m-can-price-survive-46m-token-unlock-hitting-next",
+      "title": "LAB team burns $11M – Can price survive 46M token unlock hitting next?",
+      "url": "https://ambcrypto.com/lab-team-burns-11m-can-price-survive-46m-token-unlock-hitting-next",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-10T22:00:24.000Z",
+      "summary": "LAB bounced 24% as token burns cut supply. Here's what comes next.",
+      "tags": [
+        "team",
+        "burns",
+        "price"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "c6451cc466e611204fb6bd7c356eb57defe52e98",
+      "score": 16
     }
   ]
 }
