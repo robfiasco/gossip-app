@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-07-11T08:44:58.921Z",
-    "totalCandidates": 113,
+    "generatedAt": "2026-07-11T20:04:57.677Z",
+    "totalCandidates": 112,
     "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://cryptoslate.com/hong-kong-builds-a-gold-and-yuan-network-that-sidesteps-dollar-stablecoins",
+      "title": "Hong Kong builds a gold and yuan network that sidesteps dollar stablecoins",
+      "url": "https://cryptoslate.com/hong-kong-builds-a-gold-and-yuan-network-that-sidesteps-dollar-stablecoins",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-07-11T15:05:31.000Z",
+      "summary": "Stablecoins won over users by making money easier to move, long before the financial world agreed on what they meant. That helps explain the scale of USDT and USDC: they never had to replace the global reserve system to become powerful. They simply made dollars easier to move online, and crypto mark",
+      "tags": [
+        "hong",
+        "kong",
+        "builds"
+      ],
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "dc458d583e0e104c6907e1aeac563dc13bbf0cb6",
+      "score": 20
+    },
     {
       "id": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
       "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
@@ -33,13 +66,79 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "26cd3f855338c11cc69e6a4db88484cf530c72ae",
-      "score": 21
+      "score": 20
+    },
+    {
+      "id": "https://ambcrypto.com/can-solana-reverse-its-worst-quarter-since-2023-as-fees-drop-78",
+      "title": "Can Solana reverse its ‘worst quarter’ since 2023 as fees drop 78%?",
+      "url": "https://ambcrypto.com/can-solana-reverse-its-worst-quarter-since-2023-as-fees-drop-78",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-11T20:00:32.000Z",
+      "summary": "Will $14M stolen SOL affect the altcoin's recovery in the short term?",
+      "tags": [
+        "solana",
+        "reverse",
+        "worst"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "3cf08d628f8e11f4c953077e029662a7a60cec83",
+      "score": 19
+    },
+    {
+      "id": "https://ambcrypto.com/audiera-defies-token-unlock-dump-why-beat-surged-18-instead",
+      "title": "Audiera defies token unlock dump – Why BEAT surged 18% instead",
+      "url": "https://ambcrypto.com/audiera-defies-token-unlock-dump-why-beat-surged-18-instead",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-11T18:00:57.000Z",
+      "summary": "BEAT rallied despite July's token unlock as strong demand and ongoing token burns supported market confidence.",
+      "tags": [
+        "audiera",
+        "defies",
+        "token"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b49f1d9ecbcdae7b897815ceb392a19253b967f2",
+      "score": 19
     },
     {
       "id": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails",
@@ -66,112 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 7,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b0d5f0eee1ebbd630a2b7aa8a7cc576d54cb2995",
-      "score": 20
-    },
-    {
-      "id": "https://ambcrypto.com/morpho-tests-key-resistance-after-solana-launch-will-the-breakout-hold",
-      "title": "MORPHO tests key resistance after Solana launch—Will the breakout hold?",
-      "url": "https://ambcrypto.com/morpho-tests-key-resistance-after-solana-launch-will-the-breakout-hold",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-11T03:30:37.000Z",
-      "summary": "The Morpho $60 forecast and the token being available to trade on the Solana network has helped boost market sentiment.",
-      "tags": [
-        "morpho",
-        "tests",
-        "resistance"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "2ff337a518856ce9e47c434ce742c8a67a2c1b98",
       "score": 19
-    },
-    {
-      "id": "https://cryptoslate.com/genius-act-deadline-puts-stablecoin-issuers-on-the-clock",
-      "title": "GENIUS Act deadline puts stablecoin issuers on the clock",
-      "url": "https://cryptoslate.com/genius-act-deadline-puts-stablecoin-issuers-on-the-clock",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-10T14:20:13.000Z",
-      "summary": "July 18 is not a user cutoff, but it forces regulators to define which permitted, foreign, and state-qualified issuers can operate cleanly in the US framework. The post GENIUS Act deadline puts stablecoin issuers on the clock appeared first on CryptoSlate.",
-      "tags": [
-        "genius",
-        "deadline",
-        "puts"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "5161575145a26b56fd21adafdeda709891ab91b9",
-      "score": 19
-    },
-    {
-      "id": "https://ambcrypto.com/lab-team-burns-11m-can-price-survive-46m-token-unlock-hitting-next",
-      "title": "LAB team burns $11M – Can price survive 46M token unlock hitting next?",
-      "url": "https://ambcrypto.com/lab-team-burns-11m-can-price-survive-46m-token-unlock-hitting-next",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-10T22:00:24.000Z",
-      "summary": "LAB bounced 24% as token burns cut supply. Here's what comes next.",
-      "tags": [
-        "team",
-        "burns",
-        "price"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "c6451cc466e611204fb6bd7c356eb57defe52e98",
-      "score": 16
     }
   ]
 }
