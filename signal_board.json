@@ -1,17 +1,12 @@
 {
   "date": "2026-07-12",
-  "generated_at_utc": "2026-07-12T09:00:34.115Z",
-  "ctxMarket": "Attention is focused on Solana’s recent drop in network fees and the aftermath of a $14M SOL theft. Meanwhile, tokenized equities—especially SK Hynix’s new listing—are drawing interest as Solana-based platforms expand 24/7 stock trading.",
-  "ctxTalking": "• Solana’s fee revenue falling 78% and its “worst quarter” since 2023\n• The impact of the $14M SOL theft on short-term sentiment\n• Launch of SK Hynix ($SKHY) tokenized shares and the growth of 24/7 stock markets on Solana",
-  "ctxMatters": "Lower fees and security incidents may affect network confidence and developer activity. The push for tokenized equities positions Solana as a venue for traditional assets, potentially broadening its user base and use cases. Ongoing infrastructure upgrades signal continued technical investment.",
-  "ctxSignal": "Signal: Fee declines, security incidents, and tokenized equity launches are shaping Solana’s narrative.\nNoise: General speculation about price recovery without clear catalysts.",
-  "ctxGlossary": "Tokenized equity — Traditional company shares represented as blockchain tokens\nValidator — A network participant who helps secure and validate transactions on Solana",
+  "generated_at_utc": "2026-07-12T20:04:54.591Z",
+  "ctxMarket": "Attention is focused on the launch of tokenized SK Hynix shares on Solana, reflecting growing interest in 24/7 stock trading via blockchain. Infrastructure updates and new releases from key Solana projects are also in the spotlight.",
+  "ctxTalking": "• Tokenized SK Hynix ($SKHY) shares now available on Solana through platforms like Backpack and xStocks\n• The push for 24/7 stock markets as tokenized equities gain traction in crypto and traditional finance\n• Recent technical updates from Solana ecosystem projects, including validator and tooling improvements",
+  "ctxMatters": "Tokenized equities on Solana expand access to global stocks and enable round-the-clock trading. This development may attract both crypto-native and traditional finance participants. Ongoing infrastructure upgrades suggest continued focus on scalability and user experience.",
+  "ctxSignal": "Signal: The live launch of SK Hynix shares and the growing momentum for tokenized equities on Solana.\nNoise: General speculation about future listings without confirmation.",
+  "ctxGlossary": "Tokenized Equities — Traditional stocks represented as digital tokens on a blockchain.\nBackpack — A platform enabling access to tokenized assets and decentralized applications.",
   "readMore": [
-    {
-      "title": "Can Solana reverse its ‘worst quarter’ since 2023 as fees drop 78%?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/can-solana-reverse-its-worst-quarter-since-2023-as-fees-drop-78"
-    },
     {
       "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
       "source": "The Block",
@@ -21,6 +16,11 @@
       "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities"
+    },
+    {
+      "title": "The Sun Rises in Seoul and Trades on Solana",
+      "source": "Solana News",
+      "url": "https://solana.com/news/skhy-is-now-live"
     }
   ]
 }

@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-07-12T09:00:27.070Z",
-    "totalCandidates": 109,
-    "solanaCandidates": 22,
+    "generatedAt": "2026-07-12T20:04:47.370Z",
+    "totalCandidates": 99,
+    "solanaCandidates": 16,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://solana.com/news/solana-changelog-july-9-2026",
-      "title": "Solana Changelog: July 9, 2026",
-      "url": "https://solana.com/news/solana-changelog-july-9-2026",
-      "source": "Solana News",
-      "publishedAt": "2026-07-09T12:05:00.000Z",
-      "summary": "Agave, Firedancer, Superbank, Solana Go, and LiteSVM published new releases alongside validator, RPC, and tooling updates.",
+      "id": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
+      "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
+      "url": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-12T13:00:00.000Z",
+      "summary": "The market shrank by $7.7 billion in June alone, the largest dollar amount since May 2022's Terra-Luna crash, but stablecoins will likely resume their long-term growth, one analyst said.",
       "tags": [
-        "solana",
-        "changelog",
-        "july"
+        "stablecoin",
+        "market",
+        "shrunk"
       ],
-      "topicBucket": "infra",
-      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "topicBucket": "defi",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -31,15 +31,15 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 20,
+        "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 5,
+        "recencyScore": 10,
+        "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "0a1693c1fb4036a31520ff879dfe1a69c9b7732c",
-      "score": 30
+      "dedupeFingerprint": "52c7a3f81164f24bd61a44f5a5fb7a91fe10ff35",
+      "score": 22
     },
     {
       "id": "https://cryptoslate.com/hong-kong-builds-a-gold-and-yuan-network-that-sidesteps-dollar-stablecoins",
@@ -66,78 +66,12 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 9,
+        "recencyScore": 8,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "dc458d583e0e104c6907e1aeac563dc13bbf0cb6",
-      "score": 19
-    },
-    {
-      "id": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
-      "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
-      "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
-      "source": "CoinDesk",
-      "publishedAt": "2026-07-10T15:26:43.000Z",
-      "summary": "The initiative builds on a broader shift by companies exploring stablecoins to move money between international operations more efficiently.",
-      "tags": [
-        "hyundai",
-        "becomes",
-        "first"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 7,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "26cd3f855338c11cc69e6a4db88484cf530c72ae",
-      "score": 19
-    },
-    {
-      "id": "https://ambcrypto.com/audiera-defies-token-unlock-dump-why-beat-surged-18-instead",
-      "title": "Audiera defies token unlock dump – Why BEAT surged 18% instead",
-      "url": "https://ambcrypto.com/audiera-defies-token-unlock-dump-why-beat-surged-18-instead",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-11T18:00:57.000Z",
-      "summary": "BEAT rallied despite July's token unlock as strong demand and ongoing token burns supported market confidence.",
-      "tags": [
-        "audiera",
-        "defies",
-        "token"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "b49f1d9ecbcdae7b897815ceb392a19253b967f2",
       "score": 18
     },
     {
@@ -165,13 +99,79 @@
       "scoreBreakdown": {
         "relevanceScore": 7,
         "mentionScore": 0,
-        "recencyScore": 7,
+        "recencyScore": 6,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b0d5f0eee1ebbd630a2b7aa8a7cc576d54cb2995",
-      "score": 18
+      "score": 17
+    },
+    {
+      "id": "https://ambcrypto.com/is-lits-burn-worth-42-million-enough-to-spur-the-altcoins-next-big-rally",
+      "title": "Is LIT’s burn worth $42 million enough to spur the altcoin’s next big rally?",
+      "url": "https://ambcrypto.com/is-lits-burn-worth-42-million-enough-to-spur-the-altcoins-next-big-rally",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-12T03:00:39.000Z",
+      "summary": "Demand and bullish momentum for Lighter continued to hold sway despite a bearish momentum divergence signal.",
+      "tags": [
+        "burn",
+        "worth",
+        "million"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 5,
+        "mentionScore": 0,
+        "recencyScore": 9,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "ebdd14022e7334ebc3dff6e562bd7fd30f289b5f",
+      "score": 15
+    },
+    {
+      "id": "https://cryptoslate.com/trumps-crypto-disclosure-exposes-an-institutional-problem-that-markets-price-in-real-time",
+      "title": "Trump’s crypto disclosure exposes an institutional problem that markets price in real time",
+      "url": "https://cryptoslate.com/trumps-crypto-disclosure-exposes-an-institutional-problem-that-markets-price-in-real-time",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-07-11T17:10:13.000Z",
+      "summary": "Donald Trump’s latest financial disclosure showed how closely digital-asset policy, personal financial interests, branded tokens, and presidential power now sit together. His highly scrutinized recent filing points to a governance problem that extends well beyond any one politician, because crypto c",
+      "tags": [
+        "trump",
+        "crypto",
+        "disclosure"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 2,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "2c341f55fd64c42b61343ec834b249559fa0ae67",
+      "score": 13
     }
   ]
 }
