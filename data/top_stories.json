@@ -1,13 +1,46 @@
 {
   "meta": {
-    "generatedAt": "2026-07-11T20:04:57.677Z",
-    "totalCandidates": 112,
+    "generatedAt": "2026-07-12T09:00:27.070Z",
+    "totalCandidates": 109,
     "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
+    {
+      "id": "https://solana.com/news/solana-changelog-july-9-2026",
+      "title": "Solana Changelog: July 9, 2026",
+      "url": "https://solana.com/news/solana-changelog-july-9-2026",
+      "source": "Solana News",
+      "publishedAt": "2026-07-09T12:05:00.000Z",
+      "summary": "Agave, Firedancer, Superbank, Solana Go, and LiteSVM published new releases alongside validator, RPC, and tooling updates.",
+      "tags": [
+        "solana",
+        "changelog",
+        "july"
+      ],
+      "topicBucket": "infra",
+      "whyItMatters": "Infrastructure changes here can reset risk and throughput expectations.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 20,
+        "mentionScore": 0,
+        "recencyScore": 5,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "0a1693c1fb4036a31520ff879dfe1a69c9b7732c",
+      "score": 30
+    },
     {
       "id": "https://cryptoslate.com/hong-kong-builds-a-gold-and-yuan-network-that-sidesteps-dollar-stablecoins",
       "title": "Hong Kong builds a gold and yuan network that sidesteps dollar stablecoins",
@@ -33,13 +66,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 2,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "dc458d583e0e104c6907e1aeac563dc13bbf0cb6",
-      "score": 20
+      "score": 19
     },
     {
       "id": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
@@ -66,45 +99,12 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "26cd3f855338c11cc69e6a4db88484cf530c72ae",
-      "score": 20
-    },
-    {
-      "id": "https://ambcrypto.com/can-solana-reverse-its-worst-quarter-since-2023-as-fees-drop-78",
-      "title": "Can Solana reverse its ‘worst quarter’ since 2023 as fees drop 78%?",
-      "url": "https://ambcrypto.com/can-solana-reverse-its-worst-quarter-since-2023-as-fees-drop-78",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-11T20:00:32.000Z",
-      "summary": "Will $14M stolen SOL affect the altcoin's recovery in the short term?",
-      "tags": [
-        "solana",
-        "reverse",
-        "worst"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "3cf08d628f8e11f4c953077e029662a7a60cec83",
       "score": 19
     },
     {
@@ -132,13 +132,13 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 10,
+        "recencyScore": 9,
         "sourceScore": 1,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b49f1d9ecbcdae7b897815ceb392a19253b967f2",
-      "score": 19
+      "score": 18
     },
     {
       "id": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails",
@@ -165,13 +165,13 @@
       "scoreBreakdown": {
         "relevanceScore": 7,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 7,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
       "dedupeFingerprint": "b0d5f0eee1ebbd630a2b7aa8a7cc576d54cb2995",
-      "score": 19
+      "score": 18
     }
   ]
 }
