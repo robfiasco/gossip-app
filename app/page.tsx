@@ -18,7 +18,6 @@ import { Info } from "lucide-react";
 import SeekerGuard from "./components/SeekerGuard";
 import GossipLoadingScreen from "./components/GossipLoadingScreen";
 import OnboardingCarousel from "./components/OnboardingCarousel";
-import AnimatedEngagementChart from "./components/AnimatedEngagementChart";
 import MatrixBanner from "./components/MatrixBanner";
 import { getKickerClass, getKickerColor } from "./lib/categories";
 import { requestAndScheduleNotifications, cancelNotifications } from "./lib/notifications";
@@ -135,7 +134,6 @@ export default function Home() {
   const [briefingData, setBriefingData] = useState<BriefingPayload | null>(null);
   const [newsCardsData, setNewsCardsData] = useState<NewsCardsPayload | null>(null);
   const [marketContextData, setMarketContextData] = useState<MarketContextPayload | null>(null);
-  const [storyMetrics, setStoryMetrics] = useState<any>(null);
   const [marketCache, setMarketCache] = useState<MarketContextPayload | null>(null);
   const [activePanel, setActivePanel] = useState(0);
   const [isSeeker, setIsSeeker] = useState(false);
@@ -276,10 +274,6 @@ export default function Home() {
       if (cached.newsCards) setNewsCardsData(cached.newsCards);
       setIsAppReady(true);
     }
-    try {
-      const m = window.sessionStorage.getItem("validator_metrics_cache");
-      if (m) setStoryMetrics(JSON.parse(m));
-    } catch { }
   }, []);
 
   useEffect(() => {
@@ -321,26 +315,13 @@ export default function Home() {
     let active = true;
     const run = async () => {
       try {
-        const [res, metricsRes] = await Promise.all([
-          fetch("/api/daily"),
-          fetch("/api/metrics")
-        ]);
+        const res = await fetch("/api/daily");
 
         if (!res.ok) throw new Error("daily fetch failed");
         const daily = await res.json();
 
         if (typeof window !== "undefined") {
           window.sessionStorage.setItem("validator_daily_cache", JSON.stringify(daily));
-        }
-
-        if (metricsRes.ok) {
-          const metrics = await metricsRes.json();
-          if (active) {
-            setStoryMetrics(metrics);
-            if (typeof window !== "undefined") {
-              window.sessionStorage.setItem("validator_metrics_cache", JSON.stringify(metrics));
-            }
-          }
         }
 
         if (!active) return;
@@ -500,15 +481,6 @@ export default function Home() {
     if (numeric === null) return "n/a";
     return numeric.toFixed(2);
   };
-
-  const formatCompactNumber = (value: number | null | undefined) => {
-    const numeric = toFiniteNumber(value ?? null);
-    if (numeric === null) return "0";
-    if (Math.abs(numeric) >= 1_000_000) return `${(numeric / 1_000_000).toFixed(1)}M`;
-    if (Math.abs(numeric) >= 1_000) return `${(numeric / 1_000).toFixed(1)}K`;
-    return `${Math.round(numeric)}`;
-  };
-
 
 
 
@@ -965,18 +937,13 @@ export default function Home() {
             >
               {(() => {
                 const stories = (newsCardsData?.items || []).slice(0, 3);
-                const globalMetrics = (newsCardsData as any)?.global_metrics || null;
                 const lead = stories[0] || null;
                 const moreStories = stories.slice(1, 3);
-                const globalTweets = Number(globalMetrics?.total_tweets ?? stories.reduce((sum, item) => { const t = item?.metrics?.tweets ?? item?.stats?.total_tweets ?? 0; return sum + Number(t); }, 0));
-                const globalEng = Number(globalMetrics?.total_engagement ?? stories.reduce((sum, item) => { const e = item?.metrics?.engagement ?? item?.stats?.total_engagement ?? 0; return sum + Number(e); }, 0));
-                const globalTop = Number(globalMetrics?.top_tweet ?? Math.max(0, ...stories.map((item) => Number(item?.metrics?.topTweet ?? item?.stats?.top_engagement ?? 0))));
-                const globalVoices = Number(globalMetrics?.unique_voices ?? stories.reduce((sum, item) => { const v = item?.metrics?.voices ?? item?.stats?.unique_users ?? 0; return sum + Number(v); }, 0));
                 const leadCategory = String(lead?.category || "Daily Intel");
                 const leadIsCritical = /security|risk|breach|exploit|hack/i.test(leadCategory);
                 const leadIsAi = /ai|agent/i.test(leadCategory);
                 const leadIsGaming = /gaming|game/i.test(leadCategory);
-                const peekData = { lead, tweets: globalTweets, eng: globalEng, voices: globalVoices, topTweet: globalTop, stories };
+                const peekData = { lead, stories };
                 return (
                   <SeekerGuard peekData={peekData}>
                     {activeStoryIndex >= 0 && stories[activeStoryIndex] ? (
@@ -1008,31 +975,6 @@ export default function Home() {
                                   <span className="briefing-subhead-line" />
                                   <span className="briefing-subhead-text">Premium On-Chain Data Analysis</span>
                                   <span className="briefing-subhead-line" />
-                                </div>
-
-                                <div style={{ padding: "16px 18px 4px", marginBottom: "16px" }}>
-                                  {(() => {
-                                    const rawTweets = storyMetrics?.totals?.total_tweets || globalTweets || 0;
-                                    const rawEng = storyMetrics?.totals?.total_engagement || globalEng || 0;
-                                    const rawVoices = storyMetrics?.totals?.unique_users || globalVoices || 0;
-                                    const rawTop = storyMetrics?.totals?.top_tweet_engagement || globalTop || 0;
-
-                                    const chartItems = [
-                                      { label: "Tweets Analyzed", value: Math.min(100, rawTweets / 500 * 100), formattedValue: String(rawTweets), raw: rawTweets, color: '#9945FF' },
-                                      { label: "Total Engagement", value: Math.min(100, rawEng / 100000 * 100), formattedValue: formatCompactNumber(rawEng), raw: rawEng, color: '#14F195' },
-                                      { label: "Unique Voices", value: Math.min(100, rawVoices / 200 * 100), formattedValue: String(rawVoices), raw: rawVoices, color: '#00C2FF' },
-                                      { label: "Top Tweet", value: Math.min(100, rawTop / 20000 * 100), formattedValue: formatCompactNumber(rawTop), raw: rawTop, color: '#FF0080' }
-                                    ].filter(item => item.value >= 15); // hide bars < 15% of expected scale
-
-                                    return (
-                                      <AnimatedEngagementChart
-                                        title="GLOBAL NETWORK METRICS"
-                                        maxValue={100}
-                                        colors={chartItems.map(item => item.color)}
-                                        items={chartItems}
-                                      />
-                                    );
-                                  })()}
                                 </div>
 
                                 <div className="seeker-mag-divider" />

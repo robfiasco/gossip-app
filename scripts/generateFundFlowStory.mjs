@@ -220,7 +220,7 @@ async function main() {
 
   const output = {
     generated_at: new Date().toISOString(),
-    global_metrics: existing.global_metrics || {},
+    global_metrics: {},
     items,
   };
 

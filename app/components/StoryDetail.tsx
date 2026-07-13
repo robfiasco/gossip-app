@@ -3,7 +3,6 @@
 import React from "react";
 import { ChevronLeft } from "lucide-react";
 import ReactMarkdown from "react-markdown";
-import AnimatedEngagementChart from "./AnimatedEngagementChart";
 import ScrollMatrixBackground from "./ScrollMatrixBackground";
 import { getKickerClass, getKickerColor, getSignalLabel } from "../lib/categories";
 
@@ -12,8 +11,6 @@ type Story = {
     title?: string;
     timestamp?: string;
     publishedAt?: string;
-    metrics?: { tweets?: number; engagement?: number; voices?: number; topTweet?: number };
-    stats?: { total_tweets?: number; total_engagement?: number; unique_users?: number; top_tweet?: number };
     sections?: {
         timeline?: Array<{ date?: string; event?: string; impact?: string }>;
         keyQuotes?: Array<{ text?: string; author?: string; sentiment?: string }>;
@@ -32,13 +29,6 @@ type Story = {
 };
 
 export default function StoryDetail({ story, index, total, onBack, publishDate }: { story: Story; index: number; total: number; onBack: () => void; publishDate?: string | null }) {
-    const metrics = {
-        tweets: Number(story?.metrics?.tweets ?? story?.stats?.total_tweets ?? 0),
-        engagement: Number(story?.metrics?.engagement ?? story?.stats?.total_engagement ?? 0),
-        voices: Number(story?.metrics?.voices ?? story?.stats?.unique_users ?? 0),
-        topTweet: Number(story?.metrics?.topTweet ?? story?.stats?.top_tweet ?? 0),
-    };
-
     const sections = (story?.sections && typeof story.sections === "object") ? story.sections : {};
     const timeline = Array.isArray(sections.timeline) ? sections.timeline : [];
     const keyQuotes = Array.isArray(sections.keyQuotes) ? sections.keyQuotes : [];
@@ -48,15 +38,6 @@ export default function StoryDetail({ story, index, total, onBack, publishDate }
     const fullText = String(story?.content?.story || story?.story || story?.narrative || "")
         .replace(/\[object Object\]/g, "")
         .replace(/\\n/g, "\n"); // normalize literal \n from LLM output
-
-    const allChartItems = [
-        { label: "Total Engagement", value: metrics.engagement },
-        { label: "Top Tweet Volume", value: metrics.topTweet },
-        { label: "Tweets Analyzed", value: metrics.tweets },
-        { label: "Unique Voices", value: metrics.voices },
-    ];
-    const chartMax = Math.max(...allChartItems.map(i => i.value), 1);
-    const chartItems = allChartItems.filter(item => item.value >= chartMax * 0.05 && item.value >= 10);
 
     return (
         <div className="seeker-detail-shell" style={{ paddingBottom: "100px", zIndex: 9999, position: "relative" }} >
@@ -89,14 +70,6 @@ export default function StoryDetail({ story, index, total, onBack, publishDate }
                 )}
 
                 <div className="seeker-header-divider" />
-            </div>
-
-            <div style={{ marginTop: "24px", marginBottom: "32px", background: "rgba(10, 11, 14, 0.4)", border: "1px solid rgba(255, 255, 255, 0.05)", borderRadius: "16px", padding: "16px" }}>
-                <AnimatedEngagementChart
-                    title="SIGNAL STRENGTH"
-                    items={chartItems}
-                    colors={["#14F195", "#9945FF", "#00C2FF", "#F14CFF"]}
-                />
             </div>
 
             {
