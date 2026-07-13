@@ -1,8 +1,17 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "MARKET",
+      "title": "Crypto market’s weekly winners and losers – DEXE, LIT, BONK, JUP",
+      "category": "MARKET",
+      "source": "AMB Crypto",
+      "date": "2026-07-12",
+      "url": "https://ambcrypto.com/crypto-market-weekly-review-12-july",
+      "whyYouShouldCare": "Tracking weekly performance of crypto assets highlights market trends that could influence investor sentiment and liquidity in the Solana ecosystem."
+    },
     {
       "type": "RISK",
       "title": "3 crypto attacks in 24 hours – From fake apps to a $14.2M SOL theft",
@@ -10,25 +19,16 @@
       "source": "AMB Crypto",
       "date": "2026-07-12",
       "url": "https://ambcrypto.com/3-crypto-attacks-in-24-hours-from-fake-apps-to-a-14-2m-sol-theft",
-      "whyYouShouldCare": "Recent attacks, including a significant theft of $14.2M in SOL, highlight vulnerabilities in the ecosystem that could impact user trust and liquidity."
+      "whyYouShouldCare": "Recent security breaches, including a significant theft of SOL, raise concerns about the safety of assets on the Solana network and could impact user confidence."
     },
     {
-      "type": "APPS",
-      "title": "One crypto wallet tied to a 20-year-old fraudster processed over $122M before Interpol closed in",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-07-12",
-      "url": "https://cryptoslate.com/interpol-says-one-wallet-processed-122-5m-in-thailand-as-global-fraud-sweep-nets-5811-arrests",
-      "whyYouShouldCare": "The closure of a wallet linked to extensive fraud raises concerns about security and regulatory scrutiny, which could affect the overall crypto market dynamics."
-    },
-    {
-      "type": "APPS",
-      "title": "Signs of life?: State of Crypto",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-07-12",
-      "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
-      "whyYouShouldCare": "Emerging signs of recovery in the crypto market could influence investor sentiment and potentially enhance activity within the Solana ecosystem."
+      "type": "MARKET",
+      "title": "Japan stablecoin payments advance with Lawson trial, Netstars launch",
+      "category": "MARKET",
+      "source": "Cointelegraph",
+      "date": "2026-07-13",
+      "url": "https://cointelegraph.com/news/japan-lawson-netstars-stablecoin-payments",
+      "whyYouShouldCare": "Advancements in stablecoin payments in Japan may enhance cross-border transactions and increase the demand for Solana's infrastructure in global markets."
     }
   ]
 }

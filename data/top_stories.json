@@ -1,24 +1,57 @@
 {
   "meta": {
-    "generatedAt": "2026-07-12T20:04:47.370Z",
-    "totalCandidates": 99,
-    "solanaCandidates": 16,
+    "generatedAt": "2026-07-13T10:22:05.778Z",
+    "totalCandidates": 93,
+    "solanaCandidates": 18,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
-      "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
-      "url": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
-      "source": "CoinDesk",
-      "publishedAt": "2026-07-12T13:00:00.000Z",
-      "summary": "The market shrank by $7.7 billion in June alone, the largest dollar amount since May 2022's Terra-Luna crash, but stablecoins will likely resume their long-term growth, one analyst said.",
+      "id": "https://solana.com/news/skhy-is-now-live",
+      "title": "The Sun Rises in Seoul and Trades on Solana: $SKHY is Now Live",
+      "url": "https://solana.com/news/skhy-is-now-live",
+      "source": "Solana News",
+      "publishedAt": "2026-07-10T12:00:00.000Z",
+      "summary": "SK Hynix ($SKHY), South Korea’s dominant memory-chip maker, is now live on Solana.",
       "tags": [
-        "stablecoin",
-        "market",
-        "shrunk"
+        "rises",
+        "seoul",
+        "trades"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 14,
+        "mentionScore": 0,
+        "recencyScore": 5,
+        "sourceScore": 5,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "66f0567eb34a6459f9e27c82e3dd2265d3035579",
+      "score": 24
+    },
+    {
+      "id": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin",
+      "title": "Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report",
+      "url": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin",
+      "source": "The Block",
+      "publishedAt": "2026-07-13T08:19:26.000Z",
+      "summary": "The central bank and the SEC have reportedly begun using data analytics tools to examine abnormal stablecoin trades, with a focus on USDT.",
+      "tags": [
+        "bank",
+        "thailand",
+        "audits"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -38,20 +71,20 @@
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "52c7a3f81164f24bd61a44f5a5fb7a91fe10ff35",
+      "dedupeFingerprint": "d35d7a61d4eec2ce8179219d4c015d0cc25832ca",
       "score": 22
     },
     {
-      "id": "https://cryptoslate.com/hong-kong-builds-a-gold-and-yuan-network-that-sidesteps-dollar-stablecoins",
-      "title": "Hong Kong builds a gold and yuan network that sidesteps dollar stablecoins",
-      "url": "https://cryptoslate.com/hong-kong-builds-a-gold-and-yuan-network-that-sidesteps-dollar-stablecoins",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-11T15:05:31.000Z",
-      "summary": "Stablecoins won over users by making money easier to move, long before the financial world agreed on what they meant. That helps explain the scale of USDT and USDC: they never had to replace the global reserve system to become powerful. They simply made dollars easier to move online, and crypto mark",
+      "id": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending",
+      "title": "Japan’s SBI Group to launch JPYSC stablecoin lending service this month",
+      "url": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending",
+      "source": "The Block",
+      "publishedAt": "2026-07-13T07:22:28.000Z",
+      "summary": "The SBI's service would offer users a 3% annual yield for deposited JPYSC stablecoins, according to Nikkei.",
       "tags": [
-        "hong",
-        "kong",
-        "builds"
+        "japan",
+        "group",
+        "launch"
       ],
       "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -66,91 +99,25 @@
       "scoreBreakdown": {
         "relevanceScore": 8,
         "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 2,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "dc458d583e0e104c6907e1aeac563dc13bbf0cb6",
-      "score": 18
-    },
-    {
-      "id": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails",
-      "title": "New Hampshire’s $100 million bitcoin bond proposal fails to pass final vote",
-      "url": "https://www.theblock.co/post/407867/new-hampshire-bitcoin-backed-bond-fails",
-      "source": "The Block",
-      "publishedAt": "2026-07-10T10:29:07.000Z",
-      "summary": "Governor Ayotte had expressed support for the proposal, touting it as an innovative way to bring more investment opportunities to the state.",
-      "tags": [
-        "hampshire",
-        "million",
-        "bitcoin"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 7,
-        "mentionScore": 0,
-        "recencyScore": 6,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "b0d5f0eee1ebbd630a2b7aa8a7cc576d54cb2995",
-      "score": 17
+      "dedupeFingerprint": "82aa0c915334451d2f66a6662975fe5597cb03ce",
+      "score": 22
     },
     {
-      "id": "https://ambcrypto.com/is-lits-burn-worth-42-million-enough-to-spur-the-altcoins-next-big-rally",
-      "title": "Is LIT’s burn worth $42 million enough to spur the altcoin’s next big rally?",
-      "url": "https://ambcrypto.com/is-lits-burn-worth-42-million-enough-to-spur-the-altcoins-next-big-rally",
-      "source": "AMB Crypto",
-      "publishedAt": "2026-07-12T03:00:39.000Z",
-      "summary": "Demand and bullish momentum for Lighter continued to hold sway despite a bearish momentum divergence signal.",
+      "id": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal",
+      "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
+      "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-07-12T04:28:00.000Z",
+      "summary": "The ongoing debate over a proposed temporary fork comes despite a broad downturn in Ordinals transaction activity over the last two years.",
       "tags": [
-        "burn",
-        "worth",
-        "million"
-      ],
-      "topicBucket": "tokenomics",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 5,
-        "mentionScore": 0,
-        "recencyScore": 9,
-        "sourceScore": 1,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "ebdd14022e7334ebc3dff6e562bd7fd30f289b5f",
-      "score": 15
-    },
-    {
-      "id": "https://cryptoslate.com/trumps-crypto-disclosure-exposes-an-institutional-problem-that-markets-price-in-real-time",
-      "title": "Trump’s crypto disclosure exposes an institutional problem that markets price in real time",
-      "url": "https://cryptoslate.com/trumps-crypto-disclosure-exposes-an-institutional-problem-that-markets-price-in-real-time",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-07-11T17:10:13.000Z",
-      "summary": "Donald Trump’s latest financial disclosure showed how closely digital-asset policy, personal financial interests, branded tokens, and presidential power now sit together. His highly scrutinized recent filing points to a governance problem that extends well beyond any one politician, because crypto c",
-      "tags": [
-        "trump",
-        "crypto",
-        "disclosure"
+        "bitcoin",
+        "bulls",
+        "michael"
       ],
       "topicBucket": "general",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
@@ -163,15 +130,48 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 3,
+        "relevanceScore": -1,
         "mentionScore": 0,
         "recencyScore": 8,
-        "sourceScore": 2,
+        "sourceScore": 0,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "2c341f55fd64c42b61343ec834b249559fa0ae67",
-      "score": 13
+      "dedupeFingerprint": "6590f31ed4b2ad7e541159fae1e558a725792c65",
+      "score": 7
+    },
+    {
+      "id": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+      "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
+      "url": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+      "source": "CoinDesk",
+      "publishedAt": "2026-07-12T05:49:52.000Z",
+      "summary": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Michael Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.",
+      "tags": [
+        "bitcoin",
+        "fork",
+        "deadline"
+      ],
+      "topicBucket": "market",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": -3,
+        "mentionScore": 0,
+        "recencyScore": 8,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "d89fb5525e8eb1131da0e207c2025e8b10a6d3a4",
+      "score": -1
     }
   ]
 }
