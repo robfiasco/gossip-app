@@ -1,230 +1,210 @@
 {
-  "generated_at": "2026-04-24T14:08:39.711Z",
+  "generated_at": "2026-07-13T18:19:21.407Z",
   "global_metrics": {
-    "total_tweets": 47,
-    "total_engagement": 10966,
+    "total_tweets": 44,
+    "total_engagement": 20775,
     "unique_voices": 19,
-    "top_tweet": 2087
+    "top_tweet": 3640
   },
   "items": [
     {
-      "id": "story_1777039688967_0",
-      "title": "Solana Ecosystem Accelerates: Builders, Institutions, and New Risks",
+      "id": "story_1783966739255_0",
+      "title": "SBI Holdings Drives Japan-Led Onchain Finance on Solana",
       "type": "critical",
       "category": "Security / Risk Alert",
-      "author": "@incubator",
-      "timestamp": "2026-04-24T14:08:08.967Z",
+      "author": "@solana",
+      "timestamp": "2026-07-13T18:18:59.255Z",
       "metrics": {
-        "tweets": 33,
-        "engagement": 6381,
-        "topTweet": 753,
-        "voices": 12,
+        "tweets": 26,
+        "engagement": 10193,
+        "topTweet": 2627,
+        "voices": 10,
         "engagementTrend": [
-          2552,
-          3510,
-          4339,
-          5232,
-          6381
+          4077,
+          5606,
+          6931,
+          8358,
+          10193
         ]
       },
       "ctPulse": [
         {
-          "handle": "@incubator",
-          "thought": "1/ Grow your company alongside the Solana Labs team!\n\nApplications for Cohort 5 of the Solana Incubator are now open — join us in NYC for 3 months starting September 2026.\n\n📅 Deadline: June 5.\n✅ Roll",
-          "url": "https://twitter.com/incubator/status/2046973323620577341"
+          "handle": "@solana",
+          "thought": "BREAKING: SBI Holdings is building a Japan-led onchain financial market on Solana.\n\nWith SMFG, a G-SIB, they're bringing RWA and stablecoin markets from Japan to the world. https://t.co/3RBFszoBD6",
+          "url": "https://twitter.com/solana/status/2076636539824861540"
+        },
+        {
+          "handle": "@solana",
+          "thought": "In six months, new assets that launched on Solana traded $3.5B across 14M trades and 221,000 wallets.\n\nMost of them were born on other chains (like AVAX, HYPE, UNI or MON).\n\nNow some of their deepest ",
+          "url": "https://twitter.com/solana/status/2076705210102431747"
+        },
+        {
+          "handle": "@solana",
+          "thought": "They said SF was dead. It's never been more alive.\n\nSolana started in San Francisco. Time to get back to our roots. https://t.co/Zr7kTLBLWg",
+          "url": "https://twitter.com/solana/status/2076687114981535952"
         },
         {
           "handle": "@solanamobile",
-          "thought": "Solana Mobile is heading to Miami this May 🌴\n\nCatch us at Solana Accelerate, Ship Week, and Consensus 2026\n\nJoin us for the EasyA hackathon and hands-on dev workshops IRL\n\nHere's where to find us 🧵 ",
-          "url": "https://twitter.com/solanamobile/status/2047384738965631366"
+          "thought": "Round 1 of Seeker Summer is fully live ☀️\n\nHere's every round 1 quest in the Solana dApp Store:\n\n@Tokenrunapp by @GEODNET 🌐\n↳ Strike Gold: Open any treasure chest\n↳ Buried Treasure: Dig up a message ",
+          "url": "https://twitter.com/solanamobile/status/2076004056590639268"
         },
         {
           "handle": "@SolanaSensei",
-          "thought": "We’re so spoiled on Solana we don’t even realize it sometimes.\n\n&gt; Life-changing airdrops\n&gt; Life-changing grants/rewards\n&gt; Ultra-low fees\n&gt; Instant transactions\n&gt; Constant innovation\n&gt",
-          "url": "https://twitter.com/SolanaSensei/status/2047269006990889196"
-        },
+          "thought": "Solana is currently having its first green month after nine red ones.\n\nCould this be a sign of bullish momentum?\n\nIs this the bottom? https://t.co/GDZaq5Y8N6",
+          "url": "https://twitter.com/SolanaSensei/status/2076223542727983511"
+        }
+      ],
+      "whoToFollow": [
         {
-          "handle": "@SolanaSensei",
-          "thought": "Be Solana\n\n- Allow everyone to buy everything they want\n- Make sure every transaction is fast\n- Give them free money (airdrops)\n- Constantly innovate to improve user experience\n- Make transactions cos",
-          "url": "https://twitter.com/SolanaSensei/status/2047605728844923336"
+          "handle": "@solana",
+          "reason": "Official updates on ecosystem and partnerships",
+          "role": "Builder",
+          "engagement": 5522
         },
         {
           "handle": "@solana_daily",
-          "thought": "Top Performing Solana AI Agents in the Last 7 Days 📈\n\n▫️RAIN - @rainmakerdotfun\n▫️BREW - @homebrewrobots\n▫️PAYAI - @PayAINetwork\n▫️ACE - @acedatacloud\n▫️SWARMS - @swarms_corp\n▫️OPUS - @opus_universe\n",
-          "url": "https://twitter.com/solana_daily/status/2046978456567861248"
-        }
-      ],
-      "whoToFollow": [
-        {
-          "handle": "@incubator",
-          "reason": "Leads the Solana Labs Incubator, central to new builder onboarding.",
-          "role": "Builder",
-          "engagement": 1753
-        },
-        {
-          "handle": "@nickducoff",
-          "reason": "Shares insights on institutional adoption and RWA growth on Solana.",
+          "reason": "Coverage of Solana's expansion in Japan and Asia",
           "role": "Analyst",
-          "engagement": 1109
+          "engagement": 1503
         }
       ],
       "content": {
-        "signal": "Solana’s ecosystem is rapidly expanding, attracting builders and institutional capital, but new growth brings fresh risks and operational challenges.",
-        "story": "Solana is entering a new phase of ecosystem growth, marked by a surge in builder activity, institutional adoption, and a wave of new products and protocols. The opening of applications for Solana Labs’ Incubator Cohort 5, alongside a packed calendar of hackathons and developer events, signals a strong push to onboard and support the next generation of projects. At the same time, real-world asset (RWA) tokenization on Solana has ballooned from $170 million to $2 billion in just a year, with major funds and institutions now treating the chain as a serious venue for on-chain finance.\n\n### What's Happening\n\nThe Solana Labs Incubator is now accepting applications for its fifth cohort, offering selected teams a three-month program in New York City. This move comes as Solana Mobile and other ecosystem players ramp up in-person events, hackathons, and workshops, aiming to deepen developer engagement and accelerate product launches. Meanwhile, the chain is seeing strong traction in both consumer and institutional segments: AI agents, DeFi protocols, and collectibles are all shipping at a rapid pace, while institutional flows into RWAs are at all-time highs.\n\nThe ecosystem’s growth is also visible in new launches and updates. Projects like Arcium are preparing token generation events after raising millions, and DeFi protocols are rolling out permissionless features that lower barriers for liquidity and innovation. Community-driven initiatives, such as Superteam’s local builder support and on-chain collectibles buybacks, reinforce the sense of momentum and experimentation across the network.\n\n### Why It Matters\n\nSolana’s ability to attract both grassroots builders and institutional capital is shifting its reputation from a retail-focused chain to a credible platform for serious financial products. The surge in RWA activity is particularly notable, as it reflects growing trust in Solana’s reliability, speed, and cost-effectiveness. This is further supported by the ecosystem’s large active wallet base and deep stablecoin liquidity, which are prerequisites for scaling on-chain finance.\n\nFor builders, the combination of incubator programs, hackathons, and rapid protocol innovation creates a fertile environment for launching and iterating on new ideas. The permissionless nature of recent DeFi upgrades means that teams can move faster and experiment without waiting for approvals, potentially accelerating the pace of innovation. For users, this translates to more products, better experiences, and new ways to participate in the ecosystem.\n\n### The Risk or Debate\n\nHowever, rapid growth brings new risks. The influx of new projects, especially in DeFi and AI, raises the potential for security lapses, operational failures, or outright scams. Permissionless launches can be a double-edged sword: while they lower barriers, they also make it easier for unvetted or malicious actors to deploy risky products. The sheer volume of new tokens, apps, and financial primitives may outpace the community’s ability to vet and secure them.\n\nInstitutional adoption of RWAs also introduces regulatory and compliance questions, especially as the scale of on-chain assets grows. There’s an ongoing debate about whether Solana’s infrastructure and governance are ready for the scrutiny and demands that come with managing billions in tokenized assets. As the ecosystem matures, the stakes for operational resilience and user protection are rising.\n\n### What To Watch\n\nKey developments to monitor include the selection and progress of the next Incubator cohort, the rollout of new DeFi primitives, and the continued influx of institutional capital into RWAs. Security incidents, rug pulls, or major protocol failures could quickly undermine trust if not addressed proactively. Regulatory signals—especially around tokenized assets—will be crucial as Solana’s institutional profile grows. Finally, the effectiveness of community-driven support and builder programs will shape whether this growth phase leads to sustainable innovation or exposes new vulnerabilities.",
+        "signal": "SBI Holdings is partnering with Solana to build a Japan-led onchain financial market, expanding real-world asset and stablecoin activity.",
+        "story": "BREAKING: SBI Holdings, a major Japanese financial institution, is building a Japan-led onchain financial market on Solana. The initiative, announced by Solana, involves collaboration with SMFG, a globally significant bank, to bring real-world asset (RWA) and stablecoin markets from Japan to a global audience. This marks a significant move by established finance into Solana’s ecosystem, signaling a new phase of institutional adoption and cross-border experimentation.\\n\\n### What's Happening\\n\\nSBI Holdings is working with the Solana Foundation to launch an onchain financial market focused on Japan. The partnership includes SMFG, a global systemically important bank, and aims to bring regulated financial products—like RWAs and stablecoins—onto Solana’s blockchain. This effort positions Solana as the infrastructure layer for new digital markets led by major Japanese financial players.\\n\\nSolana’s recent growth in asset trading is notable, with $3.5B in trading volume across 14 million trades and 221,000 wallets for new assets launched in the last six months. Many of these assets originated on other chains but now see significant trading activity on Solana, highlighting the chain’s growing appeal for both new and migrated tokens.\\n\\n### Why It Matters\\n\\nThis development signals a shift in how traditional finance is approaching blockchain integration. SBI Holdings and SMFG bring regulatory experience and institutional credibility, which could accelerate the adoption of tokenized assets and stablecoins in Japan and beyond. Their entry may also set a precedent for other financial institutions considering similar moves.\\n\\nSolana’s infrastructure is already seeing strong metrics: it leads in RWA holders, dApp revenue, decentralized exchange volume, tokenized equities spot trading, and active addresses. The chain’s payment volume has grown nearly 9x in under 18 months, reaching $88M in May 2026. These trends suggest that Solana is becoming a preferred platform for both crypto-native and traditional financial activity.\\n\\n### The Risk or Debate\\n\\nThe integration of large, regulated financial entities introduces new risks. Regulatory scrutiny could increase, especially as real-world assets and stablecoins become more prominent. There is also uncertainty around how well Solana’s infrastructure will handle increased institutional demand and compliance requirements. Liquidity for new assets can remain thin, as seen with recent meme token launches, which may pose risks for users engaging with less-established markets.\\n\\n### What To Watch\\n\\nKey areas to monitor include the rollout of SBI and SMFG’s onchain products, any regulatory updates from Japanese authorities, and the impact on Solana’s trading volumes and user activity. Watch for further announcements about asset launches, stablecoin integrations, and potential partnerships with other financial institutions. The evolution of liquidity and user participation in these new markets will be a critical signal for the broader adoption of onchain finance in Japan and globally.",
         "takeaways": [
-          "Solana is seeing rapid growth in both builder activity and institutional adoption, especially in tokenized real-world assets.",
-          "Permissionless DeFi innovation is accelerating, but also introduces new risks around security and project quality.",
-          "The ecosystem’s shift toward institutional finance brings regulatory and operational challenges that will require close attention."
+          "SBI Holdings and SMFG are building a regulated onchain financial market on Solana.",
+          "Solana is seeing rapid growth in trading volume, asset migration, and payment activity.",
+          "Institutional adoption could bring both credibility and regulatory challenges to the ecosystem."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 8.6
+      "narrativeStrength": 8.2
     },
     {
-      "id": "story_1777039698514_1",
-      "title": "Seeker Season 1 Wraps: 89.7% SKR Claimed, Next Steps Set",
+      "id": "story_1783966752526_1",
+      "title": "Jupiter Gacha Brings Real Collectibles Onchain",
       "type": "alpha",
       "category": "Airdrop Strategy",
-      "author": "@solanamobile",
-      "timestamp": "2026-04-24T14:08:18.514Z",
+      "author": "@JupiterExchange",
+      "timestamp": "2026-07-13T18:19:12.526Z",
       "metrics": {
-        "tweets": 7,
-        "engagement": 3898,
-        "topTweet": 2087,
-        "voices": 4,
+        "tweets": 17,
+        "engagement": 10114,
+        "topTweet": 3640,
+        "voices": 8,
         "engagementTrend": [
-          1559,
-          2144,
-          2651,
-          3196,
-          3898
+          4046,
+          5563,
+          6878,
+          8293,
+          10114
         ]
       },
       "ctPulse": [
         {
-          "handle": "@solanamobile",
-          "thought": "That's a wrap on Seeker Season 1 SKR claims.\n\nYou claimed 89.7% of the airdrop. \n200M SKR is going back to the future airdrops pool.\n70% of circulating SKR is staked.\n90,405 of you are holding.\n\nThank",
-          "url": "https://twitter.com/solanamobile/status/2047020054404071756"
+          "handle": "@JupiterExchange",
+          "thought": "Introducing Jupiter Gacha\n\nReal graded Pokémon & One Piece cards, fully onchain.\n\nEvery pull is an authenticated slab, the same cards you chased as a kid, now tradeable on Jupiter.\n\nYou can pull cards",
+          "url": "https://twitter.com/JupiterExchange/status/2076654397237445092"
         },
         {
-          "handle": "@0x_diablo",
-          "thought": "RT @solanamobile: That's a wrap on Seeker Season 1 SKR claims.\n\nYou claimed 89.7% of the airdrop. \n200M SKR is going back to the future air…",
-          "url": "https://twitter.com/0x_diablo/status/2047020408331735353"
+          "handle": "@JupiterExchange",
+          "thought": "Get paid to wait using Jupiter 💸\n\nIntroducing Earn on Recurring.\n\nFunds in your DCA orders no longer sit idle. They earn yield in Jupiter Lend until each buy fills.\n\n> Fully automatic once enabled\n> ",
+          "url": "https://twitter.com/JupiterExchange/status/2076025979492028858"
         },
         {
-          "handle": "@solana_stream",
-          "thought": "Just use $SKR for your apps.\n\n$SKR is becoming the shared incentive layer across @solanamobile -  powering rewards, cashback, boosts & loyalty alongside native tokens.\n\nHere are some dApps with real $",
-          "url": "https://twitter.com/solana_stream/status/2047337095707136462"
+          "handle": "@sol_nxxn",
+          "thought": "I just stopped using Phantom wallet on Solana...\n\nYesterday, I couldn't access my funds, see my balance, or use any app for HOURS\n\nAnd it wasn't a one-time accident - it happens regularly for me\n\nWhen",
+          "url": "https://twitter.com/sol_nxxn/status/2076316390068191558"
         },
         {
-          "handle": "@solanamobile",
-          "thought": "Seeker Season is heating up 🔥⚽️\n\nSeekers get a pint of Guinness at Solana Stadium, and are invited on a pilgrimage to @AlfretonTownFC during Breakpoint 2026.\n\nThe arena is integrating Seekers as poin",
-          "url": "https://twitter.com/solanamobile/status/2046671173904454044"
+          "handle": "@solanagaming",
+          "thought": "RT @JupiterExchange: Introducing Jupiter Gacha\n\nReal graded Pokémon &amp; One Piece cards, fully onchain.\n\nEvery pull is an authenticated slab,…",
+          "url": "https://twitter.com/solanagaming/status/2076687391230935067"
         },
         {
-          "handle": "@solanamobile",
-          "thought": "RT @alphafcxyz: AlphaFC is giving away 10 Seeker phones in partnership with @solanamobile \n\nMake a post about AlphaFC, tag @alphafcxyz and…",
-          "url": "https://twitter.com/solanamobile/status/2046710453825614322"
+          "handle": "@solana",
+          "thought": "RT @JupiterExchange: Introducing Jupiter Gacha\n\nReal graded Pokémon &amp; One Piece cards, fully onchain.\n\nEvery pull is an authenticated slab,…",
+          "url": "https://twitter.com/solana/status/2076655202992808076"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@solanamobile",
-          "reason": "Leads the Seeker initiative and SKR ecosystem development.",
+          "handle": "@JupiterExchange",
+          "reason": "Core builder behind Gacha and new earning features.",
           "role": "Builder",
-          "engagement": 2721
+          "engagement": 5778
         },
         {
-          "handle": "@solana_stream",
-          "reason": "Covers SKR integrations and ecosystem updates.",
-          "role": "Analyst",
-          "engagement": 606
+          "handle": "@SolanaSensei",
+          "reason": "Active community member sharing product updates and user experiences.",
+          "role": "Community",
+          "engagement": 1072
         }
       ],
       "content": {
-        "signal": "Seeker Season 1 airdrop has concluded with nearly 90% of SKR claimed, setting up future airdrops and expanding SKR’s utility across Solana Mobile.",
-        "story": "Seeker Season 1 has officially wrapped, with 89.7% of the SKR airdrop claimed by participants. Out of the total allocation, 200 million unclaimed SKR will be redirected to future airdrop pools, ensuring continued engagement and incentives for both current and new users. Over 90,000 holders now possess SKR, and 70% of circulating tokens are currently locked up, signaling strong early commitment from the community.\n\n### What's Happening\nSolana Mobile’s Seeker initiative is moving into its next phase after a high participation rate in its inaugural SKR airdrop. The majority of eligible users have claimed their tokens, and the remaining SKR will be used to fuel upcoming airdrop rounds. SKR is being positioned as a shared incentive layer across Solana Mobile, powering rewards, cashback, boosts, and loyalty programs within the ecosystem. Several decentralized apps have already integrated SKR natively, embedding it into their core mechanics and offering tangible benefits to Seeker users.\n\nThe Seeker ecosystem is also expanding into real-world experiences. Holders are being offered perks like drinks at Solana Stadium and invitations to events, with plans to integrate Seekers as point-of-sale devices at venues. The Dapp Store continues to grow, with new apps like Xona Agent launching, further increasing the utility and reach of SKR.\n\n### Why It Matters\nThe high claim rate and staking percentage suggest that Seeker Season 1 has successfully captured user attention and fostered early loyalty. Redirecting unclaimed SKR to future airdrops keeps the incentive structure dynamic, potentially attracting new participants and maintaining engagement over time. By embedding SKR into both digital and physical experiences, Solana Mobile is experimenting with a hybrid approach to ecosystem growth that could set a precedent for other projects.\n\nSKR’s integration into multiple dApps and real-world venues hints at a broader strategy: making SKR a foundational rewards and utility token within the Solana Mobile ecosystem. This could drive deeper user retention and create a network effect as more apps and venues adopt SKR for rewards and payments. The ongoing expansion of the Dapp Store and partnerships with projects like AlphaFC further reinforce this trajectory.\n\n### The Risk or Debate\nWhile early metrics are strong, the long-term sustainability of SKR’s utility remains to be proven. If future airdrops or integrations fail to deliver meaningful value, user engagement could taper off. There is also the risk that SKR’s use as a shared incentive layer may dilute its perceived value if not managed carefully across diverse applications. Additionally, real-world integrations, such as using Seekers as point-of-sale devices, introduce operational and adoption challenges that could slow momentum.\n\n### What To Watch\nThe next phase will hinge on how effectively Solana Mobile deploys the 200 million SKR reserved for future airdrops. Watch for announcements on new dApp integrations, real-world partnerships, and updates to the rewards structure. The adoption rate of SKR in both digital and physical settings will be a key indicator of the token’s staying power. Continued growth in the Dapp Store and further community engagement initiatives will signal whether SKR can maintain its current momentum.",
+        "signal": "Jupiter Exchange has launched Gacha, letting users pull real graded Pokémon and One Piece cards fully onchain, with airdrop rewards and new earning features.",
+        "story": "Jupiter Exchange is pushing the boundaries of onchain collectibles with the launch of Jupiter Gacha. This new product lets users pull real, authenticated Pokémon and One Piece trading cards—graded slabs—directly on Solana. Each pull is a chance at high-value cards, echoing the excitement of childhood pack openings, but now entirely digital and tradeable on Jupiter’s marketplace. Alongside the collectible angle, Jupiter is offering up to $100,000 in rewards for participants, further sweetening the experience for early adopters.\n\n### What's Happening\nJupiter Gacha is a collaboration with Collector Crypt, bringing physical, graded trading cards onto the blockchain as authenticated, tradeable assets. Users pay for a chance to pull rare cards, some of which can be worth multiples of the entry price. The process is fully onchain, and every card is an authenticated slab, not just a digital representation. Early user reports highlight smooth UX, instant buybacks, and real monetary rewards rather than just points. The marketplace is live, with feedback already driving improvements.\n\nIn parallel, Jupiter has rolled out \"Earn on Recurring,\" a feature that puts idle USDC in DCA (dollar-cost averaging) orders to work via Jupiter Lend. Funds waiting to be deployed for scheduled buys now earn yield automatically, with no change to the DCA process. This means users can passively earn extra yield—currently around 4.55% APY—while waiting for their orders to fill.\n\n### Why It Matters\nBringing real-world collectibles onchain is a significant step for Solana’s NFT and DeFi ecosystem. It bridges the gap between physical assets and digital liquidity, making high-value collectibles more accessible and tradeable. For users, the combination of nostalgia, potential profit, and onchain transparency is a compelling draw. The Gacha model also introduces a new way to engage with collectibles, blending gaming mechanics with DeFi incentives.\n\nJupiter’s approach to user rewards is notable. With over $24 million distributed across products, and every major launch tied to airdrop incentives, the platform is building a reputation for rewarding active participation. The tightening supply of $JUP—over 30% staked and growing—signals strong user conviction and could have longer-term implications for token dynamics.\n\n### The Risk or Debate\nThere are a few areas of uncertainty. The Gacha model, while engaging, carries elements of chance that may not appeal to everyone and could raise regulatory questions around gamification and prize mechanics. The physical-to-digital bridge relies on trusted authentication and logistics, which, if mishandled, could undermine user trust. Additionally, as the platform grows, technical reliability becomes critical—recent wallet access issues elsewhere in the Solana ecosystem highlight the importance of robust infrastructure.\n\n### What To Watch\nUpcoming updates to the Gacha marketplace and user interface, including better stats and mobile support, are already in the works based on community feedback. The next round of user feedback for Jupiter Spot is expected soon, with further incentives likely. Watch for continued growth in $JUP staking and potential buybacks, as well as how the platform manages logistics and transparency for physical collectibles. The success of Gacha could set a precedent for more real-world assets moving onchain in the Solana ecosystem.",
         "takeaways": [
-          "89.7% of Seeker Season 1 SKR airdrop was claimed, with 200M SKR reserved for future drops.",
-          "70% of circulating SKR is locked up, and over 90,000 users are holding the token.",
-          "SKR is being integrated into both digital dApps and real-world experiences, expanding its utility."
+          "Jupiter Gacha lets users pull real, graded Pokémon and One Piece cards onchain.",
+          "Idle USDC in DCA orders now earns yield automatically via Jupiter Lend.",
+          "Over 30% of $JUP supply is staked, reflecting strong user engagement and conviction."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 5.6
+      "narrativeStrength": 7.3
     },
     {
-      "id": "story_1777039719711_2",
-      "title": "XONA and SKR Expand Solana Mobile Utility",
-      "type": "live",
-      "category": "Alpha / Early Access",
-      "author": "@solanamobile",
-      "timestamp": "2026-04-24T14:08:39.711Z",
+      "id": "story_1783966761407_2",
+      "title": "Solana’s Web3 TCG Scene Gains Momentum",
+      "type": "alpha",
+      "category": "Gaming / NFT",
+      "author": "@SolanaSensei",
+      "timestamp": "2026-07-13T18:19:21.407Z",
       "metrics": {
-        "tweets": 7,
-        "engagement": 687,
-        "topTweet": 130,
-        "voices": 3,
+        "tweets": 1,
+        "engagement": 468,
+        "topTweet": 468,
+        "voices": 1,
         "engagementTrend": [
-          275,
-          378,
-          467,
-          563,
-          687
+          187,
+          257,
+          318,
+          383,
+          468
         ]
       },
       "ctPulse": [
         {
-          "handle": "@solanamobile",
-          "thought": "RT @xona_agent: We’re excited to share that XONA is now available on @solanamobile   \n\nWhat started on web is now in your pocket. \n\nDownloa…",
-          "url": "https://twitter.com/solanamobile/status/2047374053208457585"
-        },
-        {
-          "handle": "@solanamobile",
-          "thought": "RT @solana_stream: Just use $SKR for your apps.\n\n$SKR is becoming the shared incentive layer across @solanamobile -  powering rewards, cash…",
-          "url": "https://twitter.com/solanamobile/status/2047357611469873314"
-        },
-        {
-          "handle": "@toly",
-          "thought": "RT @solana_stream: Just use $SKR for your apps.\n\n$SKR is becoming the shared incentive layer across @solanamobile -  powering rewards, cash…",
-          "url": "https://twitter.com/toly/status/2047615171619889276"
-        },
-        {
-          "handle": "@0x_diablo",
-          "thought": "RT @solana_stream: Just use $SKR for your apps.\n\n$SKR is becoming the shared incentive layer across @solanamobile -  powering rewards, cash…",
-          "url": "https://twitter.com/0x_diablo/status/2047339751028490579"
-        },
-        {
-          "handle": "@toly",
-          "thought": "Spend the skr tokens on sama tokens to build an app for @solanamobile to earn more skr. https://t.co/8iirSKxk4t",
-          "url": "https://twitter.com/toly/status/2047670883284914199"
+          "handle": "@SolanaSensei",
+          "thought": "The web3 TCG space is expanding. Here are some projects worth keeping an eye on.\n\n- @Beezie\n- @Collector_Crypt\n- @solflare\n- @mnstr\n- @phygitals\n- @Courtyard_io\n- @Slabzapp\n- @jup_offerbook\n- @gacha_g",
+          "url": "https://twitter.com/SolanaSensei/status/2076283455621812348"
         }
       ],
       "whoToFollow": [
         {
-          "handle": "@xona_agent",
-          "reason": "Leads XONA's development and mobile integration",
-          "role": "Builder",
-          "engagement": 314
+          "handle": "@SolanaSensei",
+          "reason": "Curates and highlights emerging Solana TCG and NFT projects.",
+          "role": "Analyst",
+          "engagement": 468
         },
         {
-          "handle": "@solanamobile",
-          "reason": "Drives Solana Mobile platform and ecosystem updates",
+          "handle": "@mnstr",
+          "reason": "Active in building within the Solana TCG and gaming space.",
           "role": "Builder",
-          "engagement": 189
+          "engagement": 0
         }
       ],
       "content": {
-        "signal": "XONA is now available on Solana Mobile, with SKR tokens powering new app incentives and payments.",
-        "story": "XONA, previously a web-based application, has launched on Solana Mobile, signaling a shift toward more native app experiences within the Solana ecosystem. Alongside this, the SKR token is emerging as a unified incentive and payment layer for Solana Mobile apps, supporting rewards and facilitating transactions. Users can now spend SKR or USDC directly through Solana Mobile to purchase items from platforms like eBay, broadening the practical use of Solana-based assets.\n\n### What's Happening\nXONA’s move from web to mobile brings its functionality directly into users’ pockets, reflecting a broader trend of decentralized apps seeking closer integration with hardware. SKR tokens are being positioned as the backbone for app incentives, rewards, and payments across Solana Mobile, with developers encouraged to leverage SKR to engage users. The ability to use SKR and USDC for real-world purchases, such as eBay listings, demonstrates a tangible bridge between crypto assets and everyday commerce.\n\n### Why It Matters\nThis development highlights Solana Mobile’s push to become more than just a hardware device—it’s aiming to be a platform where apps, tokens, and commerce intersect. The adoption of SKR as a shared incentive layer could streamline user engagement and create a more cohesive ecosystem for both developers and users. Integrating payment options like SKR and USDC for mainstream marketplaces expands the utility of Solana-native assets, potentially attracting a broader user base and encouraging further app development.\n\n### The Risk or Debate\nThe reliance on SKR as a central incentive and payment mechanism introduces questions about token stability, user adoption, and long-term sustainability. If SKR fails to gain traction among developers or users, the incentive model could struggle. There is also uncertainty around the regulatory landscape for crypto payments in consumer commerce, which could impact the growth of these integrations.\n\n### What To Watch\nUpcoming developments to monitor include the rate of adoption for SKR-powered apps on Solana Mobile and feedback from both users and developers. The effectiveness of SKR and USDC payments for real-world purchases, especially through large platforms like eBay, will be a key indicator of success. Further integrations or partnerships that expand the use cases for SKR within and beyond Solana Mobile could signal the next phase of ecosystem growth.",
+        "signal": "A growing roster of trading card game (TCG) projects is emerging on Solana, signaling increased developer and community interest in web3 gaming and NFTs.",
+        "story": "Solana’s ecosystem is seeing a notable uptick in web3 trading card game (TCG) development. A diverse set of projects—ranging from digital collectibles to NFT marketplaces and game infrastructure—are gaining traction, as highlighted by a recent cluster of mentions from active community voices. This expansion suggests that the TCG segment is becoming a focal point for experimentation and user engagement within Solana’s broader NFT and gaming landscape.\n\n### What's Happening\nA wave of new and established projects is converging around the TCG niche on Solana. These include digital card platforms, NFT marketplaces, and tools for collecting, trading, and verifying ownership. The list of active accounts and projects signals a maturing ecosystem with both builders and collectors participating. This activity is not limited to pure gaming; it also includes infrastructure and marketplace solutions that support the trading and authentication of digital cards.\n\nThe diversity of projects—from game studios to NFT infrastructure providers—points to a collaborative environment. Some focus on the gaming experience itself, while others enable the buying, selling, and display of digital cards. The ecosystem is also seeing crossover with physical collectibles and phygital (physical-digital) integrations, broadening the appeal beyond traditional web3 audiences.\n\n### Why It Matters\nThe expansion of TCG projects on Solana is significant for several reasons. First, it demonstrates that Solana remains an attractive platform for gaming and NFT innovation, even as competition intensifies across chains. The presence of both new entrants and established players suggests confidence in Solana’s technical capabilities and user base.\n\nSecond, the TCG format is well-suited to web3’s strengths: provable ownership, scarcity, and secondary market trading. By leveraging these features, Solana-based TCGs can offer experiences that differ from traditional digital card games, potentially attracting both crypto-native users and mainstream collectors. The growth of supporting infrastructure—such as marketplaces and verification tools—further lowers barriers to entry for new projects and users.\n\nFinally, the ecosystem’s collaborative nature could accelerate innovation. As more projects share tools, standards, and audiences, the pace of development and experimentation may increase, benefiting the entire Solana gaming and NFT community.\n\n### The Risk or Debate\nDespite the momentum, risks remain. The TCG space is crowded and competitive, with many projects vying for user attention and liquidity. Not all will achieve lasting traction. There is also a risk of fragmentation, as too many overlapping platforms can dilute network effects and confuse users.\n\nAdditionally, the sustainability of play-to-earn and collectible models is still debated. Market volatility, shifting user preferences, and regulatory scrutiny could impact growth. Projects that fail to deliver engaging gameplay or meaningful utility for their NFTs may struggle to retain users.\n\n### What To Watch\nKey signals to monitor include the launch of new TCG titles and supporting infrastructure, user growth metrics, and the emergence of standout projects that attract sustained engagement. Partnerships between game studios and NFT platforms could drive broader adoption.\n\nKeep an eye on how these projects address onboarding, user retention, and cross-platform interoperability. The success of phygital integrations and secondary markets will also be telling. As the space evolves, expect to see both consolidation and the rise of new leaders within Solana’s web3 TCG scene.",
         "takeaways": [
-          "XONA is now accessible via Solana Mobile, moving from web to native mobile.",
-          "SKR tokens are being used as a shared incentive and payment layer for Solana Mobile apps.",
-          "Users can spend SKR or USDC to buy items from eBay directly through Solana Mobile."
+          "Solana is experiencing a surge in web3 TCG and NFT project development.",
+          "The ecosystem includes both gaming experiences and supporting marketplaces or infrastructure.",
+          "Sustained growth will depend on user engagement, utility, and collaboration among projects."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 4.7
+      "narrativeStrength": 3.9
     }
   ]
 }
