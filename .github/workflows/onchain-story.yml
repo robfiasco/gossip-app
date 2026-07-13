@@ -1,6 +1,8 @@
-name: CT Stories Pipeline
+name: On-Chain Fund Flow Story
 
 on:
+  schedule:
+    - cron: '0 13 * * *' # once daily
   workflow_dispatch:
 
 jobs:
@@ -23,13 +25,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Download signals
-        run: node scripts/downloadSignalsFromKv.mjs
-        env:
-          ADMIN_SECRET: ${{ secrets.ADMIN_SECRET }}
-
-      - name: Run CT pipeline
-        run: npm run run:ctPipeline
+      - name: Generate on-chain fund flow story
+        run: npm run stories:onchain
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
@@ -44,5 +41,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ public/
-          git diff --staged --quiet || git commit -m "chore: ct stories pipeline [skip ci]"
+          git diff --staged --quiet || git commit -m "chore: on-chain fund flow story [skip ci]"
           git push

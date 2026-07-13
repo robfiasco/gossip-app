@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T15:03:36.074Z",
+  "generated_at": "2026-07-13T19:08:44.174Z",
   "global_metrics": {
     "total_tweets": 59,
     "total_engagement": 12904,
@@ -8,150 +8,32 @@
   },
   "items": [
     {
-      "id": "story_1773500603619_0",
-      "title": "Solana Expands Finance Ambitions, Faces New Risks",
+      "id": "story_onchain-fundflow_1783969724172",
+      "source": "onchain-fundflow",
+      "title": "OSL TVL Drops Sharply Despite Recent Gains",
       "type": "critical",
-      "category": "Security / Risk Alert",
-      "author": "@vibhu",
-      "timestamp": "2026-03-14T15:03:23.619Z",
+      "category": "DeFi / Fund Flows",
+      "author": "On-Chain Signal",
+      "timestamp": "2026-07-13T19:08:44.172Z",
       "metrics": {
-        "tweets": 52,
-        "engagement": 11800,
-        "topTweet": 782,
-        "voices": 12,
-        "engagementTrend": [
-          4720,
-          6490,
-          8024,
-          9676,
-          11800
-        ]
+        "protocol": "OSL",
+        "tvlUsd": 19830916.273544617,
+        "change1d": -27.67652883352845,
+        "change7d": 5.7418214992277115
       },
-      "ctPulse": [
-        {
-          "handle": "@vibhu",
-          "thought": "My mandate: ensure Solana captures 90%+ of global finance; that every asset anyone will want to own lives on Solana; that every human has a Solana wallet; that Solana becomes the preeminent network st",
-          "url": "https://twitter.com/vibhu/status/2032574444724449605"
-        },
-        {
-          "handle": "@solanamobile",
-          "thought": "Solana devs are built different \n\nOver 400 teams locked in and shipped apps for the MONOLITH hackathon 🤯 https://t.co/uCi5DPqsRO",
-          "url": "https://twitter.com/solanamobile/status/2032229775465726228"
-        },
-        {
-          "handle": "@vibhu",
-          "thought": "RT @solana: BREAKING: $AVAX from @avax, is now live on Solana via @Sunrise_DeFi 🔺 https://t.co/ZGLJvaOGID",
-          "url": "https://twitter.com/vibhu/status/2032138510338003068"
-        },
-        {
-          "handle": "@jussy_world",
-          "thought": "Solana generated $700K in chain fees in the last 24 hours\n\nThat’s more than all 30+ most hyped chains combined:\n\nBSC - $400k\nBase - $98k\nPolygon - $73k\nArbitrum - $11k\nHyperliquid - $12k\nTON - $8k\nFil",
-          "url": "https://twitter.com/jussy_world/status/2032429124309180750"
-        },
-        {
-          "handle": "@vibhu",
-          "thought": "AVAX is now on @Solana.\n\nAvalanche is a bet that enterprises will want to customize and own a Layer 1 end-to-end.\n\nIf you believe this, you can now invest in the thesis without leaving Solana.",
-          "url": "https://twitter.com/vibhu/status/2032139766037143756"
-        }
-      ],
-      "whoToFollow": [
-        {
-          "handle": "@vibhu",
-          "reason": "Articulates Solana’s strategic vision and ecosystem goals.",
-          "role": "Builder",
-          "engagement": 2773
-        },
-        {
-          "handle": "@SolanaSensei",
-          "reason": "Tracks Solana’s on-chain metrics, ecosystem growth, and key developments.",
-          "role": "Analyst",
-          "engagement": 2294
-        }
-      ],
+      "ctPulse": [],
+      "whoToFollow": [],
       "content": {
-        "signal": "Solana is rapidly scaling its ecosystem with new integrations, user growth, and technical upgrades, but faces fresh security and operational risks as it pushes for dominance in global finance.",
-        "story": "Solana is moving aggressively to position itself as the backbone of global finance. Recent weeks have seen a surge in ecosystem activity: Mastercard has added Solana to its Crypto Partner Program, cross-chain assets like Avalanche’s AVAX are now accessible on Solana, and stablecoin options continue to multiply. At the same time, Solana’s on-chain metrics—transaction count, fees generated, and wallet growth—are outpacing most competitors.\n\n### What's Happening\nSolana’s technical and ecosystem momentum is clear. Over 400 teams participated in the latest MONOLITH hackathon, and the Solana Mobile Stack is now open to all Android hardware makers. The chain processed over 100 billion transactions, with daily fees exceeding those of 30+ other blockchains combined. New proposals like SIMD-0266 promise to make transactions up to 19 times more efficient, with mainnet deployment expected soon.\n\nOn the asset side, AVAX is now live on Solana via Sunrise_DeFi, bringing cross-chain liquidity and new DeFi opportunities. Stablecoin infrastructure is expanding, with Exodus launching a USD-backed token on Solana. Meanwhile, the number of Solana token holders has climbed to over 164 million, reflecting broadening adoption.\n\n### Why It Matters\nSolana’s strategy is to become the default platform for digital assets and financial activity. Integrations with major players like Mastercard signal growing acceptance among traditional finance, while cross-chain support for assets like AVAX makes Solana a more versatile hub for users and developers. The rapid pace of technical upgrades and developer activity suggests a maturing ecosystem capable of supporting complex, high-throughput applications.\n\nThe growth in wallets and transaction volume isn’t just vanity metrics—it reflects real user engagement and a shift in where on-chain activity is happening. As more neobank and DeFi projects launch on Solana, the foundation is being laid for a new generation of on-chain financial products that could challenge legacy banking infrastructure.\n\n### The Risk or Debate\nWith rapid growth comes increased risk. Expanding cross-chain functionality introduces new attack surfaces, especially as assets like AVAX bridge into Solana’s ecosystem. The rush to ship new apps and protocols—evident in the hackathon activity—raises concerns about code quality and security. Major protocol upgrades, such as the introduction of p-tokens, could have unforeseen consequences if not thoroughly tested.\n\nThere’s also debate about whether Solana’s focus on speed and low fees may come at the expense of decentralization or resilience. As the ecosystem grows more complex, operational risks and the potential for exploits increase. The challenge will be maintaining security and reliability as Solana scales.\n\n### What To Watch\nKey developments to monitor include the rollout of SIMD-0266 and its impact on network performance, the adoption of new stablecoins and cross-chain assets, and further integrations with traditional finance players. Watch for security audits and incident reports as new protocols go live, and track how user and developer growth translates into sustainable, real-world usage.\n\nThe next few months will test whether Solana can balance rapid innovation with the security and stability required to support its global finance ambitions.",
+        "signal": "OSL\u2019s total value locked fell 27.7% in the past 24 hours, now sitting at $19.8 million.",
+        "story": "OSL, a centralized exchange protocol active across major blockchains, saw its total value locked (TVL) drop by nearly 28% in the last day. This sharp decline comes after a week in which OSL\u2019s TVL had actually grown by almost 6%. The sudden reversal has drawn attention, given OSL\u2019s broad presence on networks like Ethereum, Solana, Binance, and others.\n\n### What's Happening\n\nThe core signal is a rapid outflow of funds from OSL, with TVL falling from recent highs to $19.8 million. This is a significant move for a protocol of OSL\u2019s size, especially as it follows a period of steady growth over the previous week. The drop is notable because it stands out against the backdrop of generally stable or rising TVL across many DeFi and CEX platforms recently.\n\nOSL operates across a wide range of chains, including both major and emerging networks. The multi-chain footprint means that changes in TVL could reflect shifts in user confidence, cross-chain liquidity, or internal protocol adjustments. However, the available data only points to the magnitude and timing of the outflow, not its specific drivers.\n\n### Why It Matters\n\nTVL is a key metric for gauging user trust and protocol health, especially for centralized exchange protocols that rely on pooled assets. A sudden drop of nearly a third in TVL can signal shifting user preferences, concerns about security, or changes in OSL\u2019s product offering. Even for a protocol with a diversified chain presence, such a move is material.\n\nThe fact that OSL had posted week-over-week gains before this drop adds complexity. It suggests the outflow was not part of a longer-term trend, but rather a discrete event or decision. For users and observers, this kind of volatility can raise questions about what triggered the move and whether it\u2019s a one-off or the start of a new pattern.\n\n### The Risk or Debate\n\nThe main risk is uncertainty about the cause of the outflow. Without more granular data, it\u2019s unclear whether the drop was driven by large withdrawals, operational changes, or external factors. For protocols like OSL, rapid TVL swings can impact liquidity, trading experience, and user perception.\n\nThere\u2019s also a debate about how much TVL should matter for centralized protocols, as opposed to decentralized ones. Still, a move of this size is hard to ignore, especially if it signals deeper issues or prompts further withdrawals.\n\n### What To Watch\n\nThe next few days will be key for understanding whether OSL\u2019s TVL stabilizes, rebounds, or continues to fall. Any official communication from OSL, or visible changes in user experience, could provide clues about the underlying cause. Observers should also watch for similar moves on other chains or protocols, which could indicate broader trends.\n\nIf the outflow was isolated, OSL may recover quickly. If not, it could prompt a closer look at the protocol\u2019s risk management and user engagement strategies.",
         "takeaways": [
-          "Solana is integrating with major financial players and expanding cross-chain support.",
-          "Technical upgrades and developer activity are driving rapid ecosystem growth.",
-          "Security and operational risks are rising as the network scales and new protocols launch."
+          "OSL\u2019s TVL dropped nearly 28% in 24 hours, reversing recent gains.",
+          "The protocol operates across multiple major and emerging blockchains.",
+          "The cause of the outflow is unclear, making near-term developments important to watch."
         ]
       },
       "riskLevel": "medium",
-      "narrativeStrength": 8.8
-    },
-    {
-      "id": "story_1773500616074_1",
-      "title": "DLMM Agents on Meteora: Data-Driven LP Strategies Emerge",
-      "type": "alpha",
-      "category": "AI / Agents",
-      "author": "@0xyunss",
-      "timestamp": "2026-03-14T15:03:36.074Z",
-      "metrics": {
-        "tweets": 7,
-        "engagement": 1104,
-        "topTweet": 294,
-        "voices": 3,
-        "engagementTrend": [
-          441,
-          607,
-          750,
-          905,
-          1104
-        ]
-      },
-      "ctPulse": [
-        {
-          "handle": "@0xyunss",
-          "thought": "kebanyakan orang buka posisi DLMM di @MeteoraAG pakai support and resistance buat nentuin rangenya. gua dulu juga gitu. tapi sekarang ada cara yang lebih objektif dan datanya ada langsung di depan muk",
-          "url": "https://twitter.com/0xyunss/status/2032286776740446636"
-        },
-        {
-          "handle": "@SolanaSensei",
-          "thought": "Meteora's stats are insane, they generate:\n\n- $41 per sec\n- $2,491 per min\n- $149,473 per hour\n\n90.75% of this goes directly to liquidity providers! https://t.co/pUzSpacypc",
-          "url": "https://twitter.com/SolanaSensei/status/2032797406241452339"
-        },
-        {
-          "handle": "@0xyunss",
-          "thought": "i vibecoded a DLMM agent that runs multi-hour LP positions on @MeteoraAG and it just went from 0.6 sol to 1 sol in 3 days.\n\nthe interesting part isn't the pnl. it's how the agent decides where to ente",
-          "url": "https://twitter.com/0xyunss/status/2032441729719439843"
-        },
-        {
-          "handle": "@met_lparmy",
-          "thought": "Top performing pools on Meteora today, sorted by 24h Fee.  \n\nDid you join any pool today? https://t.co/MAjvTqpm9h",
-          "url": "https://twitter.com/met_lparmy/status/2032536126611771594"
-        },
-        {
-          "handle": "@0xyunss",
-          "thought": "macrohard-sol just gib me one of the cleanest 15-minute plays i've had this week. $272.94 profit, 16.01% pnl, out before most people even noticed the move. let me break down exactly what happened.\n\nth",
-          "url": "https://twitter.com/0xyunss/status/2032074818884096203"
-        }
-      ],
-      "whoToFollow": [
-        {
-          "handle": "@0xyunss",
-          "reason": "Shares hands-on insights and experiments with DLMM agents on Meteora.",
-          "role": "Trader",
-          "engagement": 703
-        },
-        {
-          "handle": "@SolanaSensei",
-          "reason": "Provides data-driven analysis of Solana DeFi protocols, including Meteora.",
-          "role": "Analyst",
-          "engagement": 289
-        }
-      ],
-      "content": {
-        "signal": "Solana LPs on Meteora are shifting from manual range setting to agent-driven, data-backed strategies using real-time metrics and behavioral analysis.",
-        "story": "Liquidity providers (LPs) on Solana’s Meteora platform are moving beyond traditional methods for setting Dynamic Liquidity Market Maker (DLMM) ranges. Instead of relying solely on support and resistance levels, a growing number of users are leveraging new data tools and automated agents to optimize their positions. This shift is being driven by access to real-time metrics—like volatility and fees relative to active TVL—and by the ability to analyze the behavior of top-performing LPs directly within the platform’s Dynamic Terminal.\n\n### What's Happening\n\nRecent experiments by advanced users show that agents can be trained using both historical frameworks and live data feeds, such as those from lpagent.io. These agents analyze the strategies of the most successful LPs in any given pool, then adjust their own range and timing accordingly. One example: an agent running multi-hour LP positions was able to grow a position from 0.6 SOL to 1 SOL in three days, not by chasing price action, but by systematically mirroring the patterns of top performers and reacting to volatility spikes.\n\nThe data-driven approach is reinforced by Meteora’s transparent stats, which show substantial fee generation—over $149,000 per hour, with more than 90% going directly to LPs. This level of transparency and profitability is attracting both manual and automated strategies, with some traders reporting double-digit percentage returns on well-timed, single-sided LP deployments after major token moves.\n\n### Why It Matters\n\nThis evolution marks a significant step for the Solana DeFi ecosystem. By moving from subjective, chart-based range setting to objective, data-informed strategies, LPs can potentially reduce human error and emotional bias. The integration of agent frameworks and behavioral analytics means that even non-technical users can benefit from sophisticated tactics previously reserved for quant teams.\n\nThe high fee capture and rapid feedback loops on Meteora are accelerating experimentation. As more LPs adopt agent-driven approaches, the market may become more efficient, with tighter spreads and less predictable opportunities for manual traders. The ability to analyze and replicate the behavior of top LPs also democratizes access to advanced strategies, leveling the playing field for smaller participants.\n\n### The Risk or Debate\n\nThe main risk lies in overfitting to recent behavioral data or blindly following the crowd. If too many agents converge on similar strategies, pools could become crowded, reducing profitability and increasing the risk of sudden drawdowns. There’s also the challenge of interpreting volatility and fee metrics correctly—misreading these signals can lead to poorly timed entries or exits, especially in fast-moving or illiquid pools.\n\nAnother potential debate is whether agent-driven LPing will erode the edge for discretionary traders, or simply raise the bar for everyone. As automation spreads, the ecosystem could see more rapid cycles of strategy obsolescence and adaptation.\n\n### What To Watch\n\nExpect continued growth in agent-based LP strategies on Meteora and other Solana platforms. Watch for new data tools and APIs that make it easier to analyze pool dynamics and top LP behavior in real time. It’s also worth monitoring how fee distribution and pool profitability evolve as more users deploy automated tactics. Finally, keep an eye on whether similar approaches spread to other DeFi protocols, potentially reshaping how liquidity is provided across the ecosystem.",
-        "takeaways": [
-          "LPs on Meteora are shifting from manual to agent-driven, data-backed strategies.",
-          "Real-time metrics and behavioral analytics are now central to setting DLMM ranges.",
-          "High fee capture and transparent stats are fueling rapid adoption of automated LP tactics."
-        ]
-      },
-      "riskLevel": "medium",
-      "narrativeStrength": 4.9
+      "narrativeStrength": 6.4
     }
   ]
 }
