@@ -1,60 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-07-13T10:22:05.778Z",
-    "totalCandidates": 93,
-    "solanaCandidates": 18,
+    "generatedAt": "2026-07-13T20:11:51.310Z",
+    "totalCandidates": 95,
+    "solanaCandidates": 22,
     "selected": 5,
     "tweetPool": 0,
     "narrativeKeywordsCount": 0
   },
   "items": [
     {
-      "id": "https://solana.com/news/skhy-is-now-live",
-      "title": "The Sun Rises in Seoul and Trades on Solana: $SKHY is Now Live",
-      "url": "https://solana.com/news/skhy-is-now-live",
-      "source": "Solana News",
-      "publishedAt": "2026-07-10T12:00:00.000Z",
-      "summary": "SK Hynix ($SKHY), South Korea’s dominant memory-chip maker, is now live on Solana.",
-      "tags": [
-        "rises",
-        "seoul",
-        "trades"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 14,
-        "mentionScore": 0,
-        "recencyScore": 5,
-        "sourceScore": 5,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "66f0567eb34a6459f9e27c82e3dd2265d3035579",
-      "score": 24
-    },
-    {
-      "id": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin",
-      "title": "Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report",
-      "url": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin",
+      "id": "https://www.theblock.co/post/408059/onchain-pokemon-cards-come-to-solana-based-dex-jupiter",
+      "title": "Onchain Pokémon cards come to Solana-based DEX Jupiter",
+      "url": "https://www.theblock.co/post/408059/onchain-pokemon-cards-come-to-solana-based-dex-jupiter",
       "source": "The Block",
-      "publishedAt": "2026-07-13T08:19:26.000Z",
-      "summary": "The central bank and the SEC have reportedly begun using data analytics tools to examine abnormal stablecoin trades, with a focus on USDT.",
+      "publishedAt": "2026-07-13T16:56:34.000Z",
+      "summary": "While tokenized Pokémon cards aren’t new, having Jupiter enter the space could give the whole category a legitimacy boost.",
       "tags": [
-        "bank",
-        "thailand",
-        "audits"
+        "onchain",
+        "cards",
+        "come"
       ],
       "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "whyItMatters": "Flow and volume shifts here usually show up first in Solana risk appetite.",
       "mentionCount": 0,
       "xMentions": 0,
       "who": [],
@@ -64,95 +31,29 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": 8,
+        "relevanceScore": 18,
         "mentionScore": 0,
         "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d35d7a61d4eec2ce8179219d4c015d0cc25832ca",
-      "score": 22
+      "dedupeFingerprint": "fdbcc28fdefefce6c678d9495e4bc9379f68611c",
+      "score": 32
     },
     {
-      "id": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending",
-      "title": "Japan’s SBI Group to launch JPYSC stablecoin lending service this month",
-      "url": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending",
-      "source": "The Block",
-      "publishedAt": "2026-07-13T07:22:28.000Z",
-      "summary": "The SBI's service would offer users a 3% annual yield for deposited JPYSC stablecoins, according to Nikkei.",
-      "tags": [
-        "japan",
-        "group",
-        "launch"
-      ],
-      "topicBucket": "defi",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": 8,
-        "mentionScore": 0,
-        "recencyScore": 10,
-        "sourceScore": 4,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "82aa0c915334451d2f66a6662975fe5597cb03ce",
-      "score": 22
-    },
-    {
-      "id": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal",
-      "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
-      "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-07-12T04:28:00.000Z",
-      "summary": "The ongoing debate over a proposed temporary fork comes despite a broad downturn in Ordinals transaction activity over the last two years.",
-      "tags": [
-        "bitcoin",
-        "bulls",
-        "michael"
-      ],
-      "topicBucket": "general",
-      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
-      "mentionCount": 0,
-      "xMentions": 0,
-      "who": [],
-      "xWho": [],
-      "mentionedBy": [],
-      "matchReason": "none",
-      "narrativesMatched": [],
-      "premiumNarrativesMatched": [],
-      "scoreBreakdown": {
-        "relevanceScore": -1,
-        "mentionScore": 0,
-        "recencyScore": 8,
-        "sourceScore": 0,
-        "narrativeScore": 0,
-        "premiumNarrativeScore": 0
-      },
-      "dedupeFingerprint": "6590f31ed4b2ad7e541159fae1e558a725792c65",
-      "score": 7
-    },
-    {
-      "id": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
-      "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
-      "url": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+      "id": "https://www.coindesk.com/business/2026/07/13/sbi-holdings-blockchain-initiative-pivots-to-solana-for-tokenization-stablecoin-issuance",
+      "title": "SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance",
+      "url": "https://www.coindesk.com/business/2026/07/13/sbi-holdings-blockchain-initiative-pivots-to-solana-for-tokenization-stablecoin-issuance",
       "source": "CoinDesk",
-      "publishedAt": "2026-07-12T05:49:52.000Z",
-      "summary": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Michael Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.",
+      "publishedAt": "2026-07-13T11:40:51.000Z",
+      "summary": "The SBI Solana Global joint venture now includes the Solana Foundation, the Swiss organization that oversees the layer-1 network.",
       "tags": [
-        "bitcoin",
-        "fork",
-        "deadline"
+        "holdings",
+        "blockchain",
+        "initiative"
       ],
-      "topicBucket": "market",
+      "topicBucket": "defi",
       "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
       "mentionCount": 0,
       "xMentions": 0,
@@ -163,15 +64,114 @@
       "narrativesMatched": [],
       "premiumNarrativesMatched": [],
       "scoreBreakdown": {
-        "relevanceScore": -3,
+        "relevanceScore": 13,
         "mentionScore": 0,
-        "recencyScore": 8,
+        "recencyScore": 10,
         "sourceScore": 4,
         "narrativeScore": 0,
         "premiumNarrativeScore": 0
       },
-      "dedupeFingerprint": "d89fb5525e8eb1131da0e207c2025e8b10a6d3a4",
-      "score": -1
+      "dedupeFingerprint": "fb572cf90e7d1c78625d1b7ec8391c6de37033c4",
+      "score": 27
+    },
+    {
+      "id": "https://ambcrypto.com/uk-says-tokenized-markets-could-unlock-33b-economic-boost-by-2035",
+      "title": "UK says tokenized markets could unlock £33B economic boost by 2035",
+      "url": "https://ambcrypto.com/uk-says-tokenized-markets-could-unlock-33b-economic-boost-by-2035",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-13T15:48:11.000Z",
+      "summary": "The UK could unlock a £33 billion economic boost by 2035 according to a government-commissioned report calling for stablecoin-enabled settlement.",
+      "tags": [
+        "says",
+        "tokenized",
+        "markets"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Token supply mechanics can move short-term flows fast.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 11,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "429d9117bf67cebcceff6debcacd77c4e55144d5",
+      "score": 22
+    },
+    {
+      "id": "https://www.theblock.co/post/408010/sbi-holdings-solana-foundation-partner-to-build-japan-based-onchain-financial-market",
+      "title": "SBI Holdings, Solana Foundation partner to build Japan-based onchain financial market",
+      "url": "https://www.theblock.co/post/408010/sbi-holdings-solana-foundation-partner-to-build-japan-based-onchain-financial-market",
+      "source": "The Block",
+      "publishedAt": "2026-07-13T10:39:44.000Z",
+      "summary": "SBI and the Solana Foundation are collaborating to build an onchain financial market with SBI R3 rebranding to SBI Solana Global.",
+      "tags": [
+        "holdings",
+        "solana",
+        "foundation"
+      ],
+      "topicBucket": "general",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 8,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 4,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "b43e79d1017a8d3a8139bc9d6714ba52dc86db68",
+      "score": 22
+    },
+    {
+      "id": "https://ambcrypto.com/407m-in-buybacks-remove-15-of-pumps-supply-0-001698-is-in-sight",
+      "title": "$407M in buybacks remove 15% of PUMP’s supply – $0.001698 is in sight",
+      "url": "https://ambcrypto.com/407m-in-buybacks-remove-15-of-pumps-supply-0-001698-is-in-sight",
+      "source": "AMB Crypto",
+      "publishedAt": "2026-07-13T17:00:32.000Z",
+      "summary": "Pump.fun's annualized revenue has reached $344 million, funding more than $407 million in buybacks.",
+      "tags": [
+        "407m",
+        "buybacks",
+        "remove"
+      ],
+      "topicBucket": "tokenomics",
+      "whyItMatters": "Keep this on radar — it can shift near-term SOL narrative and positioning.",
+      "mentionCount": 0,
+      "xMentions": 0,
+      "who": [],
+      "xWho": [],
+      "mentionedBy": [],
+      "matchReason": "none",
+      "narrativesMatched": [],
+      "premiumNarrativesMatched": [],
+      "scoreBreakdown": {
+        "relevanceScore": 3,
+        "mentionScore": 0,
+        "recencyScore": 10,
+        "sourceScore": 1,
+        "narrativeScore": 0,
+        "premiumNarrativeScore": 0
+      },
+      "dedupeFingerprint": "7a08ba665e8510c651106f61f30f6fc962d75775",
+      "score": 14
     }
   ]
 }
