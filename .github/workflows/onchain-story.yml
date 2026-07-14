@@ -1,4 +1,4 @@
-name: On-Chain Fund Flow Story
+name: On-Chain Signal Stories
 
 on:
   schedule:
@@ -30,6 +30,11 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
+      - name: Generate market mover story
+        run: npm run stories:marketmover
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
       - name: Sync to KV
         run: node scripts/syncToKv.mjs --stories-only
         env:
@@ -41,5 +46,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ public/
-          git diff --staged --quiet || git commit -m "chore: on-chain fund flow story [skip ci]"
+          git diff --staged --quiet || git commit -m "chore: on-chain signal stories [skip ci]"
           git push
