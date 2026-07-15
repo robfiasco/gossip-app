@@ -17,6 +17,7 @@ try {
 } catch { }
 
 import fs from 'fs';
+import Parser from 'rss-parser';
 
 const OUTPUT_PATH = './public/data/validator_stories.json';
 const OUTPUT_PATH_MIRROR = './data/validator_stories.json';
@@ -30,6 +31,22 @@ const STORY_PROMPT = fs.readFileSync(PROMPT_PATH, 'utf-8');
 // ============================================================================
 // SIGNAL SOURCING
 // ============================================================================
+
+// Best-effort context for "why" - the model still shouldn't force a connection
+// if nothing recent is actually relevant to the signal (see prompt's hard rules).
+async function fetchRecentNews(name) {
+  try {
+    const parser = new Parser();
+    const query = encodeURIComponent(`"${name}" solana`);
+    const feed = await parser.parseURL(`https://news.google.com/rss/search?q=${query}+when:14d&hl=en-US&gl=US&ceid=US:en`);
+    return (feed.items || []).slice(0, 5).map((item) => ({
+      title: item.title,
+      pubDate: item.pubDate,
+    }));
+  } catch {
+    return [];
+  }
+}
 
 async function findBiggestTvlMover() {
   const res = await fetch('https://api.llama.fi/protocols');
@@ -73,7 +90,7 @@ async function fetchProtocolToken(protocol) {
   }
 }
 
-function buildFacts(protocol, token) {
+function buildFacts(protocol, token, news) {
   const direction = protocol.change_1d >= 0 ? 'rose' : 'fell';
   const tokenClause = token ? ` Its token ${token.symbol} currently trades at ${formatUsd(token.priceUsd)}.` : '';
   const narrative = `${protocol.name} TVL ${direction} ${Math.abs(protocol.change_1d).toFixed(1)}% in the last 24h to ${formatUsd(protocol.tvl)}.${tokenClause}`;
@@ -88,6 +105,10 @@ function buildFacts(protocol, token) {
       ? `7d change: ${protocol.change_7d >= 0 ? '+' : ''}${protocol.change_7d.toFixed(2)}%`
       : null,
     token ? `Token: ${token.symbol}, currently ${formatUsd(token.priceUsd)}` : 'Token: none (this protocol has no associated token)',
+    '',
+    news.length > 0
+      ? `Recent headlines (last 14 days, may or may not be related - only use if clearly about this protocol/event):\n${news.map((n) => `- ${n.title} (${n.pubDate})`).join('\n')}`
+      : 'Recent headlines: none found.',
   ].filter(Boolean);
 
   return { narrative, context: lines.join('\n') };
@@ -181,7 +202,10 @@ async function generateStory() {
   const token = await fetchProtocolToken(protocol);
   console.log(token ? `🪙 Token found: ${token.symbol} @ ${formatUsd(token.priceUsd)}` : '🪙 No associated token');
 
-  const { narrative, context } = buildFacts(protocol, token);
+  const news = await fetchRecentNews(protocol.name);
+  console.log(`📰 Recent headlines found: ${news.length}`);
+
+  const { narrative, context } = buildFacts(protocol, token, news);
   const category = 'DeFi / Fund Flows';
 
   const prompt = STORY_PROMPT

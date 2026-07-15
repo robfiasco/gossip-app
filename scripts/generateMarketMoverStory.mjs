@@ -17,6 +17,7 @@ try {
 } catch { }
 
 import fs from 'fs';
+import Parser from 'rss-parser';
 
 const OUTPUT_PATH = './public/data/validator_stories.json';
 const OUTPUT_PATH_MIRROR = './data/validator_stories.json';
@@ -30,6 +31,22 @@ const MIN_VOLUME_USD = 1_000_000;
 const MEME_CATEGORIES = ['meme-token', 'solana-meme-coins'];
 
 const STORY_PROMPT = fs.readFileSync(PROMPT_PATH, 'utf-8');
+
+// Best-effort context for "why" - the model still shouldn't force a connection
+// if nothing recent is actually relevant to the signal (see prompt's hard rules).
+async function fetchRecentNews(name) {
+  try {
+    const parser = new Parser();
+    const query = encodeURIComponent(`"${name}" solana`);
+    const feed = await parser.parseURL(`https://news.google.com/rss/search?q=${query}+when:14d&hl=en-US&gl=US&ceid=US:en`);
+    return (feed.items || []).slice(0, 5).map((item) => ({
+      title: item.title,
+      pubDate: item.pubDate,
+    }));
+  } catch {
+    return [];
+  }
+}
 
 // ============================================================================
 // SIGNAL SOURCING
@@ -76,7 +93,7 @@ function formatUsd(n) {
   return `$${n.toFixed(4)}`;
 }
 
-function buildFacts(coin) {
+function buildFacts(coin, news) {
   const direction = coin.price_change_percentage_24h >= 0 ? 'rose' : 'fell';
   const narrative = `${coin.name} (${coin.symbol.toUpperCase()}) ${direction} ${Math.abs(coin.price_change_percentage_24h).toFixed(1)}% in the last 24h to ${formatUsd(coin.current_price)}.`;
 
@@ -89,6 +106,10 @@ function buildFacts(coin) {
     typeof coin.price_change_percentage_7d_in_currency === 'number'
       ? `7d change: ${coin.price_change_percentage_7d_in_currency >= 0 ? '+' : ''}${coin.price_change_percentage_7d_in_currency.toFixed(2)}%`
       : null,
+    '',
+    news.length > 0
+      ? `Recent headlines (last 14 days, may or may not be related - only use if clearly about this token/event):\n${news.map((n) => `- ${n.title} (${n.pubDate})`).join('\n')}`
+      : 'Recent headlines: none found.',
   ].filter(Boolean);
 
   return { narrative, context: lines.join('\n') };
@@ -179,7 +200,10 @@ async function generateStory() {
   const coin = await findBiggestMover();
   console.log(`📊 Biggest Solana ecosystem mover: ${coin.name} (${coin.price_change_percentage_24h.toFixed(2)}% / 24h)`);
 
-  const { narrative, context } = buildFacts(coin);
+  const news = await fetchRecentNews(coin.name);
+  console.log(`📰 Recent headlines found: ${news.length}`);
+
+  const { narrative, context } = buildFacts(coin, news);
   const category = 'Market Movers';
 
   const prompt = STORY_PROMPT

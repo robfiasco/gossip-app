@@ -28,6 +28,12 @@ Turn the data into a **400–600 word intelligence story** that explains:
 
 Do NOT invent facts, protocols, numbers, or claims that are not present in the source data.
 
+The source data includes a "Recent headlines" list. These are search results, not confirmed causes —
+most of the time none of them will actually explain this specific signal. Only reference a headline if
+it is clearly and specifically about this protocol/token or a directly related event (e.g. an incentive
+program, exploit, listing, or partnership). If nothing in the list is clearly relevant, say the cause is
+unclear and move on — do not stretch an unrelated headline into a fake explanation.
+
 ---
 
 ## Writing Style
