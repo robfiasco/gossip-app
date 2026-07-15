@@ -52,12 +52,31 @@ async function findBiggestTvlMover() {
 function formatUsd(n) {
   if (n >= 1_000_000_000) return `$${(n / 1_000_000_000).toFixed(2)}B`;
   if (n >= 1_000_000) return `$${(n / 1_000_000).toFixed(1)}M`;
-  return `$${Math.round(n).toLocaleString()}`;
+  if (n >= 1) return `$${Math.round(n).toLocaleString()}`;
+  return `$${n.toFixed(4)}`;
 }
 
-function buildFacts(protocol) {
+// Protocols aren't always tokens (e.g. vaults/allocators) - DefiLlama marks those with symbol "-".
+// When there is a real token, its mint address lets us get an exact price with no symbol ambiguity.
+async function fetchProtocolToken(protocol) {
+  if (!protocol.symbol || protocol.symbol === '-' || !protocol.address) return null;
+
+  try {
+    const res = await fetch(`https://coins.llama.fi/prices/current/${protocol.address}`);
+    if (!res.ok) return null;
+    const data = await res.json();
+    const coin = data?.coins?.[protocol.address];
+    if (!coin || typeof coin.price !== 'number') return null;
+    return { symbol: protocol.symbol.toUpperCase(), priceUsd: coin.price };
+  } catch {
+    return null;
+  }
+}
+
+function buildFacts(protocol, token) {
   const direction = protocol.change_1d >= 0 ? 'rose' : 'fell';
-  const narrative = `${protocol.name} TVL ${direction} ${Math.abs(protocol.change_1d).toFixed(1)}% in the last 24h to ${formatUsd(protocol.tvl)}.`;
+  const tokenClause = token ? ` Its token ${token.symbol} currently trades at ${formatUsd(token.priceUsd)}.` : '';
+  const narrative = `${protocol.name} TVL ${direction} ${Math.abs(protocol.change_1d).toFixed(1)}% in the last 24h to ${formatUsd(protocol.tvl)}.${tokenClause}`;
 
   const lines = [
     `Protocol: ${protocol.name}`,
@@ -68,6 +87,7 @@ function buildFacts(protocol) {
     typeof protocol.change_7d === 'number'
       ? `7d change: ${protocol.change_7d >= 0 ? '+' : ''}${protocol.change_7d.toFixed(2)}%`
       : null,
+    token ? `Token: ${token.symbol}, currently ${formatUsd(token.priceUsd)}` : 'Token: none (this protocol has no associated token)',
   ].filter(Boolean);
 
   return { narrative, context: lines.join('\n') };
@@ -158,7 +178,10 @@ async function generateStory() {
   const protocol = await findBiggestTvlMover();
   console.log(`📊 Biggest Solana TVL mover: ${protocol.name} (${protocol.change_1d.toFixed(2)}% / 24h)`);
 
-  const { narrative, context } = buildFacts(protocol);
+  const token = await fetchProtocolToken(protocol);
+  console.log(token ? `🪙 Token found: ${token.symbol} @ ${formatUsd(token.priceUsd)}` : '🪙 No associated token');
+
+  const { narrative, context } = buildFacts(protocol, token);
   const category = 'DeFi / Fund Flows';
 
   const prompt = STORY_PROMPT
@@ -182,11 +205,14 @@ async function generateStory() {
     category,
     author: 'On-Chain Signal',
     timestamp: new Date().toISOString(),
+    sourceUrl: protocol.url || null,
     metrics: {
       protocol: protocol.name,
       tvlUsd: protocol.tvl,
       change1d: protocol.change_1d,
       change7d: protocol.change_7d ?? null,
+      tokenSymbol: token?.symbol ?? null,
+      tokenPriceUsd: token?.priceUsd ?? null,
     },
     ctPulse: [],
     whoToFollow: [],

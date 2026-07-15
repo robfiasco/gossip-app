@@ -137,17 +137,12 @@ export type NewsCard = {
     role?: string;
     engagement?: number | null;
   }>;
-  stats?: {
-    total_tweets?: number | null;
-    total_engagement?: number | null;
-    top_engagement?: number | null;
-    unique_users?: number | null;
-  };
+  sourceUrl?: string | null;
   metrics?: {
-    tweets?: number | null;
-    engagement?: number | null;
-    voices?: number | null;
-    topTweet?: number | null;
+    symbol?: string | null;
+    tokenSymbol?: string | null;
+    priceUsd?: number | null;
+    tokenPriceUsd?: number | null;
   };
   citations?: Array<{ handle: string; link: string }>;
 

@@ -184,6 +184,7 @@ async function generateStory() {
     category,
     author: 'On-Chain Signal',
     timestamp: new Date().toISOString(),
+    sourceUrl: `https://www.coingecko.com/en/coins/${coin.id}`,
     metrics: {
       token: coin.name,
       symbol: coin.symbol.toUpperCase(),

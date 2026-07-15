@@ -26,6 +26,14 @@ type Story = {
     ctPulse?: Array<{ handle?: string; thought?: string; url?: string }>;
     whoToFollow?: Array<{ handle?: string; reason?: string; role?: string }>;
     narrativeStrength?: number;
+    sourceUrl?: string | null;
+    metrics?: { symbol?: string | null; tokenSymbol?: string | null; priceUsd?: number | null; tokenPriceUsd?: number | null };
+};
+
+const formatTokenPrice = (price: number) => {
+    if (price >= 1) return `$${price.toFixed(2)}`;
+    if (price >= 0.01) return `$${price.toFixed(4)}`;
+    return `$${price.toPrecision(3)}`;
 };
 
 export default function StoryDetail({ story, index, total, onBack, publishDate }: { story: Story; index: number; total: number; onBack: () => void; publishDate?: string | null }) {
@@ -34,6 +42,9 @@ export default function StoryDetail({ story, index, total, onBack, publishDate }
     const keyQuotes = Array.isArray(sections.keyQuotes) ? sections.keyQuotes : [];
     const keyPlayers = Array.isArray(sections.keyPlayers) ? sections.keyPlayers : [];
     const takeaways = Array.isArray(story?.takeaways) ? story.takeaways : [];
+    const tokenSymbol = story?.metrics?.tokenSymbol || story?.metrics?.symbol || null;
+    const tokenPrice = story?.metrics?.tokenPriceUsd ?? story?.metrics?.priceUsd ?? null;
+    const sourceUrl = story?.sourceUrl || null;
 
     const fullText = String(story?.content?.story || story?.story || story?.narrative || "")
         .replace(/\[object Object\]/g, "")
@@ -135,6 +146,24 @@ export default function StoryDetail({ story, index, total, onBack, publishDate }
                                 <li key={`${takeaway}-${idx}`}>{takeaway}</li>
                             ))}
                         </ul>
+                    </section>
+                ) : null
+            }
+
+            {
+                (tokenSymbol || sourceUrl) ? (
+                    <section className="seeker-detail-card">
+                        {tokenSymbol && (
+                            <p>
+                                <strong>{tokenSymbol}</strong>
+                                {typeof tokenPrice === "number" && ` — ${formatTokenPrice(tokenPrice)}`}
+                            </p>
+                        )}
+                        {sourceUrl && (
+                            <a href={sourceUrl} target="_blank" rel="noopener noreferrer" className="seeker-handle-chip">
+                                View Source ↗
+                            </a>
+                        )}
                     </section>
                 ) : null
             }
