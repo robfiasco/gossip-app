@@ -25,6 +25,9 @@ const PROMPT_PATH = './prompts/onchain_story_prompt.md';
 const SOURCE_TAG = 'onchain-marketmover';
 const MIN_MARKET_CAP_USD = 10_000_000;
 const MIN_VOLUME_USD = 1_000_000;
+// "Biggest 24h mover" structurally favors thin-float joke tokens - exclude anything
+// CoinGecko itself categorizes as a meme coin so this stays infra/ecosystem signal, not noise.
+const MEME_CATEGORIES = ['meme-token', 'solana-meme-coins'];
 
 const STORY_PROMPT = fs.readFileSync(PROMPT_PATH, 'utf-8');
 
@@ -32,19 +35,35 @@ const STORY_PROMPT = fs.readFileSync(PROMPT_PATH, 'utf-8');
 // SIGNAL SOURCING
 // ============================================================================
 
+async function fetchMemeCoinIds() {
+  const ids = new Set();
+  for (const category of MEME_CATEGORIES) {
+    try {
+      const res = await fetch(`https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&category=${category}&per_page=250&page=1`);
+      if (!res.ok) continue;
+      const coins = await res.json();
+      coins.forEach((c) => ids.add(c.id));
+    } catch { /* best-effort filter - don't fail the run over it */ }
+  }
+  return ids;
+}
+
 async function findBiggestMover() {
   const url = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&category=solana-ecosystem&order=market_cap_desc&per_page=250&page=1&price_change_percentage=24h,7d';
   const res = await fetch(url);
   if (!res.ok) throw new Error(`CoinGecko fetch failed: ${res.status}`);
   const coins = await res.json();
 
+  const memeIds = await fetchMemeCoinIds();
+
   const candidates = coins.filter((c) =>
     typeof c.price_change_percentage_24h === 'number' &&
     (c.market_cap || 0) >= MIN_MARKET_CAP_USD &&
-    (c.total_volume || 0) >= MIN_VOLUME_USD
+    (c.total_volume || 0) >= MIN_VOLUME_USD &&
+    !memeIds.has(c.id)
   );
 
-  if (candidates.length === 0) throw new Error('No qualifying Solana ecosystem tokens found');
+  if (candidates.length === 0) throw new Error('No qualifying non-meme Solana ecosystem tokens found');
 
   candidates.sort((a, b) => Math.abs(b.price_change_percentage_24h) - Math.abs(a.price_change_percentage_24h));
   return candidates[0];

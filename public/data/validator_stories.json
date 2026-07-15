@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-15T14:14:54.101Z",
+  "generated_at": "2026-07-15T17:22:26.194Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1784124894098",
+      "id": "story_onchain-marketmover_1784136146191",
       "source": "onchain-marketmover",
-      "title": "Billions Network (BILL) Drops 33% as Trading Surges",
-      "type": "critical",
+      "title": "Alchemist AI Drops 13% as Trading Volume Surges",
+      "type": "alpha",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-15T14:14:54.098Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/billions-network",
+      "timestamp": "2026-07-15T17:22:26.191Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/alchemist-ai",
       "metrics": {
-        "token": "Billions Network",
-        "symbol": "BILL",
-        "priceUsd": 0.03324846,
-        "marketCapUsd": 81011775,
-        "change24h": -33.03036,
-        "change7d": -8.338578443060115
+        "token": "Alchemist AI",
+        "symbol": "ALCH",
+        "priceUsd": 0.02550461,
+        "marketCapUsd": 21673826,
+        "change24h": -13.09987,
+        "change7d": -50.52232607206243
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Billions Network (BILL) fell 33% in 24 hours, with trading volume spiking to $58.6M.",
-        "story": "Billions Network’s token, BILL, has taken a sharp hit, dropping 33% in the last day to $0.0332. The token’s market cap now sits at $81 million, ranking it #298 by size. At the same time, trading activity has surged, with $58.6 million in volume over 24 hours—an unusually high figure relative to its market cap.\n\n### What's Happening\n\nBILL’s price decline stands out, especially given the magnitude of the move within a single day. The token’s 24-hour trading volume is nearly three-quarters of its total market cap, signaling heavy activity and possibly significant repositioning by holders. Over the past week, BILL is down just over 8%, but the bulk of the losses have come in this recent 24-hour window.\n\nThis kind of price action, paired with a spike in trading, often points to a large holder exiting, a sudden change in sentiment, or a reaction to off-chain news. While the data doesn’t specify the cause, the on-chain flows are clear: BILL is under heavy pressure, and liquidity is being tested.\n\n### Why It Matters\n\nFor a token of BILL’s size, a 33% single-day drop is significant. It suggests either concentrated selling or a breakdown in confidence among holders. The high trading volume shows that liquidity is present, but also that many are actively moving positions, which can accelerate volatility.\n\nSuch moves can ripple through the Solana ecosystem, especially if BILL is integrated into DeFi protocols or paired with other assets. Large price swings can impact collateral values, trading pairs, and user confidence in related projects. For traders and builders, these moments often reveal how resilient a token’s market structure really is.\n\n### The Risk or Debate\n\nThe main risk now is further volatility. When a token drops this quickly, it can trigger forced liquidations or panic selling, deepening losses. The high volume could mean that some are buying the dip, but it could just as easily be exit liquidity for those leaving the project. Without more context on the underlying cause, uncertainty remains around whether this is a short-term flush or the start of a longer trend.\n\nAnother concern is the potential for reduced confidence in BILL’s ecosystem role. If the price doesn’t stabilize, it could affect partnerships or integrations that rely on the token’s value.\n\n### What To Watch\n\nThe next few days will be key for BILL. Watch for signs of stabilization in price and a normalization of trading volume. If volume drops and price finds a floor, it could signal that the worst of the selling is over. On the other hand, continued high volume and price weakness would suggest ongoing pressure.\n\nAny official communication from the Billions Network team or major ecosystem partners could also influence sentiment. Finally, keep an eye on whether this volatility spreads to other Solana-based tokens or protocols connected to BILL.",
+        "signal": "Alchemist AI (ALCH) declined 13.1% in 24 hours, with trading volume reaching $8M.",
+        "story": "Alchemist AI (ALCH) saw its price fall 13.1% over the past day, now trading at $0.0255. The token’s market cap stands at $21.7 million, placing it at rank 791. Trading activity was brisk, with $8 million in volume over 24 hours. This drop extends a week-long slide, with ALCH losing over half its value in seven days.\n\n### What's Happening\nThe sharp decline in ALCH’s price comes alongside a notable spike in trading volume. This suggests heavy repositioning by holders or traders, with significant liquidity moving through the market. The 24-hour move is part of a broader trend, as ALCH has now shed more than 50% of its value in a week.\n\nThe market cap, now at $21.7 million, signals a rapid contraction in the token’s perceived value. ALCH’s trading activity remains elevated, indicating that the token is still drawing attention despite the price pressure.\n\n### Why It Matters\nA double-digit daily drop paired with high volume often points to decisive shifts in sentiment or positioning. For ALCH, the scale of the move suggests that recent holders may be exiting, or that volatility is attracting short-term traders. The $8 million in daily volume is significant for a token at this market cap level, highlighting that liquidity remains deep enough for sizable trades.\n\nThe week-long trend is notable. A 50% decline over seven days places ALCH among the most volatile assets in its segment. This kind of price action can affect confidence in the project and may impact how it is perceived within the broader Solana ecosystem.\n\n### The Risk or Debate\nThe main risk centers on continued volatility and uncertainty around price stability. A rapid drawdown can shake confidence among both existing and potential new holders. Sustained high volume during a decline can also indicate that larger holders are exiting, which may pressure the price further.\n\nQuestions may arise about the underlying drivers of the selloff, whether technical or related to broader market conditions. Without clear signals from the project or ecosystem, speculation can drive further swings.\n\n### What To Watch\nMonitoring whether trading volume remains elevated or begins to taper will be key. A stabilization in price, even at lower levels, could signal that selling pressure is easing. Any changes in liquidity or large wallet activity may offer clues about the next direction for ALCH.\n\nThe coming days will reveal if this is a temporary shakeout or the start of a longer trend. Updates from the project or shifts in Solana ecosystem sentiment could also play a role in shaping ALCH’s near-term outlook.",
         "takeaways": [
-          "BILL fell 33% in 24 hours, now trading at $0.0332.",
-          "Trading volume surged to $58.6M, nearly matching its $81M market cap.",
-          "The selloff raises questions about liquidity and confidence in the token."
+          "ALCH price fell 13.1% in 24 hours with $8M in trading volume.",
+          "The token has lost over 50% of its value in the past week.",
+          "Sustained high volume and rapid price decline highlight elevated volatility."
         ]
       },
       "riskLevel": "high",
-      "narrativeStrength": 6.4
+      "narrativeStrength": 4.3
     },
     {
       "id": "story_onchain-fundflow_1784124859632",
