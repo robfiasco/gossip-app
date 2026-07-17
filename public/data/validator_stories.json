@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-07-16T14:55:26.178Z",
+  "generated_at": "2026-07-17T14:28:25.030Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1784213726178",
+      "id": "story_onchain-marketmover_1784298505030",
       "source": "onchain-marketmover",
-      "title": "Billions Network (BILL) Drops 15% on Heavy Trading",
-      "type": "alpha",
+      "title": "HOME Token Drops 33% as Trading Volume Surges",
+      "type": "critical",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-16T14:55:26.178Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/billions-network",
+      "timestamp": "2026-07-17T14:28:25.030Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/home",
       "metrics": {
-        "token": "Billions Network",
-        "symbol": "BILL",
-        "priceUsd": 0.02849369,
-        "marketCapUsd": 69182668,
-        "change24h": -15.6769,
-        "change7d": -24.84253574045338
+        "token": "HOME",
+        "symbol": "HOME",
+        "priceUsd": 0.00829159,
+        "marketCapUsd": 32211257,
+        "change24h": -33.43924,
+        "change7d": -47.28106704677702
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Billions Network (BILL) fell 15.7% in the past 24 hours, with trading volume surging to $51.5M.",
-        "story": "Billions Network’s token, BILL, saw a sharp 15.7% price drop over the last day, settling at $0.0285. This move comes alongside a spike in trading activity, with 24-hour volume reaching $51.5 million. BILL’s market cap now stands at $69.2 million, placing it at rank #348 among crypto assets.\\n\\n### What's Happening\\n\\nBILL has been under sustained pressure, falling nearly 25% over the past week. The latest 24-hour decline is notable for its size and the accompanying surge in trading volume, suggesting significant fund flows in and out of the token. No major protocol-specific news or events have surfaced in recent headlines to explain the timing or scale of the move.\\n\\nThe drop follows a week of consistent selling, with the price now at its lowest point in at least seven days. The high trading volume indicates active repositioning by holders, but the absence of a clear catalyst leaves the cause of the selloff uncertain.\\n\\n### Why It Matters\\n\\nBillions Network’s market cap and trading volume place it among the more actively traded mid-cap tokens on Solana. Large, sudden price swings in tokens of this size often reflect shifting sentiment or liquidity changes that can ripple across related projects.\\n\\nThe scale of the move and the liquidity involved make BILL’s decline relevant for traders and ecosystem observers tracking volatility and capital flows within Solana’s DeFi sector. Sustained drawdowns can impact user confidence, especially if not tied to a clear protocol event or exploit.\\n\\n### The Risk or Debate\\n\\nThe lack of an obvious trigger for BILL’s decline raises questions about underlying factors, such as large holders exiting positions, liquidity constraints, or broader shifts in risk appetite. Without a clear narrative, uncertainty can persist, potentially fueling further volatility.\\n\\nIf the selling continues without explanation, concerns may grow about the stability of BILL’s price and its ability to maintain current liquidity levels. For protocols and users with exposure to BILL, the situation highlights the risk of sudden, unexplained moves in mid-cap tokens.\\n\\n### What To Watch\\n\\nMonitoring on-chain flows for signs of large wallet activity could provide clues about whether this is a one-off event or part of a broader trend. Any protocol announcements, partnerships, or technical updates from Billions Network may help clarify the situation.\\n\\nFurther price action and trading volume in the coming days will be key indicators of whether confidence is stabilizing or if additional volatility lies ahead.",
+        "signal": "HOME (HOME) fell 33.4% in the last 24 hours, now trading at $0.0083 with a sharp spike in volume.",
+        "story": "HOME (HOME) saw a steep 33% price drop over the past day, falling to $0.0083. The token’s market cap now sits at $32.2 million, ranking it around #600 by size. Notably, this decline came alongside a surge in trading activity, with $78 million in volume changing hands in just 24 hours.\n\n### What's Happening\nThe selloff in HOME is significant, both in scale and speed. Over the last week, the token has lost nearly half its value, with a 47% decline. The 24-hour trading volume is more than double the current market cap, suggesting heavy turnover and possibly large holders exiting positions or aggressive trading by speculators.\n\nThere are no clear headlines or on-chain events directly tied to HOME that explain this sudden move. Recent news mentions Solana and other unrelated topics, but nothing points to a protocol exploit, listing, or partnership that would account for the drop. The cause appears to be internal to the token’s market dynamics rather than a single identifiable event.\n\n### Why It Matters\nA price drop of this magnitude, paired with unusually high trading volume, often signals a shift in sentiment or a structural change in the token’s holder base. For a mid-cap token like HOME, such volatility can impact confidence among both existing and potential users.\n\nThe rapid turnover could mean that early investors or large holders are reducing exposure, or that new entrants are speculating on a rebound. Either way, the market is signaling uncertainty about HOME’s near-term prospects. This kind of volatility can ripple out to other Solana ecosystem assets, especially if traders are reallocating funds.\n\n### The Risk or Debate\nThe main risk here is further downside if selling pressure continues or if confidence erodes further. With no clear news or technical explanation, traders are left to interpret the move based on price action alone, which can fuel more volatility. There’s also the risk that liquidity could dry up if volume drops off, making it harder for holders to exit positions without moving the price further.\n\nWithout a clear catalyst, speculation about the cause can lead to rumors or misinformation, which can further destabilize the token’s market. Until more information emerges, the situation remains fluid.\n\n### What To Watch\nKeep an eye on whether trading volume remains elevated or starts to taper off. A sustained spike could mean continued volatility, while a drop in volume might signal that the worst of the selling is over. Watch for any official statements from the HOME team or major holders that could clarify the situation.\n\nAlso monitor broader Solana ecosystem trends, as sharp moves in one token can sometimes precede or follow similar action in related assets. Any new on-chain data or credible news could quickly shift the narrative around HOME.",
         "takeaways": [
-          "Billions Network (BILL) dropped 15.7% in 24 hours with high trading volume.",
-          "No clear protocol-specific news explains the recent selloff.",
-          "Sustained volatility and uncertainty may impact confidence in the token."
+          "HOME token dropped 33% in 24 hours with trading volume exceeding its market cap.",
+          "No clear news or on-chain events explain the sharp move, suggesting internal market dynamics.",
+          "The situation remains volatile, with further price swings possible until more information emerges."
         ]
       },
-      "riskLevel": "medium",
-      "narrativeStrength": 4.7
+      "riskLevel": "high",
+      "narrativeStrength": 6.4
     },
     {
-      "id": "story_onchain-fundflow_1784213696612",
+      "id": "story_onchain-fundflow_1784298496425",
       "source": "onchain-fundflow",
-      "title": "OSL TVL Surges 76% in 24 Hours Across Multiple Chains",
+      "title": "OSL TVL Drops 20% in 24 Hours Across Chains",
       "type": "critical",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-16T14:54:56.612Z",
+      "timestamp": "2026-07-17T14:28:16.425Z",
       "sourceUrl": "https://www.osl.com/en",
       "metrics": {
         "protocol": "OSL",
-        "tvlUsd": 39424761.698881276,
-        "change1d": 76.58488417310582,
-        "change7d": 86.77812620221212,
+        "tvlUsd": 15889349.872393915,
+        "change1d": -20.717102382452637,
+        "change7d": -38.100301673113066,
         "tokenSymbol": null,
         "tokenPriceUsd": null
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "OSL’s total value locked jumped 76.6% in the past day, reaching $39.4 million.",
-        "story": "OSL, a centralized exchange protocol operating across major blockchains like Ethereum, Solana, and Bitcoin, saw its total value locked (TVL) climb sharply in the last 24 hours. TVL now stands at $39.4 million, up nearly 77% from the previous day. Over the past week, OSL’s TVL has grown by almost 87%, signaling a sustained uptick in user deposits or asset flows.\n\n### What's Happening\n\nThe spike in OSL’s TVL is notable both for its size and its speed. This growth is not tied to a new token launch or a widely publicized event, as OSL does not have an associated token and no recent headlines point to a specific catalyst. The increase spans multiple chains, suggesting a broad-based influx of assets rather than a single-chain anomaly.\n\nSuch a rapid rise in TVL often reflects new user activity, large institutional deposits, or shifts in asset allocation strategies. Given OSL’s footprint across Ethereum, Solana, Tron, Bitcoin, and other major networks, the inflow could be coming from users seeking multi-chain access or from entities moving assets for trading or custody purposes.\n\n### Why It Matters\n\nA TVL increase of this magnitude is rare for a protocol of OSL’s size, especially in the absence of a token incentive or major news. It may indicate growing confidence in OSL as a cross-chain platform, or a response to changing conditions on other exchanges and protocols. The jump also highlights the ongoing trend of liquidity moving across chains, as users and institutions look for efficient venues to manage assets.\n\nFor the broader ecosystem, OSL’s growth could signal increased competition among centralized and hybrid platforms, particularly those offering multi-chain support. It may also reflect shifting user preferences as they seek alternatives to more established exchanges or DeFi protocols. If sustained, this level of inflow could position OSL as a more significant player in the multi-chain liquidity landscape.\n\n### The Risk or Debate\n\nThe underlying cause of the TVL surge remains unclear, which introduces uncertainty. Without a clear trigger—such as a new product launch, partnership, or incentive program—there is a risk that the inflows could be temporary or speculative. Large, sudden TVL increases can sometimes precede equally rapid outflows if the underlying drivers are not durable.\n\nAdditionally, as a centralized protocol, OSL’s operational transparency and risk management practices are less visible than those of fully on-chain DeFi protocols. Users and observers should be cautious about assuming the inflows reflect long-term adoption or stability.\n\n### What To Watch\n\nKey questions now are whether OSL can retain this new capital and whether the inflow continues in the coming days. Watch for any official announcements from OSL that might clarify the source of the growth, as well as any shifts in TVL on competing platforms. If the surge is followed by increased trading activity or new product offerings, it could mark a strategic shift for OSL in the multi-chain exchange space.\n\nContinued monitoring of OSL’s TVL and cross-chain flows will be important to determine if this is a one-off event or the start of a longer-term trend.",
+        "signal": "OSL’s total value locked fell 20.7% in the past day, now sitting at $15.9M.",
+        "story": "OSL, a centralized exchange protocol operating across major blockchains like Ethereum, Solana, and Bitcoin, saw its total value locked (TVL) drop sharply in the last 24 hours. TVL now stands at $15.9 million, down more than 20% from the previous day. Over the past week, OSL’s TVL has declined by over a third, signaling a sustained outflow of funds from the platform.\n\n### What's Happening\nOSL’s TVL has dropped significantly in a short period, with the most pronounced decrease occurring in the last 24 hours. This change follows a week-long trend of outflows, with the protocol losing nearly 40% of its TVL over seven days. There are no recent headlines or public announcements directly tied to OSL that explain the sudden movement, and the protocol does not have an associated token that might be driving speculative activity.\n\nThe outflows are notable given OSL’s presence across a wide range of blockchains, including both established networks and newer entrants. The absence of a token removes the possibility of token-related volatility or incentive program changes as a direct cause. The lack of clear external events or news leaves the reason for these outflows uncertain.\n\n### Why It Matters\nA rapid TVL drop of this scale can signal shifting user confidence or changing utility for the protocol. For a centralized exchange protocol spanning multiple chains, such a decline may reflect broader shifts in user preferences or liquidity allocation. The decrease in locked value could impact OSL’s ability to support trading activity or cross-chain liquidity, especially if the trend continues.\n\nThe event also matters for the wider DeFi and multi-chain ecosystem. OSL’s TVL trends can serve as a barometer for user engagement and capital flows across both established and emerging blockchains. If the outflows persist, other protocols with similar profiles may see knock-on effects or shifts in user behavior.\n\n### The Risk or Debate\nThe main risk centers on continued outflows and shrinking TVL, which could undermine OSL’s operational capacity and user trust. Without a clear cause, speculation may grow about internal or external factors affecting the protocol. The lack of a token means there is no immediate price signal, so TVL remains the primary indicator of protocol health.\n\nUncertainty around the reason for the outflows increases the risk profile for OSL. If the trend is driven by factors like changes in user demand, competition, or operational issues, the protocol could face further declines. The absence of public communication or headlines adds to the uncertainty.\n\n### What To Watch\nMonitor whether OSL’s TVL stabilizes or continues to fall in the coming days. Watch for any official statements or technical updates from OSL that might clarify the situation. Changes in TVL across other centralized exchange protocols could provide context for whether this is an OSL-specific event or part of a broader trend. Continued tracking of fund flows on the supported blockchains may reveal if users are reallocating capital within the ecosystem or exiting to other venues.",
         "takeaways": [
-          "OSL TVL rose 76.6% in 24 hours, now at $39.4 million.",
-          "The cause of the inflow is unclear, with no token launch or major news.",
-          "Sustained growth could signal a shift in multi-chain liquidity dynamics."
+          "OSL’s TVL dropped over 20% in 24 hours, now at $15.9M.",
+          "No public headlines or token events explain the outflows.",
+          "Sustained TVL decline raises questions about user confidence and protocol stability."
         ]
       },
-      "riskLevel": "medium",
-      "narrativeStrength": 8.8
+      "riskLevel": "high",
+      "narrativeStrength": 5.6
     }
   ]
 }
