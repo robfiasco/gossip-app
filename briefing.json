@@ -1,8 +1,17 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "ECOSYSTEM",
+      "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+      "category": "ECOSYSTEM",
+      "source": "Decrypt",
+      "date": "2026-07-16",
+      "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+      "whyYouShouldCare": "Morgan Stanley's addition of Solana trading on E*Trade enhances accessibility and could drive increased liquidity and user engagement within the Solana ecosystem."
+    },
     {
       "type": "INFRA",
       "title": "Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash",
@@ -10,25 +19,16 @@
       "source": "Cointelegraph",
       "date": "2026-07-16",
       "url": "https://cointelegraph.com/news/morgan-stanleys-etrade-rolls-out-spot-crypto-trading-for-retail-investors",
-      "whyYouShouldCare": "Morgan Stanley's entry into crypto trading via E*TRADE enhances institutional engagement, potentially increasing liquidity and interest in Solana's ecosystem."
+      "whyYouShouldCare": "The launch of spot crypto trading through Zero Hash by E*TRADE signifies growing infrastructure support for Solana, potentially boosting its adoption and market presence."
     },
     {
-      "type": "ECOSYSTEM",
-      "title": "BNB’s $931M burn strengthens tokenomics – Can Solana’s RWA boom keep pace?",
-      "category": "ECOSYSTEM",
-      "source": "AMB Crypto",
-      "date": "2026-07-16",
-      "url": "https://ambcrypto.com/bnbs-931m-burn-strengthens-tokenomics-can-solanas-rwa-boom-keep-pace",
-      "whyYouShouldCare": "BNB's significant token burn highlights the importance of strong tokenomics, raising questions about Solana's ability to maintain competitive growth in real-world asset applications."
-    },
-    {
-      "type": "APPS",
-      "title": "Wall Street moves on-chain: JPMorgan tokenizes QQQ, and 50+ firms are next",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-07-16",
-      "url": "https://ambcrypto.com/wall-street-moves-on-chain-jpmorgan-tokenizes-qqq-and-50-firms-are-next",
-      "whyYouShouldCare": "JPMorgan's move to tokenize QQQ signals a shift towards on-chain finance, which could drive demand for Solana's infrastructure and applications in the financial sector."
+      "type": "RISK",
+      "title": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
+      "category": "RISK",
+      "source": "CoinDesk",
+      "date": "2026-07-17",
+      "url": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization",
+      "whyYouShouldCare": "The hacking incident involving Airbnb's CEO highlights the ongoing risks in the crypto space, which could impact user confidence and participation in platforms utilizing Solana."
     }
   ]
 }
