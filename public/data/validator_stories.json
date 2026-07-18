@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-07-17T14:28:25.030Z",
+  "generated_at": "2026-07-18T14:18:55.598Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1784298505030",
+      "id": "story_onchain-marketmover_1784384335597",
       "source": "onchain-marketmover",
-      "title": "HOME Token Drops 33% as Trading Volume Surges",
+      "title": "JIMOTHY Surges Nearly 300% as Trading Volume Spikes",
       "type": "critical",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-17T14:28:25.030Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/home",
+      "timestamp": "2026-07-18T14:18:55.597Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/jimothy-the-raccoon",
       "metrics": {
-        "token": "HOME",
-        "symbol": "HOME",
-        "priceUsd": 0.00829159,
-        "marketCapUsd": 32211257,
-        "change24h": -33.43924,
-        "change7d": -47.28106704677702
+        "token": "Jimothy The Raccoon",
+        "symbol": "JIMOTHY",
+        "priceUsd": 0.01345821,
+        "marketCapUsd": 13285280,
+        "change24h": 295.68324,
+        "change7d": null
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "HOME (HOME) fell 33.4% in the last 24 hours, now trading at $0.0083 with a sharp spike in volume.",
-        "story": "HOME (HOME) saw a steep 33% price drop over the past day, falling to $0.0083. The token’s market cap now sits at $32.2 million, ranking it around #600 by size. Notably, this decline came alongside a surge in trading activity, with $78 million in volume changing hands in just 24 hours.\n\n### What's Happening\nThe selloff in HOME is significant, both in scale and speed. Over the last week, the token has lost nearly half its value, with a 47% decline. The 24-hour trading volume is more than double the current market cap, suggesting heavy turnover and possibly large holders exiting positions or aggressive trading by speculators.\n\nThere are no clear headlines or on-chain events directly tied to HOME that explain this sudden move. Recent news mentions Solana and other unrelated topics, but nothing points to a protocol exploit, listing, or partnership that would account for the drop. The cause appears to be internal to the token’s market dynamics rather than a single identifiable event.\n\n### Why It Matters\nA price drop of this magnitude, paired with unusually high trading volume, often signals a shift in sentiment or a structural change in the token’s holder base. For a mid-cap token like HOME, such volatility can impact confidence among both existing and potential users.\n\nThe rapid turnover could mean that early investors or large holders are reducing exposure, or that new entrants are speculating on a rebound. Either way, the market is signaling uncertainty about HOME’s near-term prospects. This kind of volatility can ripple out to other Solana ecosystem assets, especially if traders are reallocating funds.\n\n### The Risk or Debate\nThe main risk here is further downside if selling pressure continues or if confidence erodes further. With no clear news or technical explanation, traders are left to interpret the move based on price action alone, which can fuel more volatility. There’s also the risk that liquidity could dry up if volume drops off, making it harder for holders to exit positions without moving the price further.\n\nWithout a clear catalyst, speculation about the cause can lead to rumors or misinformation, which can further destabilize the token’s market. Until more information emerges, the situation remains fluid.\n\n### What To Watch\nKeep an eye on whether trading volume remains elevated or starts to taper off. A sustained spike could mean continued volatility, while a drop in volume might signal that the worst of the selling is over. Watch for any official statements from the HOME team or major holders that could clarify the situation.\n\nAlso monitor broader Solana ecosystem trends, as sharp moves in one token can sometimes precede or follow similar action in related assets. Any new on-chain data or credible news could quickly shift the narrative around HOME.",
+        "signal": "Jimothy The Raccoon (JIMOTHY) jumped 295.7% in 24 hours, reaching $0.0135 with $37.2M in volume.",
+        "story": "Jimothy The Raccoon (JIMOTHY) posted a dramatic 295.7% price increase over the past 24 hours, now trading at $0.0135. The token’s market cap stands at $13.3 million, with trading volume surging to $37.2 million. JIMOTHY’s sudden move has pushed it to rank #1036 by market cap, drawing attention across the Solana ecosystem.\n\n### What's Happening\n\nJIMOTHY’s price action is notable for both its scale and speed. The token’s value nearly quadrupled in a single day, accompanied by a sharp rise in trading activity. A recent headline from CoinGecko confirms the live price surge, while a report from bloomingbit highlights that a meme involving a Seattle raccoon may have contributed to the token’s rapid ascent. However, the precise catalyst behind this move remains unclear from available data.\n\nThe trading volume suggests heavy interest, with liquidity flowing in at levels far above the token’s typical activity. This kind of spike often signals a wave of new entrants or speculative trading, especially in the context of meme tokens on Solana.\n\n### Why It Matters\n\nJIMOTHY’s surge stands out in a crowded field of Solana meme tokens, where rapid price swings and viral narratives are common. The scale of the move and the liquidity involved indicate that JIMOTHY has captured significant attention, at least in the short term. Such activity can impact broader sentiment around Solana-based tokens, as traders and observers look for the next breakout.\n\nThe move also highlights the ongoing influence of internet culture and memes on token markets. Even without a clear fundamental driver, a meme or narrative can trigger substantial capital flows. This dynamic continues to shape the Solana ecosystem, where new tokens can rise quickly on the back of viral moments.\n\n### The Risk or Debate\n\nJIMOTHY’s rapid ascent comes with clear risks. Price action driven by memes or sudden attention can reverse just as quickly, especially if there is no underlying development or utility. High trading volumes may reflect speculative interest rather than long-term conviction. Without more information on the token’s fundamentals or community, the sustainability of this move is uncertain.\n\nThere is also the risk of volatility common to meme tokens. Traders entering after such a sharp increase may face significant downside if momentum fades. The lack of a clear catalyst or project update leaves open questions about what is driving the move and how long it might last.\n\n### What To Watch\n\nKey developments to monitor include whether trading volume remains elevated and if the price can hold current levels. Any new headlines, project updates, or community initiatives could influence the next phase of JIMOTHY’s trajectory. Watching for signs of sustained interest or a rapid reversal will be important in assessing whether this is a fleeting spike or the start of a longer trend.",
         "takeaways": [
-          "HOME token dropped 33% in 24 hours with trading volume exceeding its market cap.",
-          "No clear news or on-chain events explain the sharp move, suggesting internal market dynamics.",
-          "The situation remains volatile, with further price swings possible until more information emerges."
+          "JIMOTHY surged nearly 300% in 24 hours with high trading volume.",
+          "The catalyst appears linked to meme-driven attention, but is not fully clear.",
+          "Sustainability of the move is uncertain given the lack of fundamental news."
         ]
       },
       "riskLevel": "high",
-      "narrativeStrength": 6.4
+      "narrativeStrength": 8.9
     },
     {
-      "id": "story_onchain-fundflow_1784298496425",
+      "id": "story_onchain-fundflow_1784384319810",
       "source": "onchain-fundflow",
-      "title": "OSL TVL Drops 20% in 24 Hours Across Chains",
-      "type": "critical",
+      "title": "Futarchy AMM TVL Jumps 15% as META Holds $4",
+      "type": "alpha",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-17T14:28:16.425Z",
-      "sourceUrl": "https://www.osl.com/en",
+      "timestamp": "2026-07-18T14:18:39.810Z",
+      "sourceUrl": "https://metadao.fi",
       "metrics": {
-        "protocol": "OSL",
-        "tvlUsd": 15889349.872393915,
-        "change1d": -20.717102382452637,
-        "change7d": -38.100301673113066,
-        "tokenSymbol": null,
-        "tokenPriceUsd": null
+        "protocol": "Futarchy AMM",
+        "tvlUsd": 14371511.73423363,
+        "change1d": 15.51343469649666,
+        "change7d": 12.630679313330148,
+        "tokenSymbol": "META",
+        "tokenPriceUsd": 3.8677682948416594
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "OSL’s total value locked fell 20.7% in the past day, now sitting at $15.9M.",
-        "story": "OSL, a centralized exchange protocol operating across major blockchains like Ethereum, Solana, and Bitcoin, saw its total value locked (TVL) drop sharply in the last 24 hours. TVL now stands at $15.9 million, down more than 20% from the previous day. Over the past week, OSL’s TVL has declined by over a third, signaling a sustained outflow of funds from the platform.\n\n### What's Happening\nOSL’s TVL has dropped significantly in a short period, with the most pronounced decrease occurring in the last 24 hours. This change follows a week-long trend of outflows, with the protocol losing nearly 40% of its TVL over seven days. There are no recent headlines or public announcements directly tied to OSL that explain the sudden movement, and the protocol does not have an associated token that might be driving speculative activity.\n\nThe outflows are notable given OSL’s presence across a wide range of blockchains, including both established networks and newer entrants. The absence of a token removes the possibility of token-related volatility or incentive program changes as a direct cause. The lack of clear external events or news leaves the reason for these outflows uncertain.\n\n### Why It Matters\nA rapid TVL drop of this scale can signal shifting user confidence or changing utility for the protocol. For a centralized exchange protocol spanning multiple chains, such a decline may reflect broader shifts in user preferences or liquidity allocation. The decrease in locked value could impact OSL’s ability to support trading activity or cross-chain liquidity, especially if the trend continues.\n\nThe event also matters for the wider DeFi and multi-chain ecosystem. OSL’s TVL trends can serve as a barometer for user engagement and capital flows across both established and emerging blockchains. If the outflows persist, other protocols with similar profiles may see knock-on effects or shifts in user behavior.\n\n### The Risk or Debate\nThe main risk centers on continued outflows and shrinking TVL, which could undermine OSL’s operational capacity and user trust. Without a clear cause, speculation may grow about internal or external factors affecting the protocol. The lack of a token means there is no immediate price signal, so TVL remains the primary indicator of protocol health.\n\nUncertainty around the reason for the outflows increases the risk profile for OSL. If the trend is driven by factors like changes in user demand, competition, or operational issues, the protocol could face further declines. The absence of public communication or headlines adds to the uncertainty.\n\n### What To Watch\nMonitor whether OSL’s TVL stabilizes or continues to fall in the coming days. Watch for any official statements or technical updates from OSL that might clarify the situation. Changes in TVL across other centralized exchange protocols could provide context for whether this is an OSL-specific event or part of a broader trend. Continued tracking of fund flows on the supported blockchains may reveal if users are reallocating capital within the ecosystem or exiting to other venues.",
+        "signal": "Futarchy AMM’s total value locked on Solana rose 15.5% in 24 hours, reaching $14.4M, while its META token trades at $4.",
+        "story": "Futarchy AMM, a decentralized exchange on Solana, saw its total value locked (TVL) climb 15.5% over the past day, now sitting at $14.4 million. The protocol’s native token, META, is currently priced at $4. This TVL growth stands out against a backdrop of steady week-over-week gains, with a 12.6% increase over the last seven days.\n\n### What's Happening\n\nThe recent surge in TVL signals a notable influx of capital into Futarchy AMM. While there are no major headlines or announcements tied to this move, the data points to increased user activity or new liquidity entering the protocol. META’s price holding steady at $4 suggests that the market is not reacting with outsized volatility, even as more assets flow into the platform.\n\nThis growth comes without any clear external catalyst, such as a new incentive program or partnership. Instead, it likely reflects organic interest in the protocol’s offering, or possibly users reallocating funds within the Solana DeFi ecosystem.\n\n### Why It Matters\n\nA double-digit TVL increase in 24 hours is significant for any DeFi protocol, especially in a competitive environment like Solana. It signals rising confidence in Futarchy AMM’s model and may attract further attention from traders and liquidity providers seeking active venues. Sustained TVL growth can also improve the protocol’s liquidity depth, potentially leading to better trading experiences and tighter spreads for users.\n\nFor the broader Solana ecosystem, this uptick highlights ongoing activity and experimentation in decentralized finance, even without headline-grabbing events. It also suggests that users are willing to deploy capital into protocols that may not be in the media spotlight but are quietly building traction.\n\n### The Risk or Debate\n\nThe cause of the TVL spike remains unclear, which introduces some uncertainty. Rapid inflows without a clear driver can sometimes reverse just as quickly, especially if they are the result of short-term strategies or opportunistic capital. There’s also the usual risk that sudden growth could stress protocol infrastructure or attract unwanted attention from attackers, though there are no reports of issues at this time.\n\nMETA’s price stability is a positive sign, but it doesn’t guarantee that the underlying growth is sustainable. Without more transparency into the source of new deposits, it’s difficult to assess whether this is the start of a longer-term trend or a temporary blip.\n\n### What To Watch\n\nKey questions going forward include whether Futarchy AMM can retain this new capital and if TVL continues to climb in the coming days. Watch for any protocol updates, new features, or incentive programs that could explain or sustain the growth. Changes in META’s price or trading volume could also signal shifts in user sentiment or liquidity behavior.\n\nIf the trend holds, Futarchy AMM could become a more prominent player in Solana DeFi. For now, the story is one of quiet but notable momentum, with the next moves likely to come from either the protocol team or its growing user base.",
         "takeaways": [
-          "OSL’s TVL dropped over 20% in 24 hours, now at $15.9M.",
-          "No public headlines or token events explain the outflows.",
-          "Sustained TVL decline raises questions about user confidence and protocol stability."
+          "Futarchy AMM’s TVL rose 15.5% in 24 hours, now at $14.4M.",
+          "META token remains stable at $4 despite the TVL jump.",
+          "The reason for the inflow is unclear, making sustainability uncertain."
         ]
       },
-      "riskLevel": "high",
-      "narrativeStrength": 5.6
+      "riskLevel": "medium",
+      "narrativeStrength": 5.1
     }
   ]
 }
