@@ -28,6 +28,10 @@ xposts.csv
 test-deploy.js
 *.tsbuildinfo
 
+# dlmm scanner - regenerated every run, KV is the source of truth for the app
+data/dlmm_printers.json
+public/data/dlmm_printers.json
+
 # misc
 .DS_Store
 .vercel
