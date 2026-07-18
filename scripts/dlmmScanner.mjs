@@ -200,8 +200,13 @@ function formatPoolBlock(p) {
   const emoji = TIERS[p._tier].emoji;
   const momentum = p._momentum ? ' 📈' : '';
   const mint = projectTokenMint(p);
-  const chartLine = mint ? `\nChart: https://gmgn.ai/sol/token/${mint}` : '';
-  return `${emoji} ${p.name} (${binStep}/${baseFee}%)${momentum} — TVL ${usd(p._tvl)} | 30m fees ${usd(p._fees30m)} | fee/TVL 30m ${p._feeTvl30m.toFixed(2)}% | age ${formatAge(p._ageHours)}\nMeteora: https://app.meteora.ag/dlmm/${p.address}${chartLine}`;
+
+  // Slack mrkdwn link syntax - collapses two lines of raw addresses into one
+  // line of short clickable labels.
+  const links = [`<https://app.meteora.ag/dlmm/${p.address}|Meteora ↗>`];
+  if (mint) links.push(`<https://gmgn.ai/sol/token/${mint}|Chart ↗>`);
+
+  return `${emoji} *${p.name}* (${binStep}/${baseFee}%)${momentum} — TVL ${usd(p._tvl)} | 30m fees ${usd(p._fees30m)} | fee/TVL 30m ${p._feeTvl30m.toFixed(2)}% | age ${formatAge(p._ageHours)}\n${links.join(' · ')}`;
 }
 
 function formatTierMessage(tierName, pools) {
@@ -229,6 +234,9 @@ async function sendSlack(text, webhookUrl) {
   }
 }
 
+// Note: `text` uses Slack's <url|label> link syntax, which Telegram renders
+// as literal text, not a link. Fine while Telegram is unconfigured; revisit
+// the message format if Telegram is ever wired up for real.
 async function sendTelegram(text) {
   const token = process.env.TELEGRAM_BOT_TOKEN;
   const chatId = process.env.TELEGRAM_CHAT_ID;
@@ -308,11 +316,11 @@ export async function scan() {
   const degenToAlert = degen.filter((p) => shouldAlert(p, state, nowMs));
   const alertedAddresses = new Set([...safeToAlert, ...degenToAlert].map((p) => p.address));
 
-  const safeWebhook = process.env.SLACK_WEBHOOK_URL;
-  const degenWebhook = process.env.SLACK_WEBHOOK_DEGEN || process.env.SLACK_WEBHOOK_URL;
+  // Both tiers post to the same channel - one webhook, no separate DEGEN routing.
+  const webhook = process.env.SLACK_WEBHOOK_URL;
 
-  const safeAlerted = await sendTierAlert('SAFE', safeToAlert, safeWebhook);
-  const degenAlerted = await sendTierAlert('DEGEN', degenToAlert, degenWebhook);
+  const safeAlerted = await sendTierAlert('SAFE', safeToAlert, webhook);
+  const degenAlerted = await sendTierAlert('DEGEN', degenToAlert, webhook);
 
   const nextState = updateState(state, allCandidates, alertedAddresses, nowIso);
   fs.writeFileSync(STATE_PATH, JSON.stringify(nextState, null, 2));
