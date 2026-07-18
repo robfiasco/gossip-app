@@ -1,8 +1,17 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "INFRA",
+      "title": "Solana Changelog: July 16, 2026",
+      "category": "INFRA",
+      "source": "Solana News",
+      "date": "2026-07-16",
+      "url": "https://solana.com/news/solana-changelog-july-16-2026",
+      "whyYouShouldCare": "The latest Solana Changelog highlights infrastructure updates that could enhance network efficiency and attract more developers to the ecosystem."
+    },
     {
       "type": "APPS",
       "title": "Pyth Network’s TradFi push gains steam as PYTH nears $0.05",
@@ -10,7 +19,7 @@
       "source": "AMB Crypto",
       "date": "2026-07-17",
       "url": "https://ambcrypto.com/pyth-networks-tradfi-push-gains-steam-as-pyth-nears-0-05",
-      "whyYouShouldCare": "Pyth Network's growing presence in traditional finance could enhance Solana's ecosystem by increasing liquidity and attracting institutional interest."
+      "whyYouShouldCare": "Pyth Network's growing presence in traditional finance could increase liquidity and use cases for Solana, potentially boosting SOL's adoption."
     },
     {
       "type": "APPS",
@@ -19,16 +28,7 @@
       "source": "Decrypt",
       "date": "2026-07-17",
       "url": "https://decrypt.co/373716/china-kimi-k3-largest-open-source-ai-model-ever-beats-claude-fable-gpt-5-6-sol",
-      "whyYouShouldCare": "Kimi K3's superior performance against competitors may indicate a shift in AI capabilities, potentially influencing developer interest and innovation on the Solana platform."
-    },
-    {
-      "type": "APPS",
-      "title": "Can Solana reclaim $80? SOL’s next move depends on THIS level",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-07-17",
-      "url": "https://ambcrypto.com/can-solana-reclaim-80-sols-next-move-depends-on-this-level",
-      "whyYouShouldCare": "SOL's ability to reclaim the $80 level is crucial for market sentiment and could determine future price stability and investor confidence."
+      "whyYouShouldCare": "Kimi K3's performance against leading AI models may drive interest in Solana's applications, enhancing its competitive positioning in the tech landscape."
     }
   ]
 }

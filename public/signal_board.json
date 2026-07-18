@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-17",
-  "generated_at_utc": "2026-07-17T20:03:27.979Z",
-  "ctxMarket": "Attention is on institutional adoption and infrastructure developments, with Solana drawing interest from both TradFi and retail platforms. Recent ETF inflows and new trading access are shifting focus to mainstream integration.",
-  "ctxTalking": "• Pyth Network expanding into institutional bond pricing and Asian markets\n• Solana’s spot ETF recording its first net inflow of the week\n• Morgan Stanley adding Solana trading for E*Trade clients",
-  "ctxMatters": "Institutional participation in Solana and related networks could influence liquidity and ecosystem growth. New trading venues and data services may broaden access and utility for both retail and professional users. These shifts highlight ongoing efforts to bridge traditional finance and crypto infrastructure.",
-  "ctxSignal": "Signal: Institutional moves like Morgan Stanley’s Solana support and Pyth’s TradFi expansion.\nNoise: Short-term speculation on SOL price levels without clear catalysts.",
-  "ctxGlossary": "Spot ETF — An exchange-traded fund that holds the actual asset, not derivatives.\nTradFi — Traditional finance institutions and practices.",
+  "date": "2026-07-18",
+  "generated_at_utc": "2026-07-18T08:47:08.089Z",
+  "ctxMarket": "Attention is focused on institutional adoption and infrastructure upgrades. Solana is in the spotlight following Morgan Stanley’s integration and several core software releases.",
+  "ctxTalking": "• Morgan Stanley adding Solana trading for E*Trade customers\n• Pyth Network’s expansion into institutional bond pricing and Asian markets\n• Multiple Solana infrastructure projects shipping new releases",
+  "ctxMatters": "Morgan Stanley’s move could broaden Solana’s reach among traditional investors. Pyth’s push into institutional finance signals growing demand for on-chain data services. Ongoing upgrades across Solana’s ecosystem may improve performance and developer tools.",
+  "ctxSignal": "Signal: Major financial institutions and data providers are deepening their involvement with Solana.\nNoise: Short-term price moves tied to unlocks or isolated events.",
+  "ctxGlossary": "PYTH — A decentralized data oracle network providing real-world data to blockchains.\nFiredancer — An independent validator client aiming to boost Solana’s speed and reliability.",
   "readMore": [
     {
       "title": "Pyth Network’s TradFi push gains steam as PYTH nears $0.05",
@@ -16,6 +16,11 @@
       "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
       "source": "Decrypt",
       "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade"
+    },
+    {
+      "title": "Solana Changelog",
+      "source": "Solana News",
+      "url": "https://solana.com/news/solana-changelog-july-16-2026"
     }
   ]
 }
