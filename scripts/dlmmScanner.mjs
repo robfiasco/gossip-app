@@ -3,9 +3,16 @@
  * dlmmScanner.mjs
  *
  * Finds Meteora DLMM pools currently earning outsized fees relative to their
- * TVL ("printers"), pings Telegram/Slack, and writes the result so the app's
- * /api/scan route can serve it without re-scanning on every request.
- * Output: data/dlmm_printers.json (mirrored to public/data/)
+ * TVL ("printers"), classifies them into a SAFE and a DEGEN tier, and alerts
+ * to Slack (+ Telegram, if configured) only on new/upgraded/stale-cooldown
+ * pools - not every pool on every run.
+ *
+ * Two persisted outputs:
+ *  - data/dlmm_printers.json (+ public/data/ mirror): current snapshot for
+ *    the app's /api/scan route. Overwritten every run, never committed.
+ *  - state.json (repo root): { [poolAddress]: { tier, alertedAt } }, used to
+ *    decide what's actually worth re-alerting on. Committed back to the repo
+ *    each run by the GitHub Actions workflow, since there's no database.
  */
 
 import { createRequire } from 'module';
@@ -20,17 +27,37 @@ import fs from 'fs';
 import path from 'path';
 
 const API_URL = 'https://dlmm.datapi.meteora.ag/pools';
+const WSOL_MINT = 'So11111111111111111111111111111111111111112';
+
 const OUTPUT_PATH = './data/dlmm_printers.json';
 const OUTPUT_PATH_MIRROR = './public/data/dlmm_printers.json';
+const STATE_PATH = './state.json';
 
-const CONFIG = {
-  minTvlUsd: 10_000,
-  minFees30mUsd: 300,
-  minPoolAgeHours: 6,
-  minMarketCapUsd: 400_000, // enrichment-only cutoff
-  candidatePoolCount: 20,   // pre-enrichment shortlist, so MC drops still leave up to maxResults
-  maxResults: 8,
-  pagesToScan: 5,           // page_size is fixed at 10 server-side; pagination is sorted by 24h volume desc
+const REALERT_COOLDOWN_MS = 2 * 60 * 60 * 1000; // re-alert a pool that's still qualifying after this long
+const STATE_MAX_AGE_MS = 6 * 60 * 60 * 1000;     // prune state entries older than this
+
+const SCAN_CONFIG = {
+  pagesToScan: 5, // page_size is fixed at 10 server-side; pagination is sorted by 24h volume desc
+  maxResultsPerTier: 8, // not in spec - a guardrail so a busy market can't spam an unbounded alert
+};
+
+const TIERS = {
+  SAFE: {
+    name: 'SAFE',
+    emoji: '🟢',
+    minTvlUsd: 10_000,
+    minPoolAgeHours: 6,
+    minFees30mUsd: 300,
+    minFeeTvlRatio30m: 0,
+  },
+  DEGEN: {
+    name: 'DEGEN',
+    emoji: '🚨',
+    minTvlUsd: 3_000,
+    minPoolAgeHours: 0.5, // skip anything younger - instant-rug zone
+    minFees30mUsd: 150,
+    minFeeTvlRatio30m: 2.0,
+  },
 };
 
 // ============================================================================
@@ -44,7 +71,7 @@ const CONFIG = {
 // don't assume it holds forever.
 async function fetchPools() {
   const pools = [];
-  for (let page = 1; page <= CONFIG.pagesToScan; page++) {
+  for (let page = 1; page <= SCAN_CONFIG.pagesToScan; page++) {
     const res = await fetch(`${API_URL}?page=${page}`, { headers: { accept: 'application/json' } });
     if (!res.ok) throw new Error(`Meteora API ${res.status}`);
     const json = await res.json();
@@ -61,54 +88,92 @@ function poolAgeHours(pool) {
   return (Date.now() - createdAt) / (60 * 60 * 1000);
 }
 
-function findPrinterCandidates(pools) {
-  return pools
-    .map((p) => ({
-      ...p,
-      _tvl: Number(p.tvl ?? p.liquidity ?? 0),
-      _fees30m: Number(p.fees?.['30m'] ?? 0),
-      _feeTvl30m: Number(p.fee_tvl_ratio?.['30m'] ?? 0),
-      _feeTvl1h: Number(p.fee_tvl_ratio?.['1h'] ?? 0),
-      _ageHours: poolAgeHours(p),
-    }))
+function qualifiesForTier(p, tier) {
+  return (
+    p._tvl >= tier.minTvlUsd &&
+    p._ageHours >= tier.minPoolAgeHours &&
+    p._fees30m >= tier.minFees30mUsd &&
+    p._feeTvl30m >= tier.minFeeTvlRatio30m
+  );
+}
+
+// DEGEN is checked first - a pool qualifying for both tiers is the stronger
+// signal, so it's reported once, under DEGEN only.
+function classifyPool(p) {
+  if (qualifiesForTier(p, TIERS.DEGEN)) return 'DEGEN';
+  if (qualifiesForTier(p, TIERS.SAFE)) return 'SAFE';
+  return null;
+}
+
+function findCandidates(pools) {
+  const classified = pools
     .filter((p) => p.is_blacklisted !== true)
-    .filter((p) => p._tvl >= CONFIG.minTvlUsd)
-    .filter((p) => p._fees30m >= CONFIG.minFees30mUsd)
-    .filter((p) => p._ageHours >= CONFIG.minPoolAgeHours)
-    .sort((a, b) => b._feeTvl30m - a._feeTvl30m)
-    .slice(0, CONFIG.candidatePoolCount);
+    .map((p) => {
+      const enriched = {
+        ...p,
+        _tvl: Number(p.tvl ?? p.liquidity ?? 0),
+        _fees30m: Number(p.fees?.['30m'] ?? 0),
+        _feeTvl30m: Number(p.fee_tvl_ratio?.['30m'] ?? 0),
+        _feeTvl1h: Number(p.fee_tvl_ratio?.['1h'] ?? 0),
+        _ageHours: poolAgeHours(p),
+      };
+      return { ...enriched, _tier: classifyPool(enriched), _momentum: enriched._feeTvl30m > enriched._feeTvl1h };
+    })
+    .filter((p) => p._tier !== null);
+
+  const byFeeTvl30mDesc = (a, b) => b._feeTvl30m - a._feeTvl30m;
+
+  return {
+    safe: classified.filter((p) => p._tier === 'SAFE').sort(byFeeTvl30mDesc).slice(0, SCAN_CONFIG.maxResultsPerTier),
+    degen: classified.filter((p) => p._tier === 'DEGEN').sort(byFeeTvl30mDesc).slice(0, SCAN_CONFIG.maxResultsPerTier),
+  };
 }
 
 // ============================================================================
-// OPTIONAL ENRICHMENT (market cap via DexScreener) - separate + best-effort so
-// a DexScreener outage never breaks the core scan.
+// STATE / DELTA ALERTING
 // ============================================================================
 
-async function fetchMarketCap(tokenAddress) {
+function loadState() {
+  if (!fs.existsSync(STATE_PATH)) return {};
   try {
-    const res = await fetch(`https://api.dexscreener.com/latest/dex/tokens/${tokenAddress}`);
-    if (!res.ok) return null;
-    const json = await res.json();
-    const pairs = Array.isArray(json?.pairs) ? json.pairs : [];
-    const match = pairs.find((p) => p?.baseToken?.address === tokenAddress) ?? pairs[0];
-    const marketCap = Number(match?.marketCap ?? match?.fdv ?? 0);
-    return marketCap > 0 ? marketCap : null;
+    return JSON.parse(fs.readFileSync(STATE_PATH, 'utf-8'));
   } catch {
-    return null;
+    return {};
   }
 }
 
-async function enrichWithMarketCap(candidates) {
-  const enriched = await Promise.all(
-    candidates.map(async (pool) => {
-      const tokenAddress = pool.token_x?.address;
-      const marketCapUsd = tokenAddress ? await fetchMarketCap(tokenAddress) : null;
-      return { ...pool, _marketCapUsd: marketCapUsd };
-    })
-  );
-  // Only drop pools we could actually price and confirmed below the cutoff -
-  // an enrichment miss (null) should never remove an otherwise-qualifying pool.
-  return enriched.filter((p) => p._marketCapUsd === null || p._marketCapUsd >= CONFIG.minMarketCapUsd);
+function pruneState(state, nowMs) {
+  const pruned = {};
+  for (const [address, entry] of Object.entries(state)) {
+    const alertedAt = Date.parse(entry?.alertedAt ?? '');
+    if (Number.isFinite(alertedAt) && nowMs - alertedAt <= STATE_MAX_AGE_MS) {
+      pruned[address] = entry;
+    }
+  }
+  return pruned;
+}
+
+// New to the list, upgraded SAFE -> DEGEN, or its last alert aged out of the cooldown.
+function shouldAlert(pool, state, nowMs) {
+  const existing = state[pool.address];
+  if (!existing) return true;
+  if (existing.tier === 'SAFE' && pool._tier === 'DEGEN') return true;
+  const lastAlertMs = Date.parse(existing.alertedAt ?? '');
+  return !Number.isFinite(lastAlertMs) || nowMs - lastAlertMs > REALERT_COOLDOWN_MS;
+}
+
+function updateState(state, allCandidates, alertedAddresses, nowIso) {
+  const next = { ...state };
+  for (const p of allCandidates) {
+    const prev = next[p.address];
+    next[p.address] = {
+      tier: p._tier,
+      // Only bump the timestamp when we actually alert - seeing a pool again
+      // during its cooldown shouldn't reset the clock.
+      alertedAt: alertedAddresses.has(p.address) ? nowIso : (prev?.alertedAt ?? nowIso),
+    };
+  }
+  return next;
 }
 
 // ============================================================================
@@ -123,18 +188,46 @@ const usd = (n) =>
 const formatAge = (hours) =>
   hours >= 24 ? `${(hours / 24).toFixed(1)}d` : `${hours.toFixed(1)}h`;
 
-function formatTelegramMessage(printers) {
-  const lines = printers.map((p, i) => {
-    const binStep = p.pool_config?.bin_step ?? '?';
-    const baseFee = p.pool_config?.base_fee_pct ?? '?';
-    return `${i + 1}. ${p.name} (${binStep}/${baseFee}%) — TVL ${usd(p._tvl)} | 30m fees ${usd(p._fees30m)} | fee/TVL 30m ${p._feeTvl30m.toFixed(2)}% — https://app.meteora.ag/dlmm/${p.address}`;
-  });
-  return `🖨️ DLMM Hot Pools — ${new Date().toUTCString()}\n\n${lines.join('\n')}`;
+function projectTokenMint(p) {
+  if (p.token_y?.address === WSOL_MINT) return p.token_x?.address ?? null;
+  if (p.token_x?.address === WSOL_MINT) return p.token_y?.address ?? null;
+  return p.token_x?.address ?? null;
+}
+
+function formatPoolBlock(p) {
+  const binStep = p.pool_config?.bin_step ?? '?';
+  const baseFee = p.pool_config?.base_fee_pct ?? '?';
+  const emoji = TIERS[p._tier].emoji;
+  const momentum = p._momentum ? ' 📈' : '';
+  const mint = projectTokenMint(p);
+  const chartLine = mint ? `\nChart: https://gmgn.ai/sol/token/${mint}` : '';
+  return `${emoji} ${p.name} (${binStep}/${baseFee}%)${momentum} — TVL ${usd(p._tvl)} | 30m fees ${usd(p._fees30m)} | fee/TVL 30m ${p._feeTvl30m.toFixed(2)}% | age ${formatAge(p._ageHours)}\nMeteora: https://app.meteora.ag/dlmm/${p.address}${chartLine}`;
+}
+
+function formatTierMessage(tierName, pools) {
+  if (pools.length === 0) return null;
+  const header = tierName === 'DEGEN'
+    ? `🚨 DEGEN Hot Pools — ${new Date().toUTCString()}\n⚠️ Degen tier: high IL/rug risk. Small size, fast exits.`
+    : `🟢 SAFE Hot Pools — ${new Date().toUTCString()}`;
+  return `${header}\n\n${pools.map(formatPoolBlock).join('\n\n')}`;
 }
 
 // ============================================================================
 // SENDERS
 // ============================================================================
+
+async function sendSlack(text, webhookUrl) {
+  if (!webhookUrl) return;
+  try {
+    await fetch(webhookUrl, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ text }),
+    });
+  } catch (error) {
+    console.error('Slack send failed:', error.message);
+  }
+}
 
 async function sendTelegram(text) {
   const token = process.env.TELEGRAM_BOT_TOKEN;
@@ -151,28 +244,23 @@ async function sendTelegram(text) {
   }
 }
 
-async function sendSlack(text) {
-  const url = process.env.SLACK_WEBHOOK_URL;
-  if (!url) return;
-  try {
-    await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ text }),
-    });
-  } catch (error) {
-    console.error('Slack send failed:', error.message);
-  }
+async function sendTierAlert(tierName, pools, webhookUrl) {
+  const message = formatTierMessage(tierName, pools);
+  if (!message) return false;
+  await Promise.all([sendSlack(message, webhookUrl), sendTelegram(message)]);
+  return true;
 }
 
 // ============================================================================
 // MAIN
 // ============================================================================
 
-function toPublicShape(printers) {
-  return printers.map((p) => ({
+function toPublicShape(p) {
+  return {
     address: p.address,
     name: p.name,
+    tier: p._tier,
+    momentum: p._momentum,
     tvlUsd: p._tvl,
     fees30mUsd: p._fees30m,
     feeTvlRatio30m: p._feeTvl30m,
@@ -180,58 +268,75 @@ function toPublicShape(printers) {
     ageHours: Math.round(p._ageHours * 10) / 10,
     binStep: p.pool_config?.bin_step ?? null,
     baseFeePct: p.pool_config?.base_fee_pct ?? null,
-    marketCapUsd: p._marketCapUsd ?? null,
     url: `https://app.meteora.ag/dlmm/${p.address}`,
-  }));
+    chartUrl: projectTokenMint(p) ? `https://gmgn.ai/sol/token/${projectTokenMint(p)}` : null,
+  };
 }
 
-export async function scan({ sendAlerts = true } = {}) {
-  const pools = await fetchPools();
-  console.log(`Scanned ${pools.length} pools across ${CONFIG.pagesToScan} pages`);
-
-  // Flip DLMM_DEBUG=1 to double-check the API's field names haven't changed
-  // upstream - this is an undocumented endpoint.
-  if (process.env.DLMM_DEBUG === '1' && pools[0]) {
-    console.log('Raw pool sample:', JSON.stringify(pools[0], null, 2));
-  }
-
-  const candidates = findPrinterCandidates(pools);
-  const enriched = await enrichWithMarketCap(candidates);
-  const printers = enriched.slice(0, CONFIG.maxResults);
-
-  const publicPrinters = toPublicShape(printers);
-
-  let alerted = false;
-  if (printers.length > 0 && sendAlerts) {
-    const message = formatTelegramMessage(printers);
-    await Promise.all([sendTelegram(message), sendSlack(message)]);
-    alerted = true;
-  }
-
-  const output = {
-    generated_at: new Date().toISOString(),
-    printers: publicPrinters,
-    alerted,
-  };
-
+function writeOutput(output) {
   fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true });
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2));
   fs.mkdirSync(path.dirname(OUTPUT_PATH_MIRROR), { recursive: true });
   fs.writeFileSync(OUTPUT_PATH_MIRROR, JSON.stringify(output, null, 2));
+}
 
-  return output;
+export async function scan() {
+  let pools = [];
+  try {
+    pools = await fetchPools();
+    console.log(`Scanned ${pools.length} pools across ${SCAN_CONFIG.pagesToScan} pages`);
+  } catch (error) {
+    // Never let an upstream outage fail the workflow - proceed with zero
+    // pools so state pruning and the UI snapshot still happen cleanly.
+    console.error('Pool fetch failed:', error.message);
+  }
+
+  // Set DEBUG=1 to double-check the API's field names haven't changed
+  // upstream - this is an undocumented endpoint.
+  if (process.env.DEBUG === '1' && pools[0]) {
+    console.log('Raw pool sample:', JSON.stringify(pools[0], null, 2));
+  }
+
+  const { safe, degen } = findCandidates(pools);
+  const allCandidates = [...safe, ...degen];
+
+  const nowMs = Date.now();
+  const nowIso = new Date(nowMs).toISOString();
+  const state = pruneState(loadState(), nowMs);
+
+  const safeToAlert = safe.filter((p) => shouldAlert(p, state, nowMs));
+  const degenToAlert = degen.filter((p) => shouldAlert(p, state, nowMs));
+  const alertedAddresses = new Set([...safeToAlert, ...degenToAlert].map((p) => p.address));
+
+  const safeWebhook = process.env.SLACK_WEBHOOK_URL;
+  const degenWebhook = process.env.SLACK_WEBHOOK_DEGEN || process.env.SLACK_WEBHOOK_URL;
+
+  const safeAlerted = await sendTierAlert('SAFE', safeToAlert, safeWebhook);
+  const degenAlerted = await sendTierAlert('DEGEN', degenToAlert, degenWebhook);
+
+  const nextState = updateState(state, allCandidates, alertedAddresses, nowIso);
+  fs.writeFileSync(STATE_PATH, JSON.stringify(nextState, null, 2));
+
+  const output = {
+    generated_at: nowIso,
+    printers: [...degen, ...safe].map(toPublicShape), // DEGEN first - it's the stronger signal
+    alerted: { safe: safeToAlert.length, degen: degenToAlert.length },
+  };
+  writeOutput(output);
+
+  return { ...output, safeAlerted, degenAlerted };
 }
 
 // ---- CLI ----
 if (import.meta.url === `file://${process.argv[1]}`) {
   scan()
-    .then((r) => console.log(r.alerted ? `Alerted on ${r.printers.length} pools` : 'Nothing printing right now'))
+    .then((r) => {
+      const total = r.alerted.safe + r.alerted.degen;
+      console.log(total > 0 ? `Alerted on ${total} pool(s) (${r.alerted.degen} degen, ${r.alerted.safe} safe)` : 'Nothing new to alert on');
+    })
     .catch((error) => {
+      // Log and exit 0 - an API hiccup should never turn the workflow red.
       console.error('Scan failed:', error.message);
-      // Write an empty result so the API route has something graceful to serve
-      // even when the upstream API is down, rather than serving stale data forever.
-      fs.mkdirSync('./data', { recursive: true });
-      fs.writeFileSync(OUTPUT_PATH, JSON.stringify({ generated_at: new Date().toISOString(), printers: [], alerted: false, error: error.message }, null, 2));
-      process.exit(1);
+      process.exit(0);
     });
 }
