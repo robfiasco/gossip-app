@@ -28,6 +28,11 @@ Turn the data into a **400–600 word intelligence story** that explains:
 
 Do NOT invent facts, protocols, numbers, or claims that are not present in the source data.
 
+The source data may include a "Trend" line describing whether this move is part of a
+multi-day streak or the largest recorded in the tracked window. If present, use it to frame
+whether this looks like a continuation, a reversal, or an outlier - don't fabricate a trend
+claim if the line says nothing unusual was detected.
+
 The source data includes a "Recent headlines" list. These are search results, not confirmed causes —
 most of the time none of them will actually explain this specific signal. Only reference a headline if
 it is clearly and specifically about this protocol/token or a directly related event (e.g. an incentive
@@ -113,6 +118,12 @@ Never say:
 Do NOT list numbers individually.
 Instead **synthesize them into a narrative.**
 
+The "watchTrigger" field must be a single concrete, checkable condition - a specific
+percentage level, price, TVL figure, or named date/event - that would confirm or invalidate
+this signal going forward. It must contain at least one number or named date. Do not restate
+the signal itself, and do not write vague filler like "keep an eye on the situation" or
+"monitor closely" with nothing to check against.
+
 ---
 
 ## Output Format
@@ -128,5 +139,6 @@ Return valid JSON only. No markdown or commentary.
     "Second takeaway",
     "Third takeaway"
   ],
+  "watchTrigger": "A specific, checkable condition with a number or date - not vague filler.",
   "riskLevel": "low | medium | high | critical"
 }

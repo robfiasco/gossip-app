@@ -127,6 +127,7 @@ export type NewsCard = {
   whyItMatters?: string;
   watchlist?: string;
   takeaways?: string[];
+  watchTrigger?: string | null;
   content?: {
     signal?: string;
     story?: string;

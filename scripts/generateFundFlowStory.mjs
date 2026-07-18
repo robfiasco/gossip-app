@@ -18,6 +18,7 @@ try {
 
 import fs from 'fs';
 import Parser from 'rss-parser';
+import { recordAndAnalyze, describeTrend } from './signalHistory.mjs';
 
 const OUTPUT_PATH = './public/data/validator_stories.json';
 const OUTPUT_PATH_MIRROR = './data/validator_stories.json';
@@ -90,7 +91,7 @@ async function fetchProtocolToken(protocol) {
   }
 }
 
-function buildFacts(protocol, token, news) {
+function buildFacts(protocol, token, news, trend) {
   const direction = protocol.change_1d >= 0 ? 'rose' : 'fell';
   const tokenClause = token ? ` Its token ${token.symbol} currently trades at ${formatUsd(token.priceUsd)}.` : '';
   const narrative = `${protocol.name} TVL ${direction} ${Math.abs(protocol.change_1d).toFixed(1)}% in the last 24h to ${formatUsd(protocol.tvl)}.${tokenClause}`;
@@ -105,6 +106,8 @@ function buildFacts(protocol, token, news) {
       ? `7d change: ${protocol.change_7d >= 0 ? '+' : ''}${protocol.change_7d.toFixed(2)}%`
       : null,
     token ? `Token: ${token.symbol}, currently ${formatUsd(token.priceUsd)}` : 'Token: none (this protocol has no associated token)',
+    '',
+    `Trend: ${describeTrend(trend)}`,
     '',
     news.length > 0
       ? `Recent headlines (last 14 days, may or may not be related - only use if clearly about this protocol/event):\n${news.map((n) => `- ${n.title} (${n.pubDate})`).join('\n')}`
@@ -205,7 +208,10 @@ async function generateStory() {
   const news = await fetchRecentNews(protocol.name);
   console.log(`📰 Recent headlines found: ${news.length}`);
 
-  const { narrative, context } = buildFacts(protocol, token, news);
+  const trend = recordAndAnalyze(`fundflow:${protocol.name}`, protocol.change_1d);
+  console.log(`📈 Trend: ${describeTrend(trend)}`);
+
+  const { narrative, context } = buildFacts(protocol, token, news, trend);
   const category = 'DeFi / Fund Flows';
 
   const prompt = STORY_PROMPT
@@ -238,6 +244,7 @@ async function generateStory() {
       tokenSymbol: token?.symbol ?? null,
       tokenPriceUsd: token?.priceUsd ?? null,
     },
+    trend,
     ctPulse: [],
     whoToFollow: [],
     content: {
@@ -245,6 +252,7 @@ async function generateStory() {
       story: storyData.story,
       takeaways: Array.isArray(storyData.takeaways) ? storyData.takeaways : [],
     },
+    watchTrigger: storyData.watchTrigger || null,
     riskLevel: storyData.riskLevel || computeRiskLevel(protocol),
     narrativeStrength: computeNarrativeStrength(protocol),
   };

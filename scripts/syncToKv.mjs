@@ -21,6 +21,7 @@ const kv = createClient({
 });
 
 const STORIES_ONLY = process.argv.includes("--stories-only");
+const DLMM_ONLY = process.argv.includes("--dlmm-only");
 
 const ALL_FILES = [
     { local: "data/signal_board.json", key: "validator:signal_board" },
@@ -28,10 +29,13 @@ const ALL_FILES = [
     { local: "public/data/validator_stories.json", key: "validator:stories" },
     { local: "data/narratives.json", key: "validator:narratives" },
     { local: "data/market_context.json", key: "validator:market_context" },
+    { local: "data/dlmm_printers.json", key: "validator:dlmm_printers" },
 ];
 
 const FILES_TO_SYNC = STORIES_ONLY
     ? ALL_FILES.filter(f => f.key === "validator:stories")
+    : DLMM_ONLY
+    ? ALL_FILES.filter(f => f.key === "validator:dlmm_printers")
     : ALL_FILES;
 
 const sync = async () => {

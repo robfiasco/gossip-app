@@ -12,6 +12,7 @@
     "articles:build": "node scripts/buildDailyArticles.mjs",
     "stories:onchain": "node scripts/generateFundFlowStory.mjs",
     "stories:marketmover": "node scripts/generateMarketMoverStory.mjs",
+    "dlmm:scan": "node scripts/dlmmScanner.mjs",
     "briefing:build": "node scripts/buildBriefing.mjs",
     "briefing:enhance": "node scripts/enhanceBriefingWithAI.mjs",
     "signal:build": "node scripts/buildSignalBoard.mjs",

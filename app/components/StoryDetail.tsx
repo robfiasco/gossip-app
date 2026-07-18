@@ -18,6 +18,7 @@ type Story = {
         [key: string]: unknown;
     };
     takeaways?: string[];
+    watchTrigger?: string | null;
     content?: { story?: string; signal?: string };
     story?: string;
     narrative?: string;
@@ -133,6 +134,15 @@ export default function StoryDetail({ story, index, total, onBack, publishDate }
                                 </div>
                             ))}
                         </div>
+                    </section>
+                ) : null
+            }
+
+            {
+                story?.watchTrigger ? (
+                    <section className="seeker-detail-card seeker-detail-watch-card">
+                        <h3>Watch Trigger</h3>
+                        <p>{story.watchTrigger}</p>
                     </section>
                 ) : null
             }

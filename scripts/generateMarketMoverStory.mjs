@@ -18,6 +18,7 @@ try {
 
 import fs from 'fs';
 import Parser from 'rss-parser';
+import { recordAndAnalyze, describeTrend } from './signalHistory.mjs';
 
 const OUTPUT_PATH = './public/data/validator_stories.json';
 const OUTPUT_PATH_MIRROR = './data/validator_stories.json';
@@ -93,7 +94,7 @@ function formatUsd(n) {
   return `$${n.toFixed(4)}`;
 }
 
-function buildFacts(coin, news) {
+function buildFacts(coin, news, trend) {
   const direction = coin.price_change_percentage_24h >= 0 ? 'rose' : 'fell';
   const narrative = `${coin.name} (${coin.symbol.toUpperCase()}) ${direction} ${Math.abs(coin.price_change_percentage_24h).toFixed(1)}% in the last 24h to ${formatUsd(coin.current_price)}.`;
 
@@ -106,6 +107,8 @@ function buildFacts(coin, news) {
     typeof coin.price_change_percentage_7d_in_currency === 'number'
       ? `7d change: ${coin.price_change_percentage_7d_in_currency >= 0 ? '+' : ''}${coin.price_change_percentage_7d_in_currency.toFixed(2)}%`
       : null,
+    '',
+    `Trend: ${describeTrend(trend)}`,
     '',
     news.length > 0
       ? `Recent headlines (last 14 days, may or may not be related - only use if clearly about this token/event):\n${news.map((n) => `- ${n.title} (${n.pubDate})`).join('\n')}`
@@ -203,7 +206,10 @@ async function generateStory() {
   const news = await fetchRecentNews(coin.name);
   console.log(`📰 Recent headlines found: ${news.length}`);
 
-  const { narrative, context } = buildFacts(coin, news);
+  const trend = recordAndAnalyze(`marketmover:${coin.id}`, coin.price_change_percentage_24h);
+  console.log(`📈 Trend: ${describeTrend(trend)}`);
+
+  const { narrative, context } = buildFacts(coin, news, trend);
   const category = 'Market Movers';
 
   const prompt = STORY_PROMPT
@@ -236,6 +242,7 @@ async function generateStory() {
       change24h: coin.price_change_percentage_24h,
       change7d: coin.price_change_percentage_7d_in_currency ?? null,
     },
+    trend,
     ctPulse: [],
     whoToFollow: [],
     content: {
@@ -243,6 +250,7 @@ async function generateStory() {
       story: storyData.story,
       takeaways: Array.isArray(storyData.takeaways) ? storyData.takeaways : [],
     },
+    watchTrigger: storyData.watchTrigger || null,
     riskLevel: storyData.riskLevel || computeRiskLevel(coin),
     narrativeStrength: computeNarrativeStrength(coin),
   };
