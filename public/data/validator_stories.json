@@ -1,68 +1,84 @@
 {
-  "generated_at": "2026-07-18T14:18:55.598Z",
+  "generated_at": "2026-07-19T14:22:31.918Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1784384335597",
+      "id": "story_onchain-marketmover_1784470951917",
       "source": "onchain-marketmover",
-      "title": "JIMOTHY Surges Nearly 300% as Trading Volume Spikes",
-      "type": "critical",
+      "title": "HOME Token Rises 16% After Recent Decline",
+      "type": "alpha",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-18T14:18:55.597Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/jimothy-the-raccoon",
+      "timestamp": "2026-07-19T14:22:31.918Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/home",
       "metrics": {
-        "token": "Jimothy The Raccoon",
-        "symbol": "JIMOTHY",
-        "priceUsd": 0.01345821,
-        "marketCapUsd": 13285280,
-        "change24h": 295.68324,
-        "change7d": null
+        "token": "HOME",
+        "symbol": "HOME",
+        "priceUsd": 0.00802856,
+        "marketCapUsd": 33987293,
+        "change24h": 16.27863,
+        "change7d": -44.62126162741269
+      },
+      "trend": {
+        "streakDays": 1,
+        "streakDirection": "up",
+        "cumulativeChange": 16.28,
+        "isLargestInWindow": false,
+        "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Jimothy The Raccoon (JIMOTHY) jumped 295.7% in 24 hours, reaching $0.0135 with $37.2M in volume.",
-        "story": "Jimothy The Raccoon (JIMOTHY) posted a dramatic 295.7% price increase over the past 24 hours, now trading at $0.0135. The token’s market cap stands at $13.3 million, with trading volume surging to $37.2 million. JIMOTHY’s sudden move has pushed it to rank #1036 by market cap, drawing attention across the Solana ecosystem.\n\n### What's Happening\n\nJIMOTHY’s price action is notable for both its scale and speed. The token’s value nearly quadrupled in a single day, accompanied by a sharp rise in trading activity. A recent headline from CoinGecko confirms the live price surge, while a report from bloomingbit highlights that a meme involving a Seattle raccoon may have contributed to the token’s rapid ascent. However, the precise catalyst behind this move remains unclear from available data.\n\nThe trading volume suggests heavy interest, with liquidity flowing in at levels far above the token’s typical activity. This kind of spike often signals a wave of new entrants or speculative trading, especially in the context of meme tokens on Solana.\n\n### Why It Matters\n\nJIMOTHY’s surge stands out in a crowded field of Solana meme tokens, where rapid price swings and viral narratives are common. The scale of the move and the liquidity involved indicate that JIMOTHY has captured significant attention, at least in the short term. Such activity can impact broader sentiment around Solana-based tokens, as traders and observers look for the next breakout.\n\nThe move also highlights the ongoing influence of internet culture and memes on token markets. Even without a clear fundamental driver, a meme or narrative can trigger substantial capital flows. This dynamic continues to shape the Solana ecosystem, where new tokens can rise quickly on the back of viral moments.\n\n### The Risk or Debate\n\nJIMOTHY’s rapid ascent comes with clear risks. Price action driven by memes or sudden attention can reverse just as quickly, especially if there is no underlying development or utility. High trading volumes may reflect speculative interest rather than long-term conviction. Without more information on the token’s fundamentals or community, the sustainability of this move is uncertain.\n\nThere is also the risk of volatility common to meme tokens. Traders entering after such a sharp increase may face significant downside if momentum fades. The lack of a clear catalyst or project update leaves open questions about what is driving the move and how long it might last.\n\n### What To Watch\n\nKey developments to monitor include whether trading volume remains elevated and if the price can hold current levels. Any new headlines, project updates, or community initiatives could influence the next phase of JIMOTHY’s trajectory. Watching for signs of sustained interest or a rapid reversal will be important in assessing whether this is a fleeting spike or the start of a longer trend.",
+        "signal": "HOME (HOME) climbed 16.3% in the past 24 hours, reaching $0.0080 after a week of steep losses.",
+        "story": "HOME (HOME) posted a sharp 16.3% gain in the last 24 hours, bringing its price to $0.0080 and pushing its market cap to $34 million. This move comes on the heels of a difficult week for the token, which saw its value drop over 44% in the previous seven days. Trading volume surged to $61 million in the same period, indicating renewed activity around the asset.\\n\\n### What's Happening\\n\\nThe recent price jump stands out mainly because it follows a period of heavy selling pressure. Despite the strong 24-hour move, on-chain trend data suggests this uptick is not outside the range of recent trading patterns. There is no evidence of an extraordinary streak or a clear reversal; rather, this appears to be a rebound within the token’s recent volatility.\\n\\nNo major headlines or news events directly linked to HOME have surfaced in the past two weeks. The available news mentions are unrelated to the token or its ecosystem, leaving the cause of this price action unclear. The move may be driven by short-term trading dynamics rather than a fundamental shift.\\n\\n### Why It Matters\\n\\nA 16% daily gain is notable for any token, especially one that just experienced a steep weekly decline. This kind of volatility can attract attention from traders looking for quick opportunities, but it also highlights the underlying uncertainty in HOME’s current market positioning.\\n\\nThe spike in trading volume suggests that liquidity remains strong, which can help absorb large trades and reduce the risk of extreme price swings. However, without a clear catalyst, it’s difficult to say whether this bounce signals renewed confidence or is simply a temporary reaction to oversold conditions.\\n\\nFor the broader Solana ecosystem, HOME’s price action is a reminder of how quickly sentiment can shift, even in the absence of news. It underscores the importance of monitoring on-chain data for early signs of changing momentum.\\n\\n### The Risk or Debate\\n\\nThe main risk here is that the price rebound may not be sustainable. With no clear news or development to explain the move, there’s a chance this is a short-lived correction rather than the start of a longer recovery. The fact that the move is within the recent range tracked on-chain suggests that volatility could continue.\\n\\nInvestors and users should be cautious about reading too much into a single day’s price action, especially after such a sharp weekly decline. The lack of a clear narrative or catalyst means the token could remain vulnerable to further swings.\\n\\n### What To Watch\\n\\nThe next key level to watch is whether HOME can reclaim ground lost during its recent slide. Sustained price action above $0.0090 would indicate a stronger recovery, while a return below $0.0070 could signal renewed weakness. Continued high trading volume without a clear driver may also point to ongoing volatility rather than a stable trend.\\n\\nFor now, the story is one of short-term momentum within a broader uncertain context. Any upcoming announcements, partnerships, or ecosystem developments could quickly shift the outlook.",
         "takeaways": [
-          "JIMOTHY surged nearly 300% in 24 hours with high trading volume.",
-          "The catalyst appears linked to meme-driven attention, but is not fully clear.",
-          "Sustainability of the move is uncertain given the lack of fundamental news."
+          "HOME rebounded 16.3% in 24 hours after a 44% weekly drop.",
+          "No clear news or catalyst explains the recent price move.",
+          "Trading volume remains high, but volatility and uncertainty persist."
         ]
       },
-      "riskLevel": "high",
-      "narrativeStrength": 8.9
+      "watchTrigger": "Sustained price movement above $0.0090 or below $0.0070 in the next 48 hours.",
+      "riskLevel": "medium",
+      "narrativeStrength": 4.7
     },
     {
-      "id": "story_onchain-fundflow_1784384319810",
+      "id": "story_onchain-fundflow_1784470943749",
       "source": "onchain-fundflow",
-      "title": "Futarchy AMM TVL Jumps 15% as META Holds $4",
+      "title": "Loopscale TVL Jumps 17% to $87M on Solana",
       "type": "alpha",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-18T14:18:39.810Z",
-      "sourceUrl": "https://metadao.fi",
+      "timestamp": "2026-07-19T14:22:23.749Z",
+      "sourceUrl": "https://loop.sl",
       "metrics": {
-        "protocol": "Futarchy AMM",
-        "tvlUsd": 14371511.73423363,
-        "change1d": 15.51343469649666,
-        "change7d": 12.630679313330148,
-        "tokenSymbol": "META",
-        "tokenPriceUsd": 3.8677682948416594
+        "protocol": "Loopscale",
+        "tvlUsd": 87227024.54106499,
+        "change1d": 17.11985892184545,
+        "change7d": 13.58368162883481,
+        "tokenSymbol": null,
+        "tokenPriceUsd": null
+      },
+      "trend": {
+        "streakDays": 1,
+        "streakDirection": "up",
+        "cumulativeChange": 17.12,
+        "isLargestInWindow": false,
+        "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Futarchy AMM’s total value locked on Solana rose 15.5% in 24 hours, reaching $14.4M, while its META token trades at $4.",
-        "story": "Futarchy AMM, a decentralized exchange on Solana, saw its total value locked (TVL) climb 15.5% over the past day, now sitting at $14.4 million. The protocol’s native token, META, is currently priced at $4. This TVL growth stands out against a backdrop of steady week-over-week gains, with a 12.6% increase over the last seven days.\n\n### What's Happening\n\nThe recent surge in TVL signals a notable influx of capital into Futarchy AMM. While there are no major headlines or announcements tied to this move, the data points to increased user activity or new liquidity entering the protocol. META’s price holding steady at $4 suggests that the market is not reacting with outsized volatility, even as more assets flow into the platform.\n\nThis growth comes without any clear external catalyst, such as a new incentive program or partnership. Instead, it likely reflects organic interest in the protocol’s offering, or possibly users reallocating funds within the Solana DeFi ecosystem.\n\n### Why It Matters\n\nA double-digit TVL increase in 24 hours is significant for any DeFi protocol, especially in a competitive environment like Solana. It signals rising confidence in Futarchy AMM’s model and may attract further attention from traders and liquidity providers seeking active venues. Sustained TVL growth can also improve the protocol’s liquidity depth, potentially leading to better trading experiences and tighter spreads for users.\n\nFor the broader Solana ecosystem, this uptick highlights ongoing activity and experimentation in decentralized finance, even without headline-grabbing events. It also suggests that users are willing to deploy capital into protocols that may not be in the media spotlight but are quietly building traction.\n\n### The Risk or Debate\n\nThe cause of the TVL spike remains unclear, which introduces some uncertainty. Rapid inflows without a clear driver can sometimes reverse just as quickly, especially if they are the result of short-term strategies or opportunistic capital. There’s also the usual risk that sudden growth could stress protocol infrastructure or attract unwanted attention from attackers, though there are no reports of issues at this time.\n\nMETA’s price stability is a positive sign, but it doesn’t guarantee that the underlying growth is sustainable. Without more transparency into the source of new deposits, it’s difficult to assess whether this is the start of a longer-term trend or a temporary blip.\n\n### What To Watch\n\nKey questions going forward include whether Futarchy AMM can retain this new capital and if TVL continues to climb in the coming days. Watch for any protocol updates, new features, or incentive programs that could explain or sustain the growth. Changes in META’s price or trading volume could also signal shifts in user sentiment or liquidity behavior.\n\nIf the trend holds, Futarchy AMM could become a more prominent player in Solana DeFi. For now, the story is one of quiet but notable momentum, with the next moves likely to come from either the protocol team or its growing user base.",
+        "signal": "Loopscale’s total value locked increased by 17.1% in the past 24 hours, reaching $87.2 million.",
+        "story": "Loopscale, a lending protocol on Solana, saw its total value locked (TVL) climb 17.1% over the last day, now sitting at $87.2 million. This marks a notable single-day increase, though it falls within the recent range of activity for the protocol. Over the past week, Loopscale’s TVL has also grown by 13.6%, signaling steady momentum rather than a sudden outlier event.\n\n### What's Happening\n\nThe recent TVL rise reflects a fresh wave of deposits into Loopscale’s lending pools. While the protocol doesn’t have an associated token, users are still allocating more capital, likely seeking yield or leveraging the protocol’s lending features. There are no unusual streaks or record-breaking inflows detected, suggesting this move is part of a broader, ongoing trend rather than a reaction to a specific event.\n\nNo recent headlines or announcements directly explain this uptick. The lack of external news points to organic growth or shifting user preferences within Solana’s DeFi landscape, rather than a catalyst like a new partnership, incentive program, or exploit.\n\n### Why It Matters\n\nLoopscale’s growth stands out in a competitive Solana DeFi environment, where protocols often rely on token incentives to attract liquidity. The fact that Loopscale is drawing in capital without a native token suggests users may value its lending products or trust its risk management. This could signal growing maturity in Solana’s DeFi sector, with users making allocation decisions based on protocol fundamentals rather than short-term rewards.\n\nA rising TVL can also improve Loopscale’s utility, as deeper liquidity typically leads to better borrowing terms and more efficient capital markets. For Solana, continued growth in native lending protocols helps diversify the ecosystem and reduce reliance on cross-chain or externally incentivized projects.\n\n### The Risk or Debate\n\nThe main risk is that, without a clear catalyst, the sustainability of these inflows is uncertain. If the TVL growth is driven by a handful of large depositors or short-term strategies, it could reverse just as quickly. Additionally, the absence of a native token means Loopscale may have fewer levers to retain users if competing protocols launch new incentives or features.\n\nThere’s also the broader risk that rapid TVL growth can sometimes precede stress events, especially if users are leveraging up or if the protocol hasn’t been tested under volatile market conditions. However, no unusual patterns or red flags have been detected in this case.\n\n### What To Watch\n\nThe next key marker will be whether Loopscale’s TVL holds above the $90 million level in the coming days. Sustained growth past this threshold would suggest deeper adoption and stickier capital, while a sharp reversal could indicate the move was temporary. Watch for any protocol updates, integrations, or ecosystem shifts that might explain or reinforce this trend.",
         "takeaways": [
-          "Futarchy AMM’s TVL rose 15.5% in 24 hours, now at $14.4M.",
-          "META token remains stable at $4 despite the TVL jump.",
-          "The reason for the inflow is unclear, making sustainability uncertain."
+          "Loopscale’s TVL rose 17.1% in 24 hours, reaching $87.2M.",
+          "Growth is organic, with no token incentives or headline-driven catalyst.",
+          "Sustained TVL above $90M would signal deeper adoption."
         ]
       },
+      "watchTrigger": "Loopscale TVL sustaining above $90 million for at least 48 hours.",
       "riskLevel": "medium",
-      "narrativeStrength": 5.1
+      "narrativeStrength": 5.5
     }
   ]
 }
