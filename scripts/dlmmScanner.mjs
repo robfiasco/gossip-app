@@ -46,6 +46,14 @@ const MIN_M5_TXNS = (() => {
   return Number.isFinite(raw) && raw >= 0 ? raw : 30;
 })();
 
+// A pool can generate real LP fees while its price bleeds out (sell volume
+// is still volume) - this filters out sustained 1h declines, not momentary
+// 5m noise. 0 = must be flat or up over the last hour.
+const MIN_PRICE_CHANGE_H1 = (() => {
+  const raw = Number(process.env.MIN_PRICE_CHANGE_H1);
+  return Number.isFinite(raw) ? raw : 0;
+})();
+
 const TIERS = {
   SAFE: {
     name: 'SAFE',
@@ -284,8 +292,11 @@ async function enrichWithDexScreener(candidates) {
           priceChange: Number(best.priceChange?.m5 ?? 0),
         }
         : null;
+      // Tracked separately from _m5 (a different field on the same pair) so a
+      // pair missing txns.m5 doesn't also lose its price-trend data, or vice versa.
+      const priceChangeH1 = typeof best?.priceChange?.h1 === 'number' ? best.priceChange.h1 : null;
 
-      return { ...p, _chartUrl: chartUrl, _m5: m5 };
+      return { ...p, _chartUrl: chartUrl, _m5: m5, _priceChangeH1: priceChangeH1 };
     })
   );
 }
@@ -296,6 +307,19 @@ function passesActivityGate(p) {
   const totalTxns = p._m5.buys + p._m5.sells;
   if (totalTxns < MIN_M5_TXNS) {
     console.log(`Skipped ${p.name}: only ${totalTxns} m5 txns (min ${MIN_M5_TXNS})`);
+    return false;
+  }
+  return true;
+}
+
+// Fail open: missing DexScreener data should never suppress an alert on its
+// own. A pool can generate real fees during a sell-off (volume is volume
+// regardless of direction), so this specifically catches sustained 1h
+// declines rather than relying on the momentary 5m tick.
+function passesPriceTrendGate(p) {
+  if (p._priceChangeH1 == null) return true;
+  if (p._priceChangeH1 < MIN_PRICE_CHANGE_H1) {
+    console.log(`Skipped ${p.name}: down ${p._priceChangeH1.toFixed(2)}% over 1h (min ${MIN_PRICE_CHANGE_H1}%)`);
     return false;
   }
   return true;
@@ -412,6 +436,7 @@ function toPublicShape(p) {
     url: `https://app.meteora.ag/dlmm/${p.address}`,
     chartUrl: p._chartUrl ?? null,
     m5: p._m5 ?? null,
+    priceChangeH1: p._priceChangeH1 ?? null,
   };
 }
 
@@ -449,9 +474,11 @@ export async function scan() {
 
   // Applied after tiering, before dedup/state - a pool dropped here gets no
   // state entry at all, so it isn't "seen" and can alert fresh once its
-  // 5m activity picks back up, rather than being stuck on cooldown.
-  const safe = enrichedSafe.filter(passesActivityGate);
-  const degen = enrichedDegen.filter(passesActivityGate);
+  // 5m activity picks back up (or its 1h price trend turns around), rather
+  // than being stuck on cooldown.
+  const passesGates = (p) => passesActivityGate(p) && passesPriceTrendGate(p);
+  const safe = enrichedSafe.filter(passesGates);
+  const degen = enrichedDegen.filter(passesGates);
   const allCandidates = [...safe, ...degen];
 
   const nowMs = Date.now();
