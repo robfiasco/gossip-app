@@ -1,12 +1,17 @@
 {
   "date": "2026-07-19",
-  "generated_at_utc": "2026-07-19T09:03:50.320Z",
-  "ctxMarket": "Attention is on Solana’s rapid growth in USDC supply and new institutional trading access. Recent whale wallet declines and ongoing technical upgrades are also in focus.",
-  "ctxTalking": "• Solana’s $70B surge in USDC supply and its impact on network liquidity\n• Morgan Stanley enabling Solana trading for E*Trade clients\n• SBI Holdings acquiring Coinhako and expanding stablecoin initiatives with Solana",
-  "ctxMatters": "Large inflows of USDC can increase liquidity and attract new activity to Solana’s ecosystem. Institutional access via E*Trade may broaden Solana’s user base. SBI’s moves signal ongoing interest in stablecoins and cross-border partnerships involving Solana.",
-  "ctxSignal": "Signal: Major institutions expanding Solana access and stablecoin infrastructure; significant USDC growth on Solana.\nNoise: Short-term speculation around whale wallet movements without broader context.",
-  "ctxGlossary": "USDC — A widely used U.S. dollar-pegged stablecoin.\nWhale wallet — A crypto wallet holding a large amount of a given token.\nStablecoin — A cryptocurrency designed to maintain a stable value, often pegged to a fiat currency.",
+  "generated_at_utc": "2026-07-19T20:06:05.617Z",
+  "ctxMarket": "Attention is on Solana’s growing USDC supply and new institutional access, with major players like Grayscale and Morgan Stanley introducing Solana-focused products. Technical updates and stablecoin strategies are also drawing interest.",
+  "ctxTalking": "• Grayscale’s plan to create quarterly cash distributions for Ethereum and Solana staking products\n• Solana’s $70B USDC supply surge and its implications for network liquidity\n• Morgan Stanley enabling Solana trading for E*Trade customers",
+  "ctxMatters": "Institutional adoption is expanding Solana’s reach and could influence network activity. Increased USDC liquidity may affect how users interact with DeFi and payments on Solana. Grayscale’s trust changes highlight competition between Ethereum and Solana for staking attention.",
+  "ctxSignal": "Signal: Institutional product launches and stablecoin inflows are shaping Solana’s ecosystem.\nNoise: Short-term whale wallet fluctuations without broader context.",
+  "ctxGlossary": "USDC — A major US dollar-backed stablecoin used for trading and payments\nStaking — Locking up tokens to help secure a network and potentially earn rewards",
   "readMore": [
+    {
+      "title": "Grayscale is setting up a quarterly cash showdown between Ethereum and Solana staking",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking"
+    },
     {
       "title": "Solana sees $70B USDC surge",
       "source": "AMB Crypto",
@@ -16,11 +21,6 @@
       "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
       "source": "Decrypt",
       "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade"
-    },
-    {
-      "title": "Solana Changelog",
-      "source": "Solana News",
-      "url": "https://solana.com/news/solana-changelog-july-16-2026"
     }
   ]
 }
