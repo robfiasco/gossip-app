@@ -41,6 +41,11 @@ const SCAN_CONFIG = {
   maxResultsPerTier: 8, // not in spec - a guardrail so a busy market can't spam an unbounded alert
 };
 
+const MIN_M5_TXNS = (() => {
+  const raw = Number(process.env.MIN_M5_TXNS);
+  return Number.isFinite(raw) && raw >= 0 ? raw : 30;
+})();
+
 const TIERS = {
   SAFE: {
     name: 'SAFE',
@@ -92,12 +97,14 @@ function poolAgeHours(pool) {
 // takes a cut before LPs get paid (commonly 5-20%, verified live: standard
 // pools mostly 5%, pump.fun launches 10%, some others 20% - varies per pool,
 // not just by launchpad tag). Read per-pool rather than assuming a tier.
-function getProtocolFeePct(p) {
-  const raw = p.pool_config?.protocol_fee_pct ?? p.protocol_fee_pct;
-  if (raw == null) return 10; // fallback if the field is ever missing
+// Checked in order: pool_config.protocol_fee_pct, pool_config.protocol_share,
+// top-level protocol_fee_pct - only falls back to 10 if none of those exist.
+function resolveProtocolFeePct(p) {
+  const raw = p.pool_config?.protocol_fee_pct ?? p.pool_config?.protocol_share ?? p.protocol_fee_pct;
+  if (raw == null) return { value: 10, wasFallback: true };
   const val = Number(raw);
-  if (!Number.isFinite(val)) return 10;
-  return val > 100 ? val / 100 : val; // defensively handle basis points
+  if (!Number.isFinite(val)) return { value: 10, wasFallback: true };
+  return { value: val > 100 ? val / 100 : val, wasFallback: false }; // defensively handle basis points
 }
 
 function qualifiesForTier(p, tier) {
@@ -118,10 +125,20 @@ function classifyPool(p) {
 }
 
 function findCandidates(pools) {
+  let protocolFeeRead = 0;
+  let protocolFeeFallback = 0;
+
   const classified = pools
     .filter((p) => p.is_blacklisted !== true)
     .map((p) => {
-      const protocolFeePct = getProtocolFeePct(p);
+      const { value: protocolFeePct, wasFallback } = resolveProtocolFeePct(p);
+      if (wasFallback) {
+        protocolFeeFallback += 1;
+        console.warn(`WARN: protocol_fee_pct missing for ${p.name} (${p.address}), using 10%`);
+      } else {
+        protocolFeeRead += 1;
+      }
+
       const lpShare = 1 - protocolFeePct / 100;
       const enriched = {
         ...p,
@@ -137,6 +154,8 @@ function findCandidates(pools) {
       return { ...enriched, _tier: classifyPool(enriched), _momentum: enriched._feeTvl30m > enriched._feeTvl1h };
     })
     .filter((p) => p._tier !== null);
+
+  console.log(`Protocol fee sources: ${protocolFeeRead} read, ${protocolFeeFallback} fallback`);
 
   const byFeeTvl30mDesc = (a, b) => b._feeTvl30m - a._feeTvl30m;
 
@@ -211,32 +230,78 @@ function projectTokenMint(p) {
   return p.token_x?.address ?? null;
 }
 
-// Best-effort: resolves the actual DexScreener pair URL for a token, straight
-// from their own API - safer than hand-building a URL, since their site 403s
-// any bot-like request so a hand-built link can't be verified directly. Falls
-// back to a plain token-address URL (the commonly-shared DexScreener pattern)
-// if the API call fails or the token has no indexed pair yet.
-async function fetchDexScreenerUrl(tokenAddress) {
-  try {
-    const res = await fetch(`https://api.dexscreener.com/latest/dex/tokens/${tokenAddress}`);
-    if (!res.ok) return null;
-    const json = await res.json();
-    const pairs = Array.isArray(json?.pairs) ? json.pairs : [];
-    return pairs[0]?.url ?? null;
-  } catch {
-    return null;
-  }
+// Picks the DexScreener pair that's actually this Meteora pool (matched by
+// on-chain pool address, verified live: DexScreener does index individual
+// Meteora DLMM pools with dexId "meteora" and a pairAddress equal to the
+// pool's own address) - falling back to the highest-liquidity pair for the
+// token if this exact pool isn't indexed yet.
+function pickBestPair(pairs, poolAddress) {
+  if (!Array.isArray(pairs) || pairs.length === 0) return null;
+  const exact = pairs.find((pair) => pair?.pairAddress === poolAddress);
+  if (exact) return exact;
+  return [...pairs].sort((a, b) => Number(b?.liquidity?.usd ?? 0) - Number(a?.liquidity?.usd ?? 0))[0] ?? null;
 }
 
-async function enrichWithChartUrl(candidates) {
+// Best-effort: one DexScreener call per token mint (cached within this run,
+// so pools sharing a token - e.g. several bin-step variants of the same pair
+// - don't each trigger their own request), used for both the chart link and
+// the 5m activity segment in the alert message.
+async function enrichWithDexScreener(candidates) {
+  const cache = new Map(); // mint -> Promise<pairs[] | null>
+
+  const fetchPairs = (mint) => {
+    if (cache.has(mint)) return cache.get(mint);
+    const promise = (async () => {
+      try {
+        const res = await fetch(`https://api.dexscreener.com/latest/dex/tokens/${mint}`);
+        if (!res.ok) return null;
+        const json = await res.json();
+        return Array.isArray(json?.pairs) ? json.pairs : null;
+      } catch {
+        return null;
+      }
+    })();
+    cache.set(mint, promise);
+    return promise;
+  };
+
   return Promise.all(
     candidates.map(async (p) => {
       const mint = projectTokenMint(p);
-      if (!mint) return { ...p, _chartUrl: null };
-      const chartUrl = (await fetchDexScreenerUrl(mint)) ?? `https://dexscreener.com/solana/${mint}`;
-      return { ...p, _chartUrl: chartUrl };
+      if (!mint) return { ...p, _chartUrl: null, _m5: null };
+
+      const pairs = await fetchPairs(mint);
+      const best = pickBestPair(pairs, p.address);
+      const chartUrl = best?.url ?? `https://dexscreener.com/solana/${mint}`;
+      const m5 = best?.txns?.m5
+        ? {
+          buys: Number(best.txns.m5.buys ?? 0),
+          sells: Number(best.txns.m5.sells ?? 0),
+          priceChange: Number(best.priceChange?.m5 ?? 0),
+        }
+        : null;
+
+      return { ...p, _chartUrl: chartUrl, _m5: m5 };
     })
   );
+}
+
+// Fail open: missing DexScreener data should never suppress an alert on its own.
+function passesActivityGate(p) {
+  if (!p._m5) return true;
+  const totalTxns = p._m5.buys + p._m5.sells;
+  if (totalTxns < MIN_M5_TXNS) {
+    console.log(`Skipped ${p.name}: only ${totalTxns} m5 txns (min ${MIN_M5_TXNS})`);
+    return false;
+  }
+  return true;
+}
+
+function formatM5Segment(m5) {
+  if (!m5) return '| 5m: n/a';
+  const total = m5.buys + m5.sells;
+  const sign = m5.priceChange >= 0 ? '+' : '';
+  return `| 5m: ${total} tx (${m5.buys}B/${m5.sells}S) ${sign}${m5.priceChange.toFixed(1)}%`;
 }
 
 function formatPoolBlock(p) {
@@ -250,7 +315,7 @@ function formatPoolBlock(p) {
   const links = [`<https://app.meteora.ag/dlmm/${p.address}|Meteora ↗>`];
   if (p._chartUrl) links.push(`<${p._chartUrl}|Chart ↗>`);
 
-  return `${emoji} *${p.name}* (${binStep}/${baseFee}%)${momentum} — TVL ${usd(p._tvl)} | 30m net fees ${usd(p._fees30m)} | net fee/TVL 30m ${p._feeTvl30m.toFixed(2)}% (after ${p._protocolFeePct}% protocol cut) | age ${formatAge(p._ageHours)}\n${links.join(' · ')}`;
+  return `${emoji} *${p.name}* (${binStep}/${baseFee}%)${momentum} — TVL ${usd(p._tvl)} | 30m net fees ${usd(p._fees30m)} | net fee/TVL 30m ${p._feeTvl30m.toFixed(2)}% (after ${p._protocolFeePct}% protocol cut) | age ${formatAge(p._ageHours)} ${formatM5Segment(p._m5)}\n${links.join(' · ')}`;
 }
 
 function formatTierMessage(tierName, pools) {
@@ -323,6 +388,7 @@ function toPublicShape(p) {
     baseFeePct: p.pool_config?.base_fee_pct ?? null,
     url: `https://app.meteora.ag/dlmm/${p.address}`,
     chartUrl: p._chartUrl ?? null,
+    m5: p._m5 ?? null,
   };
 }
 
@@ -348,12 +414,21 @@ export async function scan() {
   // upstream - this is an undocumented endpoint.
   if (process.env.DEBUG === '1' && pools[0]) {
     console.log('Raw pool sample:', JSON.stringify(pools[0], null, 2));
+    console.log('pool_config keys:', Object.keys(pools[0].pool_config ?? {}));
+    const feeRelatedTopLevel = Object.keys(pools[0]).filter((k) => /protocol|fee/i.test(k));
+    console.log('Top-level fields containing "protocol" or "fee":', feeRelatedTopLevel);
   }
 
   const candidates = findCandidates(pools);
-  const enriched = await enrichWithChartUrl([...candidates.safe, ...candidates.degen]);
-  const safe = enriched.slice(0, candidates.safe.length);
-  const degen = enriched.slice(candidates.safe.length);
+  const enriched = await enrichWithDexScreener([...candidates.safe, ...candidates.degen]);
+  const enrichedSafe = enriched.slice(0, candidates.safe.length);
+  const enrichedDegen = enriched.slice(candidates.safe.length);
+
+  // Applied after tiering, before dedup/state - a pool dropped here gets no
+  // state entry at all, so it isn't "seen" and can alert fresh once its
+  // 5m activity picks back up, rather than being stuck on cooldown.
+  const safe = enrichedSafe.filter(passesActivityGate);
+  const degen = enrichedDegen.filter(passesActivityGate);
   const allCandidates = [...safe, ...degen];
 
   const nowMs = Date.now();
