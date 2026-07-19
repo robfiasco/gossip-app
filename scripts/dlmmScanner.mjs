@@ -350,17 +350,63 @@ function formatTierMessage(tierName, pools) {
   return `${header}\n\n${pools.map(formatPoolBlock).join('\n\n')}`;
 }
 
+// Slack-only: one Block Kit "attachment" per pool, which is the only way an
+// incoming webhook can get a colored left border - plain `blocks` alone
+// don't support it. Telegram gets the plain-text version above instead,
+// since it has no equivalent to Block Kit.
+function buildSlackAttachment(p) {
+  const emoji = TIERS[p._tier].emoji;
+  const reasonLabel = REASON_LABELS[p._alertReason] ?? '';
+  const color = p._tier === 'DEGEN' ? '#e01e5a' : '#2eb67d'; // Slack's own red/green
+  const m5Text = p._m5 ? `${p._m5.buys + p._m5.sells} tx` : 'n/a';
+
+  const links = [`<https://app.meteora.ag/dlmm/${p.address}|Meteora ↗>`];
+  if (p._chartUrl) links.push(`<${p._chartUrl}|Chart ↗>`);
+
+  return {
+    color,
+    blocks: [
+      {
+        type: 'section',
+        text: { type: 'mrkdwn', text: `${emoji} *${p.name}*${reasonLabel ? `  ·  ${reasonLabel}` : ''}` },
+      },
+      {
+        type: 'section',
+        fields: [
+          { type: 'mrkdwn', text: `*TVL*\n${usd(p._tvl)}` },
+          { type: 'mrkdwn', text: `*30m Net Fees*\n${usd(p._fees30m)}` },
+          { type: 'mrkdwn', text: `*Fee/TVL*\n${p._feeTvl30m.toFixed(2)}%` },
+          { type: 'mrkdwn', text: `*5m Activity*\n${m5Text}` },
+        ],
+      },
+      {
+        type: 'context',
+        elements: [{ type: 'mrkdwn', text: links.join(' · ') }],
+      },
+    ],
+  };
+}
+
+function buildSlackPayload(tierName, pools) {
+  if (pools.length === 0) return null;
+  const timestamp = formatTimestamp(new Date());
+  const text = tierName === 'DEGEN'
+    ? `🚨 *DEGEN Hot Pools* — ${timestamp}\n⚠️ Degen tier: high IL/rug risk. Small size, fast exits.`
+    : `🟢 *SAFE Hot Pools* — ${timestamp}`;
+  return { text, attachments: pools.map(buildSlackAttachment) };
+}
+
 // ============================================================================
 // SENDERS
 // ============================================================================
 
-async function sendSlack(text, webhookUrl) {
+async function sendSlack(payload, webhookUrl) {
   if (!webhookUrl) return;
   try {
     await fetch(webhookUrl, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ text }),
+      body: JSON.stringify(payload),
     });
   } catch (error) {
     console.error('Slack send failed:', error.message);
@@ -386,9 +432,10 @@ async function sendTelegram(text) {
 }
 
 async function sendTierAlert(tierName, pools, webhookUrl) {
-  const message = formatTierMessage(tierName, pools);
-  if (!message) return false;
-  await Promise.all([sendSlack(message, webhookUrl), sendTelegram(message)]);
+  const plainMessage = formatTierMessage(tierName, pools);
+  if (!plainMessage) return false;
+  const slackPayload = buildSlackPayload(tierName, pools);
+  await Promise.all([sendSlack(slackPayload, webhookUrl), sendTelegram(plainMessage)]);
   return true;
 }
 
