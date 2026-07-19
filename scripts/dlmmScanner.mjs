@@ -88,6 +88,18 @@ function poolAgeHours(pool) {
   return (Date.now() - createdAt) / (60 * 60 * 1000);
 }
 
+// The API's `fees` / `fee_tvl_ratio` are gross trading fees - the protocol
+// takes a cut before LPs get paid (commonly 5-20%, verified live: standard
+// pools mostly 5%, pump.fun launches 10%, some others 20% - varies per pool,
+// not just by launchpad tag). Read per-pool rather than assuming a tier.
+function getProtocolFeePct(p) {
+  const raw = p.pool_config?.protocol_fee_pct ?? p.protocol_fee_pct;
+  if (raw == null) return 10; // fallback if the field is ever missing
+  const val = Number(raw);
+  if (!Number.isFinite(val)) return 10;
+  return val > 100 ? val / 100 : val; // defensively handle basis points
+}
+
 function qualifiesForTier(p, tier) {
   return (
     p._tvl >= tier.minTvlUsd &&
@@ -109,13 +121,18 @@ function findCandidates(pools) {
   const classified = pools
     .filter((p) => p.is_blacklisted !== true)
     .map((p) => {
+      const protocolFeePct = getProtocolFeePct(p);
+      const lpShare = 1 - protocolFeePct / 100;
       const enriched = {
         ...p,
         _tvl: Number(p.tvl ?? p.liquidity ?? 0),
-        _fees30m: Number(p.fees?.['30m'] ?? 0),
-        _feeTvl30m: Number(p.fee_tvl_ratio?.['30m'] ?? 0),
-        _feeTvl1h: Number(p.fee_tvl_ratio?.['1h'] ?? 0),
+        // Net of the protocol's cut - everything downstream (tier thresholds,
+        // sorting, momentum, message text) operates on what LPs actually earn.
+        _fees30m: Number(p.fees?.['30m'] ?? 0) * lpShare,
+        _feeTvl30m: Number(p.fee_tvl_ratio?.['30m'] ?? 0) * lpShare,
+        _feeTvl1h: Number(p.fee_tvl_ratio?.['1h'] ?? 0) * lpShare,
         _ageHours: poolAgeHours(p),
+        _protocolFeePct: protocolFeePct,
       };
       return { ...enriched, _tier: classifyPool(enriched), _momentum: enriched._feeTvl30m > enriched._feeTvl1h };
     })
@@ -194,19 +211,46 @@ function projectTokenMint(p) {
   return p.token_x?.address ?? null;
 }
 
+// Best-effort: resolves the actual DexScreener pair URL for a token, straight
+// from their own API - safer than hand-building a URL, since their site 403s
+// any bot-like request so a hand-built link can't be verified directly. Falls
+// back to a plain token-address URL (the commonly-shared DexScreener pattern)
+// if the API call fails or the token has no indexed pair yet.
+async function fetchDexScreenerUrl(tokenAddress) {
+  try {
+    const res = await fetch(`https://api.dexscreener.com/latest/dex/tokens/${tokenAddress}`);
+    if (!res.ok) return null;
+    const json = await res.json();
+    const pairs = Array.isArray(json?.pairs) ? json.pairs : [];
+    return pairs[0]?.url ?? null;
+  } catch {
+    return null;
+  }
+}
+
+async function enrichWithChartUrl(candidates) {
+  return Promise.all(
+    candidates.map(async (p) => {
+      const mint = projectTokenMint(p);
+      if (!mint) return { ...p, _chartUrl: null };
+      const chartUrl = (await fetchDexScreenerUrl(mint)) ?? `https://dexscreener.com/solana/${mint}`;
+      return { ...p, _chartUrl: chartUrl };
+    })
+  );
+}
+
 function formatPoolBlock(p) {
   const binStep = p.pool_config?.bin_step ?? '?';
   const baseFee = p.pool_config?.base_fee_pct ?? '?';
   const emoji = TIERS[p._tier].emoji;
   const momentum = p._momentum ? ' 📈' : '';
-  const mint = projectTokenMint(p);
 
   // Slack mrkdwn link syntax - collapses two lines of raw addresses into one
   // line of short clickable labels.
   const links = [`<https://app.meteora.ag/dlmm/${p.address}|Meteora ↗>`];
-  if (mint) links.push(`<https://gmgn.ai/sol/token/${mint}|Chart ↗>`);
+  if (p._chartUrl) links.push(`<${p._chartUrl}|Chart ↗>`);
 
-  return `${emoji} *${p.name}* (${binStep}/${baseFee}%)${momentum} — TVL ${usd(p._tvl)} | 30m fees ${usd(p._fees30m)} | fee/TVL 30m ${p._feeTvl30m.toFixed(2)}% | age ${formatAge(p._ageHours)}\n${links.join(' · ')}`;
+  return `${emoji} *${p.name}* (${binStep}/${baseFee}%)${momentum} — TVL ${usd(p._tvl)} | 30m net fees ${usd(p._fees30m)} | net fee/TVL 30m ${p._feeTvl30m.toFixed(2)}% (after ${p._protocolFeePct}% protocol cut) | age ${formatAge(p._ageHours)}\n${links.join(' · ')}`;
 }
 
 function formatTierMessage(tierName, pools) {
@@ -270,14 +314,15 @@ function toPublicShape(p) {
     tier: p._tier,
     momentum: p._momentum,
     tvlUsd: p._tvl,
-    fees30mUsd: p._fees30m,
-    feeTvlRatio30m: p._feeTvl30m,
-    feeTvlRatio1h: p._feeTvl1h,
+    fees30mUsd: p._fees30m, // net of protocol cut
+    feeTvlRatio30m: p._feeTvl30m, // net of protocol cut
+    feeTvlRatio1h: p._feeTvl1h, // net of protocol cut
+    protocolFeePct: p._protocolFeePct,
     ageHours: Math.round(p._ageHours * 10) / 10,
     binStep: p.pool_config?.bin_step ?? null,
     baseFeePct: p.pool_config?.base_fee_pct ?? null,
     url: `https://app.meteora.ag/dlmm/${p.address}`,
-    chartUrl: projectTokenMint(p) ? `https://gmgn.ai/sol/token/${projectTokenMint(p)}` : null,
+    chartUrl: p._chartUrl ?? null,
   };
 }
 
@@ -305,7 +350,10 @@ export async function scan() {
     console.log('Raw pool sample:', JSON.stringify(pools[0], null, 2));
   }
 
-  const { safe, degen } = findCandidates(pools);
+  const candidates = findCandidates(pools);
+  const enriched = await enrichWithChartUrl([...candidates.safe, ...candidates.degen]);
+  const safe = enriched.slice(0, candidates.safe.length);
+  const degen = enriched.slice(candidates.safe.length);
   const allCandidates = [...safe, ...degen];
 
   const nowMs = Date.now();
