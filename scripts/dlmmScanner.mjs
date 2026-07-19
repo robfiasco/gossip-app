@@ -4,8 +4,8 @@
  *
  * Finds Meteora DLMM pools currently earning outsized fees relative to their
  * TVL ("printers"), classifies them into a SAFE and a DEGEN tier, and alerts
- * to Slack (+ Telegram, if configured) only on new/upgraded/stale-cooldown
- * pools - not every pool on every run.
+ * to Slack only on new/upgraded/stale-cooldown pools - not every pool on
+ * every run.
  *
  * Two persisted outputs:
  *  - data/dlmm_printers.json (+ public/data/ mirror): current snapshot for
@@ -301,30 +301,11 @@ function passesActivityGate(p) {
   return true;
 }
 
-// Message shows just the tx count - buy/sell split and price-change are still
-// in the /api/scan output (toPublicShape) for the app, just trimmed here.
-function formatM5Segment(m5) {
-  if (!m5) return '5m: n/a';
-  return `5m: ${m5.buys + m5.sells} tx`;
-}
-
 const REASON_LABELS = {
   new: '🆕 new',
   refresh: '🔁 still printing',
   upgraded: '⬆️ upgraded from SAFE',
 };
-
-function formatPoolBlock(p) {
-  const emoji = TIERS[p._tier].emoji;
-  const reasonLabel = REASON_LABELS[p._alertReason] ?? '';
-
-  // Slack mrkdwn link syntax - collapses two lines of raw addresses into one
-  // line of short clickable labels.
-  const links = [`<https://app.meteora.ag/dlmm/${p.address}|Meteora ↗>`];
-  if (p._chartUrl) links.push(`<${p._chartUrl}|Chart ↗>`);
-
-  return `${emoji} *${p.name}* — TVL ${usd(p._tvl)} | 30m net fees ${usd(p._fees30m)} | fee/TVL ${p._feeTvl30m.toFixed(2)}% | ${formatM5Segment(p._m5)} | ${reasonLabel}\n${links.join(' · ')}`;
-}
 
 // Formats as Eastern time (EDT/EST, whichever applies) rather than GMT.
 function formatTimestamp(date) {
@@ -341,21 +322,9 @@ function formatTimestamp(date) {
   });
 }
 
-function formatTierMessage(tierName, pools) {
-  if (pools.length === 0) return null;
-  const timestamp = formatTimestamp(new Date());
-  const header = tierName === 'DEGEN'
-    ? `🚨 DEGEN Hot Pools — ${timestamp}\n⚠️ Degen tier: high IL/rug risk. Small size, fast exits.`
-    : `🟢 SAFE Hot Pools — ${timestamp}`;
-  return `${header}\n\n${pools.map(formatPoolBlock).join('\n\n')}`;
-}
-
-// Slack-only: one Block Kit "attachment" per pool, which is the only way an
-// incoming webhook can get a colored left border - plain `blocks` alone
-// don't support it. Telegram gets the plain-text version above instead,
-// since it has no equivalent to Block Kit.
+// One Block Kit "attachment" per pool, which is the only way an incoming
+// webhook can get a colored left border - plain `blocks` alone don't support it.
 function buildSlackAttachment(p) {
-  const emoji = TIERS[p._tier].emoji;
   const reasonLabel = REASON_LABELS[p._alertReason] ?? '';
   const color = p._tier === 'DEGEN' ? '#e01e5a' : '#2eb67d'; // Slack's own red/green
   const m5Text = p._m5 ? `${p._m5.buys + p._m5.sells} tx` : 'n/a';
@@ -365,10 +334,11 @@ function buildSlackAttachment(p) {
 
   return {
     color,
+    // No tier emoji here - the colored bar already says SAFE vs DEGEN.
     blocks: [
       {
         type: 'section',
-        text: { type: 'mrkdwn', text: `${emoji} *${p.name}*${reasonLabel ? `  ·  ${reasonLabel}` : ''}` },
+        text: { type: 'mrkdwn', text: `*${p.name}*${reasonLabel ? `  ·  ${reasonLabel}` : ''}` },
       },
       {
         type: 'section',
@@ -391,8 +361,8 @@ function buildSlackPayload(tierName, pools) {
   if (pools.length === 0) return null;
   const timestamp = formatTimestamp(new Date());
   const text = tierName === 'DEGEN'
-    ? `🚨 *DEGEN Hot Pools* — ${timestamp}\n⚠️ Degen tier: high IL/rug risk. Small size, fast exits.`
-    : `🟢 *SAFE Hot Pools* — ${timestamp}`;
+    ? `*DEGEN Hot Pools* — ${timestamp}\n⚠️ Degen tier: high IL/rug risk. Small size, fast exits.`
+    : `*SAFE Hot Pools* — ${timestamp}`;
   return { text, attachments: pools.map(buildSlackAttachment) };
 }
 
@@ -413,29 +383,10 @@ async function sendSlack(payload, webhookUrl) {
   }
 }
 
-// Note: `text` uses Slack's <url|label> link syntax, which Telegram renders
-// as literal text, not a link. Fine while Telegram is unconfigured; revisit
-// the message format if Telegram is ever wired up for real.
-async function sendTelegram(text) {
-  const token = process.env.TELEGRAM_BOT_TOKEN;
-  const chatId = process.env.TELEGRAM_CHAT_ID;
-  if (!token || !chatId) return;
-  try {
-    await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ chat_id: chatId, text, disable_web_page_preview: true }),
-    });
-  } catch (error) {
-    console.error('Telegram send failed:', error.message);
-  }
-}
-
 async function sendTierAlert(tierName, pools, webhookUrl) {
-  const plainMessage = formatTierMessage(tierName, pools);
-  if (!plainMessage) return false;
   const slackPayload = buildSlackPayload(tierName, pools);
-  await Promise.all([sendSlack(slackPayload, webhookUrl), sendTelegram(plainMessage)]);
+  if (!slackPayload) return false;
+  await sendSlack(slackPayload, webhookUrl);
   return true;
 }
 
