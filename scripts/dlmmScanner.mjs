@@ -190,12 +190,19 @@ function pruneState(state, nowMs) {
 }
 
 // New to the list, upgraded SAFE -> DEGEN, or its last alert aged out of the cooldown.
-function shouldAlert(pool, state, nowMs) {
+// Returns why (or whether) this pool is worth alerting on right now - the
+// same reason doubles as the "why are you seeing this" tag in the message.
+function alertReason(pool, state, nowMs) {
   const existing = state[pool.address];
-  if (!existing) return true;
-  if (existing.tier === 'SAFE' && pool._tier === 'DEGEN') return true;
+  if (!existing) return 'new';
+  if (existing.tier === 'SAFE' && pool._tier === 'DEGEN') return 'upgraded';
   const lastAlertMs = Date.parse(existing.alertedAt ?? '');
-  return !Number.isFinite(lastAlertMs) || nowMs - lastAlertMs > REALERT_COOLDOWN_MS;
+  if (!Number.isFinite(lastAlertMs) || nowMs - lastAlertMs > REALERT_COOLDOWN_MS) return 'refresh';
+  return null;
+}
+
+function shouldAlert(pool, state, nowMs) {
+  return alertReason(pool, state, nowMs) !== null;
 }
 
 function updateState(state, allCandidates, alertedAddresses, nowIso) {
@@ -301,15 +308,22 @@ function formatM5Segment(m5) {
   return `5m: ${m5.buys + m5.sells} tx`;
 }
 
+const REASON_LABELS = {
+  new: '🆕 new',
+  refresh: '🔁 still printing',
+  upgraded: '⬆️ upgraded from SAFE',
+};
+
 function formatPoolBlock(p) {
   const emoji = TIERS[p._tier].emoji;
+  const reasonLabel = REASON_LABELS[p._alertReason] ?? '';
 
   // Slack mrkdwn link syntax - collapses two lines of raw addresses into one
   // line of short clickable labels.
   const links = [`<https://app.meteora.ag/dlmm/${p.address}|Meteora ↗>`];
   if (p._chartUrl) links.push(`<${p._chartUrl}|Chart ↗>`);
 
-  return `${emoji} *${p.name}* — TVL ${usd(p._tvl)} | 30m net fees ${usd(p._fees30m)} | fee/TVL ${p._feeTvl30m.toFixed(2)}% | ${formatM5Segment(p._m5)}\n${links.join(' · ')}`;
+  return `${emoji} *${p.name}* — TVL ${usd(p._tvl)} | 30m net fees ${usd(p._fees30m)} | fee/TVL ${p._feeTvl30m.toFixed(2)}% | ${formatM5Segment(p._m5)} | ${reasonLabel}\n${links.join(' · ')}`;
 }
 
 // Formats as Eastern time (EDT/EST, whichever applies) rather than GMT.
@@ -445,8 +459,15 @@ export async function scan() {
   const nowIso = new Date(nowMs).toISOString();
   const state = pruneState(loadState(), nowMs);
 
-  const safeToAlert = safe.filter((p) => shouldAlert(p, state, nowMs));
-  const degenToAlert = degen.filter((p) => shouldAlert(p, state, nowMs));
+  // Tag each pool with why it's alerting - same value drives the message's
+  // "new / still printing / upgraded" line.
+  const tagReason = (list) =>
+    list
+      .map((p) => ({ ...p, _alertReason: alertReason(p, state, nowMs) }))
+      .filter((p) => p._alertReason !== null);
+
+  const safeToAlert = tagReason(safe);
+  const degenToAlert = tagReason(degen);
   const alertedAddresses = new Set([...safeToAlert, ...degenToAlert].map((p) => p.address));
 
   // Both tiers post to the same channel - one webhook, no separate DEGEN routing.
