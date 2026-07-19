@@ -221,9 +221,6 @@ const usd = (n) =>
     : n >= 1_000 ? `$${(n / 1_000).toFixed(1)}K`
       : `$${n.toFixed(0)}`;
 
-const formatAge = (hours) =>
-  hours >= 24 ? `${(hours / 24).toFixed(1)}d` : `${hours.toFixed(1)}h`;
-
 function projectTokenMint(p) {
   if (p.token_y?.address === WSOL_MINT) return p.token_x?.address ?? null;
   if (p.token_x?.address === WSOL_MINT) return p.token_y?.address ?? null;
@@ -297,32 +294,45 @@ function passesActivityGate(p) {
   return true;
 }
 
+// Message shows just the tx count - buy/sell split and price-change are still
+// in the /api/scan output (toPublicShape) for the app, just trimmed here.
 function formatM5Segment(m5) {
-  if (!m5) return '| 5m: n/a';
-  const total = m5.buys + m5.sells;
-  const sign = m5.priceChange >= 0 ? '+' : '';
-  return `| 5m: ${total} tx (${m5.buys}B/${m5.sells}S) ${sign}${m5.priceChange.toFixed(1)}%`;
+  if (!m5) return '5m: n/a';
+  return `5m: ${m5.buys + m5.sells} tx`;
 }
 
 function formatPoolBlock(p) {
-  const binStep = p.pool_config?.bin_step ?? '?';
-  const baseFee = p.pool_config?.base_fee_pct ?? '?';
   const emoji = TIERS[p._tier].emoji;
-  const momentum = p._momentum ? ' 📈' : '';
 
   // Slack mrkdwn link syntax - collapses two lines of raw addresses into one
   // line of short clickable labels.
   const links = [`<https://app.meteora.ag/dlmm/${p.address}|Meteora ↗>`];
   if (p._chartUrl) links.push(`<${p._chartUrl}|Chart ↗>`);
 
-  return `${emoji} *${p.name}* (${binStep}/${baseFee}%)${momentum} — TVL ${usd(p._tvl)} | 30m net fees ${usd(p._fees30m)} | net fee/TVL 30m ${p._feeTvl30m.toFixed(2)}% (after ${p._protocolFeePct}% protocol cut) | age ${formatAge(p._ageHours)} ${formatM5Segment(p._m5)}\n${links.join(' · ')}`;
+  return `${emoji} *${p.name}* — TVL ${usd(p._tvl)} | 30m net fees ${usd(p._fees30m)} | fee/TVL ${p._feeTvl30m.toFixed(2)}% | ${formatM5Segment(p._m5)}\n${links.join(' · ')}`;
+}
+
+// Formats as Eastern time (EDT/EST, whichever applies) rather than GMT.
+function formatTimestamp(date) {
+  return date.toLocaleString('en-US', {
+    timeZone: 'America/New_York',
+    weekday: 'short',
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: '2-digit',
+    second: '2-digit',
+    timeZoneName: 'short',
+  });
 }
 
 function formatTierMessage(tierName, pools) {
   if (pools.length === 0) return null;
+  const timestamp = formatTimestamp(new Date());
   const header = tierName === 'DEGEN'
-    ? `🚨 DEGEN Hot Pools — ${new Date().toUTCString()}\n⚠️ Degen tier: high IL/rug risk. Small size, fast exits.`
-    : `🟢 SAFE Hot Pools — ${new Date().toUTCString()}`;
+    ? `🚨 DEGEN Hot Pools — ${timestamp}\n⚠️ Degen tier: high IL/rug risk. Small size, fast exits.`
+    : `🟢 SAFE Hot Pools — ${timestamp}`;
   return `${header}\n\n${pools.map(formatPoolBlock).join('\n\n')}`;
 }
 
