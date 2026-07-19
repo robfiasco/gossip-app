@@ -302,7 +302,8 @@ function passesActivityGate(p) {
 }
 
 const REASON_LABELS = {
-  new: '🆕 new',
+  // Slack renders 🆕 as its own "NEW" badge - no need to spell it out too.
+  new: '🆕',
   refresh: '🔁 still printing',
   upgraded: '⬆️ upgraded from SAFE',
 };
