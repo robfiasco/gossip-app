@@ -1,8 +1,26 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "RISK",
+      "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
+      "category": "RISK",
+      "source": "CoinDesk",
+      "date": "2026-07-20",
+      "url": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
+      "whyYouShouldCare": "The halt of Allbridge due to a flash loan exploit raises concerns about security and trust in cross-chain protocols, impacting liquidity across connected ecosystems."
+    },
+    {
+      "type": "RISK",
+      "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
+      "category": "RISK",
+      "source": "The Block",
+      "date": "2026-07-20",
+      "url": "https://www.theblock.co/post/408855/allbridge-core-exploit",
+      "whyYouShouldCare": "Allbridge's pause highlights vulnerabilities in DeFi, which could deter users from engaging with cross-chain solutions, affecting overall ecosystem usage."
+    },
     {
       "type": "MARKET",
       "title": "Grayscale is setting up a quarterly cash showdown between Ethereum and Solana staking",
@@ -10,25 +28,7 @@
       "source": "CryptoSlate",
       "date": "2026-07-19",
       "url": "https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking",
-      "whyYouShouldCare": "Grayscale's upcoming cash showdown could influence staking dynamics, impacting Solana's liquidity and competitive positioning against Ethereum."
-    },
-    {
-      "type": "APPS",
-      "title": "Examining why Solana’s liquidation heatmap has identified THESE price targets",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-07-19",
-      "url": "https://ambcrypto.com/examining-why-solanas-liquidation-heatmap-has-identified-these-price-targets",
-      "whyYouShouldCare": "The identified price targets on Solana's liquidation heatmap signal potential volatility, which could affect market sentiment and trading strategies."
-    },
-    {
-      "type": "APPS",
-      "title": "Assessing Bitcoin’s sideways drift as dormant $290M BTC whale reloads",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-07-19",
-      "url": "https://ambcrypto.com/assessing-bitcoins-sideways-drift-as-dormant-290m-btc-whale-reloads",
-      "whyYouShouldCare": "The activity of a dormant Bitcoin whale may indicate shifting market conditions, potentially influencing investor behavior across the crypto landscape, including Solana."
+      "whyYouShouldCare": "Grayscale's upcoming cash showdown between Ethereum and Solana staking could shift investor focus and liquidity dynamics between these two ecosystems."
     }
   ]
 }

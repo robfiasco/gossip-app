@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-19",
-  "generated_at_utc": "2026-07-19T20:06:05.617Z",
-  "ctxMarket": "Attention is on Solana’s growing USDC supply and new institutional access, with major players like Grayscale and Morgan Stanley introducing Solana-focused products. Technical updates and stablecoin strategies are also drawing interest.",
-  "ctxTalking": "• Grayscale’s plan to create quarterly cash distributions for Ethereum and Solana staking products\n• Solana’s $70B USDC supply surge and its implications for network liquidity\n• Morgan Stanley enabling Solana trading for E*Trade customers",
-  "ctxMatters": "Institutional adoption is expanding Solana’s reach and could influence network activity. Increased USDC liquidity may affect how users interact with DeFi and payments on Solana. Grayscale’s trust changes highlight competition between Ethereum and Solana for staking attention.",
-  "ctxSignal": "Signal: Institutional product launches and stablecoin inflows are shaping Solana’s ecosystem.\nNoise: Short-term whale wallet fluctuations without broader context.",
-  "ctxGlossary": "USDC — A major US dollar-backed stablecoin used for trading and payments\nStaking — Locking up tokens to help secure a network and potentially earn rewards",
+  "date": "2026-07-20",
+  "generated_at_utc": "2026-07-20T09:57:14.826Z",
+  "ctxMarket": "Security concerns are in focus after Allbridge halted operations due to a $1.65 million flash loan exploit, with stolen funds bridged from Solana to Ethereum. Attention is also on Solana’s growing USDC supply and new institutional access via Morgan Stanley.",
+  "ctxTalking": "• Allbridge’s cross-chain protocol pause following a major exploit\n• Grayscale’s proposal to set quarterly cash distributions for Ethereum and Solana staking\n• Solana’s $70B USDC supply surge and its implications",
+  "ctxMatters": "Security incidents like the Allbridge exploit highlight ongoing risks in cross-chain protocols and may impact user trust. Grayscale’s move could shape staking expectations and comparisons between Solana and Ethereum. The rapid USDC growth on Solana signals increased liquidity, which can affect network activity and perceptions of stability.",
+  "ctxSignal": "Signal: Allbridge’s exploit and protocol pause; Grayscale’s quarterly staking distribution plans; Solana’s USDC growth.\nNoise: Speculation about whether USDC growth is a bullish or hidden risk for SOL without clear supporting data.",
+  "ctxGlossary": "Flash loan — A type of uncollateralized loan executed and repaid within a single transaction.\nCross-chain protocol — Software enabling asset transfers between different blockchains.\nUSDC — A U.S. dollar-pegged stablecoin widely used for liquidity and trading.",
   "readMore": [
+    {
+      "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit"
+    },
+    {
+      "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/408855/allbridge-core-exploit"
+    },
     {
       "title": "Grayscale is setting up a quarterly cash showdown between Ethereum and Solana staking",
       "source": "CryptoSlate",
       "url": "https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking"
-    },
-    {
-      "title": "Solana sees $70B USDC surge",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-sees-70b-usdc-surge-bullish-catalyst-or-hidden-risk-for-sol"
-    },
-    {
-      "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade"
     }
   ]
 }

@@ -1,5 +1,82 @@
 [
   {
+    "id": "a27818ed7892accabb8200fee3dffcbd70e4f826",
+    "title": "Signal Board Summary 2026-07-20",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-07-20T09:57:14.828Z",
+    "lastSeenAt": "2026-07-20T09:57:14.828Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "c8159439cee3c0a683acdc275d93272286dd4c21",
+    "title": "Grayscale is setting up a quarterly cash showdown between Ethereum and Solana staking",
+    "url": "https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking",
+    "source": "CryptoSlate",
+    "firstSeenAt": "2026-07-19T20:06:00.262Z",
+    "lastSeenAt": "2026-07-20T09:57:08.082Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "grayscale",
+      "setting",
+      "quarterly",
+      "cash",
+      "showdown",
+      "between",
+      "ethereum",
+      "solana"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "5ac05305f17e658343d406aada65454f54f61b4d",
+    "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
+    "url": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
+    "source": "CoinDesk",
+    "firstSeenAt": "2026-07-20T09:57:08.081Z",
+    "lastSeenAt": "2026-07-20T09:57:08.081Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "cross",
+      "chain",
+      "protocol",
+      "allbridge",
+      "halts",
+      "after",
+      "million",
+      "flash"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "b99458108f0c51dad18d2c140cd62e1a684957b0",
+    "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
+    "url": "https://www.theblock.co/post/408855/allbridge-core-exploit",
+    "source": "The Block",
+    "firstSeenAt": "2026-07-20T09:57:08.081Z",
+    "lastSeenAt": "2026-07-20T09:57:08.081Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "allbridge",
+      "core",
+      "pauses",
+      "protocol",
+      "after",
+      "million",
+      "flash",
+      "loan"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "66914bb907381c87ebc3c6f8ef86cb528870fa8f",
     "title": "Examining why Solana’s liquidation heatmap has identified THESE price targets",
     "url": "https://ambcrypto.com/examining-why-solanas-liquidation-heatmap-has-identified-these-price-targets",
@@ -37,90 +114,6 @@
       "290m",
       "whale",
       "reloads"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "c8159439cee3c0a683acdc275d93272286dd4c21",
-    "title": "Grayscale is setting up a quarterly cash showdown between Ethereum and Solana staking",
-    "url": "https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-07-19T20:06:00.262Z",
-    "lastSeenAt": "2026-07-19T20:06:00.262Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "grayscale",
-      "setting",
-      "quarterly",
-      "cash",
-      "showdown",
-      "between",
-      "ethereum",
-      "solana"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "e44941d3ed0a66ed4d00b8a3da0fdb2e5bc96332",
-    "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
-    "url": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-07-18T20:02:44.101Z",
-    "lastSeenAt": "2026-07-19T09:03:45.491Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "fable",
-      "review",
-      "which",
-      "pick",
-      "depends",
-      "these",
-      "factors",
-      "openai"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "7496c27e6a0b7b4b1f9ec0c7325c3ec358232b17",
-    "title": "Why SBI Holdings’ Coinhako acquisition matters for its stablecoin strategy",
-    "url": "https://ambcrypto.com/why-sbi-holdings-coinhako-acquisition-matters-for-its-stablecoin-strategy",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-07-19T09:03:45.490Z",
-    "lastSeenAt": "2026-07-19T09:03:45.490Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "holdings",
-      "coinhako",
-      "acquisition",
-      "matters",
-      "stablecoin",
-      "strategy",
-      "expands",
-      "crypto"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "85dd0fb2281447728533493ec13997b0b5efb911",
-    "title": "Solana sees $70B USDC surge: Bullish catalyst or ‘hidden’ risk for SOL?",
-    "url": "https://ambcrypto.com/solana-sees-70b-usdc-surge-bullish-catalyst-or-hidden-risk-for-sol",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-07-19T09:03:45.490Z",
-    "lastSeenAt": "2026-07-19T09:03:45.490Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "sees",
-      "usdc",
-      "surge",
-      "bullish",
-      "catalyst",
-      "hidden",
-      "risk"
     ],
     "majorUpdate": false,
     "updateReason": null
