@@ -68,7 +68,12 @@ const TIERS = {
     emoji: '🚨',
     minTvlUsd: 3_000,
     minPoolAgeHours: 0.5, // skip anything younger - instant-rug zone
-    minFees30mUsd: 150,
+    // At the 2.0% ratio floor, $150 implied a ~$7,500 TVL requirement - well
+    // above minTvlUsd, so the two thresholds were mutually exclusive below
+    // that and DEGEN never fired in practice (verified: 0/200 live pools
+    // sampled, closest miss was $108 at a 3.09% ratio). $100 drops the
+    // implied floor to ~$5,000, closer to what minTvlUsd actually implies.
+    minFees30mUsd: 100,
     minFeeTvlRatio30m: 2.0,
   },
 };
