@@ -1069,13 +1069,18 @@ export default function Home() {
                                   })}
                                 </div>
 
-                                {dlmmScanData && dlmmScanData.printers.length > 0 && (
+                                {dlmmScanData && (
                                   <div style={{ padding: "0 18px 18px" }}>
                                     <div className="briefing-subhead-row">
                                       <span className="briefing-subhead-line" />
                                       <span className="briefing-subhead-text">Currently Printing</span>
                                       <span className="briefing-subhead-line" />
                                     </div>
+                                    {dlmmScanData.printers.length === 0 ? (
+                                      <p style={{ textAlign: "center", fontSize: "0.78rem", fontStyle: "italic", color: "rgba(240,243,255,0.4)", margin: 0 }}>
+                                        Nothing printing right now.
+                                      </p>
+                                    ) : (
                                     <div className="dlmm-printing-list">
                                       {dlmmScanData.printers.slice(0, 3).map((p) => {
                                         const tierColor = p.tier === "DEGEN" ? "#e01e5a" : "#2eb67d";
@@ -1101,6 +1106,7 @@ export default function Home() {
                                         );
                                       })}
                                     </div>
+                                    )}
                                   </div>
                                 )}
                               </>
