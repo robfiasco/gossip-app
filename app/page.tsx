@@ -1079,6 +1079,8 @@ export default function Home() {
                                     <div className="dlmm-printing-list">
                                       {dlmmScanData.printers.slice(0, 3).map((p) => {
                                         const tierColor = p.tier === "DEGEN" ? "#e01e5a" : "#2eb67d";
+                                        // "STANDARD" not "SAFE" - this is a fee/activity filter, not a risk guarantee.
+                                        const tierLabel = p.tier === "DEGEN" ? "DEGEN" : "STANDARD";
                                         return (
                                           <a
                                             key={p.address}
@@ -1090,7 +1092,7 @@ export default function Home() {
                                           >
                                             <div className="dlmm-printing-row-head">
                                               <span className="dlmm-printing-name">{p.name}</span>
-                                              <span className="dlmm-printing-tier" style={{ color: tierColor }}>{p.tier}</span>
+                                              <span className="dlmm-printing-tier" style={{ color: tierColor }}>{tierLabel}</span>
                                             </div>
                                             <div className="dlmm-printing-stats">
                                               TVL {formatUsdCompact(p.tvlUsd)} · Fee/TVL {p.feeTvlRatio30m.toFixed(2)}%

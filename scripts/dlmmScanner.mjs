@@ -227,6 +227,9 @@ function updateState(state, allCandidates, alertedAddresses, nowIso) {
       // Only bump the timestamp when we actually alert - seeing a pool again
       // during its cooldown shouldn't reset the clock.
       alertedAt: alertedAddresses.has(p.address) ? nowIso : (prev?.alertedAt ?? nowIso),
+      // Never overwritten once set - this is "how long has this pool been
+      // continuously worth tracking," not tied to individual alerts.
+      firstSeenAt: prev?.firstSeenAt ?? nowIso,
     };
   }
   return next;
@@ -334,7 +337,7 @@ const REASON_LABELS = {
   // Slack renders 🆕 as its own "NEW" badge - no need to spell it out too.
   new: '🆕',
   refresh: '🔁 still printing',
-  upgraded: '⬆️ upgraded from SAFE',
+  upgraded: '⬆️ upgraded from standard',
 };
 
 // Formats as Eastern time (EDT/EST, whichever applies) rather than GMT.
@@ -352,12 +355,25 @@ function formatTimestamp(date) {
   });
 }
 
+// "Been printing for" duration since first seen - not a personal position
+// hold time, just how long this pool has continuously qualified for a tier.
+function formatDuration(ms) {
+  const totalMinutes = Math.floor(ms / 60000);
+  const days = Math.floor(totalMinutes / 1440);
+  const hours = Math.floor((totalMinutes % 1440) / 60);
+  const minutes = totalMinutes % 60;
+  if (days > 0) return `${days}d ${hours}h`;
+  if (hours > 0) return `${hours}h ${minutes}m`;
+  return `${minutes}m`;
+}
+
 // One Block Kit "attachment" per pool, which is the only way an incoming
 // webhook can get a colored left border - plain `blocks` alone don't support it.
 function buildSlackAttachment(p) {
   const reasonLabel = REASON_LABELS[p._alertReason] ?? '';
   const color = p._tier === 'DEGEN' ? '#e01e5a' : '#2eb67d'; // Slack's own red/green
   const m5Text = p._m5 ? `${p._m5.buys + p._m5.sells} tx` : 'n/a';
+  const printingFor = formatDuration(Date.now() - Date.parse(p._firstSeenAt));
 
   const links = [`<https://app.meteora.ag/dlmm/${p.address}|Meteora ↗>`];
   if (p._chartUrl) links.push(`<${p._chartUrl}|Chart ↗>`);
@@ -377,6 +393,7 @@ function buildSlackAttachment(p) {
           { type: 'mrkdwn', text: `*30m Net Fees*\n${usd(p._fees30m)}` },
           { type: 'mrkdwn', text: `*Fee/TVL*\n${p._feeTvl30m.toFixed(2)}%` },
           { type: 'mrkdwn', text: `*5m Activity*\n${m5Text}` },
+          { type: 'mrkdwn', text: `*Printing For*\n${printingFor}` },
         ],
       },
       {
@@ -390,9 +407,11 @@ function buildSlackAttachment(p) {
 function buildSlackPayload(tierName, pools) {
   if (pools.length === 0) return null;
   const timestamp = formatTimestamp(new Date());
+  // "STANDARD" not "SAFE" - the tier is a fee/activity filter, not a risk
+  // guarantee, and shouldn't imply one.
   const text = tierName === 'DEGEN'
     ? `*DEGEN Hot Pools* — ${timestamp}\n⚠️ Degen tier: high IL/rug risk. Small size, fast exits.`
-    : `*SAFE Hot Pools* — ${timestamp}`;
+    : `*STANDARD Hot Pools* — ${timestamp}`;
   return { text, attachments: pools.map(buildSlackAttachment) };
 }
 
@@ -442,6 +461,7 @@ function toPublicShape(p) {
     chartUrl: p._chartUrl ?? null,
     m5: p._m5 ?? null,
     priceChangeH1: p._priceChangeH1 ?? null,
+    firstSeenAt: p._firstSeenAt ?? null,
   };
 }
 
@@ -482,13 +502,19 @@ export async function scan() {
   // 5m activity picks back up (or its 1h price trend turns around), rather
   // than being stuck on cooldown.
   const passesGates = (p) => passesActivityGate(p) && passesPriceTrendGate(p);
-  const safe = enrichedSafe.filter(passesGates);
-  const degen = enrichedDegen.filter(passesGates);
-  const allCandidates = [...safe, ...degen];
-
   const nowMs = Date.now();
   const nowIso = new Date(nowMs).toISOString();
   const state = pruneState(loadState(), nowMs);
+
+  // _firstSeenAt mirrors exactly what updateState will persist below,
+  // computed early so it's available both in the /api/scan output (all
+  // candidates) and the alert message (the tagged-and-filtered subset).
+  const tagFirstSeen = (list) =>
+    list.filter(passesGates).map((p) => ({ ...p, _firstSeenAt: state[p.address]?.firstSeenAt ?? nowIso }));
+
+  const safe = tagFirstSeen(enrichedSafe);
+  const degen = tagFirstSeen(enrichedDegen);
+  const allCandidates = [...safe, ...degen];
 
   // Tag each pool with why it's alerting - same value drives the message's
   // "new / still printing / upgraded" line.
