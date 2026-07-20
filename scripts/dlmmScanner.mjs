@@ -161,6 +161,7 @@ function findCandidates(pools) {
         _fees30m: Number(p.fees?.['30m'] ?? 0) * lpShare,
         _feeTvl30m: Number(p.fee_tvl_ratio?.['30m'] ?? 0) * lpShare,
         _feeTvl1h: Number(p.fee_tvl_ratio?.['1h'] ?? 0) * lpShare,
+        _volume30m: Number(p.volume?.['30m'] ?? 0), // already on the pool object - no extra call needed
         _ageHours: poolAgeHours(p),
         _protocolFeePct: protocolFeePct,
       };
@@ -303,8 +304,9 @@ async function enrichWithDexScreener(candidates) {
       // Tracked separately from _m5 (a different field on the same pair) so a
       // pair missing txns.m5 doesn't also lose its price-trend data, or vice versa.
       const priceChangeH1 = typeof best?.priceChange?.h1 === 'number' ? best.priceChange.h1 : null;
+      const imageUrl = typeof best?.info?.imageUrl === 'string' ? best.info.imageUrl : null;
 
-      return { ...p, _chartUrl: chartUrl, _m5: m5, _priceChangeH1: priceChangeH1 };
+      return { ...p, _chartUrl: chartUrl, _m5: m5, _priceChangeH1: priceChangeH1, _imageUrl: imageUrl };
     })
   );
 }
@@ -378,20 +380,28 @@ function buildSlackAttachment(p) {
   const links = [`<https://app.meteora.ag/dlmm/${p.address}|Meteora ↗>`];
   if (p._chartUrl) links.push(`<${p._chartUrl}|Chart ↗>`);
 
+  const titleBlock = {
+    type: 'section',
+    text: { type: 'mrkdwn', text: `*${p.name}*${reasonLabel ? `  ·  ${reasonLabel}` : ''}` },
+  };
+  // Best-effort - not every token has an indexed image, and a missing one
+  // shouldn't break the card.
+  if (p._imageUrl) {
+    titleBlock.accessory = { type: 'image', image_url: p._imageUrl, alt_text: p.name };
+  }
+
   return {
     color,
     // No tier emoji here - the colored bar already says SAFE vs DEGEN.
     blocks: [
-      {
-        type: 'section',
-        text: { type: 'mrkdwn', text: `*${p.name}*${reasonLabel ? `  ·  ${reasonLabel}` : ''}` },
-      },
+      titleBlock,
       {
         type: 'section',
         fields: [
           { type: 'mrkdwn', text: `*TVL*\n${usd(p._tvl)}` },
           { type: 'mrkdwn', text: `*30m Net Fees*\n${usd(p._fees30m)}` },
           { type: 'mrkdwn', text: `*Fee/TVL*\n${p._feeTvl30m.toFixed(2)}%` },
+          { type: 'mrkdwn', text: `*30m Volume*\n${usd(p._volume30m)}` },
           { type: 'mrkdwn', text: `*5m Activity*\n${m5Text}` },
           { type: 'mrkdwn', text: `*Printing For*\n${printingFor}` },
         ],
@@ -453,12 +463,14 @@ function toPublicShape(p) {
     fees30mUsd: p._fees30m, // net of protocol cut
     feeTvlRatio30m: p._feeTvl30m, // net of protocol cut
     feeTvlRatio1h: p._feeTvl1h, // net of protocol cut
+    volume30mUsd: p._volume30m,
     protocolFeePct: p._protocolFeePct,
     ageHours: Math.round(p._ageHours * 10) / 10,
     binStep: p.pool_config?.bin_step ?? null,
     baseFeePct: p.pool_config?.base_fee_pct ?? null,
     url: `https://app.meteora.ag/dlmm/${p.address}`,
     chartUrl: p._chartUrl ?? null,
+    imageUrl: p._imageUrl ?? null,
     m5: p._m5 ?? null,
     priceChangeH1: p._priceChangeH1 ?? null,
     firstSeenAt: p._firstSeenAt ?? null,
