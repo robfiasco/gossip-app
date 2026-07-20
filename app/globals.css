@@ -1352,6 +1352,47 @@ body {
   gap: 16px;
 }
 
+.dlmm-printing-list {
+  display: grid;
+  gap: 10px;
+}
+
+.dlmm-printing-row {
+  display: block;
+  padding: 10px 12px;
+  border-left: 3px solid transparent;
+  border-radius: 8px;
+  background: rgba(17, 22, 33, 0.66);
+  text-decoration: none;
+}
+
+.dlmm-printing-row-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.dlmm-printing-name {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.82rem;
+  color: #f0f3ff;
+}
+
+.dlmm-printing-tier {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.6rem;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+}
+
+.dlmm-printing-stats {
+  margin-top: 4px;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.7rem;
+  color: color-mix(in srgb, var(--text) 56%, var(--muted));
+}
+
 .briefing-item {
   display: grid;
   gap: 8px;
@@ -2763,17 +2804,19 @@ body {
 }
 
 .panel-slide-briefing {
-  display: flex;
-  flex-direction: column;
+  /* Same fix as .panel-slide-signal above: flex + min-height: 100% resolved
+     against the viewport height, capping .intel-card's box while
+     overflow: visible let the last story's text spill past the border. */
+  display: block;
+  overflow-y: auto;
 }
 
 .panel-slide-briefing>section {
-  flex: 1;
-  height: 100%;
+  padding-bottom: 32px;
 }
 
 .panel-slide-briefing .intel-card {
-  min-height: 100%;
+  /* height grows naturally with content */
 }
 
 .panel-slide-scroll {

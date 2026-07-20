@@ -41,6 +41,27 @@ const PALETTE_1 = ["accent-green", "accent-purple", "accent-cyan", "accent-pink"
 const PALETTE_2 = ["accent-cyan", "accent-pink", "accent-green", "accent-purple"];
 const PALETTE_3 = ["accent-purple", "accent-cyan", "accent-pink", "accent-green"];
 
+type DlmmPrinter = {
+  address: string;
+  name: string;
+  tier: "SAFE" | "DEGEN";
+  tvlUsd: number;
+  feeTvlRatio30m: number;
+  fees30mUsd: number;
+  url: string;
+  chartUrl: string | null;
+};
+
+type DlmmScanPayload = {
+  generated_at: string | null;
+  printers: DlmmPrinter[];
+};
+
+const formatUsdCompact = (n: number) =>
+  n >= 1_000_000 ? `$${(n / 1_000_000).toFixed(2)}M`
+    : n >= 1_000 ? `$${(n / 1_000).toFixed(1)}K`
+      : `$${n.toFixed(0)}`;
+
 const ENDPOINT_URL = process.env.NEXT_PUBLIC_API_URL || "https://solana-intelligence.vercel.app/api";
 
 type MarketView = {
@@ -133,6 +154,7 @@ export default function Home() {
   const [narrativesData, setNarrativesData] = useState<NarrativesPayload | null>(null);
   const [briefingData, setBriefingData] = useState<BriefingPayload | null>(null);
   const [newsCardsData, setNewsCardsData] = useState<NewsCardsPayload | null>(null);
+  const [dlmmScanData, setDlmmScanData] = useState<DlmmScanPayload | null>(null);
   const [marketContextData, setMarketContextData] = useState<MarketContextPayload | null>(null);
   const [marketCache, setMarketCache] = useState<MarketContextPayload | null>(null);
   const [activePanel, setActivePanel] = useState(0);
@@ -306,6 +328,25 @@ export default function Home() {
     };
     fetchData();
     const interval = window.setInterval(fetchData, 30000);
+    return () => {
+      active = false;
+      window.clearInterval(interval);
+    };
+  }, []);
+  useEffect(() => {
+    let active = true;
+    const fetchDlmm = async () => {
+      try {
+        const res = await fetch("/api/scan");
+        if (!res.ok) throw new Error("dlmm scan fetch failed");
+        const json = (await res.json()) as DlmmScanPayload;
+        if (active) setDlmmScanData(json);
+      } catch {
+        // Keep last good value on transient failures
+      }
+    };
+    fetchDlmm();
+    const interval = window.setInterval(fetchDlmm, 60000);
     return () => {
       active = false;
       window.clearInterval(interval);
@@ -1027,6 +1068,39 @@ export default function Home() {
                                     );
                                   })}
                                 </div>
+
+                                {dlmmScanData && dlmmScanData.printers.length > 0 && (
+                                  <div style={{ padding: "0 18px 18px" }}>
+                                    <div className="briefing-subhead-row">
+                                      <span className="briefing-subhead-line" />
+                                      <span className="briefing-subhead-text">Currently Printing</span>
+                                      <span className="briefing-subhead-line" />
+                                    </div>
+                                    <div className="dlmm-printing-list">
+                                      {dlmmScanData.printers.slice(0, 3).map((p) => {
+                                        const tierColor = p.tier === "DEGEN" ? "#e01e5a" : "#2eb67d";
+                                        return (
+                                          <a
+                                            key={p.address}
+                                            href={p.chartUrl ?? p.url}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="dlmm-printing-row"
+                                            style={{ borderLeftColor: tierColor }}
+                                          >
+                                            <div className="dlmm-printing-row-head">
+                                              <span className="dlmm-printing-name">{p.name}</span>
+                                              <span className="dlmm-printing-tier" style={{ color: tierColor }}>{p.tier}</span>
+                                            </div>
+                                            <div className="dlmm-printing-stats">
+                                              TVL {formatUsdCompact(p.tvlUsd)} · Fee/TVL {p.feeTvlRatio30m.toFixed(2)}%
+                                            </div>
+                                          </a>
+                                        );
+                                      })}
+                                    </div>
+                                  </div>
+                                )}
                               </>
                             );
                           })()}
