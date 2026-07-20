@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "APPS",
+      "title": "Grayscale plans regular cash payouts from ETH, SOL staking rewards",
+      "category": "APPS",
+      "source": "Cointelegraph",
+      "date": "2026-07-20",
+      "url": "https://cointelegraph.com/news/grayscale-eth-sol-staking-cash-payouts",
+      "whyYouShouldCare": "Grayscale's decision to offer regular cash payouts from staking rewards could enhance Solana's appeal and liquidity among institutional investors."
+    },
+    {
+      "type": "RISK",
+      "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+      "category": "RISK",
+      "source": "Decrypt",
+      "date": "2026-07-20",
+      "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
+      "whyYouShouldCare": "The pause of Allbridge's cross-chain protocol following a flash loan attack raises concerns about security and could impact Solana's interoperability and user trust."
+    },
+    {
       "type": "RISK",
       "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
       "category": "RISK",
       "source": "CoinDesk",
       "date": "2026-07-20",
       "url": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
-      "whyYouShouldCare": "The halt of Allbridge due to a flash loan exploit raises concerns about security and trust in cross-chain protocols, impacting liquidity across connected ecosystems."
-    },
-    {
-      "type": "RISK",
-      "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
-      "category": "RISK",
-      "source": "The Block",
-      "date": "2026-07-20",
-      "url": "https://www.theblock.co/post/408855/allbridge-core-exploit",
-      "whyYouShouldCare": "Allbridge's pause highlights vulnerabilities in DeFi, which could deter users from engaging with cross-chain solutions, affecting overall ecosystem usage."
-    },
-    {
-      "type": "MARKET",
-      "title": "Grayscale is setting up a quarterly cash showdown between Ethereum and Solana staking",
-      "category": "MARKET",
-      "source": "CryptoSlate",
-      "date": "2026-07-19",
-      "url": "https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking",
-      "whyYouShouldCare": "Grayscale's upcoming cash showdown between Ethereum and Solana staking could shift investor focus and liquidity dynamics between these two ecosystems."
+      "whyYouShouldCare": "Allbridge's halt due to a significant exploit highlights vulnerabilities in cross-chain solutions, potentially affecting Solana's ecosystem and user adoption."
     }
   ]
 }
