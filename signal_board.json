@@ -1,16 +1,16 @@
 {
   "date": "2026-07-21",
-  "generated_at_utc": "2026-07-21T09:25:23.840Z",
-  "ctxMarket": "Attention is on protocol security and governance after a major cross-chain exploit and a new buyback proposal. Institutional and retail interest in Solana continues, with new trading options and protocol upgrades drawing focus.",
-  "ctxTalking": "• Jito’s JIP-38 buyback proposal and the resulting JTO token rally\n• Allbridge’s $1.65M flash loan exploit and pause of cross-chain operations\n• Grayscale’s plan to distribute staking rewards from Solana and Ethereum products",
-  "ctxMatters": "Governance proposals like JIP-38 can shift token narratives and market sentiment. Security incidents on cross-chain protocols highlight ongoing risks for users bridging assets to and from Solana. Institutional moves, such as Grayscale’s staking reward distributions and Morgan Stanley’s Solana trading launch, signal growing mainstream integration.",
-  "ctxSignal": "Signal: Major protocol governance and security events are shaping both user confidence and token performance.\nNoise: Short-term price targets for JTO remain speculative and are not grounded in fundamentals.",
-  "ctxGlossary": "Flash loan — A type of uncollateralized loan used and repaid within a single blockchain transaction.\nBuyback proposal — A governance motion to use treasury funds to repurchase tokens from the market.\nStaking rewards — Earnings distributed to users who help secure a blockchain by locking up their tokens.",
+  "generated_at_utc": "2026-07-21T20:17:22.110Z",
+  "ctxMarket": "Attention is focused on Solana ETFs, which have quietly accumulated significant assets under management. Security concerns are resurfacing after a major cross-chain protocol was paused due to an exploit.",
+  "ctxTalking": "• Solana and Hyperliquid ETFs are leading altcoin fund flows, despite limited mainstream coverage\n• Jito Labs launched JTX, a self-custodial trading platform for Solana tokens and tokenized real-world assets\n• Allbridge paused its cross-chain protocol following a $1.65M flash loan attack affecting Solana stablecoin pools",
+  "ctxMatters": "Large ETF inflows may influence institutional perceptions of Solana’s ecosystem. \nNew trading platforms like JTX expand options for token and RWA trading on Solana. \nSecurity incidents on cross-chain protocols can affect user trust and liquidity movement between Solana and other chains.",
+  "ctxSignal": "Signal: Growth in Solana ETF assets and new product launches show ongoing ecosystem development.\nNoise: Short-term speculation around the Allbridge exploit’s broader impact.",
+  "ctxGlossary": "ETF — Exchange-traded fund; a pooled investment vehicle traded on exchanges.\nFlash loan attack — A type of exploit where borrowed funds are used to manipulate protocols within a single transaction.\nRWA — Real-world asset; a physical or traditional asset represented as a token on-chain.",
   "readMore": [
     {
-      "title": "Jito jumps 12% after JIP-38 buyback proposal – Can JTO reach $0.80?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/jito-jumps-12-after-jip-38-buyback-proposal-can-jto-reach-0-80"
+      "title": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar"
     },
     {
       "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
@@ -18,9 +18,9 @@
       "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack"
     },
     {
-      "title": "Grayscale plans regular cash payouts from ETH, SOL staking rewards",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/grayscale-eth-sol-staking-cash-payouts"
+      "title": "Solana Changelog",
+      "source": "Solana News",
+      "url": "https://solana.com/news/solana-changelog-july-16-2026"
     }
   ]
 }

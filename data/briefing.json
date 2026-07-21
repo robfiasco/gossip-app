@@ -5,12 +5,21 @@
   "items": [
     {
       "type": "APPS",
-      "title": "Jito jumps 12% after JIP-38 buyback proposal – Can JTO reach $0.80?",
+      "title": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
       "category": "APPS",
-      "source": "AMB Crypto",
+      "source": "The Block",
       "date": "2026-07-21",
-      "url": "https://ambcrypto.com/jito-jumps-12-after-jip-38-buyback-proposal-can-jto-reach-0-80",
-      "whyYouShouldCare": "Jito's buyback proposal could enhance liquidity and investor confidence, potentially influencing JTO's price trajectory and overall market sentiment."
+      "url": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar",
+      "whyYouShouldCare": "The influx of capital into Solana and Hyperliquid ETFs indicates growing investor interest, which could enhance liquidity and market positioning for SOL."
+    },
+    {
+      "type": "ECOSYSTEM",
+      "title": "Jito rolls out JTX self-custodial trading platform for Solana tokens and RWAs",
+      "category": "ECOSYSTEM",
+      "source": "The Block",
+      "date": "2026-07-21",
+      "url": "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas",
+      "whyYouShouldCare": "Jito's launch of the JTX platform enhances the usability of Solana tokens and real-world assets, potentially driving ecosystem growth and user engagement."
     },
     {
       "type": "RISK",
@@ -19,16 +28,7 @@
       "source": "Decrypt",
       "date": "2026-07-20",
       "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
-      "whyYouShouldCare": "Allbridge's pause following a significant exploit raises concerns over cross-chain security, which could impact user trust and liquidity in Solana's ecosystem."
-    },
-    {
-      "type": "RISK",
-      "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
-      "category": "RISK",
-      "source": "CoinDesk",
-      "date": "2026-07-20",
-      "url": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
-      "whyYouShouldCare": "The halt of Allbridge's operations due to a flash loan attack highlights vulnerabilities in cross-chain protocols, potentially affecting Solana's integration and usage across platforms."
+      "whyYouShouldCare": "Allbridge's pause following a flash loan attack highlights vulnerabilities in cross-chain protocols, impacting trust and operational stability within the Solana ecosystem."
     }
   ]
 }
