@@ -266,6 +266,15 @@ function projectTokenMint(p) {
   return p.token_x?.address ?? null;
 }
 
+// The WSOL/USDC side of the pair - hasBlueChipQuote() already guarantees one
+// exists, so this is only used downstream of that filter.
+function quoteTokenMint(p) {
+  const isQuote = (addr) => addr === WSOL_MINT || addr === USDC_MINT;
+  if (isQuote(p.token_y?.address)) return p.token_y.address;
+  if (isQuote(p.token_x?.address)) return p.token_x.address;
+  return WSOL_MINT;
+}
+
 // Picks the DexScreener pair that's actually this Meteora pool (matched by
 // on-chain pool address, verified live: DexScreener does index individual
 // Meteora DLMM pools with dexId "meteora" and a pairAddress equal to the
@@ -482,6 +491,8 @@ function toPublicShape(p) {
   return {
     address: p.address,
     name: p.name,
+    projectMint: projectTokenMint(p),
+    quoteMint: quoteTokenMint(p),
     tier: p._tier,
     momentum: p._momentum,
     tvlUsd: p._tvl,

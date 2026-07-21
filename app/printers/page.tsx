@@ -1,10 +1,14 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import JupiterSwapButton from "../components/JupiterSwapButton";
+import "@jup-ag/plugin/css";
 
 type Printer = {
     address: string;
     name: string;
+    projectMint: string | null;
+    quoteMint: string | null;
     tvlUsd: number;
     fees30mUsd: number;
     feeTvlRatio30m: number;
@@ -106,7 +110,14 @@ export default function PrintersPage() {
                                     <td style={{ padding: "8px 10px", color: "#52f0cb" }}>{p.feeTvlRatio30m.toFixed(2)}%</td>
                                     <td style={{ padding: "8px 10px" }}>{usd(p.fees30mUsd)}</td>
                                     <td style={{ padding: "8px 10px" }}>{formatAge(p.ageHours)}</td>
-                                    <td style={{ padding: "8px 10px" }}>
+                                    <td style={{ padding: "8px 10px", whiteSpace: "nowrap" }}>
+                                        {p.projectMint && p.quoteMint ? (
+                                            <JupiterSwapButton
+                                                inputMint={p.quoteMint}
+                                                outputMint={p.projectMint}
+                                                style={{ marginRight: "10px" }}
+                                            />
+                                        ) : null}
                                         <a href={p.url} target="_blank" rel="noopener noreferrer" style={{ color: "#52f0cb" }}>
                                             Open ↗
                                         </a>
