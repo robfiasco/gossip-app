@@ -1,12 +1,17 @@
 {
-  "date": "2026-07-20",
-  "generated_at_utc": "2026-07-20T20:18:10.565Z",
-  "ctxMarket": "Attention is focused on security concerns after Allbridge paused its cross-chain protocol due to a $1.65M flash loan exploit involving Solana pools. Institutional interest continues, with Grayscale announcing regular cash payouts from SOL staking rewards and Morgan Stanley enabling Solana trading on E*Trade.",
-  "ctxTalking": "• Allbridge's cross-chain protocol halt following a major flash loan exploit affecting Solana pools\n• Grayscale's move to offer regular cash distributions from Solana staking rewards\n• Morgan Stanley adding Solana trading for eligible E*Trade customers",
-  "ctxMatters": "Security incidents on cross-chain protocols can impact user trust and liquidity on Solana. Grayscale’s cash payout plan signals growing institutionalization of staking yields. Major brokerages listing Solana expand mainstream access and visibility.",
-  "ctxSignal": "Signal: The Allbridge exploit highlights ongoing risks in cross-chain DeFi infrastructure; institutional adoption of Solana continues to grow.\nNoise: Speculation about immediate price impacts not directly supported by these developments.",
-  "ctxGlossary": "Flash loan — A type of uncollateralized loan executed and repaid within a single blockchain transaction\nStaking rewards — Earnings distributed to users who lock up tokens to help secure a blockchain network",
+  "date": "2026-07-21",
+  "generated_at_utc": "2026-07-21T09:25:23.840Z",
+  "ctxMarket": "Attention is on protocol security and governance after a major cross-chain exploit and a new buyback proposal. Institutional and retail interest in Solana continues, with new trading options and protocol upgrades drawing focus.",
+  "ctxTalking": "• Jito’s JIP-38 buyback proposal and the resulting JTO token rally\n• Allbridge’s $1.65M flash loan exploit and pause of cross-chain operations\n• Grayscale’s plan to distribute staking rewards from Solana and Ethereum products",
+  "ctxMatters": "Governance proposals like JIP-38 can shift token narratives and market sentiment. Security incidents on cross-chain protocols highlight ongoing risks for users bridging assets to and from Solana. Institutional moves, such as Grayscale’s staking reward distributions and Morgan Stanley’s Solana trading launch, signal growing mainstream integration.",
+  "ctxSignal": "Signal: Major protocol governance and security events are shaping both user confidence and token performance.\nNoise: Short-term price targets for JTO remain speculative and are not grounded in fundamentals.",
+  "ctxGlossary": "Flash loan — A type of uncollateralized loan used and repaid within a single blockchain transaction.\nBuyback proposal — A governance motion to use treasury funds to repurchase tokens from the market.\nStaking rewards — Earnings distributed to users who help secure a blockchain by locking up their tokens.",
   "readMore": [
+    {
+      "title": "Jito jumps 12% after JIP-38 buyback proposal – Can JTO reach $0.80?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/jito-jumps-12-after-jip-38-buyback-proposal-can-jto-reach-0-80"
+    },
     {
       "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
       "source": "Decrypt",
@@ -16,11 +21,6 @@
       "title": "Grayscale plans regular cash payouts from ETH, SOL staking rewards",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/grayscale-eth-sol-staking-cash-payouts"
-    },
-    {
-      "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit"
     }
   ]
 }
