@@ -403,10 +403,26 @@ function buildSlackAttachment(p) {
     type: 'section',
     text: { type: 'mrkdwn', text: `*${p.name}*${reasonLabel ? `  ·  ${reasonLabel}` : ''}` },
   };
+
+  const fieldsBlock = {
+    type: 'section',
+    fields: [
+      { type: 'mrkdwn', text: `*TVL*\n${usd(p._tvl)}` },
+      { type: 'mrkdwn', text: `*30m Net Fees*\n${usd(p._fees30m)}` },
+      { type: 'mrkdwn', text: `*Fee/TVL*\n${p._feeTvl30m.toFixed(2)}%` },
+      { type: 'mrkdwn', text: `*30m Volume*\n${usd(p._volume30m)}` },
+      { type: 'mrkdwn', text: `*5m Activity*\n${m5Text}` },
+      { type: 'mrkdwn', text: `*Printing For*\n${printingFor}` },
+      { type: 'mrkdwn', text: `*24h Price*\n${priceChange24hText}` },
+    ],
+  };
+  // Attached to the fields block (7 lines) rather than the one-line title -
+  // Slack sizes the accessory's row to match its sibling text, so putting it
+  // next to the short title left a large empty gap beside/below the image.
   // Best-effort - not every token has an indexed image, and a missing one
   // shouldn't break the card.
   if (p._imageUrl) {
-    titleBlock.accessory = { type: 'image', image_url: p._imageUrl, alt_text: p.name };
+    fieldsBlock.accessory = { type: 'image', image_url: p._imageUrl, alt_text: p.name };
   }
 
   return {
@@ -414,18 +430,7 @@ function buildSlackAttachment(p) {
     // No tier emoji here - the colored bar already says SAFE vs DEGEN.
     blocks: [
       titleBlock,
-      {
-        type: 'section',
-        fields: [
-          { type: 'mrkdwn', text: `*TVL*\n${usd(p._tvl)}` },
-          { type: 'mrkdwn', text: `*30m Net Fees*\n${usd(p._fees30m)}` },
-          { type: 'mrkdwn', text: `*Fee/TVL*\n${p._feeTvl30m.toFixed(2)}%` },
-          { type: 'mrkdwn', text: `*30m Volume*\n${usd(p._volume30m)}` },
-          { type: 'mrkdwn', text: `*5m Activity*\n${m5Text}` },
-          { type: 'mrkdwn', text: `*Printing For*\n${printingFor}` },
-          { type: 'mrkdwn', text: `*24h Price*\n${priceChange24hText}` },
-        ],
-      },
+      fieldsBlock,
       {
         type: 'context',
         elements: [{ type: 'mrkdwn', text: links.join(' · ') }],
