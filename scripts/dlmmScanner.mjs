@@ -28,6 +28,7 @@ import path from 'path';
 
 const API_URL = 'https://dlmm.datapi.meteora.ag/pools';
 const WSOL_MINT = 'So11111111111111111111111111111111111111112';
+const USDC_MINT = 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v';
 
 const OUTPUT_PATH = './data/dlmm_printers.json';
 const OUTPUT_PATH_MIRROR = './public/data/dlmm_printers.json';
@@ -137,12 +138,25 @@ function classifyPool(p) {
   return null;
 }
 
+// Requiring a SOL or USDC side isn't just about legitimacy of the token
+// name (Meteora's data already includes real mint addresses, not spoofable
+// display names) - it's about market structure. Two obscure tokens paired
+// against each other have no real stable liquidity anchor, are cheap to
+// wash-trade into an inflated fee/TVL ratio, and can evaporate fast (verified
+// live: a SKHY-SLX pool alerted with $14.6K TVL and was down to $43 - a
+// 99.7% collapse - a few hours later).
+function hasBlueChipQuote(p) {
+  const quotes = [p.token_x?.address, p.token_y?.address];
+  return quotes.includes(WSOL_MINT) || quotes.includes(USDC_MINT);
+}
+
 function findCandidates(pools) {
   let protocolFeeRead = 0;
   let protocolFeeFallback = 0;
 
   const classified = pools
     .filter((p) => p.is_blacklisted !== true)
+    .filter(hasBlueChipQuote)
     .map((p) => {
       const { value: protocolFeePct, wasFallback } = resolveProtocolFeePct(p);
       if (wasFallback) {
@@ -246,8 +260,9 @@ const usd = (n) =>
       : `$${n.toFixed(0)}`;
 
 function projectTokenMint(p) {
-  if (p.token_y?.address === WSOL_MINT) return p.token_x?.address ?? null;
-  if (p.token_x?.address === WSOL_MINT) return p.token_y?.address ?? null;
+  const isQuote = (addr) => addr === WSOL_MINT || addr === USDC_MINT;
+  if (isQuote(p.token_y?.address)) return p.token_x?.address ?? null;
+  if (isQuote(p.token_x?.address)) return p.token_y?.address ?? null;
   return p.token_x?.address ?? null;
 }
 
