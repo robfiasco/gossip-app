@@ -319,9 +319,10 @@ async function enrichWithDexScreener(candidates) {
       // Tracked separately from _m5 (a different field on the same pair) so a
       // pair missing txns.m5 doesn't also lose its price-trend data, or vice versa.
       const priceChangeH1 = typeof best?.priceChange?.h1 === 'number' ? best.priceChange.h1 : null;
+      const priceChangeH24 = typeof best?.priceChange?.h24 === 'number' ? best.priceChange.h24 : null;
       const imageUrl = typeof best?.info?.imageUrl === 'string' ? best.info.imageUrl : null;
 
-      return { ...p, _chartUrl: chartUrl, _m5: m5, _priceChangeH1: priceChangeH1, _imageUrl: imageUrl };
+      return { ...p, _chartUrl: chartUrl, _m5: m5, _priceChangeH1: priceChangeH1, _priceChangeH24: priceChangeH24, _imageUrl: imageUrl };
     })
   );
 }
@@ -391,6 +392,9 @@ function buildSlackAttachment(p) {
   const color = p._tier === 'DEGEN' ? '#e01e5a' : '#2eb67d'; // Slack's own red/green
   const m5Text = p._m5 ? `${p._m5.buys + p._m5.sells} tx` : 'n/a';
   const printingFor = formatDuration(Date.now() - Date.parse(p._firstSeenAt));
+  const priceChange24hText = p._priceChangeH24 == null
+    ? 'n/a'
+    : `${p._priceChangeH24 >= 0 ? '+' : ''}${p._priceChangeH24.toFixed(1)}%`;
 
   const links = [`<https://app.meteora.ag/dlmm/${p.address}|Meteora ↗>`];
   if (p._chartUrl) links.push(`<${p._chartUrl}|Chart ↗>`);
@@ -419,6 +423,7 @@ function buildSlackAttachment(p) {
           { type: 'mrkdwn', text: `*30m Volume*\n${usd(p._volume30m)}` },
           { type: 'mrkdwn', text: `*5m Activity*\n${m5Text}` },
           { type: 'mrkdwn', text: `*Printing For*\n${printingFor}` },
+          { type: 'mrkdwn', text: `*24h Price*\n${priceChange24hText}` },
         ],
       },
       {
@@ -488,6 +493,7 @@ function toPublicShape(p) {
     imageUrl: p._imageUrl ?? null,
     m5: p._m5 ?? null,
     priceChangeH1: p._priceChangeH1 ?? null,
+    priceChangeH24: p._priceChangeH24 ?? null,
     firstSeenAt: p._firstSeenAt ?? null,
   };
 }
