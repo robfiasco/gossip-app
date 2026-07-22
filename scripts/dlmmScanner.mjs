@@ -595,7 +595,14 @@ export async function scan() {
   // state entry at all, so it isn't "seen" and can alert fresh once its
   // 5m activity picks back up (or its 1h price trend turns around), rather
   // than being stuck on cooldown.
-  const passesGates = (p) => passesActivityGate(p) && passesPriceTrendGate(p) && passesSellRatioGate(p);
+  //
+  // Price-trend and sell-ratio gates assume a pool has had time to settle -
+  // a fair assumption for SAFE (6h+ old) but not for DEGEN (30m+ old), where
+  // early profit-taking and normal volatility look identical to a dump. DEGEN
+  // keeps only the activity gate (is anything happening at all); the risk
+  // that was buying is DEGEN's whole premise, not something to filter out.
+  const passesSafeGates = (p) => passesActivityGate(p) && passesPriceTrendGate(p) && passesSellRatioGate(p);
+  const passesDegenGates = (p) => passesActivityGate(p);
   const nowMs = Date.now();
   const nowIso = new Date(nowMs).toISOString();
   const state = pruneState(loadState(), nowMs);
@@ -603,11 +610,11 @@ export async function scan() {
   // _firstSeenAt mirrors exactly what updateState will persist below,
   // computed early so it's available both in the /api/scan output (all
   // candidates) and the alert message (the tagged-and-filtered subset).
-  const tagFirstSeen = (list) =>
-    list.filter(passesGates).map((p) => ({ ...p, _firstSeenAt: state[p.address]?.firstSeenAt ?? nowIso }));
+  const tagFirstSeen = (list, passes) =>
+    list.filter(passes).map((p) => ({ ...p, _firstSeenAt: state[p.address]?.firstSeenAt ?? nowIso }));
 
-  const safe = tagFirstSeen(enrichedSafe);
-  const degen = tagFirstSeen(enrichedDegen);
+  const safe = tagFirstSeen(enrichedSafe, passesSafeGates);
+  const degen = tagFirstSeen(enrichedDegen, passesDegenGates);
   const allCandidates = [...safe, ...degen];
 
   // Tag each pool with why it's alerting - same value drives the message's
