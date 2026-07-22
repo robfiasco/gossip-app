@@ -55,6 +55,14 @@ const MIN_PRICE_CHANGE_H1 = (() => {
   return Number.isFinite(raw) ? raw : 0;
 })();
 
+// Catches the case MIN_PRICE_CHANGE_H1 can miss: a market maker can hold price
+// flat/up while retail is overwhelmingly dumping into it. 0.8 = skip once more
+// than 80% of h1 txns are sells.
+const MAX_SELL_RATIO_H1 = (() => {
+  const raw = Number(process.env.MAX_SELL_RATIO_H1);
+  return Number.isFinite(raw) && raw > 0 && raw <= 1 ? raw : 0.8;
+})();
+
 const TIERS = {
   SAFE: {
     name: 'SAFE',
@@ -313,7 +321,7 @@ async function enrichWithDexScreener(candidates) {
   return Promise.all(
     candidates.map(async (p) => {
       const mint = projectTokenMint(p);
-      if (!mint) return { ...p, _chartUrl: null, _m5: null };
+      if (!mint) return { ...p, _chartUrl: null, _m5: null, _h1Txns: null };
 
       const pairs = await fetchPairs(mint);
       const best = pickBestPair(pairs, p.address);
@@ -325,13 +333,18 @@ async function enrichWithDexScreener(candidates) {
           priceChange: Number(best.priceChange?.m5 ?? 0),
         }
         : null;
+      // Buy/sell split over the same hour used for the price-trend gate -
+      // catches sell-heavy dumps a flat/rising price can otherwise hide.
+      const h1Txns = best?.txns?.h1
+        ? { buys: Number(best.txns.h1.buys ?? 0), sells: Number(best.txns.h1.sells ?? 0) }
+        : null;
       // Tracked separately from _m5 (a different field on the same pair) so a
       // pair missing txns.m5 doesn't also lose its price-trend data, or vice versa.
       const priceChangeH1 = typeof best?.priceChange?.h1 === 'number' ? best.priceChange.h1 : null;
       const priceChangeH24 = typeof best?.priceChange?.h24 === 'number' ? best.priceChange.h24 : null;
       const imageUrl = typeof best?.info?.imageUrl === 'string' ? best.info.imageUrl : null;
 
-      return { ...p, _chartUrl: chartUrl, _m5: m5, _priceChangeH1: priceChangeH1, _priceChangeH24: priceChangeH24, _imageUrl: imageUrl };
+      return { ...p, _chartUrl: chartUrl, _m5: m5, _h1Txns: h1Txns, _priceChangeH1: priceChangeH1, _priceChangeH24: priceChangeH24, _imageUrl: imageUrl };
     })
   );
 }
@@ -355,6 +368,22 @@ function passesPriceTrendGate(p) {
   if (p._priceChangeH1 == null) return true;
   if (p._priceChangeH1 < MIN_PRICE_CHANGE_H1) {
     console.log(`Skipped ${p.name}: down ${p._priceChangeH1.toFixed(2)}% over 1h (min ${MIN_PRICE_CHANGE_H1}%)`);
+    return false;
+  }
+  return true;
+}
+
+// Fail open: missing DexScreener data should never suppress an alert on its
+// own. Requires a minimum txn count before judging the ratio - a 2-sell,
+// 0-buy pool is 100% sells but not a meaningful signal either way.
+function passesSellRatioGate(p) {
+  if (!p._h1Txns) return true;
+  const { buys, sells } = p._h1Txns;
+  const total = buys + sells;
+  if (total < MIN_M5_TXNS) return true;
+  const sellRatio = sells / total;
+  if (sellRatio > MAX_SELL_RATIO_H1) {
+    console.log(`Skipped ${p.name}: ${(sellRatio * 100).toFixed(0)}% sells over 1h (max ${(MAX_SELL_RATIO_H1 * 100).toFixed(0)}%)`);
     return false;
   }
   return true;
@@ -408,6 +437,7 @@ function buildSlackAttachment(p) {
   const reasonLabel = REASON_LABELS[p._alertReason] ?? '';
   const color = p._tier === 'DEGEN' ? '#e01e5a' : '#2eb67d'; // Slack's own red/green
   const m5Text = p._m5 ? `${p._m5.buys + p._m5.sells} tx` : 'n/a';
+  const h1TxnsText = p._h1Txns ? `${p._h1Txns.buys}B / ${p._h1Txns.sells}S` : 'n/a';
   const printingFor = formatDuration(Date.now() - Date.parse(p._firstSeenAt));
   const priceChange24hText = p._priceChangeH24 == null
     ? 'n/a'
@@ -429,6 +459,7 @@ function buildSlackAttachment(p) {
       { type: 'mrkdwn', text: `*Fee/TVL*\n${p._feeTvl30m.toFixed(2)}%` },
       { type: 'mrkdwn', text: `*30m Volume*\n${usd(p._volume30m)}` },
       { type: 'mrkdwn', text: `*5m Activity*\n${m5Text}` },
+      { type: 'mrkdwn', text: `*1h Buy/Sell*\n${h1TxnsText}` },
       { type: 'mrkdwn', text: `*Printing For*\n${printingFor}` },
       { type: 'mrkdwn', text: `*24h Price*\n${priceChange24hText}` },
     ],
@@ -516,6 +547,7 @@ function toPublicShape(p) {
     chartUrl: p._chartUrl ?? null,
     imageUrl: p._imageUrl ?? null,
     m5: p._m5 ?? null,
+    h1Txns: p._h1Txns ?? null,
     priceChangeH1: p._priceChangeH1 ?? null,
     priceChangeH24: p._priceChangeH24 ?? null,
     firstSeenAt: p._firstSeenAt ?? null,
@@ -558,7 +590,7 @@ export async function scan() {
   // state entry at all, so it isn't "seen" and can alert fresh once its
   // 5m activity picks back up (or its 1h price trend turns around), rather
   // than being stuck on cooldown.
-  const passesGates = (p) => passesActivityGate(p) && passesPriceTrendGate(p);
+  const passesGates = (p) => passesActivityGate(p) && passesPriceTrendGate(p) && passesSellRatioGate(p);
   const nowMs = Date.now();
   const nowIso = new Date(nowMs).toISOString();
   const state = pruneState(loadState(), nowMs);
