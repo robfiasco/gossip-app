@@ -394,6 +394,14 @@ function formatDuration(ms) {
   return `${minutes}m`;
 }
 
+// p.name comes from on-chain token metadata, which anyone can set to
+// arbitrary text when minting - escape Slack's mrkdwn control characters so
+// a pool named e.g. "<!channel> free SOL <https://phish|claim>" can't ping
+// the workspace or spoof a link when it gets posted verbatim into an alert.
+function escapeSlackMrkdwn(text) {
+  return String(text).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
 // One Block Kit "attachment" per pool, which is the only way an incoming
 // webhook can get a colored left border - plain `blocks` alone don't support it.
 function buildSlackAttachment(p) {
@@ -410,7 +418,7 @@ function buildSlackAttachment(p) {
 
   const titleBlock = {
     type: 'section',
-    text: { type: 'mrkdwn', text: `*${p.name}*${reasonLabel ? `  ·  ${reasonLabel}` : ''}` },
+    text: { type: 'mrkdwn', text: `*${escapeSlackMrkdwn(p.name)}*${reasonLabel ? `  ·  ${reasonLabel}` : ''}` },
   };
 
   const fieldsBlock = {
