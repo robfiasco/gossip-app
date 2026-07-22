@@ -1,26 +1,8 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
-    {
-      "type": "APPS",
-      "title": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
-      "category": "APPS",
-      "source": "The Block",
-      "date": "2026-07-21",
-      "url": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar",
-      "whyYouShouldCare": "The influx of capital into Solana and Hyperliquid ETFs indicates growing investor interest, which could enhance liquidity and market positioning for SOL."
-    },
-    {
-      "type": "ECOSYSTEM",
-      "title": "Jito rolls out JTX self-custodial trading platform for Solana tokens and RWAs",
-      "category": "ECOSYSTEM",
-      "source": "The Block",
-      "date": "2026-07-21",
-      "url": "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas",
-      "whyYouShouldCare": "Jito's launch of the JTX platform enhances the usability of Solana tokens and real-world assets, potentially driving ecosystem growth and user engagement."
-    },
     {
       "type": "RISK",
       "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
@@ -28,7 +10,25 @@
       "source": "Decrypt",
       "date": "2026-07-20",
       "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
-      "whyYouShouldCare": "Allbridge's pause following a flash loan attack highlights vulnerabilities in cross-chain protocols, impacting trust and operational stability within the Solana ecosystem."
+      "whyYouShouldCare": "The pause of Allbridge's cross-chain protocol highlights vulnerabilities in DeFi, potentially impacting Solana's liquidity and user trust in cross-chain solutions."
+    },
+    {
+      "type": "APPS",
+      "title": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
+      "category": "APPS",
+      "source": "The Block",
+      "date": "2026-07-21",
+      "url": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar",
+      "whyYouShouldCare": "The influx of funds into Solana and Hyperliquid ETFs indicates growing institutional interest, which could enhance liquidity and ecosystem development for SOL."
+    },
+    {
+      "type": "RISK",
+      "title": "Balance Coin’s 99.75% crash – Exploit, rug pull or something else?",
+      "category": "RISK",
+      "source": "AMB Crypto",
+      "date": "2026-07-22",
+      "url": "https://ambcrypto.com/balance-coins-99-75-crash-exploit-rug-pull-or-something-else",
+      "whyYouShouldCare": "The dramatic crash of Balance Coin raises concerns about security in the ecosystem, which could affect investor confidence and overall market stability for Solana."
     }
   ]
 }
