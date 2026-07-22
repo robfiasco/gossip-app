@@ -1,22 +1,12 @@
 {
   "date": "2026-07-22",
-  "generated_at_utc": "2026-07-22T09:24:52.060Z",
-  "ctxMarket": "Attention is focused on Solana’s strong presence in altcoin ETF flows, with notable assets under management. Security concerns are also in the spotlight following a cross-chain protocol attack involving Solana stablecoin pools.",
-  "ctxTalking": "• Solana ETFs and Hyperliquid funds are attracting significant capital flows.\n• Allbridge paused operations after a $1.65M flash loan exploit targeting Solana pools.\n• Multiple Solana ecosystem projects released new software updates.",
-  "ctxMatters": "ETF inflows highlight institutional interest in Solana, potentially impacting liquidity and visibility. The Allbridge incident underscores ongoing risks in cross-chain protocols, especially for stablecoin users. Frequent software releases suggest active development and ongoing improvements across Solana’s ecosystem.",
-  "ctxSignal": "Signal: Solana’s ETF inflows and ecosystem development are drawing sustained attention from both institutions and developers.\nNoise: Short-term speculation around the Allbridge exploit’s broader impact lacks clear evidence.",
-  "ctxGlossary": "ETF — Exchange-traded fund, a financial product tracking an asset or group of assets.\nFlash Loan — A type of uncollateralized loan used in DeFi, often for arbitrage or exploits.",
+  "generated_at_utc": "2026-07-22T20:10:02.797Z",
+  "ctxMarket": "Attention is focused on a series of new releases across core Solana infrastructure and developer tools. No major price or volume shifts are directly attributed to these updates.",
+  "ctxTalking": "• New releases from Agave, Firedancer, Frankendancer, Solana Program JS SDKs, LiteSVM, Mollusk, and Surfpool",
+  "ctxMatters": "These updates signal ongoing investment in Solana’s technical stack. Improvements in infrastructure and SDKs can impact network performance, developer experience, and future ecosystem growth.",
+  "ctxSignal": "Signal: Multiple core projects shipping updates in the same period highlights active development.\nNoise: No discussion of immediate market impact or speculative claims about these releases.",
+  "ctxGlossary": "SDK — Software Development Kit; tools for building on Solana\nFiredancer — An alternative Solana validator client focused on performance",
   "readMore": [
-    {
-      "title": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar"
-    },
-    {
-      "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack"
-    },
     {
       "title": "Solana Changelog",
       "source": "Solana News",

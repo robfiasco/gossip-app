@@ -1,5 +1,19 @@
 [
   {
+    "id": "e5a5342a40b55e85b0de2d802a50dd273d775ad7",
+    "title": "Signal Board Summary 2026-07-22",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-07-22T20:10:02.800Z",
+    "lastSeenAt": "2026-07-22T20:10:02.800Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "9f019fa9da0de1af3f9eb4cd83e8c13f8b02e31f",
     "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
     "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
@@ -121,62 +135,6 @@
       "from",
       "staking",
       "rewards"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "a27818ed7892accabb8200fee3dffcbd70e4f826",
-    "title": "Signal Board Summary 2026-07-20",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-07-20T09:57:14.828Z",
-    "lastSeenAt": "2026-07-20T09:57:14.828Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "c8159439cee3c0a683acdc275d93272286dd4c21",
-    "title": "Grayscale is setting up a quarterly cash showdown between Ethereum and Solana staking",
-    "url": "https://cryptoslate.com/grayscale-is-setting-up-a-quarterly-cash-showdown-between-ethereum-and-solana-staking",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-07-19T20:06:00.262Z",
-    "lastSeenAt": "2026-07-20T09:57:08.082Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "grayscale",
-      "setting",
-      "quarterly",
-      "cash",
-      "showdown",
-      "between",
-      "ethereum",
-      "solana"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "b99458108f0c51dad18d2c140cd62e1a684957b0",
-    "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
-    "url": "https://www.theblock.co/post/408855/allbridge-core-exploit",
-    "source": "The Block",
-    "firstSeenAt": "2026-07-20T09:57:08.081Z",
-    "lastSeenAt": "2026-07-20T09:57:08.081Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "allbridge",
-      "core",
-      "pauses",
-      "protocol",
-      "after",
-      "million",
-      "flash",
-      "loan"
     ],
     "majorUpdate": false,
     "updateReason": null
