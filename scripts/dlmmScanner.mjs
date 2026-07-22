@@ -232,6 +232,10 @@ function alertReason(pool, state, nowMs) {
   const existing = state[pool.address];
   if (!existing) return 'new';
   if (existing.tier === 'SAFE' && pool._tier === 'DEGEN') return 'upgraded';
+  // The reverse lifecycle: a DEGEN pick that's aged past SAFE's 6h floor and
+  // calmed below DEGEN's 2% fee/tvl bar - "still printing, now proven."
+  // Fires immediately rather than waiting on the refresh cooldown below.
+  if (existing.tier === 'DEGEN' && pool._tier === 'SAFE') return 'graduated';
   const lastAlertMs = Date.parse(existing.alertedAt ?? '');
   if (!Number.isFinite(lastAlertMs) || nowMs - lastAlertMs > REALERT_COOLDOWN_MS) return 'refresh';
   return null;
@@ -394,6 +398,7 @@ const REASON_LABELS = {
   new: '🆕',
   refresh: '🔁 still printing',
   upgraded: '⬆️ upgraded from standard',
+  graduated: '🎓 graduated - still printing after 6h+',
 };
 
 // Formats as Eastern time (EDT/EST, whichever applies) rather than GMT.
