@@ -1,16 +1,16 @@
 {
-  "date": "2026-07-22",
-  "generated_at_utc": "2026-07-22T20:10:02.797Z",
-  "ctxMarket": "Attention is focused on a series of new releases across core Solana infrastructure and developer tools. No major price or volume shifts are directly attributed to these updates.",
-  "ctxTalking": "• New releases from Agave, Firedancer, Frankendancer, Solana Program JS SDKs, LiteSVM, Mollusk, and Surfpool",
-  "ctxMatters": "These updates signal ongoing investment in Solana’s technical stack. Improvements in infrastructure and SDKs can impact network performance, developer experience, and future ecosystem growth.",
-  "ctxSignal": "Signal: Multiple core projects shipping updates in the same period highlights active development.\nNoise: No discussion of immediate market impact or speculative claims about these releases.",
-  "ctxGlossary": "SDK — Software Development Kit; tools for building on Solana\nFiredancer — An alternative Solana validator client focused on performance",
+  "date": "2026-07-23",
+  "generated_at_utc": "2026-07-23T09:22:59.365Z",
+  "ctxMarket": "Attention is focused on Solana's potential rent-exempt requirement reduction and its technical implications. Recent protocol and tooling releases are also drawing interest from developers.",
+  "ctxTalking": "• Analysis of lowering Solana’s rent-exempt requirement and its impact on network state growth and onboarding costs\n• New releases across Solana infrastructure projects, including Agave, Firedancer, and developer SDKs",
+  "ctxMatters": "Changes to rent requirements could affect the cost and accessibility of creating accounts on Solana. Technical upgrades and new SDKs may improve network performance and developer experience. These developments could influence how users and builders interact with the Solana ecosystem.",
+  "ctxSignal": "Signal: Data-driven discussion on rent reduction and active infrastructure development.\nNoise: Speculation not backed by data on immediate risks from rent changes.",
+  "ctxGlossary": "Rent-exempt requirement — The minimum balance needed to keep a Solana account permanently active without ongoing rent payments.\nLamport — The smallest unit of SOL, used for measuring balances and fees.",
   "readMore": [
     {
-      "title": "Solana Changelog",
+      "title": "Rent Reduction on Solana",
       "source": "Solana News",
-      "url": "https://solana.com/news/solana-changelog-july-16-2026"
+      "url": "https://solana.com/news/rent-reduction-deep-dive"
     }
   ]
 }
