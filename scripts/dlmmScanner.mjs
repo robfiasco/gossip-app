@@ -56,11 +56,11 @@ const MIN_PRICE_CHANGE_H1 = (() => {
 })();
 
 // Catches the case MIN_PRICE_CHANGE_H1 can miss: a market maker can hold price
-// flat/up while retail is overwhelmingly dumping into it. 0.8 = skip once more
-// than 80% of h1 txns are sells.
+// flat/up while retail is dumping into it. 0.5 = skip once sells outnumber
+// buys over the last hour at all.
 const MAX_SELL_RATIO_H1 = (() => {
   const raw = Number(process.env.MAX_SELL_RATIO_H1);
-  return Number.isFinite(raw) && raw > 0 && raw <= 1 ? raw : 0.8;
+  return Number.isFinite(raw) && raw > 0 && raw <= 1 ? raw : 0.5;
 })();
 
 const TIERS = {
