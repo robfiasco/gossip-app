@@ -1,16 +1,26 @@
 {
   "date": "2026-07-23",
-  "generated_at_utc": "2026-07-23T09:22:59.365Z",
-  "ctxMarket": "Attention is focused on Solana's potential rent-exempt requirement reduction and its technical implications. Recent protocol and tooling releases are also drawing interest from developers.",
-  "ctxTalking": "• Analysis of lowering Solana’s rent-exempt requirement and its impact on network state growth and onboarding costs\n• New releases across Solana infrastructure projects, including Agave, Firedancer, and developer SDKs",
-  "ctxMatters": "Changes to rent requirements could affect the cost and accessibility of creating accounts on Solana. Technical upgrades and new SDKs may improve network performance and developer experience. These developments could influence how users and builders interact with the Solana ecosystem.",
-  "ctxSignal": "Signal: Data-driven discussion on rent reduction and active infrastructure development.\nNoise: Speculation not backed by data on immediate risks from rent changes.",
-  "ctxGlossary": "Rent-exempt requirement — The minimum balance needed to keep a Solana account permanently active without ongoing rent payments.\nLamport — The smallest unit of SOL, used for measuring balances and fees.",
+  "generated_at_utc": "2026-07-23T20:10:33.773Z",
+  "ctxMarket": "Attention is focused on Solana’s rapid growth in real-world asset (RWA) tokenization, highlighted by a $5.8B surge driven by xStocks and new institutional partnerships. Technical upgrades and cross-chain initiatives are also in the spotlight.",
+  "ctxTalking": "• Solana’s xStocks expansion fueling tokenized equity growth and increased on-chain activity\n• Institutional adoption, with Mubadala Capital and Coinbase moving private funds onchain via Solana\n• Technical updates, including fee changes and SDK releases, plus cross-chain tokenized bank deposits",
+  "ctxMatters": "RWA tokenization and institutional involvement signal growing confidence in Solana’s infrastructure. Technical changes may affect validator incentives and application development. Cross-chain capabilities could broaden Solana’s reach in both DeFi and traditional finance.",
+  "ctxSignal": "Signal: Institutional onchain fund launches, fee structure changes, and RWA growth on Solana.\nNoise: Speculative SOL price predictions not directly tied to underlying developments.",
+  "ctxGlossary": "RWA — Real-world assets, such as equities or funds, represented as tokens on blockchain.\nLamport — The smallest unit of SOL, used for fees and rent on Solana.",
   "readMore": [
     {
-      "title": "Rent Reduction on Solana",
+      "title": "Analyzing Solana’s $5.8B RWA surge",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/analyzing-solanas-5-8b-rwa-surge-is-sol-eth-breakout-next"
+    },
+    {
+      "title": "Solana Changelog",
       "source": "Solana News",
-      "url": "https://solana.com/news/rent-reduction-deep-dive"
+      "url": "https://solana.com/news/solana-changelog-july-23-2026"
+    },
+    {
+      "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base"
     }
   ]
 }

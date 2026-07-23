@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "INFRA",
-      "title": "Circle partners with Kakao, Toss Bank to explore stablecoin payment rails in South Korea",
-      "category": "INFRA",
-      "source": "The Block",
+      "type": "APPS",
+      "title": "Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund",
+      "category": "APPS",
+      "source": "CoinDesk",
       "date": "2026-07-23",
-      "url": "https://www.theblock.co/post/409497/circle-partners-with-kakao-toss",
-      "whyYouShouldCare": "Circle's partnership with Kakao and Toss Bank could enhance stablecoin adoption in South Korea, potentially increasing liquidity and usage within the Solana ecosystem."
+      "url": "https://www.coindesk.com/business/2026/07/23/abu-dhabi-s-mubadala-capital-joins-tokenization-push-as-coinbase-takes-stake-in-onchain-fund",
+      "whyYouShouldCare": "Mubadala Capital's involvement in tokenization and Coinbase's investment in an onchain fund could enhance institutional interest and liquidity in the Solana ecosystem."
+    },
+    {
+      "type": "INFRA",
+      "title": "Solana Changelog: July 23, 2026",
+      "category": "INFRA",
+      "source": "Solana News",
+      "date": "2026-07-23",
+      "url": "https://solana.com/news/solana-changelog-july-23-2026",
+      "whyYouShouldCare": "The latest Solana Changelog highlights ongoing infrastructure improvements, which are crucial for enhancing network performance and supporting increased usage."
     },
     {
       "type": "APPS",
-      "title": "‘Laughable’ ethics deal? Inside White House and Democrats’ CLARITY Act standoff",
+      "title": "Analyzing Solana’s $5.8B RWA surge: Is SOL/ETH breakout next?",
       "category": "APPS",
       "source": "AMB Crypto",
       "date": "2026-07-23",
-      "url": "https://ambcrypto.com/laughable-ethics-deal-inside-white-house-and-democrats-clarity-act-standoff",
-      "whyYouShouldCare": "The ongoing standoff over the CLARITY Act may impact regulatory clarity for crypto applications, influencing Solana's development and integration in the U.S. market."
-    },
-    {
-      "type": "APPS",
-      "title": "BitMEX to shut down permanently 11 years after Arthur Hayes co-founded crypto exchange",
-      "category": "APPS",
-      "source": "The Block",
-      "date": "2026-07-23",
-      "url": "https://www.theblock.co/post/409495/bitmex-to-shut-down-permanently",
-      "whyYouShouldCare": "BitMEX's permanent shutdown could shift trading volume to other exchanges, affecting liquidity dynamics and user behavior in the broader crypto landscape, including Solana."
+      "url": "https://ambcrypto.com/analyzing-solanas-5-8b-rwa-surge-is-sol-eth-breakout-next",
+      "whyYouShouldCare": "The significant rise in Solana's real-world asset (RWA) market could position SOL favorably against ETH, potentially increasing its market share and liquidity."
     }
   ]
 }
