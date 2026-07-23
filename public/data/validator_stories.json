@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-07-22T15:00:58.709Z",
+  "generated_at": "2026-07-23T15:05:23.874Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1784732458709",
+      "id": "story_onchain-marketmover_1784819123874",
       "source": "onchain-marketmover",
-      "title": "Jimothy The Raccoon Surges 32% as Meme Momentum Builds",
+      "title": "RIF Surges 59% in 24 Hours, Cause Unclear",
       "type": "critical",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-22T15:00:58.709Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/jimothy-the-raccoon",
+      "timestamp": "2026-07-23T15:05:23.874Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/rif-token",
       "metrics": {
-        "token": "Jimothy The Raccoon",
-        "symbol": "JIMOTHY",
-        "priceUsd": 0.02223418,
-        "marketCapUsd": 22212878,
-        "change24h": 32.89068,
-        "change7d": null
-      },
-      "trend": {
-        "streakDays": 2,
-        "streakDirection": "up",
-        "cumulativeChange": 102.6,
-        "isLargestInWindow": false,
-        "windowDays": 2
-      },
-      "ctPulse": [],
-      "whoToFollow": [],
-      "content": {
-        "signal": "Jimothy The Raccoon (JIMOTHY) gained 32.9% in 24 hours, continuing a two-day rally on Solana.",
-        "story": "Jimothy The Raccoon (JIMOTHY) posted a sharp 32.9% price increase over the past 24 hours, reaching $0.0222 with a market cap of $22.2 million. This marks the second consecutive day of gains, with the token up 102.6% over that period. Trading volume surged to $25.8 million, signaling heightened activity around this Solana-based meme token.\n\n### What's Happening\n\nJIMOTHY's price action stands out for its sustained momentum. The token has more than doubled in value across two days, with daily volume now exceeding its total market cap. Recent headlines from Yahoo Finance, BeInCrypto, and CryptoRank highlight a viral meme event as a potential catalyst, describing a sharp rally following the token’s online popularity. The narrative centers on the token’s meme status, with coverage pointing to a surge in attention rather than any technical upgrade or protocol change.\n\nThe spike in trading activity suggests a rapid influx of interest, likely driven by social media and meme culture. The token’s market cap remains modest relative to its trading volume, a dynamic often seen during speculative phases in meme assets.\n\n### Why It Matters\n\nJIMOTHY’s rally underscores the ongoing influence of meme-driven narratives within the Solana ecosystem. The token’s ability to attract outsized volume and price movement in a short window reflects the power of viral attention to move markets, even for lower-cap assets. This episode highlights how quickly liquidity and sentiment can shift in the meme coin segment, with Solana’s low fees and fast settlement enabling rapid participation.\n\nFor Solana, the event reinforces its reputation as a hub for fast-moving, community-driven tokens. High-profile meme rallies can draw new users and liquidity, but also test the resilience of on-chain infrastructure. The attention on JIMOTHY may spill over to other meme tokens or prompt new launches, as traders and builders look to capture similar momentum.\n\n### The Risk or Debate\n\nThe sustainability of JIMOTHY’s surge remains uncertain. Meme tokens are highly sensitive to shifts in sentiment, and sharp reversals are common once viral attention fades. The current trading volume relative to market cap suggests speculative trading dominates, raising questions about depth and long-term holder conviction. Without a clear fundamental catalyst beyond meme appeal, the token could be vulnerable to rapid corrections.\n\nThere is also debate about the broader impact of meme rallies on Solana’s reputation. While they can bring attention and activity, they may also invite scrutiny or concerns about volatility and market manipulation. The lack of technical or ecosystem developments tied to JIMOTHY’s move leaves open questions about its staying power.\n\n### What To Watch\n\nSustained trading volume above $20 million over the next 48 hours would indicate continued interest and momentum. A sharp drop in volume or a retracement below $0.015 could signal fading enthusiasm and a potential reversal. Headline-driven surges are often short-lived, so monitoring whether JIMOTHY can maintain elevated activity will be key to gauging the durability of this move.",
-        "takeaways": [
-          "JIMOTHY rose 32.9% in 24 hours, continuing a two-day, 102.6% rally.",
-          "Trading volume exceeded market cap, reflecting intense speculative activity.",
-          "Recent headlines attribute the surge to viral meme attention, not technical developments."
-        ]
-      },
-      "watchTrigger": "Sustained trading volume above $20 million for the next 48 hours.",
-      "riskLevel": "high",
-      "narrativeStrength": 6.3
-    },
-    {
-      "id": "story_onchain-fundflow_1784732439078",
-      "source": "onchain-fundflow",
-      "title": "CEX.IO TVL Drops 39% in 24 Hours",
-      "type": "critical",
-      "category": "DeFi / Fund Flows",
-      "author": "On-Chain Signal",
-      "timestamp": "2026-07-22T15:00:39.078Z",
-      "sourceUrl": "http://cex.io/",
-      "metrics": {
-        "protocol": "CEX.IO",
-        "tvlUsd": 5883475.346530081,
-        "change1d": -39.343022207879386,
-        "change7d": -39.9749115399922,
-        "tokenSymbol": null,
-        "tokenPriceUsd": null
+        "token": "Rootstock Infrastructure Framework",
+        "symbol": "RIF",
+        "priceUsd": 0.10285,
+        "marketCapUsd": 103148286,
+        "change24h": 59.3,
+        "change7d": -25.5
       },
       "trend": {
         "streakDays": 1,
-        "streakDirection": "down",
-        "cumulativeChange": -39.34,
+        "streakDirection": "up",
+        "cumulativeChange": 59.3,
         "isLargestInWindow": false,
         "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "CEX.IO’s total value locked fell by 39.3% in the last day, now sitting at $5.9 million.",
-        "story": "CEX.IO, a centralized exchange operating across multiple major blockchains, saw its total value locked (TVL) drop sharply by 39.3% over the past 24 hours. TVL now stands at $5.9 million, down from nearly $10 million just a day ago. This move is notable for its size, but on-chain data suggests it falls within the recent range of activity for the protocol.\n\n### What's Happening\nThe drop in TVL reflects a significant outflow of assets from CEX.IO’s on-chain holdings. This change has played out across a broad set of supported chains, including Ethereum, Binance, Solana, and others. There is no associated token for CEX.IO, so the movement is strictly about funds leaving the protocol, not token price volatility.\n\nNo unusual multi-day streaks or outlier events have been detected in the data. The decline appears to be a single-day event, rather than part of a longer-term trend or a sudden reversal. There are also no recent headlines or public incidents linked to CEX.IO that would explain this specific outflow.\n\n### Why It Matters\nA 39% drop in TVL in one day is a material move for any protocol, especially one that spans so many blockchains. TVL is often used as a proxy for user trust and engagement; a sharp decline can signal users moving assets elsewhere, possibly in search of better yields, lower fees, or greater perceived safety.\n\nFor CEX.IO, which does not have a native token to buffer or incentivize liquidity, these fund flows are particularly important. Sustained outflows could impact the protocol’s ability to offer competitive services or maintain its presence across multiple chains. While this move is within the recent range, it still raises questions about user confidence and the protocol’s competitive position.\n\n### The Risk or Debate\nThe main risk here is whether this is an isolated event or the start of a larger trend. Without a clear catalyst or headline, it’s difficult to pinpoint the cause—whether it’s a large user withdrawal, operational shift, or broader market rotation. If TVL continues to fall, CEX.IO could face challenges maintaining liquidity and user engagement across its supported networks.\n\nThere is also the risk that such a sharp outflow could prompt further withdrawals, as users may interpret the move as a sign of declining confidence, even if no underlying issue has been identified. In the absence of a native token, CEX.IO has fewer tools to quickly incentivize new deposits or stem outflows.\n\n### What To Watch\nThe key question is whether TVL stabilizes or continues to decline in the coming days. Watch for any official statements from CEX.IO, as well as on-chain data showing whether assets are returning or continuing to leave. If TVL drops below $5 million, it would signal a further loss of confidence and could trigger additional scrutiny from users and competitors.",
+        "signal": "Rootstock Infrastructure Framework (RIF) jumped 59.3% to $0.1028 in the past day, with no clear catalyst.",
+        "story": "Rootstock Infrastructure Framework (RIF) saw a sharp 59.3% price increase in the last 24 hours, reaching $0.1028. This move stands out against a backdrop of recent volatility, as RIF had dropped 25.5% over the past week. Trading volume also spiked, with $33.1 million changing hands—an unusually active day for a token ranked #263 by market cap.\n\n### What's Happening\nRIF’s price action is notable for its speed and scale, but there’s no clear on-chain or headline event explaining the move. The surge comes after a week of losses, suggesting either a rapid reversal or a short-term bounce. On-chain trend analysis indicates this is not part of a multi-day streak or an outlier move; it’s within the range of recent daily fluctuations.\n\nNo major news, partnerships, or protocol changes have been reported in the last two weeks that directly relate to RIF. The only recent headline is a generic market cap listing, which does not shed light on the cause of the spike. This leaves the reason for the sudden interest in RIF unclear for now.\n\n### Why It Matters\nSharp, unexplained price moves can signal shifting sentiment or speculative trading, especially in mid-cap tokens like RIF. While the token’s fundamentals or ecosystem developments have not been highlighted, the surge in trading volume suggests increased attention from traders or automated strategies. For those tracking Rootstock’s role in blockchain infrastructure, this kind of volatility can affect perceptions of stability and project momentum.\n\nThe move also comes after a significant weekly decline, raising questions about whether this is a sustainable recovery or a temporary reaction. With no clear catalyst, it’s difficult to assess whether this price level will hold or retrace. The spike may draw in new interest, but without supporting news or technical developments, it’s hard to gauge lasting impact.\n\n### The Risk or Debate\nThe main risk is that the price action is not backed by substantive developments. Without a clear trigger, such moves can quickly reverse, especially if driven by speculation or short-term trading. The lack of a trend streak or outlier signal suggests this is not a structural shift, but rather a single-day event within recent volatility norms.\n\nUnexplained surges can also attract opportunistic trading, increasing the chance of sharp corrections. For users and builders in the ecosystem, this kind of volatility may complicate planning or confidence in the token’s near-term trajectory.\n\n### What To Watch\nThe next key signal will be whether RIF can maintain this price level or if trading volume drops off as quickly as it rose. Watch for any protocol updates, partnerships, or ecosystem news that could provide context for the move. If RIF’s price falls back below $0.09 in the next 48 hours, it would suggest the spike was short-lived and not supported by lasting demand.",
         "takeaways": [
-          "CEX.IO TVL fell by 39.3% in 24 hours, now at $5.9M.",
-          "No clear catalyst or public incident explains the outflow.",
-          "Sustained declines could impact CEX.IO’s multi-chain presence and user trust."
+          "RIF surged 59.3% in 24 hours with no clear catalyst.",
+          "Trading volume spiked to $33.1 million, well above recent averages.",
+          "The move is not part of a multi-day trend and follows a week of losses."
         ]
       },
-      "watchTrigger": "If CEX.IO TVL falls below $5 million in the next 48 hours, it would confirm further outflows.",
+      "watchTrigger": "If RIF drops below $0.09 within 48 hours, the move likely lacks staying power.",
       "riskLevel": "medium",
-      "narrativeStrength": 7.4
+      "narrativeStrength": 9.1
+    },
+    {
+      "id": "story_onchain-fundflow_1784819105031",
+      "source": "onchain-fundflow",
+      "title": "Bitget SOL TVL Surges Nearly 10,000% in 24 Hours",
+      "type": "critical",
+      "category": "DeFi / Fund Flows",
+      "author": "On-Chain Signal",
+      "timestamp": "2026-07-23T15:05:05.031Z",
+      "sourceUrl": "https://www.bitget.com/price/solana/staking",
+      "metrics": {
+        "protocol": "Bitget SOL",
+        "tvlUsd": 11240401.474258408,
+        "change1d": 9985.400904599494,
+        "change7d": 10203.74831986032,
+        "tokenSymbol": null,
+        "tokenPriceUsd": null
+      },
+      "trend": {
+        "streakDays": 1,
+        "streakDirection": "up",
+        "cumulativeChange": 9985.4,
+        "isLargestInWindow": false,
+        "windowDays": 1
+      },
+      "ctPulse": [],
+      "whoToFollow": [],
+      "content": {
+        "signal": "Bitget SOL’s total value locked on Solana jumped 9985% in a single day, reaching $11.2 million.",
+        "story": "Bitget SOL, a liquid staking protocol on Solana, has seen its total value locked (TVL) soar to $11.2 million after a dramatic 9985% increase in the last 24 hours. This is a sharp move for a protocol that, until now, had minimal assets on-chain. The surge is also reflected in the weekly data, with TVL up over 10,000% in seven days.\\n\\n### What's Happening\\n\\nThis spike in TVL signals a sudden inflow of funds into Bitget SOL’s liquid staking product. The protocol, which does not have an associated token, has rapidly become one of the more notable movers in Solana’s DeFi landscape this week. Despite the scale of the increase, on-chain trend analysis suggests this move is within the recent range tracked over the last day, rather than a clear outlier or the start of a multi-day streak.\\n\\nNo major headlines or announcements have surfaced to explain the timing or cause of this inflow. There is no evidence of a new incentive program, partnership, or technical upgrade driving user activity. This leaves the source of the capital and the motivation behind it unclear for now.\\n\\n### Why It Matters\\n\\nA nearly 10,000% jump in TVL is rare, especially for a protocol without a native token or recent news. This kind of growth can quickly shift the landscape for liquid staking on Solana, potentially drawing attention from both users and competitors.\\n\\nBitget SOL’s rise could signal growing interest in alternative staking solutions on Solana, or it may reflect a single large deposit or a coordinated move by a small group of users. Either way, the protocol’s sudden growth puts it on the radar for those tracking DeFi activity and fund flows on Solana.\\n\\nThe lack of a token means there is no immediate speculation angle, but the TVL increase alone could attract further deposits or scrutiny from the broader ecosystem.\\n\\n### The Risk or Debate\\n\\nThe main risk is the opacity around the source and sustainability of these inflows. Without a clear catalyst or public explanation, it’s difficult to assess whether this TVL is sticky or likely to reverse just as quickly.\\n\\nRapid TVL growth can sometimes precede technical or operational issues, especially if the protocol’s infrastructure is not prepared for a sudden influx of assets. Additionally, if the deposits are concentrated among a small number of wallets, Bitget SOL could be exposed to outsized withdrawal risk.\\n\\n### What To Watch\\n\\nThe next few days will be key in determining whether Bitget SOL can maintain or build on this new TVL level. Watch for any official communication from the protocol, as well as on-chain data showing whether deposits are diversified or concentrated.\\n\\nIf TVL remains above $10 million or continues to grow, it could mark the start of a new phase for Bitget SOL in the Solana DeFi ecosystem. Conversely, a sharp drop would suggest the move was temporary or speculative in nature.",
+        "takeaways": [
+          "Bitget SOL TVL on Solana jumped nearly 10,000% in 24 hours, reaching $11.2M.",
+          "No clear public catalyst or announcement explains the sudden inflow.",
+          "Sustainability and source of new deposits remain uncertain."
+        ]
+      },
+      "watchTrigger": "If Bitget SOL TVL falls below $8 million within the next 72 hours, it would signal a reversal of this inflow.",
+      "riskLevel": "medium",
+      "narrativeStrength": 8.6
     }
   ]
 }
