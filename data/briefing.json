@@ -1,8 +1,26 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "INFRA",
+      "title": "Deploying enterprise stablecoin rails on Solana in days with Crossmint",
+      "category": "INFRA",
+      "source": "Solana News",
+      "date": "2026-07-23",
+      "url": "https://solana.com/news/case-study-crossmint",
+      "whyYouShouldCare": "The launch of enterprise stablecoin infrastructure on Solana enhances its appeal for businesses, potentially increasing transaction volume and liquidity."
+    },
+    {
+      "type": "APPS",
+      "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
+      "category": "APPS",
+      "source": "The Block",
+      "date": "2026-07-23",
+      "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base",
+      "whyYouShouldCare": "The integration of tokenized bank deposits across multiple chains, including Solana, could drive cross-chain liquidity and broaden user adoption."
+    },
     {
       "type": "APPS",
       "title": "Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund",
@@ -10,25 +28,7 @@
       "source": "CoinDesk",
       "date": "2026-07-23",
       "url": "https://www.coindesk.com/business/2026/07/23/abu-dhabi-s-mubadala-capital-joins-tokenization-push-as-coinbase-takes-stake-in-onchain-fund",
-      "whyYouShouldCare": "Mubadala Capital's involvement in tokenization and Coinbase's investment in an onchain fund could enhance institutional interest and liquidity in the Solana ecosystem."
-    },
-    {
-      "type": "INFRA",
-      "title": "Solana Changelog: July 23, 2026",
-      "category": "INFRA",
-      "source": "Solana News",
-      "date": "2026-07-23",
-      "url": "https://solana.com/news/solana-changelog-july-23-2026",
-      "whyYouShouldCare": "The latest Solana Changelog highlights ongoing infrastructure improvements, which are crucial for enhancing network performance and supporting increased usage."
-    },
-    {
-      "type": "APPS",
-      "title": "Analyzing Solana’s $5.8B RWA surge: Is SOL/ETH breakout next?",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-07-23",
-      "url": "https://ambcrypto.com/analyzing-solanas-5-8b-rwa-surge-is-sol-eth-breakout-next",
-      "whyYouShouldCare": "The significant rise in Solana's real-world asset (RWA) market could position SOL favorably against ETH, potentially increasing its market share and liquidity."
+      "whyYouShouldCare": "Mubadala Capital's involvement in tokenization alongside Coinbase signals growing institutional interest in on-chain assets, which may bolster Solana's ecosystem credibility."
     }
   ]
 }

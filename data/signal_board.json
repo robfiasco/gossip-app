@@ -1,17 +1,12 @@
 {
-  "date": "2026-07-23",
-  "generated_at_utc": "2026-07-23T20:10:33.773Z",
-  "ctxMarket": "Attention is focused on Solana’s rapid growth in real-world asset (RWA) tokenization, highlighted by a $5.8B surge driven by xStocks and new institutional partnerships. Technical upgrades and cross-chain initiatives are also in the spotlight.",
-  "ctxTalking": "• Solana’s xStocks expansion fueling tokenized equity growth and increased on-chain activity\n• Institutional adoption, with Mubadala Capital and Coinbase moving private funds onchain via Solana\n• Technical updates, including fee changes and SDK releases, plus cross-chain tokenized bank deposits",
-  "ctxMatters": "RWA tokenization and institutional involvement signal growing confidence in Solana’s infrastructure. Technical changes may affect validator incentives and application development. Cross-chain capabilities could broaden Solana’s reach in both DeFi and traditional finance.",
-  "ctxSignal": "Signal: Institutional onchain fund launches, fee structure changes, and RWA growth on Solana.\nNoise: Speculative SOL price predictions not directly tied to underlying developments.",
-  "ctxGlossary": "RWA — Real-world assets, such as equities or funds, represented as tokens on blockchain.\nLamport — The smallest unit of SOL, used for fees and rent on Solana.",
+  "date": "2026-07-24",
+  "generated_at_utc": "2026-07-24T09:18:53.533Z",
+  "ctxMarket": "Attention is focused on infrastructure upgrades and cross-chain tokenization, with several new releases and partnerships highlighting Solana’s evolving role in enterprise and institutional adoption. Technical changes to fees and rent requirements are also under discussion.",
+  "ctxTalking": "• Solana’s latest changelog introduces a new fee structure and SDK releases, including Agave and Firedancer.\n• LayerZero and Keeta’s partnership enables tokenized bank deposit transfers across Solana, Ethereum, and Base.\n• Major institutions, including Mubadala Capital and Coinbase, are participating in onchain fund tokenization spanning Solana and other networks.",
+  "ctxMatters": "Infrastructure upgrades and fee changes may affect validator incentives and developer experience.  \nCross-chain and enterprise stablecoin initiatives signal growing institutional interest in Solana’s network capabilities.  \nDiscussions on rent reduction could impact onboarding costs and long-term state growth.",
+  "ctxSignal": "Signal: Institutional and enterprise adoption of Solana through tokenization and stablecoin rails; concrete protocol upgrades.\nNoise: Speculation about immediate impacts of rent reduction without finalized decisions.",
+  "ctxGlossary": "Lamport — The smallest unit of SOL, Solana’s native token.\nTokenization — Converting real-world assets or funds into digital tokens on a blockchain.\nRent-exempt requirement — The minimum balance needed to keep an account active on Solana.",
   "readMore": [
-    {
-      "title": "Analyzing Solana’s $5.8B RWA surge",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/analyzing-solanas-5-8b-rwa-surge-is-sol-eth-breakout-next"
-    },
     {
       "title": "Solana Changelog",
       "source": "Solana News",
@@ -21,6 +16,11 @@
       "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
       "source": "The Block",
       "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base"
+    },
+    {
+      "title": "Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/23/abu-dhabi-s-mubadala-capital-joins-tokenization-push-as-coinbase-takes-stake-in-onchain-fund"
     }
   ]
 }
