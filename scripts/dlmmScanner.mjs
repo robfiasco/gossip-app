@@ -96,10 +96,10 @@ const TIERS = {
 // 24h volume descending (verified by sampling: high page numbers are all
 // zero-TVL dead pools) - that's undocumented behavior, not a guarantee, so
 // don't assume it holds forever.
-async function fetchPools() {
+async function fetchPoolPages(query, pages) {
   const pools = [];
-  for (let page = 1; page <= SCAN_CONFIG.pagesToScan; page++) {
-    const res = await fetch(`${API_URL}?page=${page}`, { headers: { accept: 'application/json' } });
+  for (let page = 1; page <= pages; page++) {
+    const res = await fetch(`${API_URL}?page=${page}${query}`, { headers: { accept: 'application/json' } });
     if (!res.ok) throw new Error(`Meteora API ${res.status}`);
     const json = await res.json();
     const batch = json.data ?? json.pairs ?? [];
@@ -107,6 +107,25 @@ async function fetchPools() {
     pools.push(...batch);
   }
   return pools;
+}
+
+// Volume-sorted pages alone systematically miss small/fresh pools that are
+// generating outsized fees right now but haven't accumulated big 24h volume
+// yet - a pool's 24h total is necessarily small in its first hour even if its
+// current rate is excellent, so it can't crack a volume-ranked top 50. A
+// second fetch sorted directly by fee/TVL ratio (with DEGEN's own $3k TVL
+// floor to skip near-empty dust pools) surfaces exactly the early, small,
+// hot pools the volume sort structurally excludes - verified live: this
+// caught looong-SOL at $211k TVL alongside tutu-SOL at $3.6k TVL, both with
+// legitimate 30m fee/TVL ratios the default sort wouldn't have surfaced.
+async function fetchPools() {
+  const [byVolume, byFeeDensity] = await Promise.all([
+    fetchPoolPages('', SCAN_CONFIG.pagesToScan),
+    fetchPoolPages(`&sort_by=fee_tvl_ratio_30m:desc&filter_by=tvl>${TIERS.DEGEN.minTvlUsd}`, SCAN_CONFIG.pagesToScan),
+  ]);
+  const byAddress = new Map();
+  for (const p of [...byVolume, ...byFeeDensity]) byAddress.set(p.address, p);
+  return [...byAddress.values()];
 }
 
 function poolAgeHours(pool) {
@@ -570,7 +589,7 @@ export async function scan() {
   let pools = [];
   try {
     pools = await fetchPools();
-    console.log(`Scanned ${pools.length} pools across ${SCAN_CONFIG.pagesToScan} pages`);
+    console.log(`Scanned ${pools.length} unique pools (volume-sorted + fee-density-sorted, ${SCAN_CONFIG.pagesToScan} pages each)`);
   } catch (error) {
     // Never let an upstream outage fail the workflow - proceed with zero
     // pools so state pruning and the UI snapshot still happen cleanly.
