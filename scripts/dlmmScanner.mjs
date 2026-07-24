@@ -25,6 +25,7 @@ try {
 
 import fs from 'fs';
 import path from 'path';
+import { sendSlack } from '../lib/notify.mjs';
 
 const API_URL = 'https://dlmm.datapi.meteora.ag/pools';
 const WSOL_MINT = 'So11111111111111111111111111111111111111112';
@@ -525,19 +526,6 @@ function buildSlackPayload(tierName, pools) {
 // ============================================================================
 // SENDERS
 // ============================================================================
-
-async function sendSlack(payload, webhookUrl) {
-  if (!webhookUrl) return;
-  try {
-    await fetch(webhookUrl, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload),
-    });
-  } catch (error) {
-    console.error('Slack send failed:', error.message);
-  }
-}
 
 async function sendTierAlert(tierName, pools, webhookUrl) {
   const slackPayload = buildSlackPayload(tierName, pools);
