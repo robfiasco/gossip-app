@@ -1,5 +1,82 @@
 [
   {
+    "id": "f60ace1a4309b6c94bb1c3d0cedd6ff6de179320",
+    "title": "Signal Board Summary 2026-07-24",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-07-24T20:18:25.244Z",
+    "lastSeenAt": "2026-07-24T20:18:25.244Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "5be507f592fc5a7c0fe8850c043b3e9f9eec76d5",
+    "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
+    "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base",
+    "source": "The Block",
+    "firstSeenAt": "2026-07-24T09:18:41.461Z",
+    "lastSeenAt": "2026-07-24T20:18:17.674Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "layerzero",
+      "keeta",
+      "enable",
+      "tokenized",
+      "bank",
+      "deposits",
+      "across",
+      "ethereum"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "6a243dd9a4ff684c9373e47156d6339e1912f526",
+    "title": "Deploying enterprise stablecoin rails on Solana in days with Crossmint",
+    "url": "https://solana.com/news/case-study-crossmint",
+    "source": "Solana News",
+    "firstSeenAt": "2026-07-24T09:18:41.460Z",
+    "lastSeenAt": "2026-07-24T20:18:17.674Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "deploying",
+      "enterprise",
+      "stablecoin",
+      "rails",
+      "solana",
+      "days",
+      "with",
+      "crossmint"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "08c3bb23382845d0662a67d3cee7f43a320ce783",
+    "title": "Solana Changelog: July 23, 2026",
+    "url": "https://solana.com/news/solana-changelog-july-23-2026",
+    "source": "Solana News",
+    "firstSeenAt": "2026-07-23T20:10:27.020Z",
+    "lastSeenAt": "2026-07-24T20:18:17.674Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "changelog",
+      "july",
+      "2026",
+      "accepted",
+      "simd",
+      "sends",
+      "2500"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "6c248799ab3e9f9e4f4c8029f85d87cd76669bcf",
     "title": "Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund",
     "url": "https://www.coindesk.com/business/2026/07/23/abu-dhabi-s-mubadala-capital-joins-tokenization-push-as-coinbase-takes-stake-in-onchain-fund",
@@ -21,69 +98,6 @@
     "updateReason": null
   },
   {
-    "id": "5be507f592fc5a7c0fe8850c043b3e9f9eec76d5",
-    "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
-    "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base",
-    "source": "The Block",
-    "firstSeenAt": "2026-07-24T09:18:41.461Z",
-    "lastSeenAt": "2026-07-24T09:18:41.461Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "layerzero",
-      "keeta",
-      "enable",
-      "tokenized",
-      "bank",
-      "deposits",
-      "across",
-      "ethereum"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "6a243dd9a4ff684c9373e47156d6339e1912f526",
-    "title": "Deploying enterprise stablecoin rails on Solana in days with Crossmint",
-    "url": "https://solana.com/news/case-study-crossmint",
-    "source": "Solana News",
-    "firstSeenAt": "2026-07-24T09:18:41.460Z",
-    "lastSeenAt": "2026-07-24T09:18:41.460Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "deploying",
-      "enterprise",
-      "stablecoin",
-      "rails",
-      "solana",
-      "days",
-      "with",
-      "crossmint"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "08c3bb23382845d0662a67d3cee7f43a320ce783",
-    "title": "Solana Changelog: July 23, 2026",
-    "url": "https://solana.com/news/solana-changelog-july-23-2026",
-    "source": "Solana News",
-    "firstSeenAt": "2026-07-23T20:10:27.020Z",
-    "lastSeenAt": "2026-07-23T20:10:27.020Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "changelog",
-      "july",
-      "2026",
-      "accepted",
-      "simd",
-      "sends",
-      "2500"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "aaa0bd53314305484cc60f99c02e1954f58fe31f",
     "title": "Analyzing Solana’s $5.8B RWA surge: Is SOL/ETH breakout next?",
     "url": "https://ambcrypto.com/analyzing-solanas-5-8b-rwa-surge-is-sol-eth-breakout-next",
@@ -100,62 +114,6 @@
       "xstocks",
       "expansion",
       "driving"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "e5a5342a40b55e85b0de2d802a50dd273d775ad7",
-    "title": "Signal Board Summary 2026-07-22",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-07-22T20:10:02.800Z",
-    "lastSeenAt": "2026-07-22T20:10:02.800Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "9f019fa9da0de1af3f9eb4cd83e8c13f8b02e31f",
-    "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
-    "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-07-20T20:18:03.332Z",
-    "lastSeenAt": "2026-07-22T09:24:45.335Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "allbridge",
-      "pauses",
-      "cross",
-      "chain",
-      "protocol",
-      "after",
-      "flash",
-      "loan"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "d3203df55a50045e2eec8c2a8c033ad8b8735b89",
-    "title": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
-    "url": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar",
-    "source": "The Block",
-    "firstSeenAt": "2026-07-21T20:17:12.970Z",
-    "lastSeenAt": "2026-07-22T09:24:45.335Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "hyperliquid",
-      "etfs",
-      "dominate",
-      "altcoin",
-      "fund",
-      "flows",
-      "despite"
     ],
     "majorUpdate": false,
     "updateReason": null

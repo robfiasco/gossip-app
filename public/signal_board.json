@@ -1,11 +1,11 @@
 {
   "date": "2026-07-24",
-  "generated_at_utc": "2026-07-24T09:18:53.533Z",
-  "ctxMarket": "Attention is focused on infrastructure upgrades and cross-chain tokenization, with several new releases and partnerships highlighting Solana’s evolving role in enterprise and institutional adoption. Technical changes to fees and rent requirements are also under discussion.",
-  "ctxTalking": "• Solana’s latest changelog introduces a new fee structure and SDK releases, including Agave and Firedancer.\n• LayerZero and Keeta’s partnership enables tokenized bank deposit transfers across Solana, Ethereum, and Base.\n• Major institutions, including Mubadala Capital and Coinbase, are participating in onchain fund tokenization spanning Solana and other networks.",
-  "ctxMatters": "Infrastructure upgrades and fee changes may affect validator incentives and developer experience.  \nCross-chain and enterprise stablecoin initiatives signal growing institutional interest in Solana’s network capabilities.  \nDiscussions on rent reduction could impact onboarding costs and long-term state growth.",
-  "ctxSignal": "Signal: Institutional and enterprise adoption of Solana through tokenization and stablecoin rails; concrete protocol upgrades.\nNoise: Speculation about immediate impacts of rent reduction without finalized decisions.",
-  "ctxGlossary": "Lamport — The smallest unit of SOL, Solana’s native token.\nTokenization — Converting real-world assets or funds into digital tokens on a blockchain.\nRent-exempt requirement — The minimum balance needed to keep an account active on Solana.",
+  "generated_at_utc": "2026-07-24T20:18:25.242Z",
+  "ctxMarket": "Attention is on Solana’s evolving fee structure, new cross-chain integrations, and infrastructure updates. Recent technical releases and partnerships are drawing focus from both enterprise and protocol developers.",
+  "ctxTalking": "• Solana’s accepted fee SIMD now directs more base fees to validators, with new Agave, Firedancer, and SDK updates.\n• LayerZero and Keeta’s partnership enables tokenized bank deposits to move natively across Ethereum, Solana, and Base.\n• Crossmint’s infrastructure is highlighted for powering enterprise stablecoin solutions and wallets on Solana.",
+  "ctxMatters": "Fee changes and new validator incentives may affect network economics and validator participation.  \nCross-chain tokenized deposit transfers could expand Solana’s role in broader financial ecosystems.  \nEnterprise stablecoin rails and wallet integrations signal growing institutional and retail use cases on Solana.",
+  "ctxSignal": "Signal: Technical upgrades, fee changes, and cross-chain partnerships are shaping Solana’s infrastructure and utility.  \nNoise: Speculation around rent reduction lacks immediate implementation or consensus.",
+  "ctxGlossary": "Lamport — The smallest unit of SOL, Solana’s native token.  \nSIMD — Solana Improvement Document, a proposal process for protocol changes.  \nRent-exempt requirement — The minimum balance needed to keep an account active on Solana.",
   "readMore": [
     {
       "title": "Solana Changelog",
@@ -16,11 +16,6 @@
       "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
       "source": "The Block",
       "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base"
-    },
-    {
-      "title": "Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/23/abu-dhabi-s-mubadala-capital-joins-tokenization-push-as-coinbase-takes-stake-in-onchain-fund"
     }
   ]
 }
