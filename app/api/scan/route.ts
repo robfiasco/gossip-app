@@ -1,7 +1,7 @@
 // Returns the last DLMM "hot pools" scan result for the /printers page.
 // Reads from Vercel KV first; falls back to data/dlmm_printers.json.
 // Does NOT run the scan itself - scanning (and Telegram alerting) happens
-// once per cron tick via scripts/dlmmScanner.mjs, not on every page view.
+// once per cron tick by the separate dlmm-trader repo, not on every page view.
 import { NextResponse } from "next/server";
 import { kv } from "../../../lib/kv";
 import fs from "fs";
