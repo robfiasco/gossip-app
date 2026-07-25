@@ -1,11 +1,11 @@
 {
   "date": "2026-07-25",
-  "generated_at_utc": "2026-07-25T08:58:53.443Z",
-  "ctxMarket": "Data unavailable.",
-  "ctxTalking": "• Data unavailable.",
-  "ctxMatters": "Data unavailable.",
-  "ctxSignal": "Signal: Data unavailable.\nNoise: Data unavailable.",
-  "ctxGlossary": "DATA — unavailable",
+  "generated_at_utc": "2026-07-25T20:09:30.867Z",
+  "ctxMarket": "Attention is on infrastructure upgrades and cross-chain integrations, with several updates impacting how fees and stablecoins move on Solana. Discussion is also focused on potential changes to rent requirements for accounts.",
+  "ctxTalking": "• Solana’s latest fee update directs more base fees to validators and introduces new SDKs and client releases.\n• LayerZero and Keeta’s partnership enables tokenized bank deposits to move natively across Solana, Ethereum, and Base.\n• Analysis of reducing Solana’s rent-exempt requirement is raising questions about network growth and onboarding costs.",
+  "ctxMatters": "Infrastructure changes may affect validator incentives and developer tooling. Cross-chain tokenized deposits could broaden Solana’s role in digital banking. Rent reduction discussions signal ongoing efforts to lower user onboarding costs while managing network health.",
+  "ctxSignal": "Signal: Concrete protocol changes and cross-chain stablecoin initiatives are shaping Solana’s technical and economic landscape.\nNoise: Speculation about rent reduction outcomes without finalized decisions.",
+  "ctxGlossary": "Lamport — The smallest unit of SOL, Solana’s native token.\nRent-exempt requirement — The minimum SOL needed to keep an account active on Solana.",
   "readMore": [
     {
       "title": "Solana Changelog",
