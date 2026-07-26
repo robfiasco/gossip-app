@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-07-25T14:28:18.698Z",
+  "generated_at": "2026-07-26T14:26:51.630Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1784989698697",
+      "id": "story_onchain-marketmover_1785076011630",
       "source": "onchain-marketmover",
-      "title": "Credible Finance Surges 51% Amid Two-Day Rally",
-      "type": "critical",
+      "title": "Starpower Drops 19.5% in 24h, Extending Weekly Slide",
+      "type": "alpha",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-25T14:28:18.697Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/credible-finance",
+      "timestamp": "2026-07-26T14:26:51.630Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/starpower",
       "metrics": {
-        "token": "Credible Finance",
-        "symbol": "CRED",
-        "priceUsd": 0.824123,
-        "marketCapUsd": 18673517,
-        "change24h": 50.78446,
-        "change7d": 20.52817695310351
-      },
-      "trend": {
-        "streakDays": 2,
-        "streakDirection": "up",
-        "cumulativeChange": 77.03,
-        "isLargestInWindow": true,
-        "windowDays": 2
-      },
-      "ctPulse": [],
-      "whoToFollow": [],
-      "content": {
-        "signal": "Credible Finance (CRED) has climbed 50.8% in the past 24 hours, extending a two-day rally to 77% gains.",
-        "story": "Credible Finance (CRED) is on a sharp upward trajectory, jumping over 50% in the last day to reach $0.8241. This marks the second consecutive day of strong gains, with the token up a cumulative 77% over that period. Trading volume has also picked up, with $1.6 million changing hands in the past 24 hours, signaling heightened interest and activity around the token.\n\n### What's Happening\nCRED’s price action stands out in a generally mixed market, with the token now holding a market cap of $18.7 million and ranking #843 by size. The move follows a week of steady growth, with CRED up over 20% in the last seven days. There are no clear headlines or protocol-specific news directly tied to this surge, though a recent report highlighted the project’s successful ICO, which raised $18 million—well above its $4 million target.\n\nThe current rally appears to be driven by on-chain momentum rather than a single news catalyst. The sustained two-day run suggests that buyers are stepping in with conviction, possibly in response to the project’s recent fundraising success or growing community engagement. However, without a direct trigger, the exact cause remains unclear.\n\n### Why It Matters\nRapid price moves like this can signal shifting sentiment or new information entering the market. For CRED, the outsized ICO and subsequent price action may be drawing attention from traders and observers looking for emerging projects with fresh capital and potential runway. The increased trading volume indicates that liquidity is improving, which can attract more participants and make price discovery more efficient.\n\nCRED’s move up the ranks also puts it on the radar for those tracking smaller-cap tokens with breakout potential. If the project can sustain this momentum, it could see further ecosystem engagement or even listings on larger platforms. The recent fundraising success could provide resources for development, partnerships, or incentives, though none have been announced yet.\n\n### The Risk or Debate\nThe main risk is the lack of a clear, public catalyst for the rally. Without new product launches, partnerships, or protocol upgrades, sharp price increases can sometimes reverse quickly if sentiment shifts. The token’s relatively small market cap makes it more susceptible to volatility, and new entrants should be aware that liquidity, while improving, may still be thin compared to larger assets.\n\nThere’s also the question of sustainability. If the rally is driven primarily by speculative flows rather than fundamental developments, it could unwind just as quickly. Observers should be cautious about reading too much into short-term price action without supporting news or on-chain activity.\n\n### What To Watch\nWatch for any official announcements from the Credible Finance team regarding new products, partnerships, or roadmap updates. Sustained trading volume above $1 million per day would indicate continued interest and liquidity. If CRED can hold above the $0.80 level over the next several days, it may signal that the move is more than just a brief spike.",
-        "takeaways": [
-          "Credible Finance (CRED) surged over 50% in 24 hours, extending a two-day rally.",
-          "No clear news catalyst has been identified, though a recent ICO raised $18 million.",
-          "Sustained volume and price levels will be key to watch for signs of lasting momentum."
-        ]
-      },
-      "watchTrigger": "CRED maintains daily trading volume above $1 million for the next 3 days.",
-      "riskLevel": "medium",
-      "narrativeStrength": 8
-    },
-    {
-      "id": "story_onchain-fundflow_1784989688795",
-      "source": "onchain-fundflow",
-      "title": "Zoomex TVL Drops 37% in 24 Hours, Now at $29M",
-      "type": "critical",
-      "category": "DeFi / Fund Flows",
-      "author": "On-Chain Signal",
-      "timestamp": "2026-07-25T14:28:08.795Z",
-      "sourceUrl": "https://www.zoomex.com",
-      "metrics": {
-        "protocol": "Zoomex",
-        "tvlUsd": 29116256.110517986,
-        "change1d": -37.476173323924186,
-        "change7d": 18.89843375353182,
-        "tokenSymbol": null,
-        "tokenPriceUsd": null
+        "token": "Starpower",
+        "symbol": "STAR",
+        "priceUsd": 0.102022,
+        "marketCapUsd": 18983599,
+        "change24h": -19.5,
+        "change7d": -50.8
       },
       "trend": {
         "streakDays": 1,
         "streakDirection": "down",
-        "cumulativeChange": -37.48,
+        "cumulativeChange": -19.5,
         "isLargestInWindow": false,
         "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Zoomex’s total value locked fell sharply by 37.5% in the past day, bringing its TVL to $29.1 million.",
-        "story": "Zoomex, a centralized exchange operating across multiple major blockchains, just saw its total value locked (TVL) drop by over a third in the last 24 hours. The platform’s TVL now stands at $29.1 million, a significant decrease that comes after a week of overall growth. This move is notable, but on-chain data shows it falls within the recent range of activity for Zoomex, rather than marking a clear outlier or new trend.\n\n### What's Happening\nThe sharp 24-hour TVL decline follows a period of positive momentum, with Zoomex’s TVL up nearly 19% over the past week. There’s no evidence of a protocol exploit, mass withdrawal event, or technical incident tied to this drop. Recent headlines about Zoomex highlight new product launches and partnerships, but none directly explain the sudden outflow. The lack of a protocol token also means there’s no price-driven feedback loop at play here.\n\nZoomex operates across a broad set of chains, including Ethereum, Solana, and Bitcoin, which can sometimes make fund flows more volatile as users move assets between ecosystems. However, the platform’s TVL has not shown a pattern of sustained outflows or inflows in the past day, suggesting this move is within normal volatility for Zoomex.\n\n### Why It Matters\nLarge, sudden TVL changes on a centralized exchange can be an early signal of shifting user sentiment or operational changes. While Zoomex’s drop is sizable, it does not appear to be part of a larger negative trend—TVL is still up week-over-week. For users and builders, this suggests the platform remains stable, but the scale of the move warrants attention.\n\nZoomex’s recent product rollouts, including a new trading mode and staking offers, indicate the team is actively working to attract and retain users. The TVL drop could reflect users cycling funds in and out to take advantage of these offers, or simply normal movement across chains. Without a protocol token, the platform is less exposed to speculative swings, but also lacks the incentive mechanisms that can help stabilize TVL during volatile periods.\n\n### The Risk or Debate\nThe main risk here is whether this TVL drop is a one-off or the start of a longer-term decline. While on-chain data suggests this is within Zoomex’s typical range, repeated large outflows could signal deeper issues—such as declining user trust, reduced trading activity, or competitive pressure from other platforms. The absence of a clear cause means it’s difficult to pinpoint what, if anything, needs to be addressed.\n\nThere’s also the question of how Zoomex will respond if TVL volatility continues. Without a token to incentivize liquidity, the platform may need to rely more heavily on product innovation or partnerships to maintain user engagement.\n\n### What To Watch\nThe next key marker will be whether Zoomex’s TVL rebounds above $35 million in the coming days, or if it continues to trend downward. Watch for any official statements from Zoomex about operational changes, new incentives, or security updates. If TVL remains volatile, it may be a sign that users are actively reallocating capital between platforms or chains, rather than a sign of structural weakness at Zoomex itself.",
+        "signal": "Starpower (STAR) fell 19.5% in the last 24 hours, continuing a week-long decline.",
+        "story": "Starpower (STAR), a Solana-based token, has dropped 19.5% over the past 24 hours, now trading at $0.1020. This move extends its seven-day slide, with the token down over 50% in the past week. Trading volume reached $2.1 million in the last day, and STAR’s market cap now stands at $19 million, ranking it #827 by size.\\n\\n### What's Happening\\n\\nThe latest price action for STAR is sharp but not out of character for its recent performance. The 19.5% daily drop falls within the range of volatility seen over the last day, suggesting this is a continuation of existing trends rather than a sudden outlier. No unusual on-chain activity or external headlines have surfaced to explain the move, and there are no signs of a specific event or protocol issue driving the decline.\\n\\nSTAR’s trading volume remains active, indicating there is still liquidity and engagement from traders. However, the sustained downward pressure over the past week has eroded more than half of its value, putting it under the microscope for those tracking Solana ecosystem tokens.\\n\\n### Why It Matters\\n\\nA 50% weekly drop is significant for any token, especially one with a $19 million market cap. Such moves can signal shifting sentiment or a loss of confidence, even in the absence of a clear catalyst. For Solana ecosystem watchers, STAR’s decline is a reminder that smaller-cap tokens can experience rapid and extended drawdowns, which can impact user confidence and liquidity.\\n\\nThe lack of news or protocol-specific developments means the move is likely driven by broader trading dynamics—possibly profit-taking, rotation into other assets, or technical selling. This kind of price action can have ripple effects, as it may prompt holders to reassess their positions or trigger automated trading strategies.\\n\\n### The Risk or Debate\\n\\nThe primary risk here is the potential for further downside if confidence does not stabilize. Extended declines can lead to lower liquidity, making it harder for holders to exit without impacting price. Without any clear protocol issue or exploit, the debate centers on whether STAR is simply experiencing a correction after prior gains, or if there is a deeper loss of interest.\\n\\nAnother risk is that continued volatility could deter new entrants or partnerships, especially if the token’s price remains unstable. For existing holders, the absence of communication or updates from the project team may add to uncertainty.\\n\\n### What To Watch\\n\\nThe next key level to watch is whether STAR can hold above the $0.10 mark. A sustained break below this psychological threshold could accelerate selling or trigger further technical moves. If trading volume drops sharply, it may signal waning interest and increased risk of illiquidity.\\n\\nTraders and ecosystem observers should also watch for any official updates or community responses, as these could shift sentiment or clarify the reasons behind the recent moves. Until then, STAR remains in a vulnerable position, with price action driven mainly by market forces rather than fundamentals.",
         "takeaways": [
-          "Zoomex TVL fell 37.5% in 24 hours, now at $29.1M.",
-          "No exploit or technical issue has been reported; the move is within recent volatility.",
-          "The cause is unclear, but the drop follows a week of TVL growth and recent product launches."
+          "Starpower (STAR) has dropped over 50% in the past week, including a 19.5% fall in the last 24 hours.",
+          "No clear catalyst or protocol-specific event explains the decline; trading activity remains active.",
+          "Sustained volatility and lack of news leave STAR exposed to further downside and liquidity risks."
         ]
       },
-      "watchTrigger": "If Zoomex TVL returns above $35M or falls below $25M within the next 72 hours, it will clarify whether this move is a blip or part of a larger trend.",
+      "watchTrigger": "A daily close below $0.10 for STAR would confirm a break of the current range.",
+      "riskLevel": "high",
+      "narrativeStrength": 4.9
+    },
+    {
+      "id": "story_onchain-fundflow_1785076003083",
+      "source": "onchain-fundflow",
+      "title": "Zoomex TVL Jumps 11.7% to $32.5M Across Multiple Chains",
+      "type": "alpha",
+      "category": "DeFi / Fund Flows",
+      "author": "On-Chain Signal",
+      "timestamp": "2026-07-26T14:26:43.083Z",
+      "sourceUrl": "https://www.zoomex.com",
+      "metrics": {
+        "protocol": "Zoomex",
+        "tvlUsd": 32525851.780182272,
+        "change1d": 11.710281901362322,
+        "change7d": 32.346914193421696,
+        "tokenSymbol": null,
+        "tokenPriceUsd": null
+      },
+      "trend": {
+        "streakDays": 1,
+        "streakDirection": "up",
+        "cumulativeChange": 11.71,
+        "isLargestInWindow": false,
+        "windowDays": 2
+      },
+      "ctPulse": [],
+      "whoToFollow": [],
+      "content": {
+        "signal": "Zoomex’s total value locked rose 11.7% in the past 24 hours, reaching $32.5 million.",
+        "story": "Zoomex, a centralized exchange operating across a wide range of blockchains, saw its total value locked (TVL) climb by 11.7% in the last 24 hours, now sitting at $32.5 million. This uptick follows a week of steady growth, with TVL up over 32% in the past seven days. The move is notable, but on-chain data suggests it falls within the recent activity range—there’s no evidence of an unusual streak or outlier event.\n\n### What's Happening\nZoomex’s TVL increase comes as the platform continues to expand its presence across major chains like Ethereum, Solana, Binance, and Bitcoin, as well as newer networks such as Mantle and Sonic. The protocol does not have an associated token, so these fund flows reflect direct user deposits rather than speculative token activity. Over the past week, Zoomex has rolled out several new features and promotions, including a fixed-term USDT staking offer for new users and a Discord campaign with exclusive rewards. However, there’s no clear on-chain link between these announcements and the latest TVL jump.\n\nThe exchange has also been in the news for launching a 'Crypto Speedrun Mode'—a trading feature designed to reduce leverage and liquidation risk. While this could attract risk-averse users, there’s no direct evidence that this specific product launch is driving the recent inflows. Overall, the TVL growth appears organic and consistent with Zoomex’s ongoing efforts to attract new users and liquidity.\n\n### Why It Matters\nA double-digit TVL increase in 24 hours signals rising user engagement and confidence in Zoomex, especially in a competitive landscape where exchanges are fighting for both liquidity and attention. The protocol’s ability to grow without a native token is notable, as it suggests users are motivated by platform features or incentives rather than speculative token rewards. This could indicate a more sustainable user base, less prone to rapid outflows if market sentiment shifts.\n\nZoomex’s multi-chain approach also positions it to capture flows from users active on different networks. The recent growth, spread across both established and emerging chains, hints at a broadening user demographic. If this trend continues, Zoomex could become a more significant player in the cross-chain exchange space, especially as users look for platforms that offer both flexibility and new trading experiences.\n\n### The Risk or Debate\nDespite the positive momentum, there are still open questions about the durability of these inflows. Without a native token, Zoomex relies on product innovation and promotions to attract deposits. If these incentives lose their appeal or competitors launch similar offers, TVL could quickly reverse. Additionally, as a centralized exchange, Zoomex faces the usual risks around custody, transparency, and regulatory oversight, which could impact user trust if not managed carefully.\n\nThere’s also the possibility that some of the recent TVL growth is tied to short-term campaigns rather than long-term user commitment. If the pace of new features or promotions slows, the platform may struggle to maintain current levels.\n\n### What To Watch\nThe next key marker will be whether Zoomex’s TVL can hold above the $35 million level in the coming days. Sustained growth past this threshold would indicate that recent inflows are sticky and not just a temporary response to promotions. Watch for further product launches, cross-chain integrations, or new user campaigns that could drive the next leg of growth—or signal a plateau if activity slows.",
+        "takeaways": [
+          "Zoomex TVL rose 11.7% in 24 hours, now at $32.5M.",
+          "Growth is consistent with recent trends, not an outlier event.",
+          "No native token; user deposits likely driven by platform features and promotions."
+        ]
+      },
+      "watchTrigger": "Zoomex TVL holding above $35 million for at least 48 hours.",
       "riskLevel": "medium",
-      "narrativeStrength": 7.4
+      "narrativeStrength": 4.8
     }
   ]
 }
