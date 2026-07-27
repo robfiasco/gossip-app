@@ -1,21 +1,16 @@
 {
-  "date": "2026-07-26",
-  "generated_at_utc": "2026-07-26T20:07:05.333Z",
-  "ctxMarket": "Attention is on Solana’s evolving fee structure and infrastructure upgrades, as well as new cross-chain initiatives involving tokenized bank deposits. Stablecoin rails and potential rent reduction are also drawing discussion among users and builders.",
-  "ctxTalking": "• Solana’s latest changelog introduces a new fee SIMD, infrastructure releases, and validator incentives.\n• LayerZero and Keeta’s partnership enables tokenized bank deposits to move natively across Solana, Ethereum, and Base.\n• Ongoing analysis of reducing Solana’s rent-exempt requirement and its impact on network efficiency.",
-  "ctxMatters": "Fee and rent changes could affect the cost and accessibility of deploying programs and maintaining accounts on Solana. Cross-chain tokenized deposit rails may broaden Solana’s role in mainstream finance. Infrastructure updates and stablecoin integrations signal continued focus on scaling and usability.",
-  "ctxSignal": "Signal: Concrete protocol changes, cross-chain partnerships, and data-backed rent analysis.\nNoise: Speculation about immediate impacts without supporting data.",
-  "ctxGlossary": "SIMD — Solana Improvement Document, a proposal for protocol changes.\nLamport — The smallest unit of SOL, Solana’s native token.",
+  "date": "2026-07-27",
+  "generated_at_utc": "2026-07-27T10:39:29.642Z",
+  "ctxMarket": "Attention is on Solana’s ongoing infrastructure upgrades and the rapid deployment of enterprise stablecoin solutions. Recent updates highlight both technical improvements and growing adoption by major payment and wallet providers.",
+  "ctxTalking": "• New fee structure directing base fees to validators and fresh releases for Agave, Firedancer, and the program SDK\n• Crossmint enabling fast enterprise stablecoin integrations, supporting projects like Western Union USDPT and fomo’s reported $4B volume",
+  "ctxMatters": "Infrastructure changes may impact validator incentives and network performance. The ability to quickly deploy stablecoin rails is drawing interest from established financial and wallet platforms. These developments could influence how businesses and developers approach building on Solana.",
+  "ctxSignal": "Signal: Concrete protocol upgrades and real-world integrations by major payment and wallet providers.\nNoise: Unverified volume claims or speculative impact without supporting data.",
+  "ctxGlossary": "SIMD — Solana Improvement Document, a proposal for protocol changes\nLamport — The smallest unit of SOL, Solana’s native token",
   "readMore": [
     {
       "title": "Solana Changelog",
       "source": "Solana News",
       "url": "https://solana.com/news/solana-changelog-july-23-2026"
-    },
-    {
-      "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
-      "source": "The Block",
-      "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base"
     }
   ]
 }
