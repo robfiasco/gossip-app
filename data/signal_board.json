@@ -1,12 +1,22 @@
 {
   "date": "2026-07-27",
-  "generated_at_utc": "2026-07-27T10:39:29.642Z",
-  "ctxMarket": "Attention is on Solana’s ongoing infrastructure upgrades and the rapid deployment of enterprise stablecoin solutions. Recent updates highlight both technical improvements and growing adoption by major payment and wallet providers.",
-  "ctxTalking": "• New fee structure directing base fees to validators and fresh releases for Agave, Firedancer, and the program SDK\n• Crossmint enabling fast enterprise stablecoin integrations, supporting projects like Western Union USDPT and fomo’s reported $4B volume",
-  "ctxMatters": "Infrastructure changes may impact validator incentives and network performance. The ability to quickly deploy stablecoin rails is drawing interest from established financial and wallet platforms. These developments could influence how businesses and developers approach building on Solana.",
-  "ctxSignal": "Signal: Concrete protocol upgrades and real-world integrations by major payment and wallet providers.\nNoise: Unverified volume claims or speculative impact without supporting data.",
-  "ctxGlossary": "SIMD — Solana Improvement Document, a proposal for protocol changes\nLamport — The smallest unit of SOL, Solana’s native token",
+  "generated_at_utc": "2026-07-27T20:20:32.099Z",
+  "ctxMarket": "Attention is on rising activity and lower transaction costs across major chains, even as SOL, ETH, and AVAX prices remain over 50% below last year. Solana is seeing notable net inflows and increased user migration from Ethereum and Arbitrum.",
+  "ctxTalking": "• Solana’s $552M net inflows as users and capital shift from other chains\n• Pump.fun’s daily revenue surge, surpassing Hyperliquid and sparking speculation about sustainability\n• New Solana fee mechanism and infrastructure updates, including Crossmint’s enterprise stablecoin rails",
+  "ctxMatters": "Solana’s ability to attract capital and users amid declining token prices highlights its competitive positioning. Infrastructure improvements and enterprise integrations could further support network utility. Increased activity with lower fees may impact protocol revenues and validator incentives.",
+  "ctxSignal": "Signal: Net inflows and infrastructure upgrades point to sustained ecosystem development.\nNoise: Short-term speculation around meme token rallies and buybacks.",
+  "ctxGlossary": "Net inflows — The amount of capital entering a blockchain ecosystem after accounting for outflows\nLamports — The smallest unit of SOL, used for transaction fees on Solana",
   "readMore": [
+    {
+      "title": "Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise"
+    },
+    {
+      "title": "Pump.fun reclaims $0.0020 – Can $414M in buybacks sustain PUMP’s rally?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/pump-fun-reclaims-0-0020-can-414m-in-buybacks-sustain-pumps-rally"
+    },
     {
       "title": "Solana Changelog",
       "source": "Solana News",
