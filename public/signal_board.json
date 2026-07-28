@@ -1,26 +1,26 @@
 {
   "date": "2026-07-28",
-  "generated_at_utc": "2026-07-28T09:34:09.238Z",
-  "ctxMarket": "Attention is on increased blockchain activity and lower transaction costs across Solana, Ethereum, and Avalanche, even as token prices remain significantly down year-over-year. Discussion is shifting toward protocol upgrades and new enterprise integrations.",
-  "ctxTalking": "• Blockchain usage is rising while protocol revenues and token prices fall.\n• Pump.fun’s daily revenue surpassed Hyperliquid, highlighting meme coin platform activity.\n• Solana’s latest updates include new fee mechanisms and SDK releases, plus enterprise stablecoin integrations.",
-  "ctxMatters": "Higher network activity with lower fees may attract more users and developers to Solana. New fee structures and SDKs could impact how applications are built and monetized. Enterprise stablecoin adoption signals growing institutional interest in Solana infrastructure.",
-  "ctxSignal": "Signal: Rising usage and protocol upgrades despite declining token prices; enterprise adoption of Solana rails.\nNoise: Short-term meme coin price movements without broader ecosystem impact.",
-  "ctxGlossary": "SIMD — Solana Improvement Document, a proposal for protocol changes.\nSDK — Software Development Kit, tools for building on Solana.",
+  "generated_at_utc": "2026-07-28T20:14:32.622Z",
+  "ctxMarket": "Attention is focused on Morgan Stanley’s launch of Ether and Solana exchange-traded products (ETPs) with staking rewards and low fees. Security concerns are also prominent, as Solana and Ethereum projects experienced record hack losses in the first half of 2026.",
+  "ctxTalking": "• Morgan Stanley’s introduction of Solana and Ethereum ETPs, expanding institutional access.\n• Rising crypto hack losses, with Solana and Ethereum projects most affected.\n• New proposals for quantum-safe wallet protection that don’t require fund migration.",
+  "ctxMatters": "Institutional products like ETPs can increase mainstream exposure and potentially drive new participation in Solana. Security incidents highlight ongoing risks for users and projects, especially with Solana now the second hardest-hit network. Quantum-safe wallet proposals signal growing attention to long-term security challenges.",
+  "ctxSignal": "Signal: Major financial institutions are deepening their involvement in Solana, and security remains a top concern.\nNoise: Short-term price declines are not the main focus compared to activity and infrastructure developments.",
+  "ctxGlossary": "ETP — Exchange-traded product, a tradable investment vehicle tracking an asset like SOL.\nQuantum-safe — Cryptography designed to resist attacks from future quantum computers.",
   "readMore": [
     {
-      "title": "Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall",
+      "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps"
+    },
+    {
+      "title": "Crypto hacks hit record high in H1 2026 as losses top $1 billion, Blockaid says",
       "source": "The Block",
-      "url": "https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise"
+      "url": "https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says"
     },
     {
-      "title": "Pump.fun reclaims $0.0020 – Can $414M in buybacks sustain PUMP’s rally?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/pump-fun-reclaims-0-0020-can-414m-in-buybacks-sustain-pumps-rally"
-    },
-    {
-      "title": "Solana Changelog",
-      "source": "Solana News",
-      "url": "https://solana.com/news/solana-changelog-july-23-2026"
+      "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps"
     }
   ]
 }
