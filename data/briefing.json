@@ -1,8 +1,17 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "RISK",
+      "title": "$1.1B stolen from crypto in 6 months: Ethereum and Solana lost $658M combined",
+      "category": "RISK",
+      "source": "AMB Crypto",
+      "date": "2026-07-30",
+      "url": "https://ambcrypto.com/1-1b-stolen-from-crypto-in-6-months-ethereum-and-solana-lost-658m-combined",
+      "whyYouShouldCare": "The significant theft of $658 million from Ethereum and Solana highlights vulnerabilities in their ecosystems, potentially impacting user trust and liquidity."
+    },
     {
       "type": "APPS",
       "title": "Morgan Stanley is using $7.4 trillion in client assets and rock-bottom fees to hijack Wall Street’s crypto boom",
@@ -10,25 +19,16 @@
       "source": "CryptoSlate",
       "date": "2026-07-29",
       "url": "https://cryptoslate.com/morgan-stanley-is-using-7-4-trillion-in-client-assets-and-rock-bottom-fees-to-hijack-wall-streets-crypto-boom",
-      "whyYouShouldCare": "Morgan Stanley's significant client assets and low fees could intensify competition in the crypto sector, impacting liquidity and market dynamics for Solana."
+      "whyYouShouldCare": "Morgan Stanley's entry into crypto with substantial client assets could intensify competition for Solana, affecting its market positioning and user acquisition strategies."
     },
     {
-      "type": "APPS",
-      "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
-      "category": "APPS",
-      "source": "Cointelegraph",
-      "date": "2026-07-28",
-      "url": "https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration",
-      "whyYouShouldCare": "AmericanFortress's quantum-safe wallet could enhance security for Solana users, potentially increasing ecosystem adoption and confidence in handling digital assets."
-    },
-    {
-      "type": "APPS",
-      "title": "‘The moment to act is now’: Solana Policy Institute urges Senate to move on crypto bill as time dwindles",
-      "category": "APPS",
-      "source": "The Block",
+      "type": "MARKET",
+      "title": "SpaceX is a battleground Solana must win",
+      "category": "MARKET",
+      "source": "CoinDesk",
       "date": "2026-07-29",
-      "url": "https://www.theblock.co/post/410041/the-moment-to-act-is-now-solana-policy-institute-urges-senate-to-move-on-crypto-bill-as-time-dwindles",
-      "whyYouShouldCare": "The Solana Policy Institute's push for crypto legislation highlights the urgency for regulatory clarity, which could influence Solana's positioning and ecosystem growth."
+      "url": "https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win",
+      "whyYouShouldCare": "SpaceX's involvement in Solana could be crucial for its growth, as partnerships with high-profile companies can enhance ecosystem usage and attract more developers."
     }
   ]
 }
