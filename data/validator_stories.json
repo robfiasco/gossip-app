@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-07-30T15:07:10.531Z",
+  "generated_at": "2026-07-31T15:14:55.813Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1785424030531",
+      "id": "story_onchain-marketmover_1785510895812",
       "source": "onchain-marketmover",
-      "title": "Collector Crypt (CARDS) Jumps 20% in Active Trading",
-      "type": "critical",
+      "title": "Starpower (STAR) Jumps 13% After Recent Decline",
+      "type": "alpha",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-30T15:07:10.531Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/collector-crypt",
+      "timestamp": "2026-07-31T15:14:55.812Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/starpower",
       "metrics": {
-        "token": "Collector Crypt",
-        "symbol": "CARDS",
-        "priceUsd": 0.160239,
-        "marketCapUsd": 320224233,
-        "change24h": 20.4,
-        "change7d": 22.4
+        "token": "Starpower",
+        "symbol": "STAR",
+        "priceUsd": 0.090382,
+        "marketCapUsd": 16815883,
+        "change24h": 13.3,
+        "change7d": -23.4
       },
       "trend": {
         "streakDays": 1,
         "streakDirection": "up",
-        "cumulativeChange": 20.4,
+        "cumulativeChange": 13.3,
         "isLargestInWindow": false,
-        "windowDays": 1
+        "windowDays": 2
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Collector Crypt (CARDS) surged 20.4% in the past 24 hours, reaching $0.1602 with notable trading volume.",
-        "story": "Collector Crypt (CARDS) posted a sharp 20.4% price increase over the last day, now trading at $0.1602. The move brought its market capitalization to $320.2 million, with $3.3 million in 24-hour trading volume. This uptick stands out, but on-chain tracking shows the move is within the recent range and not part of a larger streak or outlier event.\n\n### What's Happening\nCARDS has seen a burst of activity, with its price and trading volume both climbing over the past day. The token’s 7-day performance is also positive, up 22.4%, suggesting steady interest rather than a sudden reversal or anomaly. No unusual on-chain streaks or outsized flows have been detected, indicating the move is consistent with recent trading patterns.\n\nRecent headlines reference Collector Crypt’s NFT and tokenized trading card ecosystem, but there is no clear news or event directly tied to this price action. The lack of a specific catalyst means the surge appears to be driven by ongoing market interest rather than a single announcement or development.\n\n### Why It Matters\nA 20% daily move for a mid-cap token like CARDS signals that traders are paying attention, even if the move is within the recent range. Sustained volume and a steady uptrend over the past week suggest Collector Crypt is maintaining relevance in a crowded NFT and tokenized asset sector. The protocol’s focus on NFT trading cards and real-world asset tokenization places it at the intersection of two active narratives in crypto.\n\nThe market cap, now over $320 million, puts CARDS in the top 500 tokens, which may attract more liquidity and attention from exchanges and aggregators. While there’s no sign of a breakout or new trend, the consistent upward movement could lay the groundwork for future momentum if new developments emerge.\n\n### The Risk or Debate\nThe absence of a clear catalyst means the reason for this price action is uncertain. Without a specific event or announcement, there’s a risk that the move could reverse if short-term traders exit or if broader sentiment shifts. CARDS operates in a highly competitive space, and without fresh news, it’s unclear whether this uptick will be sustained.\n\nAdditionally, the lack of unusual on-chain activity suggests this is not a structural shift in demand. If volume drops or if no new developments surface, the token could face volatility or retracement.\n\n### What To Watch\nWatch for any announcements or protocol updates from Collector Crypt that could justify continued momentum. If trading volume remains above $3 million over the next several days, it may signal sustained interest. Conversely, a drop below $2 million in daily volume could indicate fading enthusiasm and a potential retrace.\n\nFor now, the move is notable but not extraordinary. The next few days will reveal whether this is the start of a larger trend or just a blip within the current range.",
+        "signal": "Starpower (STAR) climbed 13.3% in the past 24 hours, reaching $0.0904 after a week of losses.",
+        "story": "Starpower (STAR) posted a notable 13.3% price increase over the last day, bringing the token to $0.0904 and lifting its market cap to $16.8 million. This move comes after a rough week, with STAR still down 23.4% over the past seven days. Trading volume over the last 24 hours hit $2.8 million, suggesting renewed interest, but there are no clear headlines or events tied to this price action.\n\n### What's Happening\nSTAR’s price rebound stands out given its sharp drop earlier in the week. The token’s 24-hour trading volume is robust relative to its market cap, indicating active trading but not necessarily a major shift in long-term sentiment. On-chain data shows this price movement is within the recent range, with no unusual streaks or outlier behavior detected over the last two days.\n\nDespite the uptick, there are no new partnerships, listings, or protocol developments in the public eye that would explain the move. The lack of headline catalysts suggests the price action may be driven by short-term trading dynamics rather than a fundamental change in the project’s outlook.\n\n### Why It Matters\nShort-term price recoveries like this can signal a pause or reversal in a downtrend, but without a clear catalyst, it’s difficult to gauge whether this is the start of a sustained recovery. STAR’s market cap and trading volume place it in the lower tier of Solana ecosystem tokens, making it more susceptible to sharp moves on relatively modest trading activity.\n\nFor traders and builders watching Solana’s smaller projects, STAR’s bounce is a reminder of how quickly sentiment can shift, even in the absence of news. These moves can attract attention from opportunistic traders, but they also highlight the importance of distinguishing between technical bounces and moves driven by real adoption or protocol progress.\n\n### The Risk or Debate\nThe main risk here is that STAR’s price action is not backed by any new information or ecosystem development. Without a clear reason for the rebound, there’s a chance this move could unwind just as quickly as it appeared. The recent 23% weekly drop underscores the token’s volatility, and the lack of news means uncertainty remains high.\n\nFor users and observers, the debate centers on whether this is a technical bounce or just noise in a thinly traded market. Until there’s more clarity on what’s driving the move, caution is warranted.\n\n### What To Watch\nKeep an eye on whether STAR can hold above the $0.09 level over the next 48 hours. Sustained volume and price stability would suggest the move has legs, while a quick reversal could indicate the bounce was short-lived. Any new announcements, partnerships, or protocol updates could provide a stronger foundation for further gains.",
         "takeaways": [
-          "CARDS rose 20.4% in 24 hours, reaching $0.1602 and a $320M market cap.",
-          "No clear catalyst or unusual on-chain activity explains the move.",
-          "Sustained trading volume will be key to determining if momentum continues."
+          "STAR rebounded 13.3% in 24 hours after a week of losses.",
+          "No clear news or events explain the price move.",
+          "The token remains volatile and sensitive to trading activity."
         ]
       },
-      "watchTrigger": "Daily trading volume remaining above $3 million for the next 3 days.",
+      "watchTrigger": "STAR price holding above $0.09 for the next 48 hours.",
       "riskLevel": "medium",
-      "narrativeStrength": 5.4
+      "narrativeStrength": 4.3
     },
     {
-      "id": "story_onchain-fundflow_1785424008560",
+      "id": "story_onchain-fundflow_1785510885049",
       "source": "onchain-fundflow",
-      "title": "Theo Network thBill TVL Drops 20% in 24 Hours",
+      "title": "OSL TVL Surges 216% to $57.6M in 24 Hours",
       "type": "critical",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-30T15:06:48.560Z",
-      "sourceUrl": "https://app.theo.xyz/invite?invite=defillama",
+      "timestamp": "2026-07-31T15:14:45.049Z",
+      "sourceUrl": "https://www.osl.com/en",
       "metrics": {
-        "protocol": "Theo Network thBill",
-        "tvlUsd": 63399513.80936431,
-        "change1d": -20.200246799692877,
-        "change7d": -20.15886059895719,
+        "protocol": "OSL",
+        "tvlUsd": 57617170.50623664,
+        "change1d": 216.0697977555448,
+        "change7d": 274.7620591878568,
         "tokenSymbol": null,
         "tokenPriceUsd": null
       },
       "trend": {
         "streakDays": 1,
-        "streakDirection": "down",
-        "cumulativeChange": -20.2,
-        "isLargestInWindow": false,
-        "windowDays": 1
+        "streakDirection": "up",
+        "cumulativeChange": 216.07,
+        "isLargestInWindow": true,
+        "windowDays": 2
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Theo Network thBill’s total value locked fell 20.2% in the past day, now sitting at $63.4 million.",
-        "story": "Theo Network thBill, a real-world asset (RWA) protocol operating across Arbitrum, Solana, and Ethereum, saw its total value locked (TVL) drop sharply by 20.2% over the last 24 hours. TVL now stands at $63.4 million, reflecting a significant outflow of capital from the platform. This move is notable but falls within the recent range of volatility tracked over the last day, with no evidence of an unusual streak or outlier event.\n\n### What's Happening\nThe protocol, which does not have an associated token, experienced a single-day TVL decline that closely matches its 7-day change, suggesting most of the outflows occurred in the last 24 hours. There are no recent headlines or public announcements linked to Theo Network thBill that might explain the timing or cause of this move. The drop appears to be a concentrated event rather than part of a multi-day trend or a reaction to a specific news item.\n\nTheo Network thBill operates in the RWA space, which typically involves bridging traditional assets onto blockchain rails. The protocol’s presence across multiple chains—Arbitrum, Solana, and Ethereum—means that shifts in TVL can reflect cross-chain user behavior or liquidity movements, but the data does not indicate which chain was most affected.\n\n### Why It Matters\nA 20% TVL drop in a single day is significant for any DeFi protocol, especially one focused on real-world assets. TVL is often used as a proxy for user trust and engagement, so a sharp decrease can signal shifting sentiment or a reallocation of capital to other opportunities. While the move is within the protocol’s recent volatility range, it still raises questions about underlying confidence and stability.\n\nThe lack of a native token means there is no immediate price reaction or on-chain governance signal to interpret. Instead, the focus falls on the protocol’s ability to retain assets and maintain user engagement. For the broader RWA sector, sudden TVL moves can highlight the challenges of sustaining liquidity and user trust in a rapidly evolving market.\n\n### The Risk or Debate\nThe main risk is that further outflows could trigger a negative feedback loop, where declining TVL undermines confidence and prompts additional withdrawals. Without a clear external catalyst or headline, the cause of this move remains uncertain, which can add to user caution. The absence of a token also limits the protocol’s options for incentivizing retention or quickly responding to shifts in user behavior.\n\nThere is also the question of whether this drop reflects a broader trend in RWA protocols or is isolated to Theo Network thBill. Without more granular data or public communication from the team, it’s difficult to assess whether this is a one-off event or a sign of deeper issues.\n\n### What To Watch\nThe next key marker will be whether TVL stabilizes above $60 million or continues to slide. Any future announcements from the Theo Network thBill team, new integrations, or changes in cross-chain liquidity could influence the protocol’s ability to recover. Watch for further on-chain movements or public updates that might clarify the cause or signal a shift in strategy.",
+        "signal": "OSL’s total value locked jumped 216% in the past day, reaching $57.6 million.",
+        "story": "OSL, a centralized exchange operating across multiple blockchains, saw its total value locked (TVL) rise sharply by 216% over the last 24 hours. TVL now stands at $57.6 million, marking a substantial increase that continues a week-long trend of growth. This move is notable, but on-chain data suggests it falls within the recent two-day range, rather than being a sudden outlier.\n\n### What's Happening\nOSL’s TVL has more than tripled in a single day, building on a 7-day increase of nearly 275%. The protocol operates across major chains including Ethereum, Solana, and Bitcoin, but does not have an associated token. There’s no evidence of a one-off event like an exploit or airdrop driving this spike. Instead, the data points to a sustained period of inflows, possibly reflecting increased user activity or new asset listings.\n\nRecent headlines highlight OSL’s expansion in Hong Kong, particularly the launch of regulated retail XRP trading. However, there is no direct confirmation that these headlines are the cause of the TVL surge. The timing does suggest that OSL’s push into new markets and asset offerings could be attracting more deposits, but the exact driver remains unclear from the available data.\n\n### Why It Matters\nA rapid rise in TVL on a centralized exchange like OSL can signal growing user trust or interest in its services, especially as it expands regulated offerings in key markets like Hong Kong. The increase may reflect users moving assets onto the platform to access new trading pairs or fiat onramps, particularly for assets like XRP that have recently become available for retail trading.\n\nThis growth is also relevant for the broader ecosystem. OSL’s multi-chain presence means that shifts in its TVL can impact liquidity and trading dynamics across several blockchains. If the trend continues, OSL could become a more significant player in the cross-chain exchange landscape, potentially influencing competition and user flows among both centralized and decentralized platforms.\n\n### The Risk or Debate\nWhile the TVL growth is impressive, the lack of a clear catalyst introduces uncertainty. Without a token, OSL’s TVL is less likely to be driven by speculative farming or incentives, but it also means there’s less transparency around what’s fueling the inflows. Rapid increases in custodial TVL can sometimes precede outflows if users are chasing short-term opportunities or reacting to regulatory news.\n\nAnother risk is that centralized exchanges can face operational or regulatory challenges, especially when expanding into new jurisdictions. If the recent TVL growth is tied to specific asset launches or regional pushes, any change in regulatory stance or user sentiment could quickly reverse these gains.\n\n### What To Watch\nThe next key signal will be whether OSL’s TVL holds above the $50 million mark over the coming week. Sustained levels would suggest lasting user engagement and potentially validate OSL’s recent strategic moves. Conversely, a sharp drop could indicate that the inflows were temporary or opportunistic. Watching for further announcements about new asset listings or regulatory developments in Hong Kong may also provide clues about the platform’s trajectory.",
         "takeaways": [
-          "Theo Network thBill TVL fell 20.2% in 24 hours, now at $63.4M.",
-          "No clear external cause or news explains the move.",
-          "Sustained outflows could challenge user confidence if not reversed."
+          "OSL TVL surged 216% in 24 hours, reaching $57.6M.",
+          "No single event explains the rise, but recent Hong Kong expansion and new XRP trading may be factors.",
+          "Sustained TVL above $50M would signal lasting user engagement."
         ]
       },
-      "watchTrigger": "TVL falling below $60 million in the next 48 hours would confirm continued outflows.",
+      "watchTrigger": "OSL TVL remains above $50M for at least 7 consecutive days.",
       "riskLevel": "medium",
-      "narrativeStrength": 5.8
+      "narrativeStrength": 8.8
     }
   ]
 }
