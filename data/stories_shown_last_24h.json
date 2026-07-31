@@ -1,5 +1,61 @@
 [
   {
+    "id": "0265b131647480fa27f5ad2cd12f4075f628f327",
+    "title": "Signal Board Summary 2026-07-31",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-07-31T20:17:34.680Z",
+    "lastSeenAt": "2026-07-31T20:17:34.680Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "7c4ac5c88768367a77aa8317ee80bb08043bf476",
+    "title": "Solana Changelog: Mainnet raises block limits to 100M CUs",
+    "url": "https://solana.com/news/solana-changelog-july-30-2026",
+    "source": "Solana News",
+    "firstSeenAt": "2026-07-31T20:17:26.979Z",
+    "lastSeenAt": "2026-07-31T20:17:26.979Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "changelog",
+      "mainnet",
+      "raises",
+      "block",
+      "limits",
+      "100m",
+      "simd"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "e1a50f49331d097bbabeb25bedb49cefe41606ab",
+    "title": "Overview of Institutional Real World Assets on Solana",
+    "url": "https://solana.com/news/overview-of-institutional-real-world-assets-on-solana",
+    "source": "Solana News",
+    "firstSeenAt": "2026-07-31T20:17:26.979Z",
+    "lastSeenAt": "2026-07-31T20:17:26.979Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "overview",
+      "institutional",
+      "real",
+      "world",
+      "assets",
+      "solana",
+      "learn",
+      "blackrock"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "8b9ac2cd7ca7ea17a6f41a0e7eb39ddc7077bac7",
     "title": "Morgan Stanley Ethereum and Solana ETFs outperform rivals as second-day inflows reach $33 million",
     "url": "https://cryptoslate.com/morgan-stanley-ethereum-and-solana-etfs-outperform-rivals-as-second-day-inflows-reach-33-million",
@@ -36,48 +92,6 @@
       "firm",
       "holding",
       "millions",
-      "solana"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "9474b5a17b7bf0a6fe6c733f422c75bf55e66a13",
-    "title": "$1.1B stolen from crypto in 6 months: Ethereum and Solana lost $658M combined",
-    "url": "https://ambcrypto.com/1-1b-stolen-from-crypto-in-6-months-ethereum-and-solana-lost-658m-combined",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-07-30T09:28:17.815Z",
-    "lastSeenAt": "2026-07-30T20:12:58.301Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "stolen",
-      "from",
-      "crypto",
-      "months",
-      "ethereum",
-      "solana",
-      "lost",
-      "658m"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "dcd538f8466bf8a3c05df471ac035244a660ef03",
-    "title": "‘The CLARITY Act delivers what the American crypto ecosystem needs’ – Solana Policy Institute",
-    "url": "https://ambcrypto.com/the-clarity-act-delivers-what-the-american-crypto-ecosystem-needs-solana-policy-institute",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-07-30T20:12:58.300Z",
-    "lastSeenAt": "2026-07-30T20:12:58.300Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "clarity",
-      "delivers",
-      "what",
-      "american",
-      "crypto",
-      "ecosystem",
-      "needs",
       "solana"
     ],
     "majorUpdate": false,

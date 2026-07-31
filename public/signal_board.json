@@ -1,16 +1,21 @@
 {
   "date": "2026-07-31",
-  "generated_at_utc": "2026-07-31T09:41:19.806Z",
-  "ctxMarket": "Attention is on institutional products and the financial health of firms holding Solana. Morgan Stanley’s new Solana ETF is drawing significant inflows, while a crypto firm with large Solana holdings is facing a liquidity crunch.",
-  "ctxTalking": "• Morgan Stanley’s Solana and Ethereum ETFs outperformed rivals with $33 million in second-day inflows\n• A crypto firm with millions in Solana is seeking a loan to cover $1.5M in debt, with only $4,000 in cash remaining",
-  "ctxMatters": "ETF inflows signal growing institutional interest in Solana exposure. The financial distress of a Solana-holding firm highlights risks for entities managing large token reserves. Both developments may influence perceptions of Solana’s ecosystem stability and its attractiveness to large investors.",
-  "ctxSignal": "Signal: Morgan Stanley’s ETF inflows and the distressed firm’s loan search both directly affect Solana’s institutional narrative.\nNoise: Broader market sentiment not tied to these specific events.",
-  "ctxGlossary": "ETF — Exchange-traded fund, a regulated investment product tracking an asset or index\nLiquidity crunch — When a company lacks enough cash to meet obligations",
+  "generated_at_utc": "2026-07-31T20:17:34.678Z",
+  "ctxMarket": "Attention is on Solana's technical upgrades and institutional adoption, with less focus on price movement. Recent headlines highlight both ecosystem growth and internal challenges at high-profile projects.",
+  "ctxTalking": "• Pump.fun reportedly laid off staff just before a major token allocation, citing rapid company growth\n• Major institutions like BlackRock and J.P. Morgan are advancing real-world asset tokenization on Solana\n• Solana mainnet increased block compute limits and rolled out several infrastructure updates",
+  "ctxMatters": "Institutional activity signals growing confidence in Solana as a platform for tokenized assets. Technical upgrades may improve network performance and scalability for users and developers. Internal project management issues, like those at Pump.fun, can impact team stability and community perception.",
+  "ctxSignal": "Signal: Institutional adoption and mainnet upgrades point to ongoing ecosystem maturation.\nNoise: Speculation around the timing and motives of Pump.fun layoffs lacks direct impact on broader Solana fundamentals.",
+  "ctxGlossary": "CUs (Compute Units) — A measure of computational resources used per Solana block\nTokenized real-world assets — Physical or traditional financial assets represented as tokens on a blockchain",
   "readMore": [
     {
-      "title": "Down to its last $4,000 in cash, a crypto firm holding millions in Solana is seeking a loan to survive $1.5M debt",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/down-to-its-last-4000-in-cash-a-crypto-firm-holding-millions-in-solana-is-seeking-a-loan-to-survive-1-5m-debt"
+      "title": "Pump.fun laid off workers before they received millions in PUMP tokens",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest"
+    },
+    {
+      "title": "Overview of Institutional Real World Assets on Solana",
+      "source": "Solana News",
+      "url": "https://solana.com/news/overview-of-institutional-real-world-assets-on-solana"
     }
   ]
 }
