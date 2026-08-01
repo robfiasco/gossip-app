@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-07-31T15:14:55.813Z",
+  "generated_at": "2026-08-01T14:24:45.734Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1785510895812",
+      "id": "story_onchain-marketmover_1785594285734",
       "source": "onchain-marketmover",
-      "title": "Starpower (STAR) Jumps 13% After Recent Decline",
-      "type": "alpha",
+      "title": "World Mobile Token Jumps 58% in 24 Hours on Solana",
+      "type": "critical",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-31T15:14:55.812Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/starpower",
+      "timestamp": "2026-08-01T14:24:45.734Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/world-mobile-token",
       "metrics": {
-        "token": "Starpower",
-        "symbol": "STAR",
-        "priceUsd": 0.090382,
-        "marketCapUsd": 16815883,
-        "change24h": 13.3,
-        "change7d": -23.4
+        "token": "World Mobile Token",
+        "symbol": "WMTX",
+        "priceUsd": 0.03949965,
+        "marketCapUsd": 33648757,
+        "change24h": 58.2,
+        "change7d": 53.6
       },
       "trend": {
         "streakDays": 1,
         "streakDirection": "up",
-        "cumulativeChange": 13.3,
+        "cumulativeChange": 58.2,
         "isLargestInWindow": false,
-        "windowDays": 2
+        "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Starpower (STAR) climbed 13.3% in the past 24 hours, reaching $0.0904 after a week of losses.",
-        "story": "Starpower (STAR) posted a notable 13.3% price increase over the last day, bringing the token to $0.0904 and lifting its market cap to $16.8 million. This move comes after a rough week, with STAR still down 23.4% over the past seven days. Trading volume over the last 24 hours hit $2.8 million, suggesting renewed interest, but there are no clear headlines or events tied to this price action.\n\n### What's Happening\nSTAR’s price rebound stands out given its sharp drop earlier in the week. The token’s 24-hour trading volume is robust relative to its market cap, indicating active trading but not necessarily a major shift in long-term sentiment. On-chain data shows this price movement is within the recent range, with no unusual streaks or outlier behavior detected over the last two days.\n\nDespite the uptick, there are no new partnerships, listings, or protocol developments in the public eye that would explain the move. The lack of headline catalysts suggests the price action may be driven by short-term trading dynamics rather than a fundamental change in the project’s outlook.\n\n### Why It Matters\nShort-term price recoveries like this can signal a pause or reversal in a downtrend, but without a clear catalyst, it’s difficult to gauge whether this is the start of a sustained recovery. STAR’s market cap and trading volume place it in the lower tier of Solana ecosystem tokens, making it more susceptible to sharp moves on relatively modest trading activity.\n\nFor traders and builders watching Solana’s smaller projects, STAR’s bounce is a reminder of how quickly sentiment can shift, even in the absence of news. These moves can attract attention from opportunistic traders, but they also highlight the importance of distinguishing between technical bounces and moves driven by real adoption or protocol progress.\n\n### The Risk or Debate\nThe main risk here is that STAR’s price action is not backed by any new information or ecosystem development. Without a clear reason for the rebound, there’s a chance this move could unwind just as quickly as it appeared. The recent 23% weekly drop underscores the token’s volatility, and the lack of news means uncertainty remains high.\n\nFor users and observers, the debate centers on whether this is a technical bounce or just noise in a thinly traded market. Until there’s more clarity on what’s driving the move, caution is warranted.\n\n### What To Watch\nKeep an eye on whether STAR can hold above the $0.09 level over the next 48 hours. Sustained volume and price stability would suggest the move has legs, while a quick reversal could indicate the bounce was short-lived. Any new announcements, partnerships, or protocol updates could provide a stronger foundation for further gains.",
+        "signal": "World Mobile Token (WMTX) surged 58.2% in the past day, reaching $0.0395 with trading volume spiking to $11.9 million.",
+        "story": "World Mobile Token (WMTX) just posted a sharp 58% price increase in the last 24 hours, bringing its value to $0.0395. Trading activity also accelerated, with $11.9 million in volume and a market cap now standing at $33.6 million. This move puts WMTX among the most notable gainers in the Solana ecosystem today.\n\n### What's Happening\nWMTX’s price action is significant but not entirely out of character for the token. The move fits within the recent trading range tracked over the last day, suggesting this is not an isolated outlier or the start of an extended streak. Over the past week, WMTX has climbed more than 53%, indicating sustained interest, but there’s no clear on-chain or headline catalyst driving today’s spike.\n\nRecent headlines mention WMTX price tracking and predictions, but none point to a specific event, partnership, or protocol upgrade that would explain this sudden uptick. The absence of a clear trigger means the move is likely driven by speculative flows or short-term trading dynamics rather than a fundamental shift in the project’s outlook.\n\n### Why It Matters\nA 58% single-day move, even within a volatile asset class, stands out—especially for a token ranked outside the top 500 by market cap. The surge in trading volume suggests increased attention from traders, which can lead to higher volatility and liquidity in the near term. For Solana ecosystem watchers, WMTX’s action highlights how quickly sentiment and capital can shift, even for mid-cap tokens.\n\nSustained price gains over the past week may attract further attention from both users and protocols looking for growth stories within Solana. However, without a clear catalyst, it’s difficult to gauge whether this momentum is sustainable or simply a product of short-term speculation. The move also underscores the importance of monitoring secondary and emerging tokens, not just the largest names, for signals about broader ecosystem activity.\n\n### The Risk or Debate\nThe main risk here is the lack of a clear narrative or event to support the price move. Without fundamental news, sharp rallies can reverse just as quickly, especially if driven by leveraged trading or coordinated speculation. Traders entering at these levels face heightened volatility and the potential for rapid drawdowns if sentiment shifts or profit-taking accelerates.\n\nAdditionally, WMTX’s relatively small market cap and trading history mean that price discovery can be erratic. Liquidity may dry up as quickly as it appeared, leading to outsized price swings in both directions. For users and builders, this kind of volatility can complicate planning and risk management.\n\n### What To Watch\nThe next key level to watch is whether WMTX can hold above $0.035 over the coming days. Sustained trading volume above $10 million would indicate continued interest, while a sharp drop in either price or volume could signal the end of this move. Any new announcements, listings, or protocol integrations could provide a more durable foundation for further gains, but in their absence, volatility is likely to remain high.",
         "takeaways": [
-          "STAR rebounded 13.3% in 24 hours after a week of losses.",
-          "No clear news or events explain the price move.",
-          "The token remains volatile and sensitive to trading activity."
+          "WMTX surged 58% in 24 hours, with no clear catalyst identified.",
+          "Trading volume spiked to $11.9 million, signaling increased short-term interest.",
+          "The move fits within recent volatility, but sustainability is uncertain without fundamental news."
         ]
       },
-      "watchTrigger": "STAR price holding above $0.09 for the next 48 hours.",
+      "watchTrigger": "WMTX holding above $0.035 with daily volume over $10 million for the next 72 hours.",
       "riskLevel": "medium",
-      "narrativeStrength": 4.3
+      "narrativeStrength": 8.8
     },
     {
-      "id": "story_onchain-fundflow_1785510885049",
+      "id": "story_onchain-fundflow_1785594276356",
       "source": "onchain-fundflow",
-      "title": "OSL TVL Surges 216% to $57.6M in 24 Hours",
+      "title": "Meteora DAMM V2 TVL Drops 24% in 24 Hours",
       "type": "critical",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-07-31T15:14:45.049Z",
-      "sourceUrl": "https://www.osl.com/en",
+      "timestamp": "2026-08-01T14:24:36.356Z",
+      "sourceUrl": "https://v2.meteora.ag/",
       "metrics": {
-        "protocol": "OSL",
-        "tvlUsd": 57617170.50623664,
-        "change1d": 216.0697977555448,
-        "change7d": 274.7620591878568,
-        "tokenSymbol": null,
-        "tokenPriceUsd": null
+        "protocol": "Meteora DAMM V2",
+        "tvlUsd": 21291480.698964328,
+        "change1d": -23.9955964476178,
+        "change7d": -1.3130167343414172,
+        "tokenSymbol": "MET",
+        "tokenPriceUsd": 0.17264015965312546
       },
       "trend": {
         "streakDays": 1,
-        "streakDirection": "up",
-        "cumulativeChange": 216.07,
-        "isLargestInWindow": true,
-        "windowDays": 2
+        "streakDirection": "down",
+        "cumulativeChange": -24,
+        "isLargestInWindow": false,
+        "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "OSL’s total value locked jumped 216% in the past day, reaching $57.6 million.",
-        "story": "OSL, a centralized exchange operating across multiple blockchains, saw its total value locked (TVL) rise sharply by 216% over the last 24 hours. TVL now stands at $57.6 million, marking a substantial increase that continues a week-long trend of growth. This move is notable, but on-chain data suggests it falls within the recent two-day range, rather than being a sudden outlier.\n\n### What's Happening\nOSL’s TVL has more than tripled in a single day, building on a 7-day increase of nearly 275%. The protocol operates across major chains including Ethereum, Solana, and Bitcoin, but does not have an associated token. There’s no evidence of a one-off event like an exploit or airdrop driving this spike. Instead, the data points to a sustained period of inflows, possibly reflecting increased user activity or new asset listings.\n\nRecent headlines highlight OSL’s expansion in Hong Kong, particularly the launch of regulated retail XRP trading. However, there is no direct confirmation that these headlines are the cause of the TVL surge. The timing does suggest that OSL’s push into new markets and asset offerings could be attracting more deposits, but the exact driver remains unclear from the available data.\n\n### Why It Matters\nA rapid rise in TVL on a centralized exchange like OSL can signal growing user trust or interest in its services, especially as it expands regulated offerings in key markets like Hong Kong. The increase may reflect users moving assets onto the platform to access new trading pairs or fiat onramps, particularly for assets like XRP that have recently become available for retail trading.\n\nThis growth is also relevant for the broader ecosystem. OSL’s multi-chain presence means that shifts in its TVL can impact liquidity and trading dynamics across several blockchains. If the trend continues, OSL could become a more significant player in the cross-chain exchange landscape, potentially influencing competition and user flows among both centralized and decentralized platforms.\n\n### The Risk or Debate\nWhile the TVL growth is impressive, the lack of a clear catalyst introduces uncertainty. Without a token, OSL’s TVL is less likely to be driven by speculative farming or incentives, but it also means there’s less transparency around what’s fueling the inflows. Rapid increases in custodial TVL can sometimes precede outflows if users are chasing short-term opportunities or reacting to regulatory news.\n\nAnother risk is that centralized exchanges can face operational or regulatory challenges, especially when expanding into new jurisdictions. If the recent TVL growth is tied to specific asset launches or regional pushes, any change in regulatory stance or user sentiment could quickly reverse these gains.\n\n### What To Watch\nThe next key signal will be whether OSL’s TVL holds above the $50 million mark over the coming week. Sustained levels would suggest lasting user engagement and potentially validate OSL’s recent strategic moves. Conversely, a sharp drop could indicate that the inflows were temporary or opportunistic. Watching for further announcements about new asset listings or regulatory developments in Hong Kong may also provide clues about the platform’s trajectory.",
+        "signal": "Meteora DAMM V2’s total value locked fell 24% in the past day, now at $21.3M, with MET trading at $0.1726.",
+        "story": "Meteora DAMM V2, a decentralized exchange protocol on Solana, saw its total value locked (TVL) drop sharply by 24% over the last 24 hours, bringing the platform’s TVL to $21.3 million. The protocol’s native token, MET, is currently priced at $0.1726. This move does not stand out as an outlier or the start of a new trend, as it falls within the recent range tracked over the last day.\n\n### What's Happening\n\nThe protocol experienced a significant single-day outflow, reducing its TVL by nearly a quarter. This shift follows a relatively stable week, with only a minor 1.31% decrease in TVL over the past seven days. No unusual streak or pattern has been detected, suggesting this drop is not part of a larger ongoing trend. There are no recent headlines directly tied to Meteora DAMM V2 or its token that would explain the sudden movement.\n\n### Why It Matters\n\nA 24% TVL decrease in a single day is notable for any DeFi protocol, as it can impact liquidity and user confidence. For Meteora DAMM V2, which operates on Solana, such a move may affect trading activity and the protocol’s ability to attract new users or retain existing ones. TVL is often used as a proxy for protocol health, so a sharp decline can raise questions about underlying factors, even if no direct cause is apparent from available data.\n\nThe MET token price remains at $0.1726, with no immediate evidence of a corresponding sharp move. This could indicate that the TVL drop was driven by large withdrawals or rebalancing, rather than a broader loss of faith in the protocol or its token. The absence of related headlines or external events leaves the cause of the outflow unclear.\n\n### The Risk or Debate\n\nSudden TVL declines can expose protocols to liquidity risks, especially if withdrawals continue or accelerate. Reduced liquidity may impact trading efficiency or increase slippage for users. Without a clear external trigger, there is uncertainty about whether this is a one-off event or the start of a more sustained shift. The lack of abnormal trends in the data provides some reassurance, but the scale of the move warrants attention.\n\n### What To Watch\n\nFurther changes in TVL over the next few days will be important to monitor. If TVL stabilizes above $20M, it may signal that the outflow was temporary. A continued decline below $20M could indicate deeper issues or shifting user preferences. Watching for any new announcements, technical updates, or ecosystem developments related to Meteora DAMM V2 or MET may help clarify the situation.",
         "takeaways": [
-          "OSL TVL surged 216% in 24 hours, reaching $57.6M.",
-          "No single event explains the rise, but recent Hong Kong expansion and new XRP trading may be factors.",
-          "Sustained TVL above $50M would signal lasting user engagement."
+          "Meteora DAMM V2 TVL dropped 24% in 24 hours to $21.3M.",
+          "No abnormal trend or clear external cause identified for the outflow.",
+          "The MET token price remains stable at $0.1726 despite the TVL drop."
         ]
       },
-      "watchTrigger": "OSL TVL remains above $50M for at least 7 consecutive days.",
+      "watchTrigger": "TVL falling below $20M on Meteora DAMM V2.",
       "riskLevel": "medium",
-      "narrativeStrength": 8.8
+      "narrativeStrength": 6
     }
   ]
 }
