@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
@@ -10,7 +10,7 @@
       "source": "Solana News",
       "date": "2026-07-30",
       "url": "https://solana.com/news/solana-changelog-july-30-2026",
-      "whyYouShouldCare": "Raising block limits to 100 million compute units enhances Solana's scalability, potentially attracting more developers and increasing network usage."
+      "whyYouShouldCare": "Increasing block limits to 100 million compute units enhances Solana's capacity, potentially improving transaction speed and attracting more developers and users to the network."
     },
     {
       "type": "APPS",
@@ -19,16 +19,16 @@
       "source": "Solana News",
       "date": "2026-07-30",
       "url": "https://solana.com/news/overview-of-institutional-real-world-assets-on-solana",
-      "whyYouShouldCare": "The integration of institutional real-world assets on Solana could drive liquidity and broaden the ecosystem's appeal to traditional finance."
+      "whyYouShouldCare": "Institutional interest in real-world assets on Solana could drive liquidity and expand the ecosystem, positioning SOL as a viable platform for asset tokenization."
     },
     {
-      "type": "APPS",
-      "title": "Coinbase’s Q2 miss sparks split on Wall Street, analysts debate growth beyond crypto trading",
-      "category": "APPS",
-      "source": "The Block",
-      "date": "2026-07-31",
-      "url": "https://www.theblock.co/post/410316/coinbase-q2-miss-sparks-split-wall-street-analysts-debate-growth-beyond-trading",
-      "whyYouShouldCare": "Coinbase's performance issues may impact overall crypto market sentiment, influencing trading volumes and liquidity on platforms like Solana."
+      "type": "RISK",
+      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "category": "RISK",
+      "source": "CoinDesk",
+      "date": "2026-08-01",
+      "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+      "whyYouShouldCare": "Calls for wallet diversification highlight security risks in the crypto space, which could impact user confidence and the overall usage of Solana's ecosystem."
     }
   ]
 }

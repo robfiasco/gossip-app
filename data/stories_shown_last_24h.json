@@ -1,25 +1,11 @@
 [
   {
-    "id": "0265b131647480fa27f5ad2cd12f4075f628f327",
-    "title": "Signal Board Summary 2026-07-31",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-07-31T20:17:34.680Z",
-    "lastSeenAt": "2026-07-31T20:17:34.680Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "7c4ac5c88768367a77aa8317ee80bb08043bf476",
     "title": "Solana Changelog: Mainnet raises block limits to 100M CUs",
     "url": "https://solana.com/news/solana-changelog-july-30-2026",
     "source": "Solana News",
     "firstSeenAt": "2026-07-31T20:17:26.979Z",
-    "lastSeenAt": "2026-07-31T20:17:26.979Z",
+    "lastSeenAt": "2026-08-01T09:03:12.846Z",
     "sectionShown": "briefing",
     "topicTags": [
       "solana",
@@ -40,7 +26,7 @@
     "url": "https://solana.com/news/overview-of-institutional-real-world-assets-on-solana",
     "source": "Solana News",
     "firstSeenAt": "2026-07-31T20:17:26.979Z",
-    "lastSeenAt": "2026-07-31T20:17:26.979Z",
+    "lastSeenAt": "2026-08-01T09:03:12.846Z",
     "sectionShown": "briefing",
     "topicTags": [
       "overview",
@@ -51,6 +37,20 @@
       "solana",
       "learn",
       "blackrock"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "0265b131647480fa27f5ad2cd12f4075f628f327",
+    "title": "Signal Board Summary 2026-07-31",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-07-31T20:17:34.680Z",
+    "lastSeenAt": "2026-07-31T20:17:34.680Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
