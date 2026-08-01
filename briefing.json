@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "INFRA",
-      "title": "Solana Changelog: Mainnet raises block limits to 100M CUs",
-      "category": "INFRA",
-      "source": "Solana News",
-      "date": "2026-07-30",
-      "url": "https://solana.com/news/solana-changelog-july-30-2026",
-      "whyYouShouldCare": "Increasing block limits to 100 million compute units enhances Solana's capacity, potentially improving transaction speed and attracting more developers and users to the network."
-    },
-    {
-      "type": "APPS",
-      "title": "Overview of Institutional Real World Assets on Solana",
-      "category": "APPS",
-      "source": "Solana News",
-      "date": "2026-07-30",
-      "url": "https://solana.com/news/overview-of-institutional-real-world-assets-on-solana",
-      "whyYouShouldCare": "Institutional interest in real-world assets on Solana could drive liquidity and expand the ecosystem, positioning SOL as a viable platform for asset tokenization."
-    },
-    {
       "type": "RISK",
-      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
       "category": "RISK",
       "source": "CoinDesk",
       "date": "2026-08-01",
-      "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-      "whyYouShouldCare": "Calls for wallet diversification highlight security risks in the crypto space, which could impact user confidence and the overall usage of Solana's ecosystem."
+      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+      "whyYouShouldCare": "The rise of AI-enhanced scams poses a significant risk to Solana users, potentially impacting trust and participation in the ecosystem."
+    },
+    {
+      "type": "ECOSYSTEM",
+      "title": "BNB Chain ‘pursuing legal action’ against former employee over memecoin launched from tutorial wallet",
+      "category": "ECOSYSTEM",
+      "source": "The Block",
+      "date": "2026-08-01",
+      "url": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet",
+      "whyYouShouldCare": "Legal actions against former employees can disrupt BNB Chain's operations, potentially affecting competitive dynamics in the broader crypto ecosystem, including Solana."
+    },
+    {
+      "type": "APPS",
+      "title": "Louisiana just armed crypto ATM users with a legal cheat code to demand full refunds from unlicensed operators",
+      "category": "APPS",
+      "source": "CryptoSlate",
+      "date": "2026-08-01",
+      "url": "https://cryptoslate.com/louisiana-just-armed-crypto-atm-users-with-a-legal-cheat-code-to-demand-full-refunds-from-unlicensed-operators",
+      "whyYouShouldCare": "Louisiana's new regulations could enhance user confidence in crypto ATMs, potentially increasing transaction volume and usage within the Solana ecosystem."
     }
   ]
 }
