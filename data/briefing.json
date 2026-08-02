@@ -1,8 +1,17 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Can Solana hold $60? Major signs point to extended losses in August",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-08-02",
+      "url": "https://ambcrypto.com/can-solana-hold-60-major-signs-point-to-extended-losses-in-august",
+      "whyYouShouldCare": "Solana's ability to maintain the $60 level is critical for market confidence and could influence liquidity and trading activity in the ecosystem."
+    },
     {
       "type": "RISK",
       "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
@@ -10,25 +19,16 @@
       "source": "CoinDesk",
       "date": "2026-08-01",
       "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
-      "whyYouShouldCare": "The rise of AI-enhanced scams poses a significant risk to Solana users, potentially impacting trust and participation in the ecosystem."
+      "whyYouShouldCare": "The Solana Foundation's focus on AI-driven scams highlights the need for enhanced security measures to protect users and maintain trust in the network."
     },
     {
-      "type": "ECOSYSTEM",
-      "title": "BNB Chain ‘pursuing legal action’ against former employee over memecoin launched from tutorial wallet",
-      "category": "ECOSYSTEM",
-      "source": "The Block",
-      "date": "2026-08-01",
-      "url": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet",
-      "whyYouShouldCare": "Legal actions against former employees can disrupt BNB Chain's operations, potentially affecting competitive dynamics in the broader crypto ecosystem, including Solana."
-    },
-    {
-      "type": "APPS",
-      "title": "Louisiana just armed crypto ATM users with a legal cheat code to demand full refunds from unlicensed operators",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-08-01",
-      "url": "https://cryptoslate.com/louisiana-just-armed-crypto-atm-users-with-a-legal-cheat-code-to-demand-full-refunds-from-unlicensed-operators",
-      "whyYouShouldCare": "Louisiana's new regulations could enhance user confidence in crypto ATMs, potentially increasing transaction volume and usage within the Solana ecosystem."
+      "type": "RISK",
+      "title": "Ledger, Trezor say ‘funds are safe’ after Coldcard flaw helps hacker steal 38M Bitcoin",
+      "category": "RISK",
+      "source": "AMB Crypto",
+      "date": "2026-08-02",
+      "url": "https://ambcrypto.com/ledger-trezor-say-funds-are-safe-after-coldcard-flaw-helps-hacker-steal-38m-bitcoin",
+      "whyYouShouldCare": "The Coldcard flaw incident underscores the importance of security in crypto wallets, which could impact user confidence and the overall safety of the Solana ecosystem."
     }
   ]
 }
