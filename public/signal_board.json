@@ -1,26 +1,26 @@
 {
   "date": "2026-08-02",
-  "generated_at_utc": "2026-08-02T09:07:18.195Z",
-  "ctxMarket": "Attention is on Solana’s price action after failing to reclaim $80, with short-term seller dominance highlighted. Broader focus includes infrastructure upgrades and institutional activity on the network.",
-  "ctxTalking": "• Solana’s price struggles and potential for further losses below $60\n• Pump.fun’s revenue growth, token volatility, and recent layoffs\n• Institutional adoption of real-world asset tokenization on Solana",
-  "ctxMatters": "Solana’s price weakness may influence sentiment and liquidity across the ecosystem. Pump.fun’s developments highlight both the risks and opportunities in meme token platforms. Institutional moves into tokenized assets and recent mainnet upgrades suggest ongoing network evolution and scaling.",
-  "ctxSignal": "Signal: Solana’s mainnet upgrade to 100M CUs and growing institutional RWA activity.\nNoise: Speculation around short-term PUMP token price levels without broader context.",
-  "ctxGlossary": "CISO — Chief Information Security Officer, responsible for an organization’s information and data security.\nCUs — Compute Units, a measure of computational resources used per Solana block.",
+  "generated_at_utc": "2026-08-02T20:08:32.511Z",
+  "ctxMarket": "Attention is on Solana’s continued bearish momentum, with SOL marking its tenth consecutive monthly loss and struggling to hold key price levels. Meanwhile, institutional inflows are favoring XRP over Solana, highlighting a shift in fund allocation.",
+  "ctxTalking": "• Solana’s extended price decline and concerns about further losses in August\n• Growing institutional adoption of real-world asset tokenization on Solana\n• Security risks from AI-driven crypto scams, flagged by Solana Foundation’s new CISO",
+  "ctxMatters": "Sustained price pressure may affect sentiment and activity on Solana. Institutional interest in tokenized assets signals long-term confidence from major financial players. Heightened security concerns could influence how users and developers approach identity and fraud prevention.",
+  "ctxSignal": "Signal: Institutional players are actively building on Solana despite recent price weakness.\nNoise: Short-term price speculation without clear catalysts.",
+  "ctxGlossary": "CISO — Chief Information Security Officer, responsible for cybersecurity strategy\nTokenized real-world assets — Physical or financial assets represented digitally on a blockchain",
   "readMore": [
     {
-      "title": "Can Solana hold $60? Major signs point to extended losses in August",
+      "title": "XRP extends the longest active ETF inflow streak in crypto as rival funds struggle for fresh cash",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/xrp-extends-the-longest-active-etf-inflow-streak-in-crypto-as-rival-funds-struggle-for-fresh-cash"
+    },
+    {
+      "title": "Solana has been bearish for 10 months in a row",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/can-solana-hold-60-major-signs-point-to-extended-losses-in-august"
+      "url": "https://ambcrypto.com/solana-has-been-bearish-for-10-months-in-a-row-can-sol-still-make-a-comeback"
     },
     {
       "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing"
-    },
-    {
-      "title": "Pump.fun laid off workers before they received millions in PUMP tokens",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest"
     }
   ]
 }
