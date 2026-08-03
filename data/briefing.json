@@ -4,13 +4,22 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "ECOSYSTEM",
-      "title": "A tiny cluster of Solana bots unlocked a 3x trading advantage by routing through one proprietary protocol",
-      "category": "ECOSYSTEM",
+      "type": "MARKET",
+      "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
+      "category": "MARKET",
+      "source": "Decrypt",
+      "date": "2026-08-03",
+      "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
+      "whyYouShouldCare": "BlackRock's entry into tokenized money market funds on Solana and Ethereum enhances institutional credibility and could increase liquidity and usage within the Solana ecosystem."
+    },
+    {
+      "type": "APPS",
+      "title": "Solana boosted block capacity 66%, but traders still hit the same wall",
+      "category": "APPS",
       "source": "CryptoSlate",
-      "date": "2026-08-02",
-      "url": "https://cryptoslate.com/a-tiny-cluster-of-solana-bots-unlocked-a-3x-trading-advantage-by-routing-through-one-proprietary-protocol",
-      "whyYouShouldCare": "The trading advantage gained by Solana bots highlights the potential for enhanced liquidity and efficiency within the Solana ecosystem."
+      "date": "2026-08-03",
+      "url": "https://cryptoslate.com/solana-just-boosted-block-capacity-by-a-massive-66-but-the-one-bottleneck-infuriating-traders-hasnt-budged",
+      "whyYouShouldCare": "Despite a 66% increase in block capacity, traders continue to face congestion issues, indicating a need for further improvements in Solana's scalability."
     },
     {
       "type": "APPS",
@@ -19,16 +28,7 @@
       "source": "AMB Crypto",
       "date": "2026-08-03",
       "url": "https://ambcrypto.com/solana-price-shows-strength-at-70-but-whale-exit-sparks-bigger-fears",
-      "whyYouShouldCare": "Whale activity at the $70 price point raises concerns about market stability and could influence broader investor sentiment towards Solana."
-    },
-    {
-      "type": "RISK",
-      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
-      "category": "RISK",
-      "source": "CoinDesk",
-      "date": "2026-08-01",
-      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
-      "whyYouShouldCare": "The warning from the Solana Foundation's CISO underscores the increasing risk of sophisticated scams, which could impact user trust and ecosystem participation."
+      "whyYouShouldCare": "Solana's price stability at $70 is overshadowed by whale activity, raising concerns about potential market volatility and its impact on investor confidence."
     }
   ]
 }

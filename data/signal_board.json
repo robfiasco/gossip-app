@@ -1,26 +1,26 @@
 {
   "date": "2026-08-03",
-  "generated_at_utc": "2026-08-03T10:39:31.440Z",
-  "ctxMarket": "Attention is focused on Solana’s resilience at the $70 level amid ongoing bearish sentiment and concerns over a large whale exit. Macro uncertainty and persistent monthly losses are shaping discussions, with technical upgrades and institutional activity also in view.",
-  "ctxTalking": "• Fears around a major whale exit and its impact on Solana’s price stability\n• A small group of bots gaining significant trading advantages via proprietary routing protocols\n• Security concerns as Solana Foundation’s new CISO highlights AI-driven crypto scams",
-  "ctxMatters": "Whale movements and persistent losses may influence confidence among Solana holders and traders. \nThe emergence of advanced trading bots points to evolving MEV dynamics on Solana. \nSecurity warnings about AI-driven scams could affect user trust and require new protective measures for the ecosystem.",
-  "ctxSignal": "Signal: Whale exits, ongoing bearish trend, and security warnings from the Solana Foundation are shaping sentiment and priorities.\nNoise: Attributing price moves solely to bot activity without clear evidence.",
-  "ctxGlossary": "Whale — An entity holding a large amount of cryptocurrency, capable of influencing market moves\nMEV (Maximal Extractable Value) — Profits gained by reordering or including specific transactions within a block",
+  "generated_at_utc": "2026-08-03T20:24:47.668Z",
+  "ctxMarket": "Attention is on institutional adoption and infrastructure upgrades, with BlackRock launching tokenized money market funds on Solana and Ethereum. Despite a 66% boost in block capacity, traders report persistent congestion when targeting the same onchain assets.",
+  "ctxTalking": "• BlackRock and other institutions expanding tokenized real-world assets on Solana\n• Solana’s block capacity increase and ongoing transaction bottlenecks\n• Growth in tokenized cards and physical collectibles volume",
+  "ctxMatters": "Institutional moves like BlackRock’s fund highlight Solana’s role in mainstream finance experiments. Infrastructure changes aim to address scalability, but some user pain points remain. The collectibles market’s growth signals new use cases and sustained onchain activity.",
+  "ctxSignal": "Signal: Major institutions are actively building on Solana, and technical upgrades are rolling out on mainnet.\nNoise: Short-term price fears tied to whale exits lack clear connection to broader Solana fundamentals.",
+  "ctxGlossary": "Tokenized Money Market Fund — A digital representation of a traditional fund, issued and managed on a blockchain.\nBlock Capacity — The maximum computational resources available per block for processing transactions on Solana.",
   "readMore": [
+    {
+      "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum"
+    },
+    {
+      "title": "Solana boosted block capacity 66%, but traders still hit the same wall",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solana-just-boosted-block-capacity-by-a-massive-66-but-the-one-bottleneck-infuriating-traders-hasnt-budged"
+    },
     {
       "title": "Solana’s price shows strength at $70, but whale exit sparks bigger fears",
       "source": "AMB Crypto",
       "url": "https://ambcrypto.com/solana-price-shows-strength-at-70-but-whale-exit-sparks-bigger-fears"
-    },
-    {
-      "title": "A tiny cluster of Solana bots unlocked a 3x trading advantage by routing through one proprietary protocol",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/a-tiny-cluster-of-solana-bots-unlocked-a-3x-trading-advantage-by-routing-through-one-proprietary-protocol"
-    },
-    {
-      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing"
     }
   ]
 }
