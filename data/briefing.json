@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "MARKET",
-      "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-      "category": "MARKET",
+      "type": "INFRA",
+      "title": "A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000",
+      "category": "INFRA",
+      "source": "CoinDesk",
+      "date": "2026-08-04",
+      "url": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000",
+      "whyYouShouldCare": "Increasing daily SOL burns could significantly reduce supply, potentially enhancing SOL's value and attractiveness within the ecosystem."
+    },
+    {
+      "type": "APPS",
+      "title": "Base Passes Solana in Curated Capital Milestone (Flash News)",
+      "category": "APPS",
+      "source": "CryptoPotato",
+      "date": "2026-08-04",
+      "url": "https://cryptopotato.com/base-passes-solana-in-curated-capital-milestone-flash-news",
+      "whyYouShouldCare": "Base surpassing Solana in capital milestones indicates a competitive landscape, which may impact Solana's market positioning and developer interest."
+    },
+    {
+      "type": "APPS",
+      "title": "Marmot Researchers Turn to OnlyFans for Funding—And There Are Meme Coins Too",
+      "category": "APPS",
       "source": "Decrypt",
       "date": "2026-08-03",
-      "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
-      "whyYouShouldCare": "BlackRock's entry into tokenized money market funds on Solana and Ethereum enhances institutional credibility and could increase liquidity and usage within the Solana ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana boosted block capacity 66%, but traders still hit the same wall",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-08-03",
-      "url": "https://cryptoslate.com/solana-just-boosted-block-capacity-by-a-massive-66-but-the-one-bottleneck-infuriating-traders-hasnt-budged",
-      "whyYouShouldCare": "Despite a 66% increase in block capacity, traders continue to face congestion issues, indicating a need for further improvements in Solana's scalability."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana’s price shows strength at $70, but whale exit sparks bigger fears",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-08-03",
-      "url": "https://ambcrypto.com/solana-price-shows-strength-at-70-but-whale-exit-sparks-bigger-fears",
-      "whyYouShouldCare": "Solana's price stability at $70 is overshadowed by whale activity, raising concerns about potential market volatility and its impact on investor confidence."
+      "url": "https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms",
+      "whyYouShouldCare": "The shift of funding strategies among projects, like Marmot using OnlyFans, highlights evolving monetization methods that could influence Solana's ecosystem dynamics."
     }
   ]
 }

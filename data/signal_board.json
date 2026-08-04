@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-03",
-  "generated_at_utc": "2026-08-03T20:24:47.668Z",
-  "ctxMarket": "Attention is on institutional adoption and infrastructure upgrades, with BlackRock launching tokenized money market funds on Solana and Ethereum. Despite a 66% boost in block capacity, traders report persistent congestion when targeting the same onchain assets.",
-  "ctxTalking": "• BlackRock and other institutions expanding tokenized real-world assets on Solana\n• Solana’s block capacity increase and ongoing transaction bottlenecks\n• Growth in tokenized cards and physical collectibles volume",
-  "ctxMatters": "Institutional moves like BlackRock’s fund highlight Solana’s role in mainstream finance experiments. Infrastructure changes aim to address scalability, but some user pain points remain. The collectibles market’s growth signals new use cases and sustained onchain activity.",
-  "ctxSignal": "Signal: Major institutions are actively building on Solana, and technical upgrades are rolling out on mainnet.\nNoise: Short-term price fears tied to whale exits lack clear connection to broader Solana fundamentals.",
-  "ctxGlossary": "Tokenized Money Market Fund — A digital representation of a traditional fund, issued and managed on a blockchain.\nBlock Capacity — The maximum computational resources available per block for processing transactions on Solana.",
+  "date": "2026-08-04",
+  "generated_at_utc": "2026-08-04T09:37:12.095Z",
+  "ctxMarket": "Attention is on institutional adoption and infrastructure changes, with BlackRock launching tokenized funds on both Solana and Ethereum. Stablecoin liquidity and the SOL vs. ETH debate are resurfacing, while network upgrades and capital flows are under scrutiny.",
+  "ctxTalking": "• BlackRock’s tokenized money market funds now live on Solana and Ethereum, spotlighting stablecoin reserves and institutional use cases\n• A new Solana proposal (SGP-0003) seeks to dramatically increase daily SOL burns and overhaul fees, pending validator support\n• Solana’s block capacity increased by 66%, but some transaction bottlenecks persist for traders",
+  "ctxMatters": "Institutional players are deepening their involvement in Solana, potentially expanding use cases and liquidity. Proposed fee and burn changes could affect token dynamics if approved. Despite technical upgrades, some user experience limitations remain, especially for high-frequency trading.",
+  "ctxSignal": "Signal: BlackRock’s fund launch and the pending SGP-0003 proposal indicate real shifts in Solana’s ecosystem and governance.\nNoise: Memecoins inspired by marmot research and novelty funding methods are drawing attention but have limited impact on core network fundamentals.",
+  "ctxGlossary": "Tokenized Fund — a traditional investment fund represented as digital tokens on a blockchain\nSGP-0003 — a Solana governance proposal to change fee structure and SOL burn rate",
   "readMore": [
     {
-      "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum"
-    },
-    {
-      "title": "Solana boosted block capacity 66%, but traders still hit the same wall",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/solana-just-boosted-block-capacity-by-a-massive-66-but-the-one-bottleneck-infuriating-traders-hasnt-budged"
-    },
-    {
-      "title": "Solana’s price shows strength at $70, but whale exit sparks bigger fears",
+      "title": "BlackRock launches tokenized funds on Ethereum and Solana – Details",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-price-shows-strength-at-70-but-whale-exit-sparks-bigger-fears"
+      "url": "https://ambcrypto.com/blackrock-launches-tokenized-funds-on-ethereum-and-solana-details"
+    },
+    {
+      "title": "Base Passes Solana in Curated Capital Milestone (Flash News)",
+      "source": "CryptoPotato",
+      "url": "https://cryptopotato.com/base-passes-solana-in-curated-capital-milestone-flash-news"
+    },
+    {
+      "title": "A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000"
     }
   ]
 }
