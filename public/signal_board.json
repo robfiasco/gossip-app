@@ -1,16 +1,16 @@
 {
   "date": "2026-08-04",
-  "generated_at_utc": "2026-08-04T09:37:12.095Z",
-  "ctxMarket": "Attention is on institutional adoption and infrastructure changes, with BlackRock launching tokenized funds on both Solana and Ethereum. Stablecoin liquidity and the SOL vs. ETH debate are resurfacing, while network upgrades and capital flows are under scrutiny.",
-  "ctxTalking": "• BlackRock’s tokenized money market funds now live on Solana and Ethereum, spotlighting stablecoin reserves and institutional use cases\n• A new Solana proposal (SGP-0003) seeks to dramatically increase daily SOL burns and overhaul fees, pending validator support\n• Solana’s block capacity increased by 66%, but some transaction bottlenecks persist for traders",
-  "ctxMatters": "Institutional players are deepening their involvement in Solana, potentially expanding use cases and liquidity. Proposed fee and burn changes could affect token dynamics if approved. Despite technical upgrades, some user experience limitations remain, especially for high-frequency trading.",
-  "ctxSignal": "Signal: BlackRock’s fund launch and the pending SGP-0003 proposal indicate real shifts in Solana’s ecosystem and governance.\nNoise: Memecoins inspired by marmot research and novelty funding methods are drawing attention but have limited impact on core network fundamentals.",
-  "ctxGlossary": "Tokenized Fund — a traditional investment fund represented as digital tokens on a blockchain\nSGP-0003 — a Solana governance proposal to change fee structure and SOL burn rate",
+  "generated_at_utc": "2026-08-04T20:22:12.586Z",
+  "ctxMarket": "Attention is focused on a major Solana proposal to significantly increase daily SOL burns and reduce new issuance, with validator support still pending. Institutional activity and tokenization on Solana are also in the spotlight, alongside infrastructure upgrades.",
+  "ctxTalking": "• Solana validators are weighing a proposal (SGP-0003) to boost daily SOL burns more than tenfold and overhaul fee structures.\n• BlackRock and other institutions are expanding tokenized real-world asset offerings on Solana.\n• Solana’s collectibles market is growing, with onchain trading volumes and new redemption features.",
+  "ctxMatters": "The proposed burn and disinflation changes could alter SOL’s supply dynamics if approved. Institutional adoption and tokenization may drive new use cases and liquidity. Infrastructure upgrades like higher block limits signal ongoing technical scaling.",
+  "ctxSignal": "Signal: Validator debates over SGP-0003 and institutional tokenization moves on Solana.\nNoise: Meme coins tied to marmot research funding are speculative and not core to Solana’s fundamentals.",
+  "ctxGlossary": "Burn — Permanently removing tokens from circulation.\nTokenization — Converting real-world assets into digital tokens on a blockchain.\nValidator — A network participant that helps secure and operate a blockchain.",
   "readMore": [
     {
-      "title": "BlackRock launches tokenized funds on Ethereum and Solana – Details",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/blackrock-launches-tokenized-funds-on-ethereum-and-solana-details"
+      "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold"
     },
     {
       "title": "Base Passes Solana in Curated Capital Milestone (Flash News)",
