@@ -4,13 +4,22 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "MARKET",
+      "title": "Solana Ecosystem Roundup: July 2026",
+      "category": "MARKET",
+      "source": "Solana News",
+      "date": "2026-08-05",
+      "url": "https://solana.com/news/solana-ecosystem-roundup-july-2026",
+      "whyYouShouldCare": "The latest ecosystem developments indicate increasing activity and potential growth in Solana's network, which could enhance its overall positioning and liquidity."
+    },
+    {
       "type": "INFRA",
       "title": "Solana Changelog: August 6, 2026",
       "category": "INFRA",
       "source": "Solana News",
       "date": "2026-08-06",
       "url": "https://solana.com/news/solana-changelog-august-6-2026",
-      "whyYouShouldCare": "Updates in the Solana Changelog can enhance network performance, impacting SOL's usability and attractiveness to developers and users."
+      "whyYouShouldCare": "Updates in the Solana infrastructure reflect ongoing improvements that may boost transaction efficiency and user experience, impacting ecosystem usage positively."
     },
     {
       "type": "APPS",
@@ -19,16 +28,7 @@
       "source": "The Block",
       "date": "2026-08-06",
       "url": "https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall",
-      "whyYouShouldCare": "Increased competition for Hyperliquid may affect its market share, influencing the broader DeFi landscape on Solana and potentially impacting liquidity."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana whales just triggered a countdown that could skyrocket SOL’s daily burn rate by over 1,200%",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-08-07",
-      "url": "https://cryptoslate.com/solana-whales-just-triggered-a-countdown-that-erases-up-to-19m-tokens-from-existence-and-burns-9000-sol-every-day",
-      "whyYouShouldCare": "A significant increase in SOL's burn rate could reduce supply pressure, potentially enhancing SOL's value proposition in the market."
+      "whyYouShouldCare": "JPMorgan's insights on competition for Hyperliquid suggest potential challenges for Solana-based applications, which could influence user engagement and liquidity dynamics."
     }
   ]
 }
