@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-08-07T14:08:45.030Z",
+  "generated_at": "2026-08-08T13:40:51.365Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1786111725030",
+      "id": "story_onchain-marketmover_1786196451365",
       "source": "onchain-marketmover",
-      "title": "Bless (BLESS) Drops 47% After Recent Surge",
+      "title": "AI Rig Complex Jumps 42% in 24 Hours",
       "type": "critical",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-08-07T14:08:45.030Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/bless-2",
+      "timestamp": "2026-08-08T13:40:51.365Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/ai-rig-complex",
       "metrics": {
-        "token": "Bless",
-        "symbol": "BLESS",
-        "priceUsd": 0.01260601,
-        "marketCapUsd": 23325757,
-        "change24h": -47.5,
-        "change7d": 56.5
+        "token": "AI Rig Complex",
+        "symbol": "ARC",
+        "priceUsd": 0.072701,
+        "marketCapUsd": 72727253,
+        "change24h": 42.1,
+        "change7d": 41.2
       },
       "trend": {
         "streakDays": 1,
-        "streakDirection": "down",
-        "cumulativeChange": -47.5,
+        "streakDirection": "up",
+        "cumulativeChange": 42.1,
         "isLargestInWindow": false,
-        "windowDays": 2
+        "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "BLESS fell 47.5% in 24 hours, erasing recent gains and raising questions about its volatility.",
-        "story": "Bless (BLESS), a Solana-based token, saw its price tumble 47.5% over the last 24 hours, now trading at $0.0126. This sharp move comes after a period of strong gains, with the token still up over 56% in the past week. Trading volume was high, with $18.2 million changing hands, and the market cap now sits at $23.3 million, ranking BLESS at #733 by size.\n\n### What's Happening\n\nThe dramatic drop in BLESS’s price is notable but not entirely out of character for the token’s recent trading pattern. On-chain data shows that this move, while large, is within the range of volatility seen over the last two days. There’s no evidence of an unusual streak or a single outsized event driving the selloff. No clear catalyst has emerged from recent headlines, and there are no confirmed reports of protocol-specific news, exploits, or exchange actions directly tied to BLESS.\n\nThe high trading volume suggests active repositioning by holders, but there’s no sign of a coordinated dump or a technical failure. Instead, this appears to be a sharp correction following a period of rapid appreciation, with BLESS giving back a significant portion of its weekly gains.\n\n### Why It Matters\n\nSuch a steep price reversal highlights the ongoing volatility in smaller Solana ecosystem tokens. For traders and protocol builders, BLESS’s swing underscores the risks and opportunities in this segment of the market. The token’s ability to rally over 50% in a week, only to lose nearly half its value in a day, is a reminder of the thin liquidity and fast-moving sentiment that can define lower-cap assets.\n\nThe move also reflects broader patterns in the Solana ecosystem, where rapid price cycles are common and can be triggered by shifts in attention or liquidity. With no clear external driver, the BLESS drop may serve as a case study in how quickly momentum can reverse, especially after outsized runs.\n\n### The Risk or Debate\n\nThe main risk here is continued volatility. With no confirmed news or technical issues, the cause of the drop remains unclear, making it difficult to assess whether this is a healthy correction or a sign of deeper instability. Holders face uncertainty about whether BLESS will stabilize or see further swings.\n\nThere’s also the question of sustainability. Rapid price moves can attract speculative interest but may deter longer-term adoption or integration if they persist. For those building on or around BLESS, the lack of a clear narrative behind the move adds to the uncertainty.\n\n### What To Watch\n\nThe next key level to watch is whether BLESS can hold above $0.0100. A sustained drop below this threshold could signal further downside or a loss of confidence. Conversely, stabilization or a bounce from current levels would suggest that the recent move was a temporary flush rather than the start of a longer downtrend. Watch for any protocol updates or exchange announcements that could clarify the situation.",
+        "signal": "AI Rig Complex (ARC) surged 42.1% in the past day, reaching $0.0727 with $6.6M in trading volume.",
+        "story": "AI Rig Complex (ARC) posted a sharp 42.1% price increase over the last 24 hours, now trading at $0.0727. The token’s market cap stands at $72.7 million, ranking it #318 among digital assets. Trading activity also picked up, with $6.6 million in volume over the same period.\\n\\n### What's Happening\\n\\nARC’s price action is notable for its speed, but not necessarily for breaking new ground. The move falls within the recent range tracked over the last day, suggesting this isn’t an outlier or the start of a multi-day streak. There are no major headlines or news events tied directly to ARC that would explain the sudden uptick.\\n\\nThe token’s 7-day change closely mirrors its 24-hour move, indicating that most of the gains happened in a single burst rather than a sustained rally. This pattern points to a concentrated period of buying interest rather than a gradual build-up.\\n\\n### Why It Matters\\n\\nA 42% daily move, even within a recent range, signals that ARC has become a focus for traders looking for volatility. The $6.6 million in daily trading volume is substantial relative to its market cap, suggesting that liquidity is present and the token is actively changing hands.\\n\\nARC’s rise comes without any clear catalyst, which can sometimes indicate speculative flows or coordinated trading activity. For Solana ecosystem watchers, this kind of price action can draw attention to smaller-cap tokens and may prompt further scrutiny or interest from both traders and developers.\\n\\n### The Risk or Debate\\n\\nThe lack of a clear narrative or news event behind ARC’s move raises questions about sustainability. Rapid price jumps without fundamental drivers can reverse just as quickly, especially if driven by short-term speculation.\\n\\nWith no unusual trend detected and no external events, there’s a risk that this move could be short-lived. Traders and users should be cautious about interpreting this as the start of a longer-term trend without additional confirmation.\\n\\n### What To Watch\\n\\nThe key metric to watch is whether ARC can maintain or build on this price level over the next 48 hours. Sustained trading volume above $5 million daily would suggest continued interest and could help validate the move. Any new developments, such as protocol announcements or ecosystem integrations, could also shift the narrative and provide more clarity on ARC’s trajectory.",
         "takeaways": [
-          "BLESS dropped 47.5% in 24 hours, reversing much of its recent weekly gains.",
-          "No clear catalyst or protocol-specific news explains the sharp move.",
-          "Volatility remains a defining feature for smaller Solana ecosystem tokens like BLESS."
+          "ARC jumped 42.1% in 24 hours to $0.0727 with $6.6M in trading volume.",
+          "No clear news or external catalyst explains the move; gains are concentrated in a single day.",
+          "Sustained volume and new developments will determine if this is more than a short-term spike."
         ]
       },
-      "watchTrigger": "BLESS closing below $0.0100 on a daily basis.",
-      "riskLevel": "high",
-      "narrativeStrength": 7.7
+      "watchTrigger": "ARC daily trading volume remains above $5M for the next 48 hours.",
+      "riskLevel": "medium",
+      "narrativeStrength": 7.3
     },
     {
-      "id": "story_onchain-fundflow_1786111700299",
+      "id": "story_onchain-fundflow_1786196444126",
       "source": "onchain-fundflow",
-      "title": "OSL TVL Drops Nearly 50% in 24 Hours",
+      "title": "Midas RWA TVL Jumps 53% to $137.8M in 24 Hours",
       "type": "critical",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-08-07T14:08:20.299Z",
-      "sourceUrl": "https://www.osl.com/en",
+      "timestamp": "2026-08-08T13:40:44.126Z",
+      "sourceUrl": "https://midas.app",
       "metrics": {
-        "protocol": "OSL",
-        "tvlUsd": 15298512.90118014,
-        "change1d": -49.81440859819962,
-        "change7d": null,
+        "protocol": "Midas RWA",
+        "tvlUsd": 137785144.86999997,
+        "change1d": 53.44892159675965,
+        "change7d": 19.35288574366372,
         "tokenSymbol": null,
         "tokenPriceUsd": null
       },
       "trend": {
-        "streakDays": 2,
-        "streakDirection": "down",
-        "cumulativeChange": -97.11,
+        "streakDays": 1,
+        "streakDirection": "up",
+        "cumulativeChange": 53.45,
         "isLargestInWindow": false,
-        "windowDays": 5
+        "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "OSL’s total value locked fell 49.8% in the past day, now sitting at $15.3M.",
-        "story": "OSL, a centralized exchange operating across major chains like Ethereum, Solana, and Bitcoin, has seen its TVL drop by nearly half in the last 24 hours. The protocol’s TVL now stands at $15.3 million, marking the second consecutive day of sharp outflows. Over the past two days, OSL’s TVL has declined a cumulative 97.1%, signaling a rapid and sustained exit of funds.\\n\\n### What's Happening\\n\\nThis is not a minor fluctuation—OSL’s TVL has collapsed from much higher levels in just 48 hours. The scale and speed of these outflows are unusual for a multi-chain exchange of this size. There is no associated token for OSL, so these movements reflect direct asset withdrawals rather than token price volatility.\\n\\nRecent headlines confirm OSL’s active presence in Hong Kong, with news of the exchange expanding retail trading access, particularly for XRP. However, none of the available news directly explain the sudden and dramatic TVL decline. There are no public reports of exploits, regulatory actions, or technical issues tied to this event.\\n\\n### Why It Matters\\n\\nA TVL drop of this magnitude can indicate a loss of user confidence, operational changes, or large clients pulling funds. For an exchange like OSL, which has recently been in the spotlight for regulatory milestones in Hong Kong, such a sharp contraction raises questions about internal or external triggers.\\n\\nThe move is especially notable given OSL’s multi-chain footprint and recent expansion into new markets. If the outflows reflect broader concerns about centralized exchanges or specific issues at OSL, this could impact user behavior across connected ecosystems.\\n\\nWith no token to buffer or amplify the move, the TVL drop is a direct measure of assets leaving the platform. This makes the signal harder to dismiss as mere market noise.\\n\\n### The Risk or Debate\\n\\nThe primary risk is that these outflows could be a sign of deeper issues—such as solvency concerns, operational disruptions, or regulatory pressure—that have not yet surfaced publicly. Alternatively, this could be a large client or institutional partner reallocating funds for unrelated reasons, but the scale suggests more than routine activity.\\n\\nWithout clear public information, speculation may grow about OSL’s stability or business model. For users and counterparties, the lack of transparency around the cause adds to uncertainty.\\n\\n### What To Watch\\n\\nThe next 24–48 hours will be critical. If TVL continues to fall or fails to recover, it may confirm a structural problem rather than a one-off event. Any official communication from OSL, or new on-chain data showing inflows or stabilization, will be important signals.\\n\\nWatch for further TVL moves, regulatory statements, or any announcements from OSL addressing the situation. How quickly and clearly OSL responds could shape user confidence going forward.",
+        "signal": "Midas RWA’s total value locked surged 53.4% in the past day, reaching $137.8 million across multiple chains.",
+        "story": "Midas RWA, a protocol focused on real-world asset (RWA) tokenization, saw its total value locked (TVL) climb sharply by 53.4% in the last 24 hours. The protocol’s TVL now stands at $137.8 million, reflecting a significant influx of capital across a broad set of supported blockchains, including Ethereum, Solana, Arbitrum, and others. This move comes without any associated token or recent headline event to explain the spike, and the increase is within the range of recent activity tracked over the last day.\n\n### What's Happening\n\nThe sharp TVL increase signals renewed interest in Midas RWA’s platform, which facilitates access to tokenized real-world assets across more than two dozen chains. The protocol’s TVL has also grown 19.35% over the past week, suggesting that the latest jump is part of a broader, ongoing trend rather than a one-off event. There is no evidence of a sudden incentive program, exploit, or major partnership driving this move, and no unusual streak or outlier has been detected in the data.\n\nThis growth is notable given the lack of a native token, meaning the TVL rise is likely driven by user deposits or integrations rather than speculative farming or token incentives. The multi-chain footprint of Midas RWA may be attracting users seeking diversified exposure to RWAs or leveraging cross-chain opportunities.\n\n### Why It Matters\n\nThe surge in TVL highlights growing demand for RWA protocols, which aim to bridge traditional finance and crypto by bringing off-chain assets onto blockchains. Midas RWA’s ability to attract significant capital without a token suggests users are engaging with the platform for its core utility rather than for speculative reasons. This could signal maturing interest in RWA products and a shift toward more sustainable DeFi use cases.\n\nThe protocol’s presence across a wide range of chains positions it as a potential infrastructure layer for RWA adoption. If this trend continues, Midas RWA could become a key player in the evolving RWA landscape, influencing liquidity flows and integration standards across the ecosystem.\n\n### The Risk or Debate\n\nWhile the TVL jump is substantial, the absence of a clear catalyst raises questions about the underlying drivers. Without a token, Midas RWA may have limited levers to incentivize long-term user engagement or defend against capital outflows if more attractive opportunities arise elsewhere. The multi-chain approach, while offering reach, also introduces operational complexity and potential security risks.\n\nAdditionally, the RWA sector faces ongoing regulatory and legal uncertainties, especially as protocols interact with off-chain assets. Any adverse developments on this front could impact user confidence or limit growth potential.\n\n### What To Watch\n\nThe next key signal will be whether Midas RWA can sustain or build on this TVL level over the coming days. Watch for any announcements of new asset integrations, partnerships, or on-chain activity spikes that could clarify the source of inflows. If TVL holds above $130 million for the next 72 hours, it would suggest the increase is sticky rather than a fleeting move.",
         "takeaways": [
-          "OSL TVL dropped nearly 50% in 24 hours, now at $15.3M.",
-          "This is the second day of sharp outflows, totaling a 97.1% decline.",
-          "No clear public explanation exists; the cause remains uncertain."
+          "Midas RWA TVL rose 53.4% in 24 hours to $137.8M, with no token or clear catalyst.",
+          "Growth appears organic and is part of a broader weekly uptrend.",
+          "Sustained TVL could signal rising demand for real-world asset protocols without speculative incentives."
         ]
       },
-      "watchTrigger": "If OSL TVL falls below $10M or fails to recover above $20M within 48 hours, the signal is confirmed as a sustained outflow event.",
-      "riskLevel": "high",
-      "narrativeStrength": 8.6
+      "watchTrigger": "If Midas RWA TVL remains above $130 million for the next 72 hours, the move is likely sustained.",
+      "riskLevel": "medium",
+      "narrativeStrength": 9
     }
   ]
 }
