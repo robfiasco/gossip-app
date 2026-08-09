@@ -1,26 +1,26 @@
 {
   "date": "2026-08-09",
-  "generated_at_utc": "2026-08-09T07:51:40.471Z",
-  "ctxMarket": "Attention is on relative performance across major blockchains, with Solana, Bitcoin, XRP, and Tron outpacing Ethereum and Cardano in investor accumulation since 2022. Ecosystem growth and technical upgrades are also in focus.",
-  "ctxTalking": "• Solana, Bitcoin, XRP, and Tron have outperformed Ethereum and Cardano in monthly investor inflows since 2022\n• Solana’s technical upgrades, including Agave and Firedancer, are progressing on Devnet and Testnet\n• Base has surpassed Solana in a curated capital milestone",
-  "ctxMatters": "Solana’s ongoing technical releases and ecosystem expansion highlight its push for scalability and real-world adoption. Comparisons with other chains may influence how users and builders assess network momentum. The curated capital milestone signals shifting dynamics among leading blockchain platforms.",
-  "ctxSignal": "Signal: Solana’s slot-time improvements and ecosystem metrics point to active development and adoption.\nNoise: Short-term leaderboard shifts in curated capital may not reflect long-term trends.",
-  "ctxGlossary": "Devnet — A public test environment for developers to trial new features before mainnet launch\nCurated capital — Funds or assets managed within a specific blockchain ecosystem, often with oversight or selection criteria",
+  "generated_at_utc": "2026-08-09T19:30:31.226Z",
+  "ctxMarket": "Attention is focused on Solana’s growing role in real-world asset (RWA) tokenization and leveraged trading activity, even as overall DeFi and crypto-native trading slow. Recent volatility and funding rates have put Solana’s futures markets in the spotlight.",
+  "ctxTalking": "• Solana’s position in the RWA market is strengthening, with tokenized assets expanding despite weaker DeFi activity.\n• High leverage and funding rates on Solana futures are raising concerns about liquidation risks and sharp price swings.\n• The Bitwise Solana ETF saw significant inflows, but market losses have erased initial investments.",
+  "ctxMatters": "Solana’s technical progress and ecosystem growth are drawing institutional and retail attention, especially in tokenized assets. Elevated leverage and funding costs highlight potential volatility, which could impact both traders and protocol stability. Competition from other chains like Base is also intensifying.",
+  "ctxSignal": "Signal: Rising leverage and funding rates on Solana futures, and continued RWA/tokenized asset growth.\nNoise: Short-term ETF performance headlines without broader context.",
+  "ctxGlossary": "RWA — Real-world assets, such as equities or real estate, represented as blockchain tokens.\nFunding rate — The fee paid between traders in perpetual futures to keep prices aligned with spot markets.",
   "readMore": [
     {
-      "title": "Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying"
-    },
-    {
-      "title": "Solana Changelog",
-      "source": "Solana News",
-      "url": "https://solana.com/news/solana-changelog-august-6-2026"
-    },
-    {
-      "title": "Base Passes Solana in Curated Capital Milestone (Flash News)",
+      "title": "Ethereum Stays on Top of RWA Market as Solana Strengthens Its Position",
       "source": "CryptoPotato",
-      "url": "https://cryptopotato.com/base-passes-solana-in-curated-capital-milestone-flash-news"
+      "url": "https://cryptopotato.com/ethereum-stays-on-top-of-rwa-market-as-solana-strengthens-its-position"
+    },
+    {
+      "title": "Investors poured $267 million into Bitwise’s Solana ETF, but market losses erased every cent",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/investors-poured-267-million-into-bitwises-solana-etf-but-market-losses-erased-every-cent"
+    },
+    {
+      "title": "Solana",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-how-a-20x-whale-bet-could-raise-liquidation-risks-for-sol"
     }
   ]
 }
