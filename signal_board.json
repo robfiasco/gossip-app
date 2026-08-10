@@ -1,12 +1,17 @@
 {
-  "date": "2026-08-09",
-  "generated_at_utc": "2026-08-09T19:30:31.226Z",
-  "ctxMarket": "Attention is focused on Solana’s growing role in real-world asset (RWA) tokenization and leveraged trading activity, even as overall DeFi and crypto-native trading slow. Recent volatility and funding rates have put Solana’s futures markets in the spotlight.",
-  "ctxTalking": "• Solana’s position in the RWA market is strengthening, with tokenized assets expanding despite weaker DeFi activity.\n• High leverage and funding rates on Solana futures are raising concerns about liquidation risks and sharp price swings.\n• The Bitwise Solana ETF saw significant inflows, but market losses have erased initial investments.",
-  "ctxMatters": "Solana’s technical progress and ecosystem growth are drawing institutional and retail attention, especially in tokenized assets. Elevated leverage and funding costs highlight potential volatility, which could impact both traders and protocol stability. Competition from other chains like Base is also intensifying.",
-  "ctxSignal": "Signal: Rising leverage and funding rates on Solana futures, and continued RWA/tokenized asset growth.\nNoise: Short-term ETF performance headlines without broader context.",
-  "ctxGlossary": "RWA — Real-world assets, such as equities or real estate, represented as blockchain tokens.\nFunding rate — The fee paid between traders in perpetual futures to keep prices aligned with spot markets.",
+  "date": "2026-08-10",
+  "generated_at_utc": "2026-08-10T08:25:07.297Z",
+  "ctxMarket": "Attention is on Solana’s growing role in real-world asset (RWA) tokenization and recent volatility tied to leveraged positions. Technical upgrades and ecosystem milestones are also in focus, while ETF performance has drawn scrutiny after recent losses.",
+  "ctxTalking": "• Solana’s strengthened position in RWA markets, despite Ethereum’s continued dominance\n• High leverage and whale activity raising liquidation risk for SOL\n• Bitwise’s Solana ETF losses wiping out recent inflows",
+  "ctxMatters": "Solana’s expanding RWA footprint signals broader institutional and developer interest. Elevated leverage and ETF volatility highlight risk factors that could affect market stability and user sentiment. Recent technical upgrades may support future scalability and adoption.",
+  "ctxSignal": "Signal: Growth in tokenized assets and ecosystem capacity, plus increased leverage risks.\nNoise: Short-term price swings not clearly linked to underlying network fundamentals.",
+  "ctxGlossary": "RWA — Real-world assets, such as equities or property, represented as tokens on-chain\nETF — Exchange-traded fund, a tradable investment product tracking an asset or index",
   "readMore": [
+    {
+      "title": "PYTH rallies on bullish sentiment – But there’s a silent risk brewing",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/pyth-rallies-on-bullish-sentiment-but-theres-a-silent-risk-brewing"
+    },
     {
       "title": "Ethereum Stays on Top of RWA Market as Solana Strengthens Its Position",
       "source": "CryptoPotato",
@@ -16,11 +21,6 @@
       "title": "Investors poured $267 million into Bitwise’s Solana ETF, but market losses erased every cent",
       "source": "CryptoSlate",
       "url": "https://cryptoslate.com/investors-poured-267-million-into-bitwises-solana-etf-but-market-losses-erased-every-cent"
-    },
-    {
-      "title": "Solana",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-how-a-20x-whale-bet-could-raise-liquidation-risks-for-sol"
     }
   ]
 }
