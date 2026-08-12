@@ -1,26 +1,26 @@
 {
   "date": "2026-08-12",
-  "generated_at_utc": "2026-08-12T08:14:19.386Z",
-  "ctxMarket": "Attention is on Solana’s technical price setup and new integrations, especially after a recent pullback from August’s $90 spike. MoneyGram’s expansion onto Solana is drawing interest for its potential to bridge crypto and cash globally.",
-  "ctxTalking": "• MoneyGram’s Ramps service now connects Solana wallets to global cash deposits and withdrawals\n• Technical signals for Solana’s price are mixed, with both bullish and bearish patterns noted\n• Jupiter’s Lend v2 launch enables earning DEX trading fees on both supplied and borrowed assets",
-  "ctxMatters": "MoneyGram’s integration could make Solana more accessible for users needing fiat on/off-ramps in many countries. Mixed technical signals highlight uncertainty around near-term price direction. New DeFi features like Jupiter’s Lend v2 may attract more activity and liquidity to Solana’s ecosystem.",
-  "ctxSignal": "Signal: Major payment networks like MoneyGram building on Solana; new DeFi product launches\nNoise: Short-term price speculation without clear consensus",
-  "ctxGlossary": "Death cross — When a short-term moving average falls below a long-term one, often seen as a bearish signal\nOn/off-ramp — Services that let users move between crypto and traditional currencies",
+  "generated_at_utc": "2026-08-12T19:59:58.589Z",
+  "ctxMarket": "Attention is focused on Solana’s recent technical incident and MoneyGram’s integration with the network. Broader crypto sector layoffs, including at Bitwise, are also drawing notice, with companies citing AI shifts and market dynamics.",
+  "ctxTalking": "• Solana narrowly avoided a major network freeze due to a routing bug, impacting nearly 29% of staked SOL.\n• MoneyGram has expanded its crypto cash ramp services to Solana, enabling global cash deposits and withdrawals through Solana wallets.\n• Ongoing workforce reductions at major crypto firms, including Bitwise, are being linked to changing tech priorities and market conditions.",
+  "ctxMatters": "Solana’s technical stability remains under scrutiny after the near-finality loss, which could affect confidence among users and developers. MoneyGram’s integration may increase real-world utility and liquidity for Solana-based apps. Sector layoffs highlight ongoing adaptation to new technologies and shifting market realities.",
+  "ctxSignal": "Signal: Solana’s network reliability and the MoneyGram integration are directly impacting user and builder sentiment.\nNoise: Short-term price speculation based on technical indicators without clear fundamental catalysts.",
+  "ctxGlossary": "Finality — The point at which a blockchain transaction is considered irreversible.\nRouting bug — A technical error affecting how network data is directed, potentially disrupting blockchain operations.",
   "readMore": [
     {
-      "title": "The Bull and Bear Case for Solana’s Next Price Move",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move"
-    },
-    {
-      "title": "MoneyGram expands crypto cash ramps to Solana",
+      "title": "Bitwise cuts 14% of staff while still expecting growth",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana"
+      "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth"
     },
     {
-      "title": "MoneyGram expands on Solana with global crypto-to-cash service",
+      "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality"
+    },
+    {
+      "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service"
+      "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says"
     }
   ]
 }
