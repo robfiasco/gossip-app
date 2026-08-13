@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-08-12T14:17:40.664Z",
+  "generated_at": "2026-08-13T14:20:15.067Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1786544260663",
+      "id": "story_onchain-marketmover_1786630815067",
       "source": "onchain-marketmover",
-      "title": "Infinex (INX) Drops 20% but Remains Within Recent Range",
+      "title": "Bless (BLESS) Slides 33% as Selloff Deepens",
       "type": "critical",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-08-12T14:17:40.663Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/infinex-2",
+      "timestamp": "2026-08-13T14:20:15.067Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/bless-2",
       "metrics": {
-        "token": "Infinex",
-        "symbol": "INX",
-        "priceUsd": 0.00806613,
-        "marketCapUsd": 16092011,
-        "change24h": -20,
-        "change7d": 7.4
+        "token": "Bless",
+        "symbol": "BLESS",
+        "priceUsd": 0.00941425,
+        "marketCapUsd": 17337909,
+        "change24h": -32.7,
+        "change7d": -60.2
       },
       "trend": {
-        "streakDays": 1,
+        "streakDays": 2,
         "streakDirection": "down",
-        "cumulativeChange": -20,
+        "cumulativeChange": -80.2,
         "isLargestInWindow": false,
-        "windowDays": 1
+        "windowDays": 3
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Infinex (INX) fell 20% in the past 24 hours to $0.0081, with no unusual trend detected.",
-        "story": "Infinex (INX) saw a sharp 20% price drop over the last day, bringing its token price down to $0.0081. The move comes with a significant $10.3 million in 24-hour trading volume, positioning INX with a $16.1 million market cap and ranking it #907 among crypto assets. Despite the steep decline, on-chain data suggests this volatility is not outside the norm for INX, as no unusual streak or outlier trend has been detected in recent tracking.\n\n### What's Happening\nThe 20% slide in INX price stands out for its size but fits within the token's recent trading range. Over the past week, INX is still up 7.4%, indicating that the current drop follows a period of upward movement. Trading activity remains robust, with volume nearly two-thirds of the token’s market cap in the past day, suggesting active repositioning among holders rather than a sudden exodus or liquidity crisis.\n\nNo major headlines or news events have surfaced to directly explain the move. The absence of a clear catalyst means the price action is likely driven by routine trading dynamics, such as profit-taking after recent gains, rather than a fundamental change or external shock.\n\n### Why It Matters\nShort-term volatility like this can test confidence in smaller-cap tokens, especially when price swings are not tied to clear news or protocol changes. For INX, the ability to absorb a 20% move without breaking out of its typical range may signal a maturing market structure or simply reflect the token’s inherent volatility. The high trading volume relative to market cap also points to deep liquidity for a token of this size, which can be a double-edged sword—enabling both swift recoveries and rapid declines.\n\nFor traders and users in the Solana ecosystem, INX’s price action is a reminder that even sizable moves can occur without a clear external trigger. This underscores the importance of monitoring on-chain flows and liquidity conditions, rather than relying solely on headline-driven narratives.\n\n### The Risk or Debate\nThe main risk here is uncertainty about what’s driving the move. Without a clear catalyst, it’s harder to gauge whether the drop is a temporary shakeout or the start of a longer-term trend. Smaller-cap tokens like INX can be more susceptible to large swings from concentrated holders or algorithmic trading, which may not always reflect broader sentiment or protocol fundamentals.\n\nThere’s also the risk that continued volatility could deter new participants or shake out less committed holders, potentially leading to further price instability. However, the lack of a multi-day streak or outlier trend suggests this is not (yet) a structural breakdown.\n\n### What To Watch\nThe next key signal will be whether INX can recover above $0.0090 in the coming days, or if further declines push it below the $0.0075 level. Sustained trading volumes at or above current levels will also be important to watch, as a sudden drop-off could signal waning interest or liquidity stress. Any emergence of protocol news, listings, or ecosystem developments could quickly change the narrative, so monitoring both on-chain flows and information channels remains essential.",
+        "signal": "BLESS has dropped 32.7% in the past 24 hours, extending a two-day decline to over 80%.",
+        "story": "Bless (BLESS), a Solana-based token, has seen its price tumble 32.7% in the last 24 hours, now trading at $0.0094. This marks the second straight day of steep losses, with BLESS down 80.2% over that period. The token’s market cap has shrunk to $17.3 million, while trading volume remains elevated at $7 million for the day.\n\n### What's Happening\nThe sharp decline in BLESS is part of a multi-day downtrend, with the token losing more than half its value in the past week. The selloff has accelerated, pushing BLESS to its lowest level in recent memory. Despite the price drop, trading activity is still robust, suggesting that holders are actively exiting positions or that volatility is attracting short-term traders.\n\nThere is no clear headline or on-chain event directly tied to this move. Recent coverage of meme token volatility and general market recaps mention BLESS only in passing, without pointing to a specific catalyst for this drawdown. The cause of the rapid decline remains unclear based on available data.\n\n### Why It Matters\nBLESS’s rapid slide highlights the risks associated with smaller-cap tokens, especially those that have recently experienced high volatility. With a market cap now under $20 million and a sharp drop in price, BLESS is at risk of further liquidity challenges or loss of investor confidence if the trend continues.\n\nThe sustained trading volume indicates that BLESS is still drawing attention, but it’s unclear whether this is driven by attempts to catch a bottom or by ongoing liquidations. For Solana ecosystem observers, such moves can signal shifts in sentiment or risk appetite, particularly for newer or more speculative tokens.\n\n### The Risk or Debate\nThe main risk is that BLESS could face further downside if confidence is not restored. Without a clear trigger for the selloff, uncertainty around the project’s fundamentals or community support may grow. If trading volume dries up, liquidity could become a concern, making it harder for holders to exit positions without further impacting the price.\n\nThere is also the possibility that BLESS’s decline is part of a broader meme token correction, but without specific news, it’s difficult to separate project-specific issues from wider market trends. The lack of transparency around the cause adds to the uncertainty for current and prospective holders.\n\n### What To Watch\nThe next key level to watch is whether BLESS can stabilize above $0.0080, which would suggest some buyers are stepping in. Sustained trading volume above $5 million could indicate continued interest, but a sharp drop in volume may signal exhaustion and further price pressure. Any official communication from the BLESS team or new on-chain developments could provide clarity on the situation.",
         "takeaways": [
-          "INX dropped 20% in 24 hours, but this move is within its recent trading range.",
-          "No clear news or external event explains the price action.",
-          "High trading volume suggests active repositioning rather than a liquidity crunch."
+          "BLESS has lost over 80% in two days, with no clear catalyst.",
+          "Trading volume remains high, signaling ongoing volatility.",
+          "The cause of the decline is unclear, raising uncertainty about near-term direction."
         ]
       },
-      "watchTrigger": "INX price movement above $0.0090 or below $0.0075 in the next 72 hours.",
-      "riskLevel": "medium",
-      "narrativeStrength": 5
+      "watchTrigger": "BLESS price closing below $0.0080 on daily charts.",
+      "riskLevel": "high",
+      "narrativeStrength": 6.2
     },
     {
-      "id": "story_onchain-fundflow_1786544248782",
+      "id": "story_onchain-fundflow_1786630775474",
       "source": "onchain-fundflow",
-      "title": "CEX.IO TVL Surges 84% to $11.3M in 24 Hours",
+      "title": "OSL TVL Jumps 68% to $26.9M Across Chains",
       "type": "critical",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-08-12T14:17:28.782Z",
-      "sourceUrl": "http://cex.io/",
+      "timestamp": "2026-08-13T14:19:35.474Z",
+      "sourceUrl": "https://www.osl.com/en",
       "metrics": {
-        "protocol": "CEX.IO",
-        "tvlUsd": 11256296.43424035,
-        "change1d": 84.52548383425903,
-        "change7d": 114.18963977018933,
+        "protocol": "OSL",
+        "tvlUsd": 26865303.617755856,
+        "change1d": 68.05099686684719,
+        "change7d": -9.34578492022706,
         "tokenSymbol": null,
         "tokenPriceUsd": null
       },
       "trend": {
-        "streakDays": 2,
+        "streakDays": 1,
         "streakDirection": "up",
-        "cumulativeChange": 115.11,
-        "isLargestInWindow": true,
-        "windowDays": 5
+        "cumulativeChange": 68.05,
+        "isLargestInWindow": false,
+        "windowDays": 6
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "CEX.IO’s total value locked jumped 84.5% in the past day, reaching $11.3 million.",
-        "story": "CEX.IO, a centralized exchange operating across multiple blockchains, saw its TVL climb sharply over the last 24 hours. The platform’s locked value now stands at $11.3 million, up 84.5% since yesterday. This marks the second consecutive day of significant growth, with TVL more than doubling over the past two days and a cumulative increase of 115.1% in that span.\n\n### What's Happening\n\nThe recent surge is the largest single-day move for CEX.IO in the last five days tracked. The protocol, which does not have an associated token, supports activity across a broad range of chains including Solana, Ethereum, Polygon, and others. No public headlines or announcements have emerged to explain the sudden influx of funds, leaving the cause of this spike unclear.\n\nThe jump follows a week of steady growth, with TVL up 114% over the past seven days. This pattern suggests a sustained increase in user deposits or activity rather than a one-off event. The absence of a token means this growth is not driven by speculative staking or farming incentives tied to emissions.\n\n### Why It Matters\n\nA rapid TVL increase on a centralized exchange platform is notable, especially when it spans multiple chains. This could signal renewed user interest in CEX.IO’s cross-chain services or a shift in user funds from other platforms. The move stands out in a sector where TVL changes are often linked to token incentives, which are not present here.\n\nThe growth may reflect broader trends in user behavior, such as seeking alternative venues for custody or trading. It also highlights the role of multi-chain platforms in capturing flows that might otherwise remain siloed on single networks. For the Solana ecosystem, increased activity on CEX.IO could mean more liquidity and connectivity with other chains.\n\n### The Risk or Debate\n\nThe lack of a clear catalyst raises questions about the sustainability of this TVL surge. Without a public explanation, it is difficult to assess whether the inflows are organic, related to internal platform changes, or driven by a small number of large deposits. Centralized platforms also carry risks around custody and transparency, which can become more pronounced during periods of rapid growth.\n\nUnexplained TVL spikes sometimes precede reversals if the underlying drivers are not sticky. The absence of recent headlines or updates from CEX.IO increases uncertainty about what is fueling this move and whether it will persist.\n\n### What To Watch\n\nSustained TVL above $12 million in the coming days would confirm that this is more than a temporary spike. Any official communication from CEX.IO or large withdrawals could quickly change the picture. Monitoring cross-chain flows and user activity on supported networks may provide further clues about the source and durability of these deposits.",
+        "signal": "OSL’s total value locked surged 68.1% in the past 24 hours, reaching $26.9 million.",
+        "story": "OSL, a centralized exchange protocol spanning Solana, Ethereum, and several other major chains, saw its total value locked (TVL) climb sharply by 68.1% in the last 24 hours. TVL now stands at $26.9 million, reversing some of the losses from earlier in the week. This move is notable for its size, but it falls within the recent range tracked over the past six days, suggesting it’s not an outlier or part of a new trend.\n\n### What's Happening\n\nThe sudden increase in TVL means more assets have been deposited into OSL’s platform across its supported blockchains, including Solana, Ethereum, and Bitcoin. This uptick follows a week where OSL’s TVL had dropped by over 9%, indicating a partial recovery rather than a sustained upward streak. There are no new headlines or public announcements tied to OSL that would explain this inflow, and the protocol does not have an associated token that could be driving speculative activity.\n\nThe move is not linked to any known incentive program, exploit, or major listing event. Instead, it appears to be organic fund movement, possibly reflecting renewed user confidence or shifts in liquidity preferences across the supported chains. The absence of a token means the TVL change is likely driven by user deposits rather than token price volatility.\n\n### Why It Matters\n\nA 68% jump in TVL is significant for any protocol, especially one operating across multiple chains. For OSL, this kind of inflow can signal renewed interest in its platform or a response to changing conditions elsewhere in the ecosystem. Since OSL is a centralized exchange protocol, increased deposits may reflect users seeking multi-chain access or more secure custody options.\n\nThe recovery in TVL also highlights the fluid nature of liquidity in the current market. While the move does not break out of the recent range, it shows that users are still actively reallocating funds between platforms and chains. For protocols without a native token, TVL changes can be a more direct indicator of user trust and engagement, rather than just price-driven swings.\n\n### The Risk or Debate\n\nThe main uncertainty is the lack of a clear catalyst for the inflow. Without a public announcement or incentive, it’s difficult to assess whether this is the start of a sustained trend or a short-term repositioning by a few large users. The recent 7-day decline also suggests that OSL’s TVL remains volatile, and today’s gain could be reversed just as quickly.\n\nAdditionally, as a centralized protocol, OSL’s TVL is subject to custodial and operational risks that may not affect decentralized alternatives. Users and observers should be cautious about reading too much into a single day’s movement without more context.\n\n### What To Watch\n\nThe key question is whether OSL can maintain or build on this TVL recovery in the coming days. Sustained inflows above the $30 million mark would indicate a more robust return of user confidence. Any future announcements, integrations, or changes in supported chains could also impact TVL dynamics.",
         "takeaways": [
-          "CEX.IO TVL rose 84.5% in 24 hours to $11.3M, the largest move in five days.",
-          "No public explanation or token incentives are linked to this surge.",
-          "Sustained growth would signal lasting user interest or new platform activity."
+          "OSL’s TVL rose 68.1% in 24 hours to $26.9 million, reversing some recent losses.",
+          "No clear external catalyst or incentive explains the sudden inflow.",
+          "The move is within the recent range and does not signal a new trend yet."
         ]
       },
-      "watchTrigger": "CEX.IO TVL holding above $12M for 48 consecutive hours.",
+      "watchTrigger": "OSL TVL crossing above $30 million within the next 7 days.",
       "riskLevel": "medium",
-      "narrativeStrength": 8.6
+      "narrativeStrength": 8.7
     }
   ]
 }
