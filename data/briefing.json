@@ -1,8 +1,17 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "RISK",
+      "title": "Solana outage knocks 90 validators offline – Was the network at risk?",
+      "category": "RISK",
+      "source": "AMB Crypto",
+      "date": "2026-08-13",
+      "url": "https://ambcrypto.com/solana-outage-knocks-90-validators-offline-was-the-network-at-risk",
+      "whyYouShouldCare": "The recent outage affecting 90 validators raises concerns about Solana's network stability and its implications for user confidence and ecosystem growth."
+    },
     {
       "type": "APPS",
       "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
@@ -10,25 +19,16 @@
       "source": "Decrypt",
       "date": "2026-08-12",
       "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
-      "whyYouShouldCare": "The routing bug that nearly compromised Solana's finality highlights vulnerabilities that could impact network reliability and user confidence."
+      "whyYouShouldCare": "The routing bug that nearly compromised finality highlights potential vulnerabilities in Solana's infrastructure, which could impact transaction reliability and user trust."
     },
     {
-      "type": "APPS",
-      "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-08-12",
-      "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
-      "whyYouShouldCare": "The near-freeze of Solana raises concerns about the stability of its smart contract capabilities, which could deter developers and users from engaging with the ecosystem."
-    },
-    {
-      "type": "MARKET",
-      "title": "MoneyGram backs Solana – Can rising DeFi liquidity power SOL’s Q3 rally?",
-      "category": "MARKET",
-      "source": "AMB Crypto",
-      "date": "2026-08-12",
-      "url": "https://ambcrypto.com/moneygram-backs-solana-can-rising-defi-liquidity-power-sols-q3-rally",
-      "whyYouShouldCare": "MoneyGram's support for Solana could enhance liquidity in DeFi, potentially driving demand for SOL and boosting its market performance in Q3."
+      "type": "ECOSYSTEM",
+      "title": "MoneyGram Ramps launches on Solana",
+      "category": "ECOSYSTEM",
+      "source": "Solana News",
+      "date": "2026-08-11",
+      "url": "https://solana.com/news/moneygram-ramps",
+      "whyYouShouldCare": "MoneyGram's integration with Solana enhances the ecosystem's utility, potentially increasing transaction volume and attracting new users to the platform."
     }
   ]
 }

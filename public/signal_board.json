@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-12",
-  "generated_at_utc": "2026-08-12T19:59:58.589Z",
-  "ctxMarket": "Attention is focused on Solana’s recent technical incident and MoneyGram’s integration with the network. Broader crypto sector layoffs, including at Bitwise, are also drawing notice, with companies citing AI shifts and market dynamics.",
-  "ctxTalking": "• Solana narrowly avoided a major network freeze due to a routing bug, impacting nearly 29% of staked SOL.\n• MoneyGram has expanded its crypto cash ramp services to Solana, enabling global cash deposits and withdrawals through Solana wallets.\n• Ongoing workforce reductions at major crypto firms, including Bitwise, are being linked to changing tech priorities and market conditions.",
-  "ctxMatters": "Solana’s technical stability remains under scrutiny after the near-finality loss, which could affect confidence among users and developers. MoneyGram’s integration may increase real-world utility and liquidity for Solana-based apps. Sector layoffs highlight ongoing adaptation to new technologies and shifting market realities.",
-  "ctxSignal": "Signal: Solana’s network reliability and the MoneyGram integration are directly impacting user and builder sentiment.\nNoise: Short-term price speculation based on technical indicators without clear fundamental catalysts.",
-  "ctxGlossary": "Finality — The point at which a blockchain transaction is considered irreversible.\nRouting bug — A technical error affecting how network data is directed, potentially disrupting blockchain operations.",
+  "date": "2026-08-13",
+  "generated_at_utc": "2026-08-13T08:17:57.722Z",
+  "ctxMarket": "Attention is focused on Solana’s network stability after a routing bug at a major data center nearly triggered a network freeze, knocking 90 validators and almost 29% of staked SOL offline. Despite this, Solana maintained finality and transaction processing, while price commentary centers on technical pressure following a recent pullback.",
+  "ctxTalking": "• Solana’s resilience during a near-freeze event caused by a routing bug at a hosting provider\n• The Foundation’s response and assurances about uninterrupted block production\n• MoneyGram’s launch of fiat ramps for Solana builders",
+  "ctxMatters": "Solana’s ability to maintain finality despite validator outages is under scrutiny, with the incident highlighting risks from centralized infrastructure. Builders are watching for reliability signals, while MoneyGram’s integration could expand global fiat on/off-ramps for Solana projects. Network upgrades continue, but stability remains a key concern.",
+  "ctxSignal": "Signal: The network’s near-miss with a freeze threshold and ongoing infrastructure upgrades.\nNoise: Short-term price speculation tied to technical chart patterns.",
+  "ctxGlossary": "Finality — The point at which a blockchain transaction is considered irreversible.\nValidator — A node that helps secure the network by confirming transactions and producing blocks.",
   "readMore": [
     {
-      "title": "Bitwise cuts 14% of staff while still expecting growth",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth"
+      "title": "Solana outage knocks 90 validators offline – Was the network at risk?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-outage-knocks-90-validators-offline-was-the-network-at-risk"
     },
     {
       "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
@@ -18,7 +18,7 @@
       "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality"
     },
     {
-      "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+      "title": "Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundation says it held up under stress.",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says"
     }
