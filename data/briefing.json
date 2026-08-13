@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "APPS",
+      "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
+      "category": "APPS",
+      "source": "Decrypt",
+      "date": "2026-08-13",
+      "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
+      "whyYouShouldCare": "The introduction of advanced AI models by major tech companies could enhance Solana's ecosystem by attracting more developers and innovative applications."
+    },
+    {
+      "type": "APPS",
+      "title": "Solana treasury company shutters its SOL accelerator as a $27 million quarterly reversal forces deep cuts",
+      "category": "APPS",
+      "source": "CryptoSlate",
+      "date": "2026-08-13",
+      "url": "https://cryptoslate.com/solana-treasury-company-shutters-its-sol-accelerator-as-a-27-million-quarterly-reversal-forces-deep-cuts",
+      "whyYouShouldCare": "The closure of Solana's accelerator due to significant financial losses raises concerns about the project's sustainability and its impact on developer engagement."
+    },
+    {
       "type": "RISK",
       "title": "Solana outage knocks 90 validators offline – Was the network at risk?",
       "category": "RISK",
       "source": "AMB Crypto",
       "date": "2026-08-13",
       "url": "https://ambcrypto.com/solana-outage-knocks-90-validators-offline-was-the-network-at-risk",
-      "whyYouShouldCare": "The recent outage affecting 90 validators raises concerns about Solana's network stability and its implications for user confidence and ecosystem growth."
-    },
-    {
-      "type": "APPS",
-      "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
-      "category": "APPS",
-      "source": "Decrypt",
-      "date": "2026-08-12",
-      "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
-      "whyYouShouldCare": "The routing bug that nearly compromised finality highlights potential vulnerabilities in Solana's infrastructure, which could impact transaction reliability and user trust."
-    },
-    {
-      "type": "ECOSYSTEM",
-      "title": "MoneyGram Ramps launches on Solana",
-      "category": "ECOSYSTEM",
-      "source": "Solana News",
-      "date": "2026-08-11",
-      "url": "https://solana.com/news/moneygram-ramps",
-      "whyYouShouldCare": "MoneyGram's integration with Solana enhances the ecosystem's utility, potentially increasing transaction volume and attracting new users to the platform."
+      "whyYouShouldCare": "The recent outage affecting 90 validators highlights potential vulnerabilities in Solana's network, which could undermine user confidence and ecosystem stability."
     }
   ]
 }

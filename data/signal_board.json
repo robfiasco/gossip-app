@@ -1,12 +1,17 @@
 {
   "date": "2026-08-13",
-  "generated_at_utc": "2026-08-13T08:17:57.722Z",
-  "ctxMarket": "Attention is focused on Solana’s network stability after a routing bug at a major data center nearly triggered a network freeze, knocking 90 validators and almost 29% of staked SOL offline. Despite this, Solana maintained finality and transaction processing, while price commentary centers on technical pressure following a recent pullback.",
-  "ctxTalking": "• Solana’s resilience during a near-freeze event caused by a routing bug at a hosting provider\n• The Foundation’s response and assurances about uninterrupted block production\n• MoneyGram’s launch of fiat ramps for Solana builders",
-  "ctxMatters": "Solana’s ability to maintain finality despite validator outages is under scrutiny, with the incident highlighting risks from centralized infrastructure. Builders are watching for reliability signals, while MoneyGram’s integration could expand global fiat on/off-ramps for Solana projects. Network upgrades continue, but stability remains a key concern.",
-  "ctxSignal": "Signal: The network’s near-miss with a freeze threshold and ongoing infrastructure upgrades.\nNoise: Short-term price speculation tied to technical chart patterns.",
-  "ctxGlossary": "Finality — The point at which a blockchain transaction is considered irreversible.\nValidator — A node that helps secure the network by confirming transactions and producing blocks.",
+  "generated_at_utc": "2026-08-13T19:54:53.088Z",
+  "ctxMarket": "Attention is focused on Solana’s network stability after a routing bug nearly compromised finality, and on financial pressures leading to major operational cuts at a Solana treasury company. New product launches and integrations, such as MoneyGram Ramps and Jupiter Lend v2, are also drawing interest.",
+  "ctxTalking": "• Solana’s recent outage and how close it came to losing network finality\n• Deep cost-cutting and the shutdown of a SOL accelerator by a treasury company after a $27 million quarterly reversal\n• New integrations like MoneyGram Ramps and Jupiter Lend v2 expanding Solana’s ecosystem",
+  "ctxMatters": "Network reliability remains under scrutiny, especially after a bug took nearly 29% of staked SOL offline. Financial stress at ecosystem companies may impact project funding and development pace. Meanwhile, infrastructure and product launches signal ongoing efforts to broaden Solana’s use cases and global reach.",
+  "ctxSignal": "Signal: The near-loss of finality and treasury company cuts highlight real operational and technical risks.\nNoise: Speculative chart-based price targets for SOL lack direct connection to current network or ecosystem events.",
+  "ctxGlossary": "Finality — The point at which blockchain transactions are considered irreversible\nValidator — A network participant responsible for confirming transactions and securing the blockchain",
   "readMore": [
+    {
+      "title": "Solana treasury company shutters its SOL accelerator as a $27 million quarterly reversal forces deep cuts",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solana-treasury-company-shutters-its-sol-accelerator-as-a-27-million-quarterly-reversal-forces-deep-cuts"
+    },
     {
       "title": "Solana outage knocks 90 validators offline – Was the network at risk?",
       "source": "AMB Crypto",
@@ -16,11 +21,6 @@
       "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
       "source": "Decrypt",
       "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality"
-    },
-    {
-      "title": "Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundation says it held up under stress.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says"
     }
   ]
 }
