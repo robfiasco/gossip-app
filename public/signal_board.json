@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-13",
-  "generated_at_utc": "2026-08-13T19:54:53.088Z",
-  "ctxMarket": "Attention is focused on Solana’s network stability after a routing bug nearly compromised finality, and on financial pressures leading to major operational cuts at a Solana treasury company. New product launches and integrations, such as MoneyGram Ramps and Jupiter Lend v2, are also drawing interest.",
-  "ctxTalking": "• Solana’s recent outage and how close it came to losing network finality\n• Deep cost-cutting and the shutdown of a SOL accelerator by a treasury company after a $27 million quarterly reversal\n• New integrations like MoneyGram Ramps and Jupiter Lend v2 expanding Solana’s ecosystem",
-  "ctxMatters": "Network reliability remains under scrutiny, especially after a bug took nearly 29% of staked SOL offline. Financial stress at ecosystem companies may impact project funding and development pace. Meanwhile, infrastructure and product launches signal ongoing efforts to broaden Solana’s use cases and global reach.",
-  "ctxSignal": "Signal: The near-loss of finality and treasury company cuts highlight real operational and technical risks.\nNoise: Speculative chart-based price targets for SOL lack direct connection to current network or ecosystem events.",
-  "ctxGlossary": "Finality — The point at which blockchain transactions are considered irreversible\nValidator — A network participant responsible for confirming transactions and securing the blockchain",
+  "date": "2026-08-14",
+  "generated_at_utc": "2026-08-14T08:12:49.256Z",
+  "ctxMarket": "Attention is on institutional moves and infrastructure developments, with several headlines focused on treasury management and tokenization experiments. Technical stability and new product launches are also in focus following a recent routing bug incident.",
+  "ctxTalking": "• Bitwise is considering tokenizing its Solana staking ETF shares through Superstate, potentially changing how ETF shares are held and transferred.\n• Multicoin has exited a major Solana treasury company amid financial stress and operational cutbacks, including the closure of its SOL accelerator.\n• A recent routing bug nearly impacted Solana’s network finality, highlighting ongoing infrastructure risks.",
+  "ctxMatters": "Institutional interest in tokenized ETFs could influence how traditional finance interacts with Solana. Treasury management challenges and leadership exits may affect funding and ecosystem stability. Technical incidents like the routing bug underscore the importance of network reliability for users and builders.",
+  "ctxSignal": "Signal: Institutional experiments with tokenization and treasury exits reflect real shifts in Solana’s ecosystem structure.\nNoise: Short-term price speculation around bullish chart patterns lacks direct connection to current ecosystem developments.",
+  "ctxGlossary": "Tokenization — Converting traditional financial assets into blockchain-based tokens.\nFinality — The point at which a blockchain transaction is irreversible and confirmed.",
   "readMore": [
     {
-      "title": "Solana treasury company shutters its SOL accelerator as a $27 million quarterly reversal forces deep cuts",
+      "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
+      "source": "The Block",
+      "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790"
+    },
+    {
+      "title": "Multicoin exits the $1.65 billion Solana treasury company it helped launch eight months ago",
       "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/solana-treasury-company-shutters-its-sol-accelerator-as-a-27-million-quarterly-reversal-forces-deep-cuts"
+      "url": "https://cryptoslate.com/multicoin-exits-the-1-65-billion-solana-treasury-company-it-helped-launch-eight-months-ago"
     },
     {
-      "title": "Solana outage knocks 90 validators offline – Was the network at risk?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-outage-knocks-90-validators-offline-was-the-network-at-risk"
-    },
-    {
-      "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
+      "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream",
       "source": "Decrypt",
-      "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality"
+      "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream"
     }
   ]
 }
