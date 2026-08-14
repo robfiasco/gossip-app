@@ -1,26 +1,26 @@
 {
   "date": "2026-08-14",
-  "generated_at_utc": "2026-08-14T08:12:49.256Z",
-  "ctxMarket": "Attention is on institutional moves and infrastructure developments, with several headlines focused on treasury management and tokenization experiments. Technical stability and new product launches are also in focus following a recent routing bug incident.",
-  "ctxTalking": "• Bitwise is considering tokenizing its Solana staking ETF shares through Superstate, potentially changing how ETF shares are held and transferred.\n• Multicoin has exited a major Solana treasury company amid financial stress and operational cutbacks, including the closure of its SOL accelerator.\n• A recent routing bug nearly impacted Solana’s network finality, highlighting ongoing infrastructure risks.",
-  "ctxMatters": "Institutional interest in tokenized ETFs could influence how traditional finance interacts with Solana. Treasury management challenges and leadership exits may affect funding and ecosystem stability. Technical incidents like the routing bug underscore the importance of network reliability for users and builders.",
-  "ctxSignal": "Signal: Institutional experiments with tokenization and treasury exits reflect real shifts in Solana’s ecosystem structure.\nNoise: Short-term price speculation around bullish chart patterns lacks direct connection to current ecosystem developments.",
-  "ctxGlossary": "Tokenization — Converting traditional financial assets into blockchain-based tokens.\nFinality — The point at which a blockchain transaction is irreversible and confirmed.",
+  "generated_at_utc": "2026-08-14T19:45:47.751Z",
+  "ctxMarket": "Attention is on institutional involvement with Solana, including ETF developments and major banks enabling crypto trading. Fee structure changes and tokenization experiments are also in focus.",
+  "ctxTalking": "• Israel’s largest bank, Bank Leumi, will enable bitcoin, ether, and solana trading for customers starting in early 2027.\n• Solana’s proposed fee overhaul aims to increase SOL burn and make high-resource transactions more expensive.\n• Bitwise is exploring tokenizing its Solana staking ETF shares in partnership with Superstate.",
+  "ctxMatters": "Bank Leumi’s move signals growing mainstream access to Solana alongside bitcoin and ether. The fee overhaul could impact transaction costs and network economics, especially for resource-intensive apps. Tokenized ETF shares may expand how traditional financial products interact with Solana’s ecosystem.",
+  "ctxSignal": "Signal: Institutional adoption and infrastructure changes are shaping Solana’s role in mainstream finance.\nNoise: Speculation on short-term price action tied to ETF developments without clear supporting data.",
+  "ctxGlossary": "ETF — Exchange-traded fund, a tradable investment product holding assets like crypto.\nTokenization — Converting ownership of real-world or traditional assets into blockchain-based tokens.",
   "readMore": [
     {
-      "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
+      "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped"
+    },
+    {
+      "title": "Israel’s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
       "source": "The Block",
-      "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790"
+      "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868"
     },
     {
-      "title": "Multicoin exits the $1.65 billion Solana treasury company it helped launch eight months ago",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/multicoin-exits-the-1-65-billion-solana-treasury-company-it-helped-launch-eight-months-ago"
-    },
-    {
-      "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream"
+      "title": "Israel’s largest bank to offer crypto trading with Galaxy",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading"
     }
   ]
 }
