@@ -1,12 +1,17 @@
 {
   "date": "2026-08-15",
-  "generated_at_utc": "2026-08-15T07:27:03.849Z",
-  "ctxMarket": "Attention is on institutional moves and Solana’s network upgrades. Recent price declines have impacted some crypto ETF holdings, but infrastructure and mainstream adoption developments are in focus.",
-  "ctxTalking": "• Israel’s largest bank, Bank Leumi, will enable bitcoin, ether, and solana trading for customers via Galaxy starting in 2027.\n• Solana’s proposed fee overhaul aims to increase SOL burn and adjust costs based on transaction resource usage.\n• Bitwise is considering tokenizing its Solana staking ETF shares through a Superstate partnership.",
-  "ctxMatters": "Bank Leumi’s move signals growing mainstream access to Solana alongside bitcoin and ether. Solana’s fee changes could affect user costs and network economics, especially for high-resource applications. Tokenized ETF shares may expand how institutional investors interact with Solana-based products.",
-  "ctxSignal": "Signal: Institutional adoption and network-level changes are shaping Solana’s ecosystem and user experience.\nNoise: Short-term price fluctuations in ETF holdings without clear links to broader Solana fundamentals.",
-  "ctxGlossary": "SOL burn — The permanent removal of SOL tokens from circulation, often to manage supply or incentivize network behavior.\nTokenized ETF — An exchange-traded fund whose shares exist as digital tokens on a blockchain.",
+  "generated_at_utc": "2026-08-15T19:19:35.546Z",
+  "ctxMarket": "Attention is on Solana’s treasury management and upcoming fee changes, as well as institutional adoption through new trading channels. Price moves are being discussed in relation to endowment exposure and ETF performance.",
+  "ctxTalking": "• Solana’s treasury sold equity for $12M cash despite earning $2.5M in staking rewards\n• Israel’s largest bank will enable direct Solana trading for customers in early 2027\n• Solana’s proposed fee overhaul targets resource-heavy transactions and increases SOL burn",
+  "ctxMatters": "Solana’s treasury actions highlight the difference between staking rewards and operational liquidity. Institutional access is expanding, with major banks and ETF providers exploring Solana products. The fee overhaul could impact user costs and network economics, affecting both developers and holders.",
+  "ctxSignal": "Signal: Institutional adoption and treasury management are shaping Solana’s ecosystem and perception.\nNoise: Speculation about Solana becoming the “everything chain” lacks immediate, concrete developments.",
+  "ctxGlossary": "Staking rewards — Earnings from helping secure the network by holding and validating SOL.\nSOL burn — Permanent removal of SOL tokens from circulation, often to reduce supply.\nTokenized ETF — An investment fund whose shares are represented as blockchain tokens.",
   "readMore": [
+    {
+      "title": "Solana treasury earns $2.5M in staking rewards but had to sell equity to raise $12M in cash for operations",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solana-treasury-earns-2-5m-in-staking-rewards-but-had-to-sell-equity-to-raise-12m-in-cash-for-operations"
+    },
     {
       "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
       "source": "Cointelegraph",
@@ -16,11 +21,6 @@
       "title": "Israel’s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
       "source": "The Block",
       "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868"
-    },
-    {
-      "title": "Israel’s largest bank to offer crypto trading with Galaxy",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading"
     }
   ]
 }

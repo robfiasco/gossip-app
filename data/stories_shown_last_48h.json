@@ -1,25 +1,11 @@
 [
   {
-    "id": "6daac0906e310f701c15c62fb68ca1616332bef1",
-    "title": "Signal Board Summary 2026-08-15",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-08-15T07:27:03.885Z",
-    "lastSeenAt": "2026-08-15T07:27:03.885Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "ff173878fc516a4b973513be92a354ebaadbad90",
     "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
     "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
     "source": "The Block",
     "firstSeenAt": "2026-08-14T08:12:39.271Z",
-    "lastSeenAt": "2026-08-15T07:26:58.115Z",
+    "lastSeenAt": "2026-08-15T19:19:27.111Z",
     "sectionShown": "briefing",
     "topicTags": [
       "bitwise",
@@ -30,6 +16,62 @@
       "superstate",
       "partnership",
       "shares"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "c2c731680262a6417137eb460dd4c46bbf0015fb",
+    "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
+    "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-08-14T19:45:38.626Z",
+    "lastSeenAt": "2026-08-15T19:19:27.111Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "dartmouth",
+      "endowment",
+      "crypto",
+      "exposure",
+      "drops",
+      "amid",
+      "falling",
+      "prices"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "f2b25dc8608e962a4e061a62ad64e21dfd383a74",
+    "title": "Solana treasury earns $2.5M in staking rewards but had to sell equity to raise $12M in cash for operations",
+    "url": "https://cryptoslate.com/solana-treasury-earns-2-5m-in-staking-rewards-but-had-to-sell-equity-to-raise-12m-in-cash-for-operations",
+    "source": "CryptoSlate",
+    "firstSeenAt": "2026-08-15T19:19:27.109Z",
+    "lastSeenAt": "2026-08-15T19:19:27.109Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "treasury",
+      "earns",
+      "staking",
+      "rewards",
+      "sell",
+      "equity",
+      "raise"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "6daac0906e310f701c15c62fb68ca1616332bef1",
+    "title": "Signal Board Summary 2026-08-15",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-08-15T07:27:03.885Z",
+    "lastSeenAt": "2026-08-15T07:27:03.885Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -72,27 +114,6 @@
       "resource",
       "hogs",
       "proposed"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "c2c731680262a6417137eb460dd4c46bbf0015fb",
-    "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
-    "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped",
-    "source": "Cointelegraph",
-    "firstSeenAt": "2026-08-14T19:45:38.626Z",
-    "lastSeenAt": "2026-08-14T19:45:38.626Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "dartmouth",
-      "endowment",
-      "crypto",
-      "exposure",
-      "drops",
-      "amid",
-      "falling",
-      "prices"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -240,48 +261,6 @@
       "models",
       "gemini",
       "flash"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "26ec1b6d3ab85506da900c9e211897efeeb42516",
-    "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
-    "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-08-12T19:59:46.220Z",
-    "lastSeenAt": "2026-08-13T08:17:49.808Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "routing",
-      "took",
-      "solana",
-      "losing",
-      "finality",
-      "malformed",
-      "default",
-      "route"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "34591e19c4590ded4932203afce0e9b1f4346113",
-    "title": "MoneyGram Ramps launches on Solana",
-    "url": "https://solana.com/news/moneygram-ramps",
-    "source": "Solana News",
-    "firstSeenAt": "2026-08-11T19:59:37.222Z",
-    "lastSeenAt": "2026-08-13T08:17:49.808Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "moneygram",
-      "ramps",
-      "launches",
-      "solana",
-      "gives",
-      "builders",
-      "cash",
-      "deposits"
     ],
     "majorUpdate": false,
     "updateReason": null

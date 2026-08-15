@@ -4,22 +4,13 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "INFRA",
-      "title": "Solana Changelog: August 13, 2026",
-      "category": "INFRA",
-      "source": "Solana News",
-      "date": "2026-08-13",
-      "url": "https://solana.com/news/solana-changelog-august-13-2026",
-      "whyYouShouldCare": "Updates in the Solana Changelog indicate ongoing infrastructure improvements that may enhance network performance and attract more developers."
-    },
-    {
       "type": "APPS",
-      "title": "Solana’s fee overhaul increases burn and makes resource hogs pay",
+      "title": "Solana treasury earns $2.5M in staking rewards but had to sell equity to raise $12M in cash for operations",
       "category": "APPS",
-      "source": "Cointelegraph",
-      "date": "2026-08-14",
-      "url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more",
-      "whyYouShouldCare": "The fee overhaul aims to increase token burn and penalize high-resource users, potentially improving SOL's scarcity and incentivizing efficient usage."
+      "source": "CryptoSlate",
+      "date": "2026-08-15",
+      "url": "https://cryptoslate.com/solana-treasury-earns-2-5m-in-staking-rewards-but-had-to-sell-equity-to-raise-12m-in-cash-for-operations",
+      "whyYouShouldCare": "Solana's treasury generating $2.5M in staking rewards indicates strong network participation, but reliance on equity sales for cash raises concerns about operational sustainability."
     },
     {
       "type": "APPS",
@@ -28,7 +19,16 @@
       "source": "The Block",
       "date": "2026-08-14",
       "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
-      "whyYouShouldCare": "Bitwise's potential tokenization of its Solana staking ETF could increase institutional interest and liquidity in the Solana ecosystem."
+      "whyYouShouldCare": "Bitwise's potential tokenization of its Solana staking ETF could enhance liquidity and attract institutional interest, bolstering Solana's ecosystem."
+    },
+    {
+      "type": "APPS",
+      "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
+      "category": "APPS",
+      "source": "Cointelegraph",
+      "date": "2026-08-14",
+      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped",
+      "whyYouShouldCare": "The Dartmouth endowment's $2M drop in crypto exposure reflects broader market pressures, which may impact investor sentiment towards Solana and its projects."
     }
   ]
 }
