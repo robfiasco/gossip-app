@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "INFRA",
+      "title": "Solana Changelog: August 13, 2026",
+      "category": "INFRA",
+      "source": "Solana News",
+      "date": "2026-08-13",
+      "url": "https://solana.com/news/solana-changelog-august-13-2026",
+      "whyYouShouldCare": "Updates in the Solana Changelog indicate ongoing infrastructure improvements that may enhance network performance and attract more developers."
+    },
+    {
       "type": "APPS",
-      "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
+      "title": "Solana’s fee overhaul increases burn and makes resource hogs pay",
       "category": "APPS",
       "source": "Cointelegraph",
       "date": "2026-08-14",
-      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped",
-      "whyYouShouldCare": "Dartmouth's reduced crypto exposure signals potential caution among institutional investors, which may impact liquidity and sentiment towards Solana and other cryptocurrencies."
+      "url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more",
+      "whyYouShouldCare": "The fee overhaul aims to increase token burn and penalize high-resource users, potentially improving SOL's scarcity and incentivizing efficient usage."
     },
     {
       "type": "APPS",
-      "title": "Israel’s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
+      "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
       "category": "APPS",
       "source": "The Block",
       "date": "2026-08-14",
-      "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
-      "whyYouShouldCare": "Israel's largest bank offering Solana trading enhances the asset's legitimacy and accessibility, potentially increasing user engagement and liquidity in the Solana ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Inside Bitwise’s tokenized Solana ETF plan and what comes next",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-08-14",
-      "url": "https://ambcrypto.com/inside-bitwises-tokenized-solana-etf-plan-and-what-comes-next",
-      "whyYouShouldCare": "Bitwise's plan for a tokenized Solana ETF could attract institutional capital, bolstering Solana's market positioning and expanding its investor base."
+      "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
+      "whyYouShouldCare": "Bitwise's potential tokenization of its Solana staking ETF could increase institutional interest and liquidity in the Solana ecosystem."
     }
   ]
 }

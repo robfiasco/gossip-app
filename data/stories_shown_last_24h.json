@@ -1,5 +1,82 @@
 [
   {
+    "id": "6daac0906e310f701c15c62fb68ca1616332bef1",
+    "title": "Signal Board Summary 2026-08-15",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-08-15T07:27:03.885Z",
+    "lastSeenAt": "2026-08-15T07:27:03.885Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "ff173878fc516a4b973513be92a354ebaadbad90",
+    "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
+    "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
+    "source": "The Block",
+    "firstSeenAt": "2026-08-14T08:12:39.271Z",
+    "lastSeenAt": "2026-08-15T07:26:58.115Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "bitwise",
+      "mulls",
+      "tokenizing",
+      "solana",
+      "staking",
+      "superstate",
+      "partnership",
+      "shares"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "a0170536a7a2753d0bdb09f7da14c45685dce78d",
+    "title": "Solana Changelog: August 13, 2026",
+    "url": "https://solana.com/news/solana-changelog-august-13-2026",
+    "source": "Solana News",
+    "firstSeenAt": "2026-08-15T07:26:58.114Z",
+    "lastSeenAt": "2026-08-15T07:26:58.114Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "changelog",
+      "august",
+      "2026",
+      "slot",
+      "times",
+      "250ms",
+      "testnet"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "55ad39ff4d3e8db85ee7ef13f5b363d97c502a9e",
+    "title": "Solana’s fee overhaul increases burn and makes resource hogs pay",
+    "url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more",
+    "source": "Cointelegraph",
+    "firstSeenAt": "2026-08-15T07:26:58.114Z",
+    "lastSeenAt": "2026-08-15T07:26:58.114Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "overhaul",
+      "increases",
+      "burn",
+      "makes",
+      "resource",
+      "hogs",
+      "proposed"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "c2c731680262a6417137eb460dd4c46bbf0015fb",
     "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
     "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped",
@@ -100,90 +177,6 @@
       "mainstream",
       "ventures",
       "founder"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "ff173878fc516a4b973513be92a354ebaadbad90",
-    "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
-    "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
-    "source": "The Block",
-    "firstSeenAt": "2026-08-14T08:12:39.271Z",
-    "lastSeenAt": "2026-08-14T08:12:39.271Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "bitwise",
-      "mulls",
-      "tokenizing",
-      "solana",
-      "staking",
-      "superstate",
-      "partnership",
-      "shares"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "d1f018a5d041eb10fe089077ef00241af6c43d80",
-    "title": "Solana outage knocks 90 validators offline – Was the network at risk?",
-    "url": "https://ambcrypto.com/solana-outage-knocks-90-validators-offline-was-the-network-at-risk",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-08-13T08:17:49.806Z",
-    "lastSeenAt": "2026-08-13T19:54:41.594Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "outage",
-      "knocks",
-      "validators",
-      "offline",
-      "network",
-      "risk",
-      "maintained"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "9b9d1100fb7a6e6fe84e6c6e3a978f117f748d9e",
-    "title": "Solana treasury company shutters its SOL accelerator as a $27 million quarterly reversal forces deep cuts",
-    "url": "https://cryptoslate.com/solana-treasury-company-shutters-its-sol-accelerator-as-a-27-million-quarterly-reversal-forces-deep-cuts",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-08-13T19:54:41.594Z",
-    "lastSeenAt": "2026-08-13T19:54:41.594Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "treasury",
-      "company",
-      "shutters",
-      "accelerator",
-      "million",
-      "quarterly",
-      "reversal"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "89757ca926da79578cd7b161cc5dfb06f26e4373",
-    "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
-    "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-08-13T19:54:41.593Z",
-    "lastSeenAt": "2026-08-13T19:54:41.593Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "google",
-      "openai",
-      "debut",
-      "super",
-      "fast",
-      "models",
-      "gemini",
-      "flash"
     ],
     "majorUpdate": false,
     "updateReason": null
