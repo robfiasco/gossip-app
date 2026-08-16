@@ -1,8 +1,26 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Crypto crash liquidations face massive data gap as public records contradict $18B Solana claim",
+      "category": "APPS",
+      "source": "CryptoSlate",
+      "date": "2026-08-15",
+      "url": "https://cryptoslate.com/crypto-crash-liquidations-face-massive-data-gap-as-public-records-contradict-18b-solana-claim",
+      "whyYouShouldCare": "Discrepancies in liquidation data could impact market confidence and transparency for Solana, affecting its liquidity and investor sentiment."
+    },
+    {
+      "type": "APPS",
+      "title": "Ethereum and Solana may become scarcer – THESE Grayscale projections say…",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-08-16",
+      "url": "https://ambcrypto.com/ethereum-and-solana-may-become-scarcer-these-grayscale-projections-say",
+      "whyYouShouldCare": "Grayscale's projections suggest potential scarcity for Ethereum and Solana, which could influence demand dynamics and price stability in their ecosystems."
+    },
     {
       "type": "APPS",
       "title": "Solana treasury earns $2.5M in staking rewards but had to sell equity to raise $12M in cash for operations",
@@ -10,25 +28,7 @@
       "source": "CryptoSlate",
       "date": "2026-08-15",
       "url": "https://cryptoslate.com/solana-treasury-earns-2-5m-in-staking-rewards-but-had-to-sell-equity-to-raise-12m-in-cash-for-operations",
-      "whyYouShouldCare": "Solana's treasury generating $2.5M in staking rewards indicates strong network participation, but reliance on equity sales for cash raises concerns about operational sustainability."
-    },
-    {
-      "type": "APPS",
-      "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
-      "category": "APPS",
-      "source": "The Block",
-      "date": "2026-08-14",
-      "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
-      "whyYouShouldCare": "Bitwise's potential tokenization of its Solana staking ETF could enhance liquidity and attract institutional interest, bolstering Solana's ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
-      "category": "APPS",
-      "source": "Cointelegraph",
-      "date": "2026-08-14",
-      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped",
-      "whyYouShouldCare": "The Dartmouth endowment's $2M drop in crypto exposure reflects broader market pressures, which may impact investor sentiment towards Solana and its projects."
+      "whyYouShouldCare": "Solana's treasury generating staking rewards while selling equity for cash highlights operational challenges, potentially affecting its liquidity and long-term sustainability."
     }
   ]
 }
