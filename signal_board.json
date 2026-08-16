@@ -1,21 +1,21 @@
 {
   "date": "2026-08-16",
-  "generated_at_utc": "2026-08-16T07:27:50.027Z",
-  "ctxMarket": "Attention is focused on Solana’s treasury management, fee structure changes, and institutional adoption. Recent volatility and liquidation data are under scrutiny, especially regarding the accuracy of reported figures.",
-  "ctxTalking": "• Solana’s treasury raised $12M in cash through equity sales despite earning $2.5M in staking rewards\n• Israel’s largest bank will enable direct trading of Solana, Bitcoin, and Ethereum for customers in early 2027\n• Solana’s proposed fee overhaul aims to increase SOL burn and charge more for resource-intensive transactions",
-  "ctxMatters": "Solana’s treasury strategy highlights the gap between staking rewards and operational funding needs. Institutional access through major banks could broaden Solana’s user base. The fee overhaul may impact network economics and user costs, with increased SOL burning potentially affecting supply dynamics.",
-  "ctxSignal": "Signal: Institutional adoption and protocol-level fee changes are shaping Solana’s ecosystem and economic model.\nNoise: Disputed liquidation figures and conflicting data around recent market crashes.",
-  "ctxGlossary": "Staking rewards — Earnings from participating in network validation.\nSOL burn — Permanent removal of SOL tokens from circulation, often through transaction fees.\nEquity financing — Raising cash by selling ownership stakes rather than tokens.",
+  "generated_at_utc": "2026-08-16T19:18:49.251Z",
+  "ctxMarket": "Attention is focused on institutional adoption and protocol-level changes for Solana. Recent ETF developments and fee structure proposals are drawing scrutiny, while price movement is being discussed in the context of endowment holdings and inflation projections.",
+  "ctxTalking": "• Israel’s largest bank will enable Solana trading for customers via Galaxy in early 2027\n• Solana’s proposed fee overhaul aims to increase token burn and penalize resource-heavy transactions\n• Grayscale’s staking ETFs for Solana and Ethereum will convert rewards to cash dividends, as both networks consider reducing staking yields",
+  "ctxMatters": "Institutional access to Solana could broaden user demographics and liquidity. Fee changes may impact the economics for developers and users, especially those running complex transactions. Adjustments to staking rewards and inflation could influence long-term supply dynamics and network participation.",
+  "ctxSignal": "Signal: Major banks integrating Solana trading and protocol-level fee/inflation changes are likely to shape network usage and perception.\nNoise: Speculation about long-term price support based solely on inflation projections without supporting data.",
+  "ctxGlossary": "Staking ETF — An exchange-traded fund that distributes staking rewards from crypto assets to shareholders.\nToken Burn — The permanent removal of tokens from circulation, often to reduce supply.\nResource-heavy Transaction — A blockchain transaction that consumes significant network resources, incurring higher fees under new proposals.",
   "readMore": [
+    {
+      "title": "Inside the Solana reinsurance sale where parent company Oxbridge supplied 95% of public token demand",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/t20-and-t42-suranceplus-raise-oxbridge"
+    },
     {
       "title": "Ethereum and Solana may become scarcer – THESE Grayscale projections say…",
       "source": "AMB Crypto",
       "url": "https://ambcrypto.com/ethereum-and-solana-may-become-scarcer-these-grayscale-projections-say"
-    },
-    {
-      "title": "Crypto crash liquidations face massive data gap as public records contradict $18B Solana claim",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/crypto-crash-liquidations-face-massive-data-gap-as-public-records-contradict-18b-solana-claim"
     },
     {
       "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
