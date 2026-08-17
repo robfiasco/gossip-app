@@ -1,26 +1,26 @@
 {
   "date": "2026-08-17",
-  "generated_at_utc": "2026-08-17T07:49:44.604Z",
-  "ctxMarket": "Market attention is on Solana’s expanding use cases, especially in tokenized assets and infrastructure changes. Major crypto assets, including Solana, are down over the past week despite a brief rally in Asian trading hours.",
-  "ctxTalking": "• Solana’s addition of $378M in tokenized Treasury bills and the broader trend of on-chain asset tokenization\n• Israel’s largest bank partnering with Galaxy to offer Solana, Bitcoin, and Ether trading to retail customers\n• Solana’s proposed fee overhaul targeting resource-intensive transactions and increasing SOL burn",
-  "ctxMatters": "Solana’s growing role in tokenized real-world assets could attract institutional and DeFi interest. The bank partnership signals increasing mainstream access to Solana. Fee structure changes may impact network usage patterns and SOL supply dynamics.",
-  "ctxSignal": "Signal: Institutional adoption and network upgrades are driving attention to Solana’s evolving ecosystem.\nNoise: Short-term price moves not clearly linked to these developments.",
-  "ctxGlossary": "Tokenized T-bills — Digital representations of U.S. Treasury bills issued on a blockchain\nSOL burn — Permanent removal of SOL tokens from circulation, reducing total supply",
+  "generated_at_utc": "2026-08-17T19:24:35.775Z",
+  "ctxMarket": "Attention is on Solana’s Agave 4.2 upgrade, with key mainnet features like slot-time gates and larger transactions still pending activation. Solana’s Pump.fun token is leading crypto market gainers, while major coins, including SOL, are down over the week.",
+  "ctxTalking": "• Pending activation of Agave 4.2’s mainnet feature gates and rent cut\n• Solana’s Pump.fun token outpacing broader market gains\n• Israel’s largest bank integrating Solana trading for customers",
+  "ctxMatters": "Delayed mainnet features may impact developer planning and network performance expectations. Pump.fun’s momentum highlights ongoing interest in Solana-native projects despite broader market softness. Institutional adoption, such as Bank Leumi’s move, signals growing mainstream access to Solana.",
+  "ctxSignal": "Signal: Agave 4.2’s pending features and MoneyGram’s global ramp integration for Solana builders.\nNoise: Short-term price moves not tied to protocol or adoption changes.",
+  "ctxGlossary": "Feature gate — A mechanism controlling the rollout of new blockchain features.\nGolden cross — A bullish chart pattern where a short-term moving average crosses above a long-term one.",
   "readMore": [
     {
-      "title": "Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week",
+      "title": "Solana’s Agave 4.2 activation target arrives with mainnet feature gates still pending",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/agave-4-2-activation-target-unconfirmed"
+    },
+    {
+      "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross"
+    },
+    {
+      "title": "Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week"
-    },
-    {
-      "title": "Solana adds $378M in tokenized T-bills – Is Ethereum losing ground?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-adds-378m-in-tokenized-t-bills-is-ethereum-losing-ground"
-    },
-    {
-      "title": "Inside the Solana reinsurance sale where parent company Oxbridge supplied 95% of public token demand",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/t20-and-t42-suranceplus-raise-oxbridge"
     }
   ]
 }
