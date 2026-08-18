@@ -1,8 +1,17 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Solana treasury firm cuts shares 700-for-1 but leaves room for nearly 100 billion more",
+      "category": "APPS",
+      "source": "CryptoSlate",
+      "date": "2026-08-17",
+      "url": "https://cryptoslate.com/solana-treasury-firm-cuts-shares-700-for-1-but-leaves-room-for-nearly-100-billion-more",
+      "whyYouShouldCare": "The significant share reduction indicates a strategic move to optimize Solana's treasury, potentially enhancing liquidity and future funding opportunities."
+    },
     {
       "type": "APPS",
       "title": "Solana’s Agave 4.2 activation target arrives with mainnet feature gates still pending",
@@ -10,7 +19,7 @@
       "source": "CryptoSlate",
       "date": "2026-08-17",
       "url": "https://cryptoslate.com/agave-4-2-activation-target-unconfirmed",
-      "whyYouShouldCare": "The delayed feature gates for Agave 4.2 could impact user adoption and overall functionality within the Solana ecosystem."
+      "whyYouShouldCare": "Pending mainnet feature gates for Agave 4.2 could impact user adoption and ecosystem growth, highlighting the need for timely updates in Solana's development."
     },
     {
       "type": "APPS",
@@ -19,16 +28,7 @@
       "source": "Decrypt",
       "date": "2026-08-17",
       "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
-      "whyYouShouldCare": "The performance of Solana’s Pump Token, highlighted by a golden cross, may indicate growing investor confidence and increased liquidity in the Solana market."
-    },
-    {
-      "type": "ECOSYSTEM",
-      "title": "Binance to plan UK relaunch with FCA license application: Report",
-      "category": "ECOSYSTEM",
-      "source": "Cointelegraph",
-      "date": "2026-08-17",
-      "url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license",
-      "whyYouShouldCare": "Binance's potential UK relaunch could enhance trading volume and liquidity for Solana as it expands its ecosystem presence."
+      "whyYouShouldCare": "The Pump Token's performance suggests increased investor interest in Solana projects, which may positively influence overall market sentiment and liquidity for SOL."
     }
   ]
 }
