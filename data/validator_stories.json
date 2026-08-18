@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-08-17T13:34:57.198Z",
+  "generated_at": "2026-08-18T13:37:49.444Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1786973697198",
+      "id": "story_onchain-marketmover_1787060269444",
       "source": "onchain-marketmover",
-      "title": "Portal (PORTAL) Jumps 39% in Active Trading Window",
-      "type": "critical",
+      "title": "Unitas (UP) Drops 17.9%: Price Moves Within Recent Range",
+      "type": "alpha",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-08-17T13:34:57.198Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/portal-2",
+      "timestamp": "2026-08-18T13:37:49.444Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/unitas",
       "metrics": {
-        "token": "Portal",
-        "symbol": "PORTAL",
-        "priceUsd": 0.01746042,
-        "marketCapUsd": 15604425,
-        "change24h": 39.6,
-        "change7d": 52.4
+        "token": "Unitas",
+        "symbol": "UP",
+        "priceUsd": 0.334721,
+        "marketCapUsd": 42155411,
+        "change24h": -17.9,
+        "change7d": -8.7
       },
       "trend": {
         "streakDays": 1,
-        "streakDirection": "up",
-        "cumulativeChange": 39.6,
+        "streakDirection": "down",
+        "cumulativeChange": -17.9,
         "isLargestInWindow": false,
         "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Portal (PORTAL) surged 39.6% in the past 24 hours, reaching $0.0175 with trading volume spiking to $127.7M.",
-        "story": "Portal (PORTAL), a Solana ecosystem token, posted a sharp 39.6% price increase in the last 24 hours, now trading at $0.0175. This move pushed its market cap to $15.6 million, ranking it #903 by size, while daily trading volume soared to $127.7 million. The price action stands out for its scale but remains within the recent range tracked over the last day, suggesting this is not an outlier or the start of a new trend—at least for now.\n\n### What's Happening\nPORTAL’s price and volume both saw significant jumps over the past day, with the token gaining over 50% on the week. Despite the surge, on-chain data indicates that this move is not part of a multi-day streak or a record-breaking run. No unusual patterns or outsized fund flows have been detected beyond the current window.\n\nRecent headlines reference a 'Super Portal' launch on Solana with Chainlink backing, but these appear to relate to a different project or a broader ecosystem development, not directly to the PORTAL token itself. As such, the immediate cause for the price jump remains unclear from available on-chain and news data.\n\n### Why It Matters\nA near-40% daily move with high trading volume puts PORTAL on the radar for traders and protocol watchers, especially given the token’s relatively modest market cap. Such activity can signal renewed interest or speculation, even if the underlying catalyst is not immediately obvious.\n\nThe lack of a clear news driver means this could be a function of short-term trading dynamics, liquidity shifts, or internal ecosystem flows. For Solana ecosystem participants, sudden activity in smaller tokens like PORTAL can sometimes foreshadow broader sentiment shifts or upcoming announcements, but there is no direct evidence of that here.\n\n### The Risk or Debate\nThe main risk is opacity: with no confirmed catalyst, the sustainability of this move is uncertain. High volume and price volatility in lower-cap tokens can attract both opportunistic trading and manipulation. Without a clear narrative or event, sharp reversals are possible if momentum fades or if traders exit positions as quickly as they entered.\n\nAdditionally, the lack of a trend signal means this could be a one-off spike rather than the start of a sustained run. For those tracking ecosystem health, it’s important to differentiate between organic growth and isolated volatility.\n\n### What To Watch\nWatch for follow-through in both price and volume over the next 48 hours. If PORTAL holds above $0.0175 or sees another day of $100M+ trading volume, it may indicate persistent interest or a delayed announcement. Conversely, a rapid retrace would suggest the move was speculative and short-lived. Any official updates, listings, or protocol integrations tied directly to PORTAL would also be worth monitoring for confirmation of a fundamental shift.",
+        "signal": "Unitas (UP) fell 17.9% in the past 24 hours to $0.3347, with no unusual trend detected.",
+        "story": "Unitas (UP), a Solana ecosystem token, saw its price slide 17.9% over the last 24 hours, now trading at $0.3347. The token’s market cap stands at $42.2 million, placing it at rank #465, with a notable $20.3 million in daily trading volume. Despite the sharp drop, on-chain data suggests this move is within the recent range and does not mark a new trend or outlier event.\n\n### What's Happening\nUP’s price decline is significant for a single day, but it comes without any clear catalyst or headline event. The 24-hour volume is substantial relative to the token’s market cap, indicating active trading, but there’s no evidence of a sustained sell-off or panic. Over the past week, UP is down 8.7%, so this latest move extends a short-term downtrend but remains within the typical volatility window for the asset.\n\nNo unusual streaks or record-breaking moves have been detected on-chain. This suggests that while the drop is sharp, it’s not outside the norm for UP’s trading history over the last several days. There are also no recent headlines or protocol-specific news items that would explain the move, pointing to broader market dynamics or routine profit-taking rather than a project-specific issue.\n\n### Why It Matters\nA nearly 18% daily move is notable for any token, especially one with a mid-sized market cap and active trading. Such shifts can test liquidity and trader confidence, especially if they occur without clear news. For Solana ecosystem watchers, UP’s price action is a reminder of the volatility that can persist even when there’s no obvious trigger.\n\nThe absence of a clear catalyst means that traders and users are left to interpret the move through the lens of market structure and sentiment, rather than fundamentals or protocol changes. This can sometimes lead to overreactions or mispricing, especially in thinly traded assets. The fact that trading volume remains high suggests that there is still significant interest in UP, even as the price moves lower.\n\n### The Risk or Debate\nThe main risk here is uncertainty about what’s driving the price action. Without a clear cause, it’s difficult to assess whether this is a temporary move or the start of a larger trend. If liquidity dries up or confidence erodes further, UP could see additional volatility. Conversely, if this is just routine volatility, the price could stabilize quickly.\n\nAnother risk is that sudden price drops can trigger automated trading or liquidations, which may amplify short-term moves. For holders and ecosystem participants, the lack of transparency around the cause of the drop may raise questions about underlying token dynamics or market structure.\n\n### What To Watch\nThe key thing to watch is whether UP’s price can recover above the $0.35 level in the next 48 hours. Sustained trading volume and price stabilization would suggest that the move was a temporary shakeout rather than the start of a deeper decline. Any new headlines, protocol updates, or on-chain activity spikes could also provide more context for future moves.\n\nFor now, the signal is a sharp but not unprecedented drop, with no clear external trigger. Monitoring price and volume in the coming days will be critical to understanding whether this is a blip or something more structural.",
         "takeaways": [
-          "PORTAL surged nearly 40% in 24 hours, with trading volume exceeding $127 million.",
-          "No clear news or on-chain catalyst explains the move, and it is not part of a multi-day trend.",
-          "The jump could be driven by short-term trading dynamics rather than a fundamental event."
+          "Unitas (UP) dropped 17.9% in 24 hours, now at $0.3347.",
+          "No unusual trend or specific news explains the move.",
+          "High trading volume suggests active interest despite the decline."
         ]
       },
-      "watchTrigger": "PORTAL maintains daily trading volume above $100M for the next 48 hours.",
+      "watchTrigger": "UP price recovery above $0.35 within the next 48 hours.",
       "riskLevel": "medium",
-      "narrativeStrength": 6.9
+      "narrativeStrength": 4.9
     },
     {
-      "id": "story_onchain-fundflow_1786973686968",
+      "id": "story_onchain-fundflow_1787060256682",
       "source": "onchain-fundflow",
-      "title": "Tothemoon TVL Jumps Nearly 28% to $5.5M",
-      "type": "critical",
+      "title": "KuCoin TVL Jumps 18% to $2.92B Across Chains",
+      "type": "alpha",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-08-17T13:34:46.968Z",
-      "sourceUrl": "https://tothemoon.com",
+      "timestamp": "2026-08-18T13:37:36.682Z",
+      "sourceUrl": "https://www.kucoin.com",
       "metrics": {
-        "protocol": "Tothemoon",
-        "tvlUsd": 5524273.470015113,
-        "change1d": 27.85105684026503,
-        "change7d": 27.79069099759988,
+        "protocol": "KuCoin",
+        "tvlUsd": 2919931744.9405756,
+        "change1d": 18.490661624820163,
+        "change7d": 18.228844112520733,
         "tokenSymbol": null,
         "tokenPriceUsd": null
       },
       "trend": {
         "streakDays": 1,
         "streakDirection": "up",
-        "cumulativeChange": 27.85,
+        "cumulativeChange": 18.49,
         "isLargestInWindow": false,
         "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Tothemoon’s total value locked rose 27.9% in the past 24 hours, reaching $5.5 million.",
-        "story": "Tothemoon, a centralized exchange protocol operating across multiple chains, saw its total value locked (TVL) climb by nearly 28% in the last day. The protocol now holds $5.5 million, marking a substantial increase over the past 24 hours. This move stands out for its size, but it falls within the recent range of activity tracked for the protocol.\n\n### What's Happening\nThe sharp TVL increase signals a notable inflow of assets into Tothemoon across supported blockchains, including Tron, Ethereum, Binance, Bitcoin, Arbitrum, Polygon, Optimism, TON, Avalanche, and Solana. While the protocol does not have an associated token, it continues to attract deposits, suggesting users are finding value in its offering. There are no recent headlines or public announcements tied to Tothemoon that would explain this specific uptick, and on-chain data does not indicate an unusual multi-day streak or outlier event.\n\nThe growth appears to be a continuation of recent trends rather than a sudden, isolated spike. Over the past week, TVL has risen at a similar pace, reinforcing the idea that this is part of a broader pattern rather than a one-off event.\n\n### Why It Matters\nA nearly 28% TVL jump in a single day is significant, especially for a protocol without a native token to drive speculative inflows. This suggests that users may be moving assets to Tothemoon for its core services, rather than for incentives or yield farming. The protocol’s multi-chain presence also means that growth is not tied to a single ecosystem, but reflects broader user engagement across several major blockchains.\n\nFor the Solana ecosystem and others, this kind of cross-chain TVL movement can be a signal of shifting user preferences or emerging demand for centralized exchange services that bridge multiple networks. It may also indicate that users are seeking alternatives to more established platforms, or responding to changes in liquidity, fees, or user experience.\n\n### The Risk or Debate\nThe lack of a clear catalyst or public explanation for the TVL increase introduces some uncertainty. Without a token, the protocol’s growth is less likely to be driven by short-term speculation, but it also means there is less transparency around user incentives. If the inflows are concentrated from a small number of large deposits, the TVL could prove volatile.\n\nAdditionally, as a centralized exchange protocol, Tothemoon may face risks related to custody, security, or regulatory developments. Users and observers should be aware that rapid TVL changes, even if within recent norms, can sometimes precede shifts in user behavior or platform policy.\n\n### What To Watch\nThe next key signal will be whether Tothemoon’s TVL sustains above the $6 million mark in the coming days. A move past this level would suggest continued momentum, while a sharp reversal could indicate that the recent inflows were temporary or speculative.",
+        "signal": "KuCoin’s total value locked rose 18.5% in the past 24 hours, reaching $2.92 billion.",
+        "story": "KuCoin’s total value locked (TVL) climbed sharply in the last day, increasing by 18.5% to $2.92 billion. This move stands out given the protocol’s broad exposure across major blockchains, including Ethereum, Solana, Bitcoin, and several others. While the increase is notable, it falls within the recent range of activity for KuCoin and does not represent an outlier or the start of a new trend.\n\n### What's Happening\nKuCoin, a centralized exchange with deep integrations across multiple chains, has seen a substantial influx of assets over the past 24 hours. The TVL increase is consistent with the protocol’s recent week-long growth, which has also been positive, but the latest jump is the largest single-day change in the tracked period. There is no associated token driving this move, and no clear on-chain event or incentive program has been identified as the catalyst.\n\nRecent headlines mention KuCoin in the context of Solana price analysis and ETF inflows, but none directly explain the TVL surge. The cause appears to be organic, possibly reflecting shifting user preferences or capital flows between exchanges and chains, rather than a specific news event or product launch.\n\n### Why It Matters\nA near-20% TVL jump in a single day signals renewed user engagement with KuCoin, especially as the platform spans so many major chains. This kind of movement can indicate rising confidence in the exchange’s infrastructure or a response to broader market dynamics, such as traders reallocating assets for liquidity or yield opportunities.\n\nKuCoin’s multi-chain reach means that changes in its TVL can ripple across several ecosystems, impacting liquidity and trading conditions beyond just one network. The absence of a protocol token also means that TVL changes are less likely to be driven by speculative farming or incentive schemes, potentially reflecting more durable user activity.\n\nFor the broader DeFi and CEX landscape, KuCoin’s growth may signal increased competition for user assets, especially as users seek platforms that offer seamless access to multiple blockchains. The move could also reflect shifting sentiment about centralized exchanges versus on-chain protocols, depending on how users are allocating funds.\n\n### The Risk or Debate\nThe main uncertainty is the lack of a clear driver behind the TVL increase. Without an obvious catalyst, it’s difficult to assess whether this is a sustainable shift or a temporary reallocation of funds. Sudden TVL inflows can sometimes precede outflows, especially if driven by short-term strategies or arbitrage.\n\nAdditionally, while KuCoin’s broad chain support is a strength, it also exposes the platform to operational and regulatory risks across multiple jurisdictions. Users should be aware that centralized exchanges, even those with strong reputations, can face challenges that impact access to funds or services.\n\n### What To Watch\nThe key question is whether KuCoin can maintain or build on this TVL growth in the coming days. Sustained increases above the $3 billion mark would suggest a more durable trend, while a rapid reversal could indicate that the move was transitory. Watch for any official announcements from KuCoin or shifts in user activity on major chains that might clarify the source of these flows.",
         "takeaways": [
-          "Tothemoon’s TVL rose nearly 28% in 24 hours, reaching $5.5M.",
-          "No public announcements or headlines explain the recent inflow.",
-          "Growth is consistent with recent trends, not an outlier event."
+          "KuCoin TVL rose 18.5% in 24 hours, reaching $2.92B.",
+          "No clear catalyst or incentive program explains the move.",
+          "Sustained TVL above $3B would signal a more lasting trend."
         ]
       },
-      "watchTrigger": "Tothemoon TVL crossing above $6 million within the next 72 hours.",
+      "watchTrigger": "KuCoin TVL holding above $3 billion for 48 consecutive hours.",
       "riskLevel": "medium",
       "narrativeStrength": 6.2
     }
