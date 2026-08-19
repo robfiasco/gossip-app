@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "APPS",
+      "title": "Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms",
+      "category": "APPS",
+      "source": "The Block",
+      "date": "2026-08-18",
+      "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171",
+      "whyYouShouldCare": "The uncertain fate of the Clarity Act could impact regulatory clarity for Solana, affecting its adoption and ecosystem growth leading into the midterms."
+    },
+    {
+      "type": "INFRA",
+      "title": "Lowering Slot Time and Validators Economic",
+      "category": "INFRA",
+      "source": "Solana News",
+      "date": "2026-08-19",
+      "url": "https://solana.com/news/lowering-slot-time-and-validators-economic",
+      "whyYouShouldCare": "Adjustments to slot time and validator economics may enhance Solana's network efficiency, potentially attracting more developers and users to its ecosystem."
+    },
+    {
       "type": "MARKET",
       "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
       "category": "MARKET",
       "source": "Cointelegraph",
       "date": "2026-08-18",
       "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain",
-      "whyYouShouldCare": "The integration of FalconX and Interstice with Ethereum, Solana, and Robinhood Chain enhances cross-chain liquidity and could drive more users to the Solana ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-08-19",
-      "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
-      "whyYouShouldCare": "Solana's performance amid Bitcoin's stability suggests growing investor confidence, which may attract more liquidity and usage within its ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Yakovenko wants Solana to mint SOL to buy a company, but who would own it?",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-08-19",
-      "url": "https://cryptoslate.com/yakovenko-wants-solana-to-mint-sol-to-buy-a-company-but-who-would-own-it",
-      "whyYouShouldCare": "Yakovenko's proposal to mint SOL for acquisitions raises questions about governance and ownership, impacting Solana's structural dynamics and investor sentiment."
+      "whyYouShouldCare": "The integration of FalconX and Interstice with Ethereum, Solana, and Robinhood Chain could increase liquidity and cross-chain usage, benefiting Solana's market position."
     }
   ]
 }

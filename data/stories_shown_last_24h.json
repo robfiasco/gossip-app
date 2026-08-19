@@ -1,11 +1,25 @@
 [
   {
+    "id": "6f2ff366806f1839cce86baac3b22327f88d07cf",
+    "title": "Signal Board Summary 2026-08-19",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-08-19T19:22:32.554Z",
+    "lastSeenAt": "2026-08-19T19:22:32.554Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "c4c361ffa76ae37ba6470d3b39a5380749ad3477",
     "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
     "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain",
     "source": "Cointelegraph",
     "firstSeenAt": "2026-08-19T07:34:55.532Z",
-    "lastSeenAt": "2026-08-19T07:34:55.532Z",
+    "lastSeenAt": "2026-08-19T19:22:24.753Z",
     "sectionShown": "briefing",
     "topicTags": [
       "falconx",
@@ -16,6 +30,48 @@
       "solana",
       "robinhood",
       "chain"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "6e2b08f1316a33e3e1469847db7399d3c15f9c4e",
+    "title": "Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms",
+    "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171",
+    "source": "The Block",
+    "firstSeenAt": "2026-08-19T19:22:24.752Z",
+    "lastSeenAt": "2026-08-19T19:22:24.752Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "policy",
+      "institute",
+      "says",
+      "clarity",
+      "august",
+      "recess",
+      "purgatory"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "67a9cd803fdb0bc1bf9a7a24d0a8cfbf95760206",
+    "title": "Lowering Slot Time and Validators Economic",
+    "url": "https://solana.com/news/lowering-slot-time-and-validators-economic",
+    "source": "Solana News",
+    "firstSeenAt": "2026-08-19T19:22:24.752Z",
+    "lastSeenAt": "2026-08-19T19:22:24.752Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "lowering",
+      "slot",
+      "time",
+      "validators",
+      "economic",
+      "solana",
+      "will",
+      "reduce"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -121,69 +177,6 @@
       "accumulation",
       "dominant",
       "long"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "3df1cc5deb99d50749898eb79ce8bbd93fe55565",
-    "title": "Solana’s Agave 4.2 activation target arrives with mainnet feature gates still pending",
-    "url": "https://cryptoslate.com/agave-4-2-activation-target-unconfirmed",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-08-17T19:24:28.508Z",
-    "lastSeenAt": "2026-08-18T07:35:07.819Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "agave",
-      "activation",
-      "target",
-      "arrives",
-      "with",
-      "mainnet",
-      "feature"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "36e4deb44e5b39da2af23b1c4672d9f5559bac34",
-    "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-    "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-08-17T19:24:28.508Z",
-    "lastSeenAt": "2026-08-18T07:35:07.819Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "pump",
-      "token",
-      "leads",
-      "crypto",
-      "market",
-      "gainers",
-      "chart"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "fed699573f65d04384b8c636c8f9e7058089b25d",
-    "title": "Solana treasury firm cuts shares 700-for-1 but leaves room for nearly 100 billion more",
-    "url": "https://cryptoslate.com/solana-treasury-firm-cuts-shares-700-for-1-but-leaves-room-for-nearly-100-billion-more",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-08-18T07:35:07.818Z",
-    "lastSeenAt": "2026-08-18T07:35:07.818Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "treasury",
-      "firm",
-      "cuts",
-      "shares",
-      "leaves",
-      "room",
-      "nearly"
     ],
     "majorUpdate": false,
     "updateReason": null

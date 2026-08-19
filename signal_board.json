@@ -1,21 +1,21 @@
 {
   "date": "2026-08-19",
-  "generated_at_utc": "2026-08-19T07:35:02.472Z",
-  "ctxMarket": "Attention is on Solana’s outperformance as it leads gains among major cryptocurrencies, while broader tech markets react to a sharp drop in Korean chip stocks. Regulatory and institutional developments are also drawing focus ahead of the upcoming Fed minutes.",
-  "ctxTalking": "• Solana’s price leadership and ecosystem expansion amid market volatility\n• Debate over Anatoly Yakovenko’s proposal to mint SOL for a company acquisition, with unresolved questions on ownership and governance\n• Institutional moves: Neuberger and Securitize launching tokenized fixed-income funds across Solana and other chains",
-  "ctxMatters": "Solana’s ecosystem is seeing increased institutional adoption and integration into mainstream platforms like Cash App. Governance and legal clarity remain key issues, especially as proposals for major ecosystem moves surface. Regulatory uncertainty persists, with low odds for near-term legislative progress.",
-  "ctxSignal": "Signal: Institutional adoption and cross-chain integrations are expanding Solana’s reach and use cases.\nNoise: Speculation around potential acquisitions lacks concrete details or actionable outcomes.",
-  "ctxGlossary": "Tokenized fund — A traditional investment fund represented as digital tokens on a blockchain\nStake-weighted approval — Voting system where influence is proportional to the amount of tokens staked",
+  "generated_at_utc": "2026-08-19T19:22:32.551Z",
+  "ctxMarket": "Attention is on surging crypto prices, with Bitcoin jumping above $68,000 and Solana outperforming other majors. Market moves are linked to increased risk appetite following U.S. Treasury buybacks and notable declines in Korean chip stocks.",
+  "ctxTalking": "• Solana’s upcoming slot time reduction to 200ms and its impact on validator economics\n• Major asset managers launching tokenized fixed-income funds across Solana and other chains\n• Low odds for the Clarity Act advancing before U.S. midterms, according to Solana Policy Institute",
+  "ctxMatters": "Faster slot times could improve Solana’s competitiveness for latency-sensitive applications, but may affect validator incentives. Institutional adoption is expanding, with large funds now tokenized on Solana. Regulatory uncertainty persists, with key legislation stalled in Congress.",
+  "ctxSignal": "Signal: Institutional tokenization efforts and Solana’s technical upgrades are drawing sustained attention.\nNoise: Short-term price moves tied to macro events may not reflect long-term Solana fundamentals.",
+  "ctxGlossary": "Slot time — The interval between blocks produced on Solana, affecting network speed and latency.\nTokenized fund — A traditional investment fund represented as blockchain tokens, allowing onchain trading and settlement.",
   "readMore": [
     {
-      "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
+      "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7"
+      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite"
     },
     {
-      "title": "Yakovenko wants Solana to mint SOL to buy a company, but who would own it?",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/yakovenko-wants-solana-to-mint-sol-to-buy-a-company-but-who-would-own-it"
+      "title": "Lowering Slot Time and Validators Economic",
+      "source": "Solana News",
+      "url": "https://solana.com/news/lowering-slot-time-and-validators-economic"
     },
     {
       "title": "Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms",
