@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-19",
-  "generated_at_utc": "2026-08-19T19:22:32.551Z",
-  "ctxMarket": "Attention is on surging crypto prices, with Bitcoin jumping above $68,000 and Solana outperforming other majors. Market moves are linked to increased risk appetite following U.S. Treasury buybacks and notable declines in Korean chip stocks.",
-  "ctxTalking": "• Solana’s upcoming slot time reduction to 200ms and its impact on validator economics\n• Major asset managers launching tokenized fixed-income funds across Solana and other chains\n• Low odds for the Clarity Act advancing before U.S. midterms, according to Solana Policy Institute",
-  "ctxMatters": "Faster slot times could improve Solana’s competitiveness for latency-sensitive applications, but may affect validator incentives. Institutional adoption is expanding, with large funds now tokenized on Solana. Regulatory uncertainty persists, with key legislation stalled in Congress.",
-  "ctxSignal": "Signal: Institutional tokenization efforts and Solana’s technical upgrades are drawing sustained attention.\nNoise: Short-term price moves tied to macro events may not reflect long-term Solana fundamentals.",
-  "ctxGlossary": "Slot time — The interval between blocks produced on Solana, affecting network speed and latency.\nTokenized fund — A traditional investment fund represented as blockchain tokens, allowing onchain trading and settlement.",
+  "date": "2026-08-20",
+  "generated_at_utc": "2026-08-20T07:38:11.252Z",
+  "ctxMarket": "Attention is on Solana’s technical upgrades and ETF inflows, with both SOL and XRP seeing notable price jumps following over $2 million in daily net inflows to their U.S. spot ETFs. Broader crypto markets are also active after Bitcoin’s surge above $68,000.",
+  "ctxTalking": "• Solana’s network upgrades, including faster slot times and new transaction formats\n• Significant capital inflows into SOL ETFs and whale activity on meme tokens like PUMP\n• Cross-chain infrastructure developments linking Solana to institutional markets",
+  "ctxMatters": "Solana’s technical changes aim to boost transaction speed and network efficiency, which could impact user experience and validator operations. ETF inflows and large trades signal institutional and whale interest. Cross-chain connections may expand Solana’s reach in tokenized asset markets.",
+  "ctxSignal": "Signal: Solana’s protocol changes and ETF inflows are shaping network dynamics and market attention.\nNoise: Speculation around meme token breakouts lacks broader ecosystem impact.",
+  "ctxGlossary": "Slot Time — The duration of each block production window on Solana.\nETF — Exchange-traded fund, a regulated investment vehicle for tracking assets like SOL.\nAccount Lookup Tables (ALT) — Solana feature for managing large transaction data efficiently.",
   "readMore": [
+    {
+      "title": "Solana, XRP prices jump 10% – Which altcoin has more upside left?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solana-xrp-prices-jump-10-which-altcoin-has-more-upside-left"
+    },
+    {
+      "title": "Solana is slashing per-block compute limits so its new 350ms speed boost doesn’t overload the network",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solana-is-slashing-per-block-compute-limits-so-its-new-350ms-speed-boost-doesnt-overload-the-network"
+    },
     {
       "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite"
-    },
-    {
-      "title": "Lowering Slot Time and Validators Economic",
-      "source": "Solana News",
-      "url": "https://solana.com/news/lowering-slot-time-and-validators-economic"
-    },
-    {
-      "title": "Solana Policy Institute CEO says Clarity Act in ‘August recess purgatory,’ gives it 10% odds before midterms",
-      "source": "The Block",
-      "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171"
     }
   ]
 }

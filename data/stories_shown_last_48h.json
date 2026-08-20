@@ -1,25 +1,11 @@
 [
   {
-    "id": "6f2ff366806f1839cce86baac3b22327f88d07cf",
-    "title": "Signal Board Summary 2026-08-19",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-08-19T19:22:32.554Z",
-    "lastSeenAt": "2026-08-19T19:22:32.554Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "c4c361ffa76ae37ba6470d3b39a5380749ad3477",
     "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
     "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain",
     "source": "Cointelegraph",
     "firstSeenAt": "2026-08-19T07:34:55.532Z",
-    "lastSeenAt": "2026-08-19T19:22:24.753Z",
+    "lastSeenAt": "2026-08-20T07:38:03.317Z",
     "sectionShown": "briefing",
     "topicTags": [
       "falconx",
@@ -30,6 +16,62 @@
       "solana",
       "robinhood",
       "chain"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "88e35498d0335ffe5aef9393f06204b473d13c2e",
+    "title": "Solana, XRP prices jump 10% – Which altcoin has more upside left?",
+    "url": "https://ambcrypto.com/solana-xrp-prices-jump-10-which-altcoin-has-more-upside-left",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-08-20T07:38:03.317Z",
+    "lastSeenAt": "2026-08-20T07:38:03.317Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "prices",
+      "jump",
+      "which",
+      "altcoin",
+      "more",
+      "upside",
+      "left"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "d3cb5179ce49aa51d51478432aad91f4cbbcd686",
+    "title": "Solana is slashing per-block compute limits so its new 350ms speed boost doesn’t overload the network",
+    "url": "https://cryptoslate.com/solana-is-slashing-per-block-compute-limits-so-its-new-350ms-speed-boost-doesnt-overload-the-network",
+    "source": "CryptoSlate",
+    "firstSeenAt": "2026-08-20T07:38:03.317Z",
+    "lastSeenAt": "2026-08-20T07:38:03.317Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "slashing",
+      "block",
+      "compute",
+      "limits",
+      "350ms",
+      "speed",
+      "boost"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "6f2ff366806f1839cce86baac3b22327f88d07cf",
+    "title": "Signal Board Summary 2026-08-19",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-08-19T19:22:32.554Z",
+    "lastSeenAt": "2026-08-19T19:22:32.554Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -177,69 +219,6 @@
       "accumulation",
       "dominant",
       "long"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "3df1cc5deb99d50749898eb79ce8bbd93fe55565",
-    "title": "Solana’s Agave 4.2 activation target arrives with mainnet feature gates still pending",
-    "url": "https://cryptoslate.com/agave-4-2-activation-target-unconfirmed",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-08-17T19:24:28.508Z",
-    "lastSeenAt": "2026-08-18T07:35:07.819Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "agave",
-      "activation",
-      "target",
-      "arrives",
-      "with",
-      "mainnet",
-      "feature"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "36e4deb44e5b39da2af23b1c4672d9f5559bac34",
-    "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-    "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-08-17T19:24:28.508Z",
-    "lastSeenAt": "2026-08-18T07:35:07.819Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "pump",
-      "token",
-      "leads",
-      "crypto",
-      "market",
-      "gainers",
-      "chart"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "fed699573f65d04384b8c636c8f9e7058089b25d",
-    "title": "Solana treasury firm cuts shares 700-for-1 but leaves room for nearly 100 billion more",
-    "url": "https://cryptoslate.com/solana-treasury-firm-cuts-shares-700-for-1-but-leaves-room-for-nearly-100-billion-more",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-08-18T07:35:07.818Z",
-    "lastSeenAt": "2026-08-18T07:35:07.818Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "treasury",
-      "firm",
-      "cuts",
-      "shares",
-      "leaves",
-      "room",
-      "nearly"
     ],
     "majorUpdate": false,
     "updateReason": null
