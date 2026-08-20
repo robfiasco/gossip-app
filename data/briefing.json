@@ -5,30 +5,30 @@
   "items": [
     {
       "type": "APPS",
-      "title": "Solana, XRP prices jump 10% – Which altcoin has more upside left?",
+      "title": "Solana breaks $80 after 10% rally – THIS decides SOL’s $100 target",
       "category": "APPS",
       "source": "AMB Crypto",
       "date": "2026-08-20",
-      "url": "https://ambcrypto.com/solana-xrp-prices-jump-10-which-altcoin-has-more-upside-left",
-      "whyYouShouldCare": "The recent 10% price increase for Solana indicates heightened market interest, potentially enhancing liquidity and positioning within the competitive altcoin landscape."
+      "url": "https://ambcrypto.com/solana-breaks-80-after-10-rally-this-decides-sols-100-target",
+      "whyYouShouldCare": "Solana's recent price surge indicates growing market confidence, positioning it closer to the $100 target, which could enhance liquidity and ecosystem engagement."
     },
     {
-      "type": "APPS",
-      "title": "Solana is slashing per-block compute limits so its new 350ms speed boost doesn’t overload the network",
-      "category": "APPS",
-      "source": "CryptoSlate",
+      "type": "INFRA",
+      "title": "Lowering Slot Time and Validators Economic",
+      "category": "INFRA",
+      "source": "Solana News",
       "date": "2026-08-19",
-      "url": "https://cryptoslate.com/solana-is-slashing-per-block-compute-limits-so-its-new-350ms-speed-boost-doesnt-overload-the-network",
-      "whyYouShouldCare": "By reducing per-block compute limits, Solana aims to maintain network stability while improving transaction speeds, which could enhance user experience and ecosystem adoption."
+      "url": "https://solana.com/news/lowering-slot-time-and-validators-economic",
+      "whyYouShouldCare": "Adjustments to slot time and validator economics could improve Solana's scalability and efficiency, potentially attracting more developers and users to the network."
     },
     {
-      "type": "MARKET",
-      "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
-      "category": "MARKET",
-      "source": "Cointelegraph",
-      "date": "2026-08-18",
-      "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain",
-      "whyYouShouldCare": "The integration of FalconX and Interstice with Solana expands its interoperability with major platforms, potentially increasing usage and attracting more liquidity into its ecosystem."
+      "type": "RISK",
+      "title": "MAYAChain’s $1.36 million exploit spiraled into nearly $11 million of pool damage",
+      "category": "RISK",
+      "source": "CryptoSlate",
+      "date": "2026-08-20",
+      "url": "https://cryptoslate.com/mayachains-1-36-million-exploit-spiraled-into-nearly-11-million-of-pool-damage",
+      "whyYouShouldCare": "The significant exploit on MAYAChain highlights vulnerabilities in DeFi protocols, which may impact investor sentiment and caution towards similar projects on Solana."
     }
   ]
 }

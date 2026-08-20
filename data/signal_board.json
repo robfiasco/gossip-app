@@ -1,21 +1,21 @@
 {
   "date": "2026-08-20",
-  "generated_at_utc": "2026-08-20T07:38:11.252Z",
-  "ctxMarket": "Attention is on Solana’s technical upgrades and ETF inflows, with both SOL and XRP seeing notable price jumps following over $2 million in daily net inflows to their U.S. spot ETFs. Broader crypto markets are also active after Bitcoin’s surge above $68,000.",
-  "ctxTalking": "• Solana’s network upgrades, including faster slot times and new transaction formats\n• Significant capital inflows into SOL ETFs and whale activity on meme tokens like PUMP\n• Cross-chain infrastructure developments linking Solana to institutional markets",
-  "ctxMatters": "Solana’s technical changes aim to boost transaction speed and network efficiency, which could impact user experience and validator operations. ETF inflows and large trades signal institutional and whale interest. Cross-chain connections may expand Solana’s reach in tokenized asset markets.",
-  "ctxSignal": "Signal: Solana’s protocol changes and ETF inflows are shaping network dynamics and market attention.\nNoise: Speculation around meme token breakouts lacks broader ecosystem impact.",
-  "ctxGlossary": "Slot Time — The duration of each block production window on Solana.\nETF — Exchange-traded fund, a regulated investment vehicle for tracking assets like SOL.\nAccount Lookup Tables (ALT) — Solana feature for managing large transaction data efficiently.",
+  "generated_at_utc": "2026-08-20T19:28:43.929Z",
+  "ctxMarket": "Solana’s recent price rally above $80 has drawn attention, but flows remain heavily Bitcoin-focused, with BTC capturing most of the latest fund inflows. Rising leverage and BTC-led momentum are shaping near-term sentiment, while Solana’s move is seen as lagging compared to Bitcoin and Ethereum.",
+  "ctxTalking": "• Solana’s price surge and whether it can sustain momentum toward $100\n• Bitcoin’s dominance in recent fund inflows and market rallies\n• Solana’s technical upgrades, including faster slot times and a new transaction format",
+  "ctxMatters": "Solana’s protocol changes could improve network speed and enable larger, more complex transactions. However, market flows are currently centered on Bitcoin, which may influence how much capital and attention Solana attracts. The trade-offs in Solana’s technical upgrades could impact developer and validator strategies.",
+  "ctxSignal": "Signal: Solana’s slot time reduction and transaction v1 format represent concrete protocol changes with potential ecosystem impact.\nNoise: Short-term price targets for SOL are speculative and depend on broader market flows.",
+  "ctxGlossary": "Slot time — The interval at which new blocks are produced on Solana.\nAccount Lookup Tables (ALT) — A feature that helps manage large numbers of accounts in Solana transactions.",
   "readMore": [
     {
-      "title": "Solana, XRP prices jump 10% – Which altcoin has more upside left?",
+      "title": "Solana breaks $80 after 10% rally – THIS decides SOL’s $100 target",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-xrp-prices-jump-10-which-altcoin-has-more-upside-left"
+      "url": "https://ambcrypto.com/solana-breaks-80-after-10-rally-this-decides-sols-100-target"
     },
     {
-      "title": "Solana is slashing per-block compute limits so its new 350ms speed boost doesn’t overload the network",
+      "title": "Bitcoin grabs 77% of $1.3 billion crypto fund surge as BlackRock leads the rebound",
       "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/solana-is-slashing-per-block-compute-limits-so-its-new-350ms-speed-boost-doesnt-overload-the-network"
+      "url": "https://cryptoslate.com/bitcoin-grabs-77-of-1-3-billion-crypto-fund-surge-as-blackrock-leads-the-rebound"
     },
     {
       "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
