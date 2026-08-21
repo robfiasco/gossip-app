@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
       "type": "APPS",
-      "title": "Solana breaks $80 after 10% rally – THIS decides SOL’s $100 target",
+      "title": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
+      "category": "APPS",
+      "source": "The Block",
+      "date": "2026-08-21",
+      "url": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
+      "whyYouShouldCare": "Shinhan's partnership with the Solana Foundation enhances the ecosystem's credibility and could drive increased adoption of tokenized financial products."
+    },
+    {
+      "type": "APPS",
+      "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "category": "APPS",
+      "source": "CoinDesk",
+      "date": "2026-08-21",
+      "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
+      "whyYouShouldCare": "The liquidation of $1 billion in shorts signals strong bullish momentum for Solana, potentially increasing market confidence and liquidity."
+    },
+    {
+      "type": "APPS",
+      "title": "Solana hits 112M transactions, SOL races toward $88 — What’s next?",
       "category": "APPS",
       "source": "AMB Crypto",
       "date": "2026-08-20",
-      "url": "https://ambcrypto.com/solana-breaks-80-after-10-rally-this-decides-sols-100-target",
-      "whyYouShouldCare": "Solana's recent price surge indicates growing market confidence, positioning it closer to the $100 target, which could enhance liquidity and ecosystem engagement."
-    },
-    {
-      "type": "INFRA",
-      "title": "Lowering Slot Time and Validators Economic",
-      "category": "INFRA",
-      "source": "Solana News",
-      "date": "2026-08-19",
-      "url": "https://solana.com/news/lowering-slot-time-and-validators-economic",
-      "whyYouShouldCare": "Adjustments to slot time and validator economics could improve Solana's scalability and efficiency, potentially attracting more developers and users to the network."
-    },
-    {
-      "type": "RISK",
-      "title": "MAYAChain’s $1.36 million exploit spiraled into nearly $11 million of pool damage",
-      "category": "RISK",
-      "source": "CryptoSlate",
-      "date": "2026-08-20",
-      "url": "https://cryptoslate.com/mayachains-1-36-million-exploit-spiraled-into-nearly-11-million-of-pool-damage",
-      "whyYouShouldCare": "The significant exploit on MAYAChain highlights vulnerabilities in DeFi protocols, which may impact investor sentiment and caution towards similar projects on Solana."
+      "url": "https://ambcrypto.com/solana-hits-112m-transactions-sol-races-toward-88-whats-next",
+      "whyYouShouldCare": "Reaching 112 million transactions indicates robust network activity, which may attract more developers and users to the Solana ecosystem."
     }
   ]
 }
