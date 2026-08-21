@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "ECOSYSTEM",
+      "title": "Solana Just Got Faster—Is It Bullish for SOL?",
+      "category": "ECOSYSTEM",
+      "source": "Decrypt",
+      "date": "2026-08-21",
+      "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
+      "whyYouShouldCare": "The reduction in transaction time enhances Solana's competitive edge, potentially increasing its adoption and usage within the crypto ecosystem."
+    },
+    {
+      "type": "INFRA",
+      "title": "Solana cuts blockchain slot time to 350 milliseconds",
+      "category": "INFRA",
+      "source": "Cointelegraph",
+      "date": "2026-08-21",
+      "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds",
+      "whyYouShouldCare": "A faster slot time improves overall network efficiency, which can attract more developers and projects to build on Solana."
+    },
+    {
       "type": "APPS",
       "title": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
       "category": "APPS",
       "source": "The Block",
       "date": "2026-08-21",
       "url": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
-      "whyYouShouldCare": "Shinhan's partnership with the Solana Foundation enhances the ecosystem's credibility and could drive increased adoption of tokenized financial products."
-    },
-    {
-      "type": "APPS",
-      "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-08-21",
-      "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
-      "whyYouShouldCare": "The liquidation of $1 billion in shorts signals strong bullish momentum for Solana, potentially increasing market confidence and liquidity."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana hits 112M transactions, SOL races toward $88 — What’s next?",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-08-20",
-      "url": "https://ambcrypto.com/solana-hits-112m-transactions-sol-races-toward-88-whats-next",
-      "whyYouShouldCare": "Reaching 112 million transactions indicates robust network activity, which may attract more developers and users to the Solana ecosystem."
+      "whyYouShouldCare": "The partnership with Shinhan and others signifies institutional interest in Solana, which could bolster its reputation and expand its use cases in finance."
     }
   ]
 }
