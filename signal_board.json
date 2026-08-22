@@ -1,26 +1,26 @@
 {
   "date": "2026-08-22",
-  "generated_at_utc": "2026-08-22T07:28:29.944Z",
-  "ctxMarket": "Attention is on Solana’s technical upgrades and the performance of memecoins like WIF and PUMP. Recent protocol changes and major liquidations are drawing focus to network speed and trading activity.",
-  "ctxTalking": "• Solana’s reduction in slot time and faster transaction speeds\n• WIF leading daily gains among dog-themed memecoins as trading volumes surge\n• PUMP’s price breakout driven by protocol burns and accumulation",
-  "ctxMatters": "Solana’s faster block times may improve user experience and attract more builders. Increased memecoin activity signals ongoing retail interest and network usage. Large-scale liquidations and protocol changes could affect how traders and validators operate on Solana.",
-  "ctxSignal": "Signal: Solana’s technical upgrades and real-world partnerships (e.g., with Shinhan) show ongoing network evolution.\nNoise: Short-term memecoin price spikes without broader protocol impact.",
-  "ctxGlossary": "Slot time — The interval between blocks produced on Solana, affecting transaction speed.\nProtocol burn — Permanent removal of tokens from circulation, reducing supply.\nValidator — A participant that helps secure the network and process transactions.",
+  "generated_at_utc": "2026-08-22T19:20:25.220Z",
+  "ctxMarket": "Attention is focused on Solana’s technical upgrades, particularly the reduction in mainnet slot time to 350 milliseconds, marking the first step toward a 200ms target. There is also ongoing discussion about Solana’s first governance vote and its display error, as well as continued interest in institutional partnerships and recent price movements.",
+  "ctxTalking": "• Solana’s mainnet slot time cut to 350ms, aiming for faster transaction confirmations\n• The upcoming first governance vote, with a live quorum display issue\n• Shinhan Bank’s partnership with Solana Foundation for a tokenized fund proof-of-concept",
+  "ctxMatters": "Faster slot times could improve user experience by reducing transaction confirmation latency, though they do not increase throughput. The governance vote highlights Solana’s evolving on-chain decision-making, but technical errors may affect transparency. Institutional collaborations signal growing interest in Solana’s infrastructure for real-world asset tokenization.",
+  "ctxSignal": "Signal: Slot time reduction and governance developments show ongoing protocol evolution and community engagement.\nNoise: Price speculation around SOL’s next move lacks clear connection to underlying network changes.",
+  "ctxGlossary": "Slot time — The interval at which new blocks are produced on Solana’s blockchain\nQuorum — The minimum participation needed for a governance vote to be valid",
   "readMore": [
     {
-      "title": "Why is PUMP’s price up? Jupiter buying, 16% protocol burns & more…",
+      "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+      "source": "The Block",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521"
+    },
+    {
+      "title": "Solana’s first governance vote nears with a live 60% quorum display error",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solanas-first-governance-vote-nears-with-a-live-60-quorum-display-error"
+    },
+    {
+      "title": "Solana flirts with $100 despite rising competition – Can SOL unlock 20% more?",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/why-is-pumps-price-up-jupiter-buying-16-protocol-burns-more"
-    },
-    {
-      "title": "Solana Just Got Faster—Is It Bullish for SOL?",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price"
-    },
-    {
-      "title": "Solana cuts blockchain slot time to 350 milliseconds",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds"
+      "url": "https://ambcrypto.com/solana-flirts-with-100-despite-rising-competition-can-sol-unlock-20-more"
     }
   ]
 }
