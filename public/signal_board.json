@@ -1,12 +1,17 @@
 {
-  "date": "2026-08-21",
-  "generated_at_utc": "2026-08-21T19:23:08.372Z",
-  "ctxMarket": "Attention is on Solana’s technical upgrades, with the network reducing its slot time for the first time since launch and targeting even lower latency. Major liquidations in the broader crypto market, including SOL, have also drawn focus.",
-  "ctxTalking": "• Solana’s block timing reduction to 350 milliseconds and plans to reach 200ms\n• Shinhan Bank’s partnership with Solana Foundation, Etherfuse, and Orca for a tokenized Korean won fund\n• Introduction of Transaction v1 format and increased transaction size, with trade-offs on Account Lookup Tables",
-  "ctxMatters": "Faster slot times can improve transaction speeds and user experience, potentially making Solana more competitive for high-frequency applications. The Shinhan partnership signals institutional interest in Solana for real-world asset tokenization. The new transaction format could enable more complex on-chain activity, but may impact how developers use Account Lookup Tables.",
-  "ctxSignal": "Signal: Solana’s technical upgrades and institutional partnerships are directly shaping its ecosystem.\nNoise: Short-term price moves tied to liquidations lack clear connection to long-term network fundamentals.",
-  "ctxGlossary": "Slot time — The interval at which new blocks are produced on Solana.\nAccount Lookup Table (ALT) — A mechanism for managing large numbers of accounts in Solana transactions.",
+  "date": "2026-08-22",
+  "generated_at_utc": "2026-08-22T07:28:29.944Z",
+  "ctxMarket": "Attention is on Solana’s technical upgrades and the performance of memecoins like WIF and PUMP. Recent protocol changes and major liquidations are drawing focus to network speed and trading activity.",
+  "ctxTalking": "• Solana’s reduction in slot time and faster transaction speeds\n• WIF leading daily gains among dog-themed memecoins as trading volumes surge\n• PUMP’s price breakout driven by protocol burns and accumulation",
+  "ctxMatters": "Solana’s faster block times may improve user experience and attract more builders. Increased memecoin activity signals ongoing retail interest and network usage. Large-scale liquidations and protocol changes could affect how traders and validators operate on Solana.",
+  "ctxSignal": "Signal: Solana’s technical upgrades and real-world partnerships (e.g., with Shinhan) show ongoing network evolution.\nNoise: Short-term memecoin price spikes without broader protocol impact.",
+  "ctxGlossary": "Slot time — The interval between blocks produced on Solana, affecting transaction speed.\nProtocol burn — Permanent removal of tokens from circulation, reducing supply.\nValidator — A participant that helps secure the network and process transactions.",
   "readMore": [
+    {
+      "title": "Why is PUMP’s price up? Jupiter buying, 16% protocol burns & more…",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/why-is-pumps-price-up-jupiter-buying-16-protocol-burns-more"
+    },
     {
       "title": "Solana Just Got Faster—Is It Bullish for SOL?",
       "source": "Decrypt",
@@ -16,11 +21,6 @@
       "title": "Solana cuts blockchain slot time to 350 milliseconds",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds"
-    },
-    {
-      "title": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
-      "source": "The Block",
-      "url": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420"
     }
   ]
 }

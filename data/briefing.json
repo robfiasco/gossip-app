@@ -1,8 +1,17 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Why is PUMP’s price up? Jupiter buying, 16% protocol burns & more…",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-08-22",
+      "url": "https://ambcrypto.com/why-is-pumps-price-up-jupiter-buying-16-protocol-burns-more",
+      "whyYouShouldCare": "PUMP's price increase is driven by Jupiter's acquisition and a significant 16% reduction in protocol supply, enhancing its market position."
+    },
     {
       "type": "ECOSYSTEM",
       "title": "Solana Just Got Faster—Is It Bullish for SOL?",
@@ -10,7 +19,7 @@
       "source": "Decrypt",
       "date": "2026-08-21",
       "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
-      "whyYouShouldCare": "The reduction in transaction time enhances Solana's competitive edge, potentially increasing its adoption and usage within the crypto ecosystem."
+      "whyYouShouldCare": "Improvements in Solana's speed could attract more developers and users, potentially boosting SOL's utility and market demand."
     },
     {
       "type": "INFRA",
@@ -19,16 +28,7 @@
       "source": "Cointelegraph",
       "date": "2026-08-21",
       "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds",
-      "whyYouShouldCare": "A faster slot time improves overall network efficiency, which can attract more developers and projects to build on Solana."
-    },
-    {
-      "type": "APPS",
-      "title": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
-      "category": "APPS",
-      "source": "The Block",
-      "date": "2026-08-21",
-      "url": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
-      "whyYouShouldCare": "The partnership with Shinhan and others signifies institutional interest in Solana, which could bolster its reputation and expand its use cases in finance."
+      "whyYouShouldCare": "Reducing blockchain slot time to 350 milliseconds enhances transaction efficiency, which may improve user experience and overall network performance."
     }
   ]
 }
