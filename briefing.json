@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "ECOSYSTEM",
-      "title": "Solana flirts with $100 despite rising competition – Can SOL unlock 20% more?",
-      "category": "ECOSYSTEM",
-      "source": "AMB Crypto",
+      "type": "INFRA",
+      "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+      "category": "INFRA",
+      "source": "The Block",
       "date": "2026-08-22",
-      "url": "https://ambcrypto.com/solana-flirts-with-100-despite-rising-competition-can-sol-unlock-20-more",
-      "whyYouShouldCare": "Solana's price nearing $100 indicates strong market interest, but increased competition could impact its ability to sustain or grow this valuation."
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
+      "whyYouShouldCare": "Reducing mainnet slot time to 350 milliseconds enhances transaction speed, potentially improving Solana's competitiveness and user experience in the blockchain space."
     },
     {
       "type": "ECOSYSTEM",
@@ -19,16 +19,16 @@
       "source": "CryptoSlate",
       "date": "2026-08-22",
       "url": "https://cryptoslate.com/solanas-first-governance-vote-nears-with-a-live-60-quorum-display-error",
-      "whyYouShouldCare": "The upcoming governance vote highlights Solana's evolving ecosystem, but the quorum display error raises concerns about the reliability of its governance mechanisms."
+      "whyYouShouldCare": "The upcoming governance vote, despite a quorum display error, signifies a shift towards decentralization and community involvement, which could strengthen ecosystem engagement."
     },
     {
-      "type": "INFRA",
-      "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
-      "category": "INFRA",
-      "source": "The Block",
-      "date": "2026-08-22",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
-      "whyYouShouldCare": "Reducing mainnet slot time to 350 milliseconds is a strategic move to enhance transaction speed, positioning Solana for improved scalability and user experience."
+      "type": "ECOSYSTEM",
+      "title": "Solana Just Got Faster—Is It Bullish for SOL?",
+      "category": "ECOSYSTEM",
+      "source": "Decrypt",
+      "date": "2026-08-21",
+      "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
+      "whyYouShouldCare": "Increased speed on the Solana network could attract more developers and users, positively impacting SOL's liquidity and overall ecosystem growth."
     }
   ]
 }
