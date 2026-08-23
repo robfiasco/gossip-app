@@ -1,11 +1,11 @@
 {
   "date": "2026-08-23",
-  "generated_at_utc": "2026-08-23T07:30:36.561Z",
-  "ctxMarket": "Attention is focused on Solana’s technical upgrades, especially the reduction in mainnet slot times and upcoming governance changes. There is also discussion around recent large-scale liquidations affecting major tokens, including SOL.",
-  "ctxTalking": "• Solana has reduced mainnet slot times to 350ms, with a target of 200ms, aiming for faster transaction confirmations.\n• The network is preparing for its first governance vote, with some technical issues in quorum display being addressed.\n• A new partnership with Shinhan and others explores tokenized fund issuance on Solana.",
-  "ctxMatters": "Faster slot times can improve user experience by reducing transaction confirmation delays, though overall throughput remains unchanged. Governance infrastructure is maturing, signaling a shift toward more decentralized decision-making. Institutional interest, such as the Shinhan partnership, may expand Solana’s use cases in traditional finance.",
-  "ctxSignal": "Signal: Slot time reduction and governance developments mark significant technical and community milestones.\nNoise: Speculation about price impact from technical upgrades without direct evidence.",
-  "ctxGlossary": "Slot time — The interval at which new blocks are produced on Solana.\nQuorum — The minimum level of participation required for a governance vote to be valid.",
+  "generated_at_utc": "2026-08-23T19:20:12.327Z",
+  "ctxMarket": "Attention is focused on Solana’s technical upgrades, particularly the reduction in mainnet slot times and related transaction speed improvements. There is also interest in new institutional partnerships and evolving transaction formats.",
+  "ctxTalking": "• Solana has reduced its mainnet slot time to 350 milliseconds, with a target of 200 milliseconds, aiming for faster transaction confirmations.\n• South Korea’s Shinhan Bank is collaborating with the Solana Foundation and others on a proof-of-concept for a tokenized fund.\n• The introduction of Transaction v1 and increased transaction size is prompting discussion about trade-offs with Account Lookup Tables.",
+  "ctxMatters": "Faster slot times can improve user experience by reducing transaction confirmation latency. Institutional interest, such as Shinhan’s partnership, signals growing adoption of Solana’s infrastructure for real-world asset tokenization. Changes to transaction formats may affect how developers build and optimize on Solana.",
+  "ctxSignal": "Signal: Concrete reductions in slot time and new transaction formats are live or imminent, with clear technical and ecosystem implications.\nNoise: Speculation about price impact from these upgrades lacks direct support in the current news.",
+  "ctxGlossary": "Slot Time — The interval at which new blocks are produced on Solana.\nAccount Lookup Tables (ALT) — A mechanism to help Solana transactions reference more accounts efficiently.",
   "readMore": [
     {
       "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
@@ -13,14 +13,14 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521"
     },
     {
-      "title": "Solana’s first governance vote nears with a live 60% quorum display error",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/solanas-first-governance-vote-nears-with-a-live-60-quorum-display-error"
-    },
-    {
       "title": "Solana Just Got Faster—Is It Bullish for SOL?",
       "source": "Decrypt",
       "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price"
+    },
+    {
+      "title": "Solana cuts blockchain slot time to 350 milliseconds",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds"
     }
   ]
 }
