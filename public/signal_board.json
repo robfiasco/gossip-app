@@ -1,16 +1,16 @@
 {
   "date": "2026-08-24",
-  "generated_at_utc": "2026-08-24T07:55:16.955Z",
-  "ctxMarket": "Attention is on significant inflows into altcoin ETFs, with nearly $90 million moving into products focused on XRP, Solana, Chainlink, and Hyperliquid. Solana’s technical upgrades and institutional partnerships are also drawing interest.",
-  "ctxTalking": "• Wall Street’s $90 million inflow into altcoin ETFs, led by XRP and Solana\n• Solana’s mainnet slot time reduction to 350ms, with a target of 200ms for lower latency\n• South Korea’s Shinhan Bank partnering with Solana Foundation for tokenized fund issuance",
-  "ctxMatters": "Large institutional inflows signal growing mainstream interest in Solana and other altcoins. Solana’s faster slot times could improve user experience and support new applications. The Shinhan partnership highlights expanding real-world use cases for Solana in traditional finance.",
-  "ctxSignal": "Signal: Institutional capital flows and Solana’s technical improvements have clear implications for network adoption and performance.\nNoise: Speculation about price impact from faster slot times lacks direct evidence in the current news.",
-  "ctxGlossary": "Slot Time — The interval at which new blocks are produced on the Solana blockchain.\nTokenized Fund — A traditional investment fund represented as digital tokens on a blockchain.",
+  "generated_at_utc": "2026-08-24T19:26:39.186Z",
+  "ctxMarket": "Attention is focused on Solana’s network upgrades and proposed changes to its tokenomics. Recent discussions center on faster transaction speeds and a potential increase in daily SOL burns.",
+  "ctxTalking": "• Solana governance is considering proposals to ramp up daily SOL burns and slow new token creation\n• The network has reduced its mainnet slot time to 350 milliseconds, with a target of 200ms for lower latency",
+  "ctxMatters": "Changes to SOL burns and inflation could impact supply dynamics and validator incentives. Faster slot times may enhance user experience by reducing transaction confirmation times, making Solana more competitive for latency-sensitive applications.",
+  "ctxSignal": "Signal: Concrete proposals to alter SOL supply growth and technical upgrades to slot timing.\nNoise: Speculation around the immediate price impact of these changes.",
+  "ctxGlossary": "Slot time — The interval between new blocks being produced on the Solana blockchain.\nSOL burn — The process of permanently removing SOL tokens from circulation, typically via transaction fees.",
   "readMore": [
     {
-      "title": "Wall Street just poured nearly $90 million into altcoins as XRP, SOL and HYPE rip higher",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/wall-street-just-poured-nearly-90-million-into-altcoins-as-xrp-sol-and-hype-rip-higher"
+      "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation"
     },
     {
       "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
