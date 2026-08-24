@@ -1,12 +1,17 @@
 {
-  "date": "2026-08-23",
-  "generated_at_utc": "2026-08-23T19:20:12.327Z",
-  "ctxMarket": "Attention is focused on Solana’s technical upgrades, particularly the reduction in mainnet slot times and related transaction speed improvements. There is also interest in new institutional partnerships and evolving transaction formats.",
-  "ctxTalking": "• Solana has reduced its mainnet slot time to 350 milliseconds, with a target of 200 milliseconds, aiming for faster transaction confirmations.\n• South Korea’s Shinhan Bank is collaborating with the Solana Foundation and others on a proof-of-concept for a tokenized fund.\n• The introduction of Transaction v1 and increased transaction size is prompting discussion about trade-offs with Account Lookup Tables.",
-  "ctxMatters": "Faster slot times can improve user experience by reducing transaction confirmation latency. Institutional interest, such as Shinhan’s partnership, signals growing adoption of Solana’s infrastructure for real-world asset tokenization. Changes to transaction formats may affect how developers build and optimize on Solana.",
-  "ctxSignal": "Signal: Concrete reductions in slot time and new transaction formats are live or imminent, with clear technical and ecosystem implications.\nNoise: Speculation about price impact from these upgrades lacks direct support in the current news.",
-  "ctxGlossary": "Slot Time — The interval at which new blocks are produced on Solana.\nAccount Lookup Tables (ALT) — A mechanism to help Solana transactions reference more accounts efficiently.",
+  "date": "2026-08-24",
+  "generated_at_utc": "2026-08-24T07:55:16.955Z",
+  "ctxMarket": "Attention is on significant inflows into altcoin ETFs, with nearly $90 million moving into products focused on XRP, Solana, Chainlink, and Hyperliquid. Solana’s technical upgrades and institutional partnerships are also drawing interest.",
+  "ctxTalking": "• Wall Street’s $90 million inflow into altcoin ETFs, led by XRP and Solana\n• Solana’s mainnet slot time reduction to 350ms, with a target of 200ms for lower latency\n• South Korea’s Shinhan Bank partnering with Solana Foundation for tokenized fund issuance",
+  "ctxMatters": "Large institutional inflows signal growing mainstream interest in Solana and other altcoins. Solana’s faster slot times could improve user experience and support new applications. The Shinhan partnership highlights expanding real-world use cases for Solana in traditional finance.",
+  "ctxSignal": "Signal: Institutional capital flows and Solana’s technical improvements have clear implications for network adoption and performance.\nNoise: Speculation about price impact from faster slot times lacks direct evidence in the current news.",
+  "ctxGlossary": "Slot Time — The interval at which new blocks are produced on the Solana blockchain.\nTokenized Fund — A traditional investment fund represented as digital tokens on a blockchain.",
   "readMore": [
+    {
+      "title": "Wall Street just poured nearly $90 million into altcoins as XRP, SOL and HYPE rip higher",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/wall-street-just-poured-nearly-90-million-into-altcoins-as-xrp-sol-and-hype-rip-higher"
+    },
     {
       "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
       "source": "The Block",
@@ -16,11 +21,6 @@
       "title": "Solana Just Got Faster—Is It Bullish for SOL?",
       "source": "Decrypt",
       "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price"
-    },
-    {
-      "title": "Solana cuts blockchain slot time to 350 milliseconds",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds"
     }
   ]
 }
