@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-08-24T13:59:29.162Z",
+  "generated_at": "2026-08-25T13:43:55.342Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1787579969110",
+      "id": "story_onchain-marketmover_1787665435342",
       "source": "onchain-marketmover",
-      "title": "Portal Surges 24% as Two-Day Rally Accelerates",
+      "title": "Jimothy The Raccoon Surges 76% in 24 Hours",
       "type": "critical",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-08-24T13:59:29.110Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/portal-2",
+      "timestamp": "2026-08-25T13:43:55.342Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/jimothy-the-raccoon",
       "metrics": {
-        "token": "Portal",
-        "symbol": "PORTAL",
-        "priceUsd": 0.01653167,
-        "marketCapUsd": 14725924,
-        "change24h": 24.29874,
-        "change7d": 2.5
+        "token": "Jimothy The Raccoon",
+        "symbol": "JIMOTHY",
+        "priceUsd": 0.01647854,
+        "marketCapUsd": 16468082,
+        "change24h": 75.98255,
+        "change7d": 199.9
       },
       "trend": {
-        "streakDays": 2,
+        "streakDays": 3,
         "streakDirection": "up",
-        "cumulativeChange": 63.9,
-        "isLargestInWindow": false,
-        "windowDays": 2
+        "cumulativeChange": 178.58,
+        "isLargestInWindow": true,
+        "windowDays": 3
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Portal (PORTAL) jumped 24.3% in the past day, extending its two-day rally to nearly 64%.",
-        "story": "Portal (PORTAL) has posted a sharp 24.3% price increase in the last 24 hours, now trading at $0.0165. This marks the second consecutive day of gains, with the token up almost 64% over that span. Trading activity has surged as well, with $60.6 million in volume against a $14.7 million market cap, pushing Portal into the top 1,000 crypto assets by size.\n\n### What's Happening\nPortal’s rally stands out in a market where most assets are moving sideways. The token’s price has climbed for two days straight, reversing a flat week and delivering a cumulative gain of nearly 64%. Trading volume is unusually high relative to the token’s market cap, suggesting that new capital is flowing in or that existing holders are repositioning.\n\nNo clear catalyst has emerged from recent headlines or on-chain news. None of the major crypto news outlets or Solana ecosystem updates directly reference Portal in the past two weeks. The move appears to be driven by on-chain activity rather than a specific announcement or partnership.\n\n### Why It Matters\nA two-day rally of this size is rare for a token of Portal’s market cap. Sustained price and volume spikes can signal renewed interest from traders or a shift in sentiment around the project. If this momentum continues, Portal could attract more attention from both the Solana community and opportunistic traders looking for volatility.\n\nThe surge also highlights how quickly small-cap tokens can move when liquidity is thin and interest spikes. For Solana ecosystem watchers, Portal’s move is a reminder that even lower-ranked assets can experience outsized volatility, sometimes without a clear narrative or external trigger.\n\n### The Risk or Debate\nThe lack of a clear news driver raises questions about the sustainability of the rally. Without a fundamental catalyst, sharp price moves can reverse just as quickly as they appear. High trading volume relative to market cap can also indicate speculative activity, which may increase the risk of a pullback if momentum fades.\n\nInvestors should be cautious about reading too much into short-term price action when the underlying reason for the move remains unclear. Volatility can attract both new buyers and opportunistic sellers, increasing the risk of rapid swings in either direction.\n\n### What To Watch\nThe key question is whether Portal can hold above the $0.015 level in the coming days. Sustained volume and price stability would suggest that the rally has legs, while a sharp reversal could signal that the move was driven by short-term speculation. Watch for any official updates from the Portal team or major Solana ecosystem developments that could provide context for the recent surge.",
+        "signal": "Jimothy The Raccoon (JIMOTHY) jumped 76% in the past day, marking its strongest single-day move in a three-day rally.",
+        "story": "Jimothy The Raccoon (JIMOTHY) posted a 76% price increase over the last 24 hours, reaching $0.0165 and pushing its market cap to $16.5 million. Trading volume spiked to $10.4 million, reflecting heightened activity. This marks the third consecutive day of gains, with the token up nearly 179% over that period. The latest move is the largest daily jump recorded in this three-day streak.\n\n### What's Happening\nJIMOTHY's price action stands out for its speed and scale. The token has nearly tripled in value over a week, with a 200% gain in seven days. The surge is accompanied by a sharp increase in trading volume, suggesting that liquidity and interest have both intensified. No direct news or event has been confirmed as the catalyst for this move, and recent headlines do not provide a clear explanation for the spike.\n\nThe rally appears to be organic, with momentum building over several days rather than a single event-driven spike. The absence of related headlines or protocol announcements means the source of demand remains unclear. This pattern is typical for meme tokens, where price can move rapidly on sentiment or viral attention rather than fundamentals.\n\n### Why It Matters\nJIMOTHY's rapid climb highlights the volatility and speculative nature of Solana's meme coin sector. Moves of this size can attract further attention from traders seeking short-term momentum. The token's rise to a $16.5 million market cap, despite its low ranking, signals that even smaller projects can command significant liquidity during periods of heightened interest.\n\nSustained multi-day rallies are rare for lower-cap tokens, especially without a clear narrative or event. This kind of price action can influence sentiment across similar assets, drawing liquidity and attention to the broader Solana meme coin ecosystem. The spike in trading volume suggests that JIMOTHY is now on the radar of a wider set of traders.\n\n### The Risk or Debate\nThe lack of a clear catalyst increases uncertainty around the sustainability of these gains. Without news, partnerships, or protocol developments, the rally could be driven by short-term speculation. Rapid price increases can lead to equally sharp corrections if sentiment shifts or liquidity dries up. Lower-cap tokens like JIMOTHY are especially vulnerable to volatility and sudden reversals.\n\nUnclear fundamentals make it difficult to assess whether this move is the start of a longer trend or a temporary spike. The risk of price manipulation or coordinated trading activity is higher in thinly traded meme coins. Participants should be aware that the current momentum may not be supported by lasting demand.\n\n### What To Watch\nThe next key signal will be whether JIMOTHY can maintain or build on its current trading volume and price level. Sustained volume above $10 million or a further price move above $0.02 would indicate continued momentum. Any sudden drop in volume or a sharp price reversal would suggest the rally is losing steam. Headline news, exchange listings, or protocol updates could also shift the narrative if they emerge.",
         "takeaways": [
-          "Portal (PORTAL) has surged nearly 64% over two days with no clear news catalyst.",
-          "Trading volume is high relative to market cap, suggesting speculative flows.",
-          "The sustainability of the move is uncertain without a fundamental driver."
+          "JIMOTHY posted its largest single-day gain in a three-day rally.",
+          "No clear news or event has been linked to the price surge.",
+          "Sustained high trading volume signals strong short-term interest."
         ]
       },
-      "watchTrigger": "Portal holding above $0.015 for the next 72 hours.",
-      "riskLevel": "medium",
-      "narrativeStrength": 5.4
+      "watchTrigger": "JIMOTHY price crossing above $0.02 or trading volume remaining above $10M for another 24h.",
+      "riskLevel": "high",
+      "narrativeStrength": 8.9
     },
     {
-      "id": "story_onchain-fundflow_1787579960590",
+      "id": "story_onchain-fundflow_1787665409327",
       "source": "onchain-fundflow",
-      "title": "CEX.IO TVL Climbs 63% in 24 Hours, Sustaining Uptrend",
+      "title": "Orderly Bridge TVL Drops 23% in 24 Hours",
       "type": "critical",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-08-24T13:59:20.590Z",
-      "sourceUrl": "http://cex.io/",
+      "timestamp": "2026-08-25T13:43:29.327Z",
+      "sourceUrl": "https://orderly.network",
       "metrics": {
-        "protocol": "CEX.IO",
-        "tvlUsd": 5655546.822801662,
-        "change1d": 63.78146330374196,
-        "change7d": 43.64919806508897,
+        "protocol": "Orderly Bridge",
+        "tvlUsd": 21363521.79882669,
+        "change1d": -23.26992005803416,
+        "change7d": -8.70227590893397,
         "tokenSymbol": null,
         "tokenPriceUsd": null
       },
       "trend": {
-        "streakDays": 4,
-        "streakDirection": "up",
-        "cumulativeChange": 273.34,
+        "streakDays": 1,
+        "streakDirection": "down",
+        "cumulativeChange": -23.27,
         "isLargestInWindow": false,
-        "windowDays": 7
+        "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "CEX.IO’s total value locked rose 63.8% in the last 24 hours, reaching $5.7 million and marking its fourth consecutive day of growth.",
-        "story": "CEX.IO, a centralized exchange operating across major blockchains like Ethereum, Solana, and Bitcoin, has seen its total value locked (TVL) surge to $5.7 million. This marks a 63.8% increase in the past 24 hours and extends a four-day streak of rising TVL, with cumulative growth now at 273% over that period. The move stands out for its consistency, as TVL has climbed each day for nearly a week.\n\n### What's Happening\n\nThe recent spike in CEX.IO’s TVL is notable both for its size and its persistence. Over the past week, the protocol’s TVL has grown by nearly 44%, with the bulk of that increase coming in the last day. There are no headlines or public announcements explaining the sudden inflow, and the protocol does not have a native token that might drive speculative activity. The rise is occurring across a broad set of chains, suggesting a multi-chain user base or capital movement rather than a single-chain event.\n\nThis is the fourth day in a row that CEX.IO’s TVL has increased, signaling sustained user or institutional engagement. The absence of a clear catalyst makes the move more intriguing, as it does not appear to be tied to a new product launch, incentive program, or external partnership.\n\n### Why It Matters\n\nSustained TVL growth at CEX.IO could indicate renewed trust or utility in the platform, especially as it spans multiple chains. For a centralized exchange, TVL often reflects user deposits and engagement, so a multi-day surge may point to changing user behavior or shifting capital flows within the broader crypto ecosystem. The scale of the increase—more than tripling TVL in under a week—suggests either new user acquisition, larger deposits from existing users, or both.\n\nThis trend may also reflect broader patterns in cross-chain activity, as users seek platforms that offer access to multiple networks. CEX.IO’s ability to attract deposits across chains could position it as a more versatile player in the exchange landscape, especially as users look for liquidity and access beyond single-chain venues.\n\n### The Risk or Debate\n\nThe lack of a clear, public explanation for the TVL surge introduces uncertainty. Without a visible catalyst, it’s difficult to assess whether these inflows are sticky or temporary. There is also the risk that the increase is driven by a small number of large deposits, which could reverse just as quickly if those users withdraw. As a centralized platform, CEX.IO is also exposed to the usual risks of custodial exchanges, including operational security and regulatory scrutiny.\n\nAnother open question is whether this growth is organic or related to internal platform changes not yet announced. The absence of a native token removes some speculative drivers but also means there is less transparency into the motivations behind these flows.\n\n### What To Watch\n\nThe key question is whether CEX.IO can sustain or build on this TVL momentum. Watch for any official announcements or product updates that might explain the inflows. If TVL continues to rise and surpasses $7 million in the next 48 hours, it would confirm that this is more than a short-term spike and could signal a lasting shift in user engagement or strategy.",
+        "signal": "Orderly Bridge’s total value locked fell 23.3% in the last day, now sitting at $21.4 million.",
+        "story": "Orderly Bridge, a protocol connecting Solana with over a dozen major blockchains, saw its TVL drop sharply by 23.3% over the past 24 hours. This brings the bridge’s locked value to $21.4 million, marking a significant single-day move for the platform. Over the past week, TVL is down 8.7%, but no unusual multi-day streak or clear external trigger has been detected.\n\n### What's Happening\nOrderly Bridge facilitates asset transfers across a wide range of chains, including Solana, Arbitrum, Binance, Ethereum, and others. The recent 24-hour drop in TVL is notable but falls within the protocol’s recent volatility range. There are no headlines or on-chain events directly tied to Orderly Bridge that explain this move, and the protocol does not have a native token that could be influencing flows.\n\nThe TVL decrease suggests a sizable withdrawal or series of withdrawals, but without additional context, it is unclear whether this is driven by a single entity, routine rebalancing, or broader shifts in cross-chain activity. No evidence points to a technical issue or exploit.\n\n### Why It Matters\nBridges like Orderly are critical for liquidity and interoperability across the multi-chain ecosystem. A sudden drop in TVL can signal changing user preferences, shifts in capital allocation, or reactions to developments on connected chains. While this move is within the protocol’s recent range, it stands out given the scale and speed of the change.\n\nOrderly Bridge’s broad chain support means its TVL can be sensitive to events or incentives elsewhere in the ecosystem. Even absent a headline event, such a sharp move is worth noting for those tracking cross-chain liquidity and DeFi infrastructure health.\n\n### The Risk or Debate\nThe main risk here is uncertainty: without a clear cause, it’s difficult to assess whether the TVL drop is a one-off or the start of a larger trend. If withdrawals continue, it could affect bridge liquidity and user confidence. However, the lack of an associated token limits direct price risk for users.\n\nThere is no evidence of a security incident or exploit, but sudden TVL changes always warrant attention in the bridge sector, which has historically been a target for attacks. For now, the move appears to be within normal operational bounds.\n\n### What To Watch\nWatch for further TVL changes over the next 48 hours to see if this is an isolated event or the beginning of a longer trend. Any announcements from Orderly Bridge or major shifts on connected chains could provide clarity. If TVL falls below $20 million, it would mark a new low for the recent period and could signal a more persistent outflow.",
         "takeaways": [
-          "CEX.IO TVL has climbed 273% over four days, reaching $5.7 million.",
-          "No public announcements or token incentives explain the surge.",
-          "The move spans multiple chains, hinting at broad-based capital inflows."
+          "Orderly Bridge TVL dropped 23.3% in 24 hours to $21.4M.",
+          "No clear cause or related headlines explain the move.",
+          "The decrease is within recent volatility but is notable for its size."
         ]
       },
-      "watchTrigger": "If CEX.IO TVL exceeds $7 million within the next 48 hours, the uptrend is confirmed.",
+      "watchTrigger": "If Orderly Bridge TVL falls below $20 million in the next 48 hours, it would confirm a new local low.",
       "riskLevel": "medium",
-      "narrativeStrength": 8.5
+      "narrativeStrength": 5.9
     }
   ]
 }
