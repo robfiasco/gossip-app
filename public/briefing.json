@@ -1,34 +1,34 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "ECOSYSTEM",
-      "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
-      "category": "ECOSYSTEM",
+      "type": "INFRA",
+      "title": "Solana Changelog: August 20, 2026",
+      "category": "INFRA",
+      "source": "Solana News",
+      "date": "2026-08-24",
+      "url": "https://solana.com/news/solana-changelog-august-20-2026",
+      "whyYouShouldCare": "Updates in the Solana changelog can indicate improvements in infrastructure, which may enhance network efficiency and attract more developers."
+    },
+    {
+      "type": "INFRA",
+      "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+      "category": "INFRA",
       "source": "CoinDesk",
-      "date": "2026-08-24",
-      "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
-      "whyYouShouldCare": "Increased SOL burns could enhance scarcity, potentially impacting SOL's value and liquidity positively as new token creation slows."
+      "date": "2026-08-25",
+      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
+      "whyYouShouldCare": "Solana's recent price jump amid Bitcoin's surge suggests increased market interest, but overbought conditions could lead to volatility in SOL's price."
     },
     {
-      "type": "APPS",
-      "title": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
-      "category": "APPS",
-      "source": "Cointelegraph",
-      "date": "2026-08-24",
-      "url": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates",
-      "whyYouShouldCare": "The endorsement of candidates by a Coinbase-affiliated group may influence regulatory outcomes, affecting the broader crypto ecosystem and Solana's positioning."
-    },
-    {
-      "type": "MARKET",
-      "title": "AscendEX pushes for insolvency and rescue deals as claim portal to launch September 5",
-      "category": "MARKET",
+      "type": "INFRA",
+      "title": "Solana stakers face yield cuts as a treasury firm fights to protect 99.4% of its revenue",
+      "category": "INFRA",
       "source": "CryptoSlate",
       "date": "2026-08-24",
-      "url": "https://cryptoslate.com/ascendex-pushes-for-insolvency-and-rescue-deals-as-claim-portal-to-launch-september-5",
-      "whyYouShouldCare": "AscendEX's insolvency efforts could impact market confidence and liquidity, which may indirectly affect SOL's trading environment."
+      "url": "https://cryptoslate.com/solana-stakers-face-yield-cuts-as-a-treasury-firm-fights-to-protect-99-4-of-its-revenue",
+      "whyYouShouldCare": "Yield cuts for Solana stakers could impact investor sentiment and liquidity, as revenue protection measures may signal underlying financial pressures."
     }
   ]
 }

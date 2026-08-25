@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-24",
-  "generated_at_utc": "2026-08-24T19:26:39.186Z",
-  "ctxMarket": "Attention is focused on Solana’s network upgrades and proposed changes to its tokenomics. Recent discussions center on faster transaction speeds and a potential increase in daily SOL burns.",
-  "ctxTalking": "• Solana governance is considering proposals to ramp up daily SOL burns and slow new token creation\n• The network has reduced its mainnet slot time to 350 milliseconds, with a target of 200ms for lower latency",
-  "ctxMatters": "Changes to SOL burns and inflation could impact supply dynamics and validator incentives. Faster slot times may enhance user experience by reducing transaction confirmation times, making Solana more competitive for latency-sensitive applications.",
-  "ctxSignal": "Signal: Concrete proposals to alter SOL supply growth and technical upgrades to slot timing.\nNoise: Speculation around the immediate price impact of these changes.",
-  "ctxGlossary": "Slot time — The interval between new blocks being produced on the Solana blockchain.\nSOL burn — The process of permanently removing SOL tokens from circulation, typically via transaction fees.",
+  "date": "2026-08-25",
+  "generated_at_utc": "2026-08-25T07:40:57.952Z",
+  "ctxMarket": "Attention is on Solana’s 8% price jump and Bitcoin’s move above $80,000, with both moves linked to macro and protocol-level changes. Solana’s rally coincides with validator votes on proposals to slow new SOL creation and increase daily token burns.",
+  "ctxTalking": "• Solana validator votes to slow inflation and ramp up daily SOL burns\n• Staker yields face pressure as treasury interests push back on rapid disinflation\n• Solana mainnet slot times reduced, aiming for faster transaction confirmations",
+  "ctxMatters": "Protocol changes could impact SOL supply dynamics and staking yields. Faster slot times may improve user experience but do not increase network throughput. Governance debates highlight tension between ecosystem growth and treasury revenue protection.",
+  "ctxSignal": "Signal: Validator proposals on inflation and burns, and mainnet slot time reductions, are driving both technical and economic discussions.\nNoise: Speculation on whether faster block times alone are \"bullish\" for SOL price.",
+  "ctxGlossary": "Slot time — The interval between new blocks on Solana; shorter times mean quicker confirmations.\nBurn — The permanent removal of tokens from circulation, often to manage supply.",
   "readMore": [
     {
-      "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+      "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation"
+      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning"
     },
     {
-      "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
-      "source": "The Block",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521"
+      "title": "Solana stakers face yield cuts as a treasury firm fights to protect 99.4% of its revenue",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solana-stakers-face-yield-cuts-as-a-treasury-firm-fights-to-protect-99-4-of-its-revenue"
     },
     {
-      "title": "Solana Just Got Faster—Is It Bullish for SOL?",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price"
+      "title": "Solana Changelog",
+      "source": "Solana News",
+      "url": "https://solana.com/news/solana-changelog-august-20-2026"
     }
   ]
 }
