@@ -1,26 +1,26 @@
 {
   "date": "2026-08-25",
-  "generated_at_utc": "2026-08-25T07:40:57.952Z",
-  "ctxMarket": "Attention is on Solana’s 8% price jump and Bitcoin’s move above $80,000, with both moves linked to macro and protocol-level changes. Solana’s rally coincides with validator votes on proposals to slow new SOL creation and increase daily token burns.",
-  "ctxTalking": "• Solana validator votes to slow inflation and ramp up daily SOL burns\n• Staker yields face pressure as treasury interests push back on rapid disinflation\n• Solana mainnet slot times reduced, aiming for faster transaction confirmations",
-  "ctxMatters": "Protocol changes could impact SOL supply dynamics and staking yields. Faster slot times may improve user experience but do not increase network throughput. Governance debates highlight tension between ecosystem growth and treasury revenue protection.",
-  "ctxSignal": "Signal: Validator proposals on inflation and burns, and mainnet slot time reductions, are driving both technical and economic discussions.\nNoise: Speculation on whether faster block times alone are \"bullish\" for SOL price.",
-  "ctxGlossary": "Slot time — The interval between new blocks on Solana; shorter times mean quicker confirmations.\nBurn — The permanent removal of tokens from circulation, often to manage supply.",
+  "generated_at_utc": "2026-08-25T19:29:06.286Z",
+  "ctxMarket": "Attention is on Solana’s record network activity, with transactions hitting 4.2 billion as SOL rallies 40%. ETF inflows and surging memecoin volumes are also drawing focus, alongside speculation about gaming integrations.",
+  "ctxTalking": "• Solana’s transaction and ETF inflow records amid a broader crypto market recovery\n• Speculation around Take-Two SEC filings and potential GTA VI Solana currency links\n• Rapid growth in memecoin (WIF) and VIRTUAL token volumes following Solana expansions",
+  "ctxMatters": "Sustained network and ETF growth may reinforce Solana’s position among major blockchains. Real-world asset tokenization and high-profile gaming rumors signal expanding use cases. Increased memecoin and derivative activity highlights both user engagement and volatility.",
+  "ctxSignal": "Signal: Record transaction counts, ETF inflows, and real-world asset tokenization on Solana.\nNoise: Unverified claims about GTA VI’s Solana currency integration.",
+  "ctxGlossary": "ETF — An investment fund traded on exchanges, tracking an index or asset.\nSPL — Solana Program Library, a standard for Solana-based tokens.\nMemecoin — A cryptocurrency inspired by online memes, often highly volatile.",
   "readMore": [
     {
-      "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning"
+      "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price"
     },
     {
-      "title": "Solana stakers face yield cuts as a treasury firm fights to protect 99.4% of its revenue",
+      "title": "VIRTUAL jumps 15% after Solana expansion",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/virtual-jumps-15-after-solana-expansion-has-the-road-to-1-appeared"
+    },
+    {
+      "title": "Take-Two branded SEC filings push GTA VI Solana currency linked to memecoin trading",
       "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/solana-stakers-face-yield-cuts-as-a-treasury-firm-fights-to-protect-99-4-of-its-revenue"
-    },
-    {
-      "title": "Solana Changelog",
-      "source": "Solana News",
-      "url": "https://solana.com/news/solana-changelog-august-20-2026"
+      "url": "https://cryptoslate.com/take-two-branded-sec-filings-push-gta-vi-solana-currency-linked-to-memecoin-trading"
     }
   ]
 }
