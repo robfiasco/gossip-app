@@ -1,12 +1,17 @@
 {
-  "date": "2026-08-25",
-  "generated_at_utc": "2026-08-25T19:29:06.286Z",
-  "ctxMarket": "Attention is on Solana’s record network activity, with transactions hitting 4.2 billion as SOL rallies 40%. ETF inflows and surging memecoin volumes are also drawing focus, alongside speculation about gaming integrations.",
-  "ctxTalking": "• Solana’s transaction and ETF inflow records amid a broader crypto market recovery\n• Speculation around Take-Two SEC filings and potential GTA VI Solana currency links\n• Rapid growth in memecoin (WIF) and VIRTUAL token volumes following Solana expansions",
-  "ctxMatters": "Sustained network and ETF growth may reinforce Solana’s position among major blockchains. Real-world asset tokenization and high-profile gaming rumors signal expanding use cases. Increased memecoin and derivative activity highlights both user engagement and volatility.",
-  "ctxSignal": "Signal: Record transaction counts, ETF inflows, and real-world asset tokenization on Solana.\nNoise: Unverified claims about GTA VI’s Solana currency integration.",
-  "ctxGlossary": "ETF — An investment fund traded on exchanges, tracking an index or asset.\nSPL — Solana Program Library, a standard for Solana-based tokens.\nMemecoin — A cryptocurrency inspired by online memes, often highly volatile.",
+  "date": "2026-08-26",
+  "generated_at_utc": "2026-08-26T07:42:24.784Z",
+  "ctxMarket": "Attention is on Solana’s record network activity and continued ETF inflows, even as most major tokens saw a pullback after a strong week. Solana and ether slipped, while bitcoin maintained its weekly gains.",
+  "ctxTalking": "• Solana transactions reached a record 4.2 billion, with tokenized real-world assets nearing $4 billion.\n• Solana ETFs extended their growth streak, posting the year’s largest inflows and record trading volumes.\n• Solana is reducing slot times, with updates from core projects like Agave and Firedancer.",
+  "ctxMatters": "Sustained network growth and ETF inflows highlight institutional and developer interest in Solana.  \nLower slot times could improve transaction speed and network competitiveness.  \nReal-world asset tokenization on Solana is drawing attention as a use case.",
+  "ctxSignal": "Signal: Record transactions, ETF inflows, and protocol upgrades point to ongoing ecosystem momentum.\nNoise: Short-term token price moves not clearly tied to fundamentals.",
+  "ctxGlossary": "Slot time — The interval between blocks produced on Solana’s network.\nETF — Exchange-traded fund; a regulated investment product tracking an asset like SOL.\nTokenized real-world assets — Physical or financial assets represented as tokens on a blockchain.",
   "readMore": [
+    {
+      "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains"
+    },
     {
       "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
       "source": "Cointelegraph",
@@ -16,11 +21,6 @@
       "title": "VIRTUAL jumps 15% after Solana expansion",
       "source": "AMB Crypto",
       "url": "https://ambcrypto.com/virtual-jumps-15-after-solana-expansion-has-the-road-to-1-appeared"
-    },
-    {
-      "title": "Take-Two branded SEC filings push GTA VI Solana currency linked to memecoin trading",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/take-two-branded-sec-filings-push-gta-vi-solana-currency-linked-to-memecoin-trading"
     }
   ]
 }
