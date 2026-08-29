@@ -1,12 +1,17 @@
 {
   "date": "2026-08-29",
-  "generated_at_utc": "2026-08-29T12:57:15.312Z",
-  "ctxMarket": "Attention is focused on Solana’s governance changes and ETF inflows, with the network approving a significant supply cut after a close validator vote. Institutional interest is highlighted by continued ETF demand and Charles Schwab’s plans to add Solana to its crypto trading platform.",
-  "ctxTalking": "• Solana validators approved a proposal to double the network’s disinflation rate, reducing future SOL issuance\n• Solana ETFs have attracted $138M in inflows over 10 days, despite muted price response\n• Charles Schwab announced plans to offer Solana trading alongside other major tokens",
-  "ctxMatters": "The accelerated disinflation reduces new SOL entering circulation, which could impact network economics and validator rewards. Sustained ETF inflows and brokerage support signal growing institutional engagement. Governance participation and close vote margins highlight evolving stakeholder dynamics.",
-  "ctxSignal": "Signal: The approved supply cut and strong ETF inflows indicate shifting network and investor priorities.\nNoise: Short-term price predictions and speculative trading narratives remain unsubstantiated by fundamentals.",
-  "ctxGlossary": "Disinflation — A reduction in the rate at which new tokens are issued\nETF — Exchange-traded fund, allowing broader market access to an asset",
+  "generated_at_utc": "2026-08-29T21:30:31.815Z",
+  "ctxMarket": "Attention is on Solana following a series of ETF milestones and a major protocol change. Bitcoin ETF inflows paused after a strong run, while Solana, ETH, and XRP continue to see buying interest.",
+  "ctxTalking": "• Solana validators narrowly approved a proposal to double the network’s disinflation rate, reducing future SOL issuance.\n• Solana ETFs have attracted $138M in inflows over 10 days, with Bitwise’s fund reaching $1 billion in assets under management.\n• Charles Schwab announced plans to add Solana to its crypto trading platform.",
+  "ctxMatters": "Solana’s protocol change means less new SOL will be issued, which could impact supply dynamics. Growing ETF inflows and mainstream brokerage support signal increasing institutional attention. The validator vote outcome highlights evolving governance and stakeholder influence within the Solana ecosystem.",
+  "ctxSignal": "Signal: The approved disinflation proposal and ETF inflow data reflect meaningful shifts in Solana’s supply and demand landscape.\nNoise: Short-term price speculation tied to ETF flows lacks clear consensus.",
+  "ctxGlossary": "Disinflation — A reduction in the rate at which new tokens are issued.\nValidator — A network participant that helps secure the blockchain and vote on proposals.\nAUM (Assets Under Management) — The total value of assets held by an investment fund.",
   "readMore": [
+    {
+      "title": "Bitcoin ETF inflows snap after $3 billion streak as ETH, XRP and Solana keep buying",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/bitcoin-etf-inflows-snap-after-3-billion-streak-as-eth-xrp-and-solana-keep-buying"
+    },
     {
       "title": "3 Major Solana (SOL) Developments You Should Know About",
       "source": "CryptoPotato",
@@ -16,11 +21,6 @@
       "title": "Solana ETFs attract $138M in 10 days – Is SOL ignoring the demand?",
       "source": "AMB Crypto",
       "url": "https://ambcrypto.com/solana-etfs-attract-138m-in-10-days-is-sol-ignoring-the-demand"
-    },
-    {
-      "title": "Kraken and Galaxy flipped late as Solana approved a major supply cut",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/solana-sgp-0002-passes-with-176-million-sol-as-governance-debate-shifts-to-technical-execution"
     }
   ]
 }
