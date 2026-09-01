@@ -1,8 +1,26 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "MARKET",
+      "title": "Why Robinhood Chain’s $1M revenue milestone signals a new on-chain battle",
+      "category": "MARKET",
+      "source": "AMB Crypto",
+      "date": "2026-09-01",
+      "url": "https://ambcrypto.com/why-robinhood-chains-1m-revenue-milestone-signals-a-new-on-chain-battle",
+      "whyYouShouldCare": "Robinhood Chain's $1M revenue milestone indicates growing competition in the on-chain space, which could impact Solana's market positioning and user engagement."
+    },
+    {
+      "type": "APPS",
+      "title": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL",
+      "category": "APPS",
+      "source": "The Block",
+      "date": "2026-09-01",
+      "url": "https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190",
+      "whyYouShouldCare": "DeFi Development Corp's $20 million stock offering to acquire more SOL suggests increasing institutional interest, potentially enhancing liquidity and market confidence in Solana."
+    },
     {
       "type": "APPS",
       "title": "OpenSea adds Solana NFT trading more than four years after initial beta",
@@ -10,25 +28,7 @@
       "source": "The Block",
       "date": "2026-08-31",
       "url": "https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128",
-      "whyYouShouldCare": "OpenSea's addition of Solana NFT trading enhances the ecosystem's visibility and could drive increased user engagement and liquidity in Solana-based assets."
-    },
-    {
-      "type": "INFRA",
-      "title": "Solana fees hit record as validators double pace of inflation cuts",
-      "category": "INFRA",
-      "source": "The Block",
-      "date": "2026-08-31",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-31-solana-fees-hit-record-as-validators-double-pace-of-inflation-cuts-413135",
-      "whyYouShouldCare": "Record fees on Solana indicate heightened network activity, while faster inflation cuts by validators may improve overall network health and investor confidence."
-    },
-    {
-      "type": "APPS",
-      "title": "Can Solana reach $140 SOL by year-end? Here’s what SOL’s on-chain data says",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-08-31",
-      "url": "https://ambcrypto.com/can-solana-reach-140-sol-by-year-end-heres-what-sols-on-chain-data-says",
-      "whyYouShouldCare": "On-chain data suggesting potential price targets for SOL could influence market sentiment and trading strategies as year-end approaches."
+      "whyYouShouldCare": "OpenSea's integration of Solana NFT trading marks a significant expansion for the ecosystem, likely boosting user activity and liquidity in Solana's NFT market."
     }
   ]
 }
