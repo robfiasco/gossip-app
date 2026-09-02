@@ -429,6 +429,10 @@
     {
       "date": "2026-08-29",
       "change": 36.50870589105088
+    },
+    {
+      "date": "2026-09-02",
+      "change": -9.534769565436903
     }
   ],
   "marketmover:helium": [
@@ -455,6 +459,12 @@
     {
       "date": "2026-09-01",
       "change": -23.92004
+    }
+  ],
+  "marketmover:threshold-network-token": [
+    {
+      "date": "2026-09-02",
+      "change": 42.65322
     }
   ]
 }
