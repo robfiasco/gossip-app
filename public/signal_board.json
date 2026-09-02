@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-01",
-  "generated_at_utc": "2026-09-01T21:35:11.820Z",
-  "ctxMarket": "Attention is on Solana’s treasury accumulation and fee dynamics, with corporate entities like DeFi Development Corp and DFDV actively increasing SOL holdings. Trading volumes and price have softened, but Solana funds marked a 10th consecutive positive inflow session.",
-  "ctxTalking": "• DeFi Development Corp and DFDV are raising and deploying capital to buy more SOL, signaling institutional accumulation.\n• Solana fees reached record highs as validators accelerate inflation cuts, reducing new SOL supply.\n• OpenSea has fully enabled Solana NFT trading, expanding access to Solana digital collectibles.",
-  "ctxMatters": "Corporate treasury activity may tighten available SOL supply and influence on-chain liquidity. \nValidator-driven inflation cuts mean less new SOL enters the market, affecting both rewards and token dynamics. \nOpenSea’s integration could drive new NFT activity and user flows to Solana’s ecosystem.",
-  "ctxSignal": "Signal: Institutional accumulation of SOL and validator-driven supply changes are shifting network and market dynamics.\nNoise: Short-term price moves tied to broader market volatility lack direct Solana-specific catalysts.",
-  "ctxGlossary": "DAT — Digital Asset Treasury, a corporate entity holding crypto assets.\nValidator — A network participant who processes transactions and earns rewards on Solana.\nInflation Cut — A reduction in the rate at which new tokens are issued.",
+  "date": "2026-09-02",
+  "generated_at_utc": "2026-09-02T11:56:46.180Z",
+  "ctxMarket": "Attention is on a broad crypto selloff after Iran’s strikes, with Solana, ether, and XRP leading declines among large-cap tokens. Despite the downturn, Solana funds have logged a tenth consecutive positive session, and institutional interest remains visible.",
+  "ctxTalking": "• Large-cap tokens, including Solana, dropped sharply in response to geopolitical tensions.\n• Solana Treasury DeFi Development Corp and others are raising funds to acquire more SOL, signaling ongoing corporate accumulation.\n• Solana’s network upgrades and ETF-related developments are drawing continued interest.",
+  "ctxMatters": "Market volatility tied to external events is affecting all major tokens, including Solana. Institutional moves—such as treasury raises and fund inflows—suggest sustained interest in SOL despite price swings. Ongoing network upgrades may influence developer and user engagement.",
+  "ctxSignal": "Signal: Institutional accumulation and network upgrades continue amid market turbulence.\nNoise: Short-term price swings driven by external geopolitical events.",
+  "ctxGlossary": "Preferred stock — A type of equity offering that gives holders priority over common stock in dividends and assets.\nSlot-time — The interval at which Solana produces new blocks (transactions).",
   "readMore": [
+    {
+      "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff"
+    },
+    {
+      "title": "Official Trump team moves $26M TRUMP to BitGo",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/official-trump-team-moves-26m-trump-to-bitgo-profit-taking-or-strategic-exit"
+    },
     {
       "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
       "source": "Decrypt",
       "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana"
-    },
-    {
-      "title": "DFDV uses CHAD stock to buy more SOL",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/dfdv-uses-chad-stock-to-buy-more-sol-a-new-catalyst-for-solanas-150-target"
-    },
-    {
-      "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound"
     }
   ]
 }
