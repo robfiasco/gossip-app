@@ -1,26 +1,26 @@
 {
   "date": "2026-09-03",
-  "generated_at_utc": "2026-09-03T11:55:12.237Z",
-  "ctxMarket": "Attention is on Solana’s expanding role in tokenized markets and major treasury moves by institutional players. Technical upgrades and changes to SOL issuance are also drawing focus.",
-  "ctxTalking": "• Solana Treasury DeFi Development Corp’s plans to raise $20 million to increase its SOL holdings\n• The rapid growth of tokenization, with over $4.7 trillion in stablecoins moved on Solana in the past year\n• Upcoming technical changes, including V1 Transactions and a 300ms slot-time feature reaching Mainnet",
-  "ctxMatters": "Institutional accumulation signals growing confidence in Solana’s ecosystem. The scale of tokenized value moving through Solana highlights its infrastructure’s adoption for programmable assets. Technical upgrades may impact network performance and user experience.",
-  "ctxSignal": "Signal: Institutional treasury activity and Solana’s technical roadmap are shaping long-term ecosystem dynamics.\nNoise: Short-term price retracements in unrelated tokens like Seeker do not reflect Solana’s core trends.",
-  "ctxGlossary": "Tokenization — Turning real-world or digital assets into blockchain-based tokens\nSlot-time — The interval at which Solana produces new blocks\nV1 Transactions — An upcoming transaction format upgrade on Solana",
+  "generated_at_utc": "2026-09-03T21:34:02.651Z",
+  "ctxMarket": "Attention is on institutional portfolio moves and Solana’s governance dynamics. Technical developments in payment channels and tokenization are also drawing interest.",
+  "ctxTalking": "• A Japanese firm exited Solana, Ethereum, and XRP positions, consolidating into Bitcoin, while booking gains except on Dogecoin.\n• Solana’s failed fee vote highlighted the influence of validators and Anatoly Yakovenko’s role in protocol changes.\n• Advances in Solana payment channels and the scale of tokenized stablecoin transactions are in focus.",
+  "ctxMatters": "Institutional decisions to exit Solana positions may affect perceptions of asset allocation and liquidity. Governance outcomes show that protocol changes depend on validator consensus, not just community support. Technical progress in payment throughput and tokenization signals ongoing infrastructure growth for Solana users and builders.",
+  "ctxSignal": "Signal: Institutional portfolio shifts and Solana governance mechanics are shaping conversations about network direction and trust. \nNoise: Short-term price retracements in individual tokens like SKR are not central to broader Solana developments.",
+  "ctxGlossary": "Supermajority rule — A requirement that more than a simple majority must agree for a protocol change to pass.\nTokenization — Turning real-world or digital assets into blockchain-based tokens.\nPayment channels — Mechanisms enabling high-speed, low-cost transactions off-chain, settled periodically on-chain.",
   "readMore": [
+    {
+      "title": "This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings"
+    },
+    {
+      "title": "Payment Channels",
+      "source": "Solana News",
+      "url": "https://solana.com/news/payment-channels-1-million-payments-per-second"
+    },
     {
       "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin"
-    },
-    {
-      "title": "Seeker can retrace 40%, but it will not kill SKR’s bullish trend – Here’s why",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/seeker-can-retrace-40-but-it-will-not-kill-skrs-bullish-trend-heres-why"
-    },
-    {
-      "title": "The Token Supercycle",
-      "source": "Solana News",
-      "url": "https://solana.com/news/the-token-supercycle-oped"
     }
   ]
 }
