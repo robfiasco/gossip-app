@@ -1,26 +1,21 @@
 {
   "date": "2026-09-04",
-  "generated_at_utc": "2026-09-04T11:59:04.279Z",
-  "ctxMarket": "Attention is focused on Solana’s surge in x402 activity and its position as August’s app revenue leader. Infrastructure developments and payment channel scalability are also drawing interest.",
-  "ctxTalking": "• Solana surpassing Base in x402 activity and leading app revenue for August\n• Japanese firm exiting Solana, Ethereum, and XRP to concentrate on Bitcoin holdings\n• Payment channels on Solana enabling up to 1 million payments per second",
-  "ctxMatters": "Solana’s leadership in app revenue and transaction activity signals strong ecosystem engagement. High-speed payment channels could expand use cases for both users and developers. Shifts in institutional holdings highlight evolving strategies in crypto asset management.",
-  "ctxSignal": "Signal: Solana’s x402 activity and payment channel scalability are driving real usage and ecosystem growth.\nNoise: Individual company portfolio moves may not reflect broader market trends.",
-  "ctxGlossary": "x402 activity — A metric tracking advanced on-chain application interactions\nPayment channels — Off-chain transaction methods that allow high-volume, low-latency payments, settling on-chain periodically",
+  "generated_at_utc": "2026-09-04T21:13:06.616Z",
+  "ctxMarket": "Attention is on Solana’s rent reduction, expanding tokenized markets, and new developments in SOL issuance. Stablecoin movement and cross-border payments in Latin America are also in focus.",
+  "ctxTalking": "• Solana’s rent reduction has left all accounts over-funded, raising questions about reclaiming excess SOL.\n• Over $4.7 trillion in stablecoins moved on Solana in the past year, highlighting growth in tokenized markets.\n• Firms in Latin America are deploying stablecoin payments using Solana, as discussed by Fireblocks and the Solana Foundation.\n• Recent Solana developments include ETF news and a major change to SOL issuance.",
+  "ctxMatters": "Lower rent requirements may impact how users manage SOL balances.\nHigh stablecoin volumes and adoption in LATAM signal Solana’s traction in real-world payments.\nChanges in SOL issuance and potential ETF developments could affect network economics and visibility.",
+  "ctxSignal": "Signal: Concrete changes to rent, stablecoin payment adoption, and SOL issuance mechanics.\nNoise: Speculation around ETF news without confirmed details.",
+  "ctxGlossary": "Rent — The minimum SOL held by accounts to stay active on Solana.\nStablecoin — A cryptocurrency pegged to a stable asset, often used for payments.\nSOL Issuance — The process by which new SOL tokens are created and distributed.",
   "readMore": [
     {
-      "title": "SOL crypto picks up pace as Solana flips Base in x402 activity",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/sol-crypto-picks-up-pace-as-solana-flips-base-in-x402-activity"
-    },
-    {
-      "title": "This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings"
-    },
-    {
-      "title": "Payment Channels",
+      "title": "How to Reclaim Excess SOL After Rent Reduction",
       "source": "Solana News",
-      "url": "https://solana.com/news/payment-channels-1-million-payments-per-second"
+      "url": "https://solana.com/news/how-to-reclaim-excess-sol-after-rent-reduction"
+    },
+    {
+      "title": "3 Major Solana (SOL) Developments You Should Know About",
+      "source": "CryptoPotato",
+      "url": "https://cryptopotato.com/3-major-solana-sol-developments-you-should-know-about"
     }
   ]
 }
