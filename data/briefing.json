@@ -1,8 +1,26 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "How to Reclaim Excess SOL After Rent Reduction",
+      "category": "APPS",
+      "source": "Solana News",
+      "date": "2026-09-03",
+      "url": "https://solana.com/news/how-to-reclaim-excess-sol-after-rent-reduction",
+      "whyYouShouldCare": "The recent rent reduction on the Solana network allows users to reclaim excess SOL, improving liquidity and incentivizing ecosystem participation."
+    },
+    {
+      "type": "APPS",
+      "title": "SOL crypto picks up pace as Solana flips Base in x402 activity",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-09-03",
+      "url": "https://ambcrypto.com/sol-crypto-picks-up-pace-as-solana-flips-base-in-x402-activity",
+      "whyYouShouldCare": "Solana's increased activity, surpassing Base, indicates growing user engagement and transaction volume, which can enhance SOL's market positioning."
+    },
     {
       "type": "MARKET",
       "title": "Payment Channels: 1 Million Payments Per Second",
@@ -10,25 +28,7 @@
       "source": "Solana News",
       "date": "2026-09-03",
       "url": "https://solana.com/news/payment-channels-1-million-payments-per-second",
-      "whyYouShouldCare": "The ability to process 1 million payments per second positions Solana as a leading platform for high-volume transactions, enhancing its liquidity and ecosystem usage."
-    },
-    {
-      "type": "INFRA",
-      "title": "What Solana’s failed fee vote reveals about Anatoly Yakovenko’s power",
-      "category": "INFRA",
-      "source": "CryptoSlate",
-      "date": "2026-09-03",
-      "url": "https://cryptoslate.com/what-solanas-failed-fee-vote-reveals-about-anatoly-yakovenkos-power",
-      "whyYouShouldCare": "The failed fee vote highlights the concentration of power within Solana's leadership, potentially impacting governance and future decision-making processes."
-    },
-    {
-      "type": "APPS",
-      "title": "This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-09-03",
-      "url": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings",
-      "whyYouShouldCare": "The decision to liquidate holdings in Ethereum, Solana, and XRP while retaining Bitcoin suggests a strategic focus that may influence market perceptions of Solana's value."
+      "whyYouShouldCare": "The introduction of payment channels capable of processing 1 million payments per second showcases Solana's scalability, potentially boosting ecosystem usage and developer interest."
     }
   ]
 }

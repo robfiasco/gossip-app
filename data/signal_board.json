@@ -1,12 +1,17 @@
 {
-  "date": "2026-09-03",
-  "generated_at_utc": "2026-09-03T21:34:02.651Z",
-  "ctxMarket": "Attention is on institutional portfolio moves and Solana’s governance dynamics. Technical developments in payment channels and tokenization are also drawing interest.",
-  "ctxTalking": "• A Japanese firm exited Solana, Ethereum, and XRP positions, consolidating into Bitcoin, while booking gains except on Dogecoin.\n• Solana’s failed fee vote highlighted the influence of validators and Anatoly Yakovenko’s role in protocol changes.\n• Advances in Solana payment channels and the scale of tokenized stablecoin transactions are in focus.",
-  "ctxMatters": "Institutional decisions to exit Solana positions may affect perceptions of asset allocation and liquidity. Governance outcomes show that protocol changes depend on validator consensus, not just community support. Technical progress in payment throughput and tokenization signals ongoing infrastructure growth for Solana users and builders.",
-  "ctxSignal": "Signal: Institutional portfolio shifts and Solana governance mechanics are shaping conversations about network direction and trust. \nNoise: Short-term price retracements in individual tokens like SKR are not central to broader Solana developments.",
-  "ctxGlossary": "Supermajority rule — A requirement that more than a simple majority must agree for a protocol change to pass.\nTokenization — Turning real-world or digital assets into blockchain-based tokens.\nPayment channels — Mechanisms enabling high-speed, low-cost transactions off-chain, settled periodically on-chain.",
+  "date": "2026-09-04",
+  "generated_at_utc": "2026-09-04T11:59:04.279Z",
+  "ctxMarket": "Attention is focused on Solana’s surge in x402 activity and its position as August’s app revenue leader. Infrastructure developments and payment channel scalability are also drawing interest.",
+  "ctxTalking": "• Solana surpassing Base in x402 activity and leading app revenue for August\n• Japanese firm exiting Solana, Ethereum, and XRP to concentrate on Bitcoin holdings\n• Payment channels on Solana enabling up to 1 million payments per second",
+  "ctxMatters": "Solana’s leadership in app revenue and transaction activity signals strong ecosystem engagement. High-speed payment channels could expand use cases for both users and developers. Shifts in institutional holdings highlight evolving strategies in crypto asset management.",
+  "ctxSignal": "Signal: Solana’s x402 activity and payment channel scalability are driving real usage and ecosystem growth.\nNoise: Individual company portfolio moves may not reflect broader market trends.",
+  "ctxGlossary": "x402 activity — A metric tracking advanced on-chain application interactions\nPayment channels — Off-chain transaction methods that allow high-volume, low-latency payments, settling on-chain periodically",
   "readMore": [
+    {
+      "title": "SOL crypto picks up pace as Solana flips Base in x402 activity",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/sol-crypto-picks-up-pace-as-solana-flips-base-in-x402-activity"
+    },
     {
       "title": "This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings",
       "source": "CryptoSlate",
@@ -16,11 +21,6 @@
       "title": "Payment Channels",
       "source": "Solana News",
       "url": "https://solana.com/news/payment-channels-1-million-payments-per-second"
-    },
-    {
-      "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin"
     }
   ]
 }
