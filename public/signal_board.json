@@ -1,21 +1,21 @@
 {
   "date": "2026-09-05",
-  "generated_at_utc": "2026-09-05T11:07:37.529Z",
-  "ctxMarket": "Attention is focused on Solana’s rent reform and its potential to unlock millions of SOL, alongside scrutiny of a newly discovered upgrade bug. Broader discussions continue around Solana’s role in programmable finance and cross-border payments.",
-  "ctxTalking": "• Debate over whether reclaimed SOL from rent reform constitutes an “airdrop” and its effects on network access and liquidity\n• A hidden upgrade bug that could freeze network readers and disable fee limits, with updates required before mainnet activation\n• Expansion of tokenized markets and stablecoin usage on Solana, especially in Latin America",
-  "ctxMatters": "Rent reform could impact both user costs and overall SOL supply dynamics.  \nThe upgrade bug highlights ongoing technical risks and the need for ecosystem-wide coordination.  \nGrowing adoption in cross-border payments and tokenization signals Solana’s expanding real-world use cases.",
-  "ctxSignal": "Signal: Concrete changes to rent mechanics and the need for urgent software updates ahead of mainnet upgrades.\nNoise: Speculation around whether reclaimed SOL is truly an “airdrop.”",
-  "ctxGlossary": "Rent reform — Changes to Solana’s account storage fees, potentially freeing up locked SOL  \nIndexer — A tool that tracks and organizes blockchain data for applications",
+  "generated_at_utc": "2026-09-05T20:56:00.514Z",
+  "ctxMarket": "Attention is focused on Solana’s rent reform, which reduces the SOL required for account deposits by 90%. Discussions are also active around BONK’s recent price surge and the broader growth in tokenized markets on Solana.",
+  "ctxTalking": "• Solana’s rent reform and its impact on SOL reserves and network accessibility\n• BONK’s 52% rally from August lows and questions about the sustainability of demand\n• Expansion of programmable assets and stablecoin usage on Solana",
+  "ctxMatters": "Lower account deposit requirements could make Solana more accessible but may affect incentives to hold SOL. Reclaimed SOL from rent changes could influence short-term market dynamics. Growing stablecoin and tokenized asset activity highlights Solana’s evolving role in programmable finance.",
+  "ctxSignal": "Signal: Concrete changes to account rent and SOL requirements are live, with potential for further impact if the full plan is implemented.\nNoise: Speculation around whether reclaimed SOL is an “airdrop” or how BONK’s rally will play out lacks clear consensus.",
+  "ctxGlossary": "Account Rent — SOL held as a deposit to maintain on-chain accounts\nTokenized Markets — Digital representation of assets or value on blockchain platforms",
   "readMore": [
     {
-      "title": "Solana’s rent reform could free 3.08M SOL – But is it really an ‘airdrop’?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solanas-rent-reform-could-free-3-08m-sol-but-is-it-really-an-airdrop"
+      "title": "Solana’s plan to cut account deposits by 90% could weaken a reason to hold SOL",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solanas-plan-to-cut-account-deposits-by-90-could-weaken-a-reason-to-hold-sol"
     },
     {
-      "title": "Hidden Solana upgrade bug can freeze network readers and silently disable fee limits",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/hidden-solana-upgrade-bug-can-freeze-network-readers-and-silently-disable-fee-limits"
+      "title": "How far can BONK rally after 52% surge from August lows? Assessing…",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/how-far-can-bonk-rally-after-52-surge-from-august-lows-assessing"
     },
     {
       "title": "How to Reclaim Excess SOL After Rent Reduction",
