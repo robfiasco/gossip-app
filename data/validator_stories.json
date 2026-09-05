@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-09-04T16:42:13.697Z",
+  "generated_at": "2026-09-05T15:44:54.963Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1788540133697",
+      "id": "story_onchain-marketmover_1788623094963",
       "source": "onchain-marketmover",
-      "title": "FLOCK Jumps 48% as Trading Volume Surges on Solana",
+      "title": "STONK Jumps 80% as Trading Volume Spikes",
       "type": "critical",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-09-04T16:42:13.697Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/flock-2",
+      "timestamp": "2026-09-05T15:44:54.963Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/stonk-3",
       "metrics": {
-        "token": "FLOCK",
-        "symbol": "FLOCK",
-        "priceUsd": 0.056459,
-        "marketCapUsd": 25421392,
-        "change24h": 48.42377,
-        "change7d": 77.4
+        "token": "STONK",
+        "symbol": "STONK",
+        "priceUsd": 0.03891491,
+        "marketCapUsd": 34478057,
+        "change24h": 79.86308,
+        "change7d": 109.3
       },
       "trend": {
         "streakDays": 1,
         "streakDirection": "up",
-        "cumulativeChange": 48.42,
+        "cumulativeChange": 79.86,
         "isLargestInWindow": false,
         "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "FLOCK (FLOCK) gained 48.4% in the past 24 hours, reaching $0.0565 with a sharp increase in trading activity.",
-        "story": "FLOCK, a Solana-based token, posted a 48.4% price increase over the last 24 hours, now trading at $0.0565. Market capitalization stands at $25.4 million, placing FLOCK at rank #713. Trading volume hit $102.7 million for the day, indicating heightened activity relative to its market size.\n\n### What's Happening\nThe price surge for FLOCK comes with a significant uptick in trading volume, suggesting increased attention or activity around the token. Over the past week, FLOCK has climbed 77.4%, but on-chain data shows this move is not an outlier and falls within recent trading ranges. No unusual multi-day streak or record-breaking trend is detected in the current window.\n\nRecent headlines reference FLOCK’s price and market data but do not point to a specific catalyst behind the move. There are no confirmed reports of new partnerships, listings, or protocol changes directly tied to this surge. The cause behind the spike remains unclear based on available information.\n\n### Why It Matters\nFLOCK’s rapid price and volume growth highlight its ability to attract attention despite its relatively small market cap. Such moves can draw liquidity and speculative interest, especially within the Solana ecosystem where new tokens often experience sharp swings. Sustained volume at these levels may signal growing engagement or anticipation of future developments.\n\nFor Solana ecosystem observers, FLOCK’s activity demonstrates the ongoing appetite for risk and discovery among traders. The token’s rise, while not breaking historical patterns, underscores how quickly sentiment and flows can shift in smaller-cap assets. This can have ripple effects on related projects and trading venues.\n\n### The Risk or Debate\nThe absence of a clear fundamental driver introduces uncertainty about the sustainability of FLOCK’s rally. Without news of upgrades, partnerships, or ecosystem events, the move could be driven by short-term speculation. High volatility and thin order books in lower-cap tokens can amplify both gains and losses, increasing risk for those involved.\n\nUnexplained surges also raise questions about potential manipulation or coordinated trading activity. If volume drops off or price reverses sharply, confidence in the token’s trajectory could erode quickly. Lack of transparency around the cause makes it difficult to assess whether this is the start of a longer trend or a temporary spike.\n\n### What To Watch\nSustained trading volume above $100 million over the next 48 hours would suggest continued interest and may indicate whether this move has staying power. Any new announcements, listings, or protocol updates could provide clarity on the underlying drivers. Monitoring for unusual wallet activity or large transfers may also offer insight into whether the flow is organic or coordinated.",
+        "signal": "STONK surged 79.9% in the past 24 hours, reaching $0.0389 with $15.5M in volume.",
+        "story": "STONK (STONK) posted a sharp 79.9% price increase over the last 24 hours, now trading at $0.0389. The token’s market cap stands at $34.5 million, ranking it #606 among digital assets. Trading volume hit $15.5 million in the same period, reflecting a significant uptick in activity.\n\n### What's Happening\nSTONK’s price action marks a notable move, but on-chain data shows this jump fits within the recent range tracked over the last day. The 7-day change is even more pronounced, with the token up 109.3% over the past week. No unusual streak or outlier pattern is detected, suggesting this surge is a continuation of recent volatility rather than a sudden reversal or isolated event.\n\nNo recent headlines or news events have been identified that clearly explain the catalyst behind this move. The price and volume spike appear to be driven by internal market dynamics rather than an external announcement, listing, or protocol update.\n\n### Why It Matters\nSTONK’s rapid rise and elevated trading volume signal renewed attention from traders and liquidity providers. The token’s market cap, while still outside the top 500, has grown substantially in a short window. This kind of movement can draw further interest from those tracking momentum or looking for emerging assets in the Solana ecosystem.\n\nSustained volume at these levels may support price discovery and deeper liquidity, which can attract more sophisticated strategies and potentially lead to greater integration with other Solana-based protocols. The absence of a clear news driver leaves open the question of whether this is organic accumulation or speculative trading.\n\n### The Risk or Debate\nThe lack of an identifiable catalyst introduces uncertainty about the sustainability of the move. Without a clear narrative or fundamental update, sharp price swings can reverse quickly if sentiment shifts or liquidity dries up. The token’s relatively low market cap and rank suggest it remains vulnerable to volatility and potential manipulation.\n\nShort-term surges without supporting developments can also attract opportunistic actors, increasing the risk of rapid reversals. Participants should be aware that high volume and price spikes in smaller tokens often come with elevated risk profiles.\n\n### What To Watch\nFurther price action above the $0.04 level would indicate continued momentum and may signal a new trading range. Sustained daily trading volume above $10 million could support ongoing liquidity and interest. Any emergence of protocol news, listings, or ecosystem partnerships would provide additional context for the move and help clarify whether this is a structural shift or a temporary spike.",
         "takeaways": [
-          "FLOCK surged 48.4% in price with trading volume reaching $102.7 million.",
-          "No clear catalyst or news event explains the move, and the trend fits within recent activity.",
-          "Sustained high volume or new developments could clarify whether this is a lasting shift or a short-term spike."
+          "STONK rose nearly 80% in 24 hours, with volume reaching $15.5M.",
+          "No clear news or event explains the surge; move fits recent volatility.",
+          "Sustained high volume or new developments could determine if momentum continues."
         ]
       },
-      "watchTrigger": "Trading volume remains above $100 million for the next 48 hours.",
+      "watchTrigger": "STONK daily trading volume remains above $10 million for three consecutive days.",
       "riskLevel": "medium",
-      "narrativeStrength": 7.8
+      "narrativeStrength": 9
     },
     {
-      "id": "story_onchain-fundflow_1788540115477",
+      "id": "story_onchain-fundflow_1788623083597",
       "source": "onchain-fundflow",
-      "title": "Plume Vaults TVL Jumps 21% to $142.7M in 24 Hours",
+      "title": "Perena Vaults TVL Surges to $11.8M on Solana",
       "type": "critical",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-09-04T16:41:55.477Z",
-      "sourceUrl": "https://app.plume.org/vaults",
+      "timestamp": "2026-09-05T15:44:43.597Z",
+      "sourceUrl": "https://app.perena.org/?ref=ILPYAL",
       "metrics": {
-        "protocol": "Plume Vaults",
-        "tvlUsd": 142735485.90675429,
-        "change1d": 21.067781553210835,
-        "change7d": 28.710726402233348,
+        "protocol": "Perena Vaults",
+        "tvlUsd": 11844803.8277,
+        "change1d": 57623794940690.5,
+        "change7d": 57787411300713.05,
         "tokenSymbol": null,
         "tokenPriceUsd": null
       },
       "trend": {
         "streakDays": 1,
         "streakDirection": "up",
-        "cumulativeChange": 21.07,
+        "cumulativeChange": 57623794940690.5,
         "isLargestInWindow": false,
         "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Plume Vaults’ total value locked rose 21.1% in the past day, reaching $142.7 million.",
-        "story": "Plume Vaults, a protocol focused on real-world assets (RWA), saw its total value locked (TVL) increase by 21.1% over the last 24 hours, now standing at $142.7 million. This move comes without any associated token launch or major headline event, and falls within the recent range of activity for the protocol. The increase follows a week of steady growth, with TVL up nearly 29% over the past seven days.\n\n### What's Happening\n\nThe protocol operates across several major blockchains, including Plume Mainnet, Ethereum, Solana, Binance, and Avalanche. The recent TVL surge reflects new capital flowing into Plume Vaults, but there is no clear external trigger such as a partnership, incentive program, or news event driving the move. The growth is consistent with recent patterns, rather than an outlier or sudden reversal.\n\nPlume Vaults has positioned itself as a bridge between traditional assets and decentralized finance, offering exposure to real-world assets on-chain. The protocol’s multi-chain presence likely helps attract a broader user base, but the absence of a native token means participation is currently limited to vault deposits rather than speculative activity.\n\n### Why It Matters\n\nSustained TVL growth in RWA protocols like Plume Vaults signals ongoing interest in bringing off-chain assets into the crypto ecosystem. The 21% daily jump, combined with nearly 29% growth over the week, suggests users are allocating more capital to these products, possibly seeking diversification or yield outside of traditional DeFi tokens.\n\nThis trend is notable because it occurs without the typical catalysts—such as token launches or major announcements—that often drive inflows. Instead, it may reflect a gradual shift in user behavior as confidence in RWA protocols grows. Plume Vaults’ ability to attract capital across multiple chains also highlights the increasing importance of cross-chain infrastructure for DeFi protocols.\n\n### The Risk or Debate\n\nThe lack of a clear external driver for the TVL increase introduces some uncertainty about the sustainability of these inflows. Without a native token or incentive program, the protocol relies on the underlying appeal of its vault products. This could make future growth more sensitive to changes in user sentiment or broader market conditions.\n\nAdditionally, the RWA sector faces ongoing questions around asset transparency, regulatory compliance, and the operational risks of bridging traditional assets onto blockchains. Users should be aware that while TVL growth is a positive signal, it does not eliminate these underlying challenges.\n\n### What To Watch\n\nThe next key indicator will be whether Plume Vaults can maintain or build on this TVL level in the coming days. Watch for any official announcements, new product launches, or integrations that could explain or reinforce the recent growth. Sustained inflows above the $150 million TVL mark would suggest this is more than a short-term spike and could signal a new phase of adoption for the protocol.",
+        "signal": "Perena Vaults’ total value locked jumped to $11.8 million in the past 24 hours, representing an extraordinary percentage increase.",
+        "story": "Perena Vaults, an on-chain capital allocator operating on Solana, saw its total value locked (TVL) soar to $11.8 million in the last 24 hours. This marks a percentage increase so large it signals a near-total influx of new capital compared to its previous base. There is no associated token with Perena Vaults, and no recent headlines or public announcements have surfaced to explain this sudden growth.\\n\\n### What's Happening\\n\\nThe protocol’s TVL rose by over 57 trillion percent in a single day, a figure that typically points to a very low starting balance followed by a substantial deposit. This kind of movement is rare, but the data indicates it falls within the recent activity range tracked over the past day, suggesting it is not an outlier for this protocol’s short-term history.\\n\\nThere are no signs of a multi-day streak or a dramatic reversal; this appears to be a single, significant capital inflow. The lack of a native token and absence of related news make it difficult to attribute this move to a specific event such as an incentive program or partnership.\\n\\n### Why It Matters\\n\\nA sudden jump in TVL can signal growing confidence in a protocol or the arrival of a new strategy or large depositor. For Solana’s DeFi ecosystem, the emergence of new capital allocators like Perena Vaults can diversify risk and potentially attract more users and liquidity.\\n\\nHowever, without a clear catalyst or public explanation, it’s hard to know if this is the start of sustained growth or a one-off deposit. The move may reflect a test by a whale, a new strategy deployment, or internal capital rotation. Regardless, it puts Perena Vaults on the radar for those tracking new sources of liquidity on Solana.\\n\\n### The Risk or Debate\\n\\nThe main risk is opacity. With no token, no public headlines, and no transparent explanation, it’s unclear who is behind the deposit or what their intentions are. This could mean the TVL is highly concentrated and potentially volatile if the capital is withdrawn as quickly as it arrived.\\n\\nThere’s also the question of sustainability—whether this TVL will stick or if it’s simply passing through. For protocols with limited history or visibility, sudden TVL spikes can sometimes precede equally rapid outflows.\\n\\n### What To Watch\\n\\nThe key metric to watch is whether Perena Vaults maintains or grows its TVL above the $10 million mark over the next week. Sustained levels would suggest real adoption or sticky capital, while a sharp drop could indicate the move was temporary or experimental. Any future public disclosures, audits, or integrations could also clarify the protocol’s trajectory.",
         "takeaways": [
-          "Plume Vaults TVL rose 21.1% in 24 hours, reaching $142.7M.",
-          "Growth occurred without a token launch or major news event.",
-          "Sustained inflows may indicate rising confidence in on-chain RWA products."
+          "Perena Vaults’ TVL surged to $11.8M on Solana in 24 hours.",
+          "No public explanation or token is linked to this capital inflow.",
+          "The sustainability of this TVL spike remains uncertain."
         ]
       },
-      "watchTrigger": "Plume Vaults TVL crossing above $150 million within the next 7 days.",
+      "watchTrigger": "If Perena Vaults’ TVL remains above $10M for the next 7 days, it would confirm sustained capital allocation.",
       "riskLevel": "medium",
-      "narrativeStrength": 6
+      "narrativeStrength": 8.6
     }
   ]
 }
