@@ -1,11 +1,25 @@
 [
   {
+    "id": "b6c129722bf5b2f190f649360119ff12262e5b08",
+    "title": "Signal Board Summary 2026-09-05",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-09-05T11:07:37.531Z",
+    "lastSeenAt": "2026-09-05T11:07:37.531Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "d6634bb1617f802ec159ce56b6f7582538e5d6c2",
     "title": "How to Reclaim Excess SOL After Rent Reduction",
     "url": "https://solana.com/news/how-to-reclaim-excess-sol-after-rent-reduction",
     "source": "Solana News",
     "firstSeenAt": "2026-09-04T11:58:57.581Z",
-    "lastSeenAt": "2026-09-04T21:12:57.194Z",
+    "lastSeenAt": "2026-09-05T11:07:31.341Z",
     "sectionShown": "briefing",
     "topicTags": [
       "reclaim",
@@ -16,6 +30,48 @@
       "solana",
       "been",
       "reduced"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "e8d189ac25f160f25017d8b575010cfc23cf8ea3",
+    "title": "Solana’s rent reform could free 3.08M SOL – But is it really an ‘airdrop’?",
+    "url": "https://ambcrypto.com/solanas-rent-reform-could-free-3-08m-sol-but-is-it-really-an-airdrop",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-09-05T11:07:31.341Z",
+    "lastSeenAt": "2026-09-05T11:07:31.341Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "rent",
+      "reform",
+      "could",
+      "free",
+      "really",
+      "airdrop",
+      "cheaper"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "356cd4cdc21b05dfaf95112392182eb0d61a0cd5",
+    "title": "Hidden Solana upgrade bug can freeze network readers and silently disable fee limits",
+    "url": "https://cryptoslate.com/hidden-solana-upgrade-bug-can-freeze-network-readers-and-silently-disable-fee-limits",
+    "source": "CryptoSlate",
+    "firstSeenAt": "2026-09-05T11:07:31.341Z",
+    "lastSeenAt": "2026-09-05T11:07:31.341Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "hidden",
+      "solana",
+      "upgrade",
+      "freeze",
+      "network",
+      "readers",
+      "silently",
+      "disable"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -163,41 +219,6 @@
       "eyes",
       "million",
       "raise"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "7eddd23fee6a4ded760c6f82bf0c8039946c75b5",
-    "title": "Signal Board Summary 2026-09-02",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-09-02T21:33:58.218Z",
-    "lastSeenAt": "2026-09-02T21:33:58.218Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "05ae70b1c040ccbb9836129dff25b1379ecbc095",
-    "title": "Pyth Network: Will PYTH’s 12% gains mark the start of a bigger rally?",
-    "url": "https://ambcrypto.com/pyth-network-will-pyths-12-gains-mark-the-start-of-a-bigger-rally",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-09-02T21:33:51.733Z",
-    "lastSeenAt": "2026-09-02T21:33:51.733Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "pyth",
-      "network",
-      "will",
-      "gains",
-      "mark",
-      "start",
-      "bigger",
-      "rally"
     ],
     "majorUpdate": false,
     "updateReason": null

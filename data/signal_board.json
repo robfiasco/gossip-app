@@ -1,21 +1,26 @@
 {
-  "date": "2026-09-04",
-  "generated_at_utc": "2026-09-04T21:13:06.616Z",
-  "ctxMarket": "Attention is on Solana’s rent reduction, expanding tokenized markets, and new developments in SOL issuance. Stablecoin movement and cross-border payments in Latin America are also in focus.",
-  "ctxTalking": "• Solana’s rent reduction has left all accounts over-funded, raising questions about reclaiming excess SOL.\n• Over $4.7 trillion in stablecoins moved on Solana in the past year, highlighting growth in tokenized markets.\n• Firms in Latin America are deploying stablecoin payments using Solana, as discussed by Fireblocks and the Solana Foundation.\n• Recent Solana developments include ETF news and a major change to SOL issuance.",
-  "ctxMatters": "Lower rent requirements may impact how users manage SOL balances.\nHigh stablecoin volumes and adoption in LATAM signal Solana’s traction in real-world payments.\nChanges in SOL issuance and potential ETF developments could affect network economics and visibility.",
-  "ctxSignal": "Signal: Concrete changes to rent, stablecoin payment adoption, and SOL issuance mechanics.\nNoise: Speculation around ETF news without confirmed details.",
-  "ctxGlossary": "Rent — The minimum SOL held by accounts to stay active on Solana.\nStablecoin — A cryptocurrency pegged to a stable asset, often used for payments.\nSOL Issuance — The process by which new SOL tokens are created and distributed.",
+  "date": "2026-09-05",
+  "generated_at_utc": "2026-09-05T11:07:37.529Z",
+  "ctxMarket": "Attention is focused on Solana’s rent reform and its potential to unlock millions of SOL, alongside scrutiny of a newly discovered upgrade bug. Broader discussions continue around Solana’s role in programmable finance and cross-border payments.",
+  "ctxTalking": "• Debate over whether reclaimed SOL from rent reform constitutes an “airdrop” and its effects on network access and liquidity\n• A hidden upgrade bug that could freeze network readers and disable fee limits, with updates required before mainnet activation\n• Expansion of tokenized markets and stablecoin usage on Solana, especially in Latin America",
+  "ctxMatters": "Rent reform could impact both user costs and overall SOL supply dynamics.  \nThe upgrade bug highlights ongoing technical risks and the need for ecosystem-wide coordination.  \nGrowing adoption in cross-border payments and tokenization signals Solana’s expanding real-world use cases.",
+  "ctxSignal": "Signal: Concrete changes to rent mechanics and the need for urgent software updates ahead of mainnet upgrades.\nNoise: Speculation around whether reclaimed SOL is truly an “airdrop.”",
+  "ctxGlossary": "Rent reform — Changes to Solana’s account storage fees, potentially freeing up locked SOL  \nIndexer — A tool that tracks and organizes blockchain data for applications",
   "readMore": [
+    {
+      "title": "Solana’s rent reform could free 3.08M SOL – But is it really an ‘airdrop’?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solanas-rent-reform-could-free-3-08m-sol-but-is-it-really-an-airdrop"
+    },
+    {
+      "title": "Hidden Solana upgrade bug can freeze network readers and silently disable fee limits",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/hidden-solana-upgrade-bug-can-freeze-network-readers-and-silently-disable-fee-limits"
+    },
     {
       "title": "How to Reclaim Excess SOL After Rent Reduction",
       "source": "Solana News",
       "url": "https://solana.com/news/how-to-reclaim-excess-sol-after-rent-reduction"
-    },
-    {
-      "title": "3 Major Solana (SOL) Developments You Should Know About",
-      "source": "CryptoPotato",
-      "url": "https://cryptopotato.com/3-major-solana-sol-developments-you-should-know-about"
     }
   ]
 }

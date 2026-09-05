@@ -1,8 +1,26 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "ECOSYSTEM",
+      "title": "Solana’s rent reform could free 3.08M SOL – But is it really an ‘airdrop’?",
+      "category": "ECOSYSTEM",
+      "source": "AMB Crypto",
+      "date": "2026-09-05",
+      "url": "https://ambcrypto.com/solanas-rent-reform-could-free-3-08m-sol-but-is-it-really-an-airdrop",
+      "whyYouShouldCare": "The proposed rent reform could release 3.08 million SOL into circulation, potentially impacting liquidity and user engagement within the Solana ecosystem."
+    },
+    {
+      "type": "MARKET",
+      "title": "Hidden Solana upgrade bug can freeze network readers and silently disable fee limits",
+      "category": "MARKET",
+      "source": "CryptoSlate",
+      "date": "2026-09-04",
+      "url": "https://cryptoslate.com/hidden-solana-upgrade-bug-can-freeze-network-readers-and-silently-disable-fee-limits",
+      "whyYouShouldCare": "A bug in a Solana upgrade poses risks by potentially freezing network readers and affecting fee limits, which could disrupt transaction efficiency and user confidence."
+    },
     {
       "type": "APPS",
       "title": "How to Reclaim Excess SOL After Rent Reduction",
@@ -10,25 +28,7 @@
       "source": "Solana News",
       "date": "2026-09-03",
       "url": "https://solana.com/news/how-to-reclaim-excess-sol-after-rent-reduction",
-      "whyYouShouldCare": "The recent rent reduction on Solana allows users to reclaim excess SOL, potentially increasing liquidity and encouraging more ecosystem participation."
-    },
-    {
-      "type": "APPS",
-      "title": "DASH crypto jumps 17% as privacy-coin rally spreads beyond Zcash",
-      "category": "APPS",
-      "source": "AMB Crypto",
-      "date": "2026-09-04",
-      "url": "https://ambcrypto.com/dash-crypto-jumps-17-as-privacy-coin-rally-spreads-beyond-zcash",
-      "whyYouShouldCare": "The rise of DASH and other privacy coins could influence user interest in privacy features within the Solana ecosystem, impacting overall adoption."
-    },
-    {
-      "type": "MARKET",
-      "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
-      "category": "MARKET",
-      "source": "Decrypt",
-      "date": "2026-09-04",
-      "url": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
-      "whyYouShouldCare": "Polymarket's introduction of crypto perpetual futures with high leverage could attract more traders to the Solana network, enhancing market activity and liquidity."
+      "whyYouShouldCare": "Guidance on reclaiming excess SOL post-rent reduction highlights the importance of understanding new protocols for optimizing asset management within the Solana network."
     }
   ]
 }
