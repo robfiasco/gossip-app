@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-09-05T15:44:54.963Z",
+  "generated_at": "2026-09-06T15:57:04.432Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1788623094963",
+      "id": "story_onchain-marketmover_1788710224432",
       "source": "onchain-marketmover",
-      "title": "STONK Jumps 80% as Trading Volume Spikes",
+      "title": "STONK Jumps 336%: Two-Day Surge Draws Attention",
       "type": "critical",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-09-05T15:44:54.963Z",
+      "timestamp": "2026-09-06T15:57:04.432Z",
       "sourceUrl": "https://www.coingecko.com/en/coins/stonk-3",
       "metrics": {
         "token": "STONK",
         "symbol": "STONK",
-        "priceUsd": 0.03891491,
-        "marketCapUsd": 34478057,
-        "change24h": 79.86308,
-        "change7d": 109.3
+        "priceUsd": 0.168017,
+        "marketCapUsd": 147967205,
+        "change24h": 336.3391,
+        "change7d": 583.2
       },
       "trend": {
-        "streakDays": 1,
+        "streakDays": 2,
         "streakDirection": "up",
-        "cumulativeChange": 79.86,
-        "isLargestInWindow": false,
-        "windowDays": 1
+        "cumulativeChange": 416.2,
+        "isLargestInWindow": true,
+        "windowDays": 2
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "STONK surged 79.9% in the past 24 hours, reaching $0.0389 with $15.5M in volume.",
-        "story": "STONK (STONK) posted a sharp 79.9% price increase over the last 24 hours, now trading at $0.0389. The token’s market cap stands at $34.5 million, ranking it #606 among digital assets. Trading volume hit $15.5 million in the same period, reflecting a significant uptick in activity.\n\n### What's Happening\nSTONK’s price action marks a notable move, but on-chain data shows this jump fits within the recent range tracked over the last day. The 7-day change is even more pronounced, with the token up 109.3% over the past week. No unusual streak or outlier pattern is detected, suggesting this surge is a continuation of recent volatility rather than a sudden reversal or isolated event.\n\nNo recent headlines or news events have been identified that clearly explain the catalyst behind this move. The price and volume spike appear to be driven by internal market dynamics rather than an external announcement, listing, or protocol update.\n\n### Why It Matters\nSTONK’s rapid rise and elevated trading volume signal renewed attention from traders and liquidity providers. The token’s market cap, while still outside the top 500, has grown substantially in a short window. This kind of movement can draw further interest from those tracking momentum or looking for emerging assets in the Solana ecosystem.\n\nSustained volume at these levels may support price discovery and deeper liquidity, which can attract more sophisticated strategies and potentially lead to greater integration with other Solana-based protocols. The absence of a clear news driver leaves open the question of whether this is organic accumulation or speculative trading.\n\n### The Risk or Debate\nThe lack of an identifiable catalyst introduces uncertainty about the sustainability of the move. Without a clear narrative or fundamental update, sharp price swings can reverse quickly if sentiment shifts or liquidity dries up. The token’s relatively low market cap and rank suggest it remains vulnerable to volatility and potential manipulation.\n\nShort-term surges without supporting developments can also attract opportunistic actors, increasing the risk of rapid reversals. Participants should be aware that high volume and price spikes in smaller tokens often come with elevated risk profiles.\n\n### What To Watch\nFurther price action above the $0.04 level would indicate continued momentum and may signal a new trading range. Sustained daily trading volume above $10 million could support ongoing liquidity and interest. Any emergence of protocol news, listings, or ecosystem partnerships would provide additional context for the move and help clarify whether this is a structural shift or a temporary spike.",
+        "signal": "STONK (STONK) surged 336% in the past 24 hours, continuing a two-day rally with a cumulative gain over 400%.",
+        "story": "STONK (STONK) has posted a dramatic price move, climbing 336% in the past day to reach $0.1680. This marks the second consecutive day of strong gains, with the token now up more than 416% over 48 hours. Trading volume has spiked to $139.5 million, and STONK’s market cap now stands at $148 million, placing it at rank #212 by size.\\n\\n### What's Happening\\n\\nSTONK’s price action stands out for both its speed and scale. The token’s value has increased nearly sixfold over the past week, with most of the move concentrated in the last two days. The surge follows a recent listing on LBank, as highlighted by InteractiveCrypto, which noted a 300% jump after the event. This listing appears to have brought new liquidity and visibility, fueling the current rally.\\n\\nRecent headlines also show a spike in search interest for STONK, suggesting growing curiosity or speculation around the token. However, there is no clear evidence of a fundamental change or major protocol update driving this move. The rally seems closely tied to trading activity and exchange exposure rather than a specific technical development.\\n\\n### Why It Matters\\n\\nSuch rapid price appreciation can draw attention from traders and observers across the Solana ecosystem. STONK’s surge into the top 250 tokens by market cap signals that it is now a significant player in terms of liquidity and visibility. High trading volumes indicate active participation, which may attract further listings or integrations.\\n\\nThe move also highlights how exchange listings can act as catalysts for token price discovery, especially for assets that previously had limited exposure. STONK’s trajectory over the past week demonstrates the outsized impact that new trading venues can have on price and sentiment, even in the absence of major news or product launches.\\n\\n### The Risk or Debate\\n\\nThe sustainability of STONK’s rally is uncertain. The move appears driven by speculative trading and exchange activity rather than a shift in fundamentals. Rapid price increases can attract short-term interest but may also lead to sharp reversals if momentum fades.\\n\\nQuestions remain about the underlying use case and long-term value proposition for STONK. Without clear protocol developments or ecosystem partnerships, the token’s valuation could be vulnerable to volatility. The recent surge in search interest and trading volume may not translate into lasting adoption or utility.\\n\\n### What To Watch\\n\\nPrice action around the $0.20 level will be a key indicator of whether STONK’s momentum can continue or if a correction is likely. Sustained trading volume above $100 million could signal ongoing interest, while a sharp drop-off may indicate waning enthusiasm. Any announcements of new listings, partnerships, or protocol upgrades could further impact the token’s trajectory.",
         "takeaways": [
-          "STONK rose nearly 80% in 24 hours, with volume reaching $15.5M.",
-          "No clear news or event explains the surge; move fits recent volatility.",
-          "Sustained high volume or new developments could determine if momentum continues."
+          "STONK has gained over 400% in two days, reaching a $148 million market cap.",
+          "The surge follows a recent LBank listing and increased search interest.",
+          "No major protocol updates or fundamental changes have been identified as drivers."
         ]
       },
-      "watchTrigger": "STONK daily trading volume remains above $10 million for three consecutive days.",
-      "riskLevel": "medium",
-      "narrativeStrength": 9
+      "watchTrigger": "STONK price movement relative to the $0.20 level in the next 48 hours.",
+      "riskLevel": "high",
+      "narrativeStrength": 9.2
     },
     {
-      "id": "story_onchain-fundflow_1788623083597",
+      "id": "story_onchain-fundflow_1788710210039",
       "source": "onchain-fundflow",
-      "title": "Perena Vaults TVL Surges to $11.8M on Solana",
+      "title": "Reservoir Protocol TVL Surges 160% to $61M",
       "type": "critical",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-09-05T15:44:43.597Z",
-      "sourceUrl": "https://app.perena.org/?ref=ILPYAL",
+      "timestamp": "2026-09-06T15:56:50.039Z",
+      "sourceUrl": "https://app.reservoir.xyz",
       "metrics": {
-        "protocol": "Perena Vaults",
-        "tvlUsd": 11844803.8277,
-        "change1d": 57623794940690.5,
-        "change7d": 57787411300713.05,
+        "protocol": "Reservoir Protocol",
+        "tvlUsd": 61286000.111625135,
+        "change1d": 160.46321870282367,
+        "change7d": 193.29261869088072,
         "tokenSymbol": null,
         "tokenPriceUsd": null
       },
       "trend": {
         "streakDays": 1,
         "streakDirection": "up",
-        "cumulativeChange": 57623794940690.5,
+        "cumulativeChange": 160.46,
         "isLargestInWindow": false,
         "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Perena Vaults’ total value locked jumped to $11.8 million in the past 24 hours, representing an extraordinary percentage increase.",
-        "story": "Perena Vaults, an on-chain capital allocator operating on Solana, saw its total value locked (TVL) soar to $11.8 million in the last 24 hours. This marks a percentage increase so large it signals a near-total influx of new capital compared to its previous base. There is no associated token with Perena Vaults, and no recent headlines or public announcements have surfaced to explain this sudden growth.\\n\\n### What's Happening\\n\\nThe protocol’s TVL rose by over 57 trillion percent in a single day, a figure that typically points to a very low starting balance followed by a substantial deposit. This kind of movement is rare, but the data indicates it falls within the recent activity range tracked over the past day, suggesting it is not an outlier for this protocol’s short-term history.\\n\\nThere are no signs of a multi-day streak or a dramatic reversal; this appears to be a single, significant capital inflow. The lack of a native token and absence of related news make it difficult to attribute this move to a specific event such as an incentive program or partnership.\\n\\n### Why It Matters\\n\\nA sudden jump in TVL can signal growing confidence in a protocol or the arrival of a new strategy or large depositor. For Solana’s DeFi ecosystem, the emergence of new capital allocators like Perena Vaults can diversify risk and potentially attract more users and liquidity.\\n\\nHowever, without a clear catalyst or public explanation, it’s hard to know if this is the start of sustained growth or a one-off deposit. The move may reflect a test by a whale, a new strategy deployment, or internal capital rotation. Regardless, it puts Perena Vaults on the radar for those tracking new sources of liquidity on Solana.\\n\\n### The Risk or Debate\\n\\nThe main risk is opacity. With no token, no public headlines, and no transparent explanation, it’s unclear who is behind the deposit or what their intentions are. This could mean the TVL is highly concentrated and potentially volatile if the capital is withdrawn as quickly as it arrived.\\n\\nThere’s also the question of sustainability—whether this TVL will stick or if it’s simply passing through. For protocols with limited history or visibility, sudden TVL spikes can sometimes precede equally rapid outflows.\\n\\n### What To Watch\\n\\nThe key metric to watch is whether Perena Vaults maintains or grows its TVL above the $10 million mark over the next week. Sustained levels would suggest real adoption or sticky capital, while a sharp drop could indicate the move was temporary or experimental. Any future public disclosures, audits, or integrations could also clarify the protocol’s trajectory.",
+        "signal": "Reservoir Protocol’s total value locked jumped 160.5% in the past 24 hours, reaching $61.3 million across 16 chains.",
+        "story": "Reservoir Protocol, a cross-chain collateralized debt position (CDP) platform, saw its total value locked (TVL) rise sharply by 160.5% in the last 24 hours. TVL now stands at $61.3 million, up nearly threefold over the past week. This move is notable for its scale, but on-chain data suggests it falls within the recent range of activity for the protocol, rather than marking a clear outlier or streak.\n\n### What's Happening\nReservoir Protocol operates across a wide array of blockchains, including Solana, Ethereum, Binance, and several emerging networks. In the past day, the protocol attracted significant new deposits, driving its TVL to the highest level seen in recent days. There is no associated token for Reservoir, so this growth is not tied to a new listing or incentive program.\n\nNo major headlines or announcements have surfaced to explain the sudden influx of capital. The lack of a clear external trigger suggests the move may be driven by internal protocol activity, new integrations, or shifts in user behavior across the supported chains. The increase is substantial, but not outside the bounds of recent volatility for this protocol.\n\n### Why It Matters\nA rapid TVL increase of this magnitude signals growing user interest and confidence in Reservoir’s CDP offering. Multi-chain protocols that can attract liquidity across diverse ecosystems are becoming increasingly relevant as users seek flexibility and yield opportunities beyond single-chain DeFi. Reservoir’s ability to scale quickly across 16 networks could position it as a key player in the evolving cross-chain DeFi landscape.\n\nThe lack of a native token means the protocol’s growth is not being artificially boosted by farming incentives or speculative trading. This could indicate that users are engaging with the core borrowing and lending functionality, rather than chasing rewards. Sustained growth without a token can be a sign of genuine product-market fit, but it also means the protocol relies solely on its utility to attract and retain capital.\n\n### The Risk or Debate\nThe main risk is the opacity around the source of these new deposits. Without a clear catalyst or public announcement, it’s difficult to determine whether the TVL spike is sticky or the result of temporary activity. Multi-chain protocols also face increased technical and operational risks, including potential exploits, bridge vulnerabilities, or liquidity fragmentation.\n\nAdditionally, rapid TVL growth can sometimes precede sharp outflows if the underlying activity is not organic. With no token to incentivize long-term participation, Reservoir may be more exposed to sudden shifts in user behavior or capital flight if better opportunities emerge elsewhere.\n\n### What To Watch\nThe next few days will be important to see if Reservoir can maintain or build on this higher TVL baseline. Watch for any official communications from the team, new integrations, or changes in supported collateral. If TVL remains above $60 million through the week, it may signal a more durable shift in user adoption rather than a short-term spike.",
         "takeaways": [
-          "Perena Vaults’ TVL surged to $11.8M on Solana in 24 hours.",
-          "No public explanation or token is linked to this capital inflow.",
-          "The sustainability of this TVL spike remains uncertain."
+          "Reservoir Protocol TVL surged 160% in 24 hours, now at $61.3M.",
+          "No clear external catalyst or token incentives explain the move.",
+          "Sustained TVL above $60M would suggest lasting user adoption."
         ]
       },
-      "watchTrigger": "If Perena Vaults’ TVL remains above $10M for the next 7 days, it would confirm sustained capital allocation.",
+      "watchTrigger": "Reservoir Protocol TVL holding above $60 million for at least 5 consecutive days.",
       "riskLevel": "medium",
-      "narrativeStrength": 8.6
+      "narrativeStrength": 8.8
     }
   ]
 }
