@@ -1,34 +1,34 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "APPS",
+      "title": "‘The chain is now earnings’: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain",
+      "category": "APPS",
+      "source": "The Block",
+      "date": "2026-09-08",
+      "url": "https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729",
+      "whyYouShouldCare": "Bernstein's analysis highlights that Robinhood's fee revenue surpassing Solana and BNB Chain could impact SOL's competitive positioning and liquidity."
+    },
+    {
       "type": "MARKET",
-      "title": "Solana’s “million-payments-a-second” AI system can leave sellers unpaid even after they deliver",
+      "title": "Solana is catching memecoin liquidity – Can SOL turn it into a bull rally?",
       "category": "MARKET",
-      "source": "CryptoSlate",
-      "date": "2026-09-07",
-      "url": "https://cryptoslate.com/solanas-million-payments-a-second-ai-system-can-leave-sellers-unpaid-even-after-they-deliver",
-      "whyYouShouldCare": "The potential for unpaid transactions in Solana's high-speed payment system could undermine trust and liquidity for users and developers within the ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana to triple transaction size as apps get room for more complex trades",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-09-07",
-      "url": "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades",
-      "whyYouShouldCare": "Tripling transaction sizes on Solana enhances the platform's capacity for complex trades, potentially attracting more developers and increasing overall network usage."
-    },
-    {
-      "type": "APPS",
-      "title": "TAO goes live on Raydium, price hits 3-month high: What’s next for Bittensor?",
-      "category": "APPS",
       "source": "AMB Crypto",
       "date": "2026-09-07",
-      "url": "https://ambcrypto.com/tao-goes-live-on-raydium-price-hits-3-month-high-whats-next-for-bittensor",
-      "whyYouShouldCare": "The launch of TAO on Raydium and its price surge could signal increased interest in Bittensor, impacting liquidity and trading dynamics within the Solana ecosystem."
+      "url": "https://ambcrypto.com/solana-is-catching-memecoin-liquidity-can-sol-turn-it-into-a-bull-rally",
+      "whyYouShouldCare": "The influx of memecoin liquidity into Solana suggests potential for increased trading activity, which could drive SOL's price momentum."
+    },
+    {
+      "type": "ECOSYSTEM",
+      "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
+      "category": "ECOSYSTEM",
+      "source": "Cointelegraph",
+      "date": "2026-09-07",
+      "url": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana",
+      "whyYouShouldCare": "Fomo's rise in daily revenue on Solana indicates growing ecosystem engagement, which may enhance SOL's utility and market presence."
     }
   ]
 }
