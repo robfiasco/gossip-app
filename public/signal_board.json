@@ -1,12 +1,17 @@
 {
-  "date": "2026-09-09",
-  "generated_at_utc": "2026-09-09T21:29:50.574Z",
-  "ctxMarket": "Attention is focused on Solana’s technical upgrades and ecosystem growth, with recent headlines highlighting both network speed improvements and governance developments. Whale activity and treasury management are also drawing scrutiny.",
-  "ctxTalking": "• Solana’s new 300ms speed boost aimed at countering trading bots, with debate over its impact on validators and market makers\n• SkyAI, a Solana treasury firm, faces a board challenge tied to a proposed equity plan and potential dilution\n• Large-scale SOL accumulation by whales is being linked to network fundamentals rather than pure speculation",
-  "ctxMatters": "Network upgrades could shift trading dynamics and validator incentives. \nGovernance disputes at key ecosystem firms may affect confidence in Solana-based projects. \nSustained whale accumulation and record ecosystem activity suggest ongoing institutional and developer engagement.",
-  "ctxSignal": "Signal: Technical changes to Solana’s speed and treasury governance issues are shaping real ecosystem incentives.\nNoise: Speculation around accumulation phases without direct on-chain or institutional confirmation.",
-  "ctxGlossary": "Validator — A network participant responsible for processing transactions and securing Solana.\nWhale — An entity holding a large amount of SOL, capable of influencing market dynamics.",
+  "date": "2026-09-10",
+  "generated_at_utc": "2026-09-10T12:02:27.374Z",
+  "ctxMarket": "Attention is shifting after Bitcoin ETFs saw $167M in outflows, ending a strong inflow streak. Solana and Ether funds are seeing renewed net inflows, while Solana’s ecosystem continues to highlight transaction volume and innovation.",
+  "ctxTalking": "• Solana’s 300ms speed upgrade and its potential trade-offs for validators and market makers\n• Governance tensions at Solana treasury firm SkyAI over a proposed equity plan and acquisition attempt\n• BitRobot’s use of Solana to reward contributors for real-world AI navigation data",
+  "ctxMatters": "Solana’s speed boost could impact trading dynamics and validator incentives. Governance disputes at SkyAI may affect treasury management and stakeholder alignment. BitRobot’s approach showcases new on-chain use cases for data and AI collaboration.",
+  "ctxSignal": "Signal: Renewed inflows to Solana funds and ongoing technical upgrades reflect sustained ecosystem activity.\nNoise: Short-term ETF outflows from Bitcoin are not directly tied to Solana fundamentals.",
+  "ctxGlossary": "Validator — A network participant that confirms transactions and maintains blockchain integrity\nTreasury — An entity or smart contract managing funds for a project or protocol",
   "readMore": [
+    {
+      "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026"
+    },
     {
       "title": "Solana’s 300ms speed boost to outrun trading bots might come with a hidden cost",
       "source": "CryptoSlate",
@@ -16,11 +21,6 @@
       "title": "Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group",
       "source": "The Block",
       "url": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061"
-    },
-    {
-      "title": "Solana whale buys $28M in SOL – Is a bigger accumulation phase starting?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-whale-buys-28m-in-sol-is-a-bigger-accumulation-phase-starting"
     }
   ]
 }
