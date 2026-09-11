@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "APPS",
+      "title": "Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time",
+      "category": "APPS",
+      "source": "CryptoSlate",
+      "date": "2026-09-11",
+      "url": "https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time",
+      "whyYouShouldCare": "The synchronization of crypto trading with Wall Street hours may enhance institutional participation in Solana, impacting liquidity and market dynamics."
+    },
+    {
       "type": "ECOSYSTEM",
       "title": "Solana sees record 263K tokens issued in a single day",
       "category": "ECOSYSTEM",
       "source": "Cointelegraph",
       "date": "2026-09-10",
       "url": "https://cointelegraph.com/news/solana-record-263k-tokens-issued",
-      "whyYouShouldCare": "The issuance of 263K tokens in a single day highlights Solana's growing ecosystem and potential for increased liquidity and user engagement."
+      "whyYouShouldCare": "The issuance of 263K tokens in one day indicates heightened activity in the Solana ecosystem, which could attract more developers and users."
     },
     {
-      "type": "APPS",
-      "title": "Robinhood’s crypto volume increases 61% in August, still down 38% YoY",
-      "category": "APPS",
-      "source": "Cointelegraph",
+      "type": "RISK",
+      "title": "Crypto hack: Blockstream rejects ransom as nearly 600 Bitcoin remains missing",
+      "category": "RISK",
+      "source": "AMB Crypto",
       "date": "2026-09-11",
-      "url": "https://cointelegraph.com/news/robinhoods-crypto-volume-rebounds-august",
-      "whyYouShouldCare": "Robinhood's 61% increase in crypto volume indicates rising interest, which could positively impact Solana's market positioning and app integrations."
-    },
-    {
-      "type": "APPS",
-      "title": "Your Bitcoin trade can now get liquidated because a stock crashed",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-09-11",
-      "url": "https://cryptoslate.com/your-bitcoin-trade-can-now-get-liquidated-because-a-stock-crashed",
-      "whyYouShouldCare": "The new liquidation risk for Bitcoin trades due to stock crashes underscores the interconnectedness of markets, affecting investor sentiment towards Solana's stability."
+      "url": "https://ambcrypto.com/crypto-hack-blockstream-rejects-ransom-as-nearly-600-bitcoin-remains-missing",
+      "whyYouShouldCare": "The unresolved hack involving Bitcoin highlights ongoing security risks in the crypto space, which could affect investor confidence across all networks, including Solana."
     }
   ]
 }
