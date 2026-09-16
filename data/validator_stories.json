@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-09-15T17:27:20.679Z",
+  "generated_at": "2026-09-16T17:25:22.354Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1789493240679",
+      "id": "story_onchain-marketmover_1789579522354",
       "source": "onchain-marketmover",
-      "title": "STONK Slides 16% After Recent Rally",
-      "type": "alpha",
+      "title": "Cortex (CX) Surges 123% in 24 Hours, Cause Unclear",
+      "type": "critical",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-09-15T17:27:20.679Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/stonk-3",
+      "timestamp": "2026-09-16T17:25:22.354Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/cortex-2",
       "metrics": {
-        "token": "STONK",
-        "symbol": "STONK",
-        "priceUsd": 0.18174,
-        "marketCapUsd": 153552725,
-        "change24h": -16.62237,
-        "change7d": 8.5
+        "token": "Cortex",
+        "symbol": "CX",
+        "priceUsd": 0.03395907,
+        "marketCapUsd": 51114977,
+        "change24h": 123.52347,
+        "change7d": 105.6
       },
       "trend": {
         "streakDays": 1,
-        "streakDirection": "down",
-        "cumulativeChange": -16.62,
+        "streakDirection": "up",
+        "cumulativeChange": 123.52,
         "isLargestInWindow": false,
-        "windowDays": 8
+        "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "STONK (STONK) dropped 16.6% in the past 24 hours, retracing recent gains.",
-        "story": "STONK, a Solana-based token, saw its price fall 16.6% over the last day, now trading at $0.1817. The token’s market cap sits at $153.6 million, ranking it #205 among digital assets, with $42.6 million in trading volume over the same period. This move comes after a week where STONK was up 8.5%, suggesting today’s drop is a pullback rather than a sharp reversal.\n\n### What's Happening\nSTONK’s price action over the past 24 hours marks a notable dip, but on-chain data shows this is within the range of recent volatility. There’s no evidence of an unusual streak or outlier event driving this move. Trading activity remains elevated, indicating continued interest, but the sharp drop stands out against the backdrop of last week’s gains.\n\nRecent headlines suggest STONK has been volatile, with previous surges tied to the launch of StonkFun, a stock-paired Solana launchpad, which reportedly pulled volume to major Solana DEXs like Raydium and Jupiter. However, there’s no clear headline directly explaining today’s price drop, and no major exploit, listing, or protocol event has been confirmed as a cause.\n\n### Why It Matters\nSTONK’s recent rally and subsequent pullback highlight the token’s sensitivity to profit-taking and speculative flows. The token’s market cap has fluctuated significantly in the past two weeks, with headlines noting a surge to $190 million and a 250% rally earlier in the month. This volatility is drawing attention from traders and observers tracking Solana’s more experimental assets.\n\nThe elevated trading volume suggests STONK remains liquid and actively traded, which can be a double-edged sword: it enables swift price discovery but also amplifies swings when sentiment shifts. The fact that this drop is within the recent range suggests the market is still digesting prior gains rather than entering a new phase of selling.\n\n### The Risk or Debate\nThe main risk is continued volatility. STONK’s price has moved sharply both up and down in recent weeks, and with no clear catalyst for today’s drop, traders face uncertainty about what’s driving the action. Without a new protocol event or exploit, the move appears to be driven by short-term trading dynamics, possibly profit-taking after recent highs.\n\nAnother risk is that if STONK fails to stabilize, confidence in its recent rally could erode, leading to further downside. However, the absence of a clear negative event limits the immediate risk of a cascading selloff.\n\n### What To Watch\nThe next key level to watch is whether STONK can hold above $0.15, which would signal stabilization after this pullback. Sustained trading volume and price action in the coming days will indicate whether this is a brief correction or the start of a longer retracement. Any new headlines about protocol developments, exchange listings, or exploits could quickly change the narrative.",
+        "signal": "Cortex (CX) jumped 123.5% to $0.0340 in the last day, with no clear catalyst.",
+        "story": "Cortex (CX) saw its price more than double over the past 24 hours, rising 123.5% to $0.0340. This move pushed its market cap to $51.1 million, ranking it #433 by size. Trading volume also spiked to $4.6 million, indicating a sharp increase in activity.\\n\\n### What's Happening\\n\\nThe price surge for CX is notable, but on-chain data shows this move is within the recent range tracked over the last day. There is no evidence of an unusual streak or a multi-day rally; this appears to be a sharp, isolated jump. No recent headlines or major announcements have surfaced to explain the sudden interest or price action.\\n\\nThe 7-day change shows CX has more than doubled in value over the past week, but the bulk of the movement happened in the last 24 hours. The lack of accompanying news or protocol developments makes this move stand out as unexpected rather than part of a broader trend.\\n\\n### Why It Matters\\n\\nA 123% daily gain is significant for any token, especially one outside the top 400 by market cap. This kind of volatility can attract attention from traders and speculators looking for short-term opportunities. The spike in trading volume suggests that liquidity has improved, at least temporarily, making it easier for larger trades to occur without moving the price as much.\\n\\nFor the Cortex ecosystem, this surge could bring new users or capital, but without a clear catalyst, it's difficult to assess whether this momentum is sustainable. The absence of news or partnerships means the move is likely driven by trading dynamics rather than fundamental growth.\\n\\n### The Risk or Debate\\n\\nThe main risk here is the lack of transparency around what triggered the price jump. Without a clear reason, such moves can reverse quickly if traders lose confidence or if the surge was driven by speculative flows rather than lasting demand.\\n\\nTokens that experience sudden, unexplained volatility often face questions about market manipulation or coordinated trading activity. The absence of news or protocol updates increases uncertainty for anyone considering engagement with CX at current price levels.\\n\\n### What To Watch\\n\\nThe next key signal will be whether CX can hold above $0.0300 over the next 48 hours. Sustained trading volume and price stability would suggest the move has some staying power, while a rapid reversal could indicate the spike was short-lived. Any official communication from the Cortex team or major exchange listing could also clarify the situation.\\n\\nUntil then, the focus will be on whether this price level attracts new interest or if it fades as quickly as it appeared.",
         "takeaways": [
-          "STONK fell 16.6% in 24 hours, retracing recent gains.",
-          "No unusual on-chain trend or clear catalyst detected for the move.",
-          "Volatility remains high, but trading activity is still strong."
+          "Cortex (CX) surged 123.5% in 24 hours with no clear catalyst.",
+          "The price move is not part of a multi-day streak or trend.",
+          "Lack of news or protocol updates increases uncertainty about sustainability."
         ]
       },
-      "watchTrigger": "If STONK closes below $0.15 in the next 48 hours, it would confirm a deeper retracement.",
-      "riskLevel": "medium",
-      "narrativeStrength": 4.9
+      "watchTrigger": "CX holding above $0.0300 for the next 48 hours.",
+      "riskLevel": "high",
+      "narrativeStrength": 9.1
     },
     {
-      "id": "story_onchain-fundflow_1789493229664",
+      "id": "story_onchain-fundflow_1789579510266",
       "source": "onchain-fundflow",
-      "title": "Theo Network thBill TVL Drops 46% in 24 Hours",
+      "title": "Theo Network thBill TVL Drops 41% in 24 Hours",
       "type": "critical",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-09-15T17:27:09.664Z",
+      "timestamp": "2026-09-16T17:25:10.266Z",
       "sourceUrl": "https://app.theo.xyz/",
       "metrics": {
         "protocol": "Theo Network thBill",
-        "tvlUsd": 28830810.565708566,
-        "change1d": -46.4911038517658,
-        "change7d": 2727875733.1669874,
+        "tvlUsd": 28834616.392120916,
+        "change1d": -40.9437597091758,
+        "change7d": 4329567.901784865,
         "tokenSymbol": null,
         "tokenPriceUsd": null
       },
       "trend": {
-        "streakDays": 1,
+        "streakDays": 2,
         "streakDirection": "down",
-        "cumulativeChange": -46.49,
+        "cumulativeChange": -87.43,
         "isLargestInWindow": false,
-        "windowDays": 3
+        "windowDays": 4
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Theo Network thBill’s total value locked fell 46.5% in the last day, now at $28.8M.",
-        "story": "Theo Network thBill, an RWA protocol operating across Ethereum, Monad, Arbitrum, Solana, and Base, saw its TVL drop sharply by 46.5% over the past 24 hours. The protocol’s TVL now stands at $28.8 million. This move comes after an extraordinary surge over the past week, but no unusual multi-day streak is detected in the latest data. No recent headlines or clear external triggers are linked to this shift.\n\n### What's Happening\nTheo Network thBill’s TVL has experienced a steep single-day decline, erasing nearly half its locked value. This follows a period of extremely rapid growth over the past week, but the current drop falls within the recent three-day range tracked on-chain. The protocol does not have an associated token, so the movement reflects direct capital flows rather than token price volatility. No major news or events have been identified that would explain the timing or scale of this outflow.\n\n### Why It Matters\nLarge TVL swings in RWA protocols can signal shifting confidence or changing user strategies. Theo Network thBill’s cross-chain presence means its TVL changes may impact liquidity and integration across multiple ecosystems, including Solana. The absence of a native token means user engagement is likely driven by the protocol’s underlying RWA offerings rather than incentive programs or speculative trading. This volatility highlights the sensitivity of new RWA projects to sudden fund movements, even without external headlines or technical incidents.\n\n### The Risk or Debate\nA rapid TVL decline can raise questions about user retention, protocol stability, or the stickiness of recent inflows. Without a clear catalyst, it’s uncertain whether this is a routine rebalancing, a reaction to off-chain factors, or a sign of deeper concerns about the protocol’s RWA model. The lack of a token also removes some typical mechanisms for user alignment or recovery incentives. If TVL continues to fluctuate at this scale, confidence in the protocol’s ability to manage and sustain growth could be tested.\n\n### What To Watch\nFurther TVL movement in the next 48 hours will clarify whether this drop is a one-off adjustment or the start of a new trend. Watch for any protocol communications, ecosystem integrations, or new product launches that could influence user behavior. Sustained TVL below $25M would suggest a more persistent shift, while a rebound could indicate continued user engagement despite recent volatility.",
+        "signal": "Theo Network thBill’s total value locked fell 40.9% in the past day, now sitting at $28.8 million.",
+        "story": "Theo Network thBill, a real-world asset (RWA) protocol operating across Ethereum, Monad, Arbitrum, Solana, and Base, saw its TVL drop sharply by nearly 41% in the last 24 hours. This marks the second consecutive day of significant outflows, with TVL now down a cumulative 87.4% over that period. The protocol, which does not have an associated token, currently holds $28.8 million in locked value.\\n\\n### What's Happening\\n\\nThe abrupt decrease in TVL stands out, especially given the protocol’s recent explosive growth over the past week. While thBill’s TVL had surged by several million percent in the last seven days, that momentum has reversed quickly. No new headlines or public announcements have surfaced to explain the sudden shift, and there are no indications of a technical exploit or high-profile event tied to this move.\\n\\nThe absence of a native token means there are no direct price signals or incentive program changes to point to. The outflows are occurring across multiple chains, suggesting a coordinated withdrawal rather than an isolated technical issue.\\n\\n### Why It Matters\\n\\nA 41% daily TVL drop is significant for any protocol, but it is especially notable for an RWA platform that had just experienced rapid inflows. Such volatility can undermine user confidence, particularly in a sector where stability and trust are critical.\\n\\nThe scale and speed of the outflows may signal changing sentiment among large depositors or a shift in strategy by key users. For the broader DeFi and RWA ecosystem, this event highlights the fragility of recent growth and the potential for sharp reversals, even after periods of massive expansion.\\n\\nIf the trend continues, it could impact cross-chain liquidity and the perception of risk for similar protocols. Other platforms in the RWA space may see increased scrutiny or caution from users and partners as a result.\\n\\n### The Risk or Debate\\n\\nThe main risk is that continued outflows could trigger a negative feedback loop, with more users withdrawing funds out of caution. Without clear communication from the team or a public explanation, speculation around the cause can add to uncertainty.\\n\\nThere is also the possibility that the recent TVL spike was driven by a short-term event or large deposit that has now unwound, rather than organic user growth. This raises questions about the sustainability of TVL figures and the reliability of growth metrics in the RWA sector.\\n\\n### What To Watch\\n\\nThe key metric to monitor is whether TVL stabilizes above $25 million in the coming days. A continued slide below this level would confirm that outflows are ongoing and could indicate deeper structural issues or loss of confidence.\\n\\nAny official statement from the Theo Network thBill team, or new on-chain activity patterns, could provide clarity on the cause and whether this is a temporary correction or a longer-term shift.",
         "takeaways": [
-          "Theo Network thBill TVL dropped 46.5% in 24 hours, now at $28.8M.",
-          "No external headlines or clear causes are linked to the move.",
-          "The protocol operates without a token, so TVL reflects direct capital flows."
+          "Theo Network thBill TVL has dropped 41% in 24 hours, now at $28.8M.",
+          "This is the second day of major outflows, totaling an 87.4% decline.",
+          "No public explanation or technical incident has been identified so far."
         ]
       },
-      "watchTrigger": "Sustained TVL below $25M over the next 48 hours.",
-      "riskLevel": "medium",
-      "narrativeStrength": 8.4
+      "watchTrigger": "TVL falling below $25 million within the next 48 hours.",
+      "riskLevel": "high",
+      "narrativeStrength": 7.8
     }
   ]
 }
