@@ -1,34 +1,34 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "MARKET",
-      "title": "Did crypto’s $20 Billion DeFi surge just get stolen by price inflation?",
-      "category": "MARKET",
-      "source": "CryptoSlate",
-      "date": "2026-09-15",
-      "url": "https://cryptoslate.com/did-cryptos-20-billion-defi-surge-just-get-stolen-by-price-inflation",
-      "whyYouShouldCare": "The $20 billion DeFi surge highlights the impact of price inflation on liquidity, which could affect Solana's market positioning and investor confidence."
-    },
-    {
       "type": "APPS",
-      "title": "Solana’s blockchain gaming debate is shifting: Web3 opportunity may be moving around the game",
+      "title": "Solana’s V1 upgrade makes transactions 3.3x bigger – What does it mean for SOL?",
       "category": "APPS",
       "source": "AMB Crypto",
-      "date": "2026-09-15",
-      "url": "https://ambcrypto.com/solanas-blockchain-gaming-debate-is-shifting-web3-opportunity-may-be-moving-around-the-game",
-      "whyYouShouldCare": "The evolving debate around blockchain gaming on Solana indicates a potential shift in Web3 opportunities, which could enhance ecosystem engagement and attract new developers."
+      "date": "2026-09-16",
+      "url": "https://ambcrypto.com/solanas-v1-upgrade-makes-transactions-3-3x-bigger-what-does-it-mean-for-sol",
+      "whyYouShouldCare": "The V1 upgrade enhances transaction capacity, potentially increasing network efficiency and attracting more users and developers to the Solana ecosystem."
+    },
+    {
+      "type": "INFRA",
+      "title": "Solana nearly froze as a single routing error took 29% of the network stake offline",
+      "category": "INFRA",
+      "source": "CryptoSlate",
+      "date": "2026-09-16",
+      "url": "https://cryptoslate.com/solana-nearly-froze-as-a-single-routing-error-took-29-of-the-network-stake-offline",
+      "whyYouShouldCare": "The recent network freeze due to a routing error highlights vulnerabilities in Solana's infrastructure, which could impact user confidence and overall network reliability."
     },
     {
       "type": "APPS",
-      "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
+      "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
       "category": "APPS",
       "source": "CoinDesk",
       "date": "2026-09-15",
-      "url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
-      "whyYouShouldCare": "Increased transaction sizes on Solana, now over three times larger, suggest improved network efficiency, which may enhance its competitiveness against Ethereum."
+      "url": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
+      "whyYouShouldCare": "Kamino's leadership change signals a strategic push into the U.S. market, which could enhance liquidity and broaden Solana's lending ecosystem."
     }
   ]
 }

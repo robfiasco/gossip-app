@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-15",
-  "generated_at_utc": "2026-09-15T21:55:07.852Z",
-  "ctxMarket": "Attention is focused on Solana’s technical upgrades and institutional moves, with several headlines highlighting network improvements and capital markets activity. Tokenized assets and blockchain gaming debates are also drawing interest.",
-  "ctxTalking": "• Kamino appoints fintech veteran Michael Weisz as CEO, signaling a major U.S. expansion and focus on tokenized assets.\n• Solana’s mainnet upgrade more than triples transaction size limits, enabling more complex transactions and narrowing the gap with Ethereum.\n• Ongoing debate about the future of blockchain gaming on Solana, with shifting narratives among leadership and developers.",
-  "ctxMatters": "Institutional leadership and expansion could accelerate adoption of tokenized assets on Solana.\nThe transaction size upgrade allows for more advanced DeFi and privacy features, potentially attracting new developers.\nThe gaming debate reflects uncertainty about where Web3 opportunities will emerge on Solana.",
-  "ctxSignal": "Signal: Technical upgrades and leadership changes are directly impacting Solana’s ecosystem and capabilities.\nNoise: Short-term speculation about tokenized stock trading’s impact on SOL demand lacks clear evidence.",
-  "ctxGlossary": "Tokenized assets — Real-world or digital assets represented on a blockchain.\nTransaction size limit — The maximum data allowed per transaction on a blockchain.\nZero-knowledge proofs — Cryptographic methods enabling private verification of information.",
+  "date": "2026-09-16",
+  "generated_at_utc": "2026-09-16T12:24:47.005Z",
+  "ctxMarket": "Attention is on Solana’s network reliability after a routing error took 29% of stake offline, nearly freezing the chain. The V1 mainnet upgrade, which more than tripled transaction size limits, is also in focus for its scaling impact.",
+  "ctxTalking": "• Solana’s near-freeze from the Teraswitch routing failure and its implications for network stability\n• The V1 upgrade expanding transaction capacity and enabling larger, more complex transactions\n• Kamino’s U.S. expansion and leadership change as it targets tokenized assets",
+  "ctxMatters": "Solana’s ability to maintain uptime despite major disruptions is under scrutiny, especially as it pushes for institutional adoption. The V1 upgrade allows for bigger transactions, supporting advanced use cases like zero-knowledge proofs and multi-signature operations. Kamino’s expansion signals growing DeFi and tokenized asset activity on Solana.",
+  "ctxSignal": "Signal: Network resilience during the Teraswitch incident and the technical scope of the V1 upgrade.\nNoise: Assumptions that increased network activity or tokenized stocks will directly drive SOL demand.",
+  "ctxGlossary": "Teraswitch — A routing failure event that temporarily took 29% of Solana’s stake offline.\nV1 upgrade — Solana’s mainnet update that increased transaction size limits to 4,096 bytes.\nTokenized assets — Real-world assets represented as tokens on the blockchain.",
   "readMore": [
+    {
+      "title": "Solana nearly froze as a single routing error took 29% of the network stake offline",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solana-nearly-froze-as-a-single-routing-error-took-29-of-the-network-stake-offline"
+    },
+    {
+      "title": "Solana’s V1 upgrade makes transactions 3.3x bigger – What does it mean for SOL?",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/solanas-v1-upgrade-makes-transactions-3-3x-bigger-what-does-it-mean-for-sol"
+    },
     {
       "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion"
-    },
-    {
-      "title": "Solana’s blockchain gaming debate is shifting",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solanas-blockchain-gaming-debate-is-shifting-web3-opportunity-may-be-moving-around-the-game"
-    },
-    {
-      "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/378183/solana-defi-development-corp-chad"
     }
   ]
 }
