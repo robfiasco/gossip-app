@@ -1,26 +1,26 @@
 {
   "date": "2026-09-16",
-  "generated_at_utc": "2026-09-16T12:24:47.005Z",
-  "ctxMarket": "Attention is on Solana’s network reliability after a routing error took 29% of stake offline, nearly freezing the chain. The V1 mainnet upgrade, which more than tripled transaction size limits, is also in focus for its scaling impact.",
-  "ctxTalking": "• Solana’s near-freeze from the Teraswitch routing failure and its implications for network stability\n• The V1 upgrade expanding transaction capacity and enabling larger, more complex transactions\n• Kamino’s U.S. expansion and leadership change as it targets tokenized assets",
-  "ctxMatters": "Solana’s ability to maintain uptime despite major disruptions is under scrutiny, especially as it pushes for institutional adoption. The V1 upgrade allows for bigger transactions, supporting advanced use cases like zero-knowledge proofs and multi-signature operations. Kamino’s expansion signals growing DeFi and tokenized asset activity on Solana.",
-  "ctxSignal": "Signal: Network resilience during the Teraswitch incident and the technical scope of the V1 upgrade.\nNoise: Assumptions that increased network activity or tokenized stocks will directly drive SOL demand.",
-  "ctxGlossary": "Teraswitch — A routing failure event that temporarily took 29% of Solana’s stake offline.\nV1 upgrade — Solana’s mainnet update that increased transaction size limits to 4,096 bytes.\nTokenized assets — Real-world assets represented as tokens on the blockchain.",
+  "generated_at_utc": "2026-09-16T21:52:49.518Z",
+  "ctxMarket": "Attention is on Solana’s major network upgrades, which coincide with record activity levels. There is also focus on new DeFi offerings and the push for tokenized stock trading.",
+  "ctxTalking": "• Solana is increasing transaction size and speeding up slots to handle surging network activity.\n• DeFi Development has launched a $300M CHAD offering with a notable dividend component.\n• Tokenized stock trading on Solana is being watched as a potential real-world use case.",
+  "ctxMatters": "Solana’s upgrades could improve network efficiency and support more complex applications. Large DeFi offerings signal continued institutional and developer interest. The move toward tokenized stocks may expand Solana’s relevance beyond crypto-native use cases.",
+  "ctxSignal": "Signal: Solana’s technical upgrades and sustained uptime are being closely tracked by users and builders.\nNoise: Assumptions that higher network activity directly translates to increased SOL demand remain speculative.",
+  "ctxGlossary": "Slot — A discrete time interval in Solana during which a validator can propose a block.\nTokenized Stock — A digital asset representing shares of a traditional company, tradable on blockchain platforms.",
   "readMore": [
     {
-      "title": "Solana nearly froze as a single routing error took 29% of the network stake offline",
+      "title": "Solana triples transaction size as major upgrades meet record network activity",
       "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/solana-nearly-froze-as-a-single-routing-error-took-29-of-the-network-stake-offline"
+      "url": "https://cryptoslate.com/solana-triples-transaction-size-as-major-upgrades-meet-record-network-activity"
     },
     {
-      "title": "Solana’s V1 upgrade makes transactions 3.3x bigger – What does it mean for SOL?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solanas-v1-upgrade-makes-transactions-3-3x-bigger-what-does-it-mean-for-sol"
+      "title": "Three Signals to Watch as Solana Pushes 24/7 Tokenized Stock Trading",
+      "source": "CryptoPotato",
+      "url": "https://cryptopotato.com/three-signals-to-watch-as-solana-pushes-24-7-tokenized-stock-trading"
     },
     {
-      "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion"
+      "title": "Solana",
+      "source": "Solana News",
+      "url": "https://solana.com/news/solana-building-trust-in-public"
     }
   ]
 }
