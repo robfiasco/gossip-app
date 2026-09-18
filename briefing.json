@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "APPS",
+      "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
+      "category": "APPS",
+      "source": "The Block",
+      "date": "2026-09-18",
+      "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
+      "whyYouShouldCare": "Bitcoin's surge to $80,000 boosts overall market sentiment, positively impacting Solana's visibility and potential liquidity in the crypto ecosystem."
+    },
+    {
       "type": "INFRA",
       "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
       "category": "INFRA",
       "source": "CoinDesk",
       "date": "2026-09-18",
       "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-      "whyYouShouldCare": "The 17% increase in block speed enhances Solana's efficiency, but maintaining transaction capacity indicates potential limits on scalability and user demand."
+      "whyYouShouldCare": "While Solana's block speed improvement enhances performance, the unchanged transaction capacity may limit its scalability and competitiveness against other networks."
     },
     {
-      "type": "APPS",
-      "title": "Mapping Pi Network’s 15% decline – 3 signals point to more downside",
-      "category": "APPS",
-      "source": "AMB Crypto",
+      "type": "MARKET",
+      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+      "category": "MARKET",
+      "source": "Decrypt",
       "date": "2026-09-18",
-      "url": "https://ambcrypto.com/mapping-pi-networks-15-decline-3-signals-point-to-more-downside",
-      "whyYouShouldCare": "The 15% decline in Pi Network signals potential ongoing weakness, which could impact broader market sentiment and liquidity for related projects."
-    },
-    {
-      "type": "RISK",
-      "title": "Your crypto hardware wallet can stay secure while everything around it fails",
-      "category": "RISK",
-      "source": "CryptoSlate",
-      "date": "2026-09-18",
-      "url": "https://cryptoslate.com/your-crypto-hardware-wallet-can-stay-secure-while-everything-around-it-fails",
-      "whyYouShouldCare": "The resilience of crypto hardware wallets amid market volatility underscores their importance in securing assets, potentially boosting user confidence in the Solana ecosystem."
+      "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
+      "whyYouShouldCare": "Coinbase's move to list single-stock perpetuals could attract more institutional interest, indirectly benefiting Solana by increasing overall market engagement."
     }
   ]
 }

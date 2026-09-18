@@ -1,12 +1,17 @@
 {
   "date": "2026-09-18",
-  "generated_at_utc": "2026-09-18T12:03:48.262Z",
-  "ctxMarket": "Attention is on Solana’s technical upgrades and expanding real-world use cases, rather than price or volume shifts. Recent improvements in block speed and institutional partnerships are driving discussion.",
-  "ctxTalking": "• Solana’s block times have sped up by 17%, though transaction capacity remains unchanged\n• Project Harmonia is linking major institutional funds to Solana’s tokenized assets\n• Tokenized stock trading on Solana is being closely watched as a potential mainstream application",
-  "ctxMatters": "Faster block times could improve user experience for apps needing up-to-date blockchain data. Institutional interest via Project Harmonia signals growing confidence in Solana’s infrastructure. Tokenized stocks highlight Solana’s push for real-world financial integration, but network activity alone may not impact SOL demand.",
-  "ctxSignal": "Signal: Technical upgrades and institutional partnerships are shaping Solana’s ecosystem.\nNoise: Assuming higher network activity will automatically increase SOL demand.",
-  "ctxGlossary": "Slot time — The target interval for producing a new block on Solana.\nTokenized stocks — Digital representations of real-world stocks traded on blockchain platforms.",
+  "generated_at_utc": "2026-09-18T21:24:55.157Z",
+  "ctxMarket": "Attention is on Solana’s technical upgrades and institutional adoption, as crypto markets rebound despite legislative uncertainty. The network’s recent performance and new use cases are drawing interest from both developers and traditional finance.",
+  "ctxTalking": "• Solana’s block production is now 17% faster, though transaction capacity remains unchanged\n• Project Harmonia is connecting major institutional funds to Solana’s tokenized assets\n• Tokenized stock trading is emerging as a potential real-world use case for Solana",
+  "ctxMatters": "Faster block times can improve user experience for apps needing real-time data. Institutional interest, such as Allfunds’ involvement, signals growing confidence in Solana’s infrastructure. Tokenized stocks could broaden Solana’s appeal, but network activity alone may not directly impact SOL demand.",
+  "ctxSignal": "Signal: Institutional integration and technical upgrades are advancing, with Solana maintaining strong uptime.\nNoise: Legislative setbacks like the Clarity Act stall have not dampened market or builder momentum.",
+  "ctxGlossary": "Slot time — The target interval for producing a new block on Solana.\nTokenized stocks — Traditional stocks represented as blockchain-based tokens for 24/7 trading.",
   "readMore": [
+    {
+      "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
+      "source": "The Block",
+      "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523"
+    },
     {
       "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
       "source": "CoinDesk",
@@ -16,11 +21,6 @@
       "title": "Project Harmonia Brings Institutional Tokenized Funds to Solana",
       "source": "Solana News",
       "url": "https://solana.com/news/project-harmonia-brings-institutional-tokenized-funds-to-solana"
-    },
-    {
-      "title": "Three Signals to Watch as Solana Pushes 24/7 Tokenized Stock Trading",
-      "source": "CryptoPotato",
-      "url": "https://cryptopotato.com/three-signals-to-watch-as-solana-pushes-24-7-tokenized-stock-trading"
     }
   ]
 }
