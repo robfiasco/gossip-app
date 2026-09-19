@@ -1,11 +1,25 @@
 [
   {
+    "id": "b029d01b4c42d07d19e0333f27914a8580266a9c",
+    "title": "Signal Board Summary 2026-09-19",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-09-19T11:46:41.003Z",
+    "lastSeenAt": "2026-09-19T11:46:41.003Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "4b07b24b63b98a881a88b5c76b3ecb866b272a2e",
     "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
     "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
     "source": "CoinDesk",
     "firstSeenAt": "2026-09-18T12:03:41.959Z",
-    "lastSeenAt": "2026-09-18T21:24:46.894Z",
+    "lastSeenAt": "2026-09-19T11:46:35.026Z",
     "sectionShown": "briefing",
     "topicTags": [
       "solana",
@@ -26,7 +40,7 @@
     "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
     "source": "The Block",
     "firstSeenAt": "2026-09-18T21:24:46.894Z",
-    "lastSeenAt": "2026-09-18T21:24:46.894Z",
+    "lastSeenAt": "2026-09-19T11:46:35.026Z",
     "sectionShown": "briefing",
     "topicTags": [
       "bitcoin",
@@ -37,6 +51,27 @@
       "crypto",
       "markets",
       "shrug"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "e55af67cf6a82aed3794d511a5ad48d07e1c568d",
+    "title": "XRP vs Solana vs Cardano — Which altcoin will have the best September?",
+    "url": "https://ambcrypto.com/xrp-vs-solana-vs-cardano-which-altcoin-will-have-the-best-september",
+    "source": "AMB Crypto",
+    "firstSeenAt": "2026-09-19T11:46:35.025Z",
+    "lastSeenAt": "2026-09-19T11:46:35.025Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "solana",
+      "cardano",
+      "which",
+      "altcoin",
+      "will",
+      "have",
+      "best",
+      "september"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -121,62 +156,6 @@
       "inflows",
       "turn",
       "negative"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "b044c5311e79f2501aebfadc6a21fda3f7f04763",
-    "title": "Signal Board Summary 2026-09-16",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-09-16T21:52:49.521Z",
-    "lastSeenAt": "2026-09-16T21:52:49.521Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "ca0f1c3206e384357a02392fe6120863dc7c15b3",
-    "title": "Solana treasury giant DeFi Development opens $300M CHAD offering backed by a massive 13% dividend catch",
-    "url": "https://cryptoslate.com/solana-treasury-giant-defi-development-opens-300m-chad-offering-backed-by-a-massive-13-dividend-catch",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-09-16T21:52:43.676Z",
-    "lastSeenAt": "2026-09-16T21:52:43.676Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "treasury",
-      "giant",
-      "defi",
-      "development",
-      "opens",
-      "300m",
-      "chad"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "9b5290caf1b46d6077f9d91fbc70ce117a509dd5",
-    "title": "Solana triples transaction size as major upgrades meet record network activity",
-    "url": "https://cryptoslate.com/solana-triples-transaction-size-as-major-upgrades-meet-record-network-activity",
-    "source": "CryptoSlate",
-    "firstSeenAt": "2026-09-16T21:52:43.675Z",
-    "lastSeenAt": "2026-09-16T21:52:43.675Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "triples",
-      "transaction",
-      "size",
-      "major",
-      "upgrades",
-      "meet",
-      "record"
     ],
     "majorUpdate": false,
     "updateReason": null

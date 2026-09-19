@@ -1,8 +1,17 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "XRP vs Solana vs Cardano — Which altcoin will have the best September?",
+      "category": "APPS",
+      "source": "AMB Crypto",
+      "date": "2026-09-19",
+      "url": "https://ambcrypto.com/xrp-vs-solana-vs-cardano-which-altcoin-will-have-the-best-september",
+      "whyYouShouldCare": "Comparing altcoins like XRP, Solana, and Cardano can reveal competitive advantages and market positioning that may influence investor interest and ecosystem growth."
+    },
     {
       "type": "APPS",
       "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
@@ -10,7 +19,7 @@
       "source": "The Block",
       "date": "2026-09-18",
       "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
-      "whyYouShouldCare": "Bitcoin's surge to $80,000 boosts overall market sentiment, positively impacting Solana's visibility and potential liquidity in the crypto ecosystem."
+      "whyYouShouldCare": "Bitcoin's price recovery and Solana's rally indicate strong market sentiment, which could enhance liquidity and user engagement within the Solana ecosystem."
     },
     {
       "type": "INFRA",
@@ -19,16 +28,7 @@
       "source": "CoinDesk",
       "date": "2026-09-18",
       "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-      "whyYouShouldCare": "While Solana's block speed improvement enhances performance, the unchanged transaction capacity may limit its scalability and competitiveness against other networks."
-    },
-    {
-      "type": "MARKET",
-      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
-      "category": "MARKET",
-      "source": "Decrypt",
-      "date": "2026-09-18",
-      "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
-      "whyYouShouldCare": "Coinbase's move to list single-stock perpetuals could attract more institutional interest, indirectly benefiting Solana by increasing overall market engagement."
+      "whyYouShouldCare": "Improved block speeds in Solana may enhance user experience, but unchanged transaction capacity suggests potential limitations in scaling and throughput that could affect adoption."
     }
   ]
 }

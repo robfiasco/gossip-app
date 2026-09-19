@@ -1,11 +1,25 @@
 [
   {
+    "id": "b029d01b4c42d07d19e0333f27914a8580266a9c",
+    "title": "Signal Board Summary 2026-09-19",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-09-19T11:46:41.003Z",
+    "lastSeenAt": "2026-09-19T11:46:41.003Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "4b07b24b63b98a881a88b5c76b3ecb866b272a2e",
     "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
     "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
     "source": "CoinDesk",
     "firstSeenAt": "2026-09-18T12:03:41.959Z",
-    "lastSeenAt": "2026-09-18T21:24:46.894Z",
+    "lastSeenAt": "2026-09-19T11:46:35.026Z",
     "sectionShown": "briefing",
     "topicTags": [
       "solana",
@@ -26,7 +40,7 @@
     "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
     "source": "The Block",
     "firstSeenAt": "2026-09-18T21:24:46.894Z",
-    "lastSeenAt": "2026-09-18T21:24:46.894Z",
+    "lastSeenAt": "2026-09-19T11:46:35.026Z",
     "sectionShown": "briefing",
     "topicTags": [
       "bitcoin",
@@ -42,64 +56,22 @@
     "updateReason": null
   },
   {
-    "id": "4a904e95e5ca7a8eaaed794a0b63243a6091cdc9",
-    "title": "Solana price holds $100 as VIDAx volume on-chain hits 12.6x exchange levels",
-    "url": "https://ambcrypto.com/solana-price-holds-100-as-vidax-volume-on-chain-hits-12-6x-exchange-levels",
+    "id": "e55af67cf6a82aed3794d511a5ad48d07e1c568d",
+    "title": "XRP vs Solana vs Cardano — Which altcoin will have the best September?",
+    "url": "https://ambcrypto.com/xrp-vs-solana-vs-cardano-which-altcoin-will-have-the-best-september",
     "source": "AMB Crypto",
-    "firstSeenAt": "2026-09-17T21:54:23.644Z",
-    "lastSeenAt": "2026-09-17T21:54:23.644Z",
+    "firstSeenAt": "2026-09-19T11:46:35.025Z",
+    "lastSeenAt": "2026-09-19T11:46:35.025Z",
     "sectionShown": "briefing",
     "topicTags": [
       "solana",
-      "price",
-      "holds",
-      "vidax",
-      "volume",
-      "chain",
-      "hits",
-      "exchange"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "f563379e1f9b29bb5ce0699b938489df171eccd8",
-    "title": "Project Harmonia Brings Institutional Tokenized Funds to Solana",
-    "url": "https://solana.com/news/project-harmonia-brings-institutional-tokenized-funds-to-solana",
-    "source": "Solana News",
-    "firstSeenAt": "2026-09-17T21:54:23.644Z",
-    "lastSeenAt": "2026-09-17T21:54:23.644Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "project",
-      "harmonia",
-      "brings",
-      "institutional",
-      "tokenized",
-      "funds",
-      "solana",
-      "connects"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "0511e20f83cb6288972ac68c3392da0365363304",
-    "title": "Raydium rallies 12% as earnings hit yearly high – RAY’s next move depends on THIS",
-    "url": "https://ambcrypto.com/raydium-rallies-12-as-earnings-hit-yearly-high-rays-next-move-depends-on-this",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-09-17T21:54:23.644Z",
-    "lastSeenAt": "2026-09-17T21:54:23.644Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "raydium",
-      "rallies",
-      "earnings",
-      "yearly",
-      "high",
-      "next",
-      "move",
-      "depends"
+      "cardano",
+      "which",
+      "altcoin",
+      "will",
+      "have",
+      "best",
+      "september"
     ],
     "majorUpdate": false,
     "updateReason": null
