@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "APPS",
-      "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-      "category": "APPS",
-      "source": "Decrypt",
-      "date": "2026-09-19",
-      "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
-      "whyYouShouldCare": "Faster block times enhance Solana's transaction efficiency, potentially attracting more developers and users to the ecosystem, which could strengthen SOL's market position."
+      "type": "ECOSYSTEM",
+      "title": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
+      "category": "ECOSYSTEM",
+      "source": "The Block",
+      "date": "2026-09-20",
+      "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
+      "whyYouShouldCare": "ZetaChain's migration to Solana could enhance liquidity and user engagement, positioning SOL as a more attractive platform for decentralized applications."
     },
     {
-      "type": "MARKET",
-      "title": "Raydium’s 26% rally cools down below $1.80 — Is downside liquidity calling for RAY?",
-      "category": "MARKET",
+      "type": "INFRA",
+      "title": "Why Solana’s new 250ms speed boost could actually trigger network instability",
+      "category": "INFRA",
+      "source": "CryptoSlate",
+      "date": "2026-09-20",
+      "url": "https://cryptoslate.com/solanas-250ms-slots-turn-validator-coordination-into-the-networks-next-security-test",
+      "whyYouShouldCare": "The new speed boost may improve transaction efficiency, but potential instability could deter developers and users, impacting overall network reliability."
+    },
+    {
+      "type": "APPS",
+      "title": "Solana’s October setup: Record activity, ETF inflows, and a brewing breakout",
+      "category": "APPS",
       "source": "AMB Crypto",
-      "date": "2026-09-19",
-      "url": "https://ambcrypto.com/raydiums-26-rally-cools-down-below-1-80-is-downside-liquidity-calling-for-ray",
-      "whyYouShouldCare": "Raydium's price correction may indicate shifting liquidity dynamics, which could impact overall trading volume and investor sentiment in the Solana ecosystem."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana Changelog: September 18, 2026",
-      "category": "APPS",
-      "source": "Solana News",
-      "date": "2026-09-19",
-      "url": "https://solana.com/news/solana-changelog-september-18-2026",
-      "whyYouShouldCare": "Regular updates in the Solana changelog reflect ongoing development efforts, crucial for maintaining network reliability and fostering community trust in SOL's long-term viability."
+      "date": "2026-09-20",
+      "url": "https://ambcrypto.com/solanas-october-setup-record-activity-etf-inflows-and-a-brewing-breakout",
+      "whyYouShouldCare": "Increased activity and ETF inflows suggest growing interest in Solana, which could lead to a significant price movement and strengthen its market position."
     }
   ]
 }

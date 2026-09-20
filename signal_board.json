@@ -1,26 +1,26 @@
 {
   "date": "2026-09-20",
-  "generated_at_utc": "2026-09-20T12:00:14.759Z",
-  "ctxMarket": "Attention is on Solana’s technical upgrades and the impact of recent rallies in ecosystem tokens like WIF and Raydium. Broader crypto markets are rebounding, with Bitcoin reclaiming $80,000 and Solana assets moving alongside.",
-  "ctxTalking": "• Solana’s latest speed upgrade, reducing block times by 17% without increasing transaction capacity\n• Notable rallies and subsequent cool-offs in WIF and Raydium, with speculation about potential pullbacks\n• Institutional interest, as Project Harmonia brings tokenized funds to Solana",
-  "ctxMatters": "Faster block times mean fresher data for Solana applications and potentially improved user experience, though throughput remains unchanged. Token rallies highlight volatility and shifting liquidity within the Solana ecosystem. Institutional projects like Harmonia could expand Solana’s reach into traditional finance.",
-  "ctxSignal": "Signal: Solana’s technical changes and institutional integrations are shaping network capabilities and perception.\nNoise: Short-term price predictions for tokens like WIF and Raydium without clear underlying shifts.",
-  "ctxGlossary": "Block time — The interval between new blocks being added to a blockchain.\nTokenized funds — Traditional investment funds represented as blockchain tokens.\nSlot — A fixed time window in Solana during which a validator can produce a block.",
+  "generated_at_utc": "2026-09-20T21:09:45.217Z",
+  "ctxMarket": "Attention is on Solana’s technical upgrades, with a 17% block time reduction and a push toward 250ms slots. Institutional interest is highlighted by Project Harmonia’s integration, while migration news from other chains is drawing focus.",
+  "ctxTalking": "• ZetaChain’s community vote to shut down its Layer 1 and migrate ZETA to Solana\n• Solana’s speed upgrades and their potential for network instability\n• Institutional tokenized funds launching on Solana via Project Harmonia",
+  "ctxMatters": "Solana’s faster block times mean fresher data for apps, but may introduce new technical risks. Migration of projects like ZetaChain signals growing confidence in Solana’s ecosystem. Institutional fund tokenization could broaden Solana’s use cases and user base.",
+  "ctxSignal": "Signal: Concrete network upgrades, major project migrations, and institutional adoption efforts.\nNoise: Speculation about price breakouts not directly tied to technical or ecosystem changes.",
+  "ctxGlossary": "Slot time — The target interval for producing a new block on Solana.\nTokenized funds — Traditional investment funds represented as digital tokens on a blockchain.",
   "readMore": [
     {
-      "title": "WIF price prediction — Here’s why a pullback may be next despite 13% hike",
+      "title": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
+      "source": "The Block",
+      "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878"
+    },
+    {
+      "title": "Why Solana’s new 250ms speed boost could actually trigger network instability",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solanas-250ms-slots-turn-validator-coordination-into-the-networks-next-security-test"
+    },
+    {
+      "title": "Solana’s October setup",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/wif-price-prediction-heres-why-a-pullback-may-be-next-despite-13-hike"
-    },
-    {
-      "title": "Solana's Heartbeat Quickens",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade"
-    },
-    {
-      "title": "Solana Changelog",
-      "source": "Solana News",
-      "url": "https://solana.com/news/solana-changelog-september-18-2026"
+      "url": "https://ambcrypto.com/solanas-october-setup-record-activity-etf-inflows-and-a-brewing-breakout"
     }
   ]
 }
