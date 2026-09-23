@@ -1,34 +1,34 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "APPS",
-      "title": "Can Solana break $120? Examining the battle between SOL ETF inflows and profit-taking",
-      "category": "APPS",
+      "type": "MARKET",
+      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
+      "category": "MARKET",
+      "source": "CoinDesk",
+      "date": "2026-09-23",
+      "url": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
+      "whyYouShouldCare": "Reducing finality from 12.8 seconds to 150 milliseconds could significantly enhance Solana's transaction efficiency, attracting more developers and users to the network."
+    },
+    {
+      "type": "MARKET",
+      "title": "Solana’s DEX trades overtake NYSE: Is this SOL’s next Q4 catalyst?",
+      "category": "MARKET",
       "source": "AMB Crypto",
-      "date": "2026-09-22",
-      "url": "https://ambcrypto.com/can-solana-break-120-examining-the-battle-between-sol-etf-inflows-and-profit-taking",
-      "whyYouShouldCare": "The balance between SOL ETF inflows and profit-taking will significantly influence price movements and market sentiment around the $120 threshold."
+      "date": "2026-09-23",
+      "url": "https://ambcrypto.com/solanas-dex-trades-overtake-nyse-is-this-sols-next-q4-catalyst",
+      "whyYouShouldCare": "Solana's DEX surpassing NYSE in trades indicates growing liquidity and user engagement, potentially positioning SOL favorably for Q4 performance."
     },
     {
-      "type": "ECOSYSTEM",
-      "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
-      "category": "ECOSYSTEM",
-      "source": "Decrypt",
-      "date": "2026-09-22",
-      "url": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
-      "whyYouShouldCare": "The launch of GPT-6 Sol could enhance Solana's ecosystem, attracting developers and users, thereby increasing network activity and potential liquidity."
-    },
-    {
-      "type": "ECOSYSTEM",
-      "title": "Moscow Exchange launches 5 crypto perpetual futures as demand tops 600 billion rubles",
-      "category": "ECOSYSTEM",
+      "type": "APPS",
+      "title": "Solana flips Ethereum in fees, while ETH holds the burn lead",
+      "category": "APPS",
       "source": "CryptoSlate",
-      "date": "2026-09-22",
-      "url": "https://cryptoslate.com/moscow-exchange-launches-5-crypto-perpetual-futures-as-demand-tops-600-billion-rubles",
-      "whyYouShouldCare": "The introduction of crypto perpetual futures on the Moscow Exchange indicates growing institutional interest, which may enhance liquidity and trading volume for Solana."
+      "date": "2026-09-23",
+      "url": "https://cryptoslate.com/solana-flips-ethereum-in-fees-while-eth-holds-the-burn-lead",
+      "whyYouShouldCare": "Solana's increase in fees over Ethereum suggests a shift in user preference, which may enhance its ecosystem's sustainability and overall market competitiveness."
     }
   ]
 }

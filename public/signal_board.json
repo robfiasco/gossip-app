@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-22",
-  "generated_at_utc": "2026-09-22T21:46:41.959Z",
-  "ctxMarket": "Attention is on Solana’s climb to a 10-month high, attributed to strong institutional inflows and ETF-related activity. Major exchanges and projects are spotlighting Solana in new products and integrations.",
-  "ctxTalking": "• Solana’s price surge amid ETF inflows and profit-taking dynamics\n• Raydium’s dominance in StonkFun trading volume and its impact on RAY token\n• Moscow Exchange launching perpetual futures for Solana and other major tokens",
-  "ctxMatters": "Institutional engagement and new financial products may influence Solana’s liquidity and visibility. Integration with tokenized funds and AI payment solutions signals growing adoption beyond retail. Protocol upgrades targeting faster slots and lower fees could affect developer and user experience.",
-  "ctxSignal": "Signal: Institutional inflows, exchange product launches, and protocol upgrades directly impact Solana’s ecosystem.\nNoise: Short-term speculation on whether RAY’s rally can sustain if StonkFun activity drops.",
-  "ctxGlossary": "ETF — Exchange-traded fund; a financial product tracking an asset or group of assets.\nPerpetual futures — Derivatives allowing continuous trading of an asset’s price without expiry.\nTVL — Total value locked; the sum of assets deposited in a protocol.",
+  "date": "2026-09-23",
+  "generated_at_utc": "2026-09-23T12:32:24.495Z",
+  "ctxMarket": "Attention is on Solana’s on-chain activity after its weekly DEX trades surpassed those of the NYSE for the first time. Fee generation and network upgrades are also in focus, with comparisons to Ethereum and new technical milestones.",
+  "ctxTalking": "• Solana’s DEX trade volume overtaking the NYSE and implications for on-chain metrics\n• Solana surpassing Ethereum in fee generation, while ETH remains ahead in token burn\n• Testing of Alpenglow upgrade, aiming to cut transaction finality to near-instant speeds",
+  "ctxMatters": "These developments highlight Solana’s growing role in decentralized trading and network usage. Faster transaction finality and lower fees could attract more builders and users. Comparisons with Ethereum frame ongoing competition in network efficiency and economic incentives.",
+  "ctxSignal": "Signal: Solana’s DEX activity and technical upgrades are shifting industry benchmarks for speed and volume.\nNoise: Short-term fee and burn comparisons without context on sustainability or user impact.",
+  "ctxGlossary": "Finality — The point at which a blockchain transaction is considered irreversible.\nDEX — Decentralized exchange, a platform for peer-to-peer crypto trading without intermediaries.",
   "readMore": [
     {
-      "title": "Can Solana break $120? Examining the battle between SOL ETF inflows and profit-taking",
+      "title": "Solana’s DEX trades overtake NYSE",
       "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/can-solana-break-120-examining-the-battle-between-sol-etf-inflows-and-profit-taking"
+      "url": "https://ambcrypto.com/solanas-dex-trades-overtake-nyse-is-this-sols-next-q4-catalyst"
     },
     {
-      "title": "Moscow Exchange launches 5 crypto perpetual futures as demand tops 600 billion rubles",
+      "title": "Solana flips Ethereum in fees, while ETH holds the burn lead",
       "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/moscow-exchange-launches-5-crypto-perpetual-futures-as-demand-tops-600-billion-rubles"
+      "url": "https://cryptoslate.com/solana-flips-ethereum-in-fees-while-eth-holds-the-burn-lead"
     },
     {
-      "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments"
+      "url": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds"
     }
   ]
 }
