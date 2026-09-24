@@ -1,8 +1,17 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
+      "category": "APPS",
+      "source": "Cointelegraph",
+      "date": "2026-09-24",
+      "url": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise",
+      "whyYouShouldCare": "Institutional resilience during market downturns indicates a potential for sustained interest in crypto, which could enhance Solana's liquidity and ecosystem stability."
+    },
     {
       "type": "APPS",
       "title": "Stocks Go Onchain: What the SEC's Innovation Exemption Means for Solana",
@@ -10,25 +19,16 @@
       "source": "Solana News",
       "date": "2026-09-23",
       "url": "https://solana.com/news/stocks-sec-innovation-exemption",
-      "whyYouShouldCare": "The SEC's Innovation Exemption could enhance Solana's appeal for tokenized stocks, potentially increasing liquidity and user engagement within its ecosystem."
+      "whyYouShouldCare": "The SEC's Innovation Exemption could facilitate greater institutional investment in Solana, boosting its market positioning and attracting new users to the ecosystem."
     },
     {
-      "type": "RISK",
-      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
-      "category": "RISK",
-      "source": "Cointelegraph",
-      "date": "2026-09-23",
-      "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead",
-      "whyYouShouldCare": "The unexpected death of Hsin-Ju Chuang may impact investor sentiment and confidence in venture capital within the crypto space, indirectly affecting Solana's funding landscape."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana moves Alpenglow into testnet as SOL nears January highs",
-      "category": "APPS",
-      "source": "CryptoSlate",
-      "date": "2026-09-23",
-      "url": "https://cryptoslate.com/solana-moves-alpenglow-into-testnet-as-sol-nears-january-highs",
-      "whyYouShouldCare": "Alpenglow's transition to testnet indicates progress in Solana's development, which may drive usage and bolster SOL's market position as it approaches January highs."
+      "type": "ECOSYSTEM",
+      "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
+      "category": "ECOSYSTEM",
+      "source": "Decrypt",
+      "date": "2026-09-22",
+      "url": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
+      "whyYouShouldCare": "The launch of GPT-6 Sol alongside competitive AI products may drive increased usage of Solana's infrastructure, enhancing its appeal in the rapidly evolving AI sector."
     }
   ]
 }
