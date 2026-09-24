@@ -1,21 +1,26 @@
 {
   "date": "2026-09-24",
-  "generated_at_utc": "2026-09-24T12:31:31.149Z",
-  "ctxMarket": "Attention is on institutional crypto strategies during recent market volatility and regulatory shifts enabling tokenized equities. Solana’s technical upgrades and leadership news are also in focus.",
-  "ctxTalking": "• Institutions reportedly held crypto, including Solana, through a 50% drawdown, with some setting exit conditions\n• The SEC’s new exemption allows tokenized stocks to trade on public blockchains like Solana\n• Solana’s latest mainnet upgrade targets faster slots and lower fees",
-  "ctxMatters": "Institutions maintaining exposure through volatility signals ongoing interest in Solana as part of diversified portfolios. The SEC’s innovation exemption could expand Solana’s use case for tokenized equities. Recent network upgrades may improve user experience and reduce costs for developers and projects.",
-  "ctxSignal": "Signal: Regulatory changes and technical improvements are directly tied to Solana’s evolving role in tokenized assets and network efficiency.\nNoise: Speculation about individual institutions’ exit strategies lacks broader context.",
-  "ctxGlossary": "Tokenized shares — Traditional stocks represented as tokens on a blockchain\nSEC Innovation Exemption — A regulatory order allowing certain tokenized assets to trade without stock-exchange registration",
+  "generated_at_utc": "2026-09-24T21:56:40.774Z",
+  "ctxMarket": "Attention is on Solana Foundation’s leadership changes and institutional strategy, with multiple outlets highlighting new executive hires. There is also scrutiny on governance issues at SkyAI, a Solana treasury firm, following a contested shareholder vote.",
+  "ctxTalking": "• Solana Foundation’s recruitment of former Binance and Polygon Labs executives to drive institutional adoption and payments\n• SkyAI’s board surviving a shareholder protest but losing a key equity compensation vote\n• Institutional crypto holders’ strategies during major market drawdowns",
+  "ctxMatters": "Leadership hires signal Solana’s focus on expanding institutional partnerships and payment infrastructure. Governance disputes at SkyAI may affect confidence in Solana ecosystem firms. Institutional behavior during downturns provides insight into asset allocation and risk tolerance relevant to Solana.",
+  "ctxSignal": "Signal: Solana Foundation’s executive appointments and their focus on tokenized finance and global payments.\nNoise: Speculation around individual institutions’ exit conditions without broader data.",
+  "ctxGlossary": "Tokenized Finance — Moving traditional financial assets onto blockchain systems.\nStablecoins — Cryptocurrencies pegged to stable assets, often used for payments and settlements.",
   "readMore": [
     {
-      "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise"
+      "title": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
+      "source": "The Block",
+      "url": "https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298"
     },
     {
-      "title": "Stocks Go Onchain",
+      "title": "Solana Foundation Appoints Rachel Conlan as Chief Strategy Officer and Jamal Raees as General Manager of Payments",
       "source": "Solana News",
-      "url": "https://solana.com/news/stocks-sec-innovation-exemption"
+      "url": "https://solana.com/news/solana-foundation-appoints-2026"
+    },
+    {
+      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/379179/solana-foundation-hires-binances-former-global-cmo-for-institutional-push"
     }
   ]
 }
