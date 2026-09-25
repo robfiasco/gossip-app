@@ -1,12 +1,17 @@
 {
-  "date": "2026-09-24",
-  "generated_at_utc": "2026-09-24T21:56:40.774Z",
-  "ctxMarket": "Attention is on Solana Foundation’s leadership changes and institutional strategy, with multiple outlets highlighting new executive hires. There is also scrutiny on governance issues at SkyAI, a Solana treasury firm, following a contested shareholder vote.",
-  "ctxTalking": "• Solana Foundation’s recruitment of former Binance and Polygon Labs executives to drive institutional adoption and payments\n• SkyAI’s board surviving a shareholder protest but losing a key equity compensation vote\n• Institutional crypto holders’ strategies during major market drawdowns",
-  "ctxMatters": "Leadership hires signal Solana’s focus on expanding institutional partnerships and payment infrastructure. Governance disputes at SkyAI may affect confidence in Solana ecosystem firms. Institutional behavior during downturns provides insight into asset allocation and risk tolerance relevant to Solana.",
-  "ctxSignal": "Signal: Solana Foundation’s executive appointments and their focus on tokenized finance and global payments.\nNoise: Speculation around individual institutions’ exit conditions without broader data.",
-  "ctxGlossary": "Tokenized Finance — Moving traditional financial assets onto blockchain systems.\nStablecoins — Cryptocurrencies pegged to stable assets, often used for payments and settlements.",
+  "date": "2026-09-25",
+  "generated_at_utc": "2026-09-25T12:32:52.532Z",
+  "ctxMarket": "Attention is on Solana DEX trading volume after analysis flagged a spike driven by circular trades, with automated bots identified as a key factor. Institutional adoption and leadership changes at the Solana Foundation are also in focus, alongside continued interest in how large holders manage exposure.",
+  "ctxTalking": "• Solana DEX volume spike linked to circular trading and bot activity\n• Solana Foundation brings in new executives from Binance and Polygon to target institutional and payments growth\n• Institutions reportedly held onto Solana through recent market drawdowns",
+  "ctxMatters": "DEX volume may not reflect genuine trading activity, raising questions about liquidity and user experience. New leadership at the Solana Foundation signals a push for more institutional partnerships and payment solutions. Institutional holders’ behavior during downturns could influence perceptions of Solana’s resilience.",
+  "ctxSignal": "Signal: Leadership hires and institutional focus point to Solana’s evolving strategy. DEX volume analysis highlights ongoing market structure challenges.\nNoise: Short-term DEX volume numbers without context on real liquidity.",
+  "ctxGlossary": "Circular trades — Repeated buying and selling between the same parties, often inflating volume figures\nTokenized deposits — Traditional assets represented as tokens on a blockchain",
   "readMore": [
+    {
+      "title": "Solana DEX volume spike hides circular trades, and automated bots are blamed",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solana-dex-volume-spike-hides-circular-trades-and-automated-bots-are-blamed"
+    },
     {
       "title": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
       "source": "The Block",
@@ -16,11 +21,6 @@
       "title": "Solana Foundation Appoints Rachel Conlan as Chief Strategy Officer and Jamal Raees as General Manager of Payments",
       "source": "Solana News",
       "url": "https://solana.com/news/solana-foundation-appoints-2026"
-    },
-    {
-      "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/379179/solana-foundation-hires-binances-former-global-cmo-for-institutional-push"
     }
   ]
 }
