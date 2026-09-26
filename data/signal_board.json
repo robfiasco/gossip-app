@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-25",
-  "generated_at_utc": "2026-09-25T21:58:45.097Z",
-  "ctxMarket": "Attention is on US crypto ETF inflows, with over $3 billion entering the market this week and notable demand for Solana-linked products. Solana’s price is testing resistance near $124 as new US stablecoin regulations are discussed.",
-  "ctxTalking": "• US crypto ETFs see significant inflows, with Solana among the top beneficiaries\n• Solana Foundation appoints new leadership from Binance and Polygon to drive institutional and payments growth\n• Solana price action draws focus amid evolving US stablecoin rules",
-  "ctxMatters": "ETF inflows suggest growing mainstream and institutional interest in Solana and other altcoins. Leadership changes at the Solana Foundation signal a push for broader adoption, especially in payments. Regulatory developments around stablecoins could impact Solana’s ecosystem and user strategies.",
-  "ctxSignal": "Signal: ETF inflows and leadership hires indicate real momentum for Solana’s institutional adoption.\nNoise: Short-term price speculation tied to resistance levels lacks broader context.",
-  "ctxGlossary": "ETF — Exchange-traded fund, a financial product tracking an asset or group of assets\nStablecoin — A cryptocurrency pegged to a stable asset, such as the US dollar",
+  "date": "2026-09-26",
+  "generated_at_utc": "2026-09-26T12:02:33.523Z",
+  "ctxMarket": "Attention is on Solana’s Alpenglow upgrade, now live on two public testnets, and the Foundation’s new leadership hires. Backpack’s surge is linked to rising RWA activity and liquidations, while Solana’s price continues to climb despite a broader Bitcoin slowdown.",
+  "ctxTalking": "• Alpenglow’s 150-millisecond settlement upgrade and its public testnet rollout\n• Solana Foundation’s appointment of Rachel Conlan (ex-Binance) and Jamal Raees (ex-Polygon) to drive institutional and payments strategy\n• Backpack’s new high amid RWA resurgence and short liquidations",
+  "ctxMatters": "Alpenglow’s testnet phase gives developers early access to faster settlement speeds, potentially impacting dApp performance. The Foundation’s new hires signal a push for institutional adoption and global payments. Backpack’s growth highlights renewed interest in real-world assets (RWA) on Solana.",
+  "ctxSignal": "Signal: Alpenglow’s testnet progress and Solana Foundation’s leadership changes directly affect ecosystem direction.\nNoise: Broader market speculation around Bitcoin’s options expiry has less relevance for Solana’s current developments.",
+  "ctxGlossary": "Alpenglow — Solana’s settlement speed upgrade aiming for 150-millisecond finality\nRWA — Real-world assets, such as tokenized physical or financial assets on-chain\nBackpack — A Solana-based crypto project seeing increased activity and price",
   "readMore": [
+    {
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network"
+    },
+    {
+      "title": "Why is Backpack [BP] crypto up? RWA rebound, 73x short liquidations & more…",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/why-is-backpack-bp-crypto-up-rwa-rebound-73x-short-liquidations-more"
+    },
     {
       "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead"
-    },
-    {
-      "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana"
-    },
-    {
-      "title": "Solana price tests $122 as new US stablecoin rules take shape",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/solana-price-tests-122-as-new-us-stablecoin-rules-take-shape"
     }
   ]
 }
