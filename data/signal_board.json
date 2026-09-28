@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-27",
-  "generated_at_utc": "2026-09-27T21:50:39.176Z",
-  "ctxMarket": "Attention is on Solana’s ongoing efforts to address trade fairness and technical upgrades, while ETF inflows and large-scale SOL sales are drawing scrutiny. Price action remains focused on resistance levels, but the main narrative centers on protocol governance and infrastructure.",
-  "ctxTalking": "• Solana’s plan for fairer trading is delayed as block producers retain order selection power\n• Pump.fun’s large SOL sale and continued high revenue amid ETF inflows\n• Solana’s 150-millisecond settlement upgrade enters a second public test network",
-  "ctxMatters": "Solana’s stalled trade fairness proposal highlights ongoing MEV and order flow concerns for users and builders. Technical upgrades like faster settlement are progressing, offering potential for improved app performance. ETF inflows and major project revenues signal continued institutional and retail engagement, despite internal governance debates at firms like SkyAI.",
-  "ctxSignal": "Signal: Delays in fair trading mechanisms and settlement upgrades directly impact user experience and developer planning.\nNoise: Short-term price speculation around resistance levels lacks clear connection to broader protocol developments.",
-  "ctxGlossary": "Block producer — Entity that selects and orders transactions in a blockchain block\nETF inflow — New investment entering exchange-traded funds, often seen as institutional interest\nSettlement upgrade — Improvements to how quickly transactions are finalized on-chain",
+  "date": "2026-09-28",
+  "generated_at_utc": "2026-09-28T14:55:10.520Z",
+  "ctxMarket": "Attention is focused on record inflows to Solana ETFs, with Bitwise capturing a significant share. Technical upgrades and regulatory developments are also drawing interest from both institutional and developer communities.",
+  "ctxTalking": "• Solana ETFs saw $188 million in inflows this week, setting a new daily record on Friday\n• Solana’s 150-millisecond settlement upgrade is now live on two public testnets\n• The SEC’s innovation exemption enables trading of tokenized stocks on Solana",
+  "ctxMatters": "ETF inflows suggest growing institutional attention on Solana-based products. Faster settlement times could improve user and developer experience. Regulatory clarity around tokenized stocks may expand Solana’s use cases in traditional finance.",
+  "ctxSignal": "Signal: Record ETF inflows and the SEC exemption highlight increasing mainstream and regulatory engagement with Solana.\nNoise: Short-term price moves tied to broader crypto market volatility.",
+  "ctxGlossary": "ETF — Exchange-traded fund, a pooled investment product traded on stock exchanges\nTestnet — A blockchain used for testing new features before mainnet deployment\nSEC Innovation Exemption — A regulatory order allowing certain tokenized assets to trade on public blockchains without full stock-exchange registration",
   "readMore": [
     {
-      "title": "Solana’s plan for fairer trades stalls as block producers still choose which orders get in",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/solanas-plan-for-fairer-trades-stalls-as-block-producers-still-choose-which-orders-get-in"
-    },
-    {
-      "title": "Pump.fun sells $5.83M SOL, but ETF inflows surge – Can Solana break $122.70?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/pump-fun-sells-5-83m-sol-but-etf-inflows-surge-can-solana-break-122-70"
-    },
-    {
-      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network"
+      "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows"
+    },
+    {
+      "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead"
+    },
+    {
+      "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana"
     }
   ]
 }
