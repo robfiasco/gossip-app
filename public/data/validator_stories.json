@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-09-27T17:24:02.302Z",
+  "generated_at": "2026-09-28T19:57:19.828Z",
   "global_metrics": {},
   "items": [
     {
-      "id": "story_onchain-marketmover_1790529842301",
+      "id": "story_onchain-marketmover_1790625439828",
       "source": "onchain-marketmover",
-      "title": "SOON Surges 46% as Trading Volume Spikes",
+      "title": "Chintai (CHEX) Jumps 64% in 24 Hours, Volume Surges",
       "type": "critical",
       "category": "Market Movers",
       "author": "On-Chain Signal",
-      "timestamp": "2026-09-27T17:24:02.301Z",
-      "sourceUrl": "https://www.coingecko.com/en/coins/soon-2",
+      "timestamp": "2026-09-28T19:57:19.828Z",
+      "sourceUrl": "https://www.coingecko.com/en/coins/chex-token",
       "metrics": {
-        "token": "SOON",
-        "symbol": "SOON",
-        "priceUsd": 0.316073,
-        "marketCapUsd": 107831437,
-        "change24h": 45.75957,
-        "change7d": 82.8002
+        "token": "Chintai",
+        "symbol": "CHEX",
+        "priceUsd": 0.01947899,
+        "marketCapUsd": 24327701,
+        "change24h": 64.23848,
+        "change7d": 128.5554
       },
       "trend": {
         "streakDays": 1,
         "streakDirection": "up",
-        "cumulativeChange": 45.76,
+        "cumulativeChange": 64.24,
         "isLargestInWindow": false,
         "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "SOON (SOON) jumped 45.8% in the past 24 hours, reaching $0.3161 with trading activity sharply elevated.",
-        "story": "SOON (SOON) posted a notable 45.8% price increase over the last 24 hours, now trading at $0.3161. The token’s market cap stands at $107.8 million, ranking it #277 by size, while 24-hour trading volume soared to $156.3 million. This move follows a strong week, with SOON up nearly 83% over the past seven days.\n\n### What's Happening\nSOON’s price action is drawing attention after a sharp single-day rally. Trading activity has surged, with volume far outpacing the token’s market cap, suggesting heightened interest or volatility. Despite the size of the move, on-chain data indicates this is not an outlier—no unusual streak or deviation from recent trends was detected in the last day.\n\nNo recent headlines directly reference SOON or a specific catalyst for this surge. The move appears to be part of a broader pattern of volatility seen across Solana ecosystem tokens, but there is no clear event or news driving SOON’s spike.\n\n### Why It Matters\nSOON’s rapid price and volume increase signals that it is on the radar for active traders and liquidity seekers. The token’s ability to attract such high turnover relative to its market cap can create opportunities for price discovery, but also increases the risk of sharp reversals.\n\nThis kind of activity is often watched as a sign of shifting sentiment or speculative flows within the Solana ecosystem. While other Solana-related headlines have focused on network upgrades and broader ecosystem performance, SOON’s move stands out for its scale, even if the cause remains unclear.\n\n### The Risk or Debate\nThe absence of a clear catalyst means the sustainability of this rally is uncertain. Rapid inflows and outsized volume can sometimes precede equally sharp corrections, especially if driven by short-term speculation rather than fundamentals. Without new information or developments, there’s a risk that SOON’s price could retrace as quickly as it climbed.\n\nAdditionally, the lack of a multi-day trend or unusual streak suggests this may be a continuation of recent volatility rather than the start of a new phase for SOON. Traders and observers should be cautious about reading too much into a single-day move without supporting news or on-chain events.\n\n### What To Watch\nThe next key signal will be whether SOON can hold above the $0.30 level over the coming days. Sustained trading volume at or above $100 million could indicate ongoing interest and liquidity, while a sharp drop-off may signal the end of this surge. Any new announcements, listings, or ecosystem developments related to SOON would also be worth tracking, as they could provide the missing context behind today’s move.",
+        "signal": "Chintai (CHEX) gained 64.2% in price over the last 24 hours, reaching $0.0195 with $1.3M in trading volume.",
+        "story": "Chintai (CHEX) posted a sharp 64.2% price increase in the past 24 hours, now trading at $0.0195. The token’s market cap stands at $24.3 million, ranking it #807 by size, while daily trading volume reached $1.3 million. This move follows a week of strong momentum, with CHEX up over 128% in seven days.\n\n### What's Happening\nCHEX’s price action stands out for its size, but the move falls within the recent range tracked over the last day, suggesting no clear outlier or abrupt reversal. Trading activity has picked up, as shown by the $1.3 million in volume, but there are no headline catalysts or news events directly tied to Chintai in the last 24 hours. The absence of a clear narrative leaves the cause of this surge uncertain, pointing to organic trading or internal ecosystem dynamics.\n\nThe token’s recent gains have not been accompanied by unusual streaks or record-breaking moves, according to on-chain data. This suggests the price action is notable but not unprecedented for CHEX, especially given its relatively small market cap and lower liquidity compared to larger Solana ecosystem assets.\n\n### Why It Matters\nA 64% daily move in a mid-cap token like CHEX signals heightened interest and volatility, which can attract attention from traders and builders looking for emerging trends. Sustained price and volume increases can impact liquidity, user engagement, and the broader perception of the Chintai protocol within the Solana ecosystem. The 128% weekly gain highlights that this is not a sudden spike but part of a broader upward trend over the past week.\n\nChintai’s market cap, while still modest, now sits above $24 million, which may increase its visibility to ecosystem participants tracking mid-cap projects. The lack of news or external catalysts means the move is likely driven by internal factors or shifts in trading dynamics, rather than a protocol upgrade, partnership, or listing event.\n\n### The Risk or Debate\nThe absence of clear news or fundamental developments raises questions about the sustainability of the price move. Without a confirmed catalyst, sharp gains can be vulnerable to quick reversals if sentiment shifts or liquidity dries up. Lower market cap tokens like CHEX are more susceptible to volatility, and sudden price swings can expose holders to higher risk.\n\nThe lack of unusual streaks or outlier activity in the data suggests this move is not entirely disconnected from recent trading patterns. However, the rapid pace of gains may invite scrutiny over whether the move is driven by speculation rather than underlying growth or adoption.\n\n### What To Watch\nFurther price action above $0.02 would signal continued momentum and could draw additional attention. Monitoring trading volume for sustained increases or abrupt drops will help clarify whether this is a short-term spike or the start of a longer trend. Any new headlines, protocol updates, or ecosystem developments could provide context for the next move in CHEX.\n\nOn-chain data and liquidity metrics will be key to understanding whether the current rally can hold or if a correction is likely.",
         "takeaways": [
-          "SOON rose nearly 46% in 24 hours, with trading volume exceeding $156 million.",
-          "No clear news or on-chain event explains the surge, and the move fits within recent volatility.",
-          "Sustainability of the rally is uncertain given the lack of a clear catalyst."
+          "Chintai (CHEX) rose 64.2% in 24 hours, reaching $0.0195.",
+          "No clear news or external catalyst explains the move.",
+          "The price action fits within recent trading ranges, with weekly gains over 128%."
         ]
       },
-      "watchTrigger": "SOON maintains daily trading volume above $100 million for the next 72 hours.",
+      "watchTrigger": "Sustained price movement above $0.02 with daily volume remaining over $1 million.",
       "riskLevel": "medium",
-      "narrativeStrength": 7.7
+      "narrativeStrength": 9
     },
     {
-      "id": "story_onchain-fundflow_1790529835677",
+      "id": "story_onchain-fundflow_1790625421223",
       "source": "onchain-fundflow",
-      "title": "Streamflow TVL Jumps 8% After Major Token Burn",
-      "type": "alpha",
+      "title": "Sentora Curator TVL Drops Nearly 24% in 24 Hours",
+      "type": "critical",
       "category": "DeFi / Fund Flows",
       "author": "On-Chain Signal",
-      "timestamp": "2026-09-27T17:23:55.677Z",
-      "sourceUrl": "https://streamflow.finance",
+      "timestamp": "2026-09-28T19:57:01.223Z",
+      "sourceUrl": "https://sentora.com/",
       "metrics": {
-        "protocol": "Streamflow",
-        "tvlUsd": 15580647.933928058,
-        "change1d": 8.16033858476699,
-        "change7d": 61.46882700610942,
-        "tokenSymbol": "STREAM",
-        "tokenPriceUsd": 0.008864433773542752
+        "protocol": "Sentora Curator",
+        "tvlUsd": 2111291531.068612,
+        "change1d": -23.89481796330088,
+        "change7d": -21.90072909377001,
+        "tokenSymbol": null,
+        "tokenPriceUsd": null
       },
       "trend": {
-        "streakDays": 2,
-        "streakDirection": "up",
-        "cumulativeChange": 15.45,
+        "streakDays": 1,
+        "streakDirection": "down",
+        "cumulativeChange": -23.89,
         "isLargestInWindow": false,
-        "windowDays": 4
+        "windowDays": 1
       },
       "ctPulse": [],
       "whoToFollow": [],
       "content": {
-        "signal": "Streamflow’s total value locked rose 8.2% in 24 hours to $15.6M, following a 70% reduction in STREAM token supply.",
-        "story": "Streamflow, a cross-chain payments protocol, saw its total value locked (TVL) climb 8.2% in the last 24 hours, reaching $15.6 million. This marks the second straight day of TVL growth, with a cumulative increase of 15.4% over that span. The protocol’s native token, STREAM, is currently trading at $0.0089.\n\n### What's Happening\nStreamflow’s TVL has surged not only in the past day, but also over the last week, with a 61% increase in seven days. This recent momentum follows a major event: Streamflow burned nearly 700 million STREAM tokens, permanently removing 70% of its total supply. Multiple headlines confirm this burn occurred within the last week, making it one of the largest token supply reductions in recent memory for a Solana-based protocol.\n\nThe token burn has not only reduced supply but also appears to have drawn renewed attention to the protocol. While the STREAM price remains modest, the TVL growth suggests increased user engagement or capital allocation into Streamflow’s payment services across supported chains like Solana, Aptos, Sui, Binance, Ethereum, and Polygon.\n\n### Why It Matters\nA 70% token supply cut is a rare and significant move in DeFi. By drastically reducing the number of STREAM tokens in circulation, Streamflow has changed the token’s economic profile and potentially increased its scarcity. This kind of supply-side shock can reset market perceptions and attract both users and liquidity.\n\nThe TVL jump is notable because it comes on the heels of the burn, hinting at a possible link between the two events. While it’s not clear if the TVL growth is directly caused by the burn, the timing suggests that users or liquidity providers may be responding to the new token dynamics or simply paying closer attention to the protocol.\n\nStreamflow operates across several major blockchains, so changes in its TVL can reflect broader cross-chain DeFi trends. Sustained growth here could signal rising demand for programmable payments and payroll solutions, especially as protocols look for reliable, multi-chain infrastructure.\n\n### The Risk or Debate\nThe main risk is whether this TVL growth is sustainable or just a short-term reaction to the token burn. Large supply cuts can sometimes create temporary excitement without leading to lasting adoption or utility. If the protocol doesn’t deliver increased usage or new features, the TVL could retreat as quickly as it rose.\n\nThere’s also the question of STREAM’s long-term value proposition. While the burn reduces supply, it does not by itself guarantee increased demand or utility for the token. Users and investors will be watching to see if the protocol can translate this supply shock into real ecosystem growth.\n\n### What To Watch\nThe next key marker is whether Streamflow’s TVL can hold above $15 million or continue its upward trajectory over the coming week. Watch for any new product launches, partnerships, or incentive programs that could sustain or accelerate this momentum. If TVL reverses sharply or STREAM price remains flat, it may suggest the burn’s impact was mostly psychological.\n\nHow Streamflow communicates its roadmap and builds on this moment will determine if this is a turning point or a short-lived spike.",
+        "signal": "Sentora Curator’s total value locked fell 23.9% in the past day, now sitting at $2.11B.",
+        "story": "Sentora Curator, a protocol focused on risk curation across Ink, Ethereum, Solana, and Tempo, saw its TVL drop sharply by nearly a quarter in the last 24 hours. The protocol’s locked value now stands at $2.11 billion, down from higher levels earlier in the week. This move continues a broader seven-day decline, with TVL down 21.9% over the past week.\n\n### What's Happening\n\nThe drop in TVL is notable, but not entirely out of character for Sentora Curator. On-chain data shows that while the 24-hour decrease is steep, it falls within the recent range of volatility tracked for this protocol. There are no signs of a multi-day streak or an outlier event, and no related headlines or announcements have surfaced to explain the shift.\n\nSentora Curator does not have a native token, so the TVL movement reflects changes in user deposits or withdrawals rather than token price swings. The protocol operates across multiple chains, but the data does not specify if the outflows were concentrated on a particular network.\n\n### Why It Matters\n\nA nearly 24% drop in TVL in a single day is significant for any DeFi protocol, especially one with over $2 billion in assets. TVL is a key health metric, signaling user confidence and the protocol’s ability to attract and retain capital. Sustained declines can impact the protocol’s reputation and its role within the broader DeFi ecosystem.\n\nBecause Sentora Curator spans several blockchains, shifts in its TVL can also reflect broader trends in cross-chain risk management and user sentiment. While no clear cause is visible, such a move may prompt users and ecosystem partners to reassess their exposure or strategies.\n\n### The Risk or Debate\n\nThe main risk is uncertainty around the drivers of this outflow. Without a clear catalyst—such as a security incident, economic event, or protocol change—it's harder to gauge whether this is a temporary fluctuation or the start of a longer-term trend. If withdrawals continue, Sentora Curator could face challenges maintaining liquidity or supporting its risk curation services at scale.\n\nAdditionally, the lack of a native token means there are fewer levers for incentivizing users to stay or return. The protocol’s reliance on user deposits makes it sensitive to shifts in confidence or competing opportunities elsewhere in DeFi.\n\n### What To Watch\n\nThe next few days will be important for understanding whether this TVL drop stabilizes or accelerates. Watch for any official statements from Sentora Curator or changes in on-chain activity that might clarify the cause. If TVL falls below $2 billion, it could signal a deeper shift in user behavior or confidence.\n",
         "takeaways": [
-          "Streamflow burned 70% of its STREAM token supply, cutting nearly 700 million tokens.",
-          "TVL rose 8.2% in 24 hours and over 61% in the past week, signaling renewed protocol activity.",
-          "Sustained growth will depend on whether the protocol can convert this attention into lasting adoption."
+          "Sentora Curator TVL dropped 23.9% in 24 hours, now at $2.11B.",
+          "No clear catalyst or unusual trend detected; the move is within recent volatility.",
+          "Sustained outflows could impact protocol stability and user confidence."
         ]
       },
-      "watchTrigger": "If Streamflow TVL remains above $15M or grows further over the next 7 days, it will confirm sustained momentum.",
+      "watchTrigger": "If Sentora Curator TVL falls below $2.00B in the next 48 hours, it would confirm a continued outflow trend.",
       "riskLevel": "medium",
-      "narrativeStrength": 4.4
+      "narrativeStrength": 6.7
     }
   ]
 }
