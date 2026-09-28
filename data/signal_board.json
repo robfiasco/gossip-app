@@ -1,26 +1,26 @@
 {
   "date": "2026-09-28",
-  "generated_at_utc": "2026-09-28T14:55:10.520Z",
-  "ctxMarket": "Attention is focused on record inflows to Solana ETFs, with Bitwise capturing a significant share. Technical upgrades and regulatory developments are also drawing interest from both institutional and developer communities.",
-  "ctxTalking": "• Solana ETFs saw $188 million in inflows this week, setting a new daily record on Friday\n• Solana’s 150-millisecond settlement upgrade is now live on two public testnets\n• The SEC’s innovation exemption enables trading of tokenized stocks on Solana",
-  "ctxMatters": "ETF inflows suggest growing institutional attention on Solana-based products. Faster settlement times could improve user and developer experience. Regulatory clarity around tokenized stocks may expand Solana’s use cases in traditional finance.",
-  "ctxSignal": "Signal: Record ETF inflows and the SEC exemption highlight increasing mainstream and regulatory engagement with Solana.\nNoise: Short-term price moves tied to broader crypto market volatility.",
-  "ctxGlossary": "ETF — Exchange-traded fund, a pooled investment product traded on stock exchanges\nTestnet — A blockchain used for testing new features before mainnet deployment\nSEC Innovation Exemption — A regulatory order allowing certain tokenized assets to trade on public blockchains without full stock-exchange registration",
+  "generated_at_utc": "2026-09-28T23:40:15.559Z",
+  "ctxMarket": "Attention is focused on Solana’s technical upgrades, ETF inflows, and regulatory developments. Price movements in Jupiter and SOL are being discussed, but the main narrative centers on infrastructure and institutional interest.",
+  "ctxTalking": "• Solana ETFs saw a record $188 million in inflows, with Bitwise capturing the majority.\n• Solana’s slot time reduction and settlement upgrades are live on public testnets.\n• Regulatory changes now allow tokenized stocks to trade on Solana without traditional exchange registration.",
+  "ctxMatters": "ETF inflows highlight growing institutional participation in Solana. Faster slot times and settlement upgrades may improve network efficiency and developer experience. Regulatory shifts could expand Solana’s use cases into traditional finance, potentially attracting new projects and users.",
+  "ctxSignal": "Signal: Record ETF inflows and live technical upgrades show tangible adoption and progress.\nNoise: Short-term price moves in Jupiter and SOL lack clear long-term context in today’s items.",
+  "ctxGlossary": "Slot Time — The targeted interval between Solana blocks, now reduced to 250ms.\nETF — Exchange-Traded Fund, a regulated investment vehicle now seeing record Solana inflows.\nTokenized Shares — Traditional stocks represented as tokens on a blockchain.",
   "readMore": [
+    {
+      "title": "Jupiter crypto drops 9% despite strong showing in Solana attack study",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/jupiter-crypto-drops-9-despite-strong-showing-in-solana-attack-study"
+    },
+    {
+      "title": "Slot Time Reduction Effects",
+      "source": "Solana News",
+      "url": "https://solana.com/news/slot-time-reduction-effects"
+    },
     {
       "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows"
-    },
-    {
-      "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead"
-    },
-    {
-      "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana"
     }
   ]
 }
