@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-28",
-  "generated_at_utc": "2026-09-28T23:40:15.559Z",
-  "ctxMarket": "Attention is focused on Solana’s technical upgrades, ETF inflows, and regulatory developments. Price movements in Jupiter and SOL are being discussed, but the main narrative centers on infrastructure and institutional interest.",
-  "ctxTalking": "• Solana ETFs saw a record $188 million in inflows, with Bitwise capturing the majority.\n• Solana’s slot time reduction and settlement upgrades are live on public testnets.\n• Regulatory changes now allow tokenized stocks to trade on Solana without traditional exchange registration.",
-  "ctxMatters": "ETF inflows highlight growing institutional participation in Solana. Faster slot times and settlement upgrades may improve network efficiency and developer experience. Regulatory shifts could expand Solana’s use cases into traditional finance, potentially attracting new projects and users.",
-  "ctxSignal": "Signal: Record ETF inflows and live technical upgrades show tangible adoption and progress.\nNoise: Short-term price moves in Jupiter and SOL lack clear long-term context in today’s items.",
-  "ctxGlossary": "Slot Time — The targeted interval between Solana blocks, now reduced to 250ms.\nETF — Exchange-Traded Fund, a regulated investment vehicle now seeing record Solana inflows.\nTokenized Shares — Traditional stocks represented as tokens on a blockchain.",
+  "date": "2026-09-29",
+  "generated_at_utc": "2026-09-29T13:42:54.457Z",
+  "ctxMarket": "Attention is focused on Solana’s slot time reduction and its impact on validator rewards, as well as ETF inflows after a recent record week. ETF inflows have slowed from Friday’s high, but streaks continue across major crypto funds.",
+  "ctxTalking": "• Lower-stake Solana validators are losing a larger share of reward-linked vote credits after the slot time reduction to 250ms.\n• Solana ETFs saw a record $188 million in inflows last week, with Bitwise capturing two-thirds, though overall crypto ETF inflows have cooled.\n• The SEC’s innovation exemption is enabling tokenized stocks to trade on Solana’s blockchain.",
+  "ctxMatters": "Slot time changes affect validator economics, particularly for smaller operators. Sustained ETF inflows highlight institutional interest in Solana, even as the pace moderates. Regulatory developments are expanding Solana’s use cases into tokenized equities.",
+  "ctxSignal": "Signal: Validator reward distribution shifts and ETF inflow records reflect real changes in network dynamics and institutional engagement.\nNoise: Short-term ETF inflow fluctuations without clear directional impact.",
+  "ctxGlossary": "Slot time — The target interval between new blocks (slots) produced on Solana.\nVote credits — Rewards earned by validators for voting on blocks.",
   "readMore": [
     {
-      "title": "Jupiter crypto drops 9% despite strong showing in Solana attack study",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/jupiter-crypto-drops-9-despite-strong-showing-in-solana-attack-study"
+      "title": "Solana’s 250ms data shows lower-stake validators lost a larger share of reward-linked vote credits",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solana-250ms-validator-vote-credits"
+    },
+    {
+      "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp"
     },
     {
       "title": "Slot Time Reduction Effects",
       "source": "Solana News",
       "url": "https://solana.com/news/slot-time-reduction-effects"
-    },
-    {
-      "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows"
     }
   ]
 }

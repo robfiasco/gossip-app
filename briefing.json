@@ -1,34 +1,34 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
     {
-      "type": "MARKET",
-      "title": "Solana: Can record $17B stablecoin supply push SOL above $120?",
-      "category": "MARKET",
-      "source": "AMB Crypto",
-      "date": "2026-09-28",
-      "url": "https://ambcrypto.com/solana-can-record-17b-stablecoin-supply-push-sol-above-120",
-      "whyYouShouldCare": "A $17 billion stablecoin supply could enhance liquidity in the Solana ecosystem, potentially driving SOL's price upward."
+      "type": "INFRA",
+      "title": "Solana’s 250ms data shows lower-stake validators lost a larger share of reward-linked vote credits",
+      "category": "INFRA",
+      "source": "CryptoSlate",
+      "date": "2026-09-29",
+      "url": "https://cryptoslate.com/solana-250ms-validator-vote-credits",
+      "whyYouShouldCare": "Lower-stake validators on Solana are losing a significant portion of vote credits, which could impact network participation and overall validator health."
     },
     {
       "type": "APPS",
-      "title": "Slot Time Reduction Effects",
+      "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
       "category": "APPS",
-      "source": "Solana News",
-      "date": "2026-09-28",
-      "url": "https://solana.com/news/slot-time-reduction-effects",
-      "whyYouShouldCare": "Reducing slot times may improve transaction efficiency on Solana, attracting more developers and users to the network."
+      "source": "Cointelegraph",
+      "date": "2026-09-29",
+      "url": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp",
+      "whyYouShouldCare": "Despite a recent surge in ETF inflows, the cooling trend may affect overall market liquidity and investor sentiment towards crypto assets."
     },
     {
       "type": "APPS",
-      "title": "Jupiter crypto drops 9% despite strong showing in Solana attack study",
+      "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
       "category": "APPS",
-      "source": "AMB Crypto",
+      "source": "CoinDesk",
       "date": "2026-09-28",
-      "url": "https://ambcrypto.com/jupiter-crypto-drops-9-despite-strong-showing-in-solana-attack-study",
-      "whyYouShouldCare": "Jupiter's 9% drop, despite positive performance in a Solana attack study, raises concerns about its resilience and could impact user confidence."
+      "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
+      "whyYouShouldCare": "Record inflows into Solana ETFs indicate growing institutional interest, potentially enhancing SOL's market position and liquidity."
     }
   ]
 }
