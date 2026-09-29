@@ -4,13 +4,22 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "ECOSYSTEM",
+      "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+      "category": "ECOSYSTEM",
+      "source": "Decrypt",
+      "date": "2026-09-29",
+      "url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
+      "whyYouShouldCare": "OpenAI's advancements in AI agents could enhance Solana's ecosystem by attracting developers seeking to integrate AI capabilities into decentralized applications."
+    },
+    {
       "type": "INFRA",
       "title": "Solana’s 250ms data shows lower-stake validators lost a larger share of reward-linked vote credits",
       "category": "INFRA",
       "source": "CryptoSlate",
       "date": "2026-09-29",
       "url": "https://cryptoslate.com/solana-250ms-validator-vote-credits",
-      "whyYouShouldCare": "Lower-stake validators on Solana are losing a significant portion of vote credits, which could impact network participation and overall validator health."
+      "whyYouShouldCare": "The decline in reward-linked vote credits for lower-stake validators may impact their participation and influence, affecting overall network decentralization on Solana."
     },
     {
       "type": "APPS",
@@ -19,16 +28,7 @@
       "source": "Cointelegraph",
       "date": "2026-09-29",
       "url": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp",
-      "whyYouShouldCare": "Despite a recent surge in ETF inflows, the cooling trend may affect overall market liquidity and investor sentiment towards crypto assets."
-    },
-    {
-      "type": "APPS",
-      "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-09-28",
-      "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
-      "whyYouShouldCare": "Record inflows into Solana ETFs indicate growing institutional interest, potentially enhancing SOL's market position and liquidity."
+      "whyYouShouldCare": "The cooling of US crypto ETF inflows could signal a shift in institutional interest, potentially influencing liquidity and investment dynamics within the Solana ecosystem."
     }
   ]
 }
