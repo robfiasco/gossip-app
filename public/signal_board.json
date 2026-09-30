@@ -1,17 +1,12 @@
 {
-  "date": "2026-09-29",
-  "generated_at_utc": "2026-09-29T22:49:55.078Z",
-  "ctxMarket": "Attention is focused on Solana’s recent slot time reduction and its impact on validator rewards and network performance. ETF inflows into Solana-related products have slowed but remain positive, while regulatory developments are drawing interest to tokenized stocks on Solana.",
-  "ctxTalking": "• Lower-stake Solana validators are losing a larger share of vote credit rewards after the slot time cut to 250ms.\n• US crypto ETF inflows have cooled sharply, though Solana funds still saw net positive movement.\n• The SEC’s innovation exemption is enabling tokenized stocks to trade on Solana’s blockchain.",
-  "ctxMatters": "Solana’s slot time changes are affecting validator economics, especially for smaller participants. ETF inflow trends may influence institutional sentiment toward Solana. Regulatory clarity around tokenized stocks could expand Solana’s use cases and attract new builders and users.",
-  "ctxSignal": "Signal: The reward distribution shift among validators and the SEC’s exemption for tokenized equities on Solana.\nNoise: Short-term ETF inflow fluctuations without clear long-term direction.",
-  "ctxGlossary": "Slot time — The target interval for producing new blocks on Solana.\nVote credits — Rewards given to validators for participating in consensus.",
+  "date": "2026-09-30",
+  "generated_at_utc": "2026-09-30T13:19:40.741Z",
+  "ctxMarket": "Attention has shifted to the slowdown in US crypto ETF inflows after a record week, with Solana among the assets seeing reduced fund activity. Technical developments and regulatory changes are also drawing focus within the Solana ecosystem.",
+  "ctxTalking": "• US crypto ETF inflows dropped sharply, but Solana funds remain active.\n• Solana reduced its slot time target to 250ms, with early analysis on network effects.\n• The SEC’s innovation exemption enables tokenized stocks to trade on Solana.",
+  "ctxMatters": "ETF inflow trends can influence perceptions of institutional interest in Solana.  \nSlot time reduction may affect transaction speed and network performance.  \nThe SEC exemption could expand Solana’s use cases into regulated equities, drawing new participants.",
+  "ctxSignal": "Signal: Regulatory changes and technical upgrades are directly impacting Solana’s ecosystem and potential adoption.\nNoise: Short-term ETF inflow fluctuations without broader context.",
+  "ctxGlossary": "Slot time — The interval at which Solana produces new blocks (now targeted at 250ms).\nTokenized shares — Traditional stocks represented and traded as blockchain tokens.",
   "readMore": [
-    {
-      "title": "Solana’s 250ms data shows lower-stake validators lost a larger share of reward-linked vote credits",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/solana-250ms-validator-vote-credits"
-    },
     {
       "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
       "source": "Cointelegraph",

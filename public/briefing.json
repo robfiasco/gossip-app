@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
@@ -10,16 +10,7 @@
       "source": "Decrypt",
       "date": "2026-09-29",
       "url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
-      "whyYouShouldCare": "OpenAI's advancements in AI agents could enhance Solana's ecosystem by attracting developers seeking to integrate AI capabilities into decentralized applications."
-    },
-    {
-      "type": "INFRA",
-      "title": "Solana’s 250ms data shows lower-stake validators lost a larger share of reward-linked vote credits",
-      "category": "INFRA",
-      "source": "CryptoSlate",
-      "date": "2026-09-29",
-      "url": "https://cryptoslate.com/solana-250ms-validator-vote-credits",
-      "whyYouShouldCare": "The decline in reward-linked vote credits for lower-stake validators may impact their participation and influence, affecting overall network decentralization on Solana."
+      "whyYouShouldCare": "OpenAI's advancements in AI agents could enhance Solana's ecosystem by attracting developers and fostering innovative applications, potentially increasing network activity."
     },
     {
       "type": "APPS",
@@ -28,7 +19,16 @@
       "source": "Cointelegraph",
       "date": "2026-09-29",
       "url": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp",
-      "whyYouShouldCare": "The cooling of US crypto ETF inflows could signal a shift in institutional interest, potentially influencing liquidity and investment dynamics within the Solana ecosystem."
+      "whyYouShouldCare": "The recent cooling of US crypto ETF inflows may impact overall market liquidity, influencing Solana's price dynamics and investor sentiment."
+    },
+    {
+      "type": "APPS",
+      "title": "Slot Time Reduction Effects",
+      "category": "APPS",
+      "source": "Solana News",
+      "date": "2026-09-28",
+      "url": "https://solana.com/news/slot-time-reduction-effects",
+      "whyYouShouldCare": "The reduction in slot time on Solana could improve transaction efficiency, enhancing user experience and potentially driving higher usage across decentralized applications."
     }
   ]
 }
