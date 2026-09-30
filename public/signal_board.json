@@ -1,21 +1,21 @@
 {
   "date": "2026-09-30",
-  "generated_at_utc": "2026-09-30T13:19:40.741Z",
-  "ctxMarket": "Attention has shifted to the slowdown in US crypto ETF inflows after a record week, with Solana among the assets seeing reduced fund activity. Technical developments and regulatory changes are also drawing focus within the Solana ecosystem.",
-  "ctxTalking": "• US crypto ETF inflows dropped sharply, but Solana funds remain active.\n• Solana reduced its slot time target to 250ms, with early analysis on network effects.\n• The SEC’s innovation exemption enables tokenized stocks to trade on Solana.",
-  "ctxMatters": "ETF inflow trends can influence perceptions of institutional interest in Solana.  \nSlot time reduction may affect transaction speed and network performance.  \nThe SEC exemption could expand Solana’s use cases into regulated equities, drawing new participants.",
-  "ctxSignal": "Signal: Regulatory changes and technical upgrades are directly impacting Solana’s ecosystem and potential adoption.\nNoise: Short-term ETF inflow fluctuations without broader context.",
-  "ctxGlossary": "Slot time — The interval at which Solana produces new blocks (now targeted at 250ms).\nTokenized shares — Traditional stocks represented and traded as blockchain tokens.",
+  "generated_at_utc": "2026-09-30T22:49:46.609Z",
+  "ctxMarket": "Attention is on new infrastructure and product launches within the Solana ecosystem, with a focus on payments and media applications. Recent leadership appointments and technical upgrades are also drawing interest.",
+  "ctxTalking": "• Open USD launches on Solana, enabling businesses to mint and burn dollars 1:1 with over $1 billion in liquidity.\n• Decrypt and Myriad introduce The Information Exchange, aiming to build a connected media ecosystem on Solana.\n• Solana reduces slot times to 250ms, with analysis on on-chain impacts.",
+  "ctxMatters": "Open USD’s launch signals growing stablecoin infrastructure and liquidity options for businesses on Solana.  \nThe Information Exchange highlights expanding use cases beyond finance, targeting media and content distribution.  \nSlot time reduction may affect transaction speed and network performance, relevant for developers and high-frequency users.",
+  "ctxSignal": "Signal: Major stablecoin and media platform launches, plus technical improvements, indicate evolving Solana use cases.\nNoise: Speculation around immediate market impact from leadership changes without concrete outcomes.",
+  "ctxGlossary": "Slot — A unit of time in Solana during which a block can be produced.\nOpen USD — A stablecoin now live on Solana, redeemable 1:1 for US dollars.",
   "readMore": [
     {
-      "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp"
+      "title": "Open USD Is Live on Solana",
+      "source": "Solana News",
+      "url": "https://solana.com/news/open-usd-is-live-on-solana"
     },
     {
-      "title": "Slot Time Reduction Effects",
-      "source": "Solana News",
-      "url": "https://solana.com/news/slot-time-reduction-effects"
+      "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr"
     }
   ]
 }
