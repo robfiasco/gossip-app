@@ -1,46 +1,11 @@
 [
   {
-    "id": "66ac254e90e002ea862c4b257cb606d2830e178c",
-    "title": "Signal Board Summary 2026-09-30",
-    "url": "",
-    "source": "signal-board",
-    "firstSeenAt": "2026-09-30T22:49:46.611Z",
-    "lastSeenAt": "2026-09-30T22:49:46.611Z",
-    "sectionShown": "signal",
-    "topicTags": [
-      "signal-board"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "70b8ee040023dec875a8dc3b4f740e2605a76533",
-    "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
-    "url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-09-29T22:49:48.925Z",
-    "lastSeenAt": "2026-09-30T22:49:40.706Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "openai",
-      "gave",
-      "agents",
-      "their",
-      "computers",
-      "devday",
-      "2026",
-      "here"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
     "id": "e4ba6a05653b2e3c9ab9e7b654dfeb1bd4470268",
     "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
     "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
     "source": "Decrypt",
     "firstSeenAt": "2026-09-30T22:49:40.706Z",
-    "lastSeenAt": "2026-09-30T22:49:40.706Z",
+    "lastSeenAt": "2026-10-01T14:09:16.630Z",
     "sectionShown": "briefing",
     "topicTags": [
       "introducing",
@@ -56,12 +21,33 @@
     "updateReason": null
   },
   {
+    "id": "70b8ee040023dec875a8dc3b4f740e2605a76533",
+    "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+    "url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
+    "source": "Decrypt",
+    "firstSeenAt": "2026-09-29T22:49:48.925Z",
+    "lastSeenAt": "2026-10-01T14:09:16.629Z",
+    "sectionShown": "briefing",
+    "topicTags": [
+      "openai",
+      "gave",
+      "agents",
+      "their",
+      "computers",
+      "devday",
+      "2026",
+      "here"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "c0afa905c2659470b9aefe8e27c65f7dde591c32",
     "title": "Open USD Is Live on Solana",
     "url": "https://solana.com/news/open-usd-is-live-on-solana",
     "source": "Solana News",
     "firstSeenAt": "2026-09-30T22:49:40.705Z",
-    "lastSeenAt": "2026-09-30T22:49:40.705Z",
+    "lastSeenAt": "2026-10-01T14:09:16.629Z",
     "sectionShown": "briefing",
     "topicTags": [
       "open",
@@ -72,6 +58,20 @@
       "mint",
       "burn",
       "dollars"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
+    "id": "66ac254e90e002ea862c4b257cb606d2830e178c",
+    "title": "Signal Board Summary 2026-09-30",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-09-30T22:49:46.611Z",
+    "lastSeenAt": "2026-09-30T22:49:46.611Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
     ],
     "majorUpdate": false,
     "updateReason": null
@@ -135,69 +135,6 @@
       "stake",
       "validators",
       "lost"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "4e2a326e3f346a3b8270f0da77ed5fa93b205df6",
-    "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
-    "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
-    "source": "CoinDesk",
-    "firstSeenAt": "2026-09-28T14:55:01.009Z",
-    "lastSeenAt": "2026-09-29T13:42:47.706Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "etfs",
-      "draw",
-      "record",
-      "million",
-      "week",
-      "bitwise",
-      "takes"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "4054151615121005958ad9211d4205a272cf5c9f",
-    "title": "Solana: Can record $17B stablecoin supply push SOL above $120?",
-    "url": "https://ambcrypto.com/solana-can-record-17b-stablecoin-supply-push-sol-above-120",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-09-28T23:40:09.197Z",
-    "lastSeenAt": "2026-09-28T23:40:09.197Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "solana",
-      "record",
-      "stablecoin",
-      "supply",
-      "push",
-      "above",
-      "could",
-      "approaching"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "c1bd63d63b6e8f3b3269fc49d8e3dde1604be899",
-    "title": "Jupiter crypto drops 9% despite strong showing in Solana attack study",
-    "url": "https://ambcrypto.com/jupiter-crypto-drops-9-despite-strong-showing-in-solana-attack-study",
-    "source": "AMB Crypto",
-    "firstSeenAt": "2026-09-28T23:40:09.197Z",
-    "lastSeenAt": "2026-09-28T23:40:09.197Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "jupiter",
-      "crypto",
-      "drops",
-      "despite",
-      "strong",
-      "showing",
-      "solana",
-      "attack"
     ],
     "majorUpdate": false,
     "updateReason": null
