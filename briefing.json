@@ -1,8 +1,26 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "Solana enters US banking with 90 North Dakota banks leading it",
+      "category": "APPS",
+      "source": "CryptoSlate",
+      "date": "2026-10-02",
+      "url": "https://cryptoslate.com/solana-enters-us-banking-with-90-north-dakota-banks-lead-it",
+      "whyYouShouldCare": "The integration of Solana with North Dakota banks enhances its legitimacy and could drive increased liquidity and user adoption within the ecosystem."
+    },
+    {
+      "type": "APPS",
+      "title": "PropAMMs lower Solana trade costs, and public pool returns crash",
+      "category": "APPS",
+      "source": "CryptoSlate",
+      "date": "2026-10-02",
+      "url": "https://cryptoslate.com/propamms-lower-solana-trade-costs-and-public-pool-returns-crash",
+      "whyYouShouldCare": "The introduction of PropAMMs reduces trading costs on Solana, but the decline in public pool returns may impact liquidity incentives and user engagement."
+    },
     {
       "type": "MARKET",
       "title": "Open USD Is Live on Solana",
@@ -10,25 +28,7 @@
       "source": "Solana News",
       "date": "2026-09-30",
       "url": "https://solana.com/news/open-usd-is-live-on-solana",
-      "whyYouShouldCare": "The launch of Open USD on Solana enhances liquidity options, potentially attracting more users and increasing ecosystem engagement."
-    },
-    {
-      "type": "INFRA",
-      "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
-      "category": "INFRA",
-      "source": "Decrypt",
-      "date": "2026-09-30",
-      "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
-      "whyYouShouldCare": "The Information Exchange on Solana aims to improve data accessibility, which could boost developer activity and overall platform utility."
-    },
-    {
-      "type": "RISK",
-      "title": "Wall Street arrived in NEAR just as a $4 billion-a-month app got hacked",
-      "category": "RISK",
-      "source": "CryptoSlate",
-      "date": "2026-10-01",
-      "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked",
-      "whyYouShouldCare": "The NEAR hack highlights systemic risks in the crypto space, underscoring the importance of security measures for maintaining user trust across all platforms, including Solana."
+      "whyYouShouldCare": "The launch of Open USD on Solana expands the ecosystem's stablecoin offerings, potentially increasing transaction volume and attracting new users."
     }
   ]
 }

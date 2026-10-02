@@ -1,12 +1,17 @@
 {
-  "date": "2026-10-01",
-  "generated_at_utc": "2026-10-01T22:59:29.654Z",
-  "ctxMarket": "Attention is on new infrastructure launches and protocol upgrades. Recent developments highlight Solana’s ongoing push for faster transactions and broader ecosystem utility.",
-  "ctxTalking": "• Open USD launches on Solana, enabling cost-free minting and burning with significant liquidity backing.\n• Decrypt and Myriad introduce The Information Exchange, aiming to connect media using the MYR token.\n• Solana reduces slot times to 250ms, with early analysis focusing on on-chain performance impacts.",
-  "ctxMatters": "Open USD could streamline stablecoin operations for businesses on Solana. The Information Exchange signals growing interest in decentralized media platforms. Faster slot times may improve network responsiveness, potentially affecting user experience and application performance.",
-  "ctxSignal": "Signal: Major stablecoin and media infrastructure launches, plus measurable protocol upgrades.\nNoise: Speculation about long-term impacts without direct on-chain evidence.",
-  "ctxGlossary": "Slot — A unit of time in Solana’s consensus, now shortened to 250ms.\nOpen USD — A stablecoin allowing 1:1 minting and burning for dollars on Solana.",
+  "date": "2026-10-02",
+  "generated_at_utc": "2026-10-02T13:32:31.832Z",
+  "ctxMarket": "Attention is on Solana’s expansion into US banking, with a consortium of 90 North Dakota banks integrating Solana infrastructure. Technical changes and new stablecoin products are also drawing focus from institutional and developer circles.",
+  "ctxTalking": "• Solana’s entry into US banking via Roughrider and VersaBank USA, with institutional access but undisclosed payment volumes\n• PropAMMs reducing trade costs for SOL/USDC, while passive pool returns have sharply declined\n• Launch of Open USD on Solana, enabling free mint/burn for businesses with significant liquidity commitments",
+  "ctxMatters": "Solana’s integration with US banks signals growing institutional adoption and could influence payment infrastructure. Lower trading costs may attract more professional market makers, but declining pool returns could impact passive DeFi participants. The arrival of Open USD adds another stablecoin option, potentially increasing on-chain liquidity and business use cases.",
+  "ctxSignal": "Signal: Institutional banking adoption and changes in trading infrastructure are shaping Solana’s ecosystem.\nNoise: Public pool return volatility without clear long-term trend data.",
+  "ctxGlossary": "PropAMM — Professional Automated Market Maker, a trading pool optimized for efficient execution\nSlot Time — The interval at which Solana produces new blocks (now 250ms, down from 400ms)",
   "readMore": [
+    {
+      "title": "Solana enters US banking with 90 North Dakota banks leading it",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/solana-enters-us-banking-with-90-north-dakota-banks-lead-it"
+    },
     {
       "title": "Open USD Is Live on Solana",
       "source": "Solana News",
