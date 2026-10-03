@@ -1,11 +1,25 @@
 [
   {
+    "id": "83dd7e0cf4402cedcafa19334c47e926d6591b22",
+    "title": "Signal Board Summary 2026-10-03",
+    "url": "",
+    "source": "signal-board",
+    "firstSeenAt": "2026-10-03T12:12:25.405Z",
+    "lastSeenAt": "2026-10-03T12:12:25.405Z",
+    "sectionShown": "signal",
+    "topicTags": [
+      "signal-board"
+    ],
+    "majorUpdate": false,
+    "updateReason": null
+  },
+  {
     "id": "e0d5817b9fee87fc5a5d265dff3528a4e19efeab",
     "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
     "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
     "source": "The Block",
     "firstSeenAt": "2026-10-02T22:48:26.013Z",
-    "lastSeenAt": "2026-10-02T22:48:26.013Z",
+    "lastSeenAt": "2026-10-03T12:12:18.119Z",
     "sectionShown": "briefing",
     "topicTags": [
       "drift",
@@ -26,7 +40,7 @@
     "url": "https://cryptopotato.com/north-dakotas-roughrider-coin-goes-live-on-fiserv-and-solana",
     "source": "CryptoPotato",
     "firstSeenAt": "2026-10-02T22:48:26.013Z",
-    "lastSeenAt": "2026-10-02T22:48:26.013Z",
+    "lastSeenAt": "2026-10-03T12:12:18.119Z",
     "sectionShown": "briefing",
     "topicTags": [
       "north",
@@ -100,27 +114,6 @@
       "public",
       "pool",
       "returns"
-    ],
-    "majorUpdate": false,
-    "updateReason": null
-  },
-  {
-    "id": "e4ba6a05653b2e3c9ab9e7b654dfeb1bd4470268",
-    "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
-    "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
-    "source": "Decrypt",
-    "firstSeenAt": "2026-09-30T22:49:40.706Z",
-    "lastSeenAt": "2026-10-01T22:59:22.989Z",
-    "sectionShown": "briefing",
-    "topicTags": [
-      "introducing",
-      "information",
-      "exchange",
-      "solana",
-      "powered",
-      "decrypt",
-      "destination",
-      "myriad"
     ],
     "majorUpdate": false,
     "updateReason": null
