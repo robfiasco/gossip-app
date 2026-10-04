@@ -1,26 +1,26 @@
 {
   "date": "2026-10-04",
-  "generated_at_utc": "2026-10-04T13:02:04.769Z",
-  "ctxMarket": "Attention is on Solana's technical upgrades, new stablecoin launches, and real-world asset integrations. Hiring demand in crypto is up, but application rates are lagging.",
-  "ctxTalking": "• Crypto job postings have tripled, with Solana among the top requested skills.\n• North Dakota’s Roughrider Coin is now live on Solana, integrating with over 90 regional banks.\n• Open USD stablecoin launches on Solana, with significant liquidity committed.",
-  "ctxMatters": "Solana’s growing presence in both traditional finance and stablecoin infrastructure signals expanding real-world use cases. Technical improvements, such as faster slot times, may impact network performance and user experience. The talent gap could affect project growth and support.",
-  "ctxSignal": "Signal: Institutional integrations and stablecoin launches on Solana reflect ongoing adoption.  \nNoise: Short-term price moves for tokens like PUMP are drawing attention but lack broader impact.",
-  "ctxGlossary": "Slot Time — The interval at which Solana produces new blocks.\nStablecoin — A cryptocurrency pegged to a stable asset, like the US dollar.",
+  "generated_at_utc": "2026-10-04T22:11:16.950Z",
+  "ctxMarket": "Attention is focused on Solana’s growing role in cross-chain liquidity and infrastructure upgrades, alongside developments in hack recovery and stablecoin launches. Recent exploit recoveries and new asset launches are shaping user sentiment.",
+  "ctxTalking": "• Drift hack recovery opens with initial payouts near one cent per dollar lost, ending future pool participation for redeemed tokens\n• Ondo’s tokenized asset liquidity is spreading across chains, with Solana gaining share as Ethereum’s drops to 52%\n• Open USD stablecoin launches on Solana, offering fee-free minting and burning with significant liquidity",
+  "ctxMatters": "Solana’s increasing share in cross-chain liquidity highlights its expanding ecosystem. New stablecoin infrastructure and faster slot times may improve user experience and attract more institutional activity. Hack recovery processes and their terms are influencing trust and participation in DeFi protocols.",
+  "ctxSignal": "Signal: Solana’s infrastructure upgrades and expanding liquidity footprint are driving real usage and institutional interest.\nNoise: Speculation around full Drift hack repayment timelines remains unresolved.",
+  "ctxGlossary": "DFX — Token used for Drift exploit recovery claims\nSlot — The basic time unit for Solana block production\nOpen USD — A stablecoin now live on Solana, redeemable 1:1 for US dollars",
   "readMore": [
+    {
+      "title": "Drift hack recovery opened near one cent per dollar lost",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/drift-hack-recovery-opened-near-one-cent-per-dollar-lost"
+    },
+    {
+      "title": "Ondo liquidity spreads across chains – Solana leads, Ethereum’s share drops to 52%",
+      "source": "AMB Crypto",
+      "url": "https://ambcrypto.com/ondo-liquidity-spreads-across-chains-solana-leads-ethereums-share-drops-to-52"
+    },
     {
       "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall"
-    },
-    {
-      "title": "Pump.fun sees $8.3M in long liquidations – Can PUMP defend $0.005?",
-      "source": "AMB Crypto",
-      "url": "https://ambcrypto.com/pump-fun-sees-8-3m-in-long-liquidations-can-pump-defend-0-005"
-    },
-    {
-      "title": "North Dakota’s Roughrider Coin Goes Live on Fiserv and Solana",
-      "source": "CryptoPotato",
-      "url": "https://cryptopotato.com/north-dakotas-roughrider-coin-goes-live-on-fiserv-and-solana"
     }
   ]
 }
