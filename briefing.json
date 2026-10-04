@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
@@ -10,16 +10,7 @@
       "source": "Solana News",
       "date": "2026-10-02",
       "url": "https://solana.com/news/solana-ai-the-democratization-layer",
-      "whyYouShouldCare": "Solana's integration with AI could enhance its ecosystem by attracting new users and projects, potentially increasing SOL's utility and demand."
-    },
-    {
-      "type": "APPS",
-      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-10-03",
-      "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-      "whyYouShouldCare": "The surge in crypto job postings indicates growing industry interest, but declining applications may signal a skills gap that could impact Solana's talent acquisition."
+      "whyYouShouldCare": "The integration of AI with Solana could enhance its usability and attract more developers, potentially increasing network activity and liquidity."
     },
     {
       "type": "RISK",
@@ -28,7 +19,16 @@
       "source": "The Block",
       "date": "2026-10-02",
       "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
-      "whyYouShouldCare": "Drift's low recovery payouts highlight vulnerabilities in the ecosystem, which could affect user confidence and liquidity in Solana-based platforms."
+      "whyYouShouldCare": "Drift's limited recovery efforts highlight ongoing vulnerabilities in DeFi on Solana, which may impact user confidence and overall ecosystem stability."
+    },
+    {
+      "type": "APPS",
+      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "category": "APPS",
+      "source": "CoinDesk",
+      "date": "2026-10-03",
+      "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+      "whyYouShouldCare": "The surge in crypto job postings indicates growing interest in the sector, but a decline in applications could signal challenges in attracting talent to the Solana ecosystem."
     }
   ]
 }
