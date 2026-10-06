@@ -4,31 +4,31 @@
   "subtitle": "Top links from trusted desks",
   "items": [
     {
+      "type": "MARKET",
+      "title": "Solana Foundation targets settlement in seconds with DvP launch",
+      "category": "MARKET",
+      "source": "Cointelegraph",
+      "date": "2026-10-06",
+      "url": "https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp",
+      "whyYouShouldCare": "The Solana Foundation's new DvP launch aims to enhance transaction speed, potentially increasing Solana's attractiveness for high-frequency trading and institutional use."
+    },
+    {
+      "type": "ECOSYSTEM",
+      "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+      "category": "ECOSYSTEM",
+      "source": "CoinDesk",
+      "date": "2026-10-06",
+      "url": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+      "whyYouShouldCare": "The program for rapid institutional trade settlements, developed with JPMorgan, could significantly boost Solana's credibility and usage in the financial sector."
+    },
+    {
       "type": "APPS",
-      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+      "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
       "category": "APPS",
       "source": "Decrypt",
-      "date": "2026-10-05",
-      "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
-      "whyYouShouldCare": "The $3 million investment in Solana by DeFi Development Corp indicates confidence in the ecosystem, potentially boosting liquidity and attracting further development."
-    },
-    {
-      "type": "MARKET",
-      "title": "Solana lost ground to Ethereum in Q3 DEX volume – An early sign of SOL/ETH’s Q4 breakout?",
-      "category": "MARKET",
-      "source": "AMB Crypto",
-      "date": "2026-10-05",
-      "url": "https://ambcrypto.com/solana-lost-ground-to-ethereum-in-q3-dex-volume-an-early-sign-of-sol-eths-q4-breakout",
-      "whyYouShouldCare": "Solana's decline in DEX volume compared to Ethereum may signal competitive challenges, but could also set the stage for a rebound in Q4."
-    },
-    {
-      "type": "MARKET",
-      "title": "Shiba Inu lands on Solana after $190B DEX quarter – Q4 memecoin cycle next?",
-      "category": "MARKET",
-      "source": "AMB Crypto",
-      "date": "2026-10-05",
-      "url": "https://ambcrypto.com/shiba-inu-lands-on-solana-after-190b-dex-quarter-q4-memecoin-cycle-next",
-      "whyYouShouldCare": "The arrival of Shiba Inu on Solana, following a strong DEX quarter, could enhance user engagement and drive liquidity in the memecoin sector."
+      "date": "2026-10-06",
+      "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+      "whyYouShouldCare": "Introducing an institutional settlement standard with input from J.P. Morgan positions Solana as a competitive player in the blockchain space for institutional finance."
     }
   ]
 }
