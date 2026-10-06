@@ -1,8 +1,26 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "title": "TODAY'S SOLANA BRIEFING",
   "subtitle": "Top links from trusted desks",
   "items": [
+    {
+      "type": "APPS",
+      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+      "category": "APPS",
+      "source": "Decrypt",
+      "date": "2026-10-05",
+      "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+      "whyYouShouldCare": "The $3 million investment in Solana by DeFi Development Corp indicates confidence in the ecosystem, potentially boosting liquidity and attracting further development."
+    },
+    {
+      "type": "MARKET",
+      "title": "Solana lost ground to Ethereum in Q3 DEX volume – An early sign of SOL/ETH’s Q4 breakout?",
+      "category": "MARKET",
+      "source": "AMB Crypto",
+      "date": "2026-10-05",
+      "url": "https://ambcrypto.com/solana-lost-ground-to-ethereum-in-q3-dex-volume-an-early-sign-of-sol-eths-q4-breakout",
+      "whyYouShouldCare": "Solana's decline in DEX volume compared to Ethereum may signal competitive challenges, but could also set the stage for a rebound in Q4."
+    },
     {
       "type": "MARKET",
       "title": "Shiba Inu lands on Solana after $190B DEX quarter – Q4 memecoin cycle next?",
@@ -10,25 +28,7 @@
       "source": "AMB Crypto",
       "date": "2026-10-05",
       "url": "https://ambcrypto.com/shiba-inu-lands-on-solana-after-190b-dex-quarter-q4-memecoin-cycle-next",
-      "whyYouShouldCare": "Shiba Inu's integration into Solana could enhance liquidity and attract new users, signaling potential growth in the memecoin sector."
-    },
-    {
-      "type": "APPS",
-      "title": "DeFi Development sees NAV per share more than doubling, holds 2.56 million SOL",
-      "category": "APPS",
-      "source": "The Block",
-      "date": "2026-10-05",
-      "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
-      "whyYouShouldCare": "The significant increase in NAV per share and SOL holdings indicates strong DeFi growth on Solana, which may boost ecosystem confidence and usage."
-    },
-    {
-      "type": "APPS",
-      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-      "category": "APPS",
-      "source": "CoinDesk",
-      "date": "2026-10-03",
-      "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-      "whyYouShouldCare": "The surge in crypto job postings reflects growing industry interest, though declining applications may indicate a skills gap that could impact talent acquisition."
+      "whyYouShouldCare": "The arrival of Shiba Inu on Solana, following a strong DEX quarter, could enhance user engagement and drive liquidity in the memecoin sector."
     }
   ]
 }
